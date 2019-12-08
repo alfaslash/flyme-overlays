@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="isTablet">false</bool>
+    <bool name="mz_split_action_bar_is_narrow">true</bool>
+    <bool name="zen_card_face_table_aspect_ratio_enable">false</bool>
+    <bool name="zen_menu_always_fullscreen">true</bool>
+    <bool name="zen_new_posts_use_shadow_darktheme">false</bool>
+    <bool name="zen_new_posts_use_shadow_lighttheme">false</bool>
+    <bool name="zen_square_content_image_supported">true</bool>
+</resources>
