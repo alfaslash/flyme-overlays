@@ -29,7 +29,7 @@
     <string name="a0">Отмена</string>
     <string name="a1">Отмена</string>
     <string name="a2">Отменено</string>
-    <string name="a3">Отмена</string>
+    <string name="a3">Отменить</string>
     <string name="a4">Обновление</string>
     <string name="a5">Избранное</string>
     <string name="a6">%1$d дней спустя</string>
@@ -142,8 +142,8 @@
     <string name="d5">Отклонить</string>
     <string name="d6">Отклонить</string>
     <string name="d7">%1$s требует %2$s %3$d разрешен.</string>
-    <string name="d8">Запрос следующих разрешений</string>
-    <string name="d9" />
+    <string name="d8">%1$s запрашивает резрегения %2$s %3$d</string>
+    <string name="d9">Запрос следующих разрешения</string>
     <string name="d_">Другое</string>
     <string name="da">ОК</string>
     <string name="db">Push-уведомления</string>
@@ -434,7 +434,7 @@
     <string name="ls">Домашняя Карта</string>
     <string name="lt">Текст в Сообщении</string>
     <string name="lu">Приложения быстрого запуска</string>
-    <string name="lv">Имя элементов</string>
+    <string name="lv">Имена элементов</string>
     <string name="lw">Подфункции установленных приложений</string>
     <string name="lx">Синхронизировать историю поиска</string>
     <string name="ly">Объединить историю поиска из других приложений</string>

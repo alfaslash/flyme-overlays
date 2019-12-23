@@ -69,12 +69,12 @@
     <string name="specail_number_dianli">国家电力公司</string>
     <string name="specail_number_nongye">中国农业银行</string>
     <string name="specail_number_meizu">魅族客服热线</string>
-    <string name="mz_numeric_date_format_ymd">yyyy/M/d, EEE</string>
-    <string name="mz_numeric_date_format_ydm">yyyy/d/M, EEE</string>
-    <string name="mz_numeric_date_format_mdy">EEE, M/d/yyyy</string>
-    <string name="mz_numeric_date_format_myd">EEE, M/yyyy/d</string>
-    <string name="mz_numeric_date_format_dmy">EEE, d/M/yyyy</string>
-    <string name="mz_numeric_date_format_dym">EEE, d/yyyy/M</string>
+    <string name="mz_numeric_date_format_ymd">yyyy.M.d, EEE</string>
+    <string name="mz_numeric_date_format_ydm">yyyy.d.M, EEE</string>
+    <string name="mz_numeric_date_format_mdy">EEE, M.d.yyyy</string>
+    <string name="mz_numeric_date_format_myd">EEE, M.yyyy.d</string>
+    <string name="mz_numeric_date_format_dmy">EEE, d.M/yyyy</string>
+    <string name="mz_numeric_date_format_dym">EEE, d.yyyy.M</string>
     <string name="lock_month_day">MMM d</string>
     <string name="lock_week">yyyy年M月d日(EEE)</string>
     <string name="pattern_hour_minute" formatted="false">%H:%M</string>

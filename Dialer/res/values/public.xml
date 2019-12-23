@@ -3940,6 +3940,8 @@
     <public type="dimen" name="mc_multiwaveview_target_placement_radius" id="0x7f070213" />
     <public type="dimen" name="mc_picker_scroll_normal_item_height" id="0x7f07025d" />
     <public type="dimen" name="mc_picker_scroll_select_item_height" id="0x7f07025e" />
+    <public type="drawable" name="design_ic_visibility" id="0x7f080066" />
+    <public type="drawable" name="design_ic_visibility_off" id="0x7f080067" />
     <public type="drawable" name="$avd_hide_password__0" id="0x7f080000" />
     <public type="drawable" name="$avd_hide_password__1" id="0x7f080001" />
     <public type="drawable" name="$avd_hide_password__2" id="0x7f080002" />
@@ -5376,8 +5378,6 @@
     <public type="drawable" name="reflesh_on" id="0x7f080594" />
     <public type="drawable" name="s_thumb" id="0x7f080595" />
     <public type="drawable" name="start_window_backgound" id="0x7f080598" />
-    <public type="drawable" name="design_ic_visibility" id="0x7f080066" />
-    <public type="drawable" name="design_ic_visibility_off" id="0x7f080067" />
     <public type="fraction" name="contact_tile_height_to_width_ratio" id="0x7f090000" />
     <public type="fraction" name="letter_to_tile_ratio" id="0x7f090001" />
     <public type="id" name="ALT" id="0x7f0a0000" />
@@ -6783,8 +6783,8 @@
     <public type="menu" name="mzc_vcard_import_action_options" id="0x7f0e0012" />
     <public type="menu" name="mzs_contacts_list" id="0x7f0e0013" />
     <public type="menu" name="mzs_contacts_selection" id="0x7f0e0014" />
-    <public type="mipmap" name="ic_contacts_clr_48cv_44dp" id="0x7f0f0000" />
     <public type="mipmap" name="ic_launcher_phone" id="0x7f0f0001" />
+    <public type="mipmap" name="ic_contacts_clr_48cv_44dp" id="0x7f0f0000" />
     <public type="mipmap" name="ic_local_account" id="0x7f0f0002" />
     <public type="mipmap" name="ic_sim_account" id="0x7f0f0003" />
     <public type="plurals" name="group_list_num_contacts_in_group" id="0x7f100000" />

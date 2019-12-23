@@ -341,13 +341,13 @@
     <string name="bluetooth_sap_profile_summary_connected">Подключено к точке доступа</string>
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM-карте</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука при передаче через Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"\"\"Аудиокодек для Bluetooth: разрядность\"\""</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Аудиокодек для Bluetooth: разрядность</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"\"\"Аудиокодек для Bluetooth: режим канала\"\""</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Аудиокодек для Bluetooth: режим канала</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Аудиокодек LDAC для Bluetooth: качество воспроизведения</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"\"\"Аудиокодек LDAC для Bluetooth: качество воспроизведения\"\""</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Аудиокодек LDAC для Bluetooth: качество воспроизведения</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации при передаче через Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"\"\"Аудиокодек для Bluetooth: частота дискретизации\"\""</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Аудиокодек для Bluetooth: частота дискретизации</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Потоковая передача: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Аудиокодек для передачи через Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Аудиокодек для Bluetooth</string>
@@ -396,7 +396,7 @@
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено к %1$s</string>
     <string name="content_description_menu_button">Меню</string>
-    <string name="convert_to_fbe_warning">"\"\"Перейти к шифрованию отдельных файлов.\nВнимание! Все ваши данные будут удалены.\nЭто альфа-версия функции. Возможны ошибки.\nНажмите \"Очистить и перейти…\".\"\""</string>
+    <string name="convert_to_fbe_warning">Перейти к шифрованию отдельных файлов.\nВнимание! Все ваши данные будут удалены.\nЭто альфа-версия функции. Возможны ошибки.\nНажмите \"Очистить и перейти…\".</string>
     <string name="convert_to_file_encryption">Переход к шифрованию файлов</string>
     <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
@@ -407,7 +407,7 @@
     <string name="daltonizer_mode_tritanomaly">Тританомалия (синий/желтый)</string>
     <string name="daltonizer_type_overridden">Новая настройка: %1$s</string>
     <string name="data_saver">Экономия трафика</string>
-    <string name="data_usage_disabled_dialog">"\"\"Достигнут установленный вами лимит на передачу мобильных данных.\nЕсли вы продолжите, может взиматься дополнительная плата.\"\""</string>
+    <string name="data_usage_disabled_dialog">Достигнут установленный вами лимит на передачу мобильных данных.\nЕсли вы продолжите, может взиматься дополнительная плата.</string>
     <string name="data_usage_disabled_dialog_3g_title">Передача данных 2G и 3G приостановлена</string>
     <string name="data_usage_disabled_dialog_4g_title">Передача данных 4G приостановлена</string>
     <string name="data_usage_disabled_dialog_enable">Возобновить</string>
@@ -609,13 +609,13 @@
     <string name="installer_cd_button_title">Установить приложение</string>
     <string name="intercepted_notification">Неважные уведомления</string>
     <string name="interruption_level_alarms">Только будильник</string>
-    <string name="interruption_level_alarms_twoline">"\"\"Только будильник\"\""</string>
+    <string name="interruption_level_alarms_twoline">Только будильник</string>
     <string name="interruption_level_none">Полная тишина</string>
-    <string name="interruption_level_none_twoline">"\"\"Полная тишина\"\""</string>
+    <string name="interruption_level_none_twoline">Полная тишина</string>
     <string name="interruption_level_none_with_warning">Полная тишина. Также будет выключен звук в программах чтения с экрана.</string>
     <string name="interruption_level_priority">Только важные</string>
-    <string name="interruption_level_priority_twoline">"\"\"Только важные\"\""</string>
-    <string name="invalid_charger">"\"\"Зарядка через порт USB не поддерживается.\nИспользуйте только зарядное устройство из комплекта поставки.\"\""</string>
+    <string name="interruption_level_priority_twoline">Только важные</string>
+    <string name="invalid_charger">Зарядка через порт USB не поддерживается.\nИспользуйте только зарядное устройство из комплекта поставки.</string>
     <string name="invalid_charger_text">Используйте только зарядное устройство, поставляемое в комплекте с устройством.</string>
     <string name="invalid_charger_title">Зарядка через USB не поддерживается.</string>
     <string name="item_is_selected">%1$s выбрано</string>
@@ -706,7 +706,7 @@
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_palm_rejection_calibrate">Калибровка</string>
-    <string name="keyguard_palm_rejection_calibrate_title">\"Если не было закрыто \"</string>
+    <string name="keyguard_palm_rejection_calibrate_title">Если не было закрыто </string>
     <string name="keyguard_palm_rejection_exit">Двойное нажатие клавиши громкости для выхода</string>
     <string name="keyguard_palm_rejection_text">Не закрывайте верхнюю часть телефона при разблокировке</string>
     <string name="keyguard_palm_rejection_title">Защита от разблокировки</string>
@@ -718,7 +718,7 @@
     <string name="keyguard_password_enter_puk_prompt">PUK-код SIM</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Нажмите для ввода пароля</font></string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN-код.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"\"\"SIM-карта окончательно заблокирована. Чтобы получить новую, обратитесь к своему оператору.\"\""</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">SIM-карта окончательно заблокирована. Чтобы получить новую, обратитесь к своему оператору.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM-карта непригодна.</string>
     <string name="keyguard_plugged_in">Зарядка</string>
     <string name="keyguard_plugged_in_charging_fast">Быстрая зарядка</string>
@@ -738,7 +738,7 @@
     <string name="kg_enter_confirm_pin_hint">Введите PIN-код ещё раз</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Количество неудачных попыток разблокировать телефон: %1$d. Количество оставшихся попыток: %2$d. Если они также будут неуспешными, рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Количество неудачных попыток разблокировать телефон: %1$d. Количество оставшихся попыток: %2$d. Если они также будут неуспешными, аккаунт этого пользователя и все его данные будут удалены.</string>
-    <string name="kg_failed_attempts_almost_at_login">"\"\"Вы %1$d раз неверно указали графический ключ. После %2$d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google. Повтор через %3$d сек.\"\""</string>
+    <string name="kg_failed_attempts_almost_at_login">Вы %1$d раз неверно указали графический ключ. После %2$d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google. Повтор через %3$d сек.</string>
     <string name="kg_failed_attempts_almost_at_wipe">Количество неудачных попыток разблокировать телефон: %1$d. Количество оставшихся попыток: %2$d. Если они также будут неуспешными, настройки телефона будут сброшены, а все его данные – удалены.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Вы %d раз не смогли разблокировать телефон. Рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_now_erasing_user">Вы %d раз не смогли разблокировать телефон. Этот пользователь и все его данные будут удалены.</string>
@@ -781,9 +781,9 @@
     <string name="kg_sim_pin_instructions_multi">Введите PIN-код SIM-карты \"%1$s\"</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
     <string name="kg_too_many_failed_attempts_countdown">Повтор через %d с</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"\"\"Вы %1$d раз неверно указали пароль. Повтор через %2$d сек.\"\""</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"\"\"Вы %1$d раз неверно указали графический ключ. Повтор через %2$d сек.\"\""</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"\"\"Вы %1$d раз неверно указали PIN-код. Повтор через %2$d сек.\"\""</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">Вы %1$d раз неверно указали пароль. Повтор через %2$d сек.</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">Вы %1$d раз неверно указали графический ключ. Повтор через %2$d сек.</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">Вы %1$d раз неверно указали PIN-код. Повтор через %2$d сек.</string>
     <string name="kg_wrong_password">Неверный пароль</string>
     <string name="kg_wrong_pattern">Неправильный графический ключ</string>
     <string name="kg_wrong_pin">Неправильный PIN-код</string>
@@ -901,16 +901,16 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
@@ -982,11 +982,11 @@
     <string name="monitoring_button_view_policies">Условия</string>
     <string name="monitoring_description_app">Запущено приложение \"%1$s\", которое может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами.</string>
     <string name="monitoring_description_app_personal">Запущено приложение \"%1$s\", которое может отслеживать ваши действия в Интернете (выполняемые в личном профиле), включая работу с электронной почтой, приложениями и веб-сайтами.</string>
-    <string name="monitoring_description_app_personal_work">"\"\"Вашим рабочим профилем управляет \"%1$s\". Приложение \"%2$s\" может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами. Приложение \"%3$s\" может отслеживать ваши действия в Интернете, выполняемые в личном профиле.\"\""</string>
-    <string name="monitoring_description_app_work">"\"\"Вашим рабочим профилем управляет \"%1$s\". Приложение \"%2$s\" может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами. За дополнительной информацией обратитесь к своему администратору.\"\""</string>
+    <string name="monitoring_description_app_personal_work">Вашим рабочим профилем управляет \"%1$s\". Приложение \"%2$s\" может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами. Приложение \"%3$s\" может отслеживать ваши действия в Интернете, выполняемые в личном профиле.</string>
+    <string name="monitoring_description_app_work">Вашим рабочим профилем управляет \"%1$s\". Приложение \"%2$s\" может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами. За дополнительной информацией обратитесь к своему администратору.</string>
     <string name="monitoring_description_ca_cert_settings">Доверенные учётные данные</string>
     <string name="monitoring_description_ca_certificate">На этом устройстве установлен центр сертификации. Ваш сетевой трафик может отслеживаться или изменяться.</string>
-    <string name="monitoring_description_device_owned">"\"\"Этим устройством управляет %1$s. Администратор может управлять настройками, корпоративным доступом, приложениями, данными на вашем устройстве, в том числе геоданными, а также просматривать соответствующие сведения. За дополнительной информацией обратитесь к администратору.\"\""</string>
+    <string name="monitoring_description_device_owned">Этим устройством управляет %1$s. Администратор может управлять настройками, корпоративным доступом, приложениями, данными на вашем устройстве, в том числе геоданными, а также просматривать соответствующие сведения. За дополнительной информацией обратитесь к администратору.</string>
     <string name="monitoring_description_do_body">Администратор может контролировать и управлять настройками, корпоративным доступом, приложениями, данными, связанными с вашим устройством, и информацией о местоположении вашего устройства.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение \"%1$s\". Оно может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
@@ -994,18 +994,18 @@
     <string name="monitoring_description_do_learn_more">Подробнее</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила центр сертификации в вашем рабочем профиле. Ваш защищённый сетевой трафик может отслеживаться или изменяться.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш рабочий профиль подключён к %1$s. Может осуществляться контроль вашей сетевой активности, включая эл. почту, приложения и веб-сайты.</string>
-    <string name="monitoring_description_management">"\"\"Управление вашим устройством осуществляется вашей организацией. Ваш администратор может контролировать и управлять настройками, корпоративным доступом, приложениями, данными, связанными с вашим устройством, и информацией о местоположении вашего устройства. Для получения дополнительных сведений обратитесь к администратору.\"\""</string>
+    <string name="monitoring_description_management">Управление вашим устройством осуществляется вашей организацией. Ваш администратор может контролировать и управлять настройками, корпоративным доступом, приложениями, данными, связанными с вашим устройством, и информацией о местоположении вашего устройства. Для получения дополнительных сведений обратитесь к администратору.</string>
     <string name="monitoring_description_management_ca_certificate">Ваша организация установила на этом устройстве центр сертификации. Ваш сетевой трафик может отслеживаться или изменяться.</string>
     <string name="monitoring_description_management_network_logging">Ваш администратор включил сетевое протоколирование, которое отслеживает трафик на вашем устройстве.</string>
-    <string name="monitoring_description_named_management">"\"\"Ваше устройство управляется %1$s. Ваш администратор может контролировать и управлять настройками, корпоративным доступом, приложениями, данными, связанными с вашим устройством, и информацией о местоположении вашего устройства. Для получения дополнительных сведений обратитесь к администратору.\"\""</string>
+    <string name="monitoring_description_named_management">Ваше устройство управляется %1$s. Ваш администратор может контролировать и управлять настройками, корпоративным доступом, приложениями, данными, связанными с вашим устройством, и информацией о местоположении вашего устройства. Для получения дополнительных сведений обратитесь к администратору.</string>
     <string name="monitoring_description_named_vpn">Вы подключились к %1$s. Может осуществляться контроль вашей сетевой активности, включая эл. почту, приложения и веб-сайты.</string>
-    <string name="monitoring_description_network_logging">"\"\"Администратор включил ведение сетевого журнала, чтобы отслеживать трафик на вашем устройстве. Для получения подробной информации обращайтесь к администратору.\"\""</string>
+    <string name="monitoring_description_network_logging">Администратор включил ведение сетевого журнала, чтобы отслеживать трафик на вашем устройстве. Для получения подробной информации обращайтесь к администратору.</string>
     <string name="monitoring_description_personal_profile_named_vpn">Ваш личный профиль подключён к %1$s. Может осуществляться контроль вашей сетевой активности, включая эл. почту, приложения и веб-сайты.</string>
     <string name="monitoring_description_two_named_vpns">Вы подключились к %1$s and %2$s. Может осуществляться контроль вашей сетевой активности, включая эл. почту, приложения и веб-сайты.</string>
-    <string name="monitoring_description_vpn">"\"\"Вы разрешили приложению подключаться к сети VPN. Оно может отслеживать ваши действия на устройстве и в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами.\"\""</string>
-    <string name="monitoring_description_vpn_app_device_owned">"\"\"Вашим корпоративным профилем управляет %1$s. Администратор может управлять настройками, корпоративным доступом, приложениями, данными на вашем устройстве, в том числе геоданными, а также просматривать соответствующие сведения. Приложение %2$s также может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и веб-сайтами. За подробностями обратитесь к своему администратору.\"\""</string>
-    <string name="monitoring_description_vpn_device_owned">"\"\"Этим устройством управляет %1$s. Администратор может управлять настройками, корпоративным доступом, приложениями, данными на вашем устройстве, в том числе геоданными, а также просматривать соответствующие сведения. Вы подключены к сети VPN, поэтому возможно отслеживание ваших действий в Интернете, включая работу с электронной почтой, приложениями и защищёнными веб-сайтами. За дополнительной информацией обратитесь к администратору.\"\""</string>
-    <string name="monitoring_description_vpn_profile_owned">"\"\"Вашим корпоративным профилем управляет %1$s. Администратор может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами. За подробностями обратитесь к нему. Устройство также подключено к сети VPN, в которой возможно отслеживание ваших действий.\"\""</string>
+    <string name="monitoring_description_vpn">Вы разрешили приложению подключаться к сети VPN. Оно может отслеживать ваши действия на устройстве и в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами.</string>
+    <string name="monitoring_description_vpn_app_device_owned">Вашим корпоративным профилем управляет %1$s. Администратор может управлять настройками, корпоративным доступом, приложениями, данными на вашем устройстве, в том числе геоданными, а также просматривать соответствующие сведения. Приложение %2$s также может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и веб-сайтами. За подробностями обратитесь к своему администратору.</string>
+    <string name="monitoring_description_vpn_device_owned">Этим устройством управляет %1$s. Администратор может управлять настройками, корпоративным доступом, приложениями, данными на вашем устройстве, в том числе геоданными, а также просматривать соответствующие сведения. Вы подключены к сети VPN, поэтому возможно отслеживание ваших действий в Интернете, включая работу с электронной почтой, приложениями и защищёнными веб-сайтами. За дополнительной информацией обратитесь к администратору.</string>
+    <string name="monitoring_description_vpn_profile_owned">Вашим корпоративным профилем управляет %1$s. Администратор может отслеживать ваши действия в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами. За подробностями обратитесь к нему. Устройство также подключено к сети VPN, в которой возможно отслеживание ваших действий.</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
     <string name="monitoring_description_vpn_settings_separator">\" \"</string>
     <string name="monitoring_subtitle_ca_certificate">Центр сертификации</string>
@@ -1161,35 +1161,35 @@
     <string name="power_charging_duration">^1 – ^2 до полной зарядки</string>
     <string name="power_discharging_duration">^1 – осталось примерно ^2</string>
     <string name="power_discharging_duration_enhanced">^1 (осталось примерно ^2 при текущем уровне использования)</string>
-    <string name="power_notification_controls_description">"\"\"С помощью этой функции вы можете устанавливать уровень важности уведомлений от 0 до 5 для каждого приложения.
+    <string name="power_notification_controls_description">С помощью этой функции вы можете устанавливать уровень важности уведомлений от 0 до 5 для каждого приложения.
 
-\"\""<b>Уровень 5</b>"\"\" 
-‒ Помещать уведомления в начало списка. 
-‒ Показывать полноэкранные уведомления. 
-‒ Показывать всплывающие уведомления. 
+<b>Уровень 5</b>
+‒ Помещать уведомления в начало списка.
+‒ Показывать полноэкранные уведомления.
+‒ Показывать всплывающие уведомления.
 
-\"\""<b>Уровень 4</b>"\"\" 
-‒ Не показывать полноэкранные уведомления. 
-‒ Показывать всплывающие уведомления. 
+<b>Уровень 4</b>
+‒ Не показывать полноэкранные уведомления.
+‒ Показывать всплывающие уведомления.
 
-\"\""<b>Уровень 3</b>"\"\" 
-‒ Не показывать полноэкранные уведомления. 
-‒ Не показывать всплывающие уведомления. 
+<b>Уровень 3</b>
+‒ Не показывать полноэкранные уведомления.
+‒ Не показывать всплывающие уведомления.
 
-\"\""<b>Уровень 2</b>"\"\" 
-‒ Не показывать полноэкранные уведомления. 
-‒ Не показывать всплывающие уведомления. 
-‒ Не использовать звук и вибрацию. 
+<b>Уровень 2</b>
+‒ Не показывать полноэкранные уведомления.
+‒ Не показывать всплывающие уведомления.
+‒ Не использовать звук и вибрацию.
 
-\"\""<b>Уровень 1</b>"\"\" 
-‒ Не показывать полноэкранные уведомления. 
-‒ Не показывать всплывающие уведомления. 
-‒ Не использовать звук и вибрацию. 
-‒ Не показывать на экране блокировки и в строке состояния. 
-‒ Помещать уведомления в конец списка. 
+<b>Уровень 1</b>
+‒ Не показывать полноэкранные уведомления.
+‒ Не показывать всплывающие уведомления.
+‒ Не использовать звук и вибрацию.
+‒ Не показывать на экране блокировки и в строке состояния.
+‒ Помещать уведомления в конец списка.
 
-\"\""<b>Уровень 0</b>"\"\" 
-‒ Блокировать все уведомления приложения.\"\""</string>
+<b>Уровень 0</b>
+‒ Блокировать все уведомления приложения.</string>
     <string name="power_remaining_charging_duration_only">Ещё ^1 до полной зарядки</string>
     <string name="power_remaining_duration_only">Осталось примерно ^1</string>
     <string name="power_remaining_duration_only_enhanced">Осталось примерно ^1 при текущем уровне использования</string>
@@ -1309,7 +1309,7 @@
     <string name="recents_launch_disabled_message">Приложение \"%s\" отключено в безопасном режиме</string>
     <string name="recents_launch_error_message">Не удалось запустить %s.</string>
     <string name="recents_lock_to_app_button_label">заблокировать в приложении</string>
-    <string name="recents_mem">\"Память \"</string>
+    <string name="recents_mem">Память </string>
     <string name="recents_multistack_add_stack_dialog_split_custom">Разделить по-другому</string>
     <string name="recents_multistack_add_stack_dialog_split_horizontal">Разделить по горизонтали</string>
     <string name="recents_multistack_add_stack_dialog_split_vertical">Разделить по вертикали</string>
@@ -1396,9 +1396,9 @@
     <string name="smart_notification_guts_action0_disable_reason_4">Фильтр групповых уведомлений - не поддерживается</string>
     <string name="smart_notification_guts_action0_disable_reason_5">Фильтр уведомлений мультимедиа - не поддерживается</string>
     <string name="smart_notification_guts_action0_inside">Не фильтровать</string>
-    <string name="smart_notification_guts_action0_outside">Отфильтровать эту категорию</string>
+    <string name="smart_notification_guts_action0_outside">Фильтровать эту категорию</string>
     <string name="smart_notification_guts_action1">Больше настроек</string>
-    <string name="smart_notification_guts_title">\"Категория уведомления: \"</string>
+    <string name="smart_notification_guts_title">Категория уведомления: </string>
     <string name="smart_notification_tag_ads">Реклама</string>
     <string name="smart_notification_tag_appupgrade">Обновление ПО</string>
     <string name="smart_notification_tag_battery">Батарея</string>
@@ -1453,7 +1453,7 @@
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
-    <string name="ssl_ca_cert_warning">"\"\"Сеть может отслеживаться\"\""</string>
+    <string name="ssl_ca_cert_warning">Сеть может отслеживаться</string>
     <string name="start">Вверху</string>
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Строка состояния</string>
@@ -1581,7 +1581,7 @@
     <string name="usb_audio_disable_routing">Откл. передачу аудио (USB)</string>
     <string name="usb_audio_disable_routing_summary">Откл. автом. маршрутизацию на внеш. USB-устройства</string>
     <string name="usb_debugging_always">Всегда разрешать отладку с этого компьютера</string>
-    <string name="usb_debugging_message">"\"\"Цифровой отпечаток ключа RSA: %1$s\"\""</string>
+    <string name="usb_debugging_message">Цифровой отпечаток ключа RSA: %1$s</string>
     <string name="usb_debugging_secondary_user_message">В текущем аккаунте нельзя включить отладку по USB. Перейдите в аккаунт администратора.</string>
     <string name="usb_debugging_secondary_user_title">Отладка по USB запрещена</string>
     <string name="usb_debugging_title">Отладка по USB</string>
@@ -1593,7 +1593,7 @@
     <string name="use_ptp_button_title">Установить как камеру (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
     <string name="user_add_user">Добавить пользователя</string>
-    <string name="user_add_user_message_short">"\"\"После создания профиля его необходимо настроить.\nОбновлять приложения для всех аккаунтов может любой пользователь устройства.\"\""</string>
+    <string name="user_add_user_message_short">После создания профиля его необходимо настроить.\nОбновлять приложения для всех аккаунтов может любой пользователь устройства.</string>
     <string name="user_add_user_title">Добавить пользователя?</string>
     <string name="user_guest">Гость</string>
     <string name="user_logout_notification_action">ВЫЙТИ ОТ ИМЕНИ ПОЛЬЗОВАТЕЛЯ</string>

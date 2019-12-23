@@ -55,4 +55,9 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>всегда</item>
+        <item>бесшумный</item>
+        <item>никогда</item>
+    </string-array>
 </resources>

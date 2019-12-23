@@ -1322,11 +1322,13 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>zh_HK</item>
+        <item>ru_RU</item>
     </string-array>
     <string-array name="special_locale_names">
         <item>简体中文</item>
         <item>繁體中文</item>
         <item>繁體中文（香港）</item>
+        <item>Русский (Россия)</item>
     </string-array>
     <string-array name="time_formate_items">
         <item>@string/time_formate_am</item>

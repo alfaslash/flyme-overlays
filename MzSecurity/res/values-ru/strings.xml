@@ -22,7 +22,7 @@
     <string name="action_settings">Настройки</string>
     <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
     <string name="date_time_set">Установить</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$s Мб</string>
+    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМб</string>
     <string name="item_is_selected">%1$s выбрано</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
@@ -245,15 +245,15 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="BG_Description">Фоновое изображение</string>
     <string name="Day">д.</string>
     <string name="DayUsed">Сегодня</string>
@@ -448,6 +448,7 @@
     <string name="cleaner_big_file_frequent">Недавние</string>
     <string name="cleaner_big_file_not_frequent">Редко используемые</string>
     <string name="cleaner_cache">Ненужные кэши</string>
+    <string name="cleaner_cache_ad_plugin">Рекламные сообщения</string>
     <string name="cleaner_cache_apk_file_not_install">Кэши неустановленного ПО</string>
     <string name="cleaner_cache_apk_file_not_install_desc">Кэши нового или неустановленного ПО</string>
     <string name="cleaner_cache_apk_file_redundant">Ненужные APK</string>
@@ -455,7 +456,7 @@
     <string name="cleaner_cache_app_cache">Кэши приложений</string>
     <string name="cleaner_cache_app_trash">Ненужные файлы ПО</string>
     <string name="cleaner_cache_background_app">Фоновые приложения</string>
-    <string name="cleaner_cache_background_app_desc">Очистка может освободить память</string>
+    <string name="cleaner_cache_background_app_desc">Закрыть фоновые приложения</string>
     <string name="cleaner_cache_trash">Содержимое корзины</string>
     <string name="cleaner_cache_uninstall_remain">Удаление остатков ПО</string>
     <string name="cleaner_can_be_deleted">Удаляемо</string>
@@ -474,6 +475,11 @@
     <string name="cleaner_detail_dialog_modify">Изменено</string>
     <string name="cleaner_detail_dialog_path">Путь к файлу</string>
     <string name="cleaner_detail_dialog_source">Источник</string>
+    <string name="cleaner_entrance_photo_compress_desc">Значительно экономит место благодаря высокому качеству сжатия</string>
+    <string name="cleaner_entrance_photo_compress_title">Сжать фото</string>
+    <string name="cleaner_entrance_qq_title">Очистка QQ</string>
+    <string name="cleaner_entrance_video_compress_title">Сжать видео</string>
+    <string name="cleaner_entrance_we_chat_title">Очистка WeChat</string>
     <string name="cleaner_item_checked_text"> </string>
     <string name="cleaner_item_no_preview_toast">Не удалось просмотреть</string>
     <string name="cleaner_low_storage_notify_1g_title">Очень мало места</string>
@@ -506,6 +512,7 @@
     <string name="cleaner_space_usable_tip">Свободно </string>
     <string name="cleaner_space_used_tip">Используется </string>
     <string name="cleaner_suggest_clean">Можно очистить</string>
+    <string name="cleaner_system_cache">Кеш системы</string>
     <string name="cleaner_toast_free_memory">Освобождение памяти</string>
     <string name="cleaner_used">Используется</string>
     <string name="cleaner_video">Видео</string>
@@ -572,10 +579,15 @@
     <string name="clear_sdk_thumbnail">Эскиз галереи</string>
     <string name="clear_sdk_thumbnail_invalid">Недопустимый эскиз галереи</string>
     <string name="click_get_description">Посмотреть детали</string>
+    <string name="compress">Сжать</string>
+    <string name="compress_example_dialog_button_title">Понятно</string>
+    <string name="compress_example_dialog_title">Пример</string>
+    <string name="compress_failed_num">%1$s фото не удалось сжать</string>
     <string name="confirm">ОК</string>
     <string name="contacts">Чтение контактов</string>
     <string name="contacts_c">просматривать контакты</string>
     <string name="continue_use">Продолжить использование</string>
+    <string name="count_select_image">%1$s фото выбрано</string>
     <string name="d_call_log">Удалять журналы вызовов</string>
     <string name="d_call_log_c">удалять список вызовов</string>
     <string name="d_contacts">Удалять контакты</string>
@@ -658,8 +670,10 @@
     <string name="flow_management">Данные</string>
     <string name="flyme_security_pay_summary">Блокировать вредоносные процессы при оплате</string>
     <string name="flyme_security_pay_title">Защита платежей Flyme</string>
+    <string name="freed_file_size">Освободить %1$s</string>
+    <string name="freed_size">Освободить %1$s%%</string>
     <string name="full_scan">Полное сканирование</string>
-    <string name="full_scan_summary">Сканировать не установленные APK. Требуется больше времени.</string>
+    <string name="full_scan_summary">Сканировать неустановленные APK (требуется больше времени)</string>
     <string name="gigabyteShort">Гб</string>
     <string name="goto_deep_clean_text">Освобождение памяти</string>
     <string name="harass_intercept">Спам-блок</string>
@@ -727,6 +741,7 @@
     <string name="last_scan_today">сегодня</string>
     <string name="last_scan_year">лет назад</string>
     <string name="last_scan_yesterday">Вчера</string>
+    <string name="loading_preview_compress_photo">Загрузка предварительно сжатого изображения</string>
     <string name="local_number">Номер этой карты</string>
     <string name="location">Доступ к местоположению</string>
     <string name="location_c">определять местоположение</string>
@@ -812,7 +827,9 @@
     <string name="opt_done_traffic">Осталось данных</string>
     <string name="opt_done_traffic_sim">На SIM %1$d осталось трафика</string>
     <string name="opt_fail_deep_junk">Недостаточно места на телефоне</string>
+    <string name="opt_fail_deep_junk_f8">Очистка</string>
     <string name="opt_fail_deep_junk_sum">Освободите место с помощью мастера очистки</string>
+    <string name="opt_fail_deep_junk_sum_f8">Возможна глубокая очистка %1$s</string>
     <string name="opt_fail_find_phone">Риск утери телефона</string>
     <string name="opt_fail_find_phone_sum">Включить поиска телефона для снижения рисков</string>
     <string name="opt_fail_permission">Работа системы тормозится работающими приложениями</string>
@@ -852,23 +869,23 @@
     <string name="phone_clean_f8">Очистка</string>
     <string name="phone_clean_summary_f8">%1$s осталось</string>
     <string name="phone_could_clean_summary_f8">%1$s deletable</string>
-    <string name="photo_can_compress">Compressible</string>
+    <string name="photo_can_compress">Сжимающийся</string>
     <string name="photo_category_camera">Камера</string>
     <string name="photo_category_we_chat">WeChat</string>
     <string name="photo_clean_blur">Размытые фото</string>
     <string name="photo_clean_compress">Сжатие фото</string>
-    <string name="photo_clean_compress_summary">Greatly save space with high fidelity compression</string>
+    <string name="photo_clean_compress_summary">Значительно экономит место благодаря высокому качеству сжатия</string>
     <string name="photo_clean_continuous_shooting">Burst Photos</string>
     <string name="photo_clean_similar">Похожие фото</string>
     <string name="photo_clean_snapshot">Скриншоты</string>
-    <string name="photo_compress_button_title">Compress to release</string>
-    <string name="photo_compress_confirm_message">Auto clean original images after compressed</string>
-    <string name="photo_compress_free_space_toast">Release space %1$s</string>
+    <string name="photo_compress_button_title">Сжать, чтобы освободить</string>
+    <string name="photo_compress_confirm_message">Удалить оригиналы изображений после сжатия</string>
+    <string name="photo_compress_free_space_toast">Освобождено %1$s</string>
     <string name="photo_compress_null_content">Нет элементов</string>
-    <string name="photo_compressed">Compressed</string>
-    <string name="photo_compressed_release_space">Can release %1$s</string>
-    <string name="photo_compressed_total_freed_space">Total release %1$s</string>
-    <string name="photo_review_select">Выбрать фото</string>
+    <string name="photo_compressed">Сжатый</string>
+     <string name="photo_compressed_release_space">Можно освободить %1$s</string>
+    <string name="photo_compressed_total_freed_space">Всего освобождено %1$s</string>
+    <string name="photo_review_select">Выберите фото</string>
     <string name="pop_notice">Оповещения поверх всего</string>
     <string name="power_dialog_summary">Системная энергосберегающая конфигурация завершится с ошибкой, что может привести к увеличению потребления энергии, и некоторые ручные настройки энергосбережения могут быть недоступны для изменения</string>
     <string name="power_dialog_title">Отключить управление питанием?</string>
@@ -884,11 +901,13 @@
     <string name="preference_title_uninstalled_trash">Остатки удалённого ПО</string>
     <string name="preference_title_wechat_cache">Кэш WeChat</string>
     <string name="preferences_title">Спам-блок</string>
+    <string name="privacy_permission_usage_record">Журнал сбора приватных данных</string>
     <string name="privacy_permissions">Конфиденциальность</string>
     <string name="progress_message_importing_blacklist">Импорт чёрного списка</string>
     <string name="progress_message_importing_white_list">Импорт белого списка</string>
     <string name="progress_msg">Выполняется</string>
     <string name="provinces">Провинция</string>
+    <string name="qq_title_f8">Очистка QQ</string>
     <string name="qr_code_copy_ok_toast">Скопировано в буфер обмена</string>
     <string name="qr_code_result_btn_close">Закрыть</string>
     <string name="qr_code_result_btn_copy">Копия</string>
@@ -941,6 +960,7 @@
     <string name="restore_sms">Восстановить SMS</string>
     <string name="restore_tittle">Восстановить выбранные сообщения?</string>
     <string name="result_count">результатов</string>
+    <string name="review_original_image">Исходное изображение</string>
     <string name="risk_action">Вредоносные действия</string>
     <string name="risk_ad_tag_3">Фоновая загрузка файлов</string>
     <string name="risk_adv">Вредоносные объявления</string>
@@ -1057,9 +1077,11 @@
     <string name="smartcard_des2">Показ полезных функций на главной странице</string>
     <string name="smartcard_news_title">Советы по безопасности</string>
     <string name="smartcard_notice">Смарт-карты можно редактировать</string>
+    <string name="smartcard_qq_clean_title_f8">Очистка QQ</string>
     <string name="smartcard_quick_app_title">Оптимизация ПО</string>
     <string name="smartcard_similar_pic_title">Удалить похожие фотографии</string>
     <string name="smartcard_virus_clean_title">Антивирус</string>
+    <string name="smartcard_wechat_clean_title_f8">Очистка WeChat</string>
     <string name="sms_block_key_word">Блокировать по ключевым словам</string>
     <string name="sms_cate_name_app_spread">Реклама в приложении</string>
     <string name="sms_cate_name_cp_ad">Реклама от оператора</string>
@@ -1140,7 +1162,7 @@
     <string name="text_no_search_app">Нет результатов поиска</string>
     <string name="text_prompt">По запросу</string>
     <string name="text_reject">Отклонить</string>
-    <string name="text_version">Версия:</string>
+    <string name="text_version">Версия: </string>
     <string name="title">Данные</string>
     <string name="title_activity_app_sec">Приложения</string>
     <string name="title_allow_item">Разрешено - %1$s: %2$s</string>
@@ -1155,7 +1177,7 @@
     <string name="trafficCorrection">Калибровка трафика</string>
     <string name="trafficUnit">Мб</string>
     <string name="traffic_add_directional_app">Добавить ПО</string>
-    <string name="traffic_airplanemode">Невозможно включить режим В самолёте</string>
+    <string name="traffic_airplanemode">Невозможно включить режим \"В самолёте\"</string>
     <string name="traffic_app_list">Список приложений</string>
     <string name="traffic_app_list_no">Нет приложений</string>
     <string name="traffic_background_allow">Передача данных в фоне разрешена</string>
@@ -1233,7 +1255,7 @@
     <string name="traffic_high_empty_apps_add">Нет приложений для добавления</string>
     <string name="traffic_high_empty_remind_apps">Нет приложений в белом списке</string>
     <string name="traffic_high_hava_open">Включено</string>
-    <string name="traffic_high_no_remind_apps_detail_message">Для этих приложений не будет уведомления о превышении трафика</string>
+    <string name="traffic_high_no_remind_apps_detail_message">Приложения из белого списка будут исключены из оповещения</string>
     <string name="traffic_high_no_remind_apps_num">%1$s прилож.</string>
     <string name="traffic_high_no_remind_apps_title">Белый список</string>
     <string name="traffic_high_no_remind_btn_title">Добавить приложение</string>
@@ -1371,6 +1393,7 @@
     <string name="type_video">Видео</string>
     <string name="type_video_sound">Аудио и видео</string>
     <string name="type_virus">Вредоносное ПО</string>
+    <string name="type_wechat">Очистка WeChat</string>
     <string name="type_wechat_chat_can_restore">Очищенные данные могут быть повторно загружены через сеть</string>
     <string name="type_wechat_chat_pic">Фотографии в чатах</string>
     <string name="type_wechat_chat_video">Видео в чатах</string>
@@ -1412,6 +1435,7 @@
     <string name="used_all_dialog_positive_button">Отключить передачу</string>
     <string name="used_all_dialog_title">Ежемесячный лимит трафика использован</string>
     <string name="user_app_fragmetn_actionbar_title">Управление приложениями</string>
+    <string name="view_more_header_line">Посмотреть больше новостей TouTiao</string>
     <string name="virus_clean">Поиск вирусов</string>
     <string name="virus_clean_desc_text">AI-антивирус обеспечивает защиту в режиме реального времени путём немедленного обнаружения и оповещения</string>
     <string name="virus_clean_txt">Обработка: %s</string>
@@ -1468,4 +1492,10 @@
     <string name="wd_contacts">Запись/удаление контактов</string>
     <string name="wd_sms_mms">Запись/удаление SMS/MMS</string>
     <string name="wifi_update">Автообновление БД через WLAN</string>
+	<string name="main_page_cleaner_usable_size_f8">%1$s осталось</string>
+    <string name="speed_up_by_clean_f8">Очистка и ускорение</string>
+	<string name="opt_app_update_summary">Обновить сейчас. Более безопасный</string>
+	<string name="cleaner_entrance_app_update_title">%1$s приложения должны быть обновлены</string>
+	<string name="opt_app_update_title">%1$s приложения должны быть обновлены</string>
+	<string name="opt_app_update_hint">Обновление</string>
 </resources>

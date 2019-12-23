@@ -125,7 +125,7 @@
     <string name="draft_no_subject">Без темы</string>
     <string name="draft_separator">,</string>
     <string name="draft_sub_tittle_mms">MMS: %1$s</string>
-    <string name="draft_tittle_large">[Черновик] </string>
+    <string name="draft_tittle_large">[Черновик]</string>
     <string name="duoqu_delete">Удалить</string>
     <string name="duoqu_delete_tw">Удалить</string>
     <string name="duoqu_delete_zh">Удалить</string>
@@ -252,16 +252,16 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Yг.</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Yг.</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Yг. %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Yг. %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
@@ -364,6 +364,7 @@
     <string name="msg_body_sms_vcard">Данные vCard</string>
     <string name="msg_item_text_more_mult_mms">Детали ></string>
     <string name="msg_item_text_more_single_mms">Детали ></string>
+    <string name="multi_choice">Управление</string>
     <string name="multi_tittle_select_message">Выбрать сообщение</string>
     <string name="multimedia_message">MMS</string>
     <string name="multimedia_notification">MMS-уведомление</string>
@@ -509,6 +510,9 @@
     <string name="open_keyboard_to_compose_message">Откройте клавиатуру, чтобы ввести сообщение</string>
     <string name="permission_dialog_message">Приложению необходим доступ к сети, чтобы отправлять и получать сообщения и отфильтровывать спам-сообщения.</string>
     <string name="pick_timer_warning">Установленное время не может быть раньше текущего</string>
+    <string name="please_add_recipient">Добавить контакт</string>
+    <string name="pref_key_block_number_list_summary">Сообщения и звонки из чёрного списка будут блокироваться</string>
+    <string name="pref_key_block_number_list_title">Чёрный список</string>
     <string name="pref_messages_to_save" />
     <string name="pref_more_title">Ещё</string>
     <string name="pref_summary_allow_return_mms_read_reports">После прочтения каждого нового сообщения, если отправитель разрешил получение отчёта о доставке</string>
@@ -645,14 +649,21 @@
     <string name="talk_avatar_detail">Детали %1$s</string>
     <string name="talk_subject">Веб-MMS: 1 аудио</string>
     <string name="text_message">SMS</string>
+    <string name="timer_date_formater_format">MMM d</string>
+    <string name="timer_date_formatter">MM.dd.yyyy HH:mm</string>
+    <string name="timer_date_formatter_12">MM.dd.yyyy hh:mm a</string>
     <string name="timer_date_time_hour">ч</string>
     <string name="timer_date_time_min">м</string>
     <string name="timer_string_formatter">Будет отправлено %1$s</string>
     <string name="title_coversation_contact_multi">Получатель</string>
+    <string name="title_coversation_contact_single">Сведения о контакте</string>
+    <string name="title_mz_card">Карточка друзей Sharm</string>
+    <string name="title_phone_recharge">Добавить</string>
     <string name="to_address_label">Получатель:</string>
     <string name="toast_cannot_send_message">Отправка сообщений недоступна</string>
     <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s .</string>
-    <string name="top">Закрепить</string>
+    <string name="top">Закреплено</string>
+    <string name="top_group_thread_title">Закрепить</string>
     <string name="touch_to_browse">Нажмите для просмотра</string>
     <string name="type_audio">Аудио</string>
     <string name="type_file">Файл</string>
@@ -696,4 +707,21 @@
     <string name="view_message_details">Детали</string>
     <string name="view_more_conversations">Другие беседы</string>
     <string name="yes">ОК</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="has_mark_read">Отмечено как прочитанное</string>
+    <string name="has_mark_unread">Отмечено как непрочитанное</string>
+    <string name="mc_custom_date_time_day_after">Дней после</string>
+    <string name="mc_custom_date_time_day_before">Дней до</string>
+    <string name="mms_audio_subject_view">Веб-MMS: 1 аудио</string>
+    <string name="mms_file_subject_view">Веб-MMS: 1 файл</string>
+    <string name="mms_image_subject_view">Веб-MMS: 1 изображение</string>
+    <string name="mms_location_subject_view">Веб-MMS: 1 местоположение</string>
+    <string name="mms_vcard_subject_view">Веб-MMS: 1 визитка</string>
+    <string name="mms_video_subject_view">Веб-MMS: 1 видео</string>
+    <string name="pull_to_mark_read">Потянуть вниз для отметки прочитанным</string>
+    <string name="pull_to_mark_unread">Потянуть вниз для отметки непрочитанным</string>
+	<string name="mz_permission_always_allow">Всегда разрешать</string>
+	<string name="mz_permission_deny">Отклонить</string>
+	<string name="search_tint">Поиск SMS</string>
 </resources>
