@@ -242,10 +242,10 @@
     <string name="dialog_user_ps">Настраиваемый режим</string>
     <string name="disable_idle_run">Запретить работу в режиме ожидания</string>
     <string name="display_device">Экран</string>
-    <string name="durationHourMinute">%1$d ч %2$d м</string>
+    <string name="durationHourMinute">%1$d ч. %2$d м.</string>
     <string name="durationHourMinuteSecond">%1$d ч. %2$d м. %3$d с.</string>
     <string name="durationMinuteSeconds">%1$d м. %2$d с.</string>
-    <string name="durationMinutes">%1$d м</string>
+    <string name="durationMinutes">%1$d м.</string>
     <string name="durationSecond">%1$d с.</string>
     <string name="enable_idle_run">Разрешить запуск в режиме ожидания</string>
     <string name="exception_suggest1">1. Отключение приложения может исправить проблему высокого энергопотребления. Но, уведомления из приложения не смогут быть получены.</string>
@@ -449,12 +449,12 @@
     <string name="super_speech_wake_info">Отключить пробуждение голосом</string>
     <string name="text_hour">ч.</string>
     <string name="text_loading">Загрузка</string>
-    <string name="text_minute"> м</string>
+    <string name="text_minute"> м.</string>
     <string name="text_no_app_select">Приложения не выбраны</string>
     <string name="text_remain_sb_time">Осталось: %1$d д. %2$d ч.</string>
     <string name="text_remain_time">Осталось</string>
-    <string name="text_remain_use_time">%1$d ч %2$d м</string>
-    <string name="text_use_time_increase">Продлено на %1$d ч %2$d м</string>
+    <string name="text_remain_use_time">%1$d ч. %2$d м.</string>
+    <string name="text_use_time_increase">Продлено на %1$d ч. %2$d м.</string>
     <string name="timed_saving">Запланировано</string>
     <string name="timed_saving_ps">Включение по расписанию</string>
     <string name="times">%1$d раз</string>
@@ -555,4 +555,5 @@
     <string name="wifi_power_save_notie_msg">Совет по энергосбережению: Выключить WLAN, если это возможно, когда сеть недоступна</string>
     <string name="title_activity_app_power_manager" />
     <string name="title_activity_power_uimain" />
+    <string name="total_num_lager_files">%1$s всего</string>
 </resources>

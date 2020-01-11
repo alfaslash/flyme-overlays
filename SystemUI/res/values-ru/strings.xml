@@ -1682,4 +1682,8 @@
     <string name="mz_permission_always_allow">Всегда разрешать</string>
     <string name="mz_permissiongroup_name_change_network">Беспроводная Сеть</string>
     <string name="screenrecord_share_delete_after_share">Удалить запись экрана после обмена</string>
+    <string name="lock_month_day">d MMMM</string>
+    <string name="lock_week">(EEE), d MMMM yyyy</string>
+    <string name="mz_date_format">E, d MMMM </string>
+    <string name="lock_month">MMMM</string>
 </resources>

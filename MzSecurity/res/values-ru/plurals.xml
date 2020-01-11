@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="news_lite_before_today">
-        <item quantity="other">MM.dd HH:mm</item>
+        <item quantity="other">dd.MM HH:mm</item>
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_before_today_chinese">

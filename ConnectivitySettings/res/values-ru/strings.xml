@@ -305,7 +305,7 @@
     <string name="charge_length_format">%1$s назад</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="clean_options">Варианты очистки памяти</string>
-    <string name="clean_userdata">Сброс к заводским настройкам</string>
+    <string name="clean_userdata">Сброс до настроек по умолчанию</string>
     <string name="clean_userdata_summary">Удалить такие данные, как контакты, сообщения, настройки аккаунтов и т.д.</string>
     <string name="clear_adb_keys">Отозвать доступ для USB-отладки</string>
     <string name="color_black">Чёрный</string>

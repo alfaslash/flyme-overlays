@@ -916,7 +916,7 @@
 	<string name="choose_voice_input_title">Выберите голосовой сервис</string>
 	<string name="clean_options">Варианты очистки памяти</string>
 	<string name="clean_rubbish">Очистка мусора</string>
-	<string name="clean_userdata">Сброс к заводским настройкам</string>
+	<string name="clean_userdata">Сброс до настроек по умолчанию</string>
 	<string name="clean_userdata_summary">Удалить такие данные, как контакты, сообщения, настройки аккаунтов и т.д.</string>
 	<string name="clear">Очистить</string>
 	<string name="clear_activities">Удалить настройки по умолчанию</string>
@@ -1621,7 +1621,7 @@
 	<string name="factory_reset_clear_data_msg">Эта операция сбрасывает системные настройки и удаляет контакты, сообщения, заметки, а также все установленные приложения Введите пароль аккаунта Flyme \"%s\"</string>
 	<string name="factory_reset_dlg_msg">Сброс настроек приведет к удалению всех данных, включая приложения, медиа-файлы и локальные резервные копии. Так-же будет произведен выход из текущего аккаунта Flyme. Будьте осторожны!</string>
 	<string name="factory_reset_summary">Будут удалены все личные данные и приложения, так-же будет отформатирована внутренняя память</string>
-	<string name="factory_reset_title">Сброс к заводским настройкам</string>
+	<string name="factory_reset_title">Заводской сброс</string>
 	<string name="failed_to_open_app_settings_toast">Не удалось открыть настройки приложения \"%1$s\"</string>
 	<string name="fcc_equipment_id">Идентификатор оборудования</string>
 	<string name="file_manager_lock">Хранилище</string>
@@ -2275,7 +2275,7 @@
 	<string name="lockpattern_tutorial_cancel_label">Отмена</string>
 	<string name="lockpattern_tutorial_continue_label">Далее</string>
 	<string name="lockscreen_category_title">Экран блокировки</string>
-	<string name="lockscreen_notification_title">Уведомление о блокировке экрана</string>
+	<string name="lockscreen_notification_title">Уведомление на экране блокировки</string>
 	<string name="lockscreen_pull_down_notificationbar">Шторка уведомлений</string>
 	<string name="lockscreen_pull_down_notificationbar_summary">Выпадающая панель уведомлений на экране блокировки</string>
 	<string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
@@ -3668,7 +3668,7 @@
 	<string name="search_results_title">Настройки</string>
 	<string name="search_settings">Поиск часового пояса</string>
 	<string name="search_settings_title">Поиск</string>
-	<string name="second_confirm_factory_reset_dlg_msg">\"Все данные будут стерты, и их нельзя будет восстановить\"</string>
+	<string name="second_confirm_factory_reset_dlg_msg">Все данные будут стерты, и их нельзя будет восстановить</string>
 	<string name="second_confirm_factory_reset_dlg_title">Действительно сделать сброс к заводским настройкам?</string>
 	<string name="second_confirm_format_storage_dlg_title">Форматировать внутреннюю память?</string>
 	<string name="second_confirm_reset_dlg_msg">Это действие не может быть отменено</string>
