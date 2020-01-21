@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Дім</item>
+        <item>Робота</item>
+        <item>Інше</item>
+        <item>Настроюване</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo China</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Місце роботи</item>
+        <item>Інше</item>
+        <item>Настроюване</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Дім</item>
+        <item>Мобіл.</item>
+        <item>Місце роботи</item>
+        <item>Робочий факс</item>
+        <item>Дом. факс</item>
+        <item>Пейджер</item>
+        <item>Інше</item>
+        <item>Настроюване</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Дім</item>
+        <item>Місце роботи</item>
+        <item>Інше</item>
+        <item>Настроюване</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Спроба ввімкнути мережу WLAN</item>
+        <item>Спроба ввімкнути Bluetooth</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Проведiть палець вниз</item>
+        <item>палець донизу</item>
+        <item>палець вгору</item>
+        <item>Час считування вiдбитку вийшов</item>
+        <item>будь ласка, налаштуйте відбиток</item>
+        <item>поставте палець не натискаючи</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Дім</item>
+        <item>Робота</item>
+        <item>Інше</item>
+        <item>Настроюване</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Мобільні дані</item>
+        <item>WLAN</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>Мережа VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Щоб здійснювати дзвінки та надсилати повідомлення через мережу WLAN, попросіть оператора налаштувати цей пристрій. Потім увімкніть функцію викликів WLAN у параметрах. (Код помилки: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Зареєструйтеся за допомогою свого оператора (код помилки: %1$s)</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Виклики через WLAN: %s</item>
+    </string-array>
+</resources>

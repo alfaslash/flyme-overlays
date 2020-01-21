@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">Відбитків зареєстровано: %1$d</item>
+        <item quantity="one">Відбитків зареєстровано: %1$d</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Довга затримка (%1$d мс)</item>
+        <item quantity="one">Довга затримка (%1$d мс)</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s установив на вашому пристрої декілька центрів сертифікації, за допомогою яких можна відстежувати активність пристрою у мережі, зокрема електронну пошту, програми та веб-сайти.
+
+За додатковою інформацією зверніться до свого адміністратора."</item>
+        <item quantity="one">"%s установив на вашому пристрої центри сертифікації, за допомогою яких можна відстежувати активність пристрою у мережі, зокрема електронну пошту, програми та веб-сайти.
+
+За додатковою інформацією зверніться до свого адміністратора."</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Надано дозволів: %1$d з %2$d</item>
+        <item quantity="one">Надано дозволів: %1$d з %2$d</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Має містити принаймні таку кількість літер: %d</item>
+        <item quantity="one">Має містити принаймні 1 літеру</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s с</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Налаштовано відбитків пальця: %1$d</item>
+        <item quantity="one">Налаштовано відбитків пальця: %1$d</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Надзвичайно коротка затримка (%1$d мс)</item>
+        <item quantity="one">Надзвичайно коротка затримка (%1$d мс)</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">1 хвилина</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Дуже коротка затримка (%1$d мс)</item>
+        <item quantity="one">Дуже коротка затримка (%1$dмс)</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Зробити сертифікати надійними або вилучити їх</item>
+        <item quantity="one">Зробити сертифікати надійними або вилучити їх</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Має містити принаймні таку кількість малих літер: %d</item>
+        <item quantity="one">Має містити принаймні 1 малу літеру</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Коротка затримка (%1$d мс)</item>
+        <item quantity="one">Коротка затримка (%1$d мс)</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Програми, яким дозволено використовувати необмежений трафік у режимі економії трафіку: %1$d</item>
+        <item quantity="one">1 програмі дозволено використовувати необмежений трафік у режимі економії трафіку</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Увімкнути режим \"Лише будильник\" на %1$d хв. (до %2$s)</item>
+        <item quantity="one">Увімкнути режим \"Лише будильник\" на 1 хв. ( до %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Увімкнути режим \"Лише будильник\" на %1$d год. (до %2$s)</item>
+        <item quantity="one">Увімкнути режим \"Лише будильник\" на 1 год. ( до %2$s)</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Програми, які мають доступ до сповіщень: %d</item>
+        <item quantity="one">Програми, які мають доступ до сповіщень: %d</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Надано дозволів: %d</item>
+        <item quantity="one">Надано дозволів: %d</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%sів установив для вашого робочого профілю декілька центр сертифікації, за допомогою яких можна відстежувати активність у корпоративній мережі, зокрема електронну пошту, програми та веб-сайти.
+
+За додатковою інформацією зверніться до свого адміністратора."</item>
+        <item quantity="one">"%s установив для вашого робочого профілю центри сертифікації, за допомогою яких можна відстежувати активність у корпоративній мережі, зокрема електронну пошту, програми та веб-сайти.
+
+За додатковою інформацією зверніться до свого адміністратора."</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Має містити принаймні таку кількість цифр: %d</item>
+        <item quantity="one">Має містити принаймні 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Має містити принаймні таку кількість символів, які не є літерами: %d</item>
+        <item quantity="one">Має містити принаймні 1 символ, який не є літерою</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Дуже довга затримка (%1$d мс)</item>
+        <item quantity="one">Дуже довга затримка (%1$d мс)</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Перевірити сертифікати</item>
+        <item quantity="one">Перевірити сертифікати</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Має містити принаймні таку кількість спеціальних символів: %d</item>
+        <item quantity="one">Має містити принаймні 1 спеціальний символ</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Для переходу в режим розробника торкніться %1$d декілька разів</item>
+        <item quantity="one">Для переходу в режим розробника торкніться %1$d декілька разів</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">"Програми, які використовували пам'ять за ост. %2$s: %1$d"</item>
+        <item quantity="one">"1 програма використовувала пам'ять за ост. %2$s"</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Має містити принаймні таку кількість великих літер: %d</item>
+        <item quantity="one">Має містити принаймні 1 велику літеру</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Додаткових дозволів: %d</item>
+        <item quantity="one">Додаткові дозволи: %d</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неправильний PIN-код SIM-картки. Залишилося спроб: %d</item>
+        <item quantity="one">"Неправильний PIN-код SIM-картки. Залишилося спроб: %d до блокування телефону. Для розблокування зверніться до свого оператора мобільного зв'язку."</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s год.</item>
+        <item quantity="one">1 год.</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">Показати сховані елементи: %d</item>
+        <item quantity="one">Показати сховані елементи: %d</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">Дозволів: %d</item>
+        <item quantity="one">1 дозвіл</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Видалити вибрані мови?</item>
+        <item quantity="one">Видалити вибрані мови?</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">Обмежень: %1$d</item>
+        <item quantity="one">Обмежень: 1</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">Пропозицій: %1$d</item>
+        <item quantity="one">Пропозицій: 1</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">Мінімальна кількість сертифікатів ЦС: %d</item>
+        <item quantity="one">Мінімум сертифікатів ЦС: %d</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item quantity="other">Заблоковано сповіщень програми: %d</item>
+        <item quantity="one">Заблоковано сповіщень програми: %d</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Клієнт електронної пошти</item>
+        <item quantity="one">Клієнт електронної пошти</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">Програми: %d</item>
+        <item quantity="one">Програм: %d</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item quantity="other">Ввімкнуто автоматичних правил: %d</item>
+        <item quantity="one">Активовано автоматичних правил: 1</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Заблоковано сповіщень програми: %d</item>
+        <item quantity="one">Заблоковано сповіщень програми: 1</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item quantity="other">Мережі: %d</item>
+        <item quantity="one">Мережі: 1</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">Кількість здійснених спроб: %d</item>
+        <item quantity="one">Здійснено спроб: %d</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item quantity="other">Ввімкнуто служб: %1$d</item>
+        <item quantity="one">Ввімкнуто служб друку: 1</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">Завдання друку: %1$d</item>
+        <item quantity="one">Завдання друку: 1</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">Доступно довірених агентів: %d</item>
+        <item quantity="one">Доступно довірених агентів: 1</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">У такої кількості програм виникли виключення: %2$d</item>
+        <item quantity="one">Стався виняток %1$s</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">Кількість видалених категорій: %d</item>
+        <item quantity="one">Категорій видалено: %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Мінімальна кількість програм: %d</item>
+        <item quantity="one">Мінімум програм: %d</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">Кількість програм, які можуть безперервно використовувати дані: %d</item>
+        <item quantity="one">Кількість програм, які можуть безперервно використовувати дані: 1</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">Додаткових пропозицій: %1$d</item>
+        <item quantity="one">Додаткових пропозицій: 1</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Програма Камера</item>
+        <item quantity="one">Програма Камера</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Програми, які розряджають акумулятор</item>
+        <item quantity="one">%1$s споживає багато заряду акумулятора</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Програма для телефона</item>
+        <item quantity="one">Програма для телефона</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item quantity="other">Кількість програм, які можуть відкрити підтримуване посилання: %d</item>
+        <item quantity="one">Кількість програм, які можуть відкрити підтримуване посилання: 1</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">Допустимі програми: %d</item>
+        <item quantity="one">Допустима програма: %d</item>
+    </plurals>
+    <plurals name="all_apps_count">
+        <item quantity="other">%1$d програм</item>
+        <item quantity="one">%1$d програм</item>
+    </plurals>
+</resources>

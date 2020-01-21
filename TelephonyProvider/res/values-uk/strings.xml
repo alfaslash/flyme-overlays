@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Сховища телефона та повідомлень</string>
+    <string name="mzc_debug_dump_title">Копіювання віддаленої бази даних SMS</string>
+    <string name="mzc_debug_dump_database_message">"Зробіть ось що: 1) скопіюйте віддалену базу даних, яка містить SMS-повідомлення у внутрішній пам'яті, і 2) надішліть її електронною поштою. Не забудьте видалити копію з пристрою або з отриманої електронної пошти. 
+
+ Зачекайте одну хвилину."</string>
+    <string name="mzc_debug_dump_start_button">Почати</string>
+    <string name="mzc_debug_dump_delete_button">Видалити зараз</string>
+    <string name="mzc_debug_dump_email_subject">Приєднано віддалену базу даних SMS</string>
+    <string name="mzc_debug_dump_email_body">Приєднано віддалену базу даних SMS. Будьте уважні під час її обробки.</string>
+    <string name="mzc_debug_dump_email_sender_picker">Виберіть програму, щоб надіслати свої файли</string>
+</resources>
