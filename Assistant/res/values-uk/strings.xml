@@ -47,7 +47,7 @@
     <string name="assistant_nba_add_team">Додати команду</string>
     <string name="assistant_nba_board">Ранжирование</string>
     <string name="assistant_nba_header_title">інформація NBA</string>
-    <string name="assistant_nba_no_net_work">Ні з'єднання з сетью</string>
+    <string name="assistant_nba_no_net_work">"Ні з'єднання з сетью"</string>
     <string name="assistant_nba_under_carriage">Недоступно</string>
     <string name="assistant_news_error_no_more">Ні Новостей</string>
     <string name="assistant_news_flow_error_click_retry">Не могу Завантажити. Попробовать еще?</string>
@@ -147,7 +147,7 @@
     <string name="card_driver_route_title">Пробки</string>
     <string name="card_example_tips">Образец карти</string>
     <string name="card_expand">Розвернути</string>
-    <string name="card_express_contact_official">зв'яжіться з курьерской компанией</string>
+    <string name="card_express_contact_official">"зв'яжіться з курьерской компанией"</string>
     <string name="card_express_contact_sender">Связаться з диспетчером</string>
     <string name="card_express_detail">Экспресс деталь</string>
     <string name="card_express_fold">Розвернути</string>
@@ -355,7 +355,7 @@
     <string name="card_train_depart_in">Отправление в %1$s</string>
     <string name="card_train_loading_online_info">Завантаження</string>
     <string name="card_train_menu_title">Напоминание про поезде</string>
-    <string name="card_train_no_network">Будь ласка, Під'єднайтеся до мережі</string>
+    <string name="card_train_no_network">"Будь ласка, Під'єднайтеся до мережі"</string>
     <string name="card_train_seat">Место</string>
     <string name="card_train_stations">Розклад</string>
     <string name="card_train_title">Напоминание про поезде</string>
@@ -403,7 +403,7 @@
     <string name="daily_way_too_near">всього %1$.0f метров від вашей цели</string>
     <string name="daily_way_type">Автомобиль</string>
     <string name="date_time_set">Встановити</string>
-    <string name="def_card_name">ім'я карти</string>
+    <string name="def_card_name">"ім'я карти"</string>
     <string name="def_des">Це повідомлення</string>
     <string name="def_footer_but">дія</string>
     <string name="def_see_more">Подивитись еще</string>
@@ -631,7 +631,7 @@
     <string name="mz_permission_title_supplement">Спросите следующие дозволи</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">Беспроводная Мережа</string>
-    <string name="mz_permissiongroup_name_net">Мережеві з'єднання</string>
+    <string name="mz_permissiongroup_name_net">"Мережеві з'єднання"</string>
     <string name="mz_permissiongroup_name_other">Другой</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-повідомлення</string>
@@ -721,7 +721,7 @@
     <string name="nba_news_switch">Змінити</string>
     <string name="network_exception">Помилка мережі. Попробуй пізніше</string>
     <string name="network_html_load_exception">404 Не знайдено</string>
-    <string name="network_unavailable">Ні з'єднання з сетью</string>
+    <string name="network_unavailable">"Ні з'єднання з сетью"</string>
     <string name="no_bookmark">Ні колекцій</string>
     <string name="no_express">Ні экспресс</string>
     <string name="no_express_1">Ні экспресс-доставки</string>

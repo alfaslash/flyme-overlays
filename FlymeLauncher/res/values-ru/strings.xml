@@ -14,8 +14,8 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_all_apps_button">Применить</string>
     <string name="accessibility_delete_button">Удалить</string>
@@ -63,8 +63,8 @@
     <string name="default_scroll_format">Стр. %1$d из %2$d</string>
     <string name="delete_target_label">Удалить</string>
     <string name="delete_target_uninstall_label">Удалить</string>
-    <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_zone_label_all_apps_system_app">Удалить обновление</string>
+    <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_zone_label_workspace">Удалить</string>
     <string name="drawable_factory_class" />
     <string name="dream_name">Лаунчер Rocket</string>
@@ -88,8 +88,8 @@
     <string name="folder_cling_title">Это папка</string>
     <string name="folder_closed">Папка закрыта</string>
     <string name="folder_hint_text">Папка без имени</string>
-    <string name="folder_name" />
     <string name="folder_name_format">Папка: %1$s</string>
+    <string name="folder_name" />
     <string name="folder_opened">Папка открыта, размер: %1$d x %2$d</string>
     <string name="folder_renamed">Папка переименована в %1$s</string>
     <string name="folder_tap_to_close">Нажать для закрытия папки</string>
@@ -126,10 +126,10 @@
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
-    <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
     <string name="mc_cancel_praised_message">Отмена</string>
+    <string name="mc_cancel">Отмена</string>
     <string name="mc_change_num">Обновление</string>
     <string name="mc_collected_message">Избранное</string>
     <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
@@ -161,11 +161,11 @@
     <string name="mc_hello_world">Привет Мир!</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">Сейчас</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">м.</string>
@@ -175,23 +175,23 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
     <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
-    <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_close">Закрыть</string>
     <string name="mc_pm_contacts">Чтение контактов</string>
@@ -217,11 +217,11 @@
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
-    <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
-    <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_text">Поиск</string>
+    <string name="mc_search">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -240,8 +240,8 @@
     <string name="more_item_label">Ещё</string>
     <string name="more_wallpaper">Ещё обои</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
-    <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
+    <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
@@ -266,8 +266,8 @@
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
     <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
-    <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">Чтение контактов</string>
@@ -296,15 +296,15 @@
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
-    <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
+    <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_delete">Удалить</string>
-    <string name="mzuc_download">Скачать</string>
     <string name="mzuc_download_fail">Ошибка загрузки</string>
     <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
     <string name="mzuc_download_finish_s" formatted="false">%s %s - загрузка завершена</string>
     <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
+    <string name="mzuc_download">Скачать</string>
     <string name="mzuc_downloading">Загружается</string>
     <string name="mzuc_file_size_s">Необходимо %s моб. данных</string>
     <string name="mzuc_found_update_s">Доступно обновление: %s</string>
@@ -331,8 +331,8 @@
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_skip_version">Пропустить</string>
     <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
-    <string name="mzuc_update_finish">Обновление завершено</string>
     <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
+    <string name="mzuc_update_finish">Обновление завершено</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>
     <string name="mzuc_update_later">Напомнить позже</string>
     <string name="mzuc_update_mobile_network">Загрузить через мобильную сеть?</string>
@@ -341,9 +341,9 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="navigation_folder">Навигация</string>
-    <string name="nfc_share">Нажмите для выбора или отмены выбора приложений, которые вы ходите передать</string>
     <string name="nfc_share_activity_title" />
     <string name="nfc_share_title">Передать приложения через NFC</string>
+    <string name="nfc_share">Нажмите для выбора или отмены выбора приложений, которые вы ходите передать</string>
     <string name="no_ad">Загрузка искулючения, нажмите повторить</string>
     <string name="online_gallery">Онлайн-обои</string>
     <string name="other_folder">Другое</string>
@@ -392,12 +392,12 @@
     <string name="tools_folder">Разное</string>
     <string name="top_alignment">Выровнять сверху</string>
     <string name="uid_name">Основные приложения Android</string>
-    <string name="uninstall">Удаление </string>
     <string name="uninstall_exist_cloneapp">Удаление исходного приложения приведёт к удалению его клонов.</string>
     <string name="uninstall_notice">Автоочистка кэша после удаления ПО</string>
     <string name="uninstall_ok">ОК</string>
     <string name="uninstall_system_app_text">Системное приложение нельзя удалить</string>
     <string name="uninstall_title">Удалить приложение</string>
+    <string name="uninstall">Удаление </string>
     <string name="uninstallcache">Очистка кэша</string>
     <string name="wallpaper_accessibility_name">Обои %1$d из %2$d</string>
     <string name="wallpaper_button_text">Обои</string>
@@ -405,8 +405,8 @@
     <string name="wallpaper_instructions">Установка обоев</string>
     <string name="widget_adder">Виджеты</string>
     <string name="widget_button_text">Виджеты</string>
-    <string name="widgets_tab_label">Добавить виджет</string>
     <string name="widgets_tab_label_click">Нажмите для добавления виджета</string>
+    <string name="widgets_tab_label">Добавить виджет</string>
     <string name="workspace_cling_move_item">Чтобы перейти к управлению обоями, виджетами и настройками, нажмите на удерживайте фон.</string>
     <string name="workspace_cling_title">Организация памяти</string>
     <string name="workspace_description_format">Главный экран %1$d</string>

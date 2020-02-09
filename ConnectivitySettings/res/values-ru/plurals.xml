@@ -25,8 +25,8 @@
         <item quantity="one">Пароль должен содержать хотя бы одну заглавную букву.</item>
     </plurals>
     <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">%d  приложение задаёт условия</item>
-        <item quantity="one">%d  приложение задаёт условия</item>
+        <item quantity="other">%d приложения задают условия</item>
+        <item quantity="one">%d приложение задает условия</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">Приложений с доступом к уведомлениям: %d</item>
@@ -41,9 +41,9 @@
         <item quantity="one">Вы сейчас в %1$d шагах от того, чтобы стать разработчиком.</item>
     </plurals>
     <plurals name="tether_manage_device_summary">
-        <item quantity="other">Подключено устройств: %d</item>
-        <item quantity="zero">Подключено устройств: %d</item>
-        <item quantity="one">Подключено устройств: %d</item>
+        <item quantity="other">Подключения: %d</item>
+        <item quantity="zero">Подключения: %d</item>
+        <item quantity="one">Подключения: %d</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Неверный PIN-код, осталось попыток: %d</item>

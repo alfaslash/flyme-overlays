@@ -14,21 +14,21 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="add_pedo_shutcut">Добавить ярлык приложения на рабочий стол?</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">Шагомер</string>
-    <string name="bububao_downlaod_wallet">Для страхования необходимо приложение кошелёк</string>
     <string name="bububao_downlaod_wallet_des">5000 шагов в день и вы на пути к иммунитету от 100000 серьезных заболеваний</string>
+    <string name="bububao_downlaod_wallet">Для страхования необходимо приложение кошелёк</string>
     <string name="bububao_login">Пожалуйста авторизуйтесь</string>
     <string name="bububao_title">здоровье</string>
     <string name="cal_history">История</string>
     <string name="calory"> ккал</string>
-    <string name="category_current_version">Текущая версия: V%s</string>
     <string name="category_current_version_fail">Ошибка обновления</string>
     <string name="category_current_version_latest">У вас установлена актуальная версия.</string>
+    <string name="category_current_version">Текущая версия: V%s</string>
     <string name="category_get_latest_version">Проверка обновлений</string>
     <string name="category_has_new_version">Доступна новая версия</string>
     <string name="context_is_null">Неверный параметр</string>
@@ -48,8 +48,8 @@
     <string name="get_cancel">Отменено пользователем</string>
     <string name="get_token_failed">Ошибка авторизации, проверьте настройки сети или системное время и повторите попытку.</string>
     <string name="heart_complete">Измерение завершено</string>
-    <string name="heart_faild">Измерение не удалось</string>
     <string name="heart_faild_touch_heavy">Нажмите сильнее</string>
+    <string name="heart_faild">Измерение не удалось</string>
     <string name="heart_fast">Выше среднего</string>
     <string name="heart_instru">Описание</string>
     <string name="heart_nofinger">Пресса не обнаружена</string>
@@ -74,10 +74,10 @@
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
     <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
     <string name="mc_cancel_praised_message">Отменить</string>
+    <string name="mc_cancel">Отмена</string>
     <string name="mc_change_num">Обновление</string>
     <string name="mc_collected_message">Избранное</string>
     <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
@@ -109,11 +109,11 @@
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">Сейчас</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">м.</string>
@@ -122,30 +122,30 @@
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
     <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
-    <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_close">Закрыть</string>
     <string name="mc_pm_contacts">Чтение контактов</string>
@@ -173,11 +173,11 @@
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
-    <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
-    <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_text">Поиск</string>
+    <string name="mc_search">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
@@ -199,8 +199,8 @@
     <string name="menu_skip">Пропустить</string>
     <string name="more_item_label">Ещё</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
-    <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
+    <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Разрешать всегда</string>
@@ -223,8 +223,8 @@
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
     <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
-    <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">Чтение контактов</string>
@@ -257,8 +257,8 @@
     <string name="notifications_summary_target">Вы достигли своей цели!</string>
     <string name="notifications_summary_within_target">%d шагов до намеченного плана!</string>
     <string name="notifications_title">%d шагов пройдено сегодня</string>
-    <string name="pattern_yesterday_hour_minute" formatted="false">Вчера %H:%M</string>
     <string name="pattern_yesterday_hour_minute_12" formatted="false">Вчера %I:%M %p</string>
+    <string name="pattern_yesterday_hour_minute" formatted="false">Вчера %H:%M</string>
     <string name="pedo_add">Добавить</string>
     <string name="pedo_calendar_calorie_text">Ккал в день</string>
     <string name="pedo_calendar_dash_target_text">план</string>
@@ -275,14 +275,14 @@
     <string name="pedo_calendar_title_week">Еженедельно</string>
     <string name="pedo_calendar_today">Сегодня</string>
     <string name="pedo_calendar_yesterday">Вчера</string>
-    <string name="pedo_disabled">Шагомер откл.</string>
     <string name="pedo_disabled_open">Шагомер откл., пожалуйста вкл. его</string>
+    <string name="pedo_disabled">Шагомер откл.</string>
     <string name="pedo_network_error">Отсутствует сетевое подключение, проверьте настройки.</string>
     <string name="pedo_network_settting">Настроить сеть</string>
     <string name="pedo_share_steps_today">Сегодня</string>
     <string name="pedo_share_steps_yesterday">Вчера</string>
-    <string name="pedometer">Шагомер</string>
     <string name="pedometer_data_source_page_label">Источник данных</string>
+    <string name="pedometer">Шагомер</string>
     <string name="personal_age_unit"> лет</string>
     <string name="personal_center_name">Я</string>
     <string name="personal_gender_boy">Мужской</string>
@@ -315,16 +315,16 @@
     <string name="pm_band_not_bind_dialog_positive_bt">Перейти к паре</string>
     <string name="pm_data_source">Источник данных</string>
     <string name="pm_login_Flyme">Логин</string>
-    <string name="pm_remove_band_dialog_remove_band">Удалить источники данных</string>
     <string name="pm_remove_band_dialog_remove_band_and_data">Удалить источники данных и историю</string>
-    <string name="pm_remove_binding">Удалить</string>
+    <string name="pm_remove_band_dialog_remove_band">Удалить источники данных</string>
     <string name="pm_remove_binding_failed">Не могу удалить</string>
     <string name="pm_remove_binding_success">Успешно удалено</string>
+    <string name="pm_remove_binding">Удалить</string>
     <string name="quit">Выход</string>
     <string name="scope_null_token">Авторизация не выполнена. Ошибка получения информации о %s</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="settings_nofify">Получать уведомления</string>
     <string name="settings_nofify_sum">Получать уведомления о событиях</string>
+    <string name="settings_nofify">Получать уведомления</string>
     <string name="settings_update_name">Проверить обновления</string>
     <string name="share_bluetouch">Bluetooth</string>
     <string name="share_cancel">Отменено</string>
@@ -352,11 +352,11 @@
     <string name="share_wechat_session">WeChat друзья</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="step"> шаг.</string>
-    <string name="steps">шагов</string>
     <string name="steps_of_date">Количество шагов %1$s</string>
+    <string name="steps">шагов</string>
     <string name="sync_timeout">Тайм-аут запроса. Повторите попытку.</string>
-    <string name="target">Цель</string>
     <string name="target_step">План: %1$d</string>
+    <string name="target">Цель</string>
     <string name="tips_pedo_not_support">«Извините, это устройство не поддерживает подсчет шагов»</string>
     <string name="toast_binding_flyme_accout">Авторизуйте шагомер для синхронизации шагов</string>
     <string name="today">Сегодня</string>

@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="a_">Лунный</string>
     <string name="a">Перейти на главный экран</string>
-    <string name="b">Перейти вверх</string>
-    <string name="c">Другие параметры</string>
-    <string name="d">Готово</string>
-    <string name="e">Показать все</string>
-    <string name="f">Выбрать приложение</string>
-    <string name="g">ОТКЛ.</string>
-    <string name="h">ВКЛ.</string>
-    <string name="i">Поиск</string>
-    <string name="j">Удалить запрос</string>
-    <string name="k">Поисковый запрос</string>
-    <string name="l">Поиск</string>
-    <string name="m">Отправить запрос</string>
-    <string name="n">Голосовой поиск</string>
-    <string name="o">Открыть доступ</string>
-    <string name="p">Открыть доступ приложению \"%s\"</string>
-    <string name="q">Свернуть</string>
-    <string name="r">Поиск</string>
-    <string name="s">>999</string>
-    <string name="t">Настройки</string>
-    <string name="u">Использовать по умолчанию</string>
-    <string name="v">Установить</string>
-    <string name="w">Выбрано файлов %1$s, всего %2$s Мб</string>
-    <string name="x">%1$s выбрано</string>
-    <string name="y">Разрешить</string>
-    <string name="z">Разрешать всегда</string>
     <string name="a0">Отмена</string>
     <string name="a1">Отмена</string>
     <string name="a2">Отменено</string>
@@ -36,7 +12,6 @@
     <string name="a7">%1$d дней назад</string>
     <string name="a8">Григорианский</string>
     <string name="a9">Скрыть Лунный</string>
-    <string name="a_">Лунный</string>
     <string name="aa">1 день спустя</string>
     <string name="ab">1 день назад</string>
     <string name="ac">Показать Григорианский</string>
@@ -63,6 +38,8 @@
     <string name="ax">Последнее обновление</string>
     <string name="ay">ч. назад</string>
     <string name="az">Сейчас</string>
+    <string name="b_">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="b">Перейти вверх</string>
     <string name="b0">мин. назад</string>
     <string name="b1">с. назад</string>
     <string name="b2">Сохранение изображения</string>
@@ -73,7 +50,6 @@
     <string name="b7">Сегодня</string>
     <string name="b8">Вчера</string>
     <string name="b9">Разрешить</string>
-    <string name="b_">%1$s требуется %3$d разрешен., включая %2$s</string>
     <string name="ba">ОК</string>
     <string name="bb">Разрешить Push</string>
     <string name="bd">Вызов</string>
@@ -98,6 +74,8 @@
     <string name="bx">Отправка SMS</string>
     <string name="by">Включить Bluetooth</string>
     <string name="bz">Включение передачи данных</string>
+    <string name="c_">Поиск</string>
+    <string name="c">Другие параметры</string>
     <string name="c0">Включить WLAN</string>
     <string name="c2">Как</string>
     <string name="c3">Потянуть вниз для обновления</string>
@@ -107,7 +85,6 @@
     <string name="c7">Поиск</string>
     <string name="c8">Поиск</string>
     <string name="c9">Очистить</string>
-    <string name="c_">Поиск</string>
     <string name="ca">с.</string>
     <string name="cb">ВС</string>
     <string name="cc">ЧТ</string>
@@ -134,6 +111,8 @@
     <string name="cx">м.</string>
     <string name="cy">м.</string>
     <string name="cz">с.</string>
+    <string name="d_">Другое</string>
+    <string name="d">Готово</string>
     <string name="d0">г</string>
     <string name="d1">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="d2">Разрешить</string>
@@ -144,7 +123,6 @@
     <string name="d7">%1$s требует %2$s %3$d разрешен.</string>
     <string name="d8">%1$s запрашивает резрегения %2$s %3$d</string>
     <string name="d9">Запрос следующих разрешения</string>
-    <string name="d_">Другое</string>
     <string name="da">ОК</string>
     <string name="db">Push-уведомления</string>
     <string name="dc">Переключение Bluetooth</string>
@@ -171,6 +149,8 @@
     <string name="dx">Отправка SMS</string>
     <string name="dy">Включение Bluetooth</string>
     <string name="dz">Включение передачи данных</string>
+    <string name="e_">Отменить загрузку</string>
+    <string name="e">Показать все</string>
     <string name="e0">Включение WLAN</string>
     <string name="e1">Доступ к WLAN</string>
     <string name="e2">Выход</string>
@@ -181,7 +161,6 @@
     <string name="e7">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="e8">Настройки сети</string>
     <string name="e9">Отмена</string>
-    <string name="e_">Отменить загрузку</string>
     <string name="ea">Отменить установку</string>
     <string name="eb">Удалить</string>
     <string name="ec">Скачать</string>
@@ -208,6 +187,8 @@
     <string name="ex">Установка...</string>
     <string name="ey">Текущая версия - актуальная</string>
     <string name="ez">Загрузить последнюю версию</string>
+    <string name="f_">Обновить сейчас</string>
+    <string name="f">Выбрать приложение</string>
     <string name="f0">Проверить обновления</string>
     <string name="f1">Что нового:</string>
     <string name="f3">ОК</string>
@@ -217,7 +198,6 @@
     <string name="f7">Если пропустить эту версию, то предложение об установке не последует</string>
     <string name="f8">Обновление завершено</string>
     <string name="f9">Обновлено до последней версии %s</string>
-    <string name="f_">Обновить сейчас</string>
     <string name="fa">Обновление в сети (%s)</string>
     <string name="fb">Напомнить позже</string>
     <string name="fc">Загрузить через мобильную сеть?</string>
@@ -242,6 +222,7 @@
     <string name="fx" formatted="false">%-e/%-m</string>
     <string name="fy" formatted="false">%-e/%-m %H:%M</string>
     <string name="fz" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="g">ОТКЛ.</string>
     <string name="g0" formatted="false">%a %-e/%-m %H:%M</string>
     <string name="g1" formatted="false">%a %-e/%-m %I:%M %p</string>
     <string name="g2" formatted="false">%-m/%Y</string>
@@ -274,6 +255,8 @@
     <string name="gv">В порядке</string>
     <string name="gw">«Время в пути до работы:»</string>
     <string name="gx">1 минута</string>
+    <string name="h_">Размер: %1$s</string>
+    <string name="h">ВКЛ.</string>
     <string name="h2">Время в пути %1$s:</string>
     <string name="h3">«Время в пути до места назначения:»</string>
     <string name="h4">«Время в пути до дома:»</string>
@@ -282,7 +265,6 @@
     <string name="h7">Прогулка</string>
     <string name="h8">Контакты</string>
     <string name="h9">Название: %1$s</string>
-    <string name="h_">Размер: %1$s</string>
     <string name="ha">Скачать уведомление</string>
     <string name="hb">Ошибка загрузки, нажмите, для перезагрузки</string>
     <string name="hc">Расширить</string>
@@ -303,6 +285,8 @@
     <string name="hu">Напоминание о рейсе %1$s</string>
     <string name="hx">Уезжать завтра. Время собираться!</string>
     <string name="hz">Приложения в сети</string>
+    <string name="i_">Снять в</string>
+    <string name="i">Поиск</string>
     <string name="i0">Поиск в сети</string>
     <string name="i1">Темы в сети</string>
     <string name="i2">Онлайн видео</string>
@@ -312,7 +296,6 @@
     <string name="i7">В порядке</string>
     <string name="i8">Багажная карусель</string>
     <string name="i9">Стойка регистрации</string>
-    <string name="i_">Снять в</string>
     <string name="ia">Прибыли</string>
     <string name="ie">Уведомление</string>
     <string name="if">Отмена</string>
@@ -333,6 +316,8 @@
     <string name="ix">Введите адрес</string>
     <string name="iy">Изменить поездку</string>
     <string name="iz">Ездить</string>
+    <string name="j_">Настройки</string>
+    <string name="j">Удалить запрос</string>
     <string name="j0">Показать маршруты в реальном времени</string>
     <string name="j1">Работа</string>
     <string name="j2">Рассчитать время поездки в режиме реального времени</string>
@@ -343,7 +328,6 @@
     <string name="j7">Езда</string>
     <string name="j8">Дом</string>
     <string name="j9">Информационная карта</string>
-    <string name="j_">Настройки</string>
     <string name="ja">Не удалось найти ваш город</string>
     <string name="jb">Ошибка сети, пожалуйста, нажмите, чтобы перезагрузить</string>
     <string name="jc">Нет соответствующего адреса</string>
@@ -368,6 +352,8 @@
     <string name="jx">Понедельник</string>
     <string name="jy">Вторник</string>
     <string name="jz">Среда</string>
+    <string name="k_">Магазин Приложений</string>
+    <string name="k">Поисковый запрос</string>
     <string name="k0">Четверг</string>
     <string name="k1">Пятница</string>
     <string name="k2">Суббота</string>
@@ -378,7 +364,6 @@
     <string name="k7">Добавить</string>
     <string name="k8">Добавить на Рабочий Стол</string>
     <string name="k9">Добавить Поиск на Рабочий Стол</string>
-    <string name="k_">Магазин Приложений</string>
     <string name="ka">Реклама</string>
     <string name="kb">Открыть</string>
     <string name="kc">Продолжить</string>
@@ -404,6 +389,8 @@
     <string name="kx">Нет сетевого соединения</string>
     <string name="ky">Новости</string>
     <string name="kz">Открыть</string>
+    <string name="l_">История Поиска</string>
+    <string name="l">Поиск</string>
     <string name="l0">приложения, видео, новости и т.д.</string>
     <string name="l1">Рекомендуемые</string>
     <string name="l2">Воспроизвести</string>
@@ -412,7 +399,6 @@
     <string name="l7">Поиск по приложениям</string>
     <string name="l8">Поиск в Сети</string>
     <string name="l9">Поиск в сети, настройки, приложения, видео...</string>
-    <string name="l_">История Поиска</string>
     <string name="la">Поиск в Магазине Приложений</string>
     <string name="lb">Поиск в Поддержке</string>
     <string name="lc">Поиск в Музыке</string>
@@ -439,6 +425,8 @@
     <string name="lx">Синхронизировать историю поиска</string>
     <string name="ly">Объединить историю поиска из других приложений</string>
     <string name="lz">Перетащите иконки для сортировки</string>
+    <string name="m_">Посадка</string>
+    <string name="m">Отправить запрос</string>
     <string name="m0">Пользовательская категория</string>
     <string name="m1">Последние новости</string>
     <string name="m2">Тип</string>
@@ -449,7 +437,6 @@
     <string name="m7">Ввод</string>
     <string name="m8">Локальные приложения</string>
     <string name="m9">Локальные контакты</string>
-    <string name="m_">Посадка</string>
     <string name="ma">Отправление в</string>
     <string name="mb">Место</string>
     <string name="mc">Время отправления</string>
@@ -466,6 +453,7 @@
     <string name="mn">Назначение погоды</string>
     <string name="mo">Без метки</string>
     <string name="mp">Я делюсь этой статьей от информационного центра Meizu. Проверьте!</string>
+    <string name="n">Голосовой поиск</string>
     <string name="n9">Установить</string>
     <string name="na">Загрузить в...</string>
     <string name="nb">Нет сети, попробуйте позже</string>
@@ -482,6 +470,8 @@
     <string name="nx">Ошибка сети</string>
     <string name="ny">Загрузка...</string>
     <string name="nz">Нет контента</string>
+    <string name="o_">просто</string>
+    <string name="o">Открыть доступ</string>
     <string name="o0">Нет подключения к сети</string>
     <string name="o1">Похоже есть ошибки при работе в сети</string>
     <string name="o2">Сеть выключена</string>
@@ -492,7 +482,6 @@
     <string name="o7">Определить</string>
     <string name="o8">Сетевое исключение, нажмите повторить</string>
     <string name="o9">Нет контента</string>
-    <string name="o_">просто</string>
     <string name="oa">Загрузка</string>
     <string name="ob">Больше горячих точек</string>
     <string name="oc">Похоже есть ошибки при работе в сети</string>
@@ -501,4 +490,15 @@
     <string name="og">Нет подключения к сети, пожалуйста, проверьте настройки сети</string>
     <string name="oh">Обновить сейчас</string>
     <string name="oi">Видимость пароля</string>
+    <string name="p">Открыть доступ приложению \"%s\"</string>
+    <string name="q">Свернуть</string>
+    <string name="r">Поиск</string>
+    <string name="s">>999</string>
+    <string name="t">Настройки</string>
+    <string name="u">Использовать по умолчанию</string>
+    <string name="v">Установить</string>
+    <string name="w">Выбрано файлов %1$s, всего %2$s Мб</string>
+    <string name="x">%1$s выбрано</string>
+    <string name="y">Разрешить</string>
+    <string name="z">Разрешать всегда</string>
 </resources>

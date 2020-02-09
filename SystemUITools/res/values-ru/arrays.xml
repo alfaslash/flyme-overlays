@@ -33,18 +33,18 @@
         <item>30</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Янв</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
         <item>Май</item>
-        <item>Июн</item>
-        <item>Июл</item>
-        <item>Авг</item>
-        <item>Сен</item>
-        <item>Окт</item>
-        <item>Ноя</item>
-        <item>Дек</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
     </string-array>
     <string-array name="mc_custom_weekday">
         <item>Вс</item>
@@ -56,10 +56,10 @@
         <item>Сб</item>
     </string-array>
     <string-array name="luckymoney_sound_name">
-        <item>Сюрприз</item>
-        <item>Удача</item>
-        <item>Золото</item>
-        <item>Звезды сияют</item>
+        <item>Lucky money</item>
+        <item>Good luck</item>
+        <item>Coins dropping</item>
+        <item>Stars shining</item>
         <item>Без звука</item>
     </string-array>
     <string-array name="layout_entires">
@@ -81,10 +81,10 @@
         <item>Вс</item>
     </string-array>
     <string-array name="child_mode_limit_time_array">
-        <item>Полностью запрещено</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>Без ограничений</item>
+        <item>Запрещено</item>
+        <item>1 ч.</item>
+        <item>2 ч.</item>
+        <item>3 ч.</item>
+        <item>Без лимита</item>
     </string-array>
 </resources>

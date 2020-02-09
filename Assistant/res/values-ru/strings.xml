@@ -14,8 +14,8 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_desc">Помощь при получении заказа в магазине</string>
     <string name="action_finished">Завершено</string>
@@ -28,9 +28,9 @@
     <string name="address_setting_suggestion_title">Предлагаемый адрес</string>
     <string name="address_setting_tips">Пожалуйста, введите адрес</string>
     <string name="aicy_car_info">Информация об автомобиле</string>
-    <string name="aicy_set_address">Выбрать адрес</string>
     <string name="aicy_set_address_entry">Выбрать общий адрес</string>
     <string name="aicy_set_address_tips">После улучшения информации вы можете просмотреть рекомендации по замене или использовать голосовую команду, чтобы перейти к работе.</string>
+    <string name="aicy_set_address">Выбрать адрес</string>
     <string name="all_todo_history">Добавить к истории</string>
     <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
     <string name="anniversary_title">годовщина</string>
@@ -42,8 +42,8 @@
     <string name="assistant_install_complete_text">Открыть</string>
     <string name="assistant_install_idle_text">Установить</string>
     <string name="assistant_install_retry">Повторить</string>
-    <string name="assistant_installing_text">Установка...</string>
     <string name="assistant_installing_text_1">Установка...</string>
+    <string name="assistant_installing_text">Установка...</string>
     <string name="assistant_nba_add_team">Добавить команду</string>
     <string name="assistant_nba_board">Ранжирование</string>
     <string name="assistant_nba_header_title">Информация NBA</string>
@@ -59,33 +59,33 @@
     <string name="assistant_view_more_events">Больше расписаний</string>
     <string name="background_install">Установка в фоне</string>
     <string name="behavior_app_total_hour">ч</string>
-    <string name="behavior_app_total_minute">м</string>
     <string name="behavior_app_total_minute_single">мин</string>
+    <string name="behavior_app_total_minute">м</string>
     <string name="behavior_app_total_second">с</string>
     <string name="behavior_card_settings_summary">Запись ежедневного использования</string>
     <string name="behavior_hint">Продолжение покажет больше</string>
-    <string name="behavior_notifications">Элемент(ы)</string>
     <string name="behavior_notifications_desc">Уведомления</string>
-    <string name="behavior_screen_on_times">Время</string>
+    <string name="behavior_notifications">Элемент(ы)</string>
     <string name="behavior_screen_on_times_desc">Подобрать</string>
+    <string name="behavior_screen_on_times">Время</string>
     <string name="behavior_used_time_desc">Время использования</string>
     <string name="bind_phone_success_btn">Понял</string>
     <string name="bind_phone_success_summary">Получать уведомления, при экспресс-обновлениях</string>
     <string name="bind_phone_success_title_1">Признанный местный номер</string>
     <string name="birthday_title">летний день рождения</string>
     <string name="birthday_zero_title">день рождения</string>
-    <string name="bookmark">Мое Избранное</string>
     <string name="bookmark_add_succeed">Успешно добавлено</string>
     <string name="bookmark_add_to_my_favorite">Добавить к ледяным взглядам</string>
     <string name="bookmark_auto_set">Настройка автоматического сбора данных</string>
     <string name="bookmark_collect_from">От: %1$s</string>
     <string name="bookmark_search_failed">Результаты не Найдены</string>
-    <string name="bookmark_setting_auto_collection">Авто фаворит</string>
     <string name="bookmark_setting_auto_collection_tips">Синхронизация новых элементов каждого приложения</string>
+    <string name="bookmark_setting_auto_collection">Авто фаворит</string>
     <string name="bookmark_setting_auto_tips">После включения автоматического сбора нажмите кнопку «Избранное» в стороннем приложении, чтобы автоматически синхронизировать коллекцию с коллекцией Айси.</string>
     <string name="bookmark_setting_collection_management">Управление автоматически избранными приложениями</string>
     <string name="bookmark_setting_success_notification">Уведомления об авто-избранном</string>
     <string name="bookmark_src_share">Поделиться</string>
+    <string name="bookmark">Мое Избранное</string>
     <string name="bus_support_tips">Информация об автобусах в реальном времени, поддерживаемая CheLaiLe</string>
     <string name="calendar_pkg_name">Календарь</string>
     <string name="cancel_remind">Отменить оповещение</string>
@@ -103,10 +103,10 @@
     <string name="card_credit_bill_card_number">Последние 4 цифры номера кредитной карты</string>
     <string name="card_credit_bill_from">От</string>
     <string name="card_credit_bill_menu_title">Счет кредитной карты</string>
-    <string name="card_credit_bill_need_repay">%1$s счет: ¥%2$s</string>
     <string name="card_credit_bill_need_repay_no_money">%1$s счет для погашения</string>
-    <string name="card_credit_bill_repay">Погасить</string>
+    <string name="card_credit_bill_need_repay">%1$s счет: ¥%2$s</string>
     <string name="card_credit_bill_repay_date">День погашения</string>
+    <string name="card_credit_bill_repay">Погасить</string>
     <string name="card_credit_bill_title">Погашение кредитной карты</string>
     <string name="card_dataplan_btn">Пополнение данных</string>
     <string name="card_dataplan_guide_1">Настройка статистики трафика</string>
@@ -114,18 +114,18 @@
     <string name="card_dataplan_info">%1$s дней осталось для расчета трафика</string>
     <string name="card_dataplan_menu_title">Статистика трафика</string>
     <string name="card_dataplan_switch">Просмотр карты %1$s</string>
-    <string name="card_dataplan_title">Использование данных</string>
     <string name="card_dataplan_title_day_used">Ежедневно используется</string>
     <string name="card_dataplan_title_month_left">Остались</string>
     <string name="card_dataplan_title_month_over">Чрезмерное потребление, чем месячный план</string>
     <string name="card_dataplan_title_month_used">Ежемесячно используется</string>
+    <string name="card_dataplan_title">Использование данных</string>
     <string name="card_driver_route_address_setting_company">Установить адрес компании или школы</string>
     <string name="card_driver_route_address_setting_home">Установить домашний адрес</string>
     <string name="card_driver_route_address_setting_title">Нажмите, чтобы установить</string>
     <string name="card_driver_route_btn_go_company">Рабочий маршрут</string>
-    <string name="card_driver_route_btn_go_didi">Такси</string>
     <string name="card_driver_route_btn_go_didi_company">Такси на работу</string>
     <string name="card_driver_route_btn_go_didi_home">Такси до дома</string>
+    <string name="card_driver_route_btn_go_didi">Такси</string>
     <string name="card_driver_route_btn_go_home">Домашний маршрут</string>
     <string name="card_driver_route_btn_setting">настройка</string>
     <string name="card_driver_route_crowed_road_info">Существует %1$s    Предложение принятия %2$s;%3$s имеет %4$s m %1$s</string>
@@ -135,11 +135,11 @@
     <string name="card_driver_route_loading">Загрузка маршрута водителя</string>
     <string name="card_driver_route_nearby_company">Уже рядом с Компанией</string>
     <string name="card_driver_route_nearby_home">Уже недалеко от дома</string>
-    <string name="card_driver_route_position_description">Уже поблизости</string>
     <string name="card_driver_route_position_description_distance_company">Расстояние до Компании: %s Км</string>
     <string name="card_driver_route_position_description_distance_home">Расстояние до Дома: %s Km</string>
-    <string name="card_driver_route_road_info">Дорога уже разблокирована    Есть предложение поехать %s</string>
+    <string name="card_driver_route_position_description">Уже поблизости</string>
     <string name="card_driver_route_road_info_no_roadname">Теперь дорога разблокирована</string>
+    <string name="card_driver_route_road_info">Дорога уже разблокирована    Есть предложение поехать %s</string>
     <string name="card_driver_route_setting_get_address_auto">Автоматическое определение адреса</string>
     <string name="card_driver_route_setting_position_company">Компания или школа</string>
     <string name="card_driver_route_setting_position_home">Главная</string>
@@ -194,8 +194,8 @@
     <string name="card_paymentset_more_btn">Добавить к записи</string>
     <string name="card_paymentset_title">Платежи</string>
     <string name="card_place_menu_title">Место</string>
-    <string name="card_place_pop_menu_item">Пропустить</string>
     <string name="card_place_pop_menu_item_1">Пропустить это напоминание</string>
+    <string name="card_place_pop_menu_item">Пропустить</string>
     <string name="card_place_service_film_name">Купить билеты в кино</string>
     <string name="card_place_title">Разместить Услуги</string>
     <string name="card_plane_action_navigate">Поехать в аэропорт</string>
@@ -294,8 +294,8 @@
     <string name="card_step_add_info">Настройка личной информации</string>
     <string name="card_step_calorie">Килокалории</string>
     <string name="card_step_count">Шаги</string>
-    <string name="card_step_distance">Километр</string>
     <string name="card_step_distance_metre">м</string>
+    <string name="card_step_distance">Километр</string>
     <string name="card_step_install_tips">Настроить Шагомер</string>
     <string name="card_step_menu_title">Шагомер Мейзу</string>
     <string name="card_step_title">Шагомер</string>
@@ -329,14 +329,14 @@
     <string name="card_sub_express_tip_detail">Нажмите, чтобы просмотреть детали</string>
     <string name="card_sub_express_tip_title">Привязать телефон к Track Express</string>
     <string name="card_sub_express_title">Экспресс обновления</string>
-    <string name="card_sub_service_agreement">Вы соглашаетесь, если вы связываете свой номер телефона</string>
     <string name="card_sub_service_agreement_1">Сервисное соглашение</string>
     <string name="card_sub_service_agreement_title">Сервисное соглашение</string>
+    <string name="card_sub_service_agreement">Вы соглашаетесь, если вы связываете свой номер телефона</string>
     <string name="card_sub_unbind_dialog_title">Вы не будете получать экспресс-обновления после отмены привязки</string>
     <string name="card_sync_remind_btn_dont_keep">забывать</string>
     <string name="card_sync_remind_btn_keep">Держать</string>
-    <string name="card_sync_remind_desc">Сохранить старый аккаунт %1$s данных?</string>
     <string name="card_sync_remind_desc_no_name">Сохранить старые данные аккаунта?</string>
+    <string name="card_sync_remind_desc">Сохранить старый аккаунт %1$s данных?</string>
     <string name="card_sync_remind_message">Вы вошли в новую учетную запись flyme</string>
     <string name="card_sync_remind_title">Синхронизация напомнить</string>
     <string name="card_telephone_end_time">Крайний срок</string>
@@ -370,13 +370,13 @@
     <string name="commute_time_1m">1 минута</string>
     <string name="commute_time_after_tomorrow">Послезавтра</string>
     <string name="commute_time_almost">Скоро</string>
-    <string name="commute_time_days">%1$s дней</string>
     <string name="commute_time_days_and_hours">%1$s дней %2$s часов</string>
-    <string name="commute_time_hours">%1$s часов</string>
+    <string name="commute_time_days">%1$s дней</string>
     <string name="commute_time_hours_and_minutes">%1$s часов %2$s минут</string>
     <string name="commute_time_hours_before">%1$s часов назад</string>
-    <string name="commute_time_minutes">%1$s минут</string>
+    <string name="commute_time_hours">%1$s часов</string>
     <string name="commute_time_minutes_before">%1$s минут назад</string>
+    <string name="commute_time_minutes">%1$s минут</string>
     <string name="commute_time_more_than_x_hours">Больше, чем %1$s часов</string>
     <string name="commute_time_now">Только что</string>
     <string name="commute_time_today">Сегодня</string>
@@ -384,13 +384,12 @@
     <string name="commute_time_years_and_days">%1$s год %2$s дней</string>
     <string name="connect_bl">"«Когда Bluetooth отключен Ваша парковка будет помечена"</string>
     <string name="context_is_null">Неправильный параметр</string>
-    <string name="daily_way">Ежедневное путешествие</string>
     <string name="daily_way_change_settings">Перепланирование</string>
     <string name="daily_way_company">Компания</string>
     <string name="daily_way_custom">Настроить</string>
-    <string name="daily_way_destination">Место назначения</string>
-    <string name="daily_way_destination_address">Место назначения</string>
     <string name="daily_way_destination_address_custom_lable">Пользовательский ярлык</string>
+    <string name="daily_way_destination_address">Место назначения</string>
+    <string name="daily_way_destination">Место назначения</string>
     <string name="daily_way_home">Главная</string>
     <string name="daily_way_navigating">Планирование навигации</string>
     <string name="daily_way_need_time">Это займет от %2$s до %1$s</string>
@@ -402,6 +401,7 @@
     <string name="daily_way_too_far">Слишком далеко от цели</string>
     <string name="daily_way_too_near">Всего %1$.0f метров от вашей цели</string>
     <string name="daily_way_type">Автомобиль</string>
+    <string name="daily_way">Ежедневное путешествие</string>
     <string name="date_time_set">Установить</string>
     <string name="def_card_name">Имя Карты</string>
     <string name="def_des">Это сообщение</string>
@@ -418,8 +418,8 @@
     <string name="duoqu_delete_en">Удалить</string>
     <string name="duoqu_double_line_arr_time">--</string>
     <string name="duoqu_double_line_dep_time">--</string>
-    <string name="duoqu_ui_part_double_line" />
     <string name="duoqu_ui_part_double_line_an">--</string>
+    <string name="duoqu_ui_part_double_line" />
     <string name="duoqu_ui_part_train_no_price">--</string>
     <string name="edit_tittle">Изменить заголовок</string>
     <string name="error_is_throwed">Авторизация не удалась, повторите попытку позже.</string>
@@ -442,12 +442,11 @@
     <string name="html_viewer_copy_link">Копировать ссылку</string>
     <string name="html_viewer_open_in_browser">Открыть в браузере</string>
     <string name="html_viewer_share">Поделиться</string>
-    <string name="install">Установить</string>
     <string name="install_app">Установить</string>
     <string name="install_button_cancel">Отмена</string>
     <string name="install_button_hide">Скрыть</string>
-    <string name="install_button_install">Установить</string>
     <string name="install_button_install_mobile">Установить по мобильной сети</string>
+    <string name="install_button_install">Установить</string>
     <string name="install_error">Произошла ошибка, код =%d</string>
     <string name="install_failure">Не удалось установить DirectService</string>
     <string name="install_map_tips">Пожалуйста, сначала установите приложение Карты</string>
@@ -456,10 +455,11 @@
     <string name="install_title_installing">Установка...</string>
     <string name="install_title_launching">Запуск</string>
     <string name="install_title_prompt">Установите DirectService, чтобы открыть быстрое приложение</string>
+    <string name="install">Установить</string>
     <string name="installing">Установка...</string>
     <string name="intent_handle">Пожалуйста, обработайте возвращаемое значение</string>
-    <string name="introduce_about_bookmark">Узнайте о моих избранных</string>
     <string name="introduce_about_bookmark_1">Помощь</string>
+    <string name="introduce_about_bookmark">Узнайте о моих избранных</string>
     <string name="introduce_add_bookmark">Как добавить в избранное</string>
     <string name="introduce_add_summary">Предоставить несколько способов добавить в избранное</string>
     <string name="introduce_add_title">Легко добавить в избранное</string>
@@ -481,10 +481,10 @@
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
-    <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отмена</string>
+    <string name="mc_cancel">Отмена</string>
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Статус избранного</string>
     <string name="mc_custom_date_time_days_after">%1$d дней после</string>
@@ -515,11 +515,11 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">с назад</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">м</string>
@@ -529,24 +529,24 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
     <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
-    <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_close">Закрыть</string>
     <string name="mc_pm_contacts">Чтение контактов</string>
@@ -574,11 +574,11 @@
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
-    <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
-    <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_text">Поиск</string>
+    <string name="mc_search">Поиск</string>
     <string name="mc_second">с</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -609,8 +609,8 @@
     <string name="more_quick_game">Еще QuickGames</string>
     <string name="my_team">Мои команды</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
-    <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
+    <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Разрешать всегда</string>
@@ -636,8 +636,8 @@
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
     <string name="mz_pm_bluetooth">переключение Bluetooth</string>
-    <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_call_log">чтение журнала вызовов</string>
+    <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_camera">использование камеры</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">чтение контактов</string>
@@ -668,15 +668,15 @@
     <string name="mz_specific_permission_deny">Запретить, чтобы дать разрешение</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
-    <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
+    <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_delete">Удалить</string>
-    <string name="mzuc_download">Скачать</string>
     <string name="mzuc_download_fail">Ошибка загрузки</string>
     <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
     <string name="mzuc_download_finish_s" formatted="false">%s %s - загрузка завершена</string>
     <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
+    <string name="mzuc_download">Скачать</string>
     <string name="mzuc_downloading">Загрузка</string>
     <string name="mzuc_file_size_s">Будет потреблено %s данных</string>
     <string name="mzuc_found_update_s">Доступно обновление: %s</string>
@@ -704,10 +704,10 @@
     <string name="mzuc_retry">Повторить</string>
     <string name="mzuc_skip_version">Пропустить</string>
     <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
-    <string name="mzuc_update_finish">Обновление завершено</string>
     <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
-    <string name="mzuc_update_immediately">Обновить сейчас</string>
+    <string name="mzuc_update_finish">Обновление завершено</string>
     <string name="mzuc_update_immediately_roaming">Обновление в роуминге (%s)</string>
+    <string name="mzuc_update_immediately">Обновить сейчас</string>
     <string name="mzuc_update_later">Напомнить позже</string>
     <string name="mzuc_update_mobile_network">Загрузить через мобильную сеть?</string>
     <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
@@ -716,15 +716,15 @@
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="nba_4_team_at_most">Максимум 4 команды могут быть добавлены</string>
     <string name="nba_edit_teams">Редактировать команды</string>
-    <string name="nba_news">Последние новости</string>
     <string name="nba_news_more">Больше новостей</string>
     <string name="nba_news_switch">Изменить</string>
+    <string name="nba_news">Последние новости</string>
     <string name="network_exception">Ошибка сети. Попробуй позже</string>
     <string name="network_html_load_exception">404 Не Найдено</string>
     <string name="network_unavailable">Нет соединения с сетью</string>
     <string name="no_bookmark">Нет коллекций</string>
-    <string name="no_express">Нет экспресс</string>
     <string name="no_express_1">Нет экспресс-доставки</string>
+    <string name="no_express">Нет экспресс</string>
     <string name="no_net">Нет сети</string>
     <string name="no_title_label">Без названия</string>
     <string name="note_tilte">Примечание (%d)</string>
@@ -750,11 +750,11 @@
     <string name="preference_route_summary">Для маршрута</string>
     <string name="ptr_go_Refreshing">Отпустите, чтобы обновить</string>
     <string name="ptr_is_Refreshing">Загрузка</string>
-    <string name="ptr_last_refresh">Последнее обновление</string>
     <string name="ptr_last_refresh_hour">несколько часов назад</string>
     <string name="ptr_last_refresh_just_now">прямо сейчас</string>
     <string name="ptr_last_refresh_minute">минут назад</string>
     <string name="ptr_last_refresh_second">секунд назад</string>
+    <string name="ptr_last_refresh">Последнее обновление</string>
     <string name="ptr_pull_refresh">Потяните вниз, чтобы обновить</string>
     <string name="quick_action_empty_tips">Держите 1 по крайней мере</string>
     <string name="quick_action_full_tips">Добавить до 12</string>
@@ -764,12 +764,12 @@
     <string name="quick_actions_app_not_installed">Нужно устиновить %1$s</string>
     <string name="quick_actions_app_version_mismatch">Несоответствие версии приложения</string>
     <string name="quick_actions_change">Изменить</string>
-    <string name="quick_actions_custom">Настроить</string>
     <string name="quick_actions_custom_actions">Настроить ярлыки функций</string>
+    <string name="quick_actions_custom">Настроить</string>
     <string name="quick_actions_intelligent">автоматическая</string>
-    <string name="quick_actions_sort">Настроить порядок</string>
     <string name="quick_actions_sort_description">Перетащите значки на правой стороне, чтобы изменить их порядок</string>
     <string name="quick_actions_sort_finish">Готово</string>
+    <string name="quick_actions_sort">Настроить порядок</string>
     <string name="quick_actions_switch">Функциональный переключатель</string>
     <string name="quick_actions_title">Функциональное сокращение</string>
     <string name="quick_app_add_to_favourite">Добавить ко мне</string>
@@ -782,8 +782,8 @@
     <string name="reader_desc">%1$s слова. Занимает %2$s мин на чтение</string>
     <string name="reader_mode_title">Режим чтения</string>
     <string name="reader_pkg_name">Новости</string>
-    <string name="reader_save_photo">Сохранить фото</string>
     <string name="reader_save_photo_complete">Сохраненный</string>
+    <string name="reader_save_photo">Сохранить фото</string>
     <string name="reader_search_hint">Поиск заголовка</string>
     <string name="reader_setting_bg_1">классический</string>
     <string name="reader_setting_bg_2">Eye-дружественный</string>
@@ -802,12 +802,12 @@
     <string name="regard_sleep">Время летит. Спать рано.</string>
     <string name="remind_add">Установить оповещение</string>
     <string name="remind_set">Установить оповещение</string>
-    <string name="remove">Удалить</string>
     <string name="remove_ad">Пропустить</string>
-    <string name="remove_bookmark">Удалить из Избранного</string>
     <string name="remove_bookmark_number">Удалить %1$d из Избранного</string>
     <string name="remove_bookmark_prompt_title">Удалить Избранные</string>
+    <string name="remove_bookmark">Удалить из Избранного</string>
     <string name="remove_express_number">Удалить %1$d сообщений</string>
+    <string name="remove">Удалить</string>
     <string name="restore_dialog_text">%1$s было удалено, хотите установить?</string>
     <string name="save">Сохранить</string>
     <string name="scope_null_token">Авторизация не удалась. Ошибка при получении информации о %s</string>
@@ -815,8 +815,8 @@
     <string name="search_audio">Музыка</string>
     <string name="search_click_to_search">Поиск веб-страниц, настроек, приложений, видео ...</string>
     <string name="search_contact">контакты</string>
-    <string name="search_hint">Поиск</string>
     <string name="search_hint_by_type">Поиск %1$s</string>
+    <string name="search_hint">Поиск</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_mz_app">Интернет-приложения</string>
     <string name="search_mz_theme">Интернет темы</string>
@@ -836,8 +836,8 @@
     <string name="settings_football_title">Информация о Футболе</string>
     <string name="settings_health_summary">Записывать информацию о движении и сне и сообщать еженедельно</string>
     <string name="settings_health_title">Спорт и Здоровье</string>
-    <string name="settings_media_nba">Информация NBA</string>
     <string name="settings_media_nba_summary">«Показать диапазон команды и новости интереса»</string>
+    <string name="settings_media_nba">Информация NBA</string>
     <string name="settings_mobile_data_summary">Использование данных в реальном времени</string>
     <string name="settings_mobile_data_title">Статистика трафика</string>
     <string name="settings_nearby_recommend_summary">Рекомендовать магазины и услуги в зависимости от вашего местоположения</string>
@@ -862,7 +862,6 @@
     <string name="smart_remind_native_to_station">Перейти на станцию</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="title_activity_voice_support_setting">Настройки</string>
-    <string name="todo">Задачи</string>
     <string name="todo_add">Добавить задачу</string>
     <string name="todo_cancel">Незавершенные</string>
     <string name="todo_clear_confirm">Очистить завершенные задачи?</string>
@@ -877,6 +876,7 @@
     <string name="todo_remind">Напоминания</string>
     <string name="todo_title">Сделано (%d)</string>
     <string name="todo_top">Главные задачи</string>
-    <string name="todo_voice">Аудио</string>
     <string name="todo_voice_tip">Пожалуйста, говорите</string>
+    <string name="todo_voice">Аудио</string>
+    <string name="todo">Задачи</string>
 </resources>
