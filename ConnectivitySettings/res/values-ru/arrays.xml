@@ -92,7 +92,7 @@
         <item>Правка журнала вызовов</item>
         <item>Чтение календаря</item>
         <item>Правка календаря</item>
-        <item>Поиск WLAN</item>
+        <item>Поиск Wi-Fi</item>
         <item>Уведомления</item>
         <item>Сканирование сети</item>
         <item>Набор</item>
@@ -539,7 +539,7 @@
     <string-array name="security_settings_premium_sms_values">
         <item>По запросу</item>
         <item>Не разрешать</item>
-        <item>Разрешать всегда</item>
+        <item>Всегда разрешать</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>64 Кб</item>
@@ -672,12 +672,12 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
-        <item>Инициализация...</item>
-        <item>Подключение...</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
         <item>Подключено</item>
         <item>Тайм-аут</item>
         <item>Ошибка</item>
-        <item>Переподключение...</item>
+        <item>Переподключение…</item>
     </string-array>
     <string-array name="vpn_states_ext_mtpd_exit">
         <item>Системная ошибка</item>
@@ -795,7 +795,7 @@
         <item></item>
         <item>Поиск…</item>
         <item>Подключение…</item>
-        <item>Аутентификация...</item>
+        <item>Аутентификация…</item>
         <item>Получение IP-адреса…</item>
         <item>Подключено</item>
         <item>Приостановлено</item>
@@ -808,12 +808,12 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Поиск…</item>
-        <item>Подключение к %1$s...</item>
-        <item>Аутентификация через %1$s...</item>
-        <item>Получение IP-адреса от %1$s...</item>
+        <item>Подключение к %1$s…</item>
+        <item>Аутентификация через %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
         <item>Приостановлено</item>
-        <item>Отключение от %1$s...</item>
+        <item>Отключение от %1$s…</item>
         <item>Отключено</item>
         <item>Ошибка</item>
         <item>Заблокировано</item>

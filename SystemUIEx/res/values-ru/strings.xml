@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на рабочий стол</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -25,7 +25,7 @@
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
@@ -35,7 +35,7 @@
     <string name="mc_custom_date_time_day_after">дн. спустя</string>
     <string name="mc_custom_date_time_day_before">дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
     <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>

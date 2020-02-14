@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -15,17 +15,17 @@
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="search_menu_title">Поиск</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_settings">Настройки</string>
-    <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="date_time_set">Установить</string>
     <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМб</string>
     <string name="item_is_selected">%1$s выбрано</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
@@ -35,7 +35,7 @@
     <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дней назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 день спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 день назад</string>
@@ -48,7 +48,7 @@
     <string name="mc_date_time_month">м.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -75,7 +75,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
@@ -100,8 +100,8 @@
     <string name="mc_pm_s_sms">Отправка SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -131,7 +131,7 @@
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">d</string>
     <string name="mz_date_time_hour">h</string>
     <string name="mz_date_time_min">m</string>
@@ -150,18 +150,18 @@
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_call_log">Чтение журнала вызовов</string>
     <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">Чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">Местоположение</string>
     <string name="mz_pm_network">Передача данных</string>
-    <string name="mz_pm_nfc">Переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">Доступ в интернет</string>
@@ -174,8 +174,8 @@
     <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">Включение WLAN</string>
-    <string name="mz_pm_wlan">Доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Передать</string>
@@ -208,7 +208,7 @@
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
-    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_installing">Установка…</string>
     <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
@@ -243,8 +243,8 @@
     <string name="weibo_app">Weibo</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
@@ -797,7 +797,7 @@
     <string name="notification_update_virus_lib_title">Обновление БД вирусов</string>
     <string name="notification_updated_virus_lib_content">Поиск вирусов</string>
     <string name="notification_updated_virus_lib_title">БД вирусов обновлена</string>
-    <string name="notification_updating_virus_lib_content">Обновление...</string>
+    <string name="notification_updating_virus_lib_content">Обновление…</string>
     <string name="notification_updating_virus_lib_title">Обновление БД вирусов</string>
     <string name="notify_msg">Уведомления</string>
     <string name="notify_sub_title_lsvm">%1$s пытается отобразить содержимое на экране блокировки</string>
@@ -1029,8 +1029,8 @@
     <string name="set_bluetooth_on_c">включать Bluetooth</string>
     <string name="set_gprs_on">Включить мобильную сеть</string>
     <string name="set_gprs_on_c">включать мобильную сеть</string>
-    <string name="set_wifi_on">Включить WLAN</string>
-    <string name="set_wifi_on_c">включать WLAN</string>
+    <string name="set_wifi_on">Включить Wi-Fi</string>
+    <string name="set_wifi_on_c">включать Wi-Fi</string>
     <string name="settings">Настройки</string>
     <string name="settings_category_title">Функциональные модули</string>
     <string name="setupEntrance_textView">Настроить трафик</string>
@@ -1177,7 +1177,7 @@
     <string name="trafficCorrection">Калибровка трафика</string>
     <string name="trafficUnit">Мб</string>
     <string name="traffic_add_directional_app">Добавить ПО</string>
-    <string name="traffic_airplanemode">Невозможно включить режим \"В самолёте\"</string>
+    <string name="traffic_airplanemode">Невозможно включить \"Авиарежим\"</string>
     <string name="traffic_app_list">Список приложений</string>
     <string name="traffic_app_list_no">Нет приложений</string>
     <string name="traffic_background_allow">Передача данных в фоне разрешена</string>
@@ -1187,7 +1187,7 @@
     <string name="traffic_background_mobile_title">Моб. данные в фоне</string>
     <string name="traffic_background_network">Передача данных в фоне</string>
     <string name="traffic_background_reject">Передача данных в фоне запрещена</string>
-    <string name="traffic_background_wifi_title">Данные WLAN в фоне</string>
+    <string name="traffic_background_wifi_title">Данные Wi-Fi в фоне</string>
     <string name="traffic_click_to_correct">Калибровка</string>
     <string name="traffic_click_to_setUp">Нажмите для настройки</string>
     <string name="traffic_controll_hint">Оповещение и отключение при перерасходе</string>
@@ -1221,7 +1221,7 @@
     <string name="traffic_day_plan">Ежедневный поток трафика</string>
     <string name="traffic_day_plan_title">Сегодняшний план</string>
     <string name="traffic_day_plan_total">Ежедневный поток трафика</string>
-    <string name="traffic_day_wifi_list_summary">Передача по WLAN за день</string>
+    <string name="traffic_day_wifi_list_summary">Передача по Wi-Fi за день</string>
     <string name="traffic_dayplan_daily_warning_summary">Предупреждение. %1$s осталось.</string>
     <string name="traffic_dayplan_daily_warning_title">Ежедневное предупреждение</string>
     <string name="traffic_daywarning_dialog_title">Дневной лимит данных израсходован</string>
@@ -1344,14 +1344,14 @@
     <string name="traffic_summary_mobile_item_summary">Доступ ПО к передаче данных</string>
     <string name="traffic_summary_network_item_summary">Доступ ПО к моб. сети</string>
     <string name="traffic_summary_packet_buy_item_summary">Удобные и выгодные предложения</string>
-    <string name="traffic_summary_wlan_item_summary">Доступ ПО к WLAN</string>
+    <string name="traffic_summary_wlan_item_summary">Доступ ПО к Wi-Fi</string>
     <string name="traffic_summmary_title">Данные</string>
     <string name="traffic_switch_allow">Разрешить все</string>
     <string name="traffic_switch_reject">Отклонить все</string>
     <string name="traffic_tab_background_title">Фоновый режим</string>
     <string name="traffic_tab_mobile_title">Мобильная сеть</string>
     <string name="traffic_tab_packet_buy_title">Купить тарифный план</string>
-    <string name="traffic_tab_wifi_title">Сеть WLAN</string>
+    <string name="traffic_tab_wifi_title">Сеть Wi-Fi</string>
     <string name="traffic_terabyte">Тб</string>
     <string name="traffic_today_saved">За сегодня</string>
     <string name="traffic_today_used_dialog_title">Средний за день объём данных израсходован, %1$s осталось в этом месяце</string>
@@ -1365,12 +1365,12 @@
     <string name="traffic_warning_dialog_title">%1$s использовано в этом месяце, %2$s осталось.</string>
     <string name="traffic_warning_setting">Предупреждение о лимите</string>
     <string name="traffic_week_allow_mobile_data_usage">За неделю</string>
-    <string name="traffic_week_wifi_list_summary">Передача по WLAN за неделю</string>
+    <string name="traffic_week_wifi_list_summary">Передача по Wi-Fi за неделю</string>
     <string name="traffic_widget_add_switch">Виджет на главном экране</string>
     <string name="traffic_widget_remain_idle_summary">Остаток трафика в простое</string>
     <string name="traffic_widget_remain_summary">Доступно</string>
-    <string name="traffic_wifi_list_summary">Передача по WLAN за месяц</string>
-    <string name="traffic_wifi_swtich_summary">WLAN</string>
+    <string name="traffic_wifi_list_summary">Передача по Wi-Fi за месяц</string>
+    <string name="traffic_wifi_swtich_summary">Wi-Fi</string>
     <string name="trafic_idle_traffic_title">Трафик в простое</string>
     <string name="trafic_monitor">Мониторинг трафика</string>
     <string name="trafic_mouth_idle_traffic_title">Ежемесячный лимит</string>
@@ -1491,7 +1491,7 @@
     <string name="wd_call_log">Запись/удаление журнала вызовов</string>
     <string name="wd_contacts">Запись/удаление контактов</string>
     <string name="wd_sms_mms">Запись/удаление SMS/MMS</string>
-    <string name="wifi_update">Автообновление БД через WLAN</string>
+    <string name="wifi_update">Автообновление БД через Wi-Fi</string>
 	<string name="main_page_cleaner_usable_size_f8">%1$s осталось</string>
     <string name="speed_up_by_clean_f8">Очистка и ускорение</string>
 	<string name="opt_app_update_summary">Обновить сейчас. Более безопасный</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -32,7 +32,7 @@
     <string name="aicy_set_address_tips">После улучшения информации вы можете просмотреть рекомендации по замене или использовать голосовую команду, чтобы перейти к работе.</string>
     <string name="aicy_set_address">Выбрать адрес</string>
     <string name="all_todo_history">Добавить к истории</string>
-    <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="anniversary_title">годовщина</string>
     <string name="anniversary_zero_title">Годовщина</string>
     <string name="app_life_uninstall">«Жизнь» была удалена. Установить?</string>
@@ -42,8 +42,8 @@
     <string name="assistant_install_complete_text">Открыть</string>
     <string name="assistant_install_idle_text">Установить</string>
     <string name="assistant_install_retry">Повторить</string>
-    <string name="assistant_installing_text_1">Установка...</string>
-    <string name="assistant_installing_text">Установка...</string>
+    <string name="assistant_installing_text_1">Установка…</string>
+    <string name="assistant_installing_text">Установка…</string>
     <string name="assistant_nba_add_team">Добавить команду</string>
     <string name="assistant_nba_board">Ранжирование</string>
     <string name="assistant_nba_header_title">Информация NBA</string>
@@ -452,11 +452,11 @@
     <string name="install_map_tips">Пожалуйста, сначала установите приложение Карты</string>
     <string name="install_success">Успешно установите, откройте быстрое приложение немедленно</string>
     <string name="install_title_downloading">Загрузка</string>
-    <string name="install_title_installing">Установка...</string>
+    <string name="install_title_installing">Установка…</string>
     <string name="install_title_launching">Запуск</string>
     <string name="install_title_prompt">Установите DirectService, чтобы открыть быстрое приложение</string>
     <string name="install">Установить</string>
-    <string name="installing">Установка...</string>
+    <string name="installing">Установка…</string>
     <string name="intent_handle">Пожалуйста, обработайте возвращаемое значение</string>
     <string name="introduce_about_bookmark_1">Помощь</string>
     <string name="introduce_about_bookmark">Узнайте о моих избранных</string>
@@ -480,17 +480,17 @@
     <string name="login_get_identifying_code">Получить код подтверждения</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отмена</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Статус избранного</string>
-    <string name="mc_custom_date_time_days_after">%1$d дней после</string>
-    <string name="mc_custom_date_time_days_before">%1$d дней до</string>
+    <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
+    <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 день после</string>
     <string name="mc_custom_date_time_one_day_before">1 день до</string>
@@ -503,7 +503,7 @@
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -527,8 +527,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
@@ -543,7 +543,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
@@ -568,8 +568,8 @@
     <string name="mc_pm_s_sms">Отправить SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -613,7 +613,7 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day" />
     <string name="mz_date_time_hour" />
     <string name="mz_date_time_min" />
@@ -635,18 +635,18 @@
     <string name="mz_permissiongroup_name_other">Другой</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call_log">чтение журнала вызовов</string>
     <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_camera">использование камеры</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">доступ к местоположению</string>
     <string name="mz_pm_network">использование передачи данных</string>
-    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Отклонить</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">доступ в интернет</string>
@@ -659,8 +659,8 @@
     <string name="mz_pm_s_sms">отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">переключение WLAN</string>
-    <string name="mz_pm_wlan">доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_share_view_checkbox_text">Удалить после обмена</string>
     <string name="mz_share_view_title">Поделиться</string>
@@ -684,7 +684,7 @@
     <string name="mzuc_install_fail">Ошибка установки</string>
     <string name="mzuc_install_immediately">Установить сейчас</string>
     <string name="mzuc_install_later">Установить позже</string>
-    <string name="mzuc_installing">Установка...</string>
+    <string name="mzuc_installing">Установка…</string>
     <string name="mzuc_manual_checking_update">Проверка обновления</string>
     <string name="mzuc_manual_current_version">Текущая версия %s</string>
     <string name="mzuc_manual_download_cancel">Загрузка отменена</string>
@@ -693,7 +693,7 @@
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
-    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_installing">Установка…</string>
     <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
@@ -813,7 +813,7 @@
     <string name="scope_null_token">Авторизация не удалась. Ошибка при получении информации о %s</string>
     <string name="search_app">Установленные приложения</string>
     <string name="search_audio">Музыка</string>
-    <string name="search_click_to_search">Поиск веб-страниц, настроек, приложений, видео ...</string>
+    <string name="search_click_to_search">Поиск веб-страниц, настроек, приложений, видео …</string>
     <string name="search_contact">контакты</string>
     <string name="search_hint_by_type">Поиск %1$s</string>
     <string name="search_hint">Поиск</string>

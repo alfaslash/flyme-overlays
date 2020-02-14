@@ -2,10 +2,10 @@
 <resources>
     <string name="app_name">Инструменты системы</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
-    <string name="date_time_set">Настроить</string>
+    <string name="date_time_set">Установить</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
@@ -15,7 +15,7 @@
     <string name="mc_custom_date_time_day_after">дн. спустя</string>
     <string name="mc_custom_date_time_day_before">дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 День после</string>
     <string name="mc_custom_date_time_one_day_before">За 1 день до</string>
@@ -27,7 +27,7 @@
     <string name="mc_date_time_min">м.</string>
     <string name="mc_date_time_month">м.</string>
     <string name="mc_date_time_sec">с.</string>
-    <string name="mc_date_time_set">Настроить</string>
+    <string name="mc_date_time_set">Установить</string>
     <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Принять</string>
     <string name="mc_description_target_decline">Отклонить</string>
@@ -180,7 +180,7 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Разрешить доступ</string>
     <string name="mz_specific_permission_deny">Запретить доступ</string>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -229,7 +229,6 @@
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
     <string name="mzuc_msg_indicator">Что нового:</string>
-    <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
     <string name="mzuc_reboot_update_now">Перезапустить и обновить</string>
     <string name="mzuc_retry">Повтор</string>
@@ -417,8 +416,6 @@
     <string name="drivemode_current_car_bluetooth_device">Bluetooth-устройства:</string>
     <string name="drivemode_exchange">Изменить</string>
     <string name="drivemode_null" />
-    <string name="mc_custom_date_time_day_after">Дней после</string>
-    <string name="mc_custom_date_time_day_before">Дней до</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="status_bar_notification_info_overflow">>999</string>

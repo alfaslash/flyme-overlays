@@ -13,11 +13,8 @@
     <string formatted="false" name="mc_pattern_year_month">%m.%Y</string>
     <string formatted="false" name="mc_simple_pattern_month_day">%d.%m</string>
     <string formatted="false" name="mc_simple_pattern_year_month_day">%d.%m.%Y</string>
-    <string formatted="false" name="mzuc_download_finish_s">%s %s загрузка завершена</string>
-    <string formatted="false" name="mzuc_download_progress_desc_s">Загрузка %s %s</string>
-    <string formatted="false" name="mzuc_update_title_s">%s %s освобождено</string>
     <string formatted="false" name="version_text_message">Приложение «%s» %s будет заменено на %s</string>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -34,29 +31,28 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Эта функция является экспериментальной и может повлиять на производительность</string>
-    <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
-    <string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Эта функция является экспериментальной и может повлиять на производительность.</string>
+    <string name="accessibility_display_daltonizer_preference_title">Цветокоррекция</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключен</string>
     <string name="accessibility_wifi_off">Wi-Fi отключен</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Безопасная сеть</string>
-    <string name="accessibility_wifi_signal_full">Сигнал Wi-Fi: полный</string>
+    <string name="accessibility_wifi_signal_full">Сигнал Wi-Fi: полный сигнал</string>
     <string name="accessibility_wifi_three_bars">Сигнал Wi-Fi: три деления</string>
     <string name="accessibility_wifi_two_bars">Сигнал Wi-Fi: два деления</string>
-    <string name="account_des">Чтение данных аккаунта установленного приложения</string>
-    <string name="account">Чтение данных аккаунта</string>
+    <string name="account_des">Чтение учетной записи пользователя установленного приложения</string>
+    <string name="account">Чтение аккаунта приложения</string>
     <string name="active_input_method_subtypes">Активные методы ввода</string>
     <string name="ad_des">Другим пользователям также нравится</string>
-    <string name="adb_keys_warning_message">Запретить доступ для USB-отладки на всех компьютерах, на которых вы входили в аккаунт?</string>
-    <string name="adb_warning_message">Отладка по USB предназначена для разработчиков. Используйте её, чтобы копировать данные между компьютером и устройством, устанавливать приложения на устройство без уведомлений и читать данные журналов.</string>
+    <string name="adb_keys_warning_message">Отменить разрешение для USB-отладки для всех компьютеров, которые вы ранее авторизовали?</string>
+    <string name="adb_warning_message">Отладка по USB предназначена только для разработчиков. Используйте её для копирования данных между компьютером и устройством, установки приложений на устройство без уведомлений, а также для чтения логов.</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
     <string name="additional_permissions">Дополнительные разрешения</string>
     <string name="all_permissions">Все разрешения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow">Разрешить</string>
-    <string name="allow">OK</string>
     <string name="allPerms">Все</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
@@ -296,7 +292,6 @@
     <string name="grant_dialog_button_more_info">Подробнее</string>
     <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
-    <string name="help_app_permissions"/>
     <string name="help_feedback_label">Справка и отзывы</string>
     <string name="help_message">Для настройки перейдите в меню «Настройки > Приложения»</string>
     <string name="home">Выбрать лаунчер</string>
@@ -404,7 +399,7 @@
     <string name="managed_user_title">Все рабочие приложения</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">OK</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
     <string name="mc_cancel_praised_message">Отменить</string>
@@ -414,7 +409,7 @@
     <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 дн. спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 дн. назад</string>
@@ -447,23 +442,13 @@
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">м.</string>
-
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 ч. назад</string>
     <string name="mc_pattern_a_minute_before">1 м. назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_minute_before">, м. назад</string>
-    <string formatted="false" name="mc_pattern_month_day_hour_minute_12">%-e.%-m %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_month_day_hour_minute">%-e.%-m %H:%M</string>
-    <string formatted="false" name="mc_pattern_month_day">%-e.%-m</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string formatted="false" name="mc_pattern_week_month_day_hour_minute_12">%a %-e.%-m %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_week_month_day_hour_minute">%a %-e.%-m %H:%M</string>
-    <string formatted="false" name="mc_pattern_year_month_day_hour_minute_12">%-e.%-m.%Y %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_year_month_day_hour_minute">%-e.%-m.%Y %H:%M</string>
-    <string formatted="false" name="mc_pattern_year_month_day">%-e.%-m.%Y</string>
-    <string formatted="false" name="mc_pattern_year_month">%-m.%Y</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
     <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
@@ -539,17 +524,11 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
-    <string name="mz_date_time_day"/>
-    <string name="mz_date_time_hour"/>
-    <string name="mz_date_time_min"/>
-    <string name="mz_date_time_month"/>
-    <string name="mz_date_time_sec"/>
-    <string name="mz_date_time_year"/>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Больше не спрашивать</string>
-    <string name="mz_permission_always_allow">Разрешать всегда</string>
+    <string name="mz_permission_always_allow">Всегда разрешать</string>
     <string name="mz_permission_apply">Запрос разрешений</string>
     <string name="mz_permission_deny">Запретить</string>
     <string name="mz_permission_message_content">Приложение «%1$s» запрашивает %3$d разрешен. на %2$s</string>
@@ -618,7 +597,7 @@
     <string name="mzuc_manual_found_new_version">Найденная новая версия. Коснитесь, чтобы обновить</string>
     <string name="mzuc_manual_install_fail">Не удалось установить</string>
     <string name="mzuc_manual_install_new_version">Файл обновления загружен. Выберите его для установки</string>
-    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_installing">Установка…</string>
     <string name="mzuc_manual_latest_version">Текущая версия последняя</string>
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновление</string>
@@ -637,7 +616,6 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="network">Передача данных</string>
-    <string name="network">Передача данных</string>
     <string name="never_ask_again">Не спрашивать снова</string>
     <string name="new_permissions_category">Новые разрешения</string>
     <string name="newPerms">Новое</string>
@@ -649,7 +627,6 @@
     <string name="no_permissions">Нет разрешений</string>
     <string name="no">Нет</string>
     <string name="notify_msg">Уведомления</string>
-    <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика</string>
     <string name="oem_unlock_enable">Заводская разблокировка</string>
     <string name="ok">OK</string>
@@ -736,7 +713,6 @@
     <string name="process_kernel_label">ОС Android</string>
     <string name="r_calendar">Чтение календаря</string>
     <string name="r_mms">Просмотр MMS</string>
-    <string name="r_mms">Читать MMS</string>
     <string name="r_sms_mms_des">Просмотр SMS и MMS</string>
     <string name="r_sms_mms">Чтение SMS и MMS</string>
     <string name="r_sms">Просмотр SMS</string>
@@ -815,7 +791,6 @@
     <string name="sms_g_des">Просмотр, создание, и отправка SMS и MMS</string>
     <string name="sms_lable">СМС</string>
     <string name="source_network">сеть</string>
-    <string name="special_permission_head"/>
     <string name="special_permission">Специальные разрешения</string>
     <string name="speed_label_fast">Быстро</string>
     <string name="speed_label_medium">Средне</string>
@@ -833,10 +808,8 @@
     <string name="SUM_PERM_ID_WRITE_MMSDB">Изменять входящие MMS</string>
     <string name="SUM_PERM_ID_WRITE_SMSDB">Изменять входящие SMS</string>
     <string name="system_warning">Если вы отклоните это разрешение, основные функции устройства могут не работать должным образом.</string>
-    <string name="system_warning">Если вы отклоните это разрешение, основные функции устройства могут не работать должным образом.</string>
     <string name="telephony_monitor_switch_summary">TelephonyMonitor будет собирать журналы, при выявлении проблемы с функциональностью телефонии / модема и сообщит пользователю об ошибке</string>
     <string name="telephony_monitor_switch">Монитор телефонии</string>
-    <string name="ten_thousand">десять тысяч</string>
     <string name="ten_thousand">десять тысяч</string>
     <string name="ten">дес.</string>
     <string name="tether_settings_title_all">Режим модема</string>
@@ -948,7 +921,6 @@
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Проверять, насколько безопасны приложения, устанавливаемые через ADB/ADT</string>
     <string name="verify_apps_over_usb_title">Проверка приложений по USB</string>
-    <string formatted="false" name="version_text_message">%s %s будет заменено на %s</string>
     <string name="version_text">Версия: %1$s</string>
     <string name="virus_scanning_text">ПО из неизвестного источника. Проверка…</string>
     <string name="vpn_settings_not_available">Этот пользователь не может изменять настройки VPN</string>
@@ -983,7 +955,7 @@
     <string name="wifi_band_24ghz">2,4 ГГц</string>
     <string name="wifi_band_5ghz">5 ГГц</string>
     <string name="wifi_cancel">Отмена</string>
-    <string name="wifi_cant_connect_to_ap">Не могу соединиться из '%1$s'</string>
+    <string name="wifi_cant_connect_to_ap">Не могу соединиться из "%1$s"</string>
     <string name="wifi_cant_connect">Невозможно подключить</string>
     <string name="wifi_certinstall">Установка или просмотр сертификатов</string>
     <string name="wifi_check_password_try_again">Проверьте пароль и повторите попытку</string>
@@ -995,11 +967,9 @@
     <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
     <string name="wifi_disabled_wifi_failure">Ошибка подключения Wi-Fi</string>
     <string name="wifi_display_autonomous_go">Включить автономный режим</string>
-    <string name="wifi_display_autonomous_go">Включить автономный GO</string>
     <string name="wifi_display_certification_heading">Сертификация</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
     <string name="wifi_display_certification">Серт. беспроводн. мониторов</string>
-    <string name="wifi_display_listen_channel">Канал приема</string>
     <string name="wifi_display_listen_channel">Прослушать канал</string>
     <string name="wifi_display_listen_mode">Включить режим приема</string>
     <string name="wifi_display_no_devices_found">Нет доступных устройств поблизости.</string>
@@ -1052,7 +1022,6 @@
     <string name="wifi_no_internet">Подключение к Интернету отсутствует и не будет восстановлено автоматически.</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_notify_open_networks_summary">Оповещать при обнаружении открытой сети</string>
-    <string name="wifi_notify_open_networks">Сообщение сети</string>
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_p2p_cancel_connect_message">Вы хотите отклонить запрос на сопряжение с устройством «%1$s»?</string>
     <string name="wifi_p2p_cancel_connect_title">Отклонить запрос?</string>
@@ -1074,7 +1043,6 @@
     <string name="wifi_save">Сохранить</string>
     <string name="wifi_saved_access_points_label">Сохраненные сети</string>
     <string name="wifi_saved_access_points_titlebar">Сохраненные сети</string>
-    <string name="wifi_scan_always_available_summary">Пусть служба локации Google и другие дополнения сканируют сети, даже когда WLAN выключено</string>
     <string name="wifi_scan_always_available_summary">Разрешить службам геолокации Google и другим приложениям выполнять поиск сетей, даже когда модуль Wi-Fi отключен</string>
     <string name="wifi_scan_always_available">Поиск сетей всегда включен</string>
     <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже когда модуль Wi-Fi отключен. Чтобы изменить эти настройки, перейдите в меню «Расширенные > Поиск сетей всегда включен».</string>

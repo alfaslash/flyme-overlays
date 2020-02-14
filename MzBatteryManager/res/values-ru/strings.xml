@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -18,7 +18,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="alert_dialog_dont_switch_title">Нельзя перейти в супер-режим во время вызова</string>
-    <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_consumption_management">Управление энергопотреблением ПО</string>
     <string name="app_list">Список приложений</string>
     <string name="app_name">Батарея</string>
@@ -106,7 +106,7 @@
     <string name="low_power_remind_enter_power_mode">Включить</string>
     <string name="low_power_remind_jump_to_power_mode_config">Включить</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отменить отзыв</string>
@@ -114,7 +114,7 @@
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Статус избранного</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
     <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
@@ -125,7 +125,7 @@
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -149,8 +149,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
@@ -165,7 +165,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -188,7 +188,7 @@
     <string name="mc_pm_s_sms">Отправить SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
     <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -235,7 +235,7 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day" />
     <string name="mz_date_time_hour" />
     <string name="mz_date_time_min" />
@@ -247,18 +247,18 @@
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call_log">чтение журнала вызовов</string>
     <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_camera">использование камеры</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">доступ к местоположению</string>
     <string name="mz_pm_network">использование передачи данных</string>
-    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">доступ в интернет</string>
@@ -271,8 +271,8 @@
     <string name="mz_pm_s_sms">отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">переключение WLAN</string>
-    <string name="mz_pm_wlan">доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
@@ -433,7 +433,7 @@
     <string name="super_connect_info">Bluetooth и GPS</string>
     <string name="super_connect_pro_info">Выкл. Bluetooth, GPS и NFC</string>
     <string name="super_cpu_info">Перевод ЦП в режим экономии</string>
-    <string name="super_data_info">Выкл. WLAN и передачу данных</string>
+    <string name="super_data_info">Выкл. Wi-Fi и передачу данных</string>
     <string name="super_homelight_info">Выкл. подсветку кнопку Домой</string>
     <string name="super_intro_info">Только Телефон и Сообщения</string>
     <string name="super_key_wake_info">Отключить жесты пробуждения</string>
@@ -551,9 +551,9 @@
     <string name="wakeup_msg">Включает в себя синхронизацию сообщений, обновление данных и т.д.</string>
     <string name="wakeup_time_while_idle">Пробуждение в режиме ожидания</string>
     <string name="wakeup_times_while_idle">Пробуждение в режиме ожидания</string>
-    <string name="WidgetLayoutExtend_Description_air_plane">В самолёте</string>
-    <string name="wifi_data">Работа WLAN в фоне</string>
-    <string name="wifi_on_time">WLAN в работе</string>
-    <string name="wifi_power_ratio">Потребление WLAN: </string>
-    <string name="wifi_power_save_notie_msg">Совет по энергосбережению: Выключить WLAN, если это возможно, когда сеть недоступна</string>
+    <string name="WidgetLayoutExtend_Description_air_plane">Авиарежим</string>
+    <string name="wifi_data">Работа Wi-Fi в фоне</string>
+    <string name="wifi_on_time">Wi-Fi в работе</string>
+    <string name="wifi_power_ratio">Потребление Wi-Fi: </string>
+    <string name="wifi_power_save_notie_msg">Совет по энергосбережению: Выключить Wi-Fi, если это возможно, когда сеть недоступна</string>
 </resources>

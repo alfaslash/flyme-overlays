@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="font_updates">
+        <item quantity="other">Может быть обновлено: %d</item>
+    </plurals>
+    <plurals name="font_updates_complete">
+        <item quantity="other">Обновлено: %1$d</item>
+    </plurals>
+    <plurals name="livepaper_updates">
+        <item quantity="other">Может быть обновлено: %d</item>
+    </plurals>
+    <plurals name="livepaper_updates_complete">
+        <item quantity="other">Обновлено: %1$d</item>
+    </plurals>
+    <plurals name="local_delete_badge">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="local_delete_font">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="local_delete_keyboard_skin">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="local_delete_live_pager">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="local_delete_pap">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="local_delete_ringtone">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="local_delete_theme">
+        <item quantity="other">Удалить: %d</item>
+        <item quantity="one">Удалить: %d</item>
+    </plurals>
+    <plurals name="theme_updates">
+        <item quantity="other">Может быть обновлено: %d</item>
+    </plurals>
+    <plurals name="theme_updates_complete">
+        <item quantity="other">Обновлено: %1$d</item>
+    </plurals>
+    <plurals name="update_incremental_complete_title">
+        <item quantity="other">Обновлено: %d</item>
+        <item quantity="one">Обновлена: %d</item>
+    </plurals>
+    <plurals name="updates">
+        <item quantity="other">Может быть обновлено: %1$d %2$s</item>
+    </plurals>
+    <plurals name="updates_complete">
+        <item quantity="other">Обновлено: %1$d %2$s</item>
+    </plurals>
+</resources>

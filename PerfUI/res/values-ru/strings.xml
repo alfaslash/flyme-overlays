@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -67,7 +67,7 @@
     <string name="logcat_reject_level_title">Расширенное журналирование</string>
     <string name="max_selected_name">Можно выбрать не более 15</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отменить отзыв</string>
@@ -82,7 +82,7 @@
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -106,8 +106,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
@@ -122,7 +122,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
@@ -180,30 +180,30 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_sec">с</string>
-    <string name="mz_date_time_year">г</string>
+    <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call_log">чтение журнала вызовов</string>
     <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_camera">использование камеры</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">доступ к местоположению</string>
     <string name="mz_pm_network">использование передачи данных</string>
-    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">доступ в интернет</string>

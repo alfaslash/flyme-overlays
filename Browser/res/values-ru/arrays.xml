@@ -109,7 +109,7 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Никогда</item>
-        <item>Только по WLAN</item>
+        <item>Только по Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
@@ -143,7 +143,7 @@
     </string-array>
     <string-array name="pref_link_prefetch_choices">
         <item>Никогда</item>
-        <item>Только WLAN</item>
+        <item>Только Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="pref_pic_quality_key">
@@ -169,7 +169,7 @@
     </string-array>
     <string-array name="pref_topic_news_setting_name">
         <item>Обновление по умолчанию</item>
-        <item>Обновление только по WLAN</item>
+        <item>Обновление только по Wi-Fi</item>
         <item>Простой</item>
     </string-array>
     <string-array name="title_bar_share_item">

@@ -372,25 +372,25 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Откл.</item>
-        <item>64 КБ</item>
-        <item>256 КБ</item>
-        <item>1 МБ</item>
-        <item>4 МБ</item>
-        <item>16 МБ</item>
+        <item>64 Кб</item>
+        <item>256 Кб</item>
+        <item>1 Мб</item>
+        <item>4 Мб</item>
+        <item>16 Мб</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Откл.</item>
-        <item>64 КБ</item>
-        <item>256 КБ</item>
-        <item>1 МБ</item>
+        <item>64 Кб</item>
+        <item>256 Кб</item>
+        <item>1 Мб</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Откл.</item>
-        <item>64 КБ в буфер журнала</item>
-        <item>256 КБ в буфер журнала</item>
-        <item>1 МБ в буфер журнала</item>
-        <item>4 МБ в буфер журнала</item>
-        <item>16 МБ в буфер журнала</item>
+        <item>64 Кб в буфер журнала</item>
+        <item>256 Кб в буфер журнала</item>
+        <item>1 Мб в буфер журнала</item>
+        <item>4 Мб в буфер журнала</item>
+        <item>16 Мб в буфер журнала</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Откл.</item>
@@ -860,7 +860,7 @@
     <string-array name="security_settings_premium_sms_values">
         <item>По запросу</item>
         <item>Не разрешать</item>
-        <item>Разрешать всегда</item>
+        <item>Всегда разрешать</item>
     </string-array>
     <string-array name="ram_states">
         <item>Достаточно</item>
@@ -1022,12 +1022,6 @@
         <item>Слабо</item>
         <item>Средне</item>
         <item>Сильно</item>
-    </string-array>
-    <string-array name="children_mode_anti_addiction_duration_names">
-        <item>30 м.</item>
-        <item>60 м.</item>
-        <item>2 ч.</item>
-        <item>@string/children_mode_time_duration_never</item>
     </string-array>
     <string-array name="display_mode_entries">
         <item>Адаптивный режим</item>

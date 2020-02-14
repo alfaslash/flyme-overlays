@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="abc_action_bar_home_description">Navigate home</string>
-<string name="abc_action_bar_up_description">Navigate up</string>
+<string name="abc_action_bar_home_description">На рабочий стол</string>
+<string name="abc_action_bar_up_description">Перейти вверх</string>
 <string name="abc_action_menu_overflow_description">More options</string>
-<string name="abc_action_mode_done">Done</string>
+<string name="abc_action_mode_done">Готово</string>
 <string name="abc_activity_chooser_view_see_all">See all</string>
 <string name="abc_activitychooserview_choose_application">Choose an app</string>
-<string name="abc_capital_off">OFF</string>
-<string name="abc_capital_on">ON</string>
+<string name="abc_capital_off">ОТКЛ.</string>
+<string name="abc_capital_on">ВКЛ.</string>
 <string name="abc_menu_alt_shortcut_label">Alt+</string>
 <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
 <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -60,7 +60,7 @@
 <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
 <string name="exo_track_unknown">Unknown</string>
 <string name="search_menu_title">Search</string>
-<string name="status_bar_notification_info_overflow">999+</string>
+<string name="status_bar_notification_info_overflow">>999</string>
 <string name="action_settings">Настройки</string>
 <string name="alwaysUse">Use this option as default</string>
 <string name="date_time_set">Set</string>
@@ -253,7 +253,7 @@
 <string name="mzuc_manual_found_new_version">New version found. Tap to update</string>
 <string name="mzuc_manual_install_fail">Failed to install</string>
 <string name="mzuc_manual_install_new_version">Update file is downloaded and tap to install</string>
-<string name="mzuc_manual_installing">Установка...</string>
+<string name="mzuc_manual_installing">Установка…</string>
 <string name="mzuc_manual_latest_version">Current version is latest</string>
 <string name="mzuc_manual_update_for_new_version">Download the latest version</string>
 <string name="mzuc_manual_update_title">Проверка на обновление</string>
@@ -288,7 +288,7 @@
 <string name="weibo_app">Weibo</string>
 <string name="mc_pattern_a_hour_before">1 час назад</string>
 <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-<string name="mc_pattern_hour_before">, часов назад</string>
+<string name="mc_pattern_hour_before">, ч. назад</string>
 <string name="mc_pattern_minute_before">, несколько минут назад</string>
 <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
 <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
@@ -377,7 +377,7 @@
 <string name="apps_update">1 App Update Available</string>
 <string name="apps_update_formatted" formatted="false">「%s」,%s app updates available</string>
 <string name="auto_downlad">Обновление без данных></string>
-<string name="auto_downlad_tip">Автоматическая загрузка обновлений через WLAN</string>
+<string name="auto_downlad_tip">Автоматическая загрузка обновлений через Wi-Fi</string>
 <string name="auto_install">Автоматическая установка обновлений без уведомлений</string>
 <string name="auto_install_tips">Автоматическая установка загруженных приложений</string>
 <string name="bad_manifest">Unable to parse app manifest file, please try reinstalling</string>
@@ -438,7 +438,7 @@
 <string name="context_is_null">context is null</string>
 <string name="continue_download_confirm">Продолжить загрузку</string>
 <string name="convenient_to_use">Удобно использовать</string>
-<string name="copy">Copy</string>
+<string name="copy">Копировать</string>
 <string name="count_of_booked_install">Orders</string>
 <string name="count_of_like">likes</string>
 <string name="cpu_abi_incompatible">CPU ABI incompatible</string>
@@ -484,13 +484,13 @@
 <string name="fetching_url">Getting download address</string>
 <string name="file_path_not_found">"Couldn't write into the \"Downloaddirectory"</string>
 <string name="file_still_open">File permission error. Please try reinstalling</string>
-<string name="first_publish_time">"Publish: "</string>
+<string name="first_publish_time">"Опубликовано: "</string>
 <string name="float_switcher_title">Float Widget Entrance</string>
 <string name="forbid_reply_msg">Forbid Reply %1s</string>
 <string name="format_lable_sort">Сортировать по %s</string>
 <string name="free_update_tips" formatted="false">「%s」and total %d app(s) updated</string>
 <string name="free_update_tips_one">「%s」updated</string>
-<string name="freetrail">Trial</string>
+<string name="freetrail">Демо</string>
 <string name="future_result_is_null">invalid response</string>
 <string name="game_download">Game Download</string>
 <string name="game_download_manage">Загрузки</string>
@@ -526,7 +526,7 @@
 <string name="install_after_search">users installed this app after searching</string>
 <string name="install_app">Установить</string>
 <string name="install_apps">Установить (%d)</string>
-<string name="install_at_once">Install now</string>
+<string name="install_at_once">Установить</string>
 <string name="install_counts_only">%s установок</string>
 <string name="install_error">Установка не удалась</string>
 <string name="install_error_formatted">Установка не удалась: %s</string>
@@ -570,11 +570,10 @@
 <string name="location_reject_button">REJECT</string>
 <string name="location_remember_preferences">Remember preferences</string>
 <string name="location_request_message">needs to use your location data</string>
-<string name="location_share_button">SHARE_LOCATION</string>
 <string name="login_to_reply">Reply after login</string>
 <string name="manifest_empty">No app manifest file found. Please try reinstalling.</string>
 <string name="manifest_malformed">App manifest file structure exception, please try reinstalling</string>
-<string name="maybe_like">Тебе может понравиться</string>
+<string name="maybe_like">Может понравиться</string>
 <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
 <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
 <string name="media_unavailable">Unable to access storage, please try rebooting</string>
@@ -613,7 +612,7 @@
 <string name="newer_sdk">Outdated installation package. Please install a later version of the app</string>
 <string name="newest_version">Ваша текущая версия актуальна</string>
 <string name="news_detail">News Detail</string>
-<string name="next">Next</string>
+<string name="next">Далее</string>
 <string name="no_certificates">Signature certificate not found, please try reinstalling</string>
 <string name="no_matching_abis">No matching native libraries in CPU framework</string>
 <string name="no_native_libraries">No native libraries</string>
@@ -648,12 +647,12 @@
 <string name="permission">Права доступа</string>
 <string name="permissions_total_counts">%s в целом</string>
 <string name="please_input_search_keyword">Input keyword to search</string>
-<string name="please_wait">Please wait</string>
+<string name="please_wait">Ждите…</string>
 <string name="pop_ok">OK</string>
 <string name="praise_people_more_tip">Liked you</string>
 <string name="praise_people_tip">Liked you</string>
 <string name="praise_your_comment">Liked your comment</string>
-<string name="pre_install_tips">Waiting for WLAN</string>
+<string name="pre_install_tips">Ожидание Wi-Fi</string>
 <string name="privacy_dialog_negative">Выход</string>
 <string name="privacy_dialog_positive">Согласен</string>
 <string name="publish_date_version_format" formatted="false">%s Версия %s</string>
@@ -665,12 +664,12 @@
 <string name="received_praise">Likes received</string>
 <string name="recommendNotify">Получать push-сообщения</string>
 <string name="recommendNotify_tip">Получайте уведомления о популярных мероприятиях, подарках и другом контенте</string>
-<string name="recommend_ratings">Rating:</string>
+<string name="recommend_ratings">Рейтинг:</string>
 <string name="refresh">Обновление</string>
 <string name="reinstall_tips_message">%s is incompatible with the update. Existing data has to be wiped to update the app. Continue?</string>
 <string name="related_apps">Related apps</string>
 <string name="related_good_contents">Related content</string>
-<string name="release_time">Release date:</string>
+<string name="release_time">Дата выпуска:</string>
 <string name="release_to_refresh">Release to refresh</string>
 <string name="remove_apps_dialog_message">"Also clean up the app's remnants (%1$s)"</string>
 <string name="remove_apps_dialog_message_without_size">"Also clean up the application's residual files"</string>
@@ -711,12 +710,12 @@
 <string name="share">Поделиться</string>
 <string name="share_to_others_content_appcenter">"%s, available on Meizu App Store "</string>
 <string name="share_user_incompatible">Подпись не совпадает с подписью общего процесса</string>
-<string name="sharesoftware_action">Share app</string>
+<string name="sharesoftware_action">Поделиться</string>
 <string name="show_after_installed">Please install %s first to view the content.</string>
 <string name="show_all_app">Просмотреть больше приложений</string>
 <string name="simplified_day">День</string>
-<string name="simplified_hour">ч</string>
-<string name="simplified_min">мин</string>
+<string name="simplified_hour">ч.</string>
+<string name="simplified_min">мин.</string>
 <string name="simplified_second" />
 <string name="size">Размер:</string>
 <string name="skip2">Пропускать</string>
@@ -780,10 +779,10 @@
 <string name="version_format">Версия: %s</string>
 <string name="version_format2">%s версия</string>
 <string name="version_tip">Версия:</string>
-<string name="voice_error">Recording Error</string>
+<string name="voice_error">Ошибка записи</string>
 <string name="voice_help_tips">"Say 'Download QQ'"</string>
 <string name="voice_occupation">The permission for recording is occupied</string>
-<string name="wait_dialog_remind">Пожалуйста, подождите ...</string>
+<string name="wait_dialog_remind">Пожалуйста, подождите…</string>
 <string name="waiting_download">Ожидание загрузки</string>
 <string name="waiting_for_resume">Ожидаем продолжения</string>
 <string name="waiting_install">Awaiting installation</string>
@@ -792,138 +791,76 @@
 <string name="web_extra_no_network">No network connection</string>
 <string name="wechat_friend">WeChat Friend</string>
 <string name="wechat_moment">WeChat moment</string>
-<string name="weibo">Weibo</string>
-<string name="weixin">Wechat</string>
 <string name="wizard_mobile_tips">Using cellular data, %s in total</string>
 <string name="wizard_noapp_text">"OMG, you are \"APPAHOLIC\"!
 
  You've got all our recommended apps already!"</string>
 <string name="wizard_wifi_tips">Connected to WLAN. Download and install directly</string>
-<string name="write_comment_flow">Write a Review</string>
-<string name="abc_font_family_body_1_material">sans-serif</string>
-<string name="abc_font_family_body_2_material">sans-serif-medium</string>
-<string name="abc_font_family_button_material">sans-serif-medium</string>
-<string name="abc_font_family_caption_material">sans-serif</string>
-<string name="abc_font_family_display_1_material">sans-serif</string>
-<string name="abc_font_family_display_2_material">sans-serif</string>
-<string name="abc_font_family_display_3_material">sans-serif</string>
-<string name="abc_font_family_display_4_material">sans-serif-light</string>
-<string name="abc_font_family_headline_material">sans-serif</string>
-<string name="abc_font_family_menu_material">sans-serif</string>
-<string name="abc_font_family_subhead_material">sans-serif</string>
-<string name="abc_font_family_title_material">sans-serif-medium</string>
-<string name="about_web1">http://app.meizu.com</string>
-<string name="about_web2">http://developer.meizu.com</string>
+<string name="write_comment_flow">Оставить отзыв</string>
 <string name="access_server_error">Error accessing server</string>
-<string name="app_detail_label_template">\# %s</string>
-<string name="app_label">\# %1$s</string>
 <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
 <string name="appname_like" formatted="false">%s · %s</string>
 <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
 <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
-<string name="character_counter_pattern">%1$d / %2$d</string>
 <string name="check_devices_download_auth_failure">Verifying device downloading permission failed</string>
 <string name="comment_reply">Комментарий push</string>
 <string name="comment_star_precent_format">%1d%%</string>
-<string name="content_with_percent_speed" formatted="false">"%s   %s   %s   %s"</string>
 <string name="create_order_failure">Generating order failed</string>
 <string name="default_sans_serif">sans-serif</string>
 <string name="details_comment_hot_title_name">Top</string>
 <string name="details_comment_new_title_name">Latest</string>
-<string name="dots">...</string>
-<string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
-<string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
-<string name="flyme_postfix">%s@flyme.cn</string>
-<string name="flyme_sans_serif_normal">sans-serif-normal</string>
-<string name="font_family_regular">sans-serif</string>
-<string name="frame_anim_lib_name">FrameAnimLib</string>
-<string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+<string name="dots">…</string>
 <string name="icon">icon</string>
 <string name="international_continue">ПРОДОЛЖИТЬ</string>
-<string name="international_exit">EXIT</string>
+<string name="international_exit">ВЫХОД</string>
 <string name="international_tips">Only Chinese content is available now, more language will be coming soon.</string>
 <string name="key_about">about</string>
-<string name="key_auto_downlad">auto_downlad</string>
-<string name="key_auto_install">auto_install</string>
-<string name="key_auto_install_wish">auto_install_wish</string>
-<string name="key_auto_update">auto_update</string>
-<string name="key_auto_update_exclude">auto_update_exclude</string>
-<string name="key_check_update">check_update</string>
-<string name="key_comment_reply_notify">comment_reply_notify</string>
-<string name="key_delete_apk">delete_apk</string>
-<string name="key_feedback">feedback</string>
-<string name="key_filter_app">filter_app</string>
-<string name="key_launcher_backup">launcher_backup</string>
-<string name="key_launcher_backup_time">launcher_backup_time</string>
-<string name="key_mobile_limit">mobile_limit</string>
-<string name="key_mobile_limit_size">mobile_limit_size</string>
-<string name="key_need_show_badge_on_setting">need_show_badge_on_setting</string>
-<string name="key_recommend_notify">recommend_notify</string>
-<string name="key_show_first_ad">show_first_ad</string>
-<string name="key_support_me_notify">support_me_notify</string>
-<string name="key_update_notify">update_notify</string>
-<string name="key_upload_changed">upload_changed</string>
 <string name="lack_order_info">Order information is missing</string>
 <string name="mc_action_settings">Настройки</string>
-<string name="mc_app_name">MeizuCommon</string>
-<string name="mc_hello_world">Hello world!</string>
-<string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-<string name="mc_pattern_week">%a</string>
-<string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-<string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
-<string name="mc_search_view_share_element_name">search_view_share_element</string>
-<string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
-<string name="mc_selectionbutton_all">All</string>
-<string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-<string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-<string name="media_duration_format_long">%1$02d:%3$02d:%5$02d</string>
-<string name="media_duration_format_short">%2$02d:%5$02d</string>
-<string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-<string name="password_toggle_content_description">Show password</string>
-<string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-<string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-<string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-<string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-<string name="ptr_label">MzPullRefreshLayout</string>
-<string name="recall_game_center_tips">Game Center has been uninstalled，do install？</string>
-<string name="smartbar_my">My Apps</string>
+<string name="mc_selectionbutton_all">Все</string>
+<string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+<string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+<string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+<string name="password_toggle_content_description">Показать пароль</string>
+<string name="recall_game_center_tips">Game Center был удалён, установить заново?</string>
+<string name="smartbar_my">Мои прил.</string>
 <string name="system_pay_can_not_use">Payment service unavailable temporarily</string>
 <string name="two_string_description_and_indicator" formatted="false">%s %s</string>
-<string name="unknow_error_type">Unknown error type</string>
+<string name="unknow_error_type">Неизвестная ошибка</string>
 <string name="unsupport_input_account_function">Account entering function is not supported!</string>
 <string name="welfare_activity_date_description" formatted="false">%s  %s</string>
 <string name="privacy_content">"
 We will collect and use your personal information only for the purposes described in this statement:
 
-1.1 To maintain and improve services as well as to make the product stable when you enter the Meizu App Store to view, download, install, and manage apps, we need to collect the following information: device information (including device identifier, screen size, operating system, terminal model, networking mode, mobile country code, resolution, and system language), Meizu App Store client usage data (including app version number, app downloading channel, time when you open/close the app, data of in-app click, and data of visiting history), app information (including installed app list, apps downloaded, installation history, app uninstallation data, and app search history), IP address, and country/region. 
+1.1 To maintain and improve services as well as to make the product stable when you enter the Meizu App Store to view, download, install, and manage apps, we need to collect the following information: device information (including device identifier, screen size, operating system, terminal model, networking mode, mobile country code, resolution, and system language), Meizu App Store client usage data (including app version number, app downloading channel, time when you open/close the app, data of in-app click, and data of visiting history), app information (including installed app list, apps downloaded, installation history, app uninstallation data, and app search history), IP address, and country/region.
 
-This type of information is the basic information that must be collected in order to provide the services of downloading, installing, and managing by App Store. Your information below will be used for personalized display of app browsing: device identifiers, installed app list, apps downloaded and installation history, app search history. If you do not provide such information, you will not be able to use our services properly. 
+This type of information is the basic information that must be collected in order to provide the services of downloading, installing, and managing by App Store. Your information below will be used for personalized display of app browsing: device identifiers, installed app list, apps downloaded and installation history, app search history. If you do not provide such information, you will not be able to use our services properly.
 
-1.2 When you log in to the Flyme account (once named Meizu account), you can use the following services: app reviews, paid-apps purchases, lucky draws, gifts, coupons, game subscriptions. Therefore we need to collect your Flyme account to identify your user identity. If you do not provide such information, you will not be able to use the services mentioned above properly. But it will not affect you using other services of the App Store. If you provide additional information such as avatar, nickname, etc., it will help us to provide you with better service and experience. If you do not provide such information, it will not affect you using other services of the App Store. 
+1.2 When you log in to the Flyme account (once named Meizu account), you can use the following services: app reviews, paid-apps purchases, lucky draws, gifts, coupons, game subscriptions. Therefore we need to collect your Flyme account to identify your user identity. If you do not provide such information, you will not be able to use the services mentioned above properly. But it will not affect you using other services of the App Store. If you provide additional information such as avatar, nickname, etc., it will help us to provide you with better service and experience. If you do not provide such information, it will not affect you using other services of the App Store.
 
-1.3 When you write a review on an app, your review is stored on our servers because storage is necessary for writing a review. If you do not allow us to store such information, you will not be able to write a review on an app properly. But it will not affect you using other services of the App Store. 
+1.3 When you write a review on an app, your review is stored on our servers because storage is necessary for writing a review. If you do not allow us to store such information, you will not be able to write a review on an app properly. But it will not affect you using other services of the App Store.
 
-1.4 When you purchase a paid app, you will fulfill the payment via MeizuPay Secure Payment. We need to collect your payment history for copyright protection. Payment history are personally sensitive. If you do not provide such information, you will not be able to purchase a paid app properly. But it will not affect you using other services of the App Store. 
+1.4 When you purchase a paid app, you will fulfill the payment via MeizuPay Secure Payment. We need to collect your payment history for copyright protection. Payment history are personally sensitive. If you do not provide such information, you will not be able to purchase a paid app properly. But it will not affect you using other services of the App Store.
 
-1.5 When you participate in an event and receive physical prizes, we need to collect the following information: phone number, address, contacts. Among them, the phone number is personally sensitive information. The purpose of collecting such information is to contact you, and send you the prize you get. If you do not provide such information, you will not be able to receive the physical prizes. But it will not affect you using other services of the App Store. 
+1.5 When you participate in an event and receive physical prizes, we need to collect the following information: phone number, address, contacts. Among them, the phone number is personally sensitive information. The purpose of collecting such information is to contact you, and send you the prize you get. If you do not provide such information, you will not be able to receive the physical prizes. But it will not affect you using other services of the App Store.
 
-1.6 When you collect gifts and use the coupon, we need to collect your gift redeem code, coupon, mCoin, gift collecting record, and coupon usage record so that you can query and calculate your expenditure and balance. Among them, gift redeem code and mCoin are personally sensitive. If you do not provide such information, you will not be able to use the services mentioned above properly. But it will not affect you using other services of the App Store. 
+1.6 When you collect gifts and use the coupon, we need to collect your gift redeem code, coupon, mCoin, gift collecting record, and coupon usage record so that you can query and calculate your expenditure and balance. Among them, gift redeem code and mCoin are personally sensitive. If you do not provide such information, you will not be able to use the services mentioned above properly. But it will not affect you using other services of the App Store.
 
-1.7 When you subscribe a game, your subscription record is stored on our servers because storage is necessary for subscription. If you do not allow us to store such information, you will not be able to use the mentioned service properly, but it will not affect you using other services of the App Store. 
+1.7 When you subscribe a game, your subscription record is stored on our servers because storage is necessary for subscription. If you do not allow us to store such information, you will not be able to use the mentioned service properly, but it will not affect you using other services of the App Store.
 
-When we want to use the information for other purposes not mentioned by this statement, we will ask for your consent in advance. 
+When we want to use the information for other purposes not mentioned by this statement, we will ask for your consent in advance.
 
-When we want to use information collected for a specific purpose for other purposes, we will ask for your consent in advance. 
+When we want to use information collected for a specific purpose for other purposes, we will ask for your consent in advance.
 
 2. Providing your personal information to third-party service providers
 
-2.1 The event prizes of this app are issued by Meizu or third-party partners and delivered by third-party logistics service providers. To do so, we need to provide your personal information to the third-party partners and the third-party logistics service providers to award prizes, including: address, phone number, contacts. 
+2.1 The event prizes of this app are issued by Meizu or third-party partners and delivered by third-party logistics service providers. To do so, we need to provide your personal information to the third-party partners and the third-party logistics service providers to award prizes, including: address, phone number, contacts.
 
-2.2 When you share content in this app to WeChat, Weibo or other third-party app, we need to collect and provide your following information to WeChat, Weibo or other third-party app: device identifier. 
+2.2 When you share content in this app to WeChat, Weibo or other third-party app, we need to collect and provide your following information to WeChat, Weibo or other third-party app: device identifier.
 
 3. Your Data Subject Rights
 
-To make it easier for you to access, correct and delete your personal information while using the Meizu App Store, and to protect your right to withdraw your license to use your personal information, we have provided you with appropriate settings when we design the product, which you can use with reference to the following instructions. If you have any questions, comments or suggestions regarding your data subject rights, please contact us through the contact information at the beginning of this statement and exercise your rights. 
+To make it easier for you to access, correct and delete your personal information while using the Meizu App Store, and to protect your right to withdraw your license to use your personal information, we have provided you with appropriate settings when we design the product, which you can use with reference to the following instructions. If you have any questions, comments or suggestions regarding your data subject rights, please contact us through the contact information at the beginning of this statement and exercise your rights.
 
 3.1 Manage Personal Information
 
@@ -931,52 +868,52 @@ You can access and manage your personal information in the following ways:
 
 3.1.1 Access to your personal information
 (1) You have access to your personal information, except for exceptions specified in the laws and regulations. You can access your own personal information by:
-Flyme Account: if you want to access or edit personal profile information and payment information in your Flyme account, change your password, add security information, or close your account, you can do it through Account Management. 
-Installation history: you can view the history of your downloads and installed apps in the installation history. 
-Download Management: you can view, manage or clear your downloaded apps in this download management. 
-(2) If you are unable to access such personal information through the above paths, you can contact Meizu Customer Service at any time. We will respond to your request within 30 days. 
-(3) For other personal information that you may create during the use of our products or services, we will provide it to you at your request. 
+Flyme Account: if you want to access or edit personal profile information and payment information in your Flyme account, change your password, add security information, or close your account, you can do it through Account Management.
+Installation history: you can view the history of your downloads and installed apps in the installation history.
+Download Management: you can view, manage or clear your downloaded apps in this download management.
+(2) If you are unable to access such personal information through the above paths, you can contact Meizu Customer Service at any time. We will respond to your request within 30 days.
+(3) For other personal information that you may create during the use of our products or services, we will provide it to you at your request.
 3.1.2 Update, correct or supplement your personal information
-You have the right to request us to update, correct or supplement your personal information when you find that we make it wrong about your personal information. You can apply for corrections or supplements as specified in 3.1.1 Access to Your Personal Information. 
+You have the right to request us to update, correct or supplement your personal information when you find that we make it wrong about your personal information. You can apply for corrections or supplements as specified in 3.1.1 Access to Your Personal Information.
 
 3.1.3 Delete your personal information
-(1) You may delete some of your personal information by the way listed in 3.1.1 Access to your personal information. 
+(1) You may delete some of your personal information by the way listed in 3.1.1 Access to your personal information.
 (2) In the following cases, you may request us to delete your personal information:
 a) If we deal with personal information in violation of laws and regulations;
 b) If we collect and use your personal information without your express consent;
 c) If we deal with personal information in violation of the agreement between you and us;
 d) If you are no longer using our products or services, or you close your Flyme account on your own initiative;
-e)If we have permanently ceased to provide you with products or services. 
+e)If we have permanently ceased to provide you with products or services.
 
 3.2 Message Prompt
 
-When you use the App Store service, you may receive messages such as activities, rewards, comments, etc., which you can turn off at Me > Settings > Notifications. 
+When you use the App Store service, you may receive messages such as activities, rewards, comments, etc., which you can turn off at Me > Settings > Notifications.
 
 3.3 App Update Notifications
 
-When there is a new version of the app on your device, we display the update information of the app in the notification bar. You can turn off App Update Notifications by going to Me > Settings > App Update Notifications. 
+When there is a new version of the app on your device, we display the update information of the app in the notification bar. You can turn off App Update Notifications by going to Me > Settings > App Update Notifications.
 
 4. Data storage location and period
 
 4.1 Data storage location
 
-The personal information we collect and generate under this service will be stored in the territory of the People's Republic of China. 
+The personal information we collect and generate under this service will be stored in the territory of the People's Republic of China.
 
 4.2 Data Storage Term
 
- We will only retain your personal information for the time necessary to achieve the purpose and will delete or anonymize your personal information after the following retention time unless otherwise required by laws and regulations. 
+ We will only retain your personal information for the time necessary to achieve the purpose and will delete or anonymize your personal information after the following retention time unless otherwise required by laws and regulations.
 
-Your following information will be saved for 1 year: device information (including device identifier, screen size, operating system, terminal model, networking mode, mobile country code, resolution, system language), Meizu App Store client usage data (including app version number, app downloading channel, and time when you open/close the app), app information (including installed app list, apps downloaded, installation history, and app search history), and contact information (including phone number, address, contacts), gift redeem code, gift collecting record, coupon information, coupon usage record, subscription record, comments and country/region, your IP address, data of in-app click, data of visiting history, and app uninstallation data. 
+Your following information will be saved for 1 year: device information (including device identifier, screen size, operating system, terminal model, networking mode, mobile country code, resolution, system language), Meizu App Store client usage data (including app version number, app downloading channel, and time when you open/close the app), app information (including installed app list, apps downloaded, installation history, and app search history), and contact information (including phone number, address, contacts), gift redeem code, gift collecting record, coupon information, coupon usage record, subscription record, comments and country/region, your IP address, data of in-app click, data of visiting history, and app uninstallation data.
 
-Your Flyme account information, including the Flyme account, nickname, and avatar, will be saved until you delete your Flyme account. 
+Your Flyme account information, including the Flyme account, nickname, and avatar, will be saved until you delete your Flyme account.
 
-In addition, in the event of a cessation of operation of our products or services, we will notify you by sending notices, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time. 
+In addition, in the event of a cessation of operation of our products or services, we will notify you by sending notices, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time.
 
 5. Updates to this Privacy Policy
 
-Our Privacy Policy may be changed. 
-5.1 We do not restrict your rights under this Privacy Policy without your express consent. We will publish any changes to the Privacy Policy on a dedicated page (Setup > About > Privacy Policy). 
-5.2 For major changes, we will also provide you with more noticeable notices (including notification of changes to be sent to you by means of a bullet box). Major changes referred to in this policy include but are not limited to: 
+Our Privacy Policy may be changed.
+5.1 We do not restrict your rights under this Privacy Policy without your express consent. We will publish any changes to the Privacy Policy on a dedicated page (Setup > About > Privacy Policy).
+5.2 For major changes, we will also provide you with more noticeable notices (including notification of changes to be sent to you by means of a bullet box). Major changes referred to in this policy include but are not limited to:
 (1) Significant changes have taken place in our service model. Such as the purpose of personal information processing, the type of personal information processing, the use of personal information, etc.
 
  (2) Significant changes we have made in control and other aspects. E.G. Owner changes such as mergers and acquisitions, etc.;
@@ -985,15 +922,15 @@ Our Privacy Policy may be changed.
 
 (4) When your rights to participate in the processing of personal information and how they are exercised change significantly;
 
-(5) When the responsible department for handling the security of personal information, the contact information and complaint channels change. 
+(5) When the responsible department for handling the security of personal information, the contact information and complaint channels change.
 
-This Agreement shall enter into effect on the date when it is updated. 
+This Agreement shall enter into effect on the date when it is updated.
 
 Updated: April 2019
 "</string>
 <string name="privacy_dialog_message">Магазин приложений Meizu требует, чтобы вы согласились %s использовать</string>
 <string name="privacy_dialog_title">Условия и декларации</string>
-<string name="privacy_explain">"Meizu App Store (or App Store)Компания управляет компанией Meizu Technology Co., Ltd. (далее - Мы или Meizu) для загрузки, установки и управления продуктами (или услугами) сторонних приложений. Настоящая Политика конфиденциальности предназначена для того, чтобы помочь вам понять, какие данные мы будем собирать, почему они будут собираться, для чего они будут использоваться и как мы их защищаем. Понимание этого содержимого необходимо для осуществления ваших личных прав и защиты вашей личной информации. Пожалуйста, найдите время, чтобы внимательно прочитать эту политику, прежде чем использовать этот продукт (или услугу).
+<string name="privacy_explain">"Meizu App Store (or App Store) Компания управляет компанией Meizu Technology Co., Ltd. (далее - Мы или Meizu) для загрузки, установки и управления продуктами (или услугами) сторонних приложений. Настоящая Политика конфиденциальности предназначена для того, чтобы помочь вам понять, какие данные мы будем собирать, почему они будут собираться, для чего они будут использоваться и как мы их защищаем. Понимание этого содержимого необходимо для осуществления ваших личных прав и защиты вашей личной информации. Пожалуйста, найдите время, чтобы внимательно прочитать эту политику, прежде чем использовать этот продукт (или услугу).
 
 Этот продукт означает Meizu App Store Client.
 
@@ -1019,6 +956,6 @@ Updated: April 2019
 История
 Сохранено
 Сообщества"</string>
-<string name="privacy_title">Meizu Privacy Policy</string>
-<string name="privacy_title1">How we collect and use your personal information</string>
+<string name="privacy_title">Политика конфеденциальности Meizu</string>
+<string name="privacy_title1">Как мы собираем и обрабатываем персональные данные</string>
 </resources>

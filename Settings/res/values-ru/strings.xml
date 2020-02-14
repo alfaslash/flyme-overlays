@@ -14,7 +14,7 @@
 	<string name="Accounts_settings_title">Аккаунты</string>
 	<string name="Wifi_network_diagnostics_summary">Проверять сети Wi-Fi</string>
 	<string name="Wifi_network_diagnostics_title">Тест Wi-Fi</string>
-	<string name="abc_action_bar_home_description">Перейти на главный экран</string>
+	<string name="abc_action_bar_home_description">На рабочий стол</string>
 	<string name="abc_action_bar_up_description">Перейти вверх</string>
 	<string name="abc_action_menu_overflow_description">Другие параметры</string>
 	<string name="abc_action_mode_done">Готово</string>
@@ -63,7 +63,7 @@
 	<string name="accessibility_daltonizer_master_switch_title">Использовать коррекцию цвета</string>
 	<string name="accessibility_description_state_stopped">В работе службы произошла ошибка</string>
 	<string name="accessibility_disable_animations">Отключить анимации</string>
-	<string name="accessibility_display_daltonizer_preference_subtitle">Эта функция является экспериментальной и может повлиять на производительность</string>
+	<string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства.</string>
 	<string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
 	<string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
 	<string name="accessibility_display_inversion_preference_title">Инверсия цветов</string>
@@ -207,12 +207,10 @@
 	<string name="additional_battery_info">Предупреждения об использовании</string>
 	<string name="additional_permissions">Ещё разрешения</string>
 	<string name="additional_permissions_more">Ещё %1$d</string>
-	<string name="additional_system_update"/>
-	<string name="additional_system_update_menu"/>
 	<string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
 	<string name="adjust_error">Ошибка калибровки. Попробуйте снова</string>
 	<string name="adjust_succ">Калибровка выполнена</string>
-	<string name="adjusting">Калибровка. Пожалуйста, подождите</string>
+	<string name="adjusting">Идёт калибровка…</string>
 	<string name="admin_device_owner_message">Администратор может контролировать настройки, приложения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные, например сведения о местоположении или действиях в сети.</string>
 	<string name="admin_disabled_other_options">Другие настройки отключены вашим администратором.</string>
 	<string name="admin_more_details">Подробнее</string>
@@ -331,7 +329,7 @@
 	<string name="app_info_storage_title">Используется</string>
 	<string name="app_install_details_group_title">App Store</string>
 	<string name="app_install_details_summary">Приложение установлено из %1$s</string>
-	<string name="app_install_details_title">Информация о ПО</string>
+	<string name="app_install_details_title">О приложении</string>
 	<string name="app_install_location_summary">Изменить папку для установки приложений</string>
 	<string name="app_install_location_title">Место установки</string>
 	<string name="app_installing">Установка</string>
@@ -352,7 +350,6 @@
 	<string name="app_names_concatenation_template_2">%1$s, %2$s</string>
 	<string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
 	<string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
-	<string name="app_not_found_dlg_title"/>
 	<string name="app_notification_block_summary">Не показывать уведомления из этого приложения</string>
 	<string name="app_notification_block_title">Заблокировать все</string>
 	<string name="app_notification_importance_title">Важность</string>
@@ -409,7 +406,6 @@
 	<string name="assist_flash_summary">Подсвечивать края экрана, когда приложение-помощник получает доступ к тексту с экрана или скриншота</string>
 	<string name="assist_flash_title">Подсветка экрана</string>
 	<string name="assist_footer">Приложения-помощники работают с информацией на экране. Для большего удобства некоторые из них поддерживают панель запуска и голосовой ввод.</string>
-	<string name="assist_gesture_title"/>
 	<string name="assistant_security_warning">Ассистент сможет получать данные о программах в вашей системе, в том числе сведения с экрана и из приложений.</string>
 	<string name="assistant_security_warning_agree">Разрешить</string>
 	<string name="assistant_security_warning_disagree">Запретить</string>
@@ -449,7 +445,7 @@
 	<string name="auto_launch_dialog_reset">Сброс</string>
 	<string name="auto_launch_disable_text">Значения по умолчанию не установлены.</string>
 	<string name="auto_launch_enable_text">Это приложение выбрано по умолчанию для некоторых операций</string>
-	<string name="auto_launch_label">Запуск по умолч.</string>
+	<string name="auto_launch_label">Запуск по умолчанию</string>
 	<string name="auto_launch_label_generic">По умолчанию</string>
 	<string name="auto_punctuate">Автопунктуация</string>
 	<string name="auto_punctuate_summary">Нажмите дважды клавишу «Пробел» для ввода точки</string>
@@ -462,7 +458,6 @@
 	<string name="auto_sync_personal_account_title">Автоматическая синхронизация личных данных</string>
 	<string name="auto_sync_work_account_title">Автоматическая синхронизация корпоративных данных</string>
 	<string name="autofill_app">Служба автозаполнения</string>
-	<string name="autofill_confirmation_message"><b>Убедитесь что доверенное приложение</b> <br/> <br/> <xliff:g id=app_name example=Google Autofill>%1$s</xliff:g> использует содержимое экрана для определения заполняемых областей</string>
 	<string name="autofill_information">Сервису автозаполнения требуется доступ к содержимому экрана для определения заполняемых областей.</string>
 	<string name="autofill_keywords">авто, заполнение, автозаполнение</string>
 	<string name="automatic_brightness">Автояркость</string>
@@ -500,7 +495,6 @@
 	<string name="backup_data_title">Создать резервную копию данных</string>
 	<string name="backup_disabled">Резервное копирование отключено</string>
 	<string name="backup_erase_dialog_message">Прекратить резервное копирование паролей точек доступа Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
-	<string name="backup_erase_dialog_title"/>
 	<string name="backup_google_drive">Google Диск</string>
 	<string name="backup_inactive_title">Служба резервного копирования неактивна</string>
 	<string name="backup_phone_data">Резервное копирование</string>
@@ -639,7 +633,6 @@
 	<string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
 	<string name="battery_sugg_radio">В сети 4G выше энергопотребление. Если не требуется передача данных, рекомендуется использовать 2G.</string>
 	<string name="battery_sugg_wifi">Отключать модуль Wi-Fi, когда он не используется или сеть недоступна</string>
-	<string name="battery_suggestion_summary"/>
 	<string name="battery_suggestion_title">Увеличить время работы телефона</string>
 	<string name="battery_summary">Емкость батареи</string>
 	<string name="battery_tip_dialog_message">"Ваш телефон используется чаще чем обычно. Батарея может разрядится раньше, чем ожидается. Топ %1$d приложений использованных с последней полной зарядки:"</string>
@@ -755,7 +748,6 @@
 	<string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Перезагрузить?</string>
 	<string name="bluetooth_disable_absolute_volume">Отключить абсолютную громкость</string>
 	<string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку.</string>
-	<string name="bluetooth_disable_profile_message">Профиль<br><b>%1$s</b><br><br>будет отключен от устройства<br><b>%2$s</b></string>
 	<string name="bluetooth_disable_profile_title">Отключить профиль?</string>
 	<string name="bluetooth_disabled">Откл.</string>
 	<string name="bluetooth_disconnect_a2dp_profile">Устройство «%1$s» будет отключено от источника звука.</string>
@@ -782,7 +774,6 @@
 	<string name="bluetooth_enter_passkey_msg">Введите ключ доступа</string>
 	<string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
 	<string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
-	<string name="bluetooth_error_title"/>
 	<string name="bluetooth_footer_mac_message">MAC-адрес Bluetooth: %1$s</string>
 	<string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
 	<string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
@@ -794,7 +785,7 @@
 	<string name="bluetooth_hearingaid_right_pairing_message">Сопряжение с правым наушником…</string>
 	<string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
 	<string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
-	<string name="bluetooth_incoming_pairing_msg">От: <br>«%1$s»;b>%1$s</b><br><br>Выполнить сопряжение?</string>
+	<string name="bluetooth_incoming_pairing_msg">От: «%1$s»;<b>%1$s</b>Выполнить сопряжение?</string>
 	<string name="bluetooth_is_disconnect_question">Отключиться от устройства «%1$s»?</string>
 	<string name="bluetooth_is_discoverable">Время видимости для устройств Bluetooth: %1$s</string>
 	<string name="bluetooth_is_discoverable_always">Устройство доступно для поиска в данный момент</string>
@@ -922,7 +913,6 @@
 	<string name="bluetooth_tethering_subtext">Общий доступ в Интернет через Bluetooth</string>
 	<string name="bluetooth_turning_off">Отключение Bluetooth…</string>
 	<string name="bluetooth_turning_on">Включение Bluetooth…</string>
-	<string name="bluetooth_unknown"/>
 	<string name="bluetooth_unlock">Разблокировка Bluetooth-устройства</string>
 	<string name="bluetooth_unpair_dialog_body">Сопряжение с устройством «%1$s» будет разорвано</string>
 	<string name="bluetooth_unpair_dialog_forget_confirm_button">OK</string>
@@ -1135,8 +1125,6 @@
 	<string name="condition_work_summary">Приложения, фоновая синхронизация и другие функции, связанные с вашим рабочим профилем, отключены.</string>
 	<string name="condition_work_title">Рабочий профиль отключён</string>
 	<string name="condition_zen_title">Уведомления отключены (%1$s)</string>
-	<string name="config_backup_settings_intent"/>
-	<string name="config_backup_settings_label"/>
 	<string name="config_list_label">Настроенные сети</string>
 	<string name="configure">Настроить</string>
 	<string name="configure_apps">Настроить приложения</string>
@@ -1213,7 +1201,6 @@
 	<string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище учетных данных будет очищено</string>
 	<string name="credentials_settings_not_available">Этот пользователь не может изменять учётные данные</string>
 	<string name="credentials_title">Хранилище сертификатов</string>
-	<string name="credentials_unlock"/>
 	<string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных.</string>
 	<string name="credentials_wrong_password">Неверный пароль.</string>
 	<string name="crypt_keeper_button_text">Зашифровать телефон</string>
@@ -1582,7 +1569,6 @@
 	<string name="dlg_confirm_unmount_text">Если отключить USB-накопитель, некоторые приложения перестанут работать и могут оставаться недоступными до его подключения</string>
 	<string name="dlg_confirm_unmount_title">Отключить USB-накопитель?</string>
 	<string name="dlg_error_unmount_text">Не удалось отключить USB-накопитель. Повторите попытку позже</string>
-	<string name="dlg_error_unmount_title"/>
 	<string name="dlg_guest_close_message">После отключения, вы не сможете войти в режим гостя. Хотите стереть данные гостевого режима?</string>
 	<string name="dlg_guest_remain_data">Отмена</string>
 	<string name="dlg_ok">ОК</string>
@@ -1658,7 +1644,6 @@
 	<string name="double_tap_power_for_camera_suggestion_title">Быстрое включение камеры</string>
 	<string name="double_tap_power_for_camera_summary">Включение камеры двойным нажатием кнопки питания в любом приложении</string>
 	<string name="double_tap_power_for_camera_title">Быстрый доступ к камере</string>
-	<string name="double_twist_for_camera_mode_summary"/>
 	<string name="double_twist_for_camera_mode_title">Быстрое переключение между камерами</string>
 	<string name="double_twist_for_camera_suggestion_title">Быстрое включение фронтальной камеры</string>
 	<string name="downloadAliPayTitle">Загрузить Alipay Wallet</string>
@@ -1792,7 +1777,7 @@
 	<string name="enterprise_privacy_security_logs">Последний журнал безопасности</string>
 	<string name="enterprise_privacy_settings">Информация об управляемом устройстве</string>
 	<string name="enterprise_privacy_settings_summary_generic">Изменения и настройки, управляемые организацией</string>
-	<string name="enterprise_privacy_settings_summary_with_name">Изменения и настройки, управляемые организацией \"%s\"</string>
+	<string name="enterprise_privacy_settings_summary_with_name">Изменения и настройки, управляемые организацией «%s»</string>
 	<string name="enterprise_privacy_usage_stats">Время работы и израсходованный трафик для каждого приложения</string>
 	<string name="enterprise_privacy_wipe_device">Администратор может удалить все данные с устройства</string>
 	<string name="erase_btn">Восстановить</string>
@@ -1806,7 +1791,6 @@
 	<string name="error_mcc_not3">Поле MCC должно содержать 3 цифры</string>
 	<string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
 	<string name="error_name_empty">Имя не может быть пустым</string>
-	<string name="error_title"/>
 	<string name="estimated_charging_time_left">До полного заряда</string>
 	<string name="estimated_time_description">Осталось примерно (по данным использования)</string>
 	<string name="estimated_time_left">Осталось примерно</string>
@@ -1927,11 +1911,14 @@
 	<string name="flyme_version_infor">Информация о версии</string>
 	<string name="font_size_make_larger_desc">Увеличить</string>
 	<string name="font_size_make_smaller_desc">Уменьшить</string>
-	<string name="font_size_preview_text">Перевод выполнен командой PRO UPDATE TEAM</string>
-	<string name="font_size_preview_text_body">"Даже в защитных очках Дороти и её друзья были ослеплены блеском прекрасного города. Вдоль улиц тянулись дома из зелёного мрамора, усыпанные сверкающими изумрудами. Из того же мрамора была сделана мостовая, по которой шли путники. Промежутки между плитами были заполнены изумрудами, сияющими под солнцем. Даже его лучи были зелёными, как окна в домах и небо над городом. Вокруг сновали женщины, мужчины и дети. Одежда на них была зелёного цвета, а кожа имела зеленоватый оттенок. Они с удивлением смотрели на Дороти и её странных спутников. Завидев Льва, малыши прятались за спины родителей. Никто не решался заговорить с чужеземцами. Дороти заметила, что все товары в многочисленных магазинах города были зелёными: платья, сюртуки, ботинки, шляпы, конфеты и даже воздушная кукуруза. В одной из лавок продавался зелёный лимонад, и окружившие торговца дети расплачивались зелёными монетками. Казалось, что в городе не было ни лошадей, ни других животных. Мужчины возили вещи в небольших зелёных тележках, которые они толкали перед собой. Все выглядели весёлыми и довольными."</string>
-	<string name="font_size_preview_text_headline">Пример текста</string>
-	<string name="font_size_preview_text_subtitle">Глава 11. Изумрудный город страны Оз</string>
-	<string name="font_size_preview_text_title">Удивительный волшебник из страны Оз</string>
+	<string name="font_size_preview_text_body">"Even with eyes protected by the green spectacles, Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brightness of the sun. The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green.
+
+There were many people--men, women, and children--walking about, and these were all dressed in green clothes and had greenish skins. They looked at Dorothy and her strangely assorted company with wondering eyes, and the children all ran away and hid behind their mothers when they saw the Lion; but no one spoke to them. Many shops stood in the street, and Dorothy saw that everything in them was green. Green candy and green pop corn were offered for sale, as well as green shoes, green hats, and green clothes of all sorts. At one place a man was selling green lemonade, and when the children bought it Dorothy could see that they paid for it with green pennies.
+
+There seemed to be no horses nor animals of any kind; the men carried things around in little green carts, which they pushed before them. Everyone seemed happy and contented and prosperous."</string>
+	<string name="font_size_preview_text_headline">Sample text</string>
+	<string name="font_size_preview_text_subtitle">Chapter 11. The Emerald City of Oz</string>
+	<string name="font_size_preview_text_title">The Wonderful Wizard of Oz</string>
 	<string name="font_size_save">ОК</string>
 	<string name="font_size_summary">Настройки размера шрифта системы</string>
 	<string name="force_allow_on_external">Сохранение на внешние накопители</string>
@@ -1999,8 +1986,6 @@
 	<string name="gemini_sim_info_editor_number">Номер телефона</string>
 	<string name="gemini_sim_select_title">Выберите SIM-карту</string>
 	<string name="gensor_calibrate_tip_text">Положите телефон горизонтально</string>
-	<string name="gesture_double_twist_sensor_name"/>
-	<string name="gesture_double_twist_sensor_vendor"/>
 	<string name="gesture_preference_summary">Жесты для управления телефоном</string>
 	<string name="gesture_preference_title">Жесты</string>
 	<string name="gesture_prevent_ringing_screen_title">Отключение вызова</string>
@@ -2064,79 +2049,6 @@
 	<string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные.</string>
 	<string name="help_feedback_label">Справка и отзывы</string>
 	<string name="help_label">Справка и отзывы</string>
-	<string name="help_uri_about"/>
-	<string name="help_uri_about_phone_v2"/>
-	<string name="help_uri_accessibility"/>
-	<string name="help_uri_apps"/>
-	<string name="help_uri_beam"/>
-	<string name="help_uri_bluetooth_screen"/>
-	<string name="help_uri_default"/>
-	<string name="help_uri_display"/>
-	<string name="help_uri_interruptions"/>
-	<string name="help_uri_notifications"/>
-	<string name="help_uri_other_sounds"/>
-	<string name="help_uri_prevent_ringing_gesture"/>
-	<string name="help_uri_printing"/>
-	<string name="help_uri_private_dns"/>
-	<string name="help_uri_process_stats_apps"/>
-	<string name="help_uri_process_stats_summary"/>
-	<string name="help_uri_restricted_apps"/>
-	<string name="help_uri_smart_battery_settings"/>
-	<string name="help_uri_storage"/>
-	<string name="help_uri_wallpaper"/>
-	<string name="help_uri_wifi_calling"/>
-	<string name="help_uri_wifi_scanning_required"/>
-	<string name="help_url_accessibility_shortcut"/>
-	<string name="help_url_account_detail"/>
-	<string name="help_url_accounts"/>
-	<string name="help_url_apps_and_notifications"/>
-	<string name="help_url_audio_accessory_not_supported"/>
-	<string name="help_url_auto_brightness"/>
-	<string name="help_url_autoclick"/>
-	<string name="help_url_backup_reset"/>
-	<string name="help_url_battery"/>
-	<string name="help_url_battery_saver_settings"/>
-	<string name="help_url_bluetooth"/>
-	<string name="help_url_choose_lockscreen"/>
-	<string name="help_url_color_correction"/>
-	<string name="help_url_connected_devices"/>
-	<string name="help_url_data_saver"/>
-	<string name="help_url_data_usage"/>
-	<string name="help_url_display_size"/>
-	<string name="help_url_double_tap_screen"/>
-	<string name="help_url_dreams"/>
-	<string name="help_url_encryption"/>
-	<string name="help_url_fingerprint"/>
-	<string name="help_url_font_size"/>
-	<string name="help_url_gestures"/>
-	<string name="help_url_icc_lock"/>
-	<string name="help_url_location_access"/>
-	<string name="help_url_lockscreen"/>
-	<string name="help_url_magnification"/>
-	<string name="help_url_manage_storage"/>
-	<string name="help_url_more_networks"/>
-	<string name="help_url_network_dashboard"/>
-	<string name="help_url_nfc_payment"/>
-	<string name="help_url_night_display"/>
-	<string name="help_url_pickup_gesture"/>
-	<string name="help_url_previously_connected_devices"/>
-	<string name="help_url_remote_display"/>
-	<string name="help_url_screen_pinning"/>
-	<string name="help_url_screen_saver"/>
-	<string name="help_url_security"/>
-	<string name="help_url_sound"/>
-	<string name="help_url_storage_dashboard"/>
-	<string name="help_url_system_dashboard"/>
-	<string name="help_url_tether"/>
-	<string name="help_url_trust_agent"/>
-	<string name="help_url_unrestricted_data_access"/>
-	<string name="help_url_upgrading"/>
-	<string name="help_url_usage_access"/>
-	<string name="help_url_user_and_account_dashboard"/>
-	<string name="help_url_users"/>
-	<string name="help_url_vpn"/>
-	<string name="help_url_wifi"/>
-	<string name="help_url_wifi_p2p"/>
 	<string name="hidden_ssid_label">Скрытый SSID:</string>
 	<string name="hide_extra_apps">Использование приложений</string>
 	<string name="hide_fringe_summary">Заполнить вырез экрана черным цветом</string>
@@ -2346,9 +2258,6 @@
 	<string name="label_available">Доступные сети</string>
 	<string name="label_global_roaming_settings">Настройки роуминга</string>
 	<string name="language_empty_list_user_restricted">У вас недостаточно прав для изменения языка устройства</string>
-	<string name="language_input_gesture_summary_off"/>
-	<string name="language_input_gesture_summary_on_non_assist"/>
-	<string name="language_input_gesture_summary_on_with_assist"/>
 	<string name="language_input_gesture_title">Язык, ввод и жесты</string>
 	<string name="language_keyboard_settings_title">Язык и способы ввода</string>
 	<string name="language_picker_title">Язык</string>
@@ -2640,7 +2549,7 @@
 	<string name="maximum_memory_use">Макс. объём исп. памяти</string>
 	<string name="mc_action_settings">Настройки</string>
 	<string name="mc_allow">OK</string>
-	<string name="mc_alway_allow">Разрешать всегда</string>
+	<string name="mc_alway_allow">Всегда разрешать</string>
 	<string name="mc_cancel">Отмена</string>
 	<string name="mc_cancel_button_text">Отмена</string>
 	<string name="mc_cancel_collected_message">Отменено</string>
@@ -2650,7 +2559,7 @@
 	<string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
 	<string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
 	<string name="mc_custom_date_time_gregorian">Григорианский</string>
-	<string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+	<string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
 	<string name="mc_custom_date_time_lunar">Лунный</string>
 	<string name="mc_custom_date_time_one_day_after">1 д. спустя</string>
 	<string name="mc_custom_date_time_one_day_before">1 д. назад</string>
@@ -2769,7 +2678,7 @@
 	<string name="media_volume_option_title">Музыка и видео</string>
 	<string name="media_volume_summary">Настроить громкость музыки и видео</string>
 	<string name="media_volume_title">Мультимедиа</string>
-	<string name="mega_suffix">МБ</string>
+	<string name="mega_suffix">Мб</string>
 	<string name="meid_multi_sim">MEID (слот SIM %1$d)</string>
 	<string name="meid_title">MEID</string>
 	<string name="meizu_card">SIM-карта mLite</string>
@@ -2865,7 +2774,6 @@
 	<string name="mount_sdcard_summary">Вставьте карту памяти для подключения</string>
 	<string name="move_app">Переместить</string>
 	<string name="move_app_failed_dlg_text">Невозможно переместить приложение. %1$s</string>
-	<string name="move_app_failed_dlg_title"/>
 	<string name="move_app_to_internal">Перенести на телефон</string>
 	<string name="move_app_to_sdcard">На USB-накопиель</string>
 	<string name="move_error_device_admin">Администраторы устройства не могут быть установлены на внешнем носителе.</string>
@@ -2884,13 +2792,7 @@
 	<string name="mz_action_bar_multi_choice_select_all_cancel">Снять</string>
 	<string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
 	<string name="mz_allow">ОК</string>
-	<string name="mz_alway_allow">Разрешать всегда</string>
-	<string name="mz_date_time_day"/>
-	<string name="mz_date_time_hour"/>
-	<string name="mz_date_time_min"/>
-	<string name="mz_date_time_month"/>
-	<string name="mz_date_time_sec"/>
-	<string name="mz_date_time_year"/>
+	<string name="mz_alway_allow">Всегда разрешать</string>
 	<string name="mz_delete_fp">Удалить отпечаток</string>
 	<string name="mz_face_add_camera_preview_loading">Запуск камеры</string>
 	<string name="mz_face_add_tip_continue">Добавление данных лица</string>
@@ -2992,13 +2894,13 @@
 	<string name="mz_permissiongroup_name_other">Другое</string>
 	<string name="mz_pm_allow_check_app">ОК</string>
 	<string name="mz_pm_allow_dialog_push">Всплывающие Push-уведомления</string>
-	<string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+	<string name="mz_pm_bluetooth">Управление Bluetooth</string>
 	<string name="mz_pm_call">Вызовы</string>
 	<string name="mz_pm_call_log">Чтение журнала вызовов</string>
 	<string name="mz_pm_camera">Камера (Фото/Видео)</string>
 	<string name="mz_pm_close">Выкл.</string>
 	<string name="mz_pm_contacts">Чтение контактов</string>
-	<string name="mz_pm_dialog_push">Push-сообщения</string>
+	<string name="mz_pm_dialog_push">Push-уведомления</string>
 	<string name="mz_pm_dlg_cancel">Отмена</string>
 	<string name="mz_pm_dlg_ok">ОК</string>
 	<string name="mz_pm_location">Местоположение</string>
@@ -3452,7 +3354,7 @@
 	<string name="permit_write_settings">Разрешить изменять системные настройки</string>
 	<string name="perms_description_app">Источник: %1$s</string>
 	<string name="perms_new_perm_prefix">
-		<font fgcolor="#ff33b5e5" size="12">НОВОЕ:</font>
+		<font fgcolor="#ff33b5e5" size="12">Новое:</font>
 	</string>
 	<string name="personal_assistent">Ассистент</string>
 	<string name="personal_data_section_title">Личные данные</string>
@@ -3460,7 +3362,6 @@
 	<string name="phone_category_title">Телефон</string>
 	<string name="phone_info_label">Информация о телефоне</string>
 	<string name="phone_language">Язык</string>
-	<string name="phone_language_summary"/>
 	<string name="phone_pwd">Пароль</string>
 	<string name="phone_pwd_summary">Используется для управления отпечатками пальцев и разблокировки экрана</string>
 	<string name="phone_pwd_summary_no_fp">Использовать для разблокировки экрана</string>
@@ -3720,7 +3621,7 @@
 	<string name="radio_info_imei_label">IMEI:</string>
 	<string name="radio_info_ims_feature_status_available">Доступно</string>
 	<string name="radio_info_ims_feature_status_unavailable">Недоступно</string>
-	<string name="radio_info_ims_reg_status">"Статус IMS: %1$s Голос через LTE: %2$s Голос через WLAN: %3$s Видеовызов: %4$s UT-интерфейс: %5$s"</string>
+	<string name="radio_info_ims_reg_status">"Статус IMS: %1$s Голос через LTE: %2$s Голос через Wi-Fi: %3$s Видеовызов: %4$s UT-интерфейс: %5$s"</string>
 	<string name="radio_info_ims_reg_status_not_registered">Не зарегистрирован</string>
 	<string name="radio_info_ims_reg_status_registered">Зарегистрирован</string>
 	<string name="radio_info_ims_reg_status_title">Статус IMS</string>
@@ -3771,7 +3672,6 @@
 	<string name="region_picker">Выбрать регион</string>
 	<string name="region_search_hint">Поиск региона</string>
 	<string name="region_title">Регион</string>
-	<string name="regulatory_info_text"/>
 	<string name="regulatory_labels">Юридическая информация</string>
 	<string name="release_space">Освободить место</string>
 	<string name="remaining_length_format">Осталось: %1$s</string>
@@ -3919,11 +3819,8 @@
 	<string name="runtime_permissions_summary_no_permissions_granted">У приложения нет разрешений</string>
 	<string name="runtime_permissions_summary_no_permissions_requested">Приложение не запрашивало разрешения</string>
 	<string name="safety_and_regulatory_info">Информация о безопасности и легитимных правах</string>
-	<string name="sar_body_value"/>
 	<string name="sar_dialog_msg">"Лимит: %1$sW/кг Голова: %2$sW/кг @1g Тело: %3$sW/кг @1g"</string>
 	<string name="sar_dialog_title">Значение SAR (Индия)</string>
-	<string name="sar_head_value"/>
-	<string name="sar_limit_value"/>
 	<string name="save">Сохранить</string>
 	<string name="saved_network">Сохранено: «%1$s»</string>
 	<string name="scan_list_label">Результат сканирования:</string>
@@ -4005,7 +3902,6 @@
 	<string name="sd_insert_summary">Вставьте USB-накопитель подключения</string>
 	<string name="sd_memory">Карта памяти</string>
 	<string name="sd_mount">Подключить карту памяти</string>
-	<string name="sd_mount_summary"/>
 	<string name="sdcard_changes_instructions">Изменения вступят в силу после повторного подключения USB-кабеля</string>
 	<string name="sdcard_format">Очистить USB-накопитель</string>
 	<string name="sdcard_install_failed">Ошибка при подключении карты памяти. Извлеките карту памяти и подключите снова</string>
@@ -4129,7 +4025,6 @@
 	<string name="security_settings_fingerprint_enroll_start_title">Начало работы</string>
 	<string name="security_settings_fingerprint_enroll_touch_dialog_message">Используйте сканер отпечатков на вашем устройстве</string>
 	<string name="security_settings_fingerprint_enroll_touch_dialog_title">Это не сканер отпечатков пальцев</string>
-	<string name="security_settings_fingerprint_preference_summary_none"/>
 	<string name="security_settings_fingerprint_preference_title">Отпечатки пальцев</string>
 	<string name="security_settings_premium_sms_desc">Отправить платное SMS?</string>
 	<string name="security_settings_summary">Настройка функции «Мое местоположение», разблокировка экрана, блокировка SIM-карты и хранилища сертификатов</string>
@@ -4639,7 +4534,6 @@
 	<string name="sum_select_automatically">Автоподключение к предпочтительной сети</string>
 	<string name="summary_collapsed_preference_list">%1$s, %2$s</string>
 	<string name="summary_divider_text">,</string>
-	<string name="summary_empty"/>
 	<string name="summary_font_size">%1$s</string>
 	<string name="summary_fullscreen_gesture">Полноэкранные жесты</string>
 	<string name="summary_gesture">Жестовая навигация</string>
@@ -4691,7 +4585,6 @@
 	<string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
 	<string name="system_ringtone">Система</string>
 	<string name="system_ui_settings">Показать SystemUI Tuner</string>
-	<string name="system_update_settings_list_item_summary"/>
 	<string name="system_update_settings_list_item_title">Обновление системы</string>
 	<string name="system_version">Версия системы:</string>
 	<string name="systemui_theme_dark">Тёмная</string>
@@ -4799,7 +4692,6 @@
 	<string name="tts_status_requires_network">«%1$s» поддерживается только при подключении к сети</string>
 	<string name="tts_status_title">Язык по умолчанию</string>
 	<string name="uid_not_match">UID не совпадает с именем пакета</string>
-	<string name="unacceptable_char">Следующие символы недопустимы |\\/:*?\"<></string>
 	<string name="underglass_enroll_tips_bad_img">Пожалуйста, очистите выделенную область или палец</string>
 	<string name="underglass_enroll_tips_first">Поместите палец на выделенную область ниже, и приподнимите его почувствовав вибрацию</string>
 	<string name="underglass_input_pwd_tips">Нажмите для ввода пароля</string>
@@ -4854,7 +4746,6 @@
 	<string name="unlock_set_unlock_mode_pin">Защита PIN-кодом</string>
 	<string name="unlock_set_unlock_none_summary">Защита отключена</string>
 	<string name="unlock_set_unlock_none_title">Отключено</string>
-	<string name="unlock_set_unlock_off_summary"/>
 	<string name="unlock_set_unlock_off_title">Нет</string>
 	<string name="unlock_set_unlock_password_summary">Высокий уровень защиты</string>
 	<string name="unlock_set_unlock_password_title">Пароль</string>
@@ -5023,7 +4914,6 @@
 	<string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
 	<string name="user_dict_settings_empty_text">В пользовательском словаре пока ничего нет. Добавлять слова можно с помощью кнопки «Добавить (+)».</string>
 	<string name="user_dict_settings_more_languages">Другой язык</string>
-	<string name="user_dict_settings_summary"/>
 	<string name="user_dict_settings_title">Пользовательский словарь</string>
 	<string name="user_enable_calling">Разрешить вызовы</string>
 	<string name="user_enable_calling_and_sms_confirm_message">Этот пользователь получит доступ к истории вызовов и SMS.</string>
@@ -5275,7 +5165,6 @@
 	<string name="wifi_calling_mode_title">Настройки вызовов</string>
 	<string name="wifi_calling_not_supported">Вызовы по Wi-Fi недоступны для %1$s</string>
 	<string name="wifi_calling_off_explanation">Когда фунция «Вызовы по Wi-Fi» включена, ваш телефон сможет маршрутизировать вызовы через сети Wi-Fi или сеть вашего оператора, в зависимости от ваших предпочтений и мощности сигнала. Прежде чем включать эту функцию, уточните у своего оператора информацию о тарифах и других деталях.</string>
-	<string name="wifi_calling_off_explanation_2"/>
 	<string name="wifi_calling_pref_managed_by_carrier">Настраивается оператором</string>
 	<string name="wifi_calling_roaming_mode_dialog_title">Настройки роуминга</string>
 	<string name="wifi_calling_roaming_mode_summary">%1$s</string>
@@ -5504,7 +5393,7 @@
 		<b>Далее</b>", чтобы продолжить настройку. Нажмите "
 		<b>Назад</b>, чтобы подключиться к другой сети Wi-Fi.
 	</string>
-	<string name="wifi_setup_description_connecting">Подключение может занять несколько минут...</string>
+	<string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
 	<string name="wifi_setup_detail">Сведения о сети</string>
 	<string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню «Настройки > Беспроводные сети».</string>
 	<string name="wifi_setup_forget">Забыть</string>
@@ -5935,7 +5824,6 @@
 	<string name="support_tips_and_tricks_title">Рекомендации и полезные советы</string>
 	<string name="support_help_feedback_title">Справочный центр / Оставить отзыв</string>
 	<string name="support_sign_in_required_title">Свяжитесь со службой поддержки</string>
-	<string name="support_sign_in_required_summary"/>
 	<string name="support_sign_in_button_text">Войти</string>
 	<string name="support_sign_in_required_help">Не удаётся войти</string>
 	<string name="support_disclaimer_title">Отправьте информацию о системе</string>
@@ -5955,14 +5843,6 @@
 	<string name="wifi_p2p_listen_mode">Режим сканирования</string>
 	<string name="wifi_p2p_listen_channel">Сканировать канал</string>
 	<string name="key_sounds_enable_title">Клавиатура</string>
-	<string name="aod_notification_switch">Показать уведомление</string>
 	<string name="wifi_p2p_allow_passive_listen">Разрешить пассивное сканирование</string>
 	<string name="wifi_p2p_allow_passive_listen_summary">Разрешить/запретить режим пассивного сканирования. При включении устройство не будет обнаруживать другие устройства, но может быть обнаружено другими.</string>
-	<string name="find_phone_title">Поиск телефона</string>
-	<string name="security_status_find_on">Вкл</string>
-	<string name="security_status_find_off">Выкл</string>
-	<string name="use_flyme_icon_title">Иконки Flyme</string>
-	<string name="sar_limit_value"/>
-	<string name="sar_head_value"/>
-	<string name="sar_body_value"/>
 </resources>

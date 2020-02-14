@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -14,7 +14,7 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_browser">О приложении</string>
@@ -60,7 +60,7 @@
     <string name="application_name">Браузер</string>
     <string name="application_permission_message">Приложению требуется доступ к вашему местоположению, списку контактов и камере для предоставления специализированных услуг и сканирования кода поддержки.</string>
     <string name="auto_sync_content">Элементы автосинхронизации</string>
-    <string name="auto_sync_wifi">Автосинхронизация только по WLAN</string>
+    <string name="auto_sync_wifi">Автосинхронизация только по Wi-Fi</string>
     <string name="autofill_profile_editor_delete_profile">Удалить</string>
     <string name="autofill_setup_dialog_message">Браузер может автоматически заполнять такие веб-формы. Включить автозаполнение?</string>
     <string name="autologin_account_name_prefix">"Войти как "</string>
@@ -131,7 +131,7 @@
     <string name="clear_data_cookies">Cookies</string>
     <string name="clear_data_finish">Готово</string>
     <string name="clear_data_input_record">История ввода</string>
-    <string name="clear_data_now">Очистка данных...</string>
+    <string name="clear_data_now">Очистка данных…</string>
     <string name="clear_data">Очистить данные</string>
     <string name="clear_history">Очистить</string>
     <string name="clear_search_history">Очистить историю поиска</string>
@@ -223,7 +223,7 @@
     <string name="copyAll">Копировать все</string>
     <string name="create_folder_fail">Невозможно создать папку сохранённой страницы</string>
     <string name="currently_in_mobile_network">Используется мобильная передача данных. Это влечёт потребление трафика.</string>
-    <string name="currently_in_wifi_network">Используется сеть WLAN</string>
+    <string name="currently_in_wifi_network">Используется сеть Wi-Fi</string>
     <string name="currently_network_error">Ошибка сети, пожалуйста, подключитесь снова</string>
     <string name="custom_type">Свой тип</string>
     <string name="cut">Вырезать</string>
@@ -295,7 +295,7 @@
     <string name="feedback_submit">Отправить</string>
     <string name="feedback_submiting_fail">Ошибка отправки сообщения, попробуйте позже</string>
     <string name="feedback_submiting_success">Успешно</string>
-    <string name="feedback_submiting">Отправляем...</string>
+    <string name="feedback_submiting">Отправляем</string>
     <string name="feedback_suggest_limit">Не менее 10 символов</string>
     <string name="feedback_suggestion">Предложение</string>
     <string name="file_name_empty">Имя файла не может быть пустым</string>
@@ -343,7 +343,7 @@
     <string name="http">http://</string>
     <string name="hundredMillion">100 миллионов</string>
     <string name="image_card_text">%d фото</string>
-    <string name="image_only_in_wifi">Показ картинок только по WLAN</string>
+    <string name="image_only_in_wifi">Показ картинок только по Wi-Fi</string>
     <string name="image_save_fail">Ошибка сохранения</string>
     <string name="image_save_title">Сохранено в Download/Browser/</string>
     <string name="immersive_mode">Полноэкранный режим</string>
@@ -361,17 +361,17 @@
     <string name="location">URL-адрес</string>
     <string name="max_tabs_warning">%d вкладок всего</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
     <string name="mc_cancel_praised_message">Отменить</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_change_num">Обновление</string>
     <string name="mc_collected_message">Избранное</string>
-    <string name="mc_custom_date_time_day_after">Дней после</string>
-    <string name="mc_custom_date_time_day_before">Дней до</string>
+    <string name="mc_custom_date_time_day_after">Дн. спутся</string>
+    <string name="mc_custom_date_time_day_before">Дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
     <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
@@ -382,7 +382,7 @@
     <string name="mc_date_time_month">м.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -406,8 +406,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
@@ -422,7 +422,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
@@ -447,8 +447,8 @@
     <string name="mc_pm_s_sms">Отправка SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -509,13 +509,13 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_sec">с</string>
-    <string name="mz_date_time_year">г</string>
+    <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
@@ -528,18 +528,18 @@
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call_log">Чтение журнала вызовов</string>
     <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">Чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">Местоположение</string>
     <string name="mz_pm_network">Передача данных</string>
-    <string name="mz_pm_nfc">Переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">Доступ в интернет</string>
@@ -552,8 +552,8 @@
     <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">Включение WLAN</string>
-    <string name="mz_pm_wlan">Доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Передать</string>
@@ -586,7 +586,7 @@
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
-    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_installing">Установка…</string>
     <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
@@ -637,7 +637,7 @@
     <string name="personal_center">Моё</string>
     <string name="personal_sync_center_title">Облачная синхронизация</string>
     <string name="pic_quality">Качество изображения</string>
-    <string name="pick_wifi_message">Доступна сеть WLAN. Подключиться к точке доступа?</string>
+    <string name="pick_wifi_message">Доступна сеть Wi-Fi. Подключиться к точке доступа?</string>
     <string name="pick_wifi_no">Нет</string>
     <string name="pick_wifi_title">Уведомления</string>
     <string name="pick_wifi_yes">Да</string>
@@ -735,7 +735,7 @@
     <string name="preference_ad_block_manual_title">Ручная настройка AdBlock</string>
     <string name="preference_ad_block_title">Блокировка рекламы</string>
     <string name="preference_more">Ещё</string>
-    <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+    <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
     <string name="prompt_dialog_default_title">Советы</string>
     <string name="prompt_dialog_header_title">%s относится к личной информации</string>
     <string name="ptr_go_Refreshing">Отпустите для обновления</string>
@@ -773,7 +773,7 @@
     <string name="remember_passwords">Сохранить пароль?</string>
     <string name="remember">Запомнить</string>
     <string name="remind_item_content_prefix">Я: %s</string>
-    <string name="remind_item_love_name_more_fix_prefix">...</string>
+    <string name="remind_item_love_name_more_fix_prefix">…</string>
     <string name="remind_item_love_name_more_prefix">и т.д.</string>
     <string name="remind_item_love_name_more_suffix">%d пользоват. согласны с вашей точкой зрения</string>
     <string name="remind_item_love_name_one_suffix">Согласны с вашей точкой зрения</string>
@@ -855,7 +855,7 @@
     <string name="snapshot_failed">Не удалось сохранить для офлайн-чтения</string>
     <string name="so_crash_download_tip">Требуется загрузка новой версии браузера. Выполнить загрузку через мобильную сеть?</string>
     <string name="so_crash_empty_list_tip">"Ошибка браузера. Загрузите актуальную версию для решения проблемы"</string>
-    <string name="so_crash_restore_tip">"Восстановление... Перезагрузите браузер после завершения"</string>
+    <string name="so_crash_restore_tip">"Восстановление… Перезагрузите браузер после завершения"</string>
     <string name="sponsored">Реклама</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
@@ -870,7 +870,7 @@
     <string name="ssl_untrusted">Этот сертификат получен из ненадёжных источников.</string>
     <string name="ssl_warnings_header">У этого сайта обнаружены проблемы с сертификатом безопасности.</string>
     <string name="status_bar_notification_info_overflow">>999</string>
-    <string name="stopping">Остановка...</string>
+    <string name="stopping">Остановка…</string>
     <string name="string_book_author">Автор: %1$s</string>
     <string name="string_book_price">Цена: %1$s%2$s</string>
     <string name="string_book_publish">Издательство: %1$s</string>
@@ -932,11 +932,11 @@
     <string name="title_bar_loading">Загрузка…</string>
     <string name="title_book">Книга</string>
     <string name="title_calendar">Событие</string>
-    <string name="title_open_extras_app">Открыть \"%s\"?</string>
+    <string name="title_open_extras_app">Открыть «%s»?</string>
     <string name="title_product">Продукт</string>
     <string name="title_text">Текст</string>
     <string name="title_url">Сайт</string>
-    <string name="title_wifi">WLAN</string>
+    <string name="title_wifi">Wi-Fi</string>
     <string name="title">Название</string>
     <string name="too_long_url_dialog_title">Достигнута максимальная длина URL</string>
     <string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно.</string>
@@ -947,9 +947,9 @@
     <string name="update_check_current_is_newest_version">Установлена актуальная версия</string>
     <string name="update_check_current_version">Текущая версия: V%1$s</string>
     <string name="update_check_found_new_version">Текущая версия V%1$s. Доступна новая версия V%2$s</string>
-    <string name="update_check_is_checking">Проверка...</string>
+    <string name="update_check_is_checking">Проверка…</string>
     <string name="update_check_is_failed">Ошибка сети, нажмите для проверки</string>
-    <string name="update_check_is_updating">Обновление выполняется в фоновом режиме, пожалуйста, подождите...</string>
+    <string name="update_check_is_updating">Обновление выполняется в фоновом режиме, пожалуйста, подождите…</string>
     <string name="update_check_title">Проверка обновлений</string>
     <string name="update_passwords">Обновить пароль?</string>
     <string name="update">Обновить</string>
@@ -998,9 +998,9 @@
     <string name="wechat_shoucang">Избранное WeChat</string>
     <string name="weibo_app">Weibo</string>
     <string name="wifi_aps_unavailable_check">Больше не спрашивать</string>
-    <string name="wifi_aps_unavailable_message">Точка доступа WLAN не обнаружена. Подключиться через 3G? Без пакета трафика это может привести к дополнительным расходам.</string>
+    <string name="wifi_aps_unavailable_message">Точка доступа Wi-Fi не обнаружена. Подключиться через 3G? Без пакета трафика это может привести к дополнительным расходам.</string>
     <string name="wifi_aps_unavailable_title">Уведомления</string>
-    <string name="wifi_connect">Подключение по WLAN</string>
+    <string name="wifi_connect">Подключение по Wi-Fi</string>
     <string name="wifi_encryption_string">Тип: %1$s</string>
     <string name="wifi_password_string">Пароль: %1$s</string>
     <string name="wifi_status_connect">Подключено</string>
@@ -1023,7 +1023,7 @@
     <string name="zen_feedback_more">Больше такого</string>
     <string name="zen_item_browser_subscribe">Подписаться на канал</string>
     <string name="zen_language_code">ru</string>
-    <string name="zen_loading_button">Загрузка...</string>
+    <string name="zen_loading_button">Загрузка…</string>
     <string name="zen_menu_enable_images">Показывать изображения</string>
     <string name="zen_menu_login">Войти в Дзен</string>
     <string name="zen_menu_logout">Выйти</string>

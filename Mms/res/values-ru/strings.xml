@@ -4,7 +4,7 @@
     <string name="MMS_numbers">MMS:</string>
     <string name="Mms_total_size">; общий размер:</string>
     <string name="SMS_numbers">, SMS:</string>
-    <string name="abc_action_bar_home_description">Перейти на рабочий стол</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="WaitTip">Пожалуйста, подождите</string>
     <string name="YOU">Вы</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -242,7 +242,7 @@
     <string name="input_nickname_hint">Введите псевдоним</string>
     <string name="intelligent_message">Smart SMS</string>
     <string name="invalid_destination">Неверный адрес получателя.</string>
-    <string name="ippush_message">Push-сообщения</string>
+    <string name="ippush_message">Push-уведомления</string>
     <string name="ippush_public_service">Публичный сервис</string>
     <string name="ippush_service_introduce_title">Введение в сервис</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
@@ -276,7 +276,7 @@
     <string name="mbyte">Мб</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Отменено</string>
@@ -286,7 +286,7 @@
     <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 д. спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 д. назад</string>
@@ -468,7 +468,7 @@
     <string name="mz_action_bar_multi_choice_select_all_cancel">Снять</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_allow">OK</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
     <string name="mz_date_time_min">м.</string>
@@ -761,7 +761,7 @@
     <string name="sim_open">вкл.</string>
     <string name="sim_status" formatted="false">SIM 1 %s | SIM 2 %s</string>
     <string name="sim_type_normal">Обычное сообщение</string>
-    <string name="size_unit">МБ</string>
+    <string name="size_unit">Мб</string>
     <string name="skip_introduce">Пропустить</string>
     <string name="slide_failed_to_add_media">Невозможно добавить объект %1$s к сообщению</string>
     <string name="slide_number">Слайд %s</string>
@@ -888,8 +888,8 @@
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="has_mark_read">Отмечено как прочитанное</string>
     <string name="has_mark_unread">Отмечено как непрочитанное</string>
-    <string name="mc_custom_date_time_day_after">Дней после</string>
-    <string name="mc_custom_date_time_day_before">Дней до</string>
+    <string name="mc_custom_date_time_day_after">Дн. спустя</string>
+    <string name="mc_custom_date_time_day_before">Дн. назад</string>
     <string name="mms_audio_subject_view">Веб-MMS: 1 аудио</string>
     <string name="mms_file_subject_view">Веб-MMS: 1 файл</string>
     <string name="mms_image_subject_view">Веб-MMS: 1 изображение</string>
@@ -899,6 +899,5 @@
     <string name="pull_to_mark_read">Потянуть вниз для отметки прочитанным</string>
     <string name="pull_to_mark_unread">Потянуть вниз для отметки непрочитанным</string>
 	<string name="mz_permission_always_allow">Всегда разрешать</string>
-	<string name="mz_permission_deny">Отклонить</string>
 	<string name="search_tint">Поиск SMS</string>
 </resources>

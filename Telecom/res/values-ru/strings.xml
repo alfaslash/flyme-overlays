@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главную</string>
+    <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -14,21 +14,21 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_call_muted">Звук выключен.</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства.</string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
-    <string name="accessibility_no_wifi">WLAN отключен</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключен</string>
     <string name="accessibility_speakerphone_enabled">Динамик включён.</string>
-    <string name="accessibility_wifi_off">WLAN выключен</string>
-    <string name="accessibility_wifi_one_bar">WLAN: одно деление</string>
+    <string name="accessibility_wifi_off">Wi-Fi выключен</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
-    <string name="accessibility_wifi_signal_full">WLAN: надежный сигнал</string>
-    <string name="accessibility_wifi_three_bars">WLAN: три деления</string>
-    <string name="accessibility_wifi_two_bars">WLAN: два деления</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешен?</string>
     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
@@ -81,11 +81,11 @@
     <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
     <string name="bluetooth_connected_no_map">Подключено (нет доступа к сообщениям)</string>
     <string name="bluetooth_connected">Подключено</string>
-    <string name="bluetooth_connecting">Подключение...</string>
+    <string name="bluetooth_connecting">Подключение…</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку.</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disconnected">Отключено</string>
-    <string name="bluetooth_disconnecting">Отключение...</string>
+    <string name="bluetooth_disconnecting">Отключение…</string>
     <string name="bluetooth_enable_inband_ringing_summary">Разрешить воспроизведение рингтонов на телефоне через Bluetooth-гарнитуру</string>
     <string name="bluetooth_enable_inband_ringing">Включить внутриполосное воспроизведение</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
@@ -105,7 +105,7 @@
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль.</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение.</string>
     <string name="bluetooth_pairing_will_share_phonebook">Сопряжение обеспечивает доступ к вашим контактам и журналу звонков при подключении.</string>
-    <string name="bluetooth_pairing">Сопряжение...</string>
+    <string name="bluetooth_pairing">Сопряжение…</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа к Интернету</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
@@ -147,7 +147,7 @@
     <string name="call_duration_title">Вызов завершён</string>
     <string name="call_failed">Ошибка вызова</string>
     <string name="call_not_allowed_for_message_call">Невозможен вызов во время голосового сообщения</string>
-    <string name="call_waiting_indication">Другая сторона на линии, подождите...</string>
+    <string name="call_waiting_indication">Другая сторона на линии, подождите…</string>
     <string name="callEnded_pulled">Вызов перенесён на другое устройство.</string>
     <string name="callFailed_cb_enabled">Включён запрет вызовов.</string>
     <string name="callFailed_congestion">Сеть занята</string>
@@ -316,7 +316,7 @@
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="max_cdma_conference_tip">Достигнут лимит участников</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отменить отзыв</string>
@@ -324,7 +324,7 @@
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Статус избранного</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
     <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
@@ -335,7 +335,7 @@
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -359,8 +359,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
@@ -375,7 +375,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -398,7 +398,7 @@
     <string name="mc_pm_s_sms">Отправить SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
     <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -425,7 +425,7 @@
     <string name="media_category">Мультимедиа</string>
     <string name="mo_code_call_deflected">Вызов переадресован</string>
     <string name="mo_code_call_forwarded">Вызов переадресован</string>
-    <string name="mo_code_call_forwarding">Переадресация вызова...</string>
+    <string name="mo_code_call_forwarding">Переадресация вызова…</string>
     <string name="mo_code_call_is_waiting">Ожидание вызова</string>
     <string name="mo_code_clir_suppression_rejected">Проверка службы отправки данных</string>
     <string name="mo_code_cug_call">Закрытая группа пользователей</string>
@@ -433,7 +433,7 @@
     <string name="mo_code_outgoing_calls_barred">Исходящие вызовы запрещены</string>
     <string name="mo_code_some_cf_active">"\"Условная переадресация вызова\""</string>
     <string name="mo_code_unconditional_cf_active">"\"Безусловная активация переадресации вызова\""</string>
-    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном WLAN-подключении (для быстрого переключения между сетями).</string>
+    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi-подключении (для быстрого переключения между сетями).</string>
     <string name="mobile_data_always_on">Не отключать передачу данных</string>
     <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
     <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
@@ -597,7 +597,7 @@
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
     <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
     <string name="tether_settings_title_usb">USB-модем</string>
-    <string name="tether_settings_title_wifi">Точка доступа WLAN</string>
+    <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
     <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение в режиме модема (если доступно)</string>
     <string name="tethering_hardware_offload">Аппаратное ускорение в режиме модема</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
@@ -650,8 +650,8 @@
     <string name="wait_for_debugger">Подождите, пока подключится отладчик</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если сигнал Wi-Fi слабый</string>
     <string name="wifi_aggressive_handover">Переключаться на мобильную сеть</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей WLAN во время передачи данных в зависимости от объема трафика</string>
-    <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей WLAN</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
+    <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">К точке доступа подключено слишком много устройств</string>
     <string name="wifi_cant_connect_to_ap">Не удалось подключиться к сети \"%1$s\"</string>
     <string name="wifi_cant_connect">Ошибка подключения</string>
@@ -661,7 +661,7 @@
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_disabled_network_failure">Ошибка IP-конфигурации</string>
     <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
-    <string name="wifi_disabled_wifi_failure">Ошибка подключения WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Ошибка подключения Wi-Fi</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
     <string name="wifi_display_certification">Серт. беспроводн. мониторов</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>

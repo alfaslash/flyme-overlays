@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -14,7 +14,7 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_all_apps_button">Применить</string>
@@ -28,7 +28,7 @@
     <string name="all_apps_cling_add_item">Чтобы добавить приложение на главный экран, нажмите на значок и удерживайте его</string>
     <string name="all_apps_cling_title">Выберите приложения</string>
     <string name="all_apps_home_button_label">Главный экран</string>
-    <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="announce_selection">%1$s выбрано</string>
     <string name="app_filter_class" />
     <string name="app_search_cling_btn">Понятно</string>
@@ -135,7 +135,7 @@
     <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дней назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 день спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 день назад</string>
@@ -148,7 +148,7 @@
     <string name="mc_date_time_month">м.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -173,8 +173,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
@@ -189,7 +189,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -212,7 +212,7 @@
     <string name="mc_pm_s_sms">Отправка SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -265,18 +265,18 @@
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call_log">Чтение журнала вызовов</string>
     <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">Чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">Местоположение</string>
     <string name="mz_pm_network">Передача данных</string>
-    <string name="mz_pm_nfc">Переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">Доступ в интернет</string>
@@ -289,8 +289,8 @@
     <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">Включение WLAN</string>
-    <string name="mz_pm_wlan">Доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
@@ -321,7 +321,7 @@
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
-    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_installing">Установка…</string>
     <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>

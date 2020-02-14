@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description">На рабочий стол</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -56,7 +56,7 @@
     <string name="card_title_conf_call_notification">Конференц-вызов %s</string>
     <string name="card_title_conf_call">Конференц-вызов</string>
     <string name="card_title_connecting">Подключение</string>
-    <string name="card_title_dialing_callback">Вызов по специальной линии...</string>
+    <string name="card_title_dialing_callback">Вызов по специальной линии…</string>
     <string name="card_title_dialing_webcall">Выполняется веб-вызов</string>
     <string name="card_title_dialing">Набор</string>
     <string name="card_title_hanging_up">Завершение</string>
@@ -151,7 +151,7 @@
     <string name="incall_error_emergency_only">Нет регистрации в сети.</string>
     <string name="incall_error_no_phone_number_supplied">Чтобы совершить вызов, введите действительный номер.</string>
     <string name="incall_error_out_of_service">Мобильная сеть недоступна.</string>
-    <string name="incall_error_power_off">Перед тем как звонить, отключите режим В самолёте</string>
+    <string name="incall_error_power_off">Перед тем как звонить, отключите Авиарежим</string>
     <string name="incall_error_supp_service_conference">Не удаётся создать конференц-вызов.</string>
     <string name="incall_error_supp_service_hangup">Невозможно завершить вызов</string>
     <string name="incall_error_supp_service_reject">Невозможно отклонить вызов</string>
@@ -161,7 +161,7 @@
     <string name="incall_error_supp_service_unknown">Сервис недоступен</string>
     <string name="incall_notepad_edit_hint">Напишите что-нибудь</string>
     <string name="incall_save_note">Сохранено в заметках</string>
-    <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
+    <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
     <string name="incall_voice_route">Звуковой канал</string>
     <string name="incoming_glowpad_content">Проведите влево для ответа или вправо для сброса</string>
     <string name="incoming_tip">Проведите вправо для ответа</string>
@@ -170,7 +170,7 @@
     <string name="item_is_selected">%1$s выбрано</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отменить отзыв</string>
@@ -178,7 +178,7 @@
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Статус избранного</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
     <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
@@ -189,7 +189,7 @@
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -213,8 +213,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
@@ -229,7 +229,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
@@ -254,8 +254,8 @@
     <string name="mc_pm_s_sms">Отправить SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -293,7 +293,7 @@
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day" />
     <string name="mz_date_time_hour" />
     <string name="mz_date_time_min" />
@@ -306,18 +306,18 @@
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call_log">чтение журнала вызовов</string>
     <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_camera">использование камеры</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">доступ к местоположению</string>
     <string name="mz_pm_network">использование передачи данных</string>
-    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">доступ в интернет</string>
@@ -330,8 +330,8 @@
     <string name="mz_pm_s_sms">отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">переключение WLAN</string>
-    <string name="mz_pm_wlan">доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
+    <string name="mz_pm_wlan">доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_respond_via_sms_custom_message">Настройка пользователя</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
@@ -344,7 +344,7 @@
     <string name="notification_action_dismiss">Пропустить</string>
     <string name="notification_action_end_call">Завершить</string>
     <string name="notification_dialing">Набор</string>
-    <string name="notification_incoming_call_wifi">Входящий WLAN-вызов</string>
+    <string name="notification_incoming_call_wifi">Входящий Wi-Fi-вызов</string>
     <string name="notification_incoming_call">Входящий вызов</string>
     <string name="notification_incoming_video_call">Входящий видеовызов</string>
     <string name="notification_missedCall_call_back">Перезвонить</string>
@@ -356,7 +356,7 @@
     <string name="notification_network_selection_text">Выбранная сеть (%s) недоступна</string>
     <string name="notification_network_selection_title">Нет сигнала</string>
     <string name="notification_on_hold">На удержании</string>
-    <string name="notification_ongoing_call_wifi">Текущий WLAN-вызов</string>
+    <string name="notification_ongoing_call_wifi">Текущий Wi-Fi-вызов</string>
     <string name="notification_ongoing_call">Текущий вызов</string>
     <string name="notification_requesting_video_call">Входящий видеовызов</string>
     <string name="notification_substName_active">На линии</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главную</string>
+    <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -15,21 +15,21 @@
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_call_muted">Звук выключен.</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства.</string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
-    <string name="accessibility_no_wifi">WLAN отключен</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключен</string>
     <string name="accessibility_settings_activity_title">Спец. возможности</string>
     <string name="accessibility_speakerphone_enabled">Динамик включён.</string>
-    <string name="accessibility_wifi_off">WLAN выключен</string>
-    <string name="accessibility_wifi_one_bar">WLAN: одно деление</string>
+    <string name="accessibility_wifi_off">Wi-Fi выключен</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
-    <string name="accessibility_wifi_signal_full">WLAN: надежный сигнал</string>
-    <string name="accessibility_wifi_three_bars">WLAN: три деления</string>
-    <string name="accessibility_wifi_two_bars">WLAN: два деления</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
     <string name="account_title">Аккаунты и контакты</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="activity_not_found">Приложение не установлено на вашем телефоне.</string>
@@ -40,7 +40,7 @@
     <string name="add_fdn_contact">Добавить разрешённый номер</string>
     <string name="add_sip_account">Добавить аккаунт</string>
     <string name="add_vm_number_str">Добавить номер</string>
-    <string name="adding_fdn_contact">Добавление разрешённого номера...</string>
+    <string name="adding_fdn_contact">Добавление разрешённого номера…</string>
     <string name="additional_cdma_call_settings">Дополнительные настройки вызовов CDMA</string>
     <string name="additional_gsm_call_settings">Дополнительные настройки</string>
     <string name="additional_gsm_call_settings_with_label">Дополнительные настройки (%s)</string>
@@ -52,7 +52,7 @@
     <string name="advanced_settings_show">▷ Показать все</string>
     <string name="advertisements_disable">Реклама отключена</string>
     <string name="advertisements_enable">Реклама включена</string>
-    <string name="airplane_mode_on">Невозможно запустить набор инструментов SIM, так как включён режим \"В самолёте\".</string>
+    <string name="airplane_mode_on">Невозможно запустить набор инструментов SIM, так как включён \"Авиарежим\".</string>
     <string name="alert_ct_volte_unavailable">Служба VoLTE недоступна для %d. Служба вызовов может не работать, если VoLTE включён.</string>
     <string name="alert_device_error">Ошибка аудиоустройства</string>
     <string name="alert_dialog_close">Закрытие профиля</string>
@@ -69,7 +69,7 @@
     <string name="all_empty_alert">Укажите параметры нового SIP-аккаунта.</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
-    <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="anc_off">Активное шумоподавление выкл.</string>
     <string name="anc_on">Активное шумоподавление вкл.</string>
     <string name="anc_title">Активное шумоподавление</string>
@@ -115,11 +115,11 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме HSP/HFP/A2DP)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме звонков и аудио), уровень заряда батареи: %1$s</string>
     <string name="bluetooth_connected_no_map">Подключено (нет доступа к сообщениям)</string>
-    <string name="bluetooth_connecting">Подключение...</string>
+    <string name="bluetooth_connecting">Подключение…</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку.</string>
     <string name="bluetooth_disconnected">Отключено</string>
-    <string name="bluetooth_disconnecting">Отключение...</string>
+    <string name="bluetooth_disconnecting">Отключение…</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
@@ -129,7 +129,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
-    <string name="bluetooth_pairing">Сопряжение...</string>
+    <string name="bluetooth_pairing">Сопряжение…</string>
     <string name="bluetooth_pairing_accept">Подключить</string>
     <string name="bluetooth_pairing_accept_all_caps">ПОДКЛЮЧИТЬ</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
@@ -225,7 +225,7 @@
     <string name="callFailed_unobtainable_number">Неверный номер</string>
     <string name="callFailed_userBusy">Линия занята</string>
     <string name="callFailed_video_call_tty_enabled">Когда телетайп включён, видеозвонки недоступны.</string>
-    <string name="callFailed_wifi_lost">Соединение по WLAN разорвано. Вызов завершён.</string>
+    <string name="callFailed_wifi_lost">Соединение по Wi-Fi разорвано. Вызов завершён.</string>
     <string name="call_additional_sum">Настройка номеров и ожидания вызовов</string>
     <string name="call_barring">Запрет вызовов</string>
     <string name="call_barring_sum">Настройки запрета голосовых вызовов</string>
@@ -302,7 +302,7 @@
     <string name="cell_broadcast">Широковещательные сообщения</string>
     <string name="cell_broadcast_settings">Настройки широковещательных сообщений</string>
     <string name="cell_broadcast_sms">Широковещательные SMS</string>
-    <string name="cf_setting_mobile_data_alert">Включите мобильные данные и убедитесь, что WLAN выключен</string>
+    <string name="cf_setting_mobile_data_alert">Включите мобильные данные и убедитесь, что Wi-Fi выключен</string>
     <string name="cf_setting_mobile_data_alert_roaming">Включите роуминг данных</string>
     <string name="change_num">Обновить</string>
     <string name="change_password">Изменить пароль запрета</string>
@@ -398,7 +398,7 @@
     <string name="default_preference_summary_username">&lt;Не задано></string>
     <string name="delete">Удалить</string>
     <string name="delete_fdn_contact">Удалить разрешённый номер</string>
-    <string name="deleting_fdn_contact">Удаление разрешённого номера...</string>
+    <string name="deleting_fdn_contact">Удаление разрешённого номера…</string>
     <string name="description_delete_button">Клавиша Backspace</string>
     <string name="description_dial_button">Набор</string>
     <string name="description_dialpad_back">Вернуться</string>
@@ -642,8 +642,8 @@
     <string name="incall_error_out_of_service_wfc">Мобильная сеть недоступна. Подключитесь к беспроводной сети, чтобы совершить вызов.</string>
     <string name="incall_error_phone_close">Включите мобильную сеть для совершения вызова</string>
     <string name="incall_error_power_off">Чтобы позвонить, отключите режим полёта.</string>
-    <string name="incall_error_power_off_wfc">Выключите режим \"В самолёте\" или подключитесь к беспроводной сети, чтобы совершить вызов.</string>
-    <string name="incall_error_promote_wfc">Чтобы позвонить, включите звонки через WLAN.</string>
+    <string name="incall_error_power_off_wfc">Выключите \"Авиарежим\" или подключитесь к беспроводной сети, чтобы совершить вызов.</string>
+    <string name="incall_error_promote_wfc">Чтобы позвонить, включите звонки через .</string>
     <string name="incall_error_sim_disabled">SIM-карта отключена</string>
     <string name="incall_error_supp_service_conference">Не удаётся создать конференц-вызов.</string>
     <string name="incall_error_supp_service_hangup">Не удалось разъединить.</string>
@@ -760,7 +760,7 @@
     <string name="manual_select_title">Выбрать вручную</string>
     <string name="match_info_of_phone_number_online">Идентификация входящих вызовов в Интернете</string>
     <string name="mc_allow">Разрешить</string>
-    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
@@ -768,7 +768,7 @@
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Статус избранного</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
     <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
@@ -779,7 +779,7 @@
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
@@ -803,8 +803,8 @@
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
-    <string name="mc_pattern_hour_before">, часов назад</string>
-    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
@@ -819,7 +819,7 @@
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_call_log">Чтение журнала вызовов</string>
@@ -844,8 +844,8 @@
     <string name="mc_pm_s_sms">Отправить SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -909,7 +909,7 @@
     <string name="mobile_data_activate_roaming_plan_summary">Активируйте интернет-роуминг, обратившись к оператору связи (%s).</string>
     <string name="mobile_data_alert">Трафик данных может генерироваться на второй карте</string>
     <string name="mobile_data_always_on">Не отключать передачу данных</string>
-    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном WLAN-подключении (для быстрого переключения между сетями).</string>
+    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi-подключении (для быстрого переключения между сетями).</string>
     <string name="mobile_data_settings_summary">Доступ к Интернету по мобильной сети</string>
     <string name="mobile_data_settings_title">Мобильный Интернет</string>
     <string name="mobile_data_status_no_plan_subtext">Лимит трафика исчерпан</string>
@@ -948,7 +948,7 @@
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
-    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_block_ussd_in_call">Используйте USSD-команду после завершения вызова</string>
     <string name="mz_call_setting">Настройки</string>
     <string name="mz_date_time_day" />
@@ -964,18 +964,18 @@
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
-    <string name="mz_pm_bluetooth">переключение Bluetooth</string>
+    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
     <string name="mz_pm_call">телефонные вызовы</string>
     <string name="mz_pm_call_log">чтение журнала вызовов</string>
     <string name="mz_pm_camera">использование камеры</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">доступ к местоположению</string>
     <string name="mz_pm_network">использование передачи данных</string>
-    <string name="mz_pm_nfc">переключение NFC</string>
+    <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">доступ в интернет</string>
@@ -1022,17 +1022,17 @@
     <string name="no_mobile_data_roaming">Роуминг данных недоступен</string>
     <string name="no_search_result">Нет результатов</string>
     <string name="no_service_msg">"\"Нет обслуживания.\nИспользуйте режим \"Автоматически\" или выберите другого оператора вручную.\""</string>
-    <string name="no_service_msg_gemini">"\"Нет обслуживания для SIM-карты \"%s\".\nИспользуйте режим \"Автоматически\" или выберите другого оператора вручную.\""</string>
+    <string name="no_service_msg_gemini">"\"Нет обслуживания для SIM-карты «%s».\nИспользуйте режим \"Автоматически\" или выберите другого оператора вручную.\""</string>
     <string name="no_service_msg_title">Нет сигнала</string>
-    <string name="no_service_msg_title_gemini">Нет сети \"%s\"</string>
+    <string name="no_service_msg_title_gemini">Нет сети «%s»</string>
     <string name="no_sim_card_inserted">Вставьте SIM-карту для запуска набора инструментов SIM.</string>
     <string name="no_sip_account_found">Не телефоне нет аккаунтов веб-вызовов. Добавить?</string>
     <string name="no_sip_account_found_title">Нет аккаунта веб-вызова</string>
     <string name="no_vm_number">Не указан номер голосовой почты</string>
     <string name="no_vm_number_msg">На SIM-карте нет номера голосовой почты.</string>
     <string name="no_voip">Веб-вызов не поддерживается</string>
-    <string name="no_wifi_available">Чтобы выполнить SIP-вызов, подключитесь к сети WLAN (см. настройки беспроводной сети).</string>
-    <string name="no_wifi_available_title">Нет подключений к WLAN</string>
+    <string name="no_wifi_available">Чтобы выполнить SIP-вызов, подключитесь к сети Wi-Fi (см. настройки беспроводной сети).</string>
+    <string name="no_wifi_available_title">Нет подключений к Wi-Fi</string>
     <string name="non_support_for_easy_mode_tip">Лёгкий режим не поддерживает добавление вызова</string>
     <string name="non_support_for_sip_call_tip">Эта операция не поддерживает SIP-вызов</string>
     <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
@@ -1080,11 +1080,11 @@
     <string name="ota_call_end">Назад</string>
     <string name="ota_failure">Не удалось запрограммировать телефон</string>
     <string name="ota_hfa_activation_dialog_message">"\"Включение службы передачи данных…\nЭто может занять до 5 мин.\""</string>
-    <string name="ota_hfa_activation_title">Активация...</string>
+    <string name="ota_hfa_activation_title">Активация…</string>
     <string name="ota_listen">Следуйте голосовым инструкциям, пока не услышите, что активация завершена.</string>
     <string name="ota_next">Далее</string>
     <string name="ota_progress">Программирование телефона…</string>
-    <string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, то не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (сети WLAN останутся доступны). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении.</string>
+    <string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, то не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (сети Wi-Fi останутся доступны). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении.</string>
     <string name="ota_skip_activation_dialog_skip_label">Пропустить</string>
     <string name="ota_skip_activation_dialog_title">Пропустить активацию?</string>
     <string name="ota_spc_failure">Превышение числа ошибок SPC</string>
@@ -1230,17 +1230,17 @@
     <string name="register_femtocell_point_wait_tip">Подключено к %s</string>
     <string name="register_on_network">Регистрация в %s…</string>
     <string name="registration_done">Регистрация в сети завершена.</string>
-    <string name="registration_status_checking_status">Проверка состояния...</string>
+    <string name="registration_status_checking_status">Проверка состояния…</string>
     <string name="registration_status_done">Ответ на вызов</string>
     <string name="registration_status_failed_try_later">Ошибка регистрации аккаунта: (%s); новая попытка будет предпринята позже</string>
     <string name="registration_status_invalid_credentials">Ошибка регистрации аккаунта: неверное имя пользователя или пароль.</string>
     <string name="registration_status_no_data">Регистрация аккаунта прервана – отсутствует подключение к Интернету.</string>
-    <string name="registration_status_no_wifi_data">Регистрация прервана. Отсутствует подключение к сети WLAN.</string>
+    <string name="registration_status_no_wifi_data">Регистрация прервана. Отсутствует подключение к сети Wi-Fi.</string>
     <string name="registration_status_not_receiving">Вызовы не принимаются.</string>
     <string name="registration_status_not_running">Ошибка регистрации аккаунта.</string>
     <string name="registration_status_registering">Регистрация</string>
     <string name="registration_status_server_unreachable">Ошибка регистрации аккаунта: проверьте имя сервера.</string>
-    <string name="registration_status_still_trying">Подождите...</string>
+    <string name="registration_status_still_trying">Подождите…</string>
     <string name="reject_outof_phonebook_toggle_summary">Кроме междунар. вызовов</string>
     <string name="reject_outof_phonebook_toggle_title">Блокировать неизвестные номера</string>
     <string name="remaining_length_format">Осталось %1$s</string>
@@ -1343,7 +1343,7 @@
     <string name="sim2_callwaiting">Ожидание вызовов (SIM2)</string>
     <string name="sim2_labelCallerId">АОН (SIM 2)</string>
     <string name="sim2_more_info">Ещё (SIM2)</string>
-    <string name="simContacts_airplaneMode">Выключите режим \"В самолёте\", чтобы импортировать контакты с SIM-карты.</string>
+    <string name="simContacts_airplaneMode">Выключите \"Авиарежим\", чтобы импортировать контакты с SIM-карты.</string>
     <string name="simContacts_empty">На SIM-карте нет контактов.</string>
     <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
     <string name="simContacts_emptyLoading_ex">Чтение контактов с SIM1…</string>
@@ -1380,7 +1380,7 @@
     <string name="sip_call_options_title">Использовать веб-вызов</string>
     <string name="sip_call_options_title_single_sim">Настройки SIP-вызовов</string>
     <string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
-    <string name="sip_call_options_wifi_only_title">Использовать веб-вызов (только WLAN)</string>
+    <string name="sip_call_options_wifi_only_title">Использовать веб-вызов (только Wi-Fi)</string>
     <string name="sip_connection_service_label">Встроенная SIP-телефония</string>
     <string name="sip_edit_new_title">Детали аккаунта веб-вызова</string>
     <string name="sip_edit_title">Детали аккаунта веб-вызова</string>
@@ -1405,8 +1405,8 @@
     <string name="srvcc_video_message">«Видеозвонок сброшен на голосовой 2G/3G вызов из-за недоступности сети 4G»</string>
     <string name="start_record">Начать запись</string>
     <string name="start_record_vt">Начать запись</string>
-    <string name="status_hint_label_incoming_wifi_call">\"Вызов по WLAN от \"</string>
-    <string name="status_hint_label_wifi_call">WLAN-вызов</string>
+    <string name="status_hint_label_incoming_wifi_call">\"Вызов по Wi-Fi от \"</string>
+    <string name="status_hint_label_wifi_call">Wi-Fi-вызов</string>
     <string name="stk_app">Меню SIM</string>
     <string name="stk_cc_ss_to_dial_error">SS-запрос преобразован в DIAL-запрос.</string>
     <string name="stk_cc_ss_to_ss_error">SS-запрос преобразован в новый SS-запрос.</string>
@@ -1464,7 +1464,7 @@
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
     <string name="tether_settings_title_usb">USB-модем</string>
     <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
-    <string name="tether_settings_title_wifi">Точка доступа WLAN</string>
+    <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
     <string name="tethering_hardware_offload">Аппаратное ускорение в режиме модема</string>
     <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение в режиме модема (если доступно)</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
@@ -1474,7 +1474,7 @@
     <string name="throttle_data_usage">Использование данных</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
     <string name="throttle_help">Подробнее</string>
-    <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
+    <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи…</string>
     <string name="throttle_rate">Скорость передачи данных</string>
     <string name="throttle_rate_subtext">Скорость передачи данных снижается до %1$d Кб/с, если превышен тарифный лимит</string>
     <string name="throttle_status_subtext">"\"%1$s (%2$d٪) из %3$s (максимум).\nСледующий период через %4$d дн. (%5$s)\""</string>
@@ -1536,7 +1536,7 @@
     <string name="unknown">Неизвестно</string>
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен.</string>
     <string name="unlock_success">Разблокировка сети успешно завершена.</string>
-    <string name="updating_fdn_contact">Обновление разрешённого номера...</string>
+    <string name="updating_fdn_contact">Обновление разрешённого номера…</string>
     <string name="updating_settings">Обновление</string>
     <string name="updating_title">Настройки вызовов</string>
     <string name="uplmn_list_setting_add_plmn">Добавить PLMN</string>
@@ -1568,7 +1568,7 @@
     <string name="voice_call">Голосовой вызов</string>
     <string name="voice_call_settings">Настройки голосовых вызовов</string>
     <string name="voice_command_notification_message">Голосовое управление включено</string>
-    <string name="voice_command_notification_ticker" formatted="false">Скажите \"%s\" или \"%s\" для ответа или игнорирования входящего вызова</string>
+    <string name="voice_command_notification_ticker" formatted="false">Скажите «%s» или «%s» для ответа или игнорирования входящего вызова</string>
     <string name="voice_command_notification_title">Голосовое управление</string>
     <string name="voice_email_closed">Отключено</string>
     <string name="voice_mail">Голосовая почта</string>
@@ -1671,8 +1671,8 @@
     <string name="wait_prompt_str">"\"Отправить следующие тоны?\""</string>
     <string name="which_call_to_activate">Какой вызов активировать?</string>
     <string name="wifi_ap_unable_to_handle_new_sta">К точке доступа подключено слишком много устройств</string>
-    <string name="wifi_calling">WLAN-вызов</string>
-    <string name="wifi_calling_settings_title">Звонки по WLAN</string>
+    <string name="wifi_calling">Wi-Fi-вызов</string>
+    <string name="wifi_calling_settings_title">Звонки по Wi-Fi</string>
     <string name="wifi_cant_connect">Ошибка подключения</string>
     <string name="wifi_cant_connect_to_ap">Не удалось подключиться к сети \"%1$s\"</string>
     <string name="wifi_check_password_try_again">Возможно, вы указали неверный пароль. Повторите попытку.</string>
@@ -1681,7 +1681,7 @@
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_disabled_network_failure">Ошибка IP-конфигурации</string>
     <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
-    <string name="wifi_disabled_wifi_failure">Ошибка подключения WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Ошибка подключения Wi-Fi</string>
     <string name="wifi_display_certification">Серт. беспроводн. мониторов</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
@@ -1696,10 +1696,10 @@
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="wrong_password">Ошибка пароля</string>
     <string name="wifi_aggressive_handover">Переключаться на мобильную сеть</string>
-    <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей WLAN</string>
+    <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей Wi-Fi</string>
     <string name="bluetooth_enable_inband_ringing">Включить внутриполосное воспроизведение</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если сигнал Wi-Fi слабый</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей WLAN во время передачи данных в зависимости от объема трафика</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
     <string name="bluetooth_enable_inband_ringing_summary">Разрешить воспроизведение рингтонов на телефоне через Bluetooth-гарнитуру</string>
     <string name="telephony_monitor_switch">Telephony Monitor</string>
     <string name="telephony_monitor_switch_summary">Обнаружив проблему в работе модема или телефонной связи, Telephony Monitor будет собирать журналы и предлагать пользователю отправить информацию об ошибке</string>
@@ -1746,6 +1746,6 @@
     <string name="preferred_network_mode_wcdma_only_choice">Только WCDMA</string>
     <string name="preferred_network_mode_gsm_only_choice">Только GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA (предпочтительно)</string>
-    <string name="mc_custom_date_time_day_after">Дней после</string>
-    <string name="mc_custom_date_time_day_before">Дней до</string>
+    <string name="mc_custom_date_time_day_after">Дн. спустя</string>
+    <string name="mc_custom_date_time_day_before">Дн. назад</string>
 </resources>
