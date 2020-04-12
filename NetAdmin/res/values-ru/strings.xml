@@ -17,7 +17,8 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="alwaysUse">По умолчанию</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
+    <string name="app_name">NetAdminDiagnLib</string>
     <string name="date_time_set">Установить</string>
     <string name="disconnect_check_text">Отключить</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
@@ -45,12 +46,12 @@
     <string name="mc_date_time_min">м.</string>
     <string name="mc_date_time_month">м.</string>
     <string name="mc_date_time_sec">с.</string>
-    <string name="mc_date_time_set">Установить</string>
+    <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
-    <string name="mc_downloading_patch_prefix">Скачать обновление</string>
+    <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
@@ -67,7 +68,7 @@
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">м.</string>
     <string name="mc_monday">ПН</string>
-    <string name="mc_never">Единожды</string>
+    <string name="mc_never">Один раз</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 мин. назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
@@ -89,7 +90,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -101,7 +102,7 @@
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Найти</string>
+    <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Выход</string>
@@ -114,9 +115,9 @@
     <string name="mc_pm_recordaudio_phone">Запись вызовов</string>
     <string name="mc_pm_s_mms">Отправка MMS</string>
     <string name="mc_pm_s_sms">Отправка SMS</string>
-    <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
-    <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_set_bluetooth_on">Управление Bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
+    <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
@@ -151,14 +152,17 @@
     <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
-    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_always_allow">Always allow</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
     <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">Wireless Network</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
@@ -340,6 +344,7 @@
     <string name="na_diagn_tip_ap_signal_weak">Слабый сигнал</string>
     <string name="na_diagn_tip_client_connected_too_much">Слишком высокая нагрузка на маршрутизатор. Вы можете попробовать другую точку доступа или отключить ненужные устройства</string>
     <string name="na_diagn_tip_diagnose_success">Сеть в порядке</string>
+    <string name="na_diagn_tip_dns_parse_fail">DNS parse failed</string>
     <string name="na_diagn_tip_dns_resolve_fail">Ошибка разбора DNS, повторите попытку позже</string>
     <string name="na_diagn_tip_dns_resolve_slow">Медленный разбор DNS, повторите попытку позже</string>
     <string name="na_diagn_tip_dns_slow">Медленный разбор DNS адреса</string>
@@ -394,8 +399,8 @@
     <string name="restart_check_text">Перезапустить</string>
     <string name="search_menu_title">Поиск</string>
     <string name="speed_test_done">Готово</string>
-    <string name="stop_check_text">Остановить</string>
     <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_check_text">Остановить</string>
     <string name="wa_check_detect_arp">Атаки на МАС-адрес</string>
     <string name="wa_check_detect_dns">Угроза подмены DNS</string>
     <string name="wa_check_detect_fake">Поддельные сети Wi-Fi</string>

@@ -5,21 +5,21 @@
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_before_today_chinese">
-        <item quantity="other">M月d日 HH:mm</item>
+        <item quantity="other">d.M HH:mm</item>
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_before_today_chinese_year">
-        <item quantity="other">yyyy年M月d日</item>
+        <item quantity="other">d.M.yyyy</item>
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_before_today_year">
-        <item quantity="other">yyyy.MM.dd</item>
+        <item quantity="other">dd.MM.yyyy</item>
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_hour_ago">
-        <item quantity="other">%d小时前</item>
+        <item quantity="other">%d ч. назад</item>
     </plurals>
     <plurals name="news_lite_minute_ago">
-        <item quantity="other">%d分钟前</item>
+        <item quantity="other">%d мин. назад</item>
     </plurals>
 </resources>

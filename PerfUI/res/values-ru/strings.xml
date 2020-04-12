@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_description">На рабочий стол</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -16,8 +16,8 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about">Это приложение было разработано командой оптимизации производительности. По любым вопросам, пожалуйста, пишите на zhuhequan@meizu.com (по-английски)</string>
     <string name="accessibility_service_description">Утилита может установить автоматический захват трассировки. Когда обнаружены задержки кадрирования (лаги), утилита в это время сделает трассировку</string>
@@ -25,12 +25,12 @@
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">Оптимизация</string>
     <string name="auto_check_perf">Автозапись журналов производительности</string>
-    <string name="auto_mode_tip">После включения автоматически записываются журналы производительности (такие как Systrace), когда обнаруживаются задержки, которые сохраняются в /sdcard/Performance/TraceDump/</string>
     <string name="auto_mode">Авторежим</string>
+    <string name="auto_mode_tip">После включения автоматически записываются журналы производительности (такие как Systrace), когда обнаруживаются задержки, которые сохраняются в /sdcard/Performance/TraceDump/</string>
     <string name="broadcast_optimization_switch_summary">Оптимизация широковещания может помочь вам ограничить приложения от частого приёма и отправки широковещательных сообщений, что снижает нагрузку на систему</string>
     <string name="broadcast_optimization_title">Оптимизация широковещания</string>
-    <string name="capture_performance_log_tip">Нажмите кнопку питания и клавишу громкости для записи журналов производительности (таких как Systrace) и сохранения их в /sdcard/Performance/PerformanceLog/</string>
     <string name="capture_performance_log">Ручная запись журналов производительности</string>
+    <string name="capture_performance_log_tip">Нажмите кнопку питания и клавишу громкости для записи журналов производительности (таких как Systrace) и сохранения их в /sdcard/Performance/PerformanceLog/</string>
     <string name="confirm">ОК</string>
     <string name="date_time_set">Установить</string>
     <string name="debug_performance_time">Время записи</string>
@@ -51,6 +51,7 @@
     <string name="indicator_setting">Настройки</string>
     <string name="indicator_size">Размер</string>
     <string name="indicator_top">Топ активных</string>
+    <string name="item_is_selected">%1$s selected</string>
     <string name="jack_auto_mode_title">Автоматический режим</string>
     <string name="jack_detect_mode_title">Режим детектирования задержек</string>
     <string name="jack_detect_title">Детектор задержек</string>
@@ -66,27 +67,36 @@
     <string name="logcat_reject_level_prevent_part">Выборочно</string>
     <string name="logcat_reject_level_title">Расширенное журналирование</string>
     <string name="max_selected_name">Можно выбрать не более 15</string>
+    <string name="mc_action_settings">Settings</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
+    <string name="mc_cancel">Отмена</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_cancel_collected_message">Убрано из избранного</string>
     <string name="mc_cancel_praised_message">Отменить отзыв</string>
-    <string name="mc_cancel">Отмена</string>
     <string name="mc_change_num">Обновить</string>
-    <string name="mc_collected_message">Статус избранного</string>
+    <string name="mc_collected_message">Избранное</string>
+    <string name="mc_custom_date_time_days_after">%1$d days after</string>
+    <string name="mc_custom_date_time_days_before">%1$d days before</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
+    <string name="mc_custom_date_time_hide_lunar">Hide Lunar</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
+    <string name="mc_custom_date_time_one_day_after">1 day after</string>
+    <string name="mc_custom_date_time_one_day_before">1 day before</string>
+    <string name="mc_custom_date_time_show_gregorian">Show Gregorian</string>
+    <string name="mc_custom_date_time_show_lunar">Show Lunar</string>
+    <string name="mc_custom_date_time_today">Today</string>
     <string name="mc_date_time_day">д</string>
     <string name="mc_date_time_hour">ч</string>
     <string name="mc_date_time_min">м</string>
     <string name="mc_date_time_month">м</string>
     <string name="mc_date_time_sec">с</string>
-    <string name="mc_date_time_set">Установить</string>
+    <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Отключить</string>
-    <string name="mc_downloading_patch_prefix">Скачать файл обновления</string>
+    <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
@@ -94,45 +104,45 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч</string>
     <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
-    <string name="mc_last_refresh_second">с назад</string>
-    <string name="mc_last_refresh">последнее обновление</string>
+    <string name="mc_last_refresh_second">с. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">м</string>
     <string name="mc_monday">ПН</string>
-    <string name="mc_never">Единожды</string>
+    <string name="mc_never">Один раз</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
     <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
     <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %3$d разрешений, включая %2$s</string>
+    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
-    <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_call">Вызов</string>
+    <string name="mc_pm_call_log">Чтение журнала вызовов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_close">Закрыть</string>
     <string name="mc_pm_contacts">Чтение контактов</string>
-    <string name="mc_pm_dialog_push">Всплывающие Push</string>
+    <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Найти</string>
+    <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Выход</string>
@@ -141,24 +151,27 @@
     <string name="mc_pm_open">Открыть</string>
     <string name="mc_pm_r_mms">Чтение MMS</string>
     <string name="mc_pm_r_sms">Чтение SMS</string>
-    <string name="mc_pm_recordaudio_local">Запись звонков/разговоров</string>
-    <string name="mc_pm_recordaudio_phone">Запись звонков</string>
-    <string name="mc_pm_s_mms">Отправить MMS</string>
-    <string name="mc_pm_s_sms">Отправить SMS</string>
-    <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
-    <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
-    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mc_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mc_pm_s_mms">Отправка MMS</string>
+    <string name="mc_pm_s_sms">Отправка SMS</string>
+    <string name="mc_pm_set_bluetooth_on">Управление Bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
+    <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_praised_message">Нравится</string>
-    <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
+    <string name="mc_praised_message">Как</string>
+    <string name="mc_pull_refresh">Потяните вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
-    <string name="mc_search_button_text">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
-    <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_text">Поиск</string>
     <string name="mc_search">Поиск</string>
+    <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_icon">Поиск</string>
+    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с</string>
+    <string name="mc_selectionbutton_all">All</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -176,8 +189,8 @@
     <string name="monitor_cpu_options">Опции мониторинга ЦП</string>
     <string name="more_item_label">Ещё</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
-    <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
@@ -187,42 +200,55 @@
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г.</string>
-    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
+    <string name="mz_permission_allow">Allow</string>
+    <string name="mz_permission_almost_deny">Never ask after denied</string>
+    <string name="mz_permission_always_allow">Always allow</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_deny">Deny</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s needs %2$s %3$d permissions</string>
+    <string name="mz_permission_title_supplement">Ask for the following permissions</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_net">Network connections</string>
+    <string name="mz_permissiongroup_name_other">Other</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
     <string name="mz_pm_bluetooth">Управление Bluetooth</string>
-    <string name="mz_pm_call_log">чтение журнала вызовов</string>
-    <string name="mz_pm_call">телефонные вызовы</string>
-    <string name="mz_pm_camera">использование камеры</string>
+    <string name="mz_pm_call">Вызовы</string>
+    <string name="mz_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
-    <string name="mz_pm_contacts">чтение контактов</string>
+    <string name="mz_pm_contacts">Чтение контактов</string>
     <string name="mz_pm_dialog_push">Push-уведомления</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
-    <string name="mz_pm_location">доступ к местоположению</string>
-    <string name="mz_pm_network">использование передачи данных</string>
+    <string name="mz_pm_location">Местоположение</string>
+    <string name="mz_pm_network">Передача данных</string>
     <string name="mz_pm_nfc">Управление NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
-    <string name="mz_pm_online_intenert">доступ в интернет</string>
+    <string name="mz_pm_online_intenert">Доступ в интернет</string>
     <string name="mz_pm_open">Вкл.</string>
-    <string name="mz_pm_r_mms">чтение MMS</string>
-    <string name="mz_pm_r_sms">чтение SMS</string>
-    <string name="mz_pm_recordaudio_local">запись вызовов</string>
-    <string name="mz_pm_recordaudio_phone">запись вызовов</string>
-    <string name="mz_pm_s_mms">отправка MMS</string>
-    <string name="mz_pm_s_sms">отправка SMS</string>
+    <string name="mz_pm_r_mms">Чтение MMS</string>
+    <string name="mz_pm_r_sms">Чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mz_pm_s_mms">Отправка MMS</string>
+    <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">включение передачи данных</string>
     <string name="mz_pm_set_wifi_on">переключение Wi-Fi</string>
     <string name="mz_pm_wlan">доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
+    <string name="mz_specific_permission_allow">Still allow</string>
+    <string name="mz_specific_permission_deny">Deny to give permission</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="package_name">Выберите приложения для обнаружения</string>
     <string name="perf_ui_titile">Оптимизация производительности</string>
+    <string name="pref_alpha_default">0.6</string>
     <string name="pref_alpha_entry_high">Высокий</string>
     <string name="pref_alpha_entry_low">Низкий</string>
     <string name="pref_alpha_entry_normal">Нормальный</string>
@@ -241,17 +267,22 @@
     <string name="pref_rank_processes_entry_4">Топ 4</string>
     <string name="pref_rank_processes_entry_6">Топ 6</string>
     <string name="pref_rank_processes_entry_8">Топ 8</string>
+    <string name="pref_show_content_all">all</string>
+    <string name="pref_show_content_dalvik">dalvik</string>
+    <string name="pref_show_content_default">all</string>
     <string name="pref_show_content_entry_all">Все</string>
     <string name="pref_show_content_entry_dalvik">Только Dalvik</string>
     <string name="pref_show_content_entry_native">Только собственные</string>
+    <string name="pref_show_content_native">native</string>
     <string name="pref_show_content_title">Показать содержимое</string>
     <string name="processes_memory_status">Использование ОЗУ</string>
     <string name="rank_processes">По рейтингу</string>
-    <string name="screencap_tip">Скриншот при обнаружении задержки</string>
     <string name="screencap">Скриншот или нет?</string>
+    <string name="screencap_tip">Скриншот при обнаружении задержки</string>
+    <string name="search_menu_title">Search</string>
     <string name="setting">Настройки</string>
-    <string name="show_sf_fps_summary">Показать частоту кадров и ток в режиме реального времени</string>
     <string name="show_sf_fps">Показать FPS</string>
+    <string name="show_sf_fps_summary">Показать частоту кадров и ток в режиме реального времени</string>
     <string name="startup_optimization_switch_summary">Оптимизация запуска позволяет быстрее запускать приложения</string>
     <string name="startup_optimization_title">Оптимизация запуска</string>
     <string name="status_bar_notification_info_overflow">>999</string>
@@ -268,15 +299,15 @@
     <string name="wukong_monitor_help">Помощь</string>
     <string name="wukong_monitor_interval">Интервал обновления</string>
     <string name="wukong_monitor_io_switch">Статус ввода/вывода</string>
-    <string name="wukong_monitor_mem_switch">Использование памяти</string>
     <string name="wukong_monitor_mem">Показать PSS</string>
+    <string name="wukong_monitor_mem_switch">Использование памяти</string>
+    <string name="wukong_monitor_mode">Режим мониторинга</string>
     <string name="wukong_monitor_mode_process">Процессы</string>
     <string name="wukong_monitor_mode_thread">Потоки</string>
-    <string name="wukong_monitor_mode">Режим мониторинга</string>
     <string name="wukong_monitor_options">Отображать следующие параметры</string>
     <string name="wukong_monitor_pid">Показать PID</string>
-    <string name="wukong_monitor_switch_summary">Мониторинг производительности позволяет отслеживать состояние телефона</string>
     <string name="wukong_monitor_switch">Включить мониторинг</string>
+    <string name="wukong_monitor_switch_summary">Мониторинг производительности позволяет отслеживать состояние телефона</string>
     <string name="wukong_monitor_temp_switch">Температуры ЦП и мат. платы</string>
     <string name="wukong_monitor_title">Мониторинг производительности</string>
     <string name="wukong_monitor_vm_switch">Виртуальная память</string>

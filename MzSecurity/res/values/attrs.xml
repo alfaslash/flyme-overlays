@@ -129,12 +129,16 @@
         <flag name="none" value="0x00000000" />
         <flag name="standard" value="0x00000007" />
     </attr>
+    <attr name="mzActionBarSizeFullScreen" format="dimension" />
+    <attr name="mzActionBarStyleFullScreen" format="reference" />
+    <attr name="mzActionModeStyleFullScreen" format="reference" />
     <attr name="mzDialogEditTextStyle" format="reference" />
     <attr name="mzDialogMessageStyle" format="reference" />
     <attr name="mzStartWindowLayout" format="reference" />
     <attr name="mzStartWindowLayout_easy" format="reference" />
     <attr name="mzStartWindowLayout_intl" format="reference" />
     <attr name="mzStartWindowLayout_intl_easy" format="reference" />
+    <attr name="mzToolbarStyleFullScreen" format="reference" />
     <attr name="title" format="string" />
     <attr name="navigationMode">
         <enum name="listMode" value="1" />
@@ -837,9 +841,10 @@
     <attr name="errorTextAppearance" format="reference" />
     <attr name="hintAnimationEnabled" format="boolean" />
     <attr name="collapsedTextColor" format="color" />
-    <attr name="maxHeight" format="reference|dimension" />
-    <attr name="layout_listView" format="boolean" />
-    <attr name="layout_alignParentBottom" format="boolean" />
+    <attr name="mzShareViewMaxHeight" format="reference|dimension" />
+    <attr name="layout_share_listView" format="boolean" />
+    <attr name="layout_share_alignParentBottom" format="boolean" />
+    <attr name="layout_share_ignoreParentPadding" format="boolean" />
     <attr name="mcNewMessageTextColor" format="color" />
     <attr name="mcNewMessageTextSize" format="reference" />
     <attr name="mcNewMessageRadius" format="dimension" />

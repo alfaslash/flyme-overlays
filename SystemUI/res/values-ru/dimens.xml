@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="mz_qs_date_collapsed_size">9.0dip</dimen>
-    <dimen name="qs_tile_text_size">9.0dip</dimen>
-    <dimen name="keyguard_tips_textSize">13.0sp</dimen>
-    <dimen name="keyguard_tips_second_line_textSize">9.0sp</dimen>
-    <dimen name="qs_date_collapsed_text_size">11.0sp</dimen>
-    <dimen name="qs_date_text_size">13.0sp</dimen>
-    <dimen name="qs_date_collapsed_size">13.0dip</dimen>
-    <dimen name="gap_between_date_week">2.0dip</dimen>
+    <dimen name="mc_native_date_picker_date_head_lunar_date_text_size">0.0sp</dimen>
+    <dimen name="mz_qs_carrier_single_collapsed_size">11.0dip</dimen>
+    <dimen name="mz_qs_carrier_double_collapsed_size">11.0dip</dimen>
+    <dimen name="mz_qs_date_collapsed_size">11.0dip</dimen>
+    <dimen name="mz_qs_date_collapsed_size_landscape">10.0dip</dimen>
 </resources>

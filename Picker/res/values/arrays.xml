@@ -313,26 +313,25 @@
         <item>#ff54ae56</item>
         <item>#ffe9a63b</item>
     </array>
-    <array name="setting_more_tab1_grid1_desc" />
     <string-array name="setting_more_tab1_grid2_desc">
-        <item>tao command</item>
-        <item>ali pay command</item>
-        <item>express</item>
-        <item>character</item>
-        <item>film</item>
-        <item>TV play</item>
-        <item>variety</item>
-        <item>address</item>
-        <item>restaurant</item>
-        <item>scenic spot</item>
-        <item>books</item>
-        <item>apps</item>
-        <item>website</item>
-        <item>words</item>
-        <item>hotel</item>
-        <item>train</item>
-        <item>flight</item>
-        <item>music</item>
+        <item>Taobao link</item>
+        <item>Alipay link</item>
+        <item>Express</item>
+        <item>Celebrity</item>
+        <item>Movie</item>
+        <item>TV series</item>
+        <item>Variety</item>
+        <item>Address</item>
+        <item>Restaurant</item>
+        <item>Attractions</item>
+        <item>Book</item>
+        <item>App</item>
+        <item>URL</item>
+        <item>Words</item>
+        <item>Hotel</item>
+        <item>Train</item>
+        <item>Flight</item>
+        <item>Music</item>
     </string-array>
     <integer-array name="setting_more_tab1_grid2_type">
         <item>15</item>
@@ -355,11 +354,11 @@
         <item>35</item>
     </integer-array>
     <string-array name="setting_more_tab2_grid1_desc">
-        <item>save</item>
-        <item>share</item>
-        <item>transfer text</item>
-        <item>scan</item>
-        <item>dial</item>
+        <item>Save</item>
+        <item>Share</item>
+        <item>Speech to text</item>
+        <item>Scan</item>
+        <item>Phone</item>
     </string-array>
     <string-array name="setting_more_tab3_grid_desc">
         <item>Store links to Minus 1 Screen</item>
@@ -367,24 +366,10 @@
         <item>Recognize the frame-selected text/image</item>
     </string-array>
     <string-array name="setting_more_tab3_grid_title">
-        <item>Collect</item>
+        <item>Favorite</item>
         <item>Share</item>
         <item>Frame image</item>
     </string-array>
-    <integer-array name="setting_more_tab3_grid_type">
-        <item>206</item>
-        <item>202</item>
-        <item>101</item>
-        <item>6</item>
-        <item>17</item>
-        <item>3</item>
-        <item>23</item>
-        <item>27</item>
-        <item>20</item>
-        <item>32</item>
-        <item>25</item>
-        <item>102</item>
-    </integer-array>
     <string-array name="values_close_exit_translate_app">
         <item>0.0f</item>
         <item>0.12734375f</item>

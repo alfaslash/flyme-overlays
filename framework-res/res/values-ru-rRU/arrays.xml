@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настройка пользователя</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настройка пользователя</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другое</item>
+        <item>Настройка пользователя</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настройка пользователя</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Палец вниз - ожидание</item>
+        <item>Палец вниз</item>
+        <item>Палец вверх</item>
+        <item>Палец вниз - таймаут</item>
+        <item>Слегка перемещайте палец</item>
+        <item>Используйте другой палец</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Настройка пользователя</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Моб. интернет</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="special_locale_codes">
+        <item>ar_EG</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>ru_RU</item>
+        <item>uk_UA</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>العربية</item>
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+        <item>Русский (Россия)</item>
+        <item>Украинский (Украина)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Чтобы совершать звонки и отправлять сообщения по Wi-Fi, необходимо сначала обратиться к оператору связи и подключить эту услугу. После этого вы сможете снова выбрать этот параметр в настройках. (Код ошибки: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Укажите оператора и зарегистрируйтесь (Код ошибки: %1$s).</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Звонки по Wi-Fi (%s)</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Попытка включить Wi-Fi</item>
+        <item>Попытка включить Bluetooth</item>
+    </string-array>
+</resources>

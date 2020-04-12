@@ -13,6 +13,7 @@
     <string name="face_failed_attr_eye_occlusion">Глаза были скрыты</string>
     <string name="face_failed_attr_face_occlusion">Лицо было закрыто</string>
     <string name="face_failed_attr_mouth_occlusion">Рот был скрыт</string>
+    <string name="face_failed_attr_not_in_roi">The face is not in the specified box</string>
     <string name="face_failed_bad_light">Нужно больше света</string>
     <string name="face_failed_blur">Не двигайтесь слишком быстро</string>
     <string name="face_failed_camera_attr_blur">Изображение слишком размыто</string>

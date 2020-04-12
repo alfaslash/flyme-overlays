@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="nil_summary">
+        <item>Показывать название компании или номер абонента</item>
+        <item>Показывать последние вызовы из журнала</item>
+        <item>Показывать последние SMS</item>
+        <item>Показывать последние встречи с абонентом</item>
+        <item>Получать имя и место работы из сообщения электронной почты</item>
+    </string-array>
+    <string-array name="nil_title">
+        <item>Справочник</item>
+        <item>Журнал вызовов</item>
+        <item>Журнал SMS</item>
+        <item>Записи о встречах</item>
+        <item>Информация о E-mail</item>
+    </string-array>
+    <string-array name="yp_mark_type">
+        <item>Спам</item>
+        <item>Мошенничество</item>
+        <item>Реклама</item>
+        <item>Агенство недвижимости</item>
+        <item>Доставка и заказы</item>
+        <item>Страхование и Финансы</item>
+        <item>@string/yp_mark_user_defined</item>
+        <item>@string/yp_mark_clear_tag</item>
+    </string-array>
+</resources>

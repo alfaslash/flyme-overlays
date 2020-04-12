@@ -500,9 +500,11 @@
     <style name="TextAppearance.Compat.Notification.Title.Media" parent="@style/TextAppearance.Compat.Notification.Title" />
     <style name="Theme.Flyme.AppCompat.Dark.Color.Blue" parent="@style/Theme.Flyme.AppCompat.Light.Color.Blue">
         <item name="actionBarTabTextStyle">@style/Widget.Flyme.AppCompat.ActionBar.TabText.Dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Flyme.AppCompat.Light.ActionButton.Overflow.DarkTitleBar</item>
         <item name="actionBarStyle">@style/Widget.Flyme.AppCompat.Dark.ActionBar</item>
         <item name="actionBarSplitStyle">@style/Widget.Flyme.AppCompat.Light.ActionBar.Split.Dark</item>
         <item name="actionBarItemBackground">@drawable/mz_item_background_borderless_dark</item>
+        <item name="homeAsUpIndicator">@drawable/mz_titlebar_ic_back_light</item>
         <item name="MeizuCommon.EmptyViewStyle">@style/Widget.MeizuCommon.EmptyView.Dark</item>
         <item name="MeizuCommon.LoadingStyle">@style/Widget.MeizuCommon.LoadingView.Dark</item>
         <item name="MeizuCommon.LoadingTextStyle">@style/Widget.MeizuCommon.LoadingTextViewStyle.Dark</item>
@@ -551,7 +553,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowAnimationStyle">@style/Animation.ShareWidget.ShowAtBottom</item>
+        <item name="android:windowAnimationStyle">@style/Animation.ShareWidget.Alpha</item>
         <item name="android:backgroundDimEnabled">true</item>
     </style>
     <style name="Widget.Compat.NotificationActionContainer" parent="" />
@@ -638,6 +640,10 @@
     <style name="Animation.Flyme.Snackbar" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/mz_snackbar_enter_anim</item>
         <item name="android:windowExitAnimation">@anim/mz_snackbar_exit_anim</item>
+    </style>
+    <style name="Animation.ShareWidget.Alpha" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/mz_share_alpha_enter</item>
+        <item name="android:windowExitAnimation">@anim/mz_share_alpha_exit</item>
     </style>
     <style name="Animation.ShareWidget.ShowAtBottom" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/mzshareview_slide_in_from_bottom</item>
@@ -1422,6 +1428,10 @@
         <item name="listPreferredItemPaddingRight">24.0dip</item>
     </style>
     <style name="Base.V7.Theme.Flyme.AppCompat.Light" parent="@style/Theme.DeviceDefault.Light.Color.Blue">
+        <item name="mzActionBarSizeFullScreen">@dimen/mz_action_bar_default_height_appcompat_full_screen</item>
+        <item name="mzActionBarStyleFullScreen">@style/Widget.Flyme.AppCompat.Light.ActionBar.White.FullScreen</item>
+        <item name="mzActionModeStyleFullScreen">@style/Widget.Flyme.AppCompat.ActionMode.FullScreen</item>
+        <item name="mzToolbarStyleFullScreen">@style/Widget.Flyme.AppCompat.Toolbar.FullScreen</item>
         <item name="actionBarTabStyle">@style/Widget.Flyme.AppCompat.ActionBar.TabView</item>
         <item name="actionBarTabBarStyle">@style/Widget.Flyme.AppCompat.ActionBar.TabBar</item>
         <item name="actionBarTabTextStyle">@style/Widget.Flyme.AppCompat.ActionBar.TabText</item>
@@ -3310,6 +3320,9 @@
         <item name="background">?actionModeBackground</item>
         <item name="backgroundSplit">?actionModeSplitBackground</item>
     </style>
+    <style name="Widget.Flyme.AppCompat.ActionMode.FullScreen" parent="@style/Widget.Flyme.AppCompat.ActionMode">
+        <item name="height">?mzActionBarSizeFullScreen</item>
+    </style>
     <style name="Widget.Flyme.AppCompat.ControlTitleBar" parent="@style/Widget.Flyme.AppCompat.MultiChoiceView">
         <item name="mzNegativeButtonLayout">@layout/mz_control_title_bar_negative_item</item>
         <item name="mzPositiveButtonLayout">@layout/mz_control_title_bar_positive_item</item>
@@ -3344,12 +3357,15 @@
         <item name="background">@drawable/mz_titlebar_background_bottom_white</item>
         <item name="backgroundStacked">@drawable/mz_titlebar_background_bottom_white</item>
     </style>
+    <style name="Widget.Flyme.AppCompat.Light.ActionBar.White.FullScreen" parent="@style/Widget.Flyme.AppCompat.Light.ActionBar.White">
+        <item name="height">?mzActionBarSizeFullScreen</item>
+    </style>
     <style name="Widget.Flyme.AppCompat.Light.ActionButton" parent="@style/Widget.Flyme.AppCompat.ActionButton" />
     <style name="Widget.Flyme.AppCompat.Light.ActionButton.Overflow" parent="@style/Widget.Flyme.AppCompat.ActionButton.Overflow">
         <item name="android:src">@drawable/mz_titlebar_ic_more_dark</item>
     </style>
     <style name="Widget.Flyme.AppCompat.Light.ActionButton.Overflow.DarkTitleBar" parent="@style/Widget.Flyme.AppCompat.Light.ActionButton.Overflow">
-        <item name="android:src">@drawable/mz_titlebar_ic_more_dark_normal</item>
+        <item name="android:src">@drawable/mz_titlebar_ic_more_light</item>
     </style>
     <style name="Widget.Flyme.AppCompat.Light.ActionButton.Overflow.Split" parent="@style/Widget.Flyme.AppCompat.ActionButton.Split">
         <item name="android:src">@drawable/mz_ic_sb_more</item>
@@ -3431,7 +3447,7 @@
     </style>
     <style name="Widget.Flyme.AppCompat.Toolbar" parent="@style/V7Overlay.Widget.AppCompat.Toolbar">
         <item name="android:gravity">center_vertical</item>
-        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
         <item name="android:minHeight">?actionBarSize</item>
         <item name="contentInsetStart">@dimen/mz_toolbar_content_inset_start</item>
         <item name="contentInsetEnd">@dimen/mz_toolbar_content_inset</item>
@@ -3447,6 +3463,9 @@
     </style>
     <style name="Widget.Flyme.AppCompat.Toolbar.Button.Navigation" parent="@style/Base.Widget.Flyme.AppCompat.Toolbar.Button.Navigation">
         <item name="android:paddingStart">@dimen/mz_toolbar_nav_button_padding_start</item>
+    </style>
+    <style name="Widget.Flyme.AppCompat.Toolbar.FullScreen" parent="@style/Widget.Flyme.AppCompat.Toolbar">
+        <item name="android:minHeight">?mzActionBarSizeFullScreen</item>
     </style>
     <style name="Widget.Flyme.AppCompat.Toolbar.TabText" parent="@style/Widget.Flyme.AppCompat.ActionBar.TabText">
         <item name="android:textAppearance">@style/TextAppearance.Flyme.H8.Medium</item>
@@ -4033,6 +4052,10 @@
         <item name="android:textSize">@dimen/mz_text_size_h11</item>
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
+    <style name="Widget.Flyme.PermissionDialog.CheckBox" parent="@android:style/Widget.DeviceDefault.Light.CompoundButton.CheckBox">
+        <item name="android:background">@null</item>
+        <item name="android:button">@drawable/mz_permission_check_multiple</item>
+    </style>
     <style name="Widget.Flyme.Preference.ContentLinearLayout" parent="">
         <item name="android:gravity">center_vertical</item>
         <item name="android:orientation">horizontal</item>
@@ -4056,7 +4079,6 @@
         <item name="android:layout_width">0.0dip</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">1.0</item>
-        <item name="android:paddingEnd">@dimen/preference_item_padding_inner</item>
     </style>
     <style name="Widget.Flyme.Preference.Title" parent="@style/Widget.Flyme.MultipleList.Title">
         <item name="android:ellipsize">end</item>

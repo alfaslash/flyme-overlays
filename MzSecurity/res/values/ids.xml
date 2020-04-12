@@ -518,6 +518,7 @@
     <item type="id" name="chooser_scrollIndicatorDownContainer" />
     <item type="id" name="chooser_scrollIndicatorDown" />
     <item type="id" name="chooser_btn_cancel" />
+    <item type="id" name="chooser_btn_placeholder" />
     <item type="id" name="dialogSpace1" />
     <item type="id" name="dialogSpace2" />
     <item type="id" name="dialogSpace3" />
@@ -568,6 +569,7 @@
     <item type="id" name="mz_permission_dialog_content_layout" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_down" />
     <item type="id" name="mz_permission_dialog_checkbox" />
+    <item type="id" name="mz_permission_dialog_terms" />
     <item type="id" name="mz_permission_dialog_item_title" />
     <item type="id" name="mz_permission_dialog_item_summary" />
     <item type="id" name="mz_permission_dialog_message" />

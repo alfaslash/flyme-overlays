@@ -623,8 +623,9 @@
     <item type="dimen" name="mz_action_bar_cornor_button_default_height_appcompat_split">@dimen/mz_action_bar_default_height_appcompat_split</item>
     <dimen name="mz_action_bar_cornor_button_show_navigationbar_height_appcompat_split">48.0dip</dimen>
     <dimen name="mz_action_bar_default_height">48.0dip</dimen>
-    <dimen name="mz_action_bar_default_height_appcompat">66.0dip</dimen>
-    <dimen name="mz_action_bar_default_height_appcompat_split">56.0dip</dimen>
+    <dimen name="mz_action_bar_default_height_appcompat">60.0dip</dimen>
+    <dimen name="mz_action_bar_default_height_appcompat_full_screen">68.0dip</dimen>
+    <dimen name="mz_action_bar_default_height_appcompat_split">52.0dip</dimen>
     <item type="dimen" name="mz_action_bar_gradient_button_default_height_appcompat_split">@dimen/mz_action_bar_default_height_appcompat_split</item>
     <dimen name="mz_action_bar_search_button_width">48.0dip</dimen>
     <dimen name="mz_action_bar_search_layout_height">48.0dip</dimen>

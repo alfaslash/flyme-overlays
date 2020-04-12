@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="apn_source_service" />
+    <string name="apn_source_service"/>
     <string name="app_label">Память – звонки и SMS/MMS</string>
     <string name="mzc_debug_dump_database_message">Вам необходимо: 1) сделать копию базы данных SMS во внутреннюю память и 2) отправить её по электронной почте (не забудьте удалить копию с устройства после её передаче по электронной почте). Пожалуйста, подождите одну минуту после того, как нажмёте Старт</string>
     <string name="mzc_debug_dump_delete_button">Удалить сейчас</string>

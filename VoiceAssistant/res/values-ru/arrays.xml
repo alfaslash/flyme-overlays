@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_getup_word">
+        <item>叫醒</item>
+        <item>闹醒</item>
+        <item>起床</item>
+        <item>喊醒</item>
+    </string-array>
+    <string-array name="answer_string_array">
+        <item>Я всё еще обучаюсь, дай мне немного времени.</item>
+        <item>Я не спрашиваю слишком много ;)</item>
+        <item>Я не понимаю твой вопрос, можешь сформулировать иначе?</item>
+        <item>我找遍四海八荒也没找到上神想要的答案，劳烦您说清楚点，有助于我准确理解哟。</item>
+        <item>Я не совсем понимаю, что ты имеешь в виду...</item>
+        <item>Я могу видеть, что ты перекусил, но не знаешь, что сказать.</item>
+        <item>Мне нужно подумать, как ответить.. Тебе лучше попробовать ещё раз.</item>
+        <item>Ну и вопрос.. Позволю себе спросить: "Могу ли я задать другой вопрос?"</item>
+        <item>Тебе ещё не надоело? Можем ли мы продолжить обучение?</item>
+        <item>Давай поговорим о другом, я могу рассказать тебе пару шуток.</item>
+        <item>К сожалению, я не понимаю, о чем ты говоришь. Прояви усердие во время обучения.</item>
+        <item>Ты такой непослушный, попробуй сказать что-то, чего я не понимаю.</item>
+    </string-array>
+    <string-array name="call_hungup">
+        <item>Завершить звонок</item>
+        <item>Отклонить</item>
+        <item>Завершить</item>
+        <item>Положить трубку</item>
+    </string-array>
+    <string-array name="call_mute">
+        <item>Игнорировать</item>
+    </string-array>
+    <string-array name="call_receive">
+        <item>Ответ</item>
+        <item>Ответ на звонок</item>
+        <item>Ответить</item>
+    </string-array>
+    <string-array name="close_alarm_tip">
+        <item>Отключить</item>
+        <item>你被解放了</item>
+        <item>恭喜你获得了自由</item>
+    </string-array>
+    <string-array name="cmd_first_card">
+        <item>卡1</item>
+        <item>卡一</item>
+        <item>第一张卡</item>
+        <item>第1张卡</item>
+        <item>一号卡</item>
+        <item>1号卡</item>
+    </string-array>
+    <string-array name="cmd_receive_sms_later">
+        <item>稍后</item>
+        <item>稍后处理</item>
+    </string-array>
+    <string-array name="cmd_receive_sms_play">
+        <item>播报</item>
+        <item>播放</item>
+        <item>播</item>
+        <item>报</item>
+    </string-array>
+    <string-array name="cmd_second_card">
+        <item>卡2</item>
+        <item>卡二</item>
+        <item>第二张卡</item>
+        <item>第2张卡</item>
+        <item>二号卡</item>
+        <item>2号卡</item>
+        <item>卡厄</item>
+        <item>卡额</item>
+        <item>卡饿</item>
+        <item>卡恶</item>
+        <item>卡塔尔</item>
+        <item>卡鄂</item>
+    </string-array>
+    <string-array name="cmd_shutstart_cancel">
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>否</item>
+        <item>不行</item>
+        <item>不好</item>
+        <item>不要</item>
+        <item>不用</item>
+        <item>别</item>
+        <item>不确认</item>
+        <item>不确定</item>
+        <item>不可以</item>
+        <item>不是</item>
+        <item>不对</item>
+    </string-array>
+    <string-array name="cmd_shutstart_ok">
+        <item>确认</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="create_timer_tips">
+        <item>%s的计时器已经设置好了</item>
+        <item>已帮你设置了%s的计时器</item>
+    </string-array>
+    <string-array name="dialog_cmd_collection">
+        <item>你是谁</item>
+    </string-array>
+    <string-array name="eighteen_to_tweenty">
+        <item>"晚上好，
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="eleven_thirty_to_tweleve_thirty">
+        <item>"中午好，
+有什么可以帮你"</item>
+    </string-array>
+    <string-array name="entries_meizu_app_font_size">
+        <item>小号</item>
+        <item>默认</item>
+        <item>中号</item>
+        <item>大号</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="error_answer">
+        <item>好像出了一点状况，请重试</item>
+        <item>出了一点小问题，请重试</item>
+    </string-array>
+    <string-array name="exit_assistant_array">
+        <item>再见</item>
+        <item>告辞</item>
+        <item>拜拜</item>
+    </string-array>
+    <string-array name="horoscope_name">
+        <item>白羊</item>
+        <item>金牛</item>
+        <item>双子</item>
+        <item>巨蟹</item>
+        <item>狮子</item>
+        <item>处女</item>
+        <item>天秤</item>
+        <item>天蝎</item>
+        <item>射手</item>
+        <item>摩羯</item>
+        <item>水瓶</item>
+        <item>双鱼</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Февр</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="negative_cmd_collection">
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>不用</item>
+        <item>别</item>
+        <item>不可以</item>
+    </string-array>
+    <string-array name="negative_element_collection">
+        <item>不</item>
+        <item>别</item>
+        <item>不要</item>
+        <item>不是</item>
+    </string-array>
+    <string-array name="nine_to_eleven_thirty">
+        <item>"上午好！
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="poi_around_keywords">
+        <item>加油站</item>
+        <item>服务区</item>
+        <item>停车场</item>
+        <item>高速出口</item>
+        <item>高速入口</item>
+        <item>高速路口</item>
+    </string-array>
+    <string-array name="poi_around_other">
+        <item>哪儿有</item>
+    </string-array>
+    <string-array name="positive_cmd_collection">
+        <item>发送</item>
+        <item>保存</item>
+        <item>创建</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+        <item>谢谢</item>
+    </string-array>
+    <string-array name="random">
+        <item>请说，我在听</item>
+        <item>有何贵干</item>
+        <item>请问需要什么帮助吗</item>
+    </string-array>
+    <string-array name="setting_name">
+        <item>WIFI</item>
+        <item>蓝牙</item>
+        <item>飞行模式</item>
+        <item>静音</item>
+        <item>振动</item>
+        <item>NFC</item>
+        <item>GPS</item>
+        <item>4G</item>
+        <item>3G</item>
+        <item>2G</item>
+        <item>GPRS</item>
+        <item>移动数据</item>
+        <item>数据连接</item>
+        <item>无线网络</item>
+        <item>无线网</item>
+        <item>车载模式</item>
+        <item>驾驶辅助</item>
+        <item>驾驶模式</item>
+        <item>旋转</item>
+        <item>悬浮球</item>
+        <item>旋转模式</item>
+        <item>便携式热点</item>
+        <item>便携热点</item>
+        <item>手电筒</item>
+        <item>免打扰</item>
+        <item>语音助手</item>
+        <item>智能语音</item>
+        <item>MTP</item>
+        <item>PTP</item>
+        <item>关机</item>
+        <item>重启</item>
+        <item>重启手机</item>
+        <item>亮度调高一点</item>
+        <item>亮度调低一点</item>
+        <item>加大音量</item>
+        <item>减小音量</item>
+        <item>字体调大</item>
+        <item>字体调小</item>
+        <item>字体调大一点</item>
+        <item>字体调小一点</item>
+        <item>字体变大一点</item>
+        <item>字体变小一点</item>
+        <item>字体放大一点</item>
+        <item>字体缩小一点</item>
+        <item>调大字体</item>
+        <item>调小字体</item>
+    </string-array>
+    <string-array name="simcard_opt">
+        <item>卡1</item>
+        <item>卡2</item>
+        <item>卡一</item>
+        <item>卡二</item>
+        <item>第一张卡</item>
+        <item>第二张卡</item>
+        <item>一号卡</item>
+        <item>二号卡</item>
+        <item>用第一张卡</item>
+        <item>用第二张卡</item>
+        <item>用第一张卡拨出</item>
+        <item>用第二张卡拨出</item>
+        <item>移动卡</item>
+        <item>联通卡</item>
+        <item>电信卡</item>
+        <item>用移动卡</item>
+        <item>用联通卡</item>
+        <item>用电信卡</item>
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item>中国移动卡</item>
+        <item>中国联通卡</item>
+        <item>中国电信卡</item>
+        <item>用中国移动卡</item>
+        <item>用中国联通卡</item>
+        <item>用中国电信卡</item>
+    </string-array>
+    <string-array name="six_to_nine">
+        <item>"早上好，
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="sorry">
+        <item>不好意思</item>
+        <item>对不起</item>
+        <item>抱歉</item>
+    </string-array>
+    <string-array name="tweenty_to_tweenty_four">
+        <item>"晚上好，
+有什么可以帮你"</item>
+    </string-array>
+    <string-array name="tweleve_thirty_to_eighteen">
+        <item>"下午好！
+有什么可以帮你"</item>
+        <item>"下午好！
+需要什么帮助吗"</item>
+    </string-array>
+    <string-array name="weather_types">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>阵雨</item>
+        <item>雷阵雨</item>
+        <item>雷阵雨伴有冰雹</item>
+        <item>雨夹雪</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>雾</item>
+        <item>冻雨</item>
+        <item>沙尘暴</item>
+        <item>小到中雨</item>
+        <item>中到大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨到大暴雨</item>
+        <item>大暴雨到特大暴雨</item>
+        <item>小到中雪</item>
+        <item>中到大雪</item>
+        <item>大到暴雪</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>霾</item>
+        <item>台风</item>
+    </string-array>
+    <string-array name="word_filter_app">
+        <item>浏览器</item>
+        <item>资讯</item>
+        <item>生活服务</item>
+        <item>游戏中心</item>
+        <item>手机管家</item>
+        <item>主题美化</item>
+        <item>读书</item>
+        <item>钱包</item>
+        <item>福利中心</item>
+        <item>工具箱</item>
+        <item>系统升级</item>
+        <item>短信</item>
+        <item>微信</item>
+        <item>qq</item>
+        <item>音乐</item>
+        <item>下载</item>
+        <item>文件管理器</item>
+        <item>魅族商城</item>
+        <item>微信读书</item>
+        <item>铁路12306</item>
+        <item>扇贝阅读</item>
+        <item>用户帮助</item>
+        <item>闹钟</item>
+    </string-array>
+    <string-array name="word_filter_close_pre_camera">
+        <item>关闭前置摄像头</item>
+        <item>关掉前置摄像头</item>
+    </string-array>
+    <string-array name="word_filter_close_voice">
+        <item>关闭</item>
+        <item>关掉</item>
+        <item>退出</item>
+        <item>再见</item>
+        <item>拜拜</item>
+        <item>关闭智能语音</item>
+        <item>再见智能语音</item>
+        <item>退出智能语音</item>
+        <item>关掉智能语音</item>
+        <item>关闭语音助手</item>
+        <item>再见语音助手</item>
+        <item>退出语音助手</item>
+        <item>关掉语音助手</item>
+    </string-array>
+    <string-array name="word_filter_mtp_open">
+        <item>打开MTP</item>
+        <item>切换MTP</item>
+        <item>使用MTP</item>
+        <item>切换成MTP</item>
+        <item>切换为MTP</item>
+        <item>切换到MTP</item>
+        <item>打开MTP模式</item>
+        <item>切换MTP模式</item>
+        <item>使用MTP模式</item>
+        <item>切换成MTP模式</item>
+        <item>切换为MTP模式</item>
+        <item>切换到MTP模式</item>
+        <item>打开PTP</item>
+        <item>切换PTP</item>
+        <item>使用PTP</item>
+        <item>切换成PTP</item>
+        <item>切换为PTP</item>
+        <item>切换到PTP</item>
+        <item>打开PTP模式</item>
+        <item>切换PTP模式</item>
+        <item>使用PTP模式</item>
+        <item>切换成PTP模式</item>
+        <item>切换为PTP模式</item>
+        <item>切换到PTP模式</item>
+    </string-array>
+    <string-array name="word_filter_next_song">
+        <item>播放下一首</item>
+        <item>听下一首</item>
+        <item>换下一首</item>
+        <item>下一首</item>
+        <item>换歌</item>
+        <item>换下一首歌</item>
+        <item>播放下一首歌</item>
+        <item>听下一首歌</item>
+        <item>切歌</item>
+        <item>切割</item>
+        <item>切下一首</item>
+        <item>切下一首歌</item>
+        <item>放下一首</item>
+        <item>播放下一曲</item>
+        <item>放下一曲</item>
+        <item>听下一曲</item>
+        <item>换下一曲</item>
+        <item>下一曲</item>
+        <item>切下一曲</item>
+        <item>切割</item>
+        <item>切歌</item>
+    </string-array>
+    <string-array name="word_filter_play">
+        <item>继续</item>
+        <item>开始播放</item>
+        <item>继续播放</item>
+        <item>继续播放音乐</item>
+        <item>继续播音乐</item>
+        <item>开始播放音乐</item>
+    </string-array>
+    <string-array name="word_filter_prev_song">
+        <item>上一首</item>
+        <item>播放上一首</item>
+        <item>听上一首</item>
+        <item>换上一首</item>
+        <item>上一首</item>
+        <item>切上一首</item>
+        <item>换上一首歌</item>
+        <item>播放上一首歌</item>
+        <item>听上一首歌</item>
+        <item>切上一首歌</item>
+        <item>放上一首</item>
+        <item>播放上一曲</item>
+        <item>放上一曲</item>
+        <item>听上一曲</item>
+        <item>换上一曲</item>
+        <item>上一曲</item>
+        <item>切上一曲</item>
+    </string-array>
+    <string-array name="word_filter_recognize_music">
+        <item>听歌识曲</item>
+        <item>打开听歌识曲</item>
+        <item>这是什么歌曲</item>
+        <item>歌曲识别</item>
+        <item>打开歌曲识别</item>
+        <item>这是什么音乐</item>
+    </string-array>
+    <string-array name="word_filter_stop_play">
+        <item>停止播放</item>
+        <item>暂停音乐</item>
+        <item>停止音乐</item>
+        <item>暂停播放</item>
+        <item>暂停</item>
+        <item>暂停音乐</item>
+        <item>暂停播放音乐</item>
+        <item>停止播放音乐</item>
+    </string-array>
+    <string-array name="word_filter_volume_down">
+        <item>小声一点</item>
+        <item>调小声一点</item>
+        <item>调小声点</item>
+        <item>减少声音</item>
+        <item>声音变小</item>
+    </string-array>
+    <string-array name="word_filter_volume_up">
+        <item>Громче</item>
+        <item>Сделать громче</item>
+        <item>Увеличить громкость</item>
+        <item>Увеличить звук</item>
+        <item>Громче звук</item>
+    </string-array>
+    <string-array name="word_filter_weibo">
+        <item>发微博</item>
+        <item>写微博</item>
+        <item>发送微博</item>
+        <item>发今天的微博</item>
+        <item>写今天的微博</item>
+        <item>发送今天的微博</item>
+        <item>发一条微博</item>
+        <item>写一条微博</item>
+        <item>发送一条微博</item>
+        <item>发一条今天的微博</item>
+        <item>写一条今天的微博</item>
+        <item>发一条送今天的微博</item>
+        <item>发一篇微博</item>
+        <item>写一篇微博</item>
+        <item>发送一篇微博</item>
+        <item>发一篇今天的微博</item>
+        <item>写一篇今天的微博</item>
+        <item>发一篇送今天的微博</item>
+        <item>我要发微博</item>
+        <item>我要写微博</item>
+        <item>我要发送微博</item>
+        <item>我要发今天的微博</item>
+        <item>我要写今天的微博</item>
+        <item>我要发送今天的微博</item>
+        <item>我想发微博</item>
+        <item>我想写微博</item>
+        <item>我想发送微博</item>
+        <item>我想发今天的微博</item>
+        <item>我想写今天的微博</item>
+        <item>我想发送今天的微博</item>
+        <item>帮我发微博</item>
+        <item>帮我写微博</item>
+        <item>帮我发送微博</item>
+        <item>帮我发今天的微博</item>
+        <item>帮我写今天的微博</item>
+        <item>帮我发送今天的微博</item>
+        <item>请发微博</item>
+        <item>请写微博</item>
+        <item>请发送微博</item>
+        <item>请发今天的微博</item>
+        <item>请写今天的微博</item>
+        <item>请发送今天的微博</item>
+        <item>请帮我发微博</item>
+        <item>请帮我写微博</item>
+        <item>请帮我发送微博</item>
+        <item>请帮我发今天的微博</item>
+        <item>请帮我写今天的微博</item>
+        <item>请帮我发送今天的微博</item>
+        <item>麻烦你帮我发微博</item>
+        <item>麻烦你帮我写微博</item>
+        <item>麻烦你帮我发送微博</item>
+        <item>麻烦你帮我发今天的微博</item>
+        <item>麻烦你帮我写今天的微博</item>
+        <item>麻烦你帮我发送今天的微博</item>
+        <item>我想要发微博</item>
+        <item>我想要写微博</item>
+        <item>我想要发送微博</item>
+        <item>我想要发今天的微博</item>
+        <item>我想要写今天的微博</item>
+        <item>我想要发送今天的微博</item>
+        <item>我要发一条微博</item>
+        <item>我要写一条微博</item>
+        <item>我要发送一条微博</item>
+        <item>我要发一条今天的微博</item>
+        <item>我要写一条今天的微博</item>
+        <item>我要发送一条今天的微博</item>
+        <item>我想发一条微博</item>
+        <item>我想写一条微博</item>
+        <item>我想发送一条微博</item>
+        <item>我想发一条今天的微博</item>
+        <item>我想写一条今天的微博</item>
+        <item>我想发送一条今天的微博</item>
+        <item>帮我发一条微博</item>
+        <item>帮我写一条微博</item>
+        <item>帮我发送一条微博</item>
+        <item>帮我发一条今天的微博</item>
+        <item>帮我写一条今天的微博</item>
+        <item>帮我发送一条今天的微博</item>
+        <item>请发一条微博</item>
+        <item>请写一条微博</item>
+        <item>请发送一条微博</item>
+        <item>请发一条今天的微博</item>
+        <item>请写一条今天的微博</item>
+        <item>请发送一条今天的微博</item>
+        <item>请帮我发一条微博</item>
+        <item>请帮我写一条微博</item>
+        <item>请帮我发送一条微博</item>
+        <item>请帮我发一条今天的微博</item>
+        <item>请帮我写一条今天的微博</item>
+        <item>请帮我发送一条今天的微博</item>
+        <item>麻烦你帮我发一条微博</item>
+        <item>麻烦你帮我写一条微博</item>
+        <item>麻烦你帮我发送一条微博</item>
+        <item>麻烦你帮我发一条今天的微博</item>
+        <item>麻烦你帮我写一条今天的微博</item>
+        <item>麻烦你帮我发送一条今天的微博</item>
+        <item>我想要发一条微博</item>
+        <item>我想要写一条微博</item>
+        <item>我想要发送一条微博</item>
+        <item>我想要发一条今天的微博</item>
+        <item>我想要写一条今天的微博</item>
+        <item>我想要发送一条今天的微博</item>
+        <item>我要发一篇微博</item>
+        <item>我要写一篇微博</item>
+        <item>我要发送一篇微博</item>
+        <item>我要发一篇今天的微博</item>
+        <item>我要写一篇今天的微博</item>
+        <item>我要发送一篇今天的微博</item>
+        <item>我想发一篇微博</item>
+        <item>我想写一篇微博</item>
+        <item>我想发送一篇微博</item>
+        <item>我想发一篇今天的微博</item>
+        <item>我想写一篇今天的微博</item>
+        <item>我想发送一篇今天的微博</item>
+        <item>帮我发一篇微博</item>
+        <item>帮我写一篇微博</item>
+        <item>帮我发送一篇微博</item>
+        <item>帮我发一篇今天的微博</item>
+        <item>帮我写一篇今天的微博</item>
+        <item>帮我发送一篇今天的微博</item>
+        <item>请发一篇微博</item>
+        <item>请写一篇微博</item>
+        <item>请发送一篇微博</item>
+        <item>请发一篇今天的微博</item>
+        <item>请写一篇今天的微博</item>
+        <item>请发送一篇今天的微博</item>
+        <item>请帮我发一篇微博</item>
+        <item>请帮我写一篇微博</item>
+        <item>请帮我发送一篇微博</item>
+        <item>请帮我发一篇今天的微博</item>
+        <item>请帮我写一篇今天的微博</item>
+        <item>请帮我发送一篇今天的微博</item>
+        <item>麻烦你帮我发一篇微博</item>
+        <item>麻烦你帮我写一篇微博</item>
+        <item>麻烦你帮我发送一篇微博</item>
+        <item>麻烦你帮我发一篇今天的微博</item>
+        <item>麻烦你帮我写一篇今天的微博</item>
+        <item>麻烦你帮我发送一篇今天的微博</item>
+        <item>我想要发一篇微博</item>
+        <item>我想要写一篇微博</item>
+        <item>我想要发送一篇微博</item>
+        <item>我想要发一篇今天的微博</item>
+        <item>我想要写一篇今天的微博</item>
+        <item>我想要发送一篇今天的微博</item>
+        <item>发微搏</item>
+        <item>发微波</item>
+        <item>Сменить аккаунт Weibo</item>
+        <item>Заменить Weibo</item>
+        <item>Выход из аккаунта Weibo</item>
+        <item>Выход из Weibo</item>
+    </string-array>
+</resources>
