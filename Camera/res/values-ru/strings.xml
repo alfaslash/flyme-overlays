@@ -313,7 +313,7 @@
     <string name="mz_cam_mode_refocus">Ре-фокус</string>
     <string name="mz_cam_mode_slowmotion">Замедл. съёмка</string>
     <string name="mz_cam_mode_square">Квадрат</string>
-    <string name="mz_cam_mode_super_night">Super Night</string>
+    <string name="mz_cam_mode_super_night">Ночной режим</string>
     <string name="mz_cam_mode_timelapse">Покадрово</string>
     <string name="mz_cam_mode_title">Выбор режима</string>
     <string name="mz_cam_mode_white_black">Ч/б</string>
@@ -410,7 +410,7 @@
     <string name="mz_handle_surrounding_dark_hint">Окружение слишком тёмное</string>
     <string name="mz_hint_close_wideangle">Режим Супер-широкий/супер-макро отключен</string>
     <string name="mz_hint_open_wideangle">Режим Супер-широкий/супер-макро включен</string>
-    <string name="mz_hint_supernight_desc">Нажмите, чтобы попробовать «Super Night»</string>
+    <string name="mz_hint_supernight_desc">Нажмите, чтобы попробовать «Ночной режим»</string>
     <string name="mz_hint_wideangle_desc">Коснитесь для расширения поля зрения и приближения</string>
     <string name="mz_hint_xuhua">"Размытие: "</string>
     <string name="mz_isbn">ISBN</string>
@@ -652,8 +652,8 @@
     <string name="mz_toggle_hint_hdr_auto">Авто-HDR включён</string>
     <string name="mz_toggle_hint_hdr_close">HDR выключен</string>
     <string name="mz_toggle_hint_hdr_open">HDR включён</string>
-    <string name="mz_toggle_hint_tripod_close">Закрыть оптимизацию треноги</string>
-    <string name="mz_toggle_hint_tripod_open">Открыть оптимизацию треноги</string>
+    <string name="mz_toggle_hint_tripod_close">Включить режим штатива</string>
+    <string name="mz_toggle_hint_tripod_open">Отключить режим штатива</string>
     <string name="mz_toggle_hint_xuhua_close">Эффект размытия двойной линзы отключён</string>
     <string name="mz_toggle_hint_xuhua_open">Эффект размытия включён</string>
     <string name="mz_uri">Ссылка</string>
@@ -664,7 +664,7 @@
     <string name="mz_watch_beauty_level">Степень улучшения %1$d</string>
     <string name="mz_watch_cannot_connect_camera">Камера используется на втором экране. Повторите попытку позже.</string>
     <string name="mz_watch_cta_permission_msg">Сначала откройте камеру главного экрана</string>
-    <string name="mz_watch_main_camera_occupied">Используется камера. Повторите попытку позже.</string>
+    <string name="mz_watch_main_camera_occupied">Камера используется. Повторите попытку позже.</string>
     <string name="mz_watch_mapping_operate_hint">Пожалуйста, оперируйте на основном экране</string>
     <string name="mz_watch_mode_auto">Оригинал</string>
     <string name="mz_watch_mode_facebeauty">Красота</string>
