@@ -673,4 +673,5 @@
 <string name="sm">Настройки</string>
 <string name="ry">Для использования приложения нужны следующие разрешения</string>
 <string name="rz">Использовать предосмотр файлов</string>
+<string name="re">Включить рекомендуемые параметры</string>
 </resources>
