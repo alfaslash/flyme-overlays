@@ -161,7 +161,7 @@
     <string name="dm_notification_message">Миграция данных телефона без использования моб. интернета</string>
     <string name="dm_notification_title">Миграция данных</string>
     <string name="doc_recover_summary_txt">Документы: %1$s</string>
-    <string name="empty_text">История рез. копирвоания пуста</string>
+    <string name="empty_text">История рез. копирования пуста</string>
     <string name="encry_account_error">Текущая учетная запись Flyme не является зашифрованной.</string>
     <string name="encry_account_error_dialog_message">"Выйдите из текущей учетной записи Flyme и войдите в новую учетную запись для ее восстановления
 
@@ -170,7 +170,7 @@ Flyme аккаунт:"</string>
     <string name="encry_backup_notify">Использовать учетную запись Flyme для шифрования резервной копии</string>
     <string name="encry_msg">Использовать учетную запись Flyme для шифрования резервной копии</string>
     <string name="encry_title">Конфиденциальность</string>
-    <string name="encrypt_record_tip">Зашифрованно</string>
+    <string name="encrypt_record_tip">Зашифровано</string>
     <string name="estimate_backup_size">Расчетный размер:</string>
     <string name="failed_to_enable_softap">Не удалось создать точку доступа. Сначала получите разрешение.</string>
     <string name="file_recover_summary_txt">Файлы: %1$s</string>
