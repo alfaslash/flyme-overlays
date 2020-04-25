@@ -290,8 +290,8 @@
     <string name="pedo_share_steps_yesterday">Вчера</string>
     <string name="pedometer">Шагомер</string>
     <string name="pedometer_data_source_page_label">Источник данных</string>
-    <string name="pedometer_steps">%d steps</string>
-    <string name="permission_dialog_message">Pedometer needs to access the internet and use your location to synchronize step data</string>
+    <string name="pedometer_steps">%d шагов</string>
+    <string name="permission_dialog_message">Шагомеру требуется разрешения на использования интернета и геолокации для синхронизации данных</string>
     <string name="personal_age_unit">лет</string>
     <string name="personal_center_name">Я</string>
     <string name="personal_gender_boy">Мужской</string>

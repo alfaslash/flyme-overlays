@@ -360,7 +360,7 @@ Selection"</string>
     <string name="install_failed_incompatible">Приложение несовместимо с телефоном</string>
     <string name="install_failed_invalid_apk">Приложение не установлено. Установочный пакет повреждён</string>
     <string name="install_failed_msg">Приложение «%1$s» не может быть установлено на ваш телефон</string>
-    <string name="install_failed_storage">Память заполнена. Очистите свободное место и повторите попытку</string>
+    <string name="install_failed_storage">Память заполнена. Очистите больше места и повторите попытку</string>
     <string name="install_other_apps">Установка неизвестного ПО</string>
     <string name="install_replace_confirm">OK</string>
     <string name="install_replace_message">Существующая версия приложения «%1$s» будет заменена</string>

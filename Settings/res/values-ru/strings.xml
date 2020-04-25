@@ -678,7 +678,7 @@
     <string name="ble_scan_notify_text">Чтобы точнее определять местоположение, системные приложения и сервисы продолжат искать находящиеся поблизости Bluetooth-устройства. Вы можете отключить эту функцию в настройках сканирования.</string>
     <string name="blue_light_end_time">Время окончания</string>
     <string name="blue_light_immediately_invoke_title">Включить режим «Защита глаз»</string>
-    <string name="blue_light_reduction_summary">Защищает ваше зрение от вредного излучения, которое может повлиять на состояние вашего сна</string>
+    <string name="blue_light_reduction_summary">Защищает ваше зрение от вредного синего излучения, которое может повлиять на ваш сон негативно</string>
     <string name="blue_light_reduction_title">Режим защиты глаз</string>
     <string name="blue_light_start_time">Время начала</string>
     <string name="blue_light_stength">Степень уменьшения синего света</string>
@@ -1759,7 +1759,7 @@
     <string name="encryption_interstitial_yes">OK</string>
     <string name="enhanced_4g_lte_mode_summary">Передача голоса в высоком качестве</string>
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
-    <string name="enroll_finger_side_tips">Повторяйте шаги: поместить край пальца на выделенную область, пока не почувствуете вибрацию, затем приподнимите палец</string>
+    <string name="enroll_finger_side_tips">Поместите край пальца на выделенную область и поднимите его после вибрации</string>
     <string name="enroll_finger_side_tips_content">Добавьте края отпечатка для лучшего распознавания</string>
     <string name="enroll_finger_side_tips_continue">Далее</string>
     <string name="enroll_finger_side_tips_head">Добавьте края отпечатка</string>
@@ -2826,7 +2826,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="move_error_device_admin">Администраторы устройства не могут быть установлены на внешнем носителе.</string>
     <string name="moving">Перемещение</string>
     <string name="mtp_ptp_mode_summary">Функция MTP или PTP активирована</string>
-    <string name="multi_task_layout_title">Вид диспетчера задач</string>
+    <string name="multi_task_layout_title">Вид многозадачности</string>
     <string name="multi_task_title">Диспетчер задач</string>
     <string name="music_category_title">Музыка</string>
     <string name="musicfx_title">Звуковые эффекты</string>
@@ -2876,7 +2876,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_face_re_savefeature_confirm_ok">Повторить</string>
     <string name="mz_face_re_savefeature_confirm_tip">Повторный ввод данных очистит текущие данные лица</string>
     <string name="mz_face_remove_data_tip">После удаления данных лица, вы не сможете использовать разблокировку по лицу</string>
-    <string name="mz_face_show_notification_alwaysshow">Показывать всегда</string>
+    <string name="mz_face_show_notification_alwaysshow">Показывать полностью</string>
     <string name="mz_face_show_notification_dependface">При успешной разблокировке по лицу</string>
     <string name="mz_face_show_notification_notshow">Не показывать</string>
     <string name="mz_face_summary">Данные отпечатка пальца или лица могут использоваться для разблокировки экрана, приложений и документов</string>
@@ -3731,7 +3731,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="red_envelope_tip_two_parttwo">" иконку для открытия параметров чата и убедитесь, что выключен режим «Без уведомлений»"</string>
     <string name="red_envelope_title">Ассистент Lucky Money</string>
     <string name="red_envlop_notice">Советы:</string>
-    <string name="red_envlop_update">Для работы функции «Ассистент Lucky Money», приложение «Lucky Money» будет автоматически обновляться через Wi-Fi.</string>
+    <string name="red_envlop_update">Для работы функции «Ассистент Lucky Money», приложение «Lucky Money» будет автоматически обновляться через Wi-Fi. Данная функция предназначена только для жителей Китая!</string>
     <string name="region_picker">Выбрать регион</string>
     <string name="region_search_hint">Поиск региона</string>
     <string name="region_title">Регион</string>
@@ -4795,7 +4795,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="uid_not_match">UID не совпадает с именем пакета</string>
     <string name="unacceptable_char">Invalid characters are not allowed|\\/:*?\"&lt;></string>
     <string name="underglass_enroll_tips_bad_img">Пожалуйста, очистите выделенную область или палец</string>
-    <string name="underglass_enroll_tips_first">Поместите палец на выделенную область ниже, и приподнимите его почувствовав вибрацию</string>
+    <string name="underglass_enroll_tips_first">Поместите палец на выделенную область и поднимите его после вибрации</string>
     <string name="underglass_input_pwd_tips">Нажмите для ввода пароля</string>
     <string name="underglass_mz_fp_add_tip_low_cover">Палец должен полностью касаться выделенной области</string>
     <string name="underglass_use_fingerprint">Использовать отпечаток</string>
