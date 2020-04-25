@@ -771,7 +771,7 @@
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_palm_rejection_calibrate">" калибровку"</string>
-    <string name="keyguard_palm_rejection_calibrate_title">в ином случае, выполните</string>
+    <string name="keyguard_palm_rejection_calibrate_title">В ином случае, выполните</string>
     <string name="keyguard_palm_rejection_exit">Дважды нажмите кн. громкости для выхода</string>
     <string name="keyguard_palm_rejection_text">Не закрывайте панель датчиков при разблокировке</string>
     <string name="keyguard_palm_rejection_title">Защита от разблокировки</string>
