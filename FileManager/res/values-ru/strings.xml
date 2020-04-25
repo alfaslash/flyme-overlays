@@ -668,4 +668,9 @@
 <string name="r9" formatted="false">%-e/%-m/%Y</string>
 <string name="r_" formatted="false">%-e/%-m/%Y %H:%M</string>
 <string name="ra" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+<string name="rw">Согласиться</string>
+<string name="rx">Отклонить</string>
+<string name="sm">Настройки</string>
+<string name="ry">Для использования приложения нужны следующие разрешения</string>
+<string name="rz">Использовать предосмотр файлов</string>
 </resources>
