@@ -22,5 +22,5 @@
     <item type="layout" name="suw_glif_template">@layout/suw_glif_template_compact</item>
     <item type="layout" name="suw_glif_list_template">@layout/suw_glif_list_template_compact</item>
     <item type="layout" name="suw_glif_blank_template">@layout/suw_glif_blank_template_compact</item>
-    <item type="layout" name="notification_app_section">@android:layout/preference_child_material</item>
+    <item type="layout" name="notification_app_section">@android:layout/preference_category_material</item>
 </resources>

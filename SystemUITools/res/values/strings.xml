@@ -262,16 +262,16 @@
     <string name="enjoy_text4">Dedicated to the best Flyme ever</string>
     <string name="enjoy_text5">Get Started</string>
     <string name="new_design">Brand New Design</string>
-    <string name="new_design_content">"Content-oriented UI &amp; 3D animation
+    <string name="new_design_content">"Content-oriented UI &amp; 3D animation 
 A visual treat for gadget enthusiasts"</string>
     <string name="intelligent_thinking_engine">An Engine That Thinks</string>
-    <string name="intelligent_thinking_engine_content">"Boosts gaming performance, heals at night
+    <string name="intelligent_thinking_engine_content">"Boosts gaming performance, heals at night 
 Adapts to your habits, and evolves itself"</string>
     <string name="powerful_function">Powerful Functionality</string>
-    <string name="powerful_function_content">"Privacy mode, Kid Space, and more
+    <string name="powerful_function_content">"Privacy mode, Kid Space, and more 
 400 new features, 1 all-capable system"</string>
     <string name="security_innovation">Security Innovation</string>
-    <string name="security_innovation_content">"Browsing, payment, communications, etc.
+    <string name="security_innovation_content">"Browsing, payment, communications, etc. 
 We've got it all under perfect control"</string>
     <string name="screenshot_text_edit_drag">Drag two fingers to pan the picture</string>
     <string name="screenshot_text_edit_shape">Shape</string>
@@ -346,7 +346,7 @@ We've got it all under perfect control"</string>
     <string name="welcomepage_two_content">"Make it so easy to
 communicate, entertain, and guard"</string>
     <string name="welcomepage_three_title">Aicy debut</string>
-    <string name="welcomepage_three_content">"Almighty smart assistant
+    <string name="welcomepage_three_content">"Almighty smart assistant 
 Proficient in recognition, voice, photo, and more."</string>
     <string name="welcomepage_four_title">Strong performance</string>
     <string name="welcomepage_four_content">"One Mind 3.5 An Engine That Thinks
@@ -361,7 +361,7 @@ Smarter and more powerful"</string>
     <string name="navigation_bar_detail_title_home">Back to Home screen</string>
     <string name="navigation_bar_detail_title_recent">Go multi-task</string>
     <string name="navigation_bar_detail_title_switch">Go to last task</string>
-    <string name="navigation_bar_detail_simple_subtitle_total">"On the screen sides: horizontally swipe to go back.
+    <string name="navigation_bar_detail_simple_subtitle_total">"On the screen sides: horizontally swipe to go back. 
 On the screen bottom: swipe up to go Home Screen; swipe up and hold to go multi-task"</string>
     <string name="navigation_bar_detail_simple_subtitle_back">Swipe from side to inside</string>
     <string name="navigation_bar_detail_simple_subtitle_home">Swipe up from bottom</string>
@@ -420,9 +420,9 @@ Exit the driving mode to auto restore the lock screen settings"</string>
     <string name="drivemode_setup_agreement_content">"Thank you for using Flyme driving mode
 
  Before using the driving mode (hereinafter referred to as this product), please read this statement carefully. Once you choose to use this product, you acknowledge and accept this disclaimer, terms of service, and all latest agreements of Flyme Terms of Use.
-1. Do not set, change or operate this product while driving in case of traffic accidents or other dangerous situations. Otherwise, all results caused will be borne by you.
-2. Please give the actual traffic situation the top priority. Do not use navigation services provided by this product or other apps as your only basis for travelling and driving. Any violation of traffic regulations or other laws will be your own responsibility.
-3. This product does not require you to provide additional personally identifiable information except for the information you have provided to use the Flyme service. Unless such information is collected on your own initiative or based on the need for providing better service to you. The personal information protection and privacy policy apply to Flyme Terms of Use.
+1. Do not set, change or operate this product while driving in case of traffic accidents or other dangerous situations. Otherwise, all results caused will be borne by you. 
+2. Please give the actual traffic situation the top priority. Do not use navigation services provided by this product or other apps as your only basis for travelling and driving. Any violation of traffic regulations or other laws will be your own responsibility. 
+3. This product does not require you to provide additional personally identifiable information except for the information you have provided to use the Flyme service. Unless such information is collected on your own initiative or based on the need for providing better service to you. The personal information protection and privacy policy apply to Flyme Terms of Use. 
 4. During the process of using this product, you setting or using third-party products and services means you approve and agree to the terms of service of third parties. Please carefully read the policies of third parties. For products and services provided by third parties, Meizu bears no responsibility."</string>
     <string name="drivemode_flyme_user_protocol_detail"><a href="https://www.flyme.cn/agreement">More about Flyme Terms of Use</a></string>
     <string name="drivemode_disagree">Disagree</string>

@@ -20,7 +20,7 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_us">О нас</string>
-    <string name="access_server_error">The system is busy, please try again later</string>
+    <string name="access_server_error">Система не отвечает, попробуйте позже.</string>
     <string name="add">Добавить</string>
     <string name="add_attachment">Прикрепить</string>
     <string name="add_attachment_contact_vcard_title">Прикрепить vCard</string>
@@ -31,12 +31,11 @@
     <string name="add_slide">Добавить слайды</string>
     <string name="add_slide_hint">Нажмите, чтобы создать слайд.</string>
     <string name="add_video">Добавить видео</string>
-    <string name="alipay_data_exception">Data format incorrect</string>
-    <string name="alipay_network_request_error">Network Request Error</string>
-    <string name="alipay_server_error">Payment service is updating</string>
-    <string name="alipay_unknown_error">Alipay no response, please try again</string>
+    <string name="alipay_data_exception">Неверный формат данных</string>
+    <string name="alipay_network_request_error">Ошибка сетевого запроса</string>
+    <string name="alipay_server_error">Обновление платежного сервиса</string>
+    <string name="alipay_unknown_error">Alipay не отвечает, попробуй еще раз</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
-    <string name="amap_key">97209926a151c7a701a14ca7833cce77</string>
     <string name="app_label">Сообщения</string>
     <string name="app_name">Сервисы</string>
     <string name="assistant_cannt_support_mms">Ассистент Meizu не поддерживает MMS</string>
@@ -83,14 +82,12 @@
     <string name="cannot_send_message_for_group_email_and_sns">Массовая рассылка не поддерживается для эл. почты и личных сообщений Weibo</string>
     <string name="cannot_send_message_for_sns">Личные сообщения Weibo не поддерживаются</string>
     <string name="change_default_message_app_dialog_title">Изменить приложение для сообщений?</string>
-    <string name="change_duration_activity"/>
     <string name="change_mms_text">MMS</string>
     <string name="change_nickname_title">Изменить псевдоним</string>
     <string name="change_sim1_title">SIM 1 - %s</string>
     <string name="change_sim2_title">SIM 2 - %s</string>
     <string name="change_slot_toast">Некоторое содержимое не отправлено</string>
     <string name="change_sms_text">SMS</string>
-    <string name="class_0_message_activity"/>
     <string name="com_meizu_safe_send_query_charge_sms">Через ПО Безопасность от Meizu</string>
     <string name="com_meizu_safe_send_query_flow_sms">Из Meizu Security</string>
     <string name="compose_disabled_toast">Невозможно создать сообщение, так как текущее приложение не является установленным по умолчанию.</string>
@@ -113,14 +110,13 @@
     <string name="create_new_message">Новое сообщение</string>
     <string name="ctcc_smart_message">Telecom Smart SMS</string>
     <string name="dangerous_url">Опасная ссылка! Пожалуйста, не открывайте её.</string>
-    <string name="date_time_set">Настроить</string>
+    <string name="date_time_set">Установить</string>
     <string name="del_progress_dialog_title">Удаление</string>
     <string name="delete">Удалить</string>
     <string name="delete_extra">Удалить</string>
     <string name="delete_message">Удалить</string>
     <string name="delivered_label">Доставлено:</string>
     <string name="demo_name">Демонстрация RCS-сообщений</string>
-    <string name="desc_mms_send_outbox_msg"/>
     <string name="dial_btn_title">Набор</string>
     <string name="dialog_sms_center_message">Не изменяйте или не удаляйте этот номер, если это не предполагается оператором связи; в противном случае функция получения или отправки сообщений может быть недоступна</string>
     <string name="dialog_sms_center_number">SMS-центр</string>
@@ -310,7 +306,6 @@
     <string name="duoqu_ui_part_cancel">取消</string>
     <string name="duoqu_ui_part_confirm">确定</string>
     <string name="duoqu_ui_part_destination">选择目的地</string>
-    <string name="duoqu_ui_part_double_line"/>
     <string name="duoqu_ui_part_double_line_an">--</string>
     <string name="duoqu_ui_part_double_line_en">- -</string>
     <string name="duoqu_ui_part_fight">航班</string>
@@ -366,7 +361,6 @@
     <string name="favorite_page_label">Избранное</string>
     <string name="file_no_exsit">Файл был удален</string>
     <string name="file_not_exist">Файл был удален</string>
-    <string name="fit_action_view">fitActionView</string>
     <string name="flyme_disk_limit_notify_description">Невозможно загрузить сообщение Flyme. Нажмите для открытия</string>
     <string name="flyme_disk_limite">Недостаточно места на карте памяти</string>
     <string name="flyme_message_reDownload_msg">Файл был удалён</string>
@@ -414,7 +408,7 @@
     <string name="hybrid_ok">OK</string>
     <string name="hybrid_setting_network">Настроить</string>
     <string name="I">Я</string>
-    <string name="illegal_pay_request">Illegal payment request</string>
+    <string name="illegal_pay_request">Незаконное платежное требование</string>
     <string name="input_nickname_hint">Введите псевдоним</string>
     <string name="intelligent_message">Smart SMS</string>
     <string name="invalid_destination">Неверный адрес получателя.</string>
@@ -451,72 +445,72 @@
     <string name="mark_all_readed">Отметить все как прочитанное</string>
     <string name="mbyte">Мб</string>
     <string name="mc_action_settings">Настройки</string>
-    <string name="mc_allow">Разрешить</string>
+    <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
-    <string name="mc_custom_date_time_day_after">Дн. спустя</string>
-    <string name="mc_custom_date_time_day_before">Дн. назад</string>
+    <string name="mc_custom_date_time_day_after">дн. назад</string>
+    <string name="mc_custom_date_time_day_before">дн. спустя</string>
     <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 д. спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 д. назад</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
-    <string name="mc_description_target_answer">Принять</string>
+    <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка: %1$s</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">только что</string>
-    <string name="mc_last_refresh_minute">м. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 ч. назад</string>
-    <string name="mc_pattern_a_minute_before">1 м. назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
-    <string name="mc_pattern_minute_before">, м. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%d.%m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%d.%m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%d.%m %I:%M %p</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %d.%m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %d.%m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%m.%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%d.%m.%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%d.%m.%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%d.%m.%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -526,7 +520,7 @@
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -546,17 +540,17 @@
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%d.%m</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%d.%m.%Y</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -569,7 +563,7 @@
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="meizu_assistant_company">Meizu Technology</string>
     <string name="member_full_group">Группа заполнена</string>
     <string name="menu_key_tip">Клавиатура</string>
@@ -657,8 +651,8 @@
     <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
-    <string name="mz_date_time_min">м.</string>
-    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
@@ -705,7 +699,7 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
-    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Пожалуйста, проверьте настройки.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzc_debug_dump_database_message">"Вам необходимо: 1) сделать копию своей базы MMS во внутреннюю память, и 2) отправить её по электронной почте. Не забудьте удалить копию как можно скорее, скопировав её с устройства или получив электронное письмо.
 
@@ -812,7 +806,6 @@
     <string name="please_add_recipient">Добавить получателя</string>
     <string name="pref_key_block_number_list_summary">Сообщения и звонки из чёрного списка будут блокироваться</string>
     <string name="pref_key_block_number_list_title">Чёрный список</string>
-    <string name="pref_messages_to_save"/>
     <string name="pref_more_title">Ещё</string>
     <string name="pref_summary_allow_return_mms_read_reports">После прочтения каждого нового сообщения, если отправитель разрешил получение отчёта о доставке</string>
     <string name="pref_summary_default_message_is_system_own">Системное приложение</string>
@@ -927,7 +920,7 @@
     <string name="rcs_web_mobile_network_tip">流量提醒</string>
     <string name="rcs_web_network_fail">网络失效了，打开网络看看</string>
     <string name="rcs_web_network_setting">网络设置</string>
-    <string name="rcs_web_share">分享</string>
+    <string name="rcs_web_share">Поделиться</string>
     <string name="read_report_dialog_cancel">Отмена</string>
     <string name="read_report_dialog_send">Отправить</string>
     <string name="read_report_dialog_title">Отправить отчёт о прочтении?</string>
@@ -960,9 +953,7 @@
     <string name="sd_removed_message">Отправляемое вложение было записано на карту памяти, которая сейчас отключена. Подключите карту памяти для отправки вложения.</string>
     <string name="search">Сообщения</string>
     <string name="search_hint">Поиск сообщений</string>
-    <string name="search_label"/>
     <string name="search_menu_title">Поиск</string>
-    <string name="search_setting_description"/>
     <string name="search_tint">Поиск SMS</string>
     <string name="searching">Поиск</string>
     <string name="secs">с.</string>
@@ -1038,7 +1029,6 @@
     <string name="status_read">Прочитано</string>
     <string name="status_rejected">Отклонено</string>
     <string name="status_unread">Непрочитанное</string>
-    <string name="storage_limits_activity"/>
     <string name="storage_limits_message">Ограничить число сообщений, сохраняемых в беседе?</string>
     <string name="storage_limits_setting">Установить лимит</string>
     <string name="storage_limits_setting_dismiss">Нет ограничений</string>
@@ -1124,9 +1114,9 @@
     <string name="view_message_details">Детали</string>
     <string name="view_more_conversations">Другие беседы</string>
     <string name="voice_text_normal">Нажмите и удерживайте во время разговора</string>
-    <string name="voice_text_over">Отпустить для завершения</string>
-    <string name="voice_text_press">Вверх для отмены</string>
-    <string name="voice_text_remain">Вы можете говорить еще %s с</string>
+    <string name="voice_text_over">Release to end</string>
+    <string name="voice_text_press">Проведите для отмены</string>
+    <string name="voice_text_remain">Говорите более %s сек.</string>
     <string name="WaitTip">Пожалуйста, подождите</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_unknown_error">WeChat не отвечает, повторите попытку</string>

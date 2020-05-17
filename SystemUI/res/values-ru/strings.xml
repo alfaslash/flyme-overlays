@@ -335,6 +335,8 @@
     <string name="bluetooth_disconnecting">Отключение…</string>
     <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу Dial-up</string>
     <string name="bluetooth_dun_profile_summary_use_for">Использовать для сети Dial-up</string>
+    <string name="bluetooth_enable_inband_ringing">Активировать \"in-band ringing\"</string>
+    <string name="bluetooth_enable_inband_ringing_summary">Разрешить проигрывание мелодии вызова через Bluetooth гарнитуру</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Подключено к слуховому аппарату</string>
@@ -466,7 +468,7 @@
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="date">д.</string>
-    <string name="date_time_set">Настроить</string>
+    <string name="date_time_set">Установить</string>
     <string name="day">дн.</string>
     <string name="debug_app">Выбрать приложение для отладки</string>
     <string name="debug_app_not_set">Приложение для отладки не задано</string>
@@ -476,6 +478,7 @@
     <string name="debug_drawing_category">Отображение</string>
     <string name="debug_hw_drawing_category">Аппаратное ускорение визуализации</string>
     <string name="debug_hw_overdraw">Отладка наложения</string>
+    <string name="debug_hw_renderer">Использовать GPU Renderer</string>
     <string name="debug_input_category">Ввод текста</string>
     <string name="debug_layout">Показывать границы элементов</string>
     <string name="debug_layout_summary">Показывать границы клипа, поля и т. д.</string>
@@ -547,7 +550,7 @@
     <string name="end">Внизу</string>
     <string name="enter_new_pin_tips">Введите новый PIN-код</string>
     <string name="enter_password">Введите пароль</string>
-    <string name="enter_password_error">Неверный пароль. Повторите попытку снова</string>
+    <string name="enter_password_error">Неверный пароль, повторите ввод</string>
     <string name="enter_pin_times">Неверный PIN-код. Осталось попыток: %d</string>
     <string name="enter_pin_tips">Введите PIN-код</string>
     <string name="enter_puk_times">Неверный PUK-код. Осталось попыток: %d</string>
@@ -849,8 +852,8 @@
     <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
     <string name="kg_sim_pin_instructions_multi">Введите PIN-код SIM %1$s</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Повторите через %d с.</string>
-    <string name="kg_too_many_failed_high_attempts_countdown">Повторите через %1$d м. %2$d с.</string>
+    <string name="kg_too_many_failed_attempts_countdown">Попробуйте через %d с.</string>
+    <string name="kg_too_many_failed_high_attempts_countdown">Повторите через %1$ мин. %2$d с.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы %1$d раз(а) неверно указали пароль. Повторите попытку через %2$d с."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Вы %1$d раз(а) неверно указали графический ключ. Повторите попытку через %2$d с."</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Вы %1$d раз(а) неверно указали PIN-код. Повторите попытку через %2$d с."</string>
@@ -913,9 +916,9 @@
     <string name="location_kill_process">Закрыть</string>
     <string name="lock_month">MMMM</string>
     <string name="lock_month_day">d MMMM</string>
-    <string name="lock_password_left_times">Осталось попыток ввода: %s</string>
+    <string name="lock_password_left_times">Осталось попыток ввода пароля: %s</string>
     <string name="lock_tips_dialing">Набор</string>
-    <string name="lock_week">dMMMMyyyy(cccc)</string>
+    <string name="lock_week">d.M.yyyy(EEE)</string>
     <string name="lockscreen_flyme_unlock_progress_dialog_message">Аутентификация аккаунта Flyme</string>
     <string name="lockscreen_poster_link_text">Об изображении</string>
     <string name="lockscreen_return_to_call">Вернуться к вызову</string>
@@ -933,74 +936,74 @@
     <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
-    <string name="mc_custom_date_time_day_after">дн. спустя</string>
-    <string name="mc_custom_date_time_day_before">дн. назад</string>
+    <string name="mc_custom_date_time_day_after">дн. назад</string>
+    <string name="mc_custom_date_time_day_before">дн. спустя</string>
     <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 д. спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 д. назад</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
-    <string name="mc_description_target_answer">Принять</string>
+    <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка: %1$s</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">только что</string>
-    <string name="mc_last_refresh_minute">м. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 ч. назад</string>
-    <string name="mc_pattern_a_minute_before">1 м. назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string formatted="false" name="mc_pattern_hour_minute">%H:%M</string>
     <string formatted="false" name="mc_pattern_hour_minute_12">%I:%M %p</string>
-    <string name="mc_pattern_minute_before">, м. назад</string>
-    <string formatted="false" name="mc_pattern_month_day">%d.%m</string>
-    <string formatted="false" name="mc_pattern_month_day_hour_minute">%d.%m %H:%M</string>
-    <string formatted="false" name="mc_pattern_month_day_hour_minute_12">%d.%m %I:%M %p</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
+    <string formatted="false" name="mc_pattern_month_day">%-e.%-m</string>
+    <string formatted="false" name="mc_pattern_month_day_hour_minute">%-e.%-m %H:%M</string>
+    <string formatted="false" name="mc_pattern_month_day_hour_minute_12">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_pattern_week">%a</string>
     <string formatted="false" name="mc_pattern_week_hour_minute">%a %H:%M</string>
     <string formatted="false" name="mc_pattern_week_hour_minute_12">%a %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_week_month_day_hour_minute">%a %d.%m %H:%M</string>
-    <string formatted="false" name="mc_pattern_week_month_day_hour_minute_12">%a %d.%m %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_year_month">%m.%Y</string>
-    <string formatted="false" name="mc_pattern_year_month_day">%d.%m.%Y</string>
-    <string formatted="false" name="mc_pattern_year_month_day_hour_minute">%d.%m.%Y %H:%M</string>
-    <string formatted="false" name="mc_pattern_year_month_day_hour_minute_12">%d.%m.%Y %I:%M %p</string>
+    <string formatted="false" name="mc_pattern_week_month_day_hour_minute">%a %-e.%-m %H:%M</string>
+    <string formatted="false" name="mc_pattern_week_month_day_hour_minute_12">%a %-e.%-m %I:%M %p</string>
+    <string formatted="false" name="mc_pattern_year_month">%-m.%Y</string>
+    <string formatted="false" name="mc_pattern_year_month_day">%-e.%-m.%Y</string>
+    <string formatted="false" name="mc_pattern_year_month_day_hour_minute">%-e.%-m.%Y %H:%M</string>
+    <string formatted="false" name="mc_pattern_year_month_day_hour_minute_12">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -1010,7 +1013,7 @@
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -1030,17 +1033,17 @@
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string formatted="false" name="mc_simple_pattern_month_day">%d.%m</string>
-    <string formatted="false" name="mc_simple_pattern_year_month_day">%d.%m.%Y</string>
+    <string formatted="false" name="mc_simple_pattern_month_day">%-e.%-m</string>
+    <string formatted="false" name="mc_simple_pattern_year_month_day">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -1141,11 +1144,11 @@
     <string name="mz_battery_low_battery_title_format">Заряд батареи менее %s</string>
     <string name="mz_battery_super_battery_Text_format">Рекомендуется включить супер-режим. Это позволит сэкономить заряд батареи</string>
     <string name="mz_date_format">E, d MMMM</string>
-    <string name="mz_date_time_day">д</string>
-    <string name="mz_date_time_hour">ч</string>
-    <string name="mz_date_time_min">м</string>
-    <string name="mz_date_time_month">м</string>
-    <string name="mz_date_time_sec">с</string>
+    <string name="mz_date_time_day">д.</string>
+    <string name="mz_date_time_hour">ч.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
+    <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_electricity_management">Батарея</string>
     <string name="mz_fp_used_unlock">Нажмите кн. «Домой» для разблокировки</string>
@@ -1156,11 +1159,14 @@
     <string name="mz_open_power_saver">Включить</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Больше не спрашивать</string>
+    <string name="mz_permission_always_allow">Всегда разрешать</string>
     <string name="mz_permission_apply">Запрос разрешений</string>
     <string name="mz_permission_deny">Запретить</string>
     <string name="mz_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
     <string name="mz_permission_message_supplement">Приложению «%1$s» требуется %2$s %3$d разрешен.</string>
     <string name="mz_permission_title_supplement">" требуются следующие разрешения"</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">Беспроводная сеть</string>
     <string name="mz_permissiongroup_name_net">Сетевые подключения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_phone_platform">QCOM</string>
@@ -1202,8 +1208,8 @@
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
     <string name="mz_toast_battery_low_percent_format">Заряд батареи менее %1$s</string>
-    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Пожалуйста, проверьте настройки</string>
-    <string name="mz_wif_setting_dialog_set">Настройки</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mz_zenmode_time_always">Постоянно</string>
     <string name="nav_bar">Панель навигации</string>
     <string name="navigator_loading_exception_text">Сетевая ошибка. Повторите попытку</string>
@@ -1239,7 +1245,6 @@
     <string name="nxp_memory_clean_nothing">Память очищена</string>
     <string name="oem_unlock_enable">Заводская разблокировка</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика</string>
-    <string name="ok">@android:string/ok</string>
     <string name="okay">ОК</string>
     <string name="open_sdcard">Открыть карту памяти?</string>
     <string name="open_usb_device">Открыть внешний накопитель сейчас?</string>
@@ -1293,6 +1298,7 @@
     <string name="power_discharge_by_only_enhanced">Заряда батареи хватит примерно на %1$s на основании данных использования</string>
     <string name="power_discharging_duration">Осталось примерно %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Осталось примерно %1$s на основании данных использования (%2$s)</string>
+    <string name="power_discharging_duration_short">^1 - ^2 осталось</string>
     <string name="power_notification_controls_description">
 "С помощью этой функции вы можете устанавливать уровень важности уведомлений от 0 до 5 для каждого приложения. "" ‒ Помещать уведомления в начало списка
     ‒ Показывать полноэкранные уведомления
@@ -1315,6 +1321,7 @@
     <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Осталось примерно %1$s (на основании данных использования)</string>
     <string name="power_remaining_duration_only_short">Осталось: %1$s</string>
+    <string name="power_remaining_duration_only_short_enhanced">^1 примерно осталось</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Телефон может отключиться в ближайшее время</string>
     <string name="power_remaining_duration_shutdown_imminent">Телефон может отключиться в ближайшее время (%1$s)</string>
     <string name="power_remaining_less_than_duration">Осталось менее %1$s (%2$s)</string>
@@ -1627,18 +1634,17 @@
     <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_recent_remove_item_title">Удалить из списка</string>
     <string name="status_bar_settings_accelerator">Очистка ОЗУ</string>
-    <string name="status_bar_settings_airplane">Режим полета</string>
+    <string name="status_bar_settings_airplane">Полёт</string>
     <string name="status_bar_settings_auto_brightness_label">Авто</string>
-    <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
+    <string name="status_bar_settings_auto_rotation">Автоповорот</string>
     <string name="status_bar_settings_autobrightness">Автояркость</string>
-    <string name="status_bar_settings_battery_meter_format_simple">%d</string>
     <string name="status_bar_settings_datasave">Экон. трафика</string>
-    <string name="status_bar_settings_developeroptions">Меню разраб.</string>
+    <string name="status_bar_settings_developeroptions">Разработчик</string>
     <string name="status_bar_settings_dndmode">DND</string>
     <string name="status_bar_settings_drivemode">Вождение</string>
     <string name="status_bar_settings_eyeprotective">Режим чтения</string>
-    <string name="status_bar_settings_hotspot">Точка доступа</string>
-    <string name="status_bar_settings_mobile">Моб. интернет</string>
+    <string name="status_bar_settings_hotspot">Модем</string>
+    <string name="status_bar_settings_mobile">Интернет</string>
     <string name="status_bar_settings_mute">Без звука</string>
     <string name="status_bar_settings_mute_label">Без звука</string>
     <string name="status_bar_settings_nfc">NFC</string>
@@ -1651,7 +1657,7 @@
     <string name="status_bar_settings_settings_button">Настройки</string>
     <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключён</string>
-    <string name="status_bar_settings_smarttouch">SmartTouch</string>
+    <string name="status_bar_settings_smarttouch">Жесты</string>
     <string name="status_bar_settings_vibrate">Вибрация</string>
     <string name="status_bar_settings_vpn">VPN</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
@@ -1667,6 +1673,8 @@
     <string name="switch_bar_off">Откл.</string>
     <string name="switch_bar_on">Вкл.</string>
     <string name="system_ui_tuner">Настройка System UI</string>
+    <string name="telephony_monitor_switch">Telephony Monitor</string>
+    <string name="telephony_monitor_switch_summary">TelephonyMonitor будет собирать лог-файлы при обнаружении проблем с работоспособностью телефонии/модема и своевременно уведомлять пользователя об ошибке</string>
     <string name="temperature_tips">Проверьте подключение ЗУ к устройству, в случае необходимости обратитесь в СЦ</string>
     <string name="temperature_warning">Зарядка остановлена из-за перегрева</string>
     <string name="tether_settings_title_all">Режим модема</string>
@@ -1814,7 +1822,12 @@
     <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
     <string name="wifi_advanced_settings_label">Настройки IP-адреса</string>
     <string name="wifi_advanced_titlebar">Расширенные настройки</string>
+    <string name="wifi_aggressive_handover">Принудительно переключаться на моб. интернет</string>
+    <string name="wifi_aggressive_handover_summary">В случае слабого сигнала Wi-Fi принудительно переключаться на мобильный интернет</string>
+    <string name="wifi_allow_scan_with_traffic">Всегда разрешать сканирование Wi-Fi в роуминге</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Разрешить/Запретить сканирование в роуминге на основе данных трафика, присутствующих в интерфейсе</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Точка доступа переполнена</string>
+    <string name="wifi_auth_password_wrong">Пароль может быть неверным</string>
     <string name="wifi_automatically_connect_summary">Разрешить Ассистенту Wi-Fi автоматически подключаться к открытым сетям Wi-Fi с качественным подключением к Интернет</string>
     <string name="wifi_automatically_connect_title">Подключаться к открытым сетям Wi-Fi автоматически</string>
     <string name="wifi_band_24ghz">2,4ГГц</string>

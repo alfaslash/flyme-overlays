@@ -264,7 +264,7 @@
     <string name="download_original_file">Неизвестная загрузка</string>
     <string name="download_path">Путь загрузки</string>
     <string name="download_pause">Пауза загрузки</string>
-    <string name="download_pending">Начало загрузки</string>
+    <string name="download_pending">Загрузка</string>
     <string name="download_safe">Безопасно</string>
     <string name="download_sdcard">SD-карта</string>
     <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выберите Отключить USB-накопитель в панели уведомлений.</string>
@@ -376,7 +376,7 @@
     <string name="install_GMS">Google Mobile Services is required to shop online. Download GMS?</string>
     <string name="installing">Установка</string>
     <string name="interstitial_default_button_text">Details</string>
-    <string name="item_is_selected">%1$s выбрано</string>
+    <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="js_engine_flags">Set JS flags</string>
     <string name="just_now">Прямо сейчас</string>
     <string name="label_feedback">Отзыв</string>
@@ -430,35 +430,35 @@
     <string name="loading_more">Загрузка</string>
     <string name="loading_text">Загрузка</string>
     <string name="local_bookmarks">Локально</string>
-    <string name="location">URL-адрес</string>
+    <string name="location">Определение местоположения через gps или моб. сеть</string>
     <string name="max_tabs_warning">%d вкладок всего</string>
-    <string name="mc_action_settings">Settings</string>
-    <string name="mc_allow">Разрешить</string>
+    <string name="mc_action_settings">Настройки</string>
+    <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
-    <string name="mc_custom_date_time_day_after">Дн. спутся</string>
-    <string name="mc_custom_date_time_day_before">Дн. назад</string>
+    <string name="mc_custom_date_time_day_after">дн. назад</string>
+    <string name="mc_custom_date_time_day_before">дн. спустя</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
@@ -467,34 +467,34 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
-    <string name="mc_last_refresh_just_now">Сейчас</string>
+    <string name="mc_last_refresh_just_now">только что</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 час назад</string>
-    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
     <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
     <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_apply">Запрос разрешений</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -504,7 +504,7 @@
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -524,17 +524,17 @@
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
-    <string name="mc_selectionbutton_all">All</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -547,7 +547,7 @@
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="meizu_taotiao">Новости Meizu</string>
     <string name="menu_add_comment">Добавить комментарий</string>
     <string name="menu_add_reply_comment">Добавить ответ</string>
@@ -592,11 +592,11 @@
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
-    <string name="mz_date_time_day">д</string>
-    <string name="mz_date_time_hour">ч</string>
-    <string name="mz_date_time_min">м</string>
-    <string name="mz_date_time_month">м</string>
-    <string name="mz_date_time_sec">с</string>
+    <string name="mz_date_time_day">д.</string>
+    <string name="mz_date_time_hour">ч.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
+    <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
     <string name="mz_permission_allow">Разрешить</string>
@@ -641,7 +641,7 @@
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
@@ -706,8 +706,8 @@
     <string name="older">Ранее</string>
     <string name="onews__pr_load_more">Refreshing</string>
     <string name="onews__pr_refreshing_label">Refreshing</string>
-    <string name="onews_settings_activity_title">Settings</string>
-    <string name="onews_settings_clean_cache_dialog_cancel">Cancel</string>
+    <string name="onews_settings_activity_title">Настройки</string>
+    <string name="onews_settings_clean_cache_dialog_cancel">Отмена</string>
     <string name="onews_settings_clean_cache_dialog_clear">OK</string>
     <string name="onews_settings_clean_cache_dialog_tips">Clean all caches?</string>
     <string name="onews_settings_clean_cache_label">Clean cache</string>
@@ -1101,7 +1101,7 @@
     <string name="vp_app_installing">Installing</string>
     <string name="vp_app_name">VideoPlayerHelper</string>
     <string name="vp_auto_download">Auto-download and install over WLAN</string>
-    <string name="vp_cancel">Cancel</string>
+    <string name="vp_cancel">Отмена</string>
     <string name="vp_detail">Detail</string>
     <string name="vp_have_viewed">%s Views</string>
     <string name="vp_network_unavailable">network unavailable</string>

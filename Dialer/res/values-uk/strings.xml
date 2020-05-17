@@ -742,7 +742,7 @@
     <string name="mzc_enterprise_call">Здійснено веб-виклик до служби підтримки клієнтів</string>
     <string name="mzc_enterprise_call_label">Веб-виклик до підприємства</string>
     <string name="mzc_enterprise_call_message">Послуга візуального меню</string>
-    <string name="mzc_error_correction">Виправлення помилок</string>
+    <string name="mzc_error_correction">Змінити</string>
     <string name="mzc_error_success_missing_count" formatted="false">Відомості: успішно виконано – %d, завершилося збоєм – %d</string>
     <string name="mzc_eventLabelsGroup">Дата</string>
     <string name="mzc_eventTypeAnniversary">Ювілей</string>

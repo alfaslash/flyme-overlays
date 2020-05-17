@@ -204,7 +204,6 @@
         <enum name="bs" value="0" />
     </attr>
     <attr name="mzButtonIconDimen" format="dimension" />
-    <attr name="mcDownLoadText" format="string" />
     <attr name="mcLargeCircleDrawble" format="reference" />
     <attr name="mcLargeCircleRadis" format="dimension" />
     <attr name="mcTextNumberColor" format="color" />
@@ -747,6 +746,9 @@
     <attr name="roundingBorderWidth" format="dimension" />
     <attr name="roundingBorderColor" format="color" />
     <attr name="roundingBorderPadding" format="dimension" />
+    <attr name="gifSource" format="reference|string" />
+    <attr name="isOpaque" format="boolean" />
+    <attr name="freezesAnimation" format="boolean" />
     <attr name="mcLeftColor" format="color" />
     <attr name="mcRightColor" format="color" />
     <attr name="mcShape">
@@ -1014,20 +1016,6 @@
     <attr name="mcMinHeight" format="dimension" />
     <attr name="mcMaxHeight" format="dimension" />
     <attr name="mcInterpolator" format="reference" />
-    <attr name="ptr_rotate_ani_time" format="integer" />
-    <attr name="ptr_header" format="reference" />
-    <attr name="ptr_content" format="reference" />
-    <attr name="ptr_resistance" format="float" />
-    <attr name="ptr_ratio_of_header_height_to_refresh" format="float" />
-    <attr name="ptr_duration_to_close" format="integer" />
-    <attr name="ptr_duration_to_close_header" format="integer" />
-    <attr name="ptr_pull_to_fresh" format="boolean" />
-    <attr name="ptr_keep_header_when_refresh" format="boolean" />
-    <attr name="ptrRingColor" format="color" />
-    <attr name="ptrRingBgColor" format="color" />
-    <attr name="ptrTextColor" format="color" />
-    <attr name="ptrPinContent" format="boolean" />
-    <attr name="ptrAnimOffset" format="dimension" />
     <attr name="paddingBottomNoButtons" format="dimension" />
     <attr name="paddingTopNoTitle" format="dimension" />
     <attr name="mcLetterBarPaddingLeft" format="dimension" />
@@ -1071,34 +1059,6 @@
     <attr name="mzCornerRadiusX" format="float" />
     <attr name="mzCornerRadiusY" format="float" />
     <attr name="cornerRadius" format="dimension" />
-    <attr name="border_width" format="dimension" />
-    <attr name="border_color" format="color" />
-    <attr name="mutate_background" format="boolean" />
-    <attr name="oval" format="boolean" />
-    <attr name="riv_corner_radius" format="dimension" />
-    <attr name="riv_corner_radius_top_left" format="dimension" />
-    <attr name="riv_corner_radius_top_right" format="dimension" />
-    <attr name="riv_corner_radius_bottom_left" format="dimension" />
-    <attr name="riv_corner_radius_bottom_right" format="dimension" />
-    <attr name="riv_border_width" format="dimension" />
-    <attr name="riv_border_color" format="color" />
-    <attr name="riv_mutate_background" format="boolean" />
-    <attr name="riv_oval" format="boolean" />
-    <attr name="riv_tile_mode">
-        <enum name="dd" value="1" />
-        <enum name="dt" value="0" />
-        <enum name="du" value="2" />
-    </attr>
-    <attr name="riv_tile_mode_x">
-        <enum name="dd" value="1" />
-        <enum name="dt" value="0" />
-        <enum name="du" value="2" />
-    </attr>
-    <attr name="riv_tile_mode_y">
-        <enum name="dd" value="1" />
-        <enum name="dt" value="0" />
-        <enum name="du" value="2" />
-    </attr>
     <attr name="insetForeground" format="reference|color" />
     <attr name="behavior_overlapTop" format="dimension" />
     <attr name="layout" format="reference" />
@@ -1124,10 +1084,10 @@
     <attr name="mzCornerRadius" format="dimension" />
     <attr name="maxActionInlineWidth" format="dimension" />
     <attr name="mcStretchTpye">
-        <enum name="dv" value="0" />
-        <enum name="dw" value="3" />
-        <enum name="dx" value="1" />
-        <enum name="dy" value="2" />
+        <enum name="dt" value="0" />
+        <enum name="du" value="3" />
+        <enum name="dv" value="1" />
+        <enum name="dw" value="2" />
     </attr>
     <attr name="mcAlignRightWhenAnim" format="boolean" />
     <attr name="mcPlayStretchOnPreDraw" format="boolean" />
@@ -1204,8 +1164,8 @@
     <attr name="tabContentStart" format="dimension" />
     <attr name="tabBackground" format="reference" />
     <attr name="tabMode">
-        <enum name="dz" value="1" />
-        <enum name="e0" value="0" />
+        <enum name="dx" value="1" />
+        <enum name="dy" value="0" />
     </attr>
     <attr name="tabGravity">
         <enum name="c7" value="1" />

@@ -1,49 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="OPERATION_FOR_IMAGE">
+        <item>Предпросмотр</item>
+        <item>Заменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_SLIDESHOW">
+        <item>Предпросмотр</item>
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_VIDEO">
+        <item>Воспроизвести</item>
+        <item>Заменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Снять новое видео</item>
+        <item>Библиотека видео</item>
+    </string-array>
+    <string-array name="attach_voice_array">
+        <item>Сделать новую запись</item>
+        <item>Библиотека аудио</item>
+    </string-array>
     <string-array name="empty_subject_strings">
-        <item>без теми</item>
-        <item>без теми</item>
+        <item>Без темы</item>
     </string-array>
-    <string-array name="gif_category_names">
-        <item>Жест \"Дай п’ять!\"</item>
-        <item>Оплески</item>
-        <item>Подобається</item>
-        <item>Ні</item>
-        <item>Так</item>
-        <item>Знизування плечима</item>
-        <item>Мікрофон</item>
-        <item>Вибачте</item>
-        <item>Святкуймо</item>
-        <item>Дякуємо</item>
-        <item>Підморгування</item>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
     </string-array>
-    <string-array name="rcs_default_sharing_method_options">
-        <item>MMS</item>
-        <item>SMS із посиланням</item>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
-    <string-array name="rcs_fallback_to_sms_dialog_options">
-        <item>Завжди надсилати повторно як SMS</item>
-        <item>Поза роумінгом надсилати повторно як SMS</item>
-        <item>Запитувати перед повторним надсиланням</item>
-        <item>Ніколи не надсилати повторно як SMS</item>
+    <string-array name="phrases">
+        <item>Я занят, свяжусь позже.</item>
+        <item>Пожалуйста, позвоните мне позже.</item>
+        <item>Хорошо, спасибо.</item>
+        <item>Пробки, буду немного позже.</item>
     </string-array>
-    <string-array name="rcs_fallback_to_xms_dialog_options">
-        <item>Завжди повторно надсилати як SMS/MMS</item>
-        <item>Надсилати повторно як SMS/MMS (якщо не в роумінгу)</item>
-        <item>Запитувати перед повторним надсиланням</item>
-        <item>Ніколи не надсилати повторно як SMS/MMS</item>
-    </string-array>
-    <string-array name="notification_reply_choices">
-        <item>Так</item>
-        <item>Ні</item>
-        <item>OK</item>
-        <item>Ха-ха</item>
-        <item>Дякую</item>
-        <item>Погоджуюсь</item>
-        <item>Чудово</item>
-        <item>У дорозі</item>
-        <item>Гаразд, я відповім пізніше</item>
-        <item>:)</item>
-        <item>:(</item>
+    <string-array name="select_dialog_items">
+        <item>1 с.</item>
+        <item>2 с.</item>
+        <item>3 с.</item>
+        <item>4 с.</item>
+        <item>5 с.</item>
+        <item>6 с.</item>
+        <item>7 с.</item>
+        <item>8 с.</item>
+        <item>9 с.</item>
+        <item>10 с.</item>
+        <item>Другое</item>
     </string-array>
 </resources>

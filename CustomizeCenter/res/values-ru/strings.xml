@@ -84,7 +84,6 @@
     <string name="automatically_switch_to_commemorative_wallpaper_on_festivals">Автоматическое переключение на праздничные обои</string>
     <string name="autoUpate">Автообновление через Wi-Fi</string>
     <string name="available_coupon_txt">Купон(ы)</string>
-    <string name="available_coupon_txt_has"/>
     <string name="badge">Дополнительные обои</string>
     <string name="badge_check_license_failed">Ошибка авторизации, повторите загрузку.</string>
     <string name="badge_detail">Подробнее</string>
@@ -105,7 +104,7 @@
     <string name="china_telecom">China Telecom</string>
     <string name="china_unicom">China Unicom</string>
     <string name="clear">Очистить</string>
-    <string name="close">Выключено</string>
+    <string name="close">Закрыть</string>
     <string name="close_launcher_wallpaper">Автоматическая смена обоев для лаунчера отключена</string>
     <string name="close_launcher_wallpaper_description">Ручное изменение обоев домашнего экрана выключено</string>
     <string name="close_lock_screen_poster">Переключение постеров отключено</string>
@@ -182,7 +181,7 @@
     <string name="dialog_cancel">Отмена</string>
     <string name="dialog_message">Exit Mix Design?</string>
     <string name="dialog_quit">Выход</string>
-    <string name="discount">Off</string>
+    <string name="discount">Выкл.</string>
     <string name="dislike">Не нравится</string>
     <string name="do_not_waste_beautybean">Выкупите ваш купон с баллами</string>
     <string name="download">Загрузка</string>
@@ -304,7 +303,7 @@
     <string name="introduction_guide">Go to “#@0@#” > “Auto Wallpaper Changer” to enable it</string>
     <string name="introduction_title">"Новое:
 Автоматическая смена обоев"</string>
-    <string name="item_is_selected">%1$s выбрано</string>
+    <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="keyboard">Клавиатура</string>
     <string name="keyboard_skin">Тема клавиатуры</string>
     <string name="keyboard_skin_detail">Подробнее о теме</string>
@@ -323,9 +322,9 @@
     <string name="location_remember_preferences">Запомнить предпочтения</string>
     <string name="location_request_message">необходимо использование данных о местоположении</string>
     <string name="location_share_button">SHARE_LOCATION</string>
-    <string name="lock_month_day">d.M</string>
+    <string name="lock_month_day">d MMM</string>
     <string name="lock_screen_poster_description">Wallpaper changer auto-changes lockscreen wallpapers.</string>
-    <string name="lock_week">d.M.yyyy (EEEE)</string>
+    <string name="lock_week">d.M.yyyy(EEE)</string>
     <string name="lockscreen_show_text">Показывать текст на экране блокировки</string>
     <string name="log">Log Export</string>
     <string name="log_summary">Экспорт логов</string>
@@ -334,35 +333,35 @@
     <string name="look_over">Посмотреть</string>
     <string name="matched_theme">Совпадающая тема</string>
     <string name="mc_action_settings">Настройки</string>
-    <string name="mc_allow">Разрешить</string>
+    <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
     <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дней назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 день спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 день назад</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
@@ -372,40 +371,40 @@
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
-    <string name="mc_last_refresh_just_now">Сейчас</string>
+    <string name="mc_last_refresh_just_now">только что</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 час назад</string>
-    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_just_now">Только что</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_apply">Запрос разрешений</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -415,7 +414,7 @@
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -435,17 +434,17 @@
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -458,7 +457,7 @@
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="mix_apply">Применить</string>
     <string name="mix_apply_message">Use mixed theme</string>
     <string name="mix_apply_message_error">Ошибка применения смешанной темы</string>
@@ -493,8 +492,8 @@
     <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
-    <string name="mz_date_time_min">м.</string>
-    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
@@ -543,7 +542,7 @@
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
@@ -642,7 +641,7 @@
     <string name="online_theme_trial_trying_notify_title">Демо темы «%s»</string>
     <string name="online_theme_trying_now">On Trial</string>
     <string name="online_theme_un_existed">Тема больше не доступна</string>
-    <string name="open">On</string>
+    <string name="open">Вкл.</string>
     <string name="open_app">Открыть</string>
     <string name="open_pay_auto_pay_permission_title">Авторизация платежного сервиса</string>
     <string name="open_varied_wallpaper_fail">Вы используете живые обои для экрана блокировки. Пожалуйста, замените их на обычные, прежде чем включить автоматическую смену обоев.</string>
@@ -653,8 +652,8 @@
     <string name="other_error">Другие вопросы</string>
     <string name="pap_special">Featured Wallpapers</string>
     <string name="password_toggle_content_description">Видимость пароля</string>
-    <string name="pattern_month_day" formatted="false">%d.%m</string>
-    <string name="pattern_year_month_day" formatted="false">%d.%m.%Y</string>
+    <string name="pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="paused">Остановлено</string>
     <string name="pay_base_channel_access_server_error">Система занята, пожалуйста, попробуйте позже.</string>
     <string name="pay_base_channel_pay_fail">Не удалось произвести оплату</string>

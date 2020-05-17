@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="believePackages">
+        <item>com.meizu.mzsyncservice</item>
+        <item>com.google.process.gapps</item>
+        <item>com.google.android.syncadapters.calendar</item>
+        <item>com.android.exchange</item>
+        <item>com.android.email</item>
+        <item>com.meizu.media.life</item>
+        <item>com.meizu.net.o2oservice</item>
+        <item>com.meizu.voiceassistant</item>
+    </string-array>
+</resources>

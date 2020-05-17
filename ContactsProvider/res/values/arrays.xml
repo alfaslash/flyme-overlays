@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="believePackages">
+        <item>com.google.android.syncadapters.contacts</item>
+        <item>com.android.phone</item>
+        <item>com.android.email</item>
+        <item>com.android.mms</item>
+        <item>com.meizu.mzsyncservice</item>
+        <item>com.meizu.mzsnssyncservice</item>
+        <item>com.google.process.gapps</item>
+        <item>com.google.android.syncadapters.calendar</item>
+        <item>com.android.exchange</item>
+        <item>com.meizu.mzsimcontacts</item>
+        <item>com.meizu.netcontactservice</item>
+        <item>com.android.browser</item>
+        <item>com.meizu.powersave</item>
+        <item>com.android.server.telecom</item>
+        <item>system_server</item>
+        <item>com.android.server.telecom:ui</item>
+        <item>com.meizu.callsetting</item>
+    </string-array>
+</resources>

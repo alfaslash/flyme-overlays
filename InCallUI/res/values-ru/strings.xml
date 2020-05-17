@@ -115,14 +115,14 @@
     <string name="description_target_send_sms">Отправить SMS</string>
     <string name="dial_emergency_empty_error">Доступны только номера экстренных служб</string>
     <string name="dial_emergency_error">Невозможно позвонить. Номер %s не принадлежит экстренным службам.</string>
-    <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
+    <string name="dial_pad_autocomplete">Автодополнение набора номера</string>
     <string name="dialerKeyboardHintText">Наберите номер с клавиатуры</string>
     <string name="dialpad">Клавиатура</string>
     <string name="directory_search_label">Каталог</string>
     <string name="directory_search_label_work">Рабочий каталог</string>
     <string name="disconnect_message_no_sim">Вставьте SIM-карту</string>
     <string name="disconnect_message_sim_off">SIM-карта не активна. Невозможно набрать номер.</string>
-    <string name="downgrade_to_vioce_failed">Switching to voice call failed</string>
+    <string name="downgrade_to_vioce_failed">Ошибка переключения на голосовой вызов</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="emergency_enable_radio_dialog_message">Включение радио…</string>
     <string name="emergency_enable_radio_dialog_retry">Сервис недоступен. Пробуем снова…</string>
@@ -142,15 +142,15 @@
     <string name="ext_caller_info_label_meeting">Встреча</string>
     <string name="ext_caller_info_label_sms">SMS</string>
     <string name="ext_caller_info_label_work">Работа</string>
-    <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
+    <string name="fake_phone_activity_infoText_text">Номер входящего вызова</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-    <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
+    <string name="fake_phone_activity_placeCall_text">Фейковый входящий вызов</string>
     <string name="forwardedCallText">Переадресация вызова</string>
     <string name="goPrivate">приватный разговор</string>
     <string name="hang_up_record">Завершить голосовое сообщение</string>
     <string name="harassing_handler_hint">Отклонить и блокировать</string>
     <string name="hold_call">На удержании</string>
-    <string name="in_direct_boot_mode_prompt">All features are available after the device has been unlocked successfully</string>
+    <string name="in_direct_boot_mode_prompt">Все функции будут доступны после разблокировки устройства.</string>
     <string name="incall_call_type_label_sip">Веб-вызов</string>
     <string name="incall_error_call_failed">Невозможно позвонить</string>
     <string name="incall_error_dial_failed">Ошибка вызова</string>
@@ -175,57 +175,57 @@
     <string name="incoming_tip">Проведите вправо для ответа</string>
     <string name="incoming_via_template">Входящий через %s</string>
     <string name="incomming_video_call_text">Входящий видеовызов</string>
-    <string name="item_is_selected">%1$s выбрано</string>
+    <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
-    <string name="mc_action_settings">Settings</string>
-    <string name="mc_allow">Разрешить</string>
+    <string name="mc_action_settings">Настройки</string>
+    <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Убрано из избранного</string>
-    <string name="mc_cancel_praised_message">Отменить отзыв</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
     <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
-    <string name="mc_custom_date_time_days_after">%1$d days after</string>
-    <string name="mc_custom_date_time_days_before">%1$d days before</string>
+    <string name="mc_custom_date_time_days_after">%1$d дн. после</string>
+    <string name="mc_custom_date_time_days_before">%1$d дней. до</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 day after</string>
     <string name="mc_custom_date_time_one_day_before">1 day before</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
-    <string name="mc_date_time_day">д</string>
-    <string name="mc_date_time_hour">ч</string>
-    <string name="mc_date_time_min">м</string>
-    <string name="mc_date_time_month">м</string>
-    <string name="mc_date_time_sec">с</string>
+    <string name="mc_date_time_day">д.</string>
+    <string name="mc_date_time_hour">ч.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
+    <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
     <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
-    <string name="mc_hour">ч</string>
+    <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">последнее обновление</string>
-    <string name="mc_last_refresh_hour">ч назад</string>
-    <string name="mc_last_refresh_just_now">сейчас</string>
+    <string name="mc_last_refresh_hour">ч. назад</string>
+    <string name="mc_last_refresh_just_now">только что</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 час назад</string>
-    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
@@ -234,14 +234,14 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
     <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m.%Yг.</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Yг.</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Yг. %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Yг. %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_apply">Запрос разрешений</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -251,7 +251,7 @@
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -271,17 +271,17 @@
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">с</string>
-    <string name="mc_selectionbutton_all">All</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_second">с.</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -294,7 +294,7 @@
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="merge_call">Объединить вызовы</string>
     <string name="merge_reach_max">Достигнут лимит объединения</string>
     <string name="mini_headsup_answer_call">Ответ</string>
@@ -310,23 +310,17 @@
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
-    <string name="mz_date_time_day"/>
-    <string name="mz_date_time_hour"/>
-    <string name="mz_date_time_min"/>
-    <string name="mz_date_time_month"/>
-    <string name="mz_date_time_sec"/>
-    <string name="mz_date_time_year"/>
     <string name="mz_emergency_call">Экстренный вызов</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
-    <string name="mz_permission_allow">Allow</string>
-    <string name="mz_permission_almost_deny">Never ask after denied</string>
+    <string name="mz_permission_allow">Разрешить</string>
+    <string name="mz_permission_almost_deny">Больше не спрашивать</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
-    <string name="mz_permission_deny">Deny</string>
+    <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
-    <string name="mz_permission_message_supplement">%1$s needs %2$s %3$d permissions</string>
-    <string name="mz_permission_title_supplement">Ask for the following permissions</string>
-    <string name="mz_permissiongroup_name_net">Network connections</string>
-    <string name="mz_permissiongroup_name_other">Other</string>
+    <string name="mz_permission_message_supplement">%1$s необходимы %2$s %3$d разрешения</string>
+    <string name="mz_permission_title_supplement">Запрос следующих разрешений</string>
+    <string name="mz_permissiongroup_name_net">Сетевые подключения</string>
+    <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
     <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
     <string name="mz_pm_bluetooth">Управление Bluetooth</string>
@@ -357,9 +351,9 @@
     <string name="mz_pm_wlan">доступ к Wi-Fi</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_respond_via_sms_custom_message">Настройка пользователя</string>
-    <string name="mz_specific_permission_allow">Still allow</string>
-    <string name="mz_specific_permission_deny">Deny to give permission</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_specific_permission_allow">Разрешить</string>
+    <string name="mz_specific_permission_deny">Отклонить</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="normal_dial">Набор</string>
     <string name="notification_action_accept">Да</string>
@@ -430,17 +424,17 @@
     <string name="record_num">Добавить заметку</string>
     <string name="record_return_normal">Назад к вызову</string>
     <string name="redial">Повторный набор</string>
-    <string name="reject_incoming">Decline</string>
+    <string name="reject_incoming">Отклонить</string>
     <string name="request_video_call_text">Совершение видеовызова</string>
     <string name="respond_via_sms_custom_message">Написать своё…</string>
     <string name="ringtone_title">Рингтон</string>
-    <string name="search_menu_title">Search</string>
-    <string name="select_account_dialog_title">Choose an account</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="select_account_dialog_title">Выберите аккаунт</string>
     <string name="selectContact">Выбрать контакт</string>
     <string name="send_button">Отправить</string>
     <string name="separate_from_conference">Разделить</string>
     <string name="set_network">Установка сети</string>
-    <string name="signal_downgrade_prompt">Downgrade to 2g, may impact the call quality</string>
+    <string name="signal_downgrade_prompt">Переключение на 2g может повлиять на качество связи</string>
     <string name="sim_picker_tile">Выбор SIM</string>
     <string name="siminfo_item_text" formatted="false">SIM %d - %s</string>
     <string name="sms_btn_label">Сообщение</string>
@@ -460,14 +454,13 @@
     <string name="switch_answer_to_voice_call">Голосовой вызов</string>
     <string name="switch_to_callback_call">Переключение на специальную линию</string>
     <string name="switch_to_normal_call">Переключение на обычный вызов</string>
-    <string name="switch_to_video_call">Video(Debug)</string>
+    <string name="switch_to_video_call">Видео (Debug)</string>
     <string name="switch_to_voice_call">На голосовой вызов</string>
-    <string name="text_callback">专线</string>
+    <string name="text_callback">Выделенная линия</string>
     <string name="title_incoming_fastsms_panel">Отклонить с сообщением</string>
     <string name="tomorrow">Завтра</string>
     <string name="typeface_default">sans-serif</string>
     <string name="typeface_medium_number">SFDIN</string>
-    <string name="typeface_medium_text">sans-serif-medium</string>
     <string name="unknown">Неизвестный номер</string>
     <string name="unknown_call_session_event">Событие неизвестной сессии вызова</string>
     <string name="upgrade_to_callback_call">Набор по специальной линии</string>
@@ -476,8 +469,8 @@
     <string name="upgrade_to_video_reject">Приглашение на видеовызов отклонено</string>
     <string name="upgrade_to_video_text">Приглашаем в видеовызов</string>
     <string name="vibrate_on_ring_title">Вибрация при вызове</string>
-    <string name="videocall_close_camera">Close Camera</string>
-    <string name="videocall_open_camera">Open Camera</string>
+    <string name="videocall_close_camera">Закрыть камеру</string>
+    <string name="videocall_open_camera">Открыть камеру</string>
     <string name="voicemail_notification_ringtone_title">Звук</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
     <string name="voicemail_notification_vibrate_when_default">never</string>
@@ -494,7 +487,7 @@
     <string name="waitingcall_current_call">Начальный вызов</string>
     <string name="waitingcall_hangup">Конец %s</string>
     <string name="waitingcall_hold">Удержать %s</string>
-    <string name="web_call_tag">免费</string>
+    <string name="web_call_tag">Бесплатно</string>
     <string name="wild_prompt_str">Заменить подстановочный знак на</string>
     <string name="yesterday">Вчера</string>
 </resources>

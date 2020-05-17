@@ -678,7 +678,7 @@
     <string name="ble_scan_notify_text">Чтобы точнее определять местоположение, системные приложения и сервисы продолжат искать находящиеся поблизости Bluetooth-устройства. Вы можете отключить эту функцию в настройках сканирования.</string>
     <string name="blue_light_end_time">Время окончания</string>
     <string name="blue_light_immediately_invoke_title">Включить режим «Защита глаз»</string>
-    <string name="blue_light_reduction_summary">Защищает ваше зрение от вредного синего излучения, которое может повлиять на ваш сон негативно</string>
+    <string name="blue_light_reduction_summary">Защищает ваше зрение от вредного излучения, которое может повлиять на состояние вашего сна</string>
     <string name="blue_light_reduction_title">Режим защиты глаз</string>
     <string name="blue_light_start_time">Время начала</string>
     <string name="blue_light_stength">Степень уменьшения синего света</string>
@@ -840,7 +840,7 @@
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству «%1$s», так как введен неверный PIN-код или пароль</string>
     <string name="bluetooth_pairing_pref_title">Сопряжение нового устройства</string>
     <string name="bluetooth_pairing_rejected_error_message">Сопряжение отклонено устройством «%1$s»</string>
-    <string name="bluetooth_pairing_request">Сопряжение с Bluetooth-устройством</string>
+    <string name="bluetooth_pairing_request">Настройки</string>
     <string name="bluetooth_pairing_shares_phonebook">Разрешить «%1$s» доступ к контактам и журналу вызовов</string>
     <string name="bluetooth_pairing_will_share_phonebook">Сопряжение обеспечивает доступ к вашим контактам и журналу звонков при подключении</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
@@ -1153,7 +1153,7 @@
     <string name="confirm_fingerprint_icon_content_description">Для продолжения используйте отпечаток пальца</string>
     <string name="confirm_fingerprint_tip">Подтверждение отпечатка</string>
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
-    <string name="confirm_password_error">Неверный пароль. Попробуйте снова</string>
+    <string name="confirm_password_error">Неверный пароль, повторите ввод</string>
     <string name="confirm_password_tip">Введите пароль</string>
     <string name="connected">Подключено</string>
     <string name="connected_device_add_device_summary">Bluetooth будет включен для сопряжения</string>
@@ -1190,10 +1190,6 @@
     <string name="copy_gf_data_success_msg">Данные отпечатков скопированы в папку sdcard/fpdata/</string>
     <string name="copyright_text">"Meizu, MEIZU, MEIZU MX, M, и Flyme (именуемые в дальнейшем «Торговые марки Meizu»), принадлежат Zhuhai Meizu Technology Co., Ltd (далее «Meizu»), и являются зарегистрированными торговыми марками Meizu в Китае и/или других странах. Все права на проектную документацию принадлежат компании Meizu. Все права на программное обеспечение, предоставляемое компанией Meizu или сторонними поставщиками, принадлежат правообладателю ПО и защищены соответствующими законами и нормативными актами. Для получения дополнительной информации ознакомьтесь с лицензионным соглашением на использование этих продуктов. Предупреждение: так как это устройство поставляется с открытым загрузчиком, возможно получение root-доступа, что несёт определённые риски, такие как отключение функции поиска телефона, потеря файлов, раскрытие паролей, снижение стабильности системы и т. п. Компания Meizu не несёт ответственности за любые последствия, связанные с открытием root-доступа на устройствах. Мы рекомендуем клиентам внимательно отнестись к вопросу root-доступа и соблюдать осторожность. Meizu не предоставляет никаких гарантий в отношении какого-либо контента или услуг стороннего программного обеспечения и не несёт ответственности за какие-либо убытки, вызванные использованием этого продукта или невозможностью использования какого-либо стороннего программного обеспечения. Соответствующие патенты, реализованные в этом продукте, лицензированы Qualcomm Incorporated. ©2019 Meizu Technology Co., Ltd. Все права защищены."</string>
     <string name="copyright_title">Авторские права</string>
-    <string name="cpu_model">710</string>
-    <string name="cpu_summary_mtk">MediaTek %s</string>
-    <string name="cpu_summary_qcom">Qualcomm %s</string>
-    <string name="cpu_summary_samsung">Exynos %s</string>
     <string name="cpu_title">Процессор</string>
     <string name="create">Создать</string>
     <string name="credential_contains">Этот сертификат содержит:</string>
@@ -1414,7 +1410,7 @@
     <string name="date_time_select_fixed_offset_time_zones">Выбор смещения UTC</string>
     <string name="date_time_select_region">Регион</string>
     <string name="date_time_select_zone">Часовой пояс</string>
-    <string name="date_time_set">Настроить</string>
+    <string name="date_time_set">Установить</string>
     <string name="date_time_set_date">Дата</string>
     <string name="date_time_set_date_title">Дата</string>
     <string name="date_time_set_time">Время</string>
@@ -1591,7 +1587,7 @@
     <string name="dlg_error_unmount_text">Не удалось отключить USB-накопитель. Повторите попытку позже</string>
     <string name="dlg_guest_close_message">После отключения, вы не сможете войти в режим гостя. Хотите стереть данные гостевого режима?</string>
     <string name="dlg_guest_remain_data">Отмена</string>
-    <string name="dlg_ok">ОК</string>
+    <string name="dlg_ok">OK</string>
     <string name="dlg_remove_locales_error_message">Оставьте хотя бы один язык</string>
     <string name="dlg_remove_locales_error_title">Невозможно удалить все языки</string>
     <string name="dlg_remove_locales_message">Текст будет отображен на другом языке</string>
@@ -1613,7 +1609,7 @@
     <string name="do_not_disturb_edit_schedule_title">Параметры</string>
     <string name="do_not_disturb_enable_mannully">Режим «Не беспокоить»</string>
     <string name="do_not_disturb_end_time">Окончание</string>
-    <string name="do_not_disturb_mode_title">Уведомления</string>
+    <string name="do_not_disturb_mode_title">Режим DND</string>
     <string name="do_not_disturb_no_schedule_summary">Нажмите на кнопку ниже для добавления</string>
     <string name="do_not_disturb_no_schedule_tip">Нет расписаний</string>
     <string name="do_not_disturb_options">Настройки</string>
@@ -1759,7 +1755,7 @@
     <string name="encryption_interstitial_yes">OK</string>
     <string name="enhanced_4g_lte_mode_summary">Передача голоса в высоком качестве</string>
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
-    <string name="enroll_finger_side_tips">Поместите край пальца на выделенную область и поднимите его после вибрации</string>
+    <string name="enroll_finger_side_tips">Повторяйте шаги: поместить край пальца на выделенную область, пока не почувствуете вибрацию, затем приподнимите палец</string>
     <string name="enroll_finger_side_tips_content">Добавьте края отпечатка для лучшего распознавания</string>
     <string name="enroll_finger_side_tips_continue">Далее</string>
     <string name="enroll_finger_side_tips_head">Добавьте края отпечатка</string>
@@ -2522,7 +2518,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки экрана блокировки</string>
     <string name="lockscreen_show_lunar_calender_title">Отображать лунный календарь</string>
-    <string name="lockscreen_show_music_title">Отображать медиа-кнопки</string>
+    <string name="lockscreen_show_music_title">Музыка на экране блокировки</string>
     <string name="lost_internet_access_cancel">Использовать Wi-Fi</string>
     <string name="lost_internet_access_persist">Больше не показывать</string>
     <string name="lost_internet_access_switch">Переключить на передачу данных</string>
@@ -2590,69 +2586,69 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
     <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 д. спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 д. назад</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
-    <string name="mc_description_target_answer">Принять</string>
+    <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка: %1$s</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">только что</string>
-    <string name="mc_last_refresh_minute">м. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 ч. назад</string>
-    <string name="mc_pattern_a_minute_before">1 м. назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string formatted="false" name="mc_pattern_hour_minute_12">%I:%M %p</string>
-    <string name="mc_pattern_minute_before">, м. назад</string>
-    <string formatted="false" name="mc_pattern_month_day">%d.%m</string>
-    <string formatted="false" name="mc_pattern_month_day_hour_minute">%d.%m %H:%M</string>
-    <string formatted="false" name="mc_pattern_month_day_hour_minute_12">%d.%m %I:%M %p</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
+    <string formatted="false" name="mc_pattern_month_day">%-e.%-m</string>
+    <string formatted="false" name="mc_pattern_month_day_hour_minute">%-e.%-m %H:%M</string>
+    <string formatted="false" name="mc_pattern_month_day_hour_minute_12">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
     <string formatted="false" name="mc_pattern_week_hour_minute_12">%a %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_week_month_day_hour_minute">%a %d.%m %H:%M</string>
-    <string formatted="false" name="mc_pattern_week_month_day_hour_minute_12">%a %d.%m %I:%M %p</string>
-    <string formatted="false" name="mc_pattern_year_month">%m.%Y</string>
-    <string formatted="false" name="mc_pattern_year_month_day">%d.%m.%Y</string>
-    <string formatted="false" name="mc_pattern_year_month_day_hour_minute">%d.%m.%Y %H:%M</string>
-    <string formatted="false" name="mc_pattern_year_month_day_hour_minute_12">%d.%m.%Y %I:%M %p</string>
+    <string formatted="false" name="mc_pattern_week_month_day_hour_minute">%a %-e.%-m %H:%M</string>
+    <string formatted="false" name="mc_pattern_week_month_day_hour_minute_12">%a %-e.%-m %I:%M %p</string>
+    <string formatted="false" name="mc_pattern_year_month">%-m.%Y</string>
+    <string formatted="false" name="mc_pattern_year_month_day">%-e.%-m.%Y</string>
+    <string formatted="false" name="mc_pattern_year_month_day_hour_minute">%-e.%-m.%Y %H:%M</string>
+    <string formatted="false" name="mc_pattern_year_month_day_hour_minute_12">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -2662,7 +2658,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -2682,17 +2678,17 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string formatted="false" name="mc_simple_pattern_month_day">%d.%m</string>
-    <string formatted="false" name="mc_simple_pattern_year_month_day">%d.%m.%Y</string>
+    <string formatted="false" name="mc_simple_pattern_month_day">%-e.%-m</string>
+    <string formatted="false" name="mc_simple_pattern_year_month_day">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -2705,7 +2701,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="mcharge_dlg_warning">Технология «mCharge» может существенно ускорить процесс зарядки. Отключение данной технологии уменьшит тепловыделение в процессе зарядки, но время зарядки увеличится. Продолжить?</string>
     <string name="mcharge_title">mCharge</string>
     <string name="media_category">Мультимедиа</string>
@@ -2826,7 +2822,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="move_error_device_admin">Администраторы устройства не могут быть установлены на внешнем носителе.</string>
     <string name="moving">Перемещение</string>
     <string name="mtp_ptp_mode_summary">Функция MTP или PTP активирована</string>
-    <string name="multi_task_layout_title">Вид многозадачности</string>
+    <string name="multi_task_layout_title">Вид диспетчера задач</string>
     <string name="multi_task_title">Диспетчер задач</string>
     <string name="music_category_title">Музыка</string>
     <string name="musicfx_title">Звуковые эффекты</string>
@@ -2876,7 +2872,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_face_re_savefeature_confirm_ok">Повторить</string>
     <string name="mz_face_re_savefeature_confirm_tip">Повторный ввод данных очистит текущие данные лица</string>
     <string name="mz_face_remove_data_tip">После удаления данных лица, вы не сможете использовать разблокировку по лицу</string>
-    <string name="mz_face_show_notification_alwaysshow">Показывать полностью</string>
+    <string name="mz_face_show_notification_alwaysshow">Показывать всегда</string>
     <string name="mz_face_show_notification_dependface">При успешной разблокировке по лицу</string>
     <string name="mz_face_show_notification_notshow">Не показывать</string>
     <string name="mz_face_summary">Данные отпечатка пальца или лица могут использоваться для разблокировки экрана, приложений и документов</string>
@@ -2915,7 +2911,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_fp_for_flyme_pay_title">Оплата отпечатком</string>
     <string name="mz_fp_have_selected">Выбрано: %d</string>
     <string name="mz_fp_header_title">Отпечатки и безопасность</string>
-    <string name="mz_fp_lockout">Повторите ввод отпечатка через %d с.</string>
+    <string name="mz_fp_lockout">Подтвердите отпечаток снова через %d сек.</string>
     <string name="mz_fp_management_summary">Добавление и управление отпечатками</string>
     <string name="mz_fp_max_count_tips">Можно добавить до 5 отпечатков</string>
     <string name="mz_fp_permanent_lockout">Слишком много попыток верификации. Пожалуйста, используйте пароль</string>
@@ -2924,7 +2920,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_fp_shortcut_name">mTouch</string>
     <string name="mz_fp_summary">Сканер отпечатков в нижней части устройства используется для разблокировки экрана и шифрования данных</string>
     <string name="mz_fp_unselect_all">Нет</string>
-    <string name="mz_fp_verify_failed">Отпечатки не совпадают</string>
+    <string name="mz_fp_verify_failed">"Отпечаток не распознан"</string>
     <string name="mz_install_unknown_applications">Неизвестные источники</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
     <string name="mz_permission_allow">Разрешить</string>
@@ -3095,7 +3091,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_timezone_pacific_tongatapu">Тонга</string>
     <string name="mz_timezone_turkey">Турция</string>
     <string name="mz_unlock_options">Параметры разблокировки</string>
-    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Пожалуйста, проверьте настройки</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="navigation_and_recents_title">Навигация и быстрый доступ</string>
@@ -3731,7 +3727,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="red_envelope_tip_two_parttwo">" иконку для открытия параметров чата и убедитесь, что выключен режим «Без уведомлений»"</string>
     <string name="red_envelope_title">Ассистент Lucky Money</string>
     <string name="red_envlop_notice">Советы:</string>
-    <string name="red_envlop_update">Для работы функции «Ассистент Lucky Money», приложение «Lucky Money» будет автоматически обновляться через Wi-Fi. Данная функция предназначена только для жителей Китая!</string>
+    <string name="red_envlop_update">Для работы функции «Ассистент Lucky Money», приложение «Lucky Money» будет автоматически обновляться через Wi-Fi.</string>
     <string name="region_picker">Выбрать регион</string>
     <string name="region_search_hint">Поиск региона</string>
     <string name="region_title">Регион</string>
@@ -3826,7 +3822,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="ring_volume_option_title">Громкость звонка</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringtone_custom_tip">Свой рингтон</string>
-    <string name="ringtone_default">Рингтон по умолчанию</string>
+    <string name="ringtone_default">Рингтон по умолч.</string>
     <string name="ringtone_local_dir">Локальная музыка</string>
     <string name="ringtone_online_dir">Рингтоны в сети</string>
     <string name="ringtone_title">Рингтон</string>
@@ -4199,7 +4195,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="show_first_crash_dialog_summary">Показывать окно при вылете приложения</string>
     <string name="show_hw_layers_updates">Аппаратные обновления</string>
     <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым цветом при обновлении</string>
-    <string name="show_hw_screen_updates">Обновления ГП</string>
+    <string name="show_hw_screen_updates">Обновление GPU</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке с GPU</string>
     <string name="show_ime">Виртуальная клавиатура</string>
     <string name="show_ime_summary">Показывать на экране, когда физическая клавиатура включена</string>
@@ -4609,7 +4605,6 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="summary_gesture">Жестовая навигация</string>
     <string name="summary_mback">mBack</string>
     <string name="summary_navigation_bar">Панель навигации Android</string>
-    <string name="summary_placeholder"/>
     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
     <string name="summary_simple_gesture">Упрощённые жесты</string>
@@ -4795,7 +4790,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="uid_not_match">UID не совпадает с именем пакета</string>
     <string name="unacceptable_char">Invalid characters are not allowed|\\/:*?\"&lt;></string>
     <string name="underglass_enroll_tips_bad_img">Пожалуйста, очистите выделенную область или палец</string>
-    <string name="underglass_enroll_tips_first">Поместите палец на выделенную область и поднимите его после вибрации</string>
+    <string name="underglass_enroll_tips_first">Поместите палец на выделенную область ниже, и приподнимите его почувствовав вибрацию</string>
     <string name="underglass_input_pwd_tips">Нажмите для ввода пароля</string>
     <string name="underglass_mz_fp_add_tip_low_cover">Палец должен полностью касаться выделенной области</string>
     <string name="underglass_use_fingerprint">Использовать отпечаток</string>
@@ -4914,7 +4909,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="usb_default_label">Настройка USB по умолчанию</string>
     <string name="usb_midi_summary">Разрешить MIDI-приложениям работать через USB с MIDI-приложениями на ПК</string>
     <string name="usb_midi_title">MIDI-устройство</string>
-    <string name="usb_mtp_summary">Передача медиафайлов на ПК</string>
+    <string name="usb_mtp_summary">Перенос медиа на ПК</string>
     <string name="usb_mtp_tip_file_transfer_fragment_title">Советы по использованию</string>
     <string name="usb_mtp_tip_normal_one">Пользователи MacOS могут установить файл «filetransfer.dmg» в режиме CD-ROM или посетить %s</string>
     <string name="usb_mtp_tip_normal_title">Советы по использованию:</string>
@@ -4931,7 +4926,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="usb_mtp_tip_url">http://www.android.com/filetransfer</string>
     <string name="usb_mtp_title">Медиа-устройство (MTP)</string>
     <string name="usb_pref">USB</string>
-    <string name="usb_ptp_summary">Передача фотографий на ПК</string>
+    <string name="usb_ptp_summary">Перенос фото на ПК</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
     <string name="usb_speed_message">Подключение через USB 3.0 может вызывать помехи сигнала или повлечь за собой проблемы совместимости</string>
     <string name="usb_speed_summary">Использовать USB 3.0 для высокой скорости передачи</string>
@@ -5164,7 +5159,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="vpn_name">Имя</string>
     <string name="vpn_network_title">Список VPN</string>
     <string name="vpn_no_ca_cert">(не проверять сервер)</string>
-    <string name="vpn_no_network">Нет подключения к сети. Повторите попытку позже</string>
+    <string name="vpn_no_network">Нет подключения к сети. Пожалуйста, повторите попытку позже</string>
     <string name="vpn_no_server_cert">(получено с сервера)</string>
     <string name="vpn_no_vpns_added">Сети VPN не добавлены</string>
     <string name="vpn_not_used">(не используется)</string>

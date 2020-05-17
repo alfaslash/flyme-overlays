@@ -41,5 +41,6 @@
     <integer name="ab">128</integer>
     <integer name="ac">200</integer>
     <integer name="ad">999</integer>
+    <integer name="tt_video_progress_max">100</integer>
     <integer name="ae">304</integer>
 </resources>

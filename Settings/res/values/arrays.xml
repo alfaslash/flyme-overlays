@@ -1187,7 +1187,7 @@
         <item>100</item>
     </integer-array>
     <array name="batterymeter_color_values">
-        <item>@null</item>
+        <item>?android:colorError</item>
         <item>@android:color/white</item>
     </array>
     <integer-array name="batterymeter_bolt_points">

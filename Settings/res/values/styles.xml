@@ -2404,7 +2404,7 @@
         <item name="android:minWidth">60.0dip</item>
         <item name="android:layout_marginStart">-4.0dip</item>
     </style>
-    <style name="PreferenceFragmentStyle.SettingsBase" parent="@android:style/wifi_item">
+    <style name="PreferenceFragmentStyle.SettingsBase" parent="@android:style/PreferenceFragment.Material">
         <item name="allowDividerAfterLastItem">true</item>
     </style>
     <style name="Preference.SettingsBase" parent="@style/Preference.Material">
@@ -4271,7 +4271,7 @@
         <item name="android:layout_marginStart">0.0dip</item>
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
-    <style name="PreferencePanelSinglePane" parent="@android:style/Widget.DeviceDefault.CompoundButton.Switch">
+    <style name="PreferencePanelSinglePane" parent="@android:style/PreferencePanel">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:background">@null</item>
         <item name="android:paddingStart">0.0dip</item>
@@ -4279,7 +4279,7 @@
         <item name="android:layout_marginStart">0.0dip</item>
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
-    <style name="PreferenceHeaderListSinglePane" parent="@android:style/wifi_section">
+    <style name="PreferenceHeaderListSinglePane" parent="@android:style/PreferenceHeaderList">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:paddingTop">0.0dip</item>
         <item name="android:paddingBottom">0.0dip</item>
@@ -4290,15 +4290,15 @@
         <item name="android:layout_marginStart">0.0dip</item>
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
-    <style name="PreferenceFragmentListSinglePane" parent="@android:style/wifi_item_label">
+    <style name="PreferenceFragmentListSinglePane" parent="@android:style/PreferenceFragmentList">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:paddingStart">@dimen/settings_side_margin</item>
         <item name="android:paddingEnd">@dimen/settings_side_margin</item>
         <item name="android:layout_marginStart">0.0dip</item>
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
-    <style name="SettingsPreferenceHeaderPanel" parent="@android:style/Widget.DeviceDefault.Spinner.DropDown.ActionBar" />
-    <style name="SettingsPreferenceHeaderList" parent="@android:style/wifi_section" />
+    <style name="SettingsPreferenceHeaderPanel" parent="@android:style/PreferenceHeaderPanel" />
+    <style name="SettingsPreferenceHeaderList" parent="@android:style/PreferenceHeaderList" />
     <style name="TrustedCredentialsList">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:layout_width">fill_parent</item>
@@ -4352,7 +4352,7 @@
     <style name="wifi_item_warning">
         <item name="android:textAppearance">@android:style/TextAppearance.Material.Body1</item>
         <item name="android:textSize">12.0sp</item>
-        <item name="android:textColor">@null</item>
+        <item name="android:textColor">?android:colorError</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="android:paddingStart">8.0dip</item>
     </style>
@@ -4390,7 +4390,7 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
-    <style name="ConfirmDeviceCredentialsAnimationStyle" parent="@android:style/Animation.VolumePanel">
+    <style name="ConfirmDeviceCredentialsAnimationStyle" parent="@android:style/Animation.Material.Activity">
         <item name="android:activityOpenEnterAnimation">@anim/confirm_credential_open_enter</item>
         <item name="android:activityOpenExitAnimation">@anim/confirm_credential_open_exit</item>
     </style>
@@ -4454,7 +4454,7 @@
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
     <style name="TextAppearance.FingerprintErrorText" parent="@android:style/TextAppearance.Material.Body1">
-        <item name="android:textColor">@null</item>
+        <item name="android:textColor">?android:colorError</item>
     </style>
     <style name="TextAppearance.SupportTitle" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textSize">24.0sp</item>
@@ -4469,7 +4469,7 @@
         <item name="android:icon">@drawable/ic_fingerprint_header</item>
     </style>
     <style name="TextAppearance.ConfirmDeviceCredentialsErrorText" parent="@android:style/TextAppearance.Material.Body1">
-        <item name="android:textColor">@null</item>
+        <item name="android:textColor">?android:colorError</item>
     </style>
     <style name="TextAppearance.Small.SwitchBar" parent="@style/TextAppearance.Small">
         <item name="android:textStyle">normal</item>
@@ -4502,7 +4502,7 @@
     </style>
     <style name="SupportEscalationCard">
         <item name="android:gravity">center</item>
-        <item name="android:background">@null</item>
+        <item name="android:background">?android:colorSecondary</item>
         <item name="android:minHeight">368.0dip</item>
         <item name="android:paddingStart">@dimen/support_escalation_card_padding_start</item>
         <item name="android:paddingEnd">@dimen/support_escalation_card_padding_end</item>
@@ -4520,7 +4520,7 @@
     </style>
     <style name="EntityHeader">
         <item name="android:gravity">center_horizontal</item>
-        <item name="android:background">@null</item>
+        <item name="android:background">?android:colorSecondary</item>
         <item name="android:paddingTop">16.0dip</item>
         <item name="android:paddingBottom">8.0dip</item>
         <item name="android:paddingStart">16.0dip</item>
@@ -4539,12 +4539,28 @@
         <item name="android:maxHeight">400.0dip</item>
         <item name="android:minWidth">0.0dip</item>
         <item name="android:minHeight">0.0dip</item>
+        <item name="android:paddingHorizontal">44.0dip</item>
     </style>
-    <style name="LockPatternStyle" />
-    <style name="LockPatternStyle.Dark" parent="@style/LockPatternStyle" />
-    <style name="LockPatternStyle.Dark.Work" parent="@style/LockPatternStyle.Dark" />
-    <style name="LockPatternStyle.Unlock" parent="@style/LockPatternStyle" />
-    <style name="LockPatternStyle.Setup" parent="@style/LockPatternStyle" />
+    <style name="LockPatternStyle">
+        <item name="android:errorColor">?android:colorError</item>
+        <item name="android:regularColor">@color/lock_pattern_view_regular_color</item>
+        <item name="android:successColor">@color/lock_pattern_view_success_color</item>
+    </style>
+    <style name="LockPatternStyle.Dark" parent="@style/LockPatternStyle">
+        <item name="android:regularColor">@color/lock_pattern_view_regular_color_dark</item>
+        <item name="android:successColor">@color/lock_pattern_view_regular_color_dark</item>
+    </style>
+    <style name="LockPatternStyle.Dark.Work" parent="@style/LockPatternStyle.Dark">
+        <item name="android:regularColor">@android:color/white</item>
+    </style>
+    <style name="LockPatternStyle.Unlock" parent="@style/LockPatternStyle">
+        <item name="android:regularColor">@color/unlock_pattern_view_regular_color</item>
+        <item name="android:successColor">@color/unlock_pattern_view_success_color</item>
+    </style>
+    <style name="LockPatternStyle.Setup" parent="@style/LockPatternStyle">
+        <item name="android:regularColor">@color/setup_lock_pattern_view_regular_color_light</item>
+        <item name="android:successColor">@color/setup_lock_pattern_view_success_color_light</item>
+    </style>
     <style name="LockPatternIconStyle" parent="@style/SuwGlifIcon">
         <item name="android:visibility">gone</item>
     </style>
@@ -4569,12 +4585,14 @@
     <style name="GlifTheme" parent="@style/SuwThemeGlif">
         <item name="android:windowBackground">?android:colorBackground</item>
         <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
         <item name="wifi_friction">@drawable/wifi_friction</item>
         <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
         <item name="preferenceBackgroundColor">?android:colorBackground</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_left_pressed</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
         <item name="ic_wps">@drawable/ic_wps_dark</item>
         <item name="setup_divider_color">@color/setup_divider_color_dark</item>
         <item name="side_margin">0.0dip</item>
@@ -4583,12 +4601,14 @@
     <style name="GlifTheme.Light" parent="@style/SuwThemeGlif.Light">
         <item name="android:windowBackground">?android:colorBackground</item>
         <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
         <item name="wifi_friction">@drawable/wifi_friction</item>
         <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
         <item name="preferenceBackgroundColor">?android:colorBackground</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_left_pressed</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
         <item name="ic_wps">@drawable/ic_wps_light</item>
         <item name="setup_divider_color">@color/setup_divider_color_light</item>
         <item name="side_margin">0.0dip</item>
@@ -4597,12 +4617,14 @@
     <style name="GlifV2Theme" parent="@style/SuwThemeGlifV2">
         <item name="android:windowBackground">?android:colorBackground</item>
         <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
         <item name="wifi_friction">@drawable/wifi_friction</item>
         <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
         <item name="preferenceBackgroundColor">?android:colorBackground</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_left_pressed</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
         <item name="ic_wps">@drawable/ic_wps_dark</item>
         <item name="setup_divider_color">@color/setup_divider_color_dark</item>
         <item name="side_margin">0.0dip</item>
@@ -4611,12 +4633,14 @@
     <style name="GlifV2Theme.Light" parent="@style/SuwThemeGlifV2.Light">
         <item name="android:windowBackground">?android:colorBackground</item>
         <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
         <item name="wifi_friction">@drawable/wifi_friction</item>
         <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
         <item name="preferenceBackgroundColor">?android:colorBackground</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_left_pressed</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
         <item name="ic_wps">@drawable/ic_wps_light</item>
         <item name="setup_divider_color">@color/setup_divider_color_light</item>
         <item name="side_margin">0.0dip</item>
@@ -4672,6 +4696,12 @@
         <item name="android:statusBarColor">@color/statusbar_color</item>
         <item name="android:navigationBarColor">@color/navigation_bar_bg</item>
         <item name="android:windowLightStatusBar">true</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
+        <item name="android:preferenceFragmentListStyle">@style/PreferenceFragmentListSinglePane</item>
+        <item name="android:preferenceFragmentPaddingSide">@dimen/settings_side_margin</item>
+        <item name="android:preferenceHeaderPanelStyle">@style/PreferenceHeaderPanelSinglePane</item>
+        <item name="android:preferenceListStyle">@style/PreferenceHeaderListSinglePane</item>
+        <item name="android:preferencePanelStyle">@style/PreferencePanelSinglePane</item>
         <item name="mzSplitActionBarFloat">true</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
         <item name="wifi_friction">@drawable/wifi_friction</item>
@@ -4681,7 +4711,7 @@
         <item name="switchBarTheme">@style/ThemeOverlay.SwitchBar.Settings</item>
         <item name="preferenceBackgroundColor">@drawable/preference_background</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_left_generic</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_holo_dark</item>
         <item name="ic_wps">@drawable/ic_wps_light</item>
         <item name="side_margin">@dimen/settings_side_margin</item>
         <item name="wifi_signal_color">?android:colorAccent</item>
@@ -4713,23 +4743,24 @@
     <style name="ThemeOverlay.SwitchBar.Settings" parent="@android:style/ThemeOverlay.Material.ActionBar">
         <item name="switchBarMarginStart">@dimen/switchbar_subsettings_margin_start</item>
         <item name="switchBarMarginEnd">@dimen/switchbar_subsettings_margin_end</item>
-        <item name="switchBarBackgroundColor">@null</item>
+        <item name="switchBarBackgroundColor">?android:colorSecondary</item>
     </style>
     <style name="ThemeOverlay.SwitchBar.SubSettings" parent="@android:style/ThemeOverlay.Material.ActionBar">
         <item name="switchBarMarginStart">@dimen/switchbar_subsettings_margin_start</item>
         <item name="switchBarMarginEnd">@dimen/switchbar_subsettings_margin_end</item>
-        <item name="switchBarBackgroundColor">@null</item>
+        <item name="switchBarBackgroundColor">?android:colorSecondary</item>
     </style>
     <style name="Theme.CryptKeeper" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:background">@android:color/black</item>
         <item name="android:windowTranslucentStatus">false</item>
         <item name="android:windowTranslucentNavigation">false</item>
         <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Unlock</item>
     </style>
     <style name="ThemeOverlay.AlertDialog" parent="@android:style/ThemeOverlay.Material.Dialog.Alert">
         <item name="android:windowSoftInputMode">adjustResize</item>
     </style>
-    <style name="Theme.AlertDialog" parent="@android:style/Widget.Holo.Spinner.DropDown.ActionBar">
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.DeviceDefault.Settings.Dialog.Alert">
         <item name="android:windowSoftInputMode">adjustResize</item>
         <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
     </style>
@@ -4747,11 +4778,13 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowAnimationStyle">@style/ConfirmDeviceCredentialsAnimationStyle</item>
         <item name="android:windowActionBar">false</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Dark</item>
         <item name="confirmDeviceCredentialsSideMargin">32.0dip</item>
         <item name="confirmDeviceCredentialsTopMargin">32.0dip</item>
     </style>
     <style name="Theme.ConfirmDeviceCredentialsWork" parent="@style/Theme.ConfirmDeviceCredentialsDark">
         <item name="android:colorAccent">@android:color/white</item>
+        <item name="android:lockPatternStyle">@style/LockPatternStyle.Dark.Work</item>
     </style>
     <style name="Theme.FingerprintEnroll" parent="@style/SuwThemeGlif.Light">
         <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.Material.Body1</item>

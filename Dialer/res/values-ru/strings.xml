@@ -142,20 +142,12 @@
     <string name="clearFrequentsConfirmation">Список популярных контактов в приложениях \"Контакты\" и \"Телефон\" будет очищен, и почтовые приложения начнут заносить в него данные заново.</string>
     <string name="clearFrequentsConfirmation_title">Очистить избранные контакты?</string>
     <string name="clearFrequentsProgress_title">Очистка избранных контактов…</string>
-    <string name="common_last_name_prefixes"/>
-    <string name="common_name_conjunctions"/>
-    <string name="common_name_prefixes"/>
-    <string name="common_name_suffixes"/>
     <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
     <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
     <string name="composer_not_initialized">Сбой при запуске редактора vCard</string>
-    <string name="config_export_extensions_to_consider"/>
     <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_file_prefix"/>
-    <string name="config_export_file_suffix"/>
     <string name="config_export_vcard_type">по умолчанию</string>
     <string name="config_import_vcard_type">по умолчанию</string>
-    <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_export_message">Список контактов будет экспортирован в файл: %s</string>
     <string name="confirm_export_title">Экспортировать контакты?</string>
     <string name="connections">Соцсети</string>
@@ -284,7 +276,7 @@
     <string name="error_success_missing_count" formatted="false">Детали: %s успешно, %s неудачно</string>
     <string name="event_edit_field_hint_text">Дата</string>
     <string name="eventLabelsGroup">Значимые даты</string>
-    <string name="eventTypeLunarBirthday">Лунный день рожд.</string>
+    <string name="eventTypeLunarBirthday">День рождения по лунному календарю</string>
     <string name="expand_collapse_name_fields_description">Показать/скрыть дополнительные поля</string>
     <string name="expanding_entry_card_view_see_all">Показать все</string>
     <string name="expanding_entry_card_view_see_less">Свернуть</string>
@@ -352,9 +344,6 @@
     <string name="header_photo_entry">Фото</string>
     <string name="header_relation_entry">Отношение</string>
     <string name="header_website_entry">Веб-сайт</string>
-    <string name="help_url_people_add"/>
-    <string name="help_url_people_edit"/>
-    <string name="help_url_people_main"/>
     <string name="hint_findContacts">Поиск контактов</string>
     <string name="home">SIM 2</string>
     <string name="hw_version">Аппаратная версия</string>
@@ -413,71 +402,71 @@
     <string name="map_other">Посмотреть адрес</string>
     <string name="map_work">Посмотреть рабочий адрес</string>
     <string name="mc_action_settings">Настройки</string>
-    <string name="mc_allow">Разрешить</string>
+    <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
     <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_one_day_after">1 день спустя</string>
     <string name="mc_custom_date_time_one_day_before">1 день назад</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
-    <string name="mc_description_target_answer">Принять</string>
+    <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка: %1$s</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hello_world">Привет Мир!</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">только что</string>
-    <string name="mc_last_refresh_minute">м. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 ч. назад</string>
-    <string name="mc_pattern_a_minute_before">1 м. назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
-    <string name="mc_pattern_minute_before">, м. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%d.%m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%d.%m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%d.%m %I:%M %p</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %d.%m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %d.%m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%m.%Yг.</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%d.%m.%Yг.</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%d.%m.%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%d.%m.%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -487,7 +476,7 @@
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -507,17 +496,17 @@
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%d.%m</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%d.%m.%Yг.</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -530,7 +519,7 @@
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="meid">MEID</string>
     <string name="menu_accounts">Аккаунты</string>
     <string name="menu_add_contact">Добавить в контакты</string>
@@ -595,8 +584,8 @@
     <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
-    <string name="mz_date_time_min">м.</string>
-    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
@@ -645,7 +634,7 @@
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
-    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Пожалуйста, проверьте настройки.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzc_account_name_base">SIM</string>
     <string name="mzc_account_name_home">SIM 2</string>
@@ -697,7 +686,6 @@
     <string name="mzc_change_label">Изменить ярлык</string>
     <string name="mzc_clear_call_log">Очистить журнал вызовов</string>
     <string name="mzc_config_export_dir">/sdcard</string>
-    <string name="mzc_config_export_file_suffix"/>
     <string name="mzc_config_export_sd_file_suffix">sd</string>
     <string name="mzc_contact_edit_create_insert_group">Создать и вставить</string>
     <string name="mzc_contact_edit_custom_label">Свой</string>
@@ -790,7 +778,7 @@
     <string name="mzc_enterprise_call">Веб-вызов в службу поддержки</string>
     <string name="mzc_enterprise_call_label">Веб-вызов компании</string>
     <string name="mzc_enterprise_call_message">Визуальное меню</string>
-    <string name="mzc_error_correction">Ошибка правки</string>
+    <string name="mzc_error_correction">Изменить</string>
     <string name="mzc_error_success_missing_count" formatted="false">Подробности: %d успешно, %d неудачно</string>
     <string name="mzc_eventLabelsGroup">Дата</string>
     <string name="mzc_eventTypeAnniversary">Юбилей</string>
@@ -1314,62 +1302,62 @@
     <string name="sms_work_pager">SMS: рабочий пейджер</string>
     <string name="social_widget_label">Контакт</string>
     <string name="social_widget_loading">Загрузка…</string>
-    <string name="socialProfileTypeCustom">Настройка пользователя</string>
+    <string name="socialProfileTypeCustom">Пользовательский</string>
     <string name="socialProfileTypeOther">Другое</string>
     <string name="socialProfileTypeSinaWeibo">Sina Weibo</string>
     <string name="sounds_and_vibrate_category_title">Звук и вибросигнал</string>
-    <string name="specail_number_anbang">Анбанг Имущество Страхование Лтд</string>
-    <string name="specail_number_dadi">Китай Дади Имущество Страхование Лтд</string>
-    <string name="specail_number_debon">Дебон Лоджистикс</string>
-    <string name="specail_number_dhl">Синотранс DHL</string>
-    <string name="specail_number_dianli">Национальная энергетическая компания</string>
-    <string name="specail_number_dianxin">中国电信客服热线</string>
+    <string name="specail_number_anbang">安邦财产保险股份有限公司</string>
+    <string name="specail_number_dadi">Имущественное страхование Китая Лтд</string>
+    <string name="specail_number_debon">德邦物流</string>
+    <string name="specail_number_dhl">中外运敦豪</string>
+    <string name="specail_number_dianli">Национальное правительство</string>
+    <string name="specail_number_dianxin">Горячая линия для клиентов China Telecom</string>
     <string name="specail_number_dishui">地税纳税服务热线</string>
     <string name="specail_number_doubang">都邦财产保险股份有限公司</string>
     <string name="specail_number_ems">中国邮政特快专递</string>
     <string name="specail_number_federal">联邦快递</string>
-    <string name="specail_number_gongshang">中国工商银行</string>
+    <string name="specail_number_gongshang">Промышленно-коммерческий банк Китая</string>
     <string name="specail_number_gongyi">政府公益服务热线</string>
-    <string name="specail_number_guangda">中国光大银行</string>
+    <string name="specail_number_guangda">Everbright Bank (Китай)</string>
     <string name="specail_number_guangfazhan">广东发展银行</string>
     <string name="specail_number_hezhong">合众人寿保险股份有限公司</string>
     <string name="specail_number_huaan">华安财产保险股份有限公司</string>
-    <string name="specail_number_huanbao">环保监督服务热线</string>
+    <string name="specail_number_huanbao">Горячая линия Службы экологического надзора</string>
     <string name="specail_number_huatai">华泰财产保险股份有限公司</string>
     <string name="specail_number_huaxia">华夏银行</string>
-    <string name="specail_number_jiage">价格监督服务热线</string>
-    <string name="specail_number_jianbao">中国人民健康保险股份有限公司</string>
+    <string name="specail_number_jiage">Горячая линия антимонапольной службы</string>
+    <string name="specail_number_jianbao">Медицинское Страхование Китая Лтд</string>
     <string name="specail_number_jianshe">中国建设银行</string>
     <string name="specail_number_jiaotong">中国交通银行</string>
     <string name="specail_number_jubao">机构编制违规举报热线</string>
     <string name="specail_number_laodong">劳动者维权服务热线</string>
     <string name="specail_number_lianhe">中华联合财产保险公司</string>
-    <string name="specail_number_liantong">中国联通客服热线</string>
-    <string name="specail_number_meizu">魅族客服热线</string>
+    <string name="specail_number_liantong">Горячая линия для клиентов China Unicom</string>
+    <string name="specail_number_meizu">Горячая линия для клиентов Meizu</string>
     <string name="specail_number_minsheng">中国民生银行</string>
-    <string name="specail_number_nongye">中国农业银行</string>
+    <string name="specail_number_nongye">Сельскохозяйственный банк Китая</string>
     <string name="specail_number_pinganbaoxian">中国平安保险（集团）股份有限公司</string>
     <string name="specail_number_pingancaibao">中国平安财产保险股份公司</string>
     <string name="specail_number_pudong">上海浦东发展银行</string>
     <string name="specail_number_quanyi">全一快递</string>
     <string name="specail_number_renbao">中国人民保险公司</string>
-    <string name="specail_number_renbaogufeng">民生人寿保险股份有限公司</string>
+    <string name="specail_number_renbaogufeng">Миншэн Life Insurance Co., Ltd.</string>
     <string name="specail_number_renshou">中国人寿保险公司</string>
     <string name="specail_number_shenfazhan">深圳发展银行</string>
     <string name="specail_number_shunfeng">顺丰速运</string>
-    <string name="specail_number_sifa">司法服务热线</string>
-    <string name="specail_number_taibao">太平人寿保险有限公司</string>
+    <string name="specail_number_sifa">Горячая линия судебной службы</string>
+    <string name="specail_number_taibao">Страхование Жизни Лтд</string>
     <string name="specail_number_taikang">泰康人寿保险公司</string>
     <string name="specail_number_tianan">天安保险股份有限公司</string>
-    <string name="specail_number_tianqi">天气预报</string>
-    <string name="specail_number_tietong">中国铁通客服热线</string>
+    <string name="specail_number_tianqi">Прогноз погоды</string>
+    <string name="specail_number_tietong">Горячая линия для клиентов China Railcom</string>
     <string name="specail_number_tnt">中外运天地</string>
     <string name="specail_number_ups">UPS</string>
-    <string name="specail_number_xiaofeizhe">消费者协会服务热线</string>
+    <string name="specail_number_xiaofeizhe">Горячая линия Ассоциации потребителей</string>
     <string name="specail_number_xingye">兴业银行</string>
     <string name="specail_number_xinhua">新华人寿保险公司</string>
     <string name="specail_number_yangguang">阳光财产保险股份有限公司</string>
-    <string name="specail_number_yidong">中国移动客服热线</string>
+    <string name="specail_number_yidong">Горячая линия для клиентов China Mobile</string>
     <string name="specail_number_yinlian">中国银联股份有限公司</string>
     <string name="specail_number_yongan">永安财产保险股份有限公司</string>
     <string name="specail_number_youzheng">中国邮政储蓄银行</string>
@@ -1378,7 +1366,7 @@
     <string name="specail_number_zhaoshangbank">招商银行</string>
     <string name="specail_number_zhiliang">质量监督服务热线</string>
     <string name="specail_number_zhongguo">中国银行</string>
-    <string name="specail_number_zhongxin">Китай CITIC Банк</string>
+    <string name="specail_number_zhongxin">中信银行</string>
     <string name="speed_dial_empty">Настройте быстрый набор, чтобы вам было удобнее звонить на часто используемые номера.</string>
     <string name="splitConfirmation">Этот контакт будет разделён на несколько.</string>
     <string name="splitConfirmation_title">Разделить контакт?</string>

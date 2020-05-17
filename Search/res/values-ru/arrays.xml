@@ -23,14 +23,14 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
-    <string-array name="m">
+    <string-array name="l">
         <item>Реклама</item>
         <item>Устаревший контент</item>
         <item>Порнографии</item>
         <item>Кликбейт</item>
         <item>Ложь</item>
     </string-array>
-    <string-array name="n">
+    <string-array name="m">
         <item>Реклама</item>
         <item>Порнографии</item>
         <item>Ложь</item>

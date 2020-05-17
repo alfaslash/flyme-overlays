@@ -44,7 +44,7 @@
         <item>Агенство недвижимости</item>
         <item>Доставка и заказы</item>
         <item>Страхование и Финансы</item>
-        <item>@string/yp_mark_user_defined</item>
-        <item>@string/yp_mark_clear_tag</item>
+        <item>Пользовательский</item>
+        <item>Удалить тег</item>
     </string-array>
 </resources>

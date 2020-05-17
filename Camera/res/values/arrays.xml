@@ -76,6 +76,18 @@
         <item>@drawable/mz_ic_tab_48m_off</item>
         <item>@drawable/mz_ic_tab_48m_on</item>
     </array>
+    <array name="camera_manual_64m_icons">
+        <item>@drawable/mz_ic_tab_64m_off</item>
+        <item>@drawable/mz_ic_tab_64m_on</item>
+    </array>
+    <array name="camera_manual_64m_icons_pressed">
+        <item>@drawable/mz_ic_tab_64m_off</item>
+        <item>@drawable/mz_ic_tab_64m_on</item>
+    </array>
+    <array name="camera_manual_64m_images">
+        <item>@drawable/mz_ic_tab_64m_off</item>
+        <item>@drawable/mz_ic_tab_64m_on</item>
+    </array>
     <string-array name="camera_time_lapse_entries">
         <item>@string/pref_camera_timelapse_entry_0.5s</item>
         <item>@string/pref_camera_timelapse_entry_1s</item>
@@ -142,12 +154,6 @@
     <array name="camera_tripod_images">
         <item>@drawable/mz_ic_tab_tripod_off</item>
         <item>@drawable/mz_ic_tab_tripod_on</item>
-    </array>
-    <array name="lockscreen_launch_images">
-        <item>@drawable/mz_lockscreen_launch_16_9</item>
-        <item>@drawable/mz_lockscreen_launch_16_9_nav</item>
-        <item>@drawable/mz_lockscreen_launch_18_9</item>
-        <item>@drawable/mz_lockscreen_launch_18_9_nav</item>
     </array>
     <array name="mc_colorful_round">
         <item>#ff43b56b</item>
@@ -419,35 +425,12 @@
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
     </array>
-    <string-array name="mz_10s_shutter_speed_filter_values">
-        <item>0</item>
-        <item>2000</item>
-        <item>200000</item>
-        <item>1000000</item>
-        <item>10000000</item>
-    </string-array>
-    <string-array name="mz_120s_shutter_speed_filter_values">
-        <item>0</item>
-        <item>2000</item>
-        <item>200000</item>
-        <item>1000000</item>
-        <item>20000000</item>
-        <item>120000000</item>
-    </string-array>
     <string-array name="mz_20s_shutter_speed_filter_values">
         <item>0</item>
         <item>1000</item>
         <item>100000</item>
         <item>1000000</item>
         <item>20000000</item>
-    </string-array>
-    <string-array name="mz_420s_shutter_speed_filter_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>300000</item>
-        <item>1000000</item>
-        <item>20000000</item>
-        <item>420000000</item>
     </string-array>
     <string-array name="mz_aicy_content_values">
         <item>@string/mz_aicy_asd_content</item>
@@ -498,6 +481,19 @@
         <item>0.0026406429f</item>
         <item>0.0006314581f</item>
         <item>0f</item>
+    </string-array>
+    <string-array name="mz_barcode_auto_other_app_name">
+        <item>@string/mz_barcode_auto_app_name_qq</item>
+        <item>@string/mz_barcode_auto_app_name_bili</item>
+        <item>@string/mz_barcode_auto_app_name_reading</item>
+        <item>@string/mz_barcode_auto_app_name_cloud_music</item>
+        <item>@string/mz_barcode_auto_app_name_zhihu</item>
+        <item>@string/mz_barcode_auto_app_name_dingtalk</item>
+        <item>@string/mz_barcode_auto_app_name_article_news</item>
+        <item>@string/mz_barcode_auto_app_name_article_video</item>
+        <item>@string/mz_barcode_auto_app_name_taobao</item>
+        <item>@string/mz_barcode_auto_app_name_weibo</item>
+        <item>@string/mz_barcode_auto_app_name_weibolite</item>
     </string-array>
     <string-array name="mz_camera2__shutter_speed_filter_values">
         <item>0</item>
@@ -578,15 +574,6 @@
         <item>0</item>
         <item>12</item>
     </string-array>
-    <string-array name="mz_m71c_iso_entry">
-        <item>@string/auto</item>
-        <item>HJR</item>
-        <item>100</item>
-        <item>200</item>
-        <item>400</item>
-        <item>800</item>
-        <item>1600</item>
-    </string-array>
     <string-array name="mz_m80_exposure_filter_values">
         <item>-3.0</item>
         <item>0.0</item>
@@ -608,6 +595,14 @@
         <item>@string/setting_off_value</item>
         <item>@string/setting_on_value</item>
     </string-array>
+    <string-array name="mz_manual_64m_entries">
+        <item>@string/pref_camera_toggle_on</item>
+        <item>@string/pref_camera_toggle_off</item>
+    </string-array>
+    <string-array name="mz_manual_64m_entryvalues">
+        <item>@string/setting_off_value</item>
+        <item>@string/setting_on_value</item>
+    </string-array>
     <string-array name="mz_on_off_entryvalues">
         <item>@string/setting_off_value</item>
         <item>@string/setting_on_value</item>
@@ -620,14 +615,6 @@
         <item>800</item>
         <item>1600</item>
         <item>3200</item>
-    </string-array>
-    <string-array name="mz_stereo_camera_entries">
-        <item>@string/pref_camera_toggle_off</item>
-        <item>@string/pref_camera_toggle_on</item>
-    </string-array>
-    <string-array name="mz_stereo_camera_entryvalues">
-        <item>@string/setting_off_value</item>
-        <item>@string/setting_on_value</item>
     </string-array>
     <string-array name="mz_storage_entryvalues">
         <item>sdcard</item>

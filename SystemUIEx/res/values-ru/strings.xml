@@ -82,7 +82,7 @@
     <string name="bluetooth_pairing">Pairing...</string>
     <string name="bluetooth_pairing_accept">Pair</string>
     <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
-    <string name="bluetooth_pairing_decline">Cancel</string>
+    <string name="bluetooth_pairing_decline">Отмена</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with “%1$s”."</string>
     <string name="bluetooth_pairing_error_message">"Couldn't pair with “%1$s”."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
@@ -131,7 +131,7 @@ Sample Rate"</string>
     <string name="bugreport_in_power">Bug report shortcut</string>
     <string name="bugreport_in_power_summary">Show a button in the power menu for taking a bug report</string>
     <string name="button_convert_fbe">Wipe and convert…</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Отмена</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Work</string>
     <string name="charge_length_format">%1$s ago</string>
@@ -159,7 +159,7 @@ Sample Rate"</string>
     <string name="daltonizer_type_overridden">Overridden by %1$s</string>
     <string name="data_usage_uninstalled_apps">Removed apps</string>
     <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
-    <string name="date_time_set">Настроить</string>
+    <string name="date_time_set">Установить</string>
     <string name="debug_app">Select debug app</string>
     <string name="debug_app_not_set">No debug application set</string>
     <string name="debug_app_set">Debugging application: %1$s</string>
@@ -196,7 +196,7 @@ Sample Rate"</string>
     <string name="drivemode_customized">Customized</string>
     <string name="drivemode_customized_details">You can choose maps and music apps you like</string>
     <string name="drivemode_dialog_notification_access_message">Message</string>
-    <string name="drivemode_dialog_notification_access_negative">Cancel</string>
+    <string name="drivemode_dialog_notification_access_negative">Отмена</string>
     <string name="drivemode_dialog_notification_access_positive">OK</string>
     <string name="drivemode_dialog_notification_access_title">Title</string>
     <string name="drivemode_disagree">Disagree</string>
@@ -304,73 +304,73 @@ Sample Rate"</string>
     <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
     <string name="managed_user_title">All work apps</string>
     <string name="mc_action_settings">Настройки</string>
-    <string name="mc_allow">Разрешить</string>
+    <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_cancel_button_text">Отмена</string>
-    <string name="mc_cancel_collected_message">Отменено</string>
-    <string name="mc_cancel_praised_message">Отменить</string>
-    <string name="mc_change_num">Обновление</string>
+    <string name="mc_cancel_button_text">Отменить</string>
+    <string name="mc_cancel_collected_message">Удалено из избранного</string>
+    <string name="mc_cancel_praised_message">Убрать из избранного</string>
+    <string name="mc_change_num">Обновить</string>
     <string name="mc_collected_message">Избранное</string>
-    <string name="mc_custom_date_time_day_after">дн. спустя</string>
-    <string name="mc_custom_date_time_day_before">дн. назад</string>
+    <string name="mc_custom_date_time_day_after">дн. назад</string>
+    <string name="mc_custom_date_time_day_before">дн. спустя</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
-    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный календарь</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть лунный календарь</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
-    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
-    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать григорианский календарь</string>
+    <string name="mc_custom_date_time_show_lunar">Показать лунный календарь</string>
     <string name="mc_custom_date_time_today">Сегодня</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
-    <string name="mc_date_time_min">м.</string>
-    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_min">мин.</string>
+    <string name="mc_date_time_month">мес.</string>
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
-    <string name="mc_description_target_answer">Принять</string>
+    <string name="mc_description_target_answer">Ответ</string>
     <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_disable">Отключить</string>
+    <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка: %1$s</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
     <string name="mc_last_refresh_just_now">только что</string>
-    <string name="mc_last_refresh_minute">м. назад</string>
-    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">м.</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Один раз</string>
-    <string name="mc_pattern_a_hour_before">1 ч. назад</string>
-    <string name="mc_pattern_a_minute_before">1 м. назад</string>
+    <string name="mc_pattern_a_hour_before">час назад</string>
+    <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
-    <string name="mc_pattern_minute_before">, м. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%d.%m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%d.%m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%d.%m %I:%M %p</string>
+    <string name="mc_pattern_minute_before">, мин. назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %d.%m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %d.%m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%m.%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%d.%m.%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%d.%m.%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%d.%m.%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
-    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
@@ -380,7 +380,7 @@ Sample Rate"</string>
     <string name="mc_pm_contacts">Чтение контактов</string>
     <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
-    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_dlg_ok">OK</string>
     <string name="mc_pm_location">Геолокация</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
@@ -400,17 +400,17 @@ Sample Rate"</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%d.%m</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%d.%m.%Y</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -423,7 +423,7 @@ Sample Rate"</string>
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-    <string name="mc_yes">ОК</string>
+    <string name="mc_yes">OK</string>
     <string name="media_category">Media</string>
     <string name="mobile_data_always_on">Cellular data always active</string>
     <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
@@ -439,8 +439,8 @@ Sample Rate"</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
-    <string name="mz_date_time_min">м.</string>
-    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
@@ -484,7 +484,7 @@ Sample Rate"</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Разрешить доступ</string>
     <string name="mz_specific_permission_deny">Запретить доступ</string>
-    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Проверьте настройки.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="no">No</string>
     <string name="no_application">Nothing</string>
@@ -673,7 +673,7 @@ Sample Rate"</string>
     <string name="wifi_automatically_connect_title">Use open WLAN automatically</string>
     <string name="wifi_band_24ghz">2.4GHz</string>
     <string name="wifi_band_5ghz">5GHz</string>
-    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_cancel">Отмена</string>
     <string name="wifi_cant_connect">"Can't connect"</string>
     <string name="wifi_cant_connect_to_ap">"Can't connect to '%1$s'"</string>
     <string name="wifi_certinstall">Install or view certificate</string>
@@ -773,7 +773,7 @@ Sample Rate"</string>
     <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
     <string name="wifi_security">Security</string>
     <string name="wifi_security_eap">802.1x EAP</string>
-    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_none">Нет</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_wep">WEP</string>
@@ -790,23 +790,23 @@ Sample Rate"</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_select_assistant_dialog_title">Choose assistant</string>
-    <string name="wifi_select_network">Select WLAN</string>
+    <string name="wifi_select_network">Выбор Wi-Fi</string>
     <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
     <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
     <string name="wifi_setting_frequency_band_title">WLAN frequency band</string>
     <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
     <string name="wifi_setting_sleep_policy_title">Keep WLAN on during sleep</string>
-    <string name="wifi_settings">WLAN</string>
-    <string name="wifi_settings_category">WLAN settings</string>
-    <string name="wifi_setup_wps">Auto setting (WPS)</string>
-    <string name="wifi_show_advanced">Advanced options</string>
-    <string name="wifi_show_password">Show password</string>
+    <string name="wifi_settings">Wi-Fi</string>
+    <string name="wifi_settings_category">Настройки Wi-Fi</string>
+    <string name="wifi_setup_wps">Автонастройка (WPS)</string>
+    <string name="wifi_show_advanced">Расширенные настройки</string>
+    <string name="wifi_show_password">Показать пароль</string>
     <string name="wifi_signal">Signal strength</string>
-    <string name="wifi_speed">Speed</string>
-    <string name="wifi_ssid">Name</string>
+    <string name="wifi_speed">Скорость</string>
+    <string name="wifi_ssid">Имя</string>
     <string name="wifi_ssid_hint">Enter the SSID</string>
     <string name="wifi_starting">Turning on WLAN…</string>
-    <string name="wifi_status">Status</string>
+    <string name="wifi_status">Статус</string>
     <string name="wifi_stopping">Turning off WLAN…</string>
     <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
     <string name="wifi_tether_checkbox_text">Portable WLAN hotspot</string>
@@ -833,5 +833,5 @@ Sample Rate"</string>
     <string name="wifi_wps_onstart_pin">Enter pin %1$s on your WLAN router. The setup can take up to two minutes to complete.</string>
     <string name="wifi_wps_setup_msg">Enabling WPS…</string>
     <string name="window_animation_scale_title">Window animation scale</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Да</string>
 </resources>

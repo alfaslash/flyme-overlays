@@ -1192,11 +1192,11 @@ Encryption takes an hour or more. You must start with a charged battery and keep
     <string name="crypt_keeper_warn_wipe">Warning: your device will be wiped after ^1 more times of failed unlocking attempts</string>
     <string name="crypt_keeper_enter_password">Type your password</string>
     <string name="crypt_keeper_failed_title">Encryption failed</string>
-    <string name="crypt_keeper_failed_summary">"Encryption was interrupted and can’t complete. As a result, the data on your phone is no longer accessible.
+    <string name="crypt_keeper_failed_summary">"Encryption was interrupted and can’t complete. As a result, the data on your phone is no longer accessible. 
 
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you’ll have an opportunity to restore any data that was backed up to your Google Account."</string>
     <string name="crypt_keeper_data_corrupt_title">Decryption failed</string>
-    <string name="crypt_keeper_data_corrupt_summary">"The password you entered is correct, but unfortunately your data is corrupt.
+    <string name="crypt_keeper_data_corrupt_summary">"The password you entered is correct, but unfortunately your data is corrupt. 
 
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you’ll have an opportunity to restore any data that was backed up to your Google Account."</string>
     <string name="crypt_keeper_switch_input_method">Switch input method</string>
@@ -1824,32 +1824,32 @@ Possibly incorrect PIN."</string>
     <string name="storage_format_success">%1$s is formatted</string>
     <string name="storage_format_failure">Couldn’t format %1$s</string>
     <string name="storage_rename_title">Rename storage</string>
-    <string name="storage_dialog_unmounted">"This ^1 is safely ejected, but still available.
+    <string name="storage_dialog_unmounted">"This ^1 is safely ejected, but still available. 
 
 To use this ^1, you have to mount it first."</string>
-    <string name="storage_dialog_unmountable">"This ^1 is corrupted.
+    <string name="storage_dialog_unmountable">"This ^1 is corrupted. 
 
 To use this ^1, you have to set it up first."</string>
-    <string name="storage_dialog_unsupported">"This device doesn’t support this ^1.
+    <string name="storage_dialog_unsupported">"This device doesn’t support this ^1. 
 
 To use this ^1 with this device, you have to set it up first."</string>
-    <string name="storage_internal_format_details">"After formatting, you can use this^1 in other devices.
+    <string name="storage_internal_format_details">"After formatting, you can use this^1 in other devices. 
 
-All data on this ^1 will be erased. Consider backing up first.
+All data on this ^1 will be erased. Consider backing up first. 
 
-"<b>Back up photos &amp; other media</b>"
-Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable.
+"<b>Back up photos &amp; other media</b>" 
+Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
 
-"<b>Back up apps</b>"
+"<b>Back up apps</b>" 
 All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
-    <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>"
+    <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>" 
 
 This ^1 is formatted to work on this device only. It won’t work on any others."</string>
-    <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it.
+    <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
 
-Alternatively, you can choose to forget this storage if the device isn’t available.
+Alternatively, you can choose to forget this storage if the device isn’t available. 
 
-If you choose to forget, all the data the device contains will be lost forever.
+If you choose to forget, all the data the device contains will be lost forever. 
 
 You can reinstall the apps later, but their data stored on this device will be lost."</string>
     <string name="storage_internal_forget_confirm_title">Forget ^1?</string>
@@ -1862,11 +1862,11 @@ You can reinstall the apps later, but their data stored on this device will be l
     <string name="storage_detail_other">Other</string>
     <string name="storage_detail_system">System</string>
     <string name="storage_detail_explore">Explore ^1</string>
-    <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on.
+    <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on. 
 
 To see the visible contents of this ^1, tap Explore."</string>
     <string name="storage_detail_dialog_system">System includes files used to run Android version %s</string>
-    <string name="storage_detail_dialog_user">"^1 may have saved photos, music, apps, or other data, using ^2 of storage.
+    <string name="storage_detail_dialog_user">"^1 may have saved photos, music, apps, or other data, using ^2 of storage. 
 
 To view details, switch to ^1."</string>
     <string name="storage_wizard_init_title">Set up your ^1</string>
@@ -1875,20 +1875,20 @@ To view details, switch to ^1."</string>
     <string name="storage_wizard_init_internal_title">Use as internal storage</string>
     <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
     <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
-    <string name="storage_wizard_format_confirm_body">"This requires the ^1 to be formatted to make it secure.
+    <string name="storage_wizard_format_confirm_body">"This requires the ^1 to be formatted to make it secure. 
 
-After formatting, this ^1 will only work in this device.
+After formatting, this ^1 will only work in this device. 
 
 "<b>Formatting erases all data currently stored on the ^1.</b>" To avoid losing the data, consider backing it up. "</string>
     <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
-    <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted.
+    <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
 
 "<b>Formatting erases all data currently stored on the ^1.</b>" To avoid losing the data, consider backing it up. "</string>
     <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
     <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
     <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
     <string name="storage_wizard_migrate_title">Move data to new storage</string>
-    <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1.
+    <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
 
 The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
     <string name="storage_wizard_migrate_now">Move now</string>
@@ -1897,27 +1897,27 @@ The move takes about ^2 and will free ^3 on internal storage. Some apps won’t 
     <string name="storage_wizard_migrate_confirm_body"><b>The move takes about ^1. It will free ^2 on ^3.</b></string>
     <string name="storage_wizard_migrate_confirm_next">Move</string>
     <string name="storage_wizard_migrate_progress_title">Moving data…</string>
-    <string name="storage_wizard_migrate_details">"During the move:
-• Don’t remove the ^1.
-• Some apps won’t work correctly.
+    <string name="storage_wizard_migrate_details">"During the move: 
+• Don’t remove the ^1. 
+• Some apps won’t work correctly. 
 • Keep the device charged."</string>
     <string name="storage_wizard_ready_title">^1 is ready</string>
     <string name="storage_wizard_ready_external_body">Your ^1 is all set to use with photos and other media.</string>
-    <string name="storage_wizard_ready_internal_body">"Your new ^1 is working.
+    <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
 
 To move photos, files, and app data to this device, go to Settings > Storage."</string>
     <string name="storage_wizard_move_confirm_title">Move ^1</string>
-    <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete.
+    <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
 
 Don’t remove the ^2 during the move."</string>
     <string name="storage_wizard_move_progress_title">Moving ^1…</string>
-    <string name="storage_wizard_move_progress_body">"Don’t remove the ^1 during the move.
+    <string name="storage_wizard_move_progress_body">"Don’t remove the ^1 during the move. 
 
 The ^2 app on this device won’t be available until the move is complete."</string>
     <string name="storage_wizard_move_progress_cancel">Cancel move</string>
-    <string name="storage_wizard_slow_body">"This ^1 appears to be slow.
+    <string name="storage_wizard_slow_body">"This ^1 appears to be slow. 
 
-You can continue, but apps moved to this location may stutter and data transfers may take a long time.
+You can continue, but apps moved to this location may stutter and data transfers may take a long time. 
 
 Consider using a faster ^1 for better performance."</string>
     <string name="battery_status_title">Battery status</string>
@@ -2949,7 +2949,7 @@ Tap "<b>Back</b> to connect to a different WLAN network.</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendar</string>
     <string name="sync_contacts">Contacts</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font>"
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font>" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. "</string>
     <string name="header_application_sync_settings">App sync settings</string>
     <string name="header_data_and_synchronization">Data and synchronization</string>
@@ -3574,7 +3574,7 @@ Any user can update apps for all other users."</string>
     <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
     <string name="no_notification_listeners">No Notification Listeners Installed</string>
     <string name="notification_listener_security_warning_title">Allow notification access for %1$s?</string>
-    <string name="notification_listener_security_warning_summary">"%1$s will be able to read all notifications, including personal information such as contact names and the text of messages you receive. It will also be able to dismiss notifications or trigger action buttons they contain.
+    <string name="notification_listener_security_warning_summary">"%1$s will be able to read all notifications, including personal information such as contact names and the text of messages you receive. It will also be able to dismiss notifications or trigger action buttons they contain. 
 
 This will also give the app the ability to turn Do Not Disturb on or off and change related settings."</string>
     <string name="notification_listener_disable_warning_summary">If you turn off notification access for %1$s, Do Not Disturb access may also be turned off.</string>
@@ -3717,13 +3717,13 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
     <string name="experimental_preference">(Experimental)</string>
     <string name="encryption_interstitial_header">Secure start-up</string>
     <string name="encryption_continue_button">Continue</string>
-    <string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+    <string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
 
 This helps protect data on lost or stolen devices. Require PIN to start your device?"</string>
-    <string name="encryption_interstitial_message_pattern">"You can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+    <string name="encryption_interstitial_message_pattern">"You can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
 
 This helps protect data on lost or stolen devices. Require pattern to start your device?"</string>
-    <string name="encryption_interstitial_message_password">"You can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+    <string name="encryption_interstitial_message_password">"You can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
 
 This helps protect data on lost or stolen devices. Require password to start your device?"</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
@@ -4350,7 +4350,7 @@ For more details, contact your organization's admin."</string>
     <string name="qr_code_share_notice">Please scan the QR code with Flyme camera to connect</string>
     <string name="wifi_proxy_ip_hint">0.0.0.0</string>
     <string name="wifi_proxy_port_hint">80</string>
-    <string name="wifi_wps_message_title">"Please press the \"WPS\" button
+    <string name="wifi_wps_message_title">"Please press the \"WPS\" button 
  on your router"</string>
     <string name="wifi_wps_btn_cancel">Cancel</string>
     <string name="wifi_wps_failed">WPS authentication failed, try again.</string>
@@ -4518,7 +4518,7 @@ For more details, contact your organization's admin."</string>
     <string name="wave_wake_tip">Please input voiceprint wakeup command:</string>
     <string name="wave_wake_tip_more_words">Overlength command, please input a command that has at least 3 syllables.</string>
     <string name="wave_wake_tip_lest_words">Insufficient command, please input a command that has at least 3 syllables.</string>
-    <string name="wave_wake_tip_create_success">"Voiceprint input successfully
+    <string name="wave_wake_tip_create_success">"Voiceprint input successfully 
  Please repeat your command for 3 times to verify"</string>
     <string name="wave_wake_tip_confirm">Please repeat for the %d time</string>
     <string name="wave_wake_tip_third">Voiceprint verified</string>
@@ -4689,11 +4689,11 @@ For more details, contact your organization's admin."</string>
     <string name="no_content">None</string>
     <string name="expenses_free">(free of charge)</string>
     <string name="settings_copyright_activity_title">Legal Statement</string>
-    <string name="copyright_text">"Meizu, MEIZU, MEIZU MX, M, and Flyme (hereinafter referred to as \"Meizu Trademarks\") are registered trademarks or trademarks of Zhuhai Meizu Technology Co., Ltd. (hereinafter referred to as \"Meizu\") in China and other countries or regions. The exclusive right to use the trademarks and the ownership of the design drawings thereof shall belong to Meizu. Nobody shall use Meizu Trademarks in any manner or modify or alter any part of Meizu Trademarks in any way or for any reason without prior written consent of Meizu.
+    <string name="copyright_text">"Meizu, MEIZU, MEIZU MX, M, and Flyme (hereinafter referred to as \"Meizu Trademarks\") are registered trademarks or trademarks of Zhuhai Meizu Technology Co., Ltd. (hereinafter referred to as \"Meizu\") in China and other countries or regions. The exclusive right to use the trademarks and the ownership of the design drawings thereof shall belong to Meizu. Nobody shall use Meizu Trademarks in any manner or modify or alter any part of Meizu Trademarks in any way or for any reason without prior written consent of Meizu. 
 
 In no event shall Meizu be liable for any indirect loss or loss of anticipated interest arising from the use of this product or related services provided by Meizu.
 
- Warning: This device ships with an open bootloader. Although it is possible to root this product, there are certain risks involved. Such risks include but are not limited to failure of Phone Finder, file loss, password disclosure, and decreased system performance and stability. Meizu shall not be held liable for any risk or consequence suffered from rooted devices. Customers and/or users must take careful consideration of this Warning and be solely liable for any loss or damage such incurred if customers and/or users decide to root this product.
+ Warning: This device ships with an open bootloader. Although it is possible to root this product, there are certain risks involved. Such risks include but are not limited to failure of Phone Finder, file loss, password disclosure, and decreased system performance and stability. Meizu shall not be held liable for any risk or consequence suffered from rooted devices. Customers and/or users must take careful consideration of this Warning and be solely liable for any loss or damage such incurred if customers and/or users decide to root this product. 
 
 All rights to third party software contained in this product belong to the right holders of the software, and are protected by relevant laws and regulations. The use of any such third-party software is subject to the terms and conditions of the license or service agreement that accompanies that software. Meizu provides no warranty for any content or service of third-party software, and shall not be held liable for any loss caused by the use of or the inability to use any third party software. Relevant patents implemented by this product are licensed by Qualcomm Incorporated.
 
@@ -4711,7 +4711,7 @@ All rights to third party software contained in this product belong to the right
     <string name="sdcard_mounting">Installing…</string>
     <string name="clean_rubbish">Clean out junk files</string>
     <string name="meizu_device_dal_title">Device name</string>
-    <string name="marketing_name_title">Marketing Name:</string>
+    <string name="marketing_name_title">Marketing Name</string>
     <string name="deviceid_title">IMEI:</string>
     <string name="deviceid_one_title">"IMEI1: "</string>
     <string name="deviceid_two_title">"IMEI2: "</string>

@@ -10,7 +10,7 @@
     <string name="color_title">Цвет</string>
     <string name="data_switch_started">Переключение SIM-карты может продолжаться минуту...</string>
     <string name="data_switch_voice_calling_warning_text">Не рекомендуется отключать передачу данных. Продолжить?</string>
-    <string name="data_switch_warning_title">Select Data in SIM%1$s</string>
+    <string name="data_switch_warning_title">Выберите данные на SIM%1$s</string>
     <string name="lte_checkbox_text">Установить для мобильных данных выбранную SIM-карту после замены SIM-карты 4G/3G по умолчанию.</string>
     <string name="lte_recognition_title">Регистрация SIM-карты</string>
     <string name="lte_recognize_summary_generic">Обнаружены две сим-карты, выберите основную SIM-карту:</string>

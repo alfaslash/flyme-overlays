@@ -58,6 +58,8 @@
     <item type="id" name="as" />
     <item type="id" name="at" />
     <item type="id" name="au" />
+    <item type="id" name="dz" />
+    <item type="id" name="e0" />
     <item type="id" name="e1" />
     <item type="id" name="e2" />
     <item type="id" name="e3" />
@@ -121,6 +123,17 @@
     <item type="id" name="fn" />
     <item type="id" name="fo" />
     <item type="id" name="fp" />
+    <item type="id" name="appdownloader_root" />
+    <item type="id" name="appdownloader_icon" />
+    <item type="id" name="appdownloader_desc" />
+    <item type="id" name="appdownloader_download_success" />
+    <item type="id" name="appdownloader_download_success_size" />
+    <item type="id" name="appdownloader_download_success_status" />
+    <item type="id" name="appdownloader_download_text" />
+    <item type="id" name="appdownloader_download_size" />
+    <item type="id" name="appdownloader_download_status" />
+    <item type="id" name="appdownloader_download_progress" />
+    <item type="id" name="appdownloader_action" />
     <item type="id" name="fq" />
     <item type="id" name="fr" />
     <item type="id" name="fs" />
@@ -719,13 +732,121 @@
     <item type="id" name="vu" />
     <item type="id" name="vv" />
     <item type="id" name="vw" />
+    <item type="id" name="tt_reward_root" />
+    <item type="id" name="tt_video_reward_container" />
     <item type="id" name="vx" />
+    <item type="id" name="tt_click_upper_non_content_layout" />
+    <item type="id" name="tt_video_reward_bar" />
+    <item type="id" name="tt_reward_ad_icon" />
+    <item type="id" name="tt_reward_ad_appname" />
+    <item type="id" name="tt_rb_score" />
+    <item type="id" name="tt_comment_vertical" />
+    <item type="id" name="tt_click_lower_non_content_layout" />
+    <item type="id" name="tt_reward_ad_download" />
+    <item type="id" name="tt_reward_browser_webview" />
+    <item type="id" name="tt_browser_webview_loading" />
+    <item type="id" name="tt_reward_full_endcard_backup" />
+    <item type="id" name="tt_reward_ad_icon_backup" />
+    <item type="id" name="tt_reward_ad_appname_backup" />
+    <item type="id" name="tt_rb_score_backup" />
+    <item type="id" name="tt_comment_backup" />
+    <item type="id" name="tt_reward_ad_download_backup" />
+    <item type="id" name="tt_video_ad_close_layout" />
+    <item type="id" name="tt_video_ad_close" />
+    <item type="id" name="tt_ad_logo" />
+    <item type="id" name="tt_reward_ad_download_layout" />
+    <item type="id" name="tt_browser_titlebar_view_stub" />
+    <item type="id" name="tt_browser_titlebar_dark_view_stub" />
+    <item type="id" name="tt_browser_webview" />
+    <item type="id" name="tt_browser_download_btn_stub" />
+    <item type="id" name="tt_browser_progress" />
+    <item type="id" name="tt_playable_ad_close_layout" />
+    <item type="id" name="tt_playable_ad_close" />
+    <item type="id" name="tt_native_video_titlebar" />
+    <item type="id" name="tt_titlebar_back" />
+    <item type="id" name="tt_titlebar_title" />
+    <item type="id" name="tt_titlebar_close" />
+    <item type="id" name="tt_native_video_container" />
+    <item type="id" name="tt_rl_download" />
+    <item type="id" name="tt_video_ad_logo_image" />
+    <item type="id" name="tt_video_btn_ad_image_tv" />
+    <item type="id" name="tt_video_ad_name" />
+    <item type="id" name="tt_video_ad_button" />
+    <item type="id" name="tt_browser_download_btn" />
+    <item type="id" name="tt_title" />
+    <item type="id" name="tt_image" />
+    <item type="id" name="tt_message" />
+    <item type="id" name="tt_negtive" />
+    <item type="id" name="tt_column_line" />
+    <item type="id" name="tt_positive" />
+    <item type="id" name="tt_item_tv" />
+    <item type="id" name="tt_item_arrow" />
+    <item type="id" name="tt_dislike_title_content" />
+    <item type="id" name="tt_dislike_header_back" />
+    <item type="id" name="tt_dislike_header_tv" />
     <item type="id" name="vy" />
+    <item type="id" name="tt_filer_words_lv" />
+    <item type="id" name="tt_filer_words_lv_second" />
+    <item type="id" name="tt_insert_ad_img" />
+    <item type="id" name="tt_insert_dislike_icon_img" />
+    <item type="id" name="tt_insert_ad_logo" />
+    <item type="id" name="tt_insert_ad_text" />
+    <item type="id" name="tt_insert_express_ad_fl" />
+    <item type="id" name="tt_insert_express_dislike_icon_img" />
+    <item type="id" name="tt_install_title" />
+    <item type="id" name="tt_install_content" />
+    <item type="id" name="tt_install_btn_no" />
+    <item type="id" name="tt_install_btn_yes" />
+    <item type="id" name="tt_native_video_layout" />
+    <item type="id" name="tt_native_video_frame" />
+    <item type="id" name="tt_native_video_img_cover_viewStub" />
+    <item type="id" name="tt_native_video_img_cover" />
+    <item type="id" name="tt_native_video_img_id" />
+    <item type="id" name="tt_native_video_play" />
     <item type="id" name="vz" />
+    <item type="id" name="tt_splash_video_container" />
+    <item type="id" name="tt_splash_ad_gif" />
+    <item type="id" name="tt_splash_video_ad_mute" />
+    <item type="id" name="tt_splash_skip_btn" />
     <item type="id" name="w0" />
     <item type="id" name="w1" />
     <item type="id" name="w2" />
     <item type="id" name="w3" />
+    <item type="id" name="tt_video_ad_covers" />
+    <item type="id" name="tt_video_ad_finish_cover_image" />
+    <item type="id" name="tt_video_ad_cover_center_layout" />
+    <item type="id" name="tt_video_ad_cover_center_layout_draw" />
+    <item type="id" name="tt_video_ad_button_draw" />
+    <item type="id" name="tt_video_ad_replay" />
+    <item type="id" name="tt_root_view" />
+    <item type="id" name="tt_video_loading_retry_layout" />
+    <item type="id" name="tt_video_loading_cover_image" />
+    <item type="id" name="tt_video_loading_progress" />
+    <item type="id" name="tt_video_loading_retry" />
+    <item type="id" name="tt_video_retry" />
+    <item type="id" name="tt_video_retry_des" />
+    <item type="id" name="tt_video_play" />
+    <item type="id" name="tt_video_close" />
+    <item type="id" name="tt_video_title" />
+    <item type="id" name="tt_video_top_layout" />
+    <item type="id" name="tt_video_fullscreen_back" />
+    <item type="id" name="tt_video_top_title" />
+    <item type="id" name="tt_battery_time_layout" />
+    <item type="id" name="tt_video_current_time" />
+    <item type="id" name="tt_video_progress" />
+    <item type="id" name="tt_video_ad_bottom_layout" />
+    <item type="id" name="tt_video_time_play" />
+    <item type="id" name="tt_video_seekbar" />
+    <item type="id" name="tt_video_time_left_time" />
+    <item type="id" name="tt_video_ad_full_screen" />
+    <item type="id" name="tt_video_ad_cover" />
+    <item type="id" name="tt_video_back" />
+    <item type="id" name="tt_video_draw_layout_viewStub" />
+    <item type="id" name="tt_video_traffic_tip_layout_viewStub" />
+    <item type="id" name="tt_video_traffic_tip_layout" />
+    <item type="id" name="tt_video_traffic_tip_tv" />
+    <item type="id" name="tt_video_traffic_continue_play_btn" />
+    <item type="id" name="tt_video_traffic_continue_play_tv" />
     <item type="id" name="w4" />
     <item type="id" name="w5" />
     <item type="id" name="w6" />
@@ -736,120 +857,4 @@
     <item type="id" name="wa" />
     <item type="id" name="wb" />
     <item type="id" name="wc" />
-    <item type="id" name="wd" />
-    <item type="id" name="we" />
-    <item type="id" name="wf" />
-    <item type="id" name="wg" />
-    <item type="id" name="wh" />
-    <item type="id" name="wi" />
-    <item type="id" name="wj" />
-    <item type="id" name="wk" />
-    <item type="id" name="wl" />
-    <item type="id" name="wm" />
-    <item type="id" name="wn" />
-    <item type="id" name="wo" />
-    <item type="id" name="wp" />
-    <item type="id" name="wq" />
-    <item type="id" name="wr" />
-    <item type="id" name="ws" />
-    <item type="id" name="wt" />
-    <item type="id" name="wu" />
-    <item type="id" name="wv" />
-    <item type="id" name="ww" />
-    <item type="id" name="wx" />
-    <item type="id" name="wy" />
-    <item type="id" name="wz" />
-    <item type="id" name="x0" />
-    <item type="id" name="x1" />
-    <item type="id" name="x2" />
-    <item type="id" name="x3" />
-    <item type="id" name="x4" />
-    <item type="id" name="x5" />
-    <item type="id" name="x6" />
-    <item type="id" name="x7" />
-    <item type="id" name="x8" />
-    <item type="id" name="x9" />
-    <item type="id" name="x_" />
-    <item type="id" name="xa" />
-    <item type="id" name="xb" />
-    <item type="id" name="xc" />
-    <item type="id" name="xd" />
-    <item type="id" name="xe" />
-    <item type="id" name="xf" />
-    <item type="id" name="xg" />
-    <item type="id" name="xh" />
-    <item type="id" name="xi" />
-    <item type="id" name="xj" />
-    <item type="id" name="xk" />
-    <item type="id" name="xl" />
-    <item type="id" name="xm" />
-    <item type="id" name="xn" />
-    <item type="id" name="xo" />
-    <item type="id" name="xp" />
-    <item type="id" name="xq" />
-    <item type="id" name="xr" />
-    <item type="id" name="xs" />
-    <item type="id" name="xt" />
-    <item type="id" name="xu" />
-    <item type="id" name="xv" />
-    <item type="id" name="xw" />
-    <item type="id" name="xx" />
-    <item type="id" name="xy" />
-    <item type="id" name="xz" />
-    <item type="id" name="y0" />
-    <item type="id" name="y1" />
-    <item type="id" name="y2" />
-    <item type="id" name="y3" />
-    <item type="id" name="y4" />
-    <item type="id" name="y5" />
-    <item type="id" name="y6" />
-    <item type="id" name="y7" />
-    <item type="id" name="y8" />
-    <item type="id" name="y9" />
-    <item type="id" name="y_" />
-    <item type="id" name="ya" />
-    <item type="id" name="yb" />
-    <item type="id" name="yc" />
-    <item type="id" name="yd" />
-    <item type="id" name="ye" />
-    <item type="id" name="yf" />
-    <item type="id" name="yg" />
-    <item type="id" name="yh" />
-    <item type="id" name="yi" />
-    <item type="id" name="yj" />
-    <item type="id" name="yk" />
-    <item type="id" name="yl" />
-    <item type="id" name="ym" />
-    <item type="id" name="yn" />
-    <item type="id" name="yo" />
-    <item type="id" name="yp" />
-    <item type="id" name="yq" />
-    <item type="id" name="yr" />
-    <item type="id" name="ys" />
-    <item type="id" name="yt" />
-    <item type="id" name="yu" />
-    <item type="id" name="yv" />
-    <item type="id" name="yw" />
-    <item type="id" name="yx" />
-    <item type="id" name="yy" />
-    <item type="id" name="yz" />
-    <item type="id" name="z0" />
-    <item type="id" name="z1" />
-    <item type="id" name="z2" />
-    <item type="id" name="z3" />
-    <item type="id" name="z4" />
-    <item type="id" name="z5" />
-    <item type="id" name="z6" />
-    <item type="id" name="z7" />
-    <item type="id" name="z8" />
-    <item type="id" name="z9" />
-    <item type="id" name="z_" />
-    <item type="id" name="za" />
-    <item type="id" name="zb" />
-    <item type="id" name="zc" />
-    <item type="id" name="zd" />
-    <item type="id" name="ze" />
-    <item type="id" name="zf" />
-    <item type="id" name="zg" />
-    <item type="id" name="zh" />
 </resources>
