@@ -1,0 +1,1567 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Author",
+		"@_name": "about_author"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Aicy Touch",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Encyclopedia",
+		"@_name": "baidu_wikipedia"
+	},
+	{
+		"#text": "Profile",
+		"@_name": "baike_word_intro"
+	},
+	{
+		"#text": "Buy online",
+		"@_name": "book_buy_online"
+	},
+	{
+		"#text": "Book details",
+		"@_name": "book_detail"
+	},
+	{
+		"#text": "OK",
+		"@_name": "btn_ok"
+	},
+	{
+		"#text": "Start now",
+		"@_name": "btn_text_start_now"
+	},
+	{
+		"#text": "OK",
+		"@_name": "btn_tips_confirm"
+	},
+	{
+		"#text": "Encyclopedias",
+		"@_name": "btn_txt_baike"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "btn_txt_copy"
+	},
+	{
+		"#text": "Open map",
+		"@_name": "btn_txt_map"
+	},
+	{
+		"#text": "Related songs",
+		"@_name": "btn_txt_musics"
+	},
+	{
+		"#text": "Related news",
+		"@_name": "btn_txt_news"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "btn_txt_phone"
+	},
+	{
+		"#text": "Scene detail",
+		"@_name": "btn_txt_scene"
+	},
+	{
+		"#text": "Search",
+		"@_name": "btn_txt_search"
+	},
+	{
+		"#text": "Select all",
+		"@_name": "btn_txt_select_all"
+	},
+	{
+		"#text": "Share",
+		"@_name": "btn_txt_share"
+	},
+	{
+		"#text": "Translate",
+		"@_name": "btn_txt_translation"
+	},
+	{
+		"#text": "Deselect all",
+		"@_name": "btn_txt_unselect_all"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "No apps can perform this action",
+		"@_name": "cannot_find_app_for_this_service"
+	},
+	{
+		"#text": "Recognizing..",
+		"@_name": "card_loading_tips"
+	},
+	{
+		"#text": "No preview found",
+		"@_name": "card_no_data"
+	},
+	{
+		"#text": "View network settings",
+		"@_name": "check_setting"
+	},
+	{
+		"#text": "Favorited",
+		"@_name": "collected"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "collection"
+	},
+	{
+		"#text": "Current page",
+		"@_name": "collection_current_page"
+	},
+	{
+		"#text": "Copied",
+		"@_name": "copy_success"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Download",
+		"@_name": "download"
+	},
+	{
+		"#text": "Saved to album",
+		"@_name": "download_success"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "downloaded"
+	},
+	{
+		"#text": "No email",
+		"@_name": "email_is_empty"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "￥%1$s",
+		"@_name": "goods_origin_price"
+	},
+	{
+		"#text": "Group deals",
+		"@_name": "group_purchase_info"
+	},
+	{
+		"#text": "Identify information such as movies, celebrities, and Taobao links in long-press areas",
+		"@_name": "guide_notifycation_content"
+	},
+	{
+		"#text": "Long press screen to get more information",
+		"@_name": "guide_notifycation_title"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Select text",
+		"@_name": "item_text_selection"
+	},
+	{
+		"#text": "No link",
+		"@_name": "link_is_null"
+	},
+	{
+		"#text": "Go later",
+		"@_name": "map_todo"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "merchant_contact"
+	},
+	{
+		"#text": "Go hotel",
+		"@_name": "merchant_navigation_hotel"
+	},
+	{
+		"#text": "Go restaurant",
+		"@_name": "merchant_navigation_restaurant"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "…",
+		"@_name": "movie_card_text_more"
+	},
+	{
+		"#text": "Details",
+		"@_name": "movie_douban_detail"
+	},
+	{
+		"#text": "Buy ticket",
+		"@_name": "movie_online_ticket"
+	},
+	{
+		"#text": "Trailer",
+		"@_name": "movie_prevue"
+	},
+	{
+		"#text": "Related",
+		"@_name": "movie_relative_movie"
+	},
+	{
+		"#text": "Play online",
+		"@_name": "movie_watch_online"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Next",
+		"@_name": "next_step"
+	},
+	{
+		"#text": "No network connection. Retry after connected.",
+		"@_name": "no_network"
+	},
+	{
+		"#text": "Recognition is not supported",
+		"@_name": "not_support_recognize"
+	},
+	{
+		"#text": "No item recognized",
+		"@_name": "not_recognize_item"
+	},
+	{
+		"#text": "Sharing not supported",
+		"@_name": "not_support_share"
+	},
+	{
+		"#text": "Pinyin: %1$s",
+		"@_name": "obscure_word_pronunciation"
+	},
+	{
+		"#text": "Radicals: %1$s",
+		"@_name": "obscure_word_radical"
+	},
+	{
+		"#text": "Strokes: %1$s",
+		"@_name": "obscure_word_stroke"
+	},
+	{
+		"#text": "Open Maps",
+		"@_name": "open_map"
+	},
+	{
+		"#text": "Buy via photo",
+		"@_name": "pai_li_tao"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "personage_weibo"
+	},
+	{
+		"#text": "No phone number",
+		"@_name": "phone_is_empty"
+	},
+	{
+		"#text": "Long press the text/image in app, Aicy can recognize its key points such as movie, Celebrity, and Taobao link, and provide a direct entry to those information and services.",
+		"@_name": "picker_desc"
+	},
+	{
+		"#text": "Result stlye",
+		"@_name": "picker_display_style_text"
+	},
+	{
+		"#text": "To use Flyme Aicy Touch (hereinafter referred to as “the Service”), you shall read and comply with this Aicy Touch Terms of Use (hereinafter referred to as “the Terms”). When the user actively long presses the content area of the terminal device, the service identifies, analyzes and predicts the content of the long-pressed area by using technologies such as optical character recognition and natural language processing, and aggregates the information and services related to the content. The aggregation enables the user to quickly and efficiently acquire the required information and services.",
+		"@_name": "policy_content_head"
+	},
+	{
+		"#text": "Service Regulations and Privacy Policy",
+		"@_name": "policy_content_head1"
+	},
+	{
+		"#text": "\"1. To analyze the content covered by the user's long-pressed area, the service needs to access the network and collect and process the following data during its runtime:\"",
+		"@_name": "policy_content1"
+	},
+	{
+		"#text": "\"a. To analyze the meaning of each segment in the text, we may collect and process the content in the long-pressed text.\nb. To increase the positive correlation of the recognized results, we may collect and process the name of the application interface when it was long pressed. \nc. Because the recognized results need to be revised according to the user's geographical location, we may collect the current geographical location of the user's device. \nd. To intelligently analyze the Alipay codes contained in the text, we need to call the Meizu Pay function and grant Meizu Pay permissions to network connection, location, SMS, and camera. \ne. To avoid scene conflicts, namely to shield the recognized results from conflicting scenes, we may collect and process the system state when the long-press occurs.\"",
+		"@_name": "policy_content2"
+	},
+	{
+		"#text": "2. The results of the analyzed content include, but are not limited to, the following types of data: movies, books, stores, geographical locations, names of celebrities, goods, etc.",
+		"@_name": "policy_content3"
+	},
+	{
+		"#text": "3. The service captures the current screen during its runtime. The screenshots are used for text recognition, visual presentation, and user sharing. This process is only done offline on the terminal device and will not be uploaded to the cloud.",
+		"@_name": "policy_content4"
+	},
+	{
+		"#text": "4. In order to recognize the results including movies, books, etc. from the text, the service will desensitize the private information in the text and then identify its content. You can turn off the service to stop text transmission in Settings > Aicy > Aicy Touch.",
+		"@_name": "policy_content5"
+	},
+	{
+		"#text": "To use Flyme Aicy Touch (hereinafter referred to as “the Service”), you shall read and comply with this Aicy Touch Terms of Use (hereinafter referred to as “the Terms”). When the user actively long presses the content area of the terminal device, the service identifies, analyzes and predicts the content of the long-pressed area by using technologies such as optical character recognition and natural language processing, and aggregates the information and services related to the content. The aggregation enables the user to quickly and efficiently acquire the required information and services.",
+		"@_name": "policy_content_head"
+	},
+	{
+		"#text": "Service Regulations and Privacy Policy",
+		"@_name": "policy_content_head1"
+	},
+	{
+		"#text": "By starting Aicy Touch service, you agree to the Terms, the Flyme Terms of Use, and Privacy Policy.",
+		"@_name": "policy_content_tail"
+	},
+	{
+		"#text": "Aicy Touch Terms of Use",
+		"@_name": "policy_name"
+	},
+	{
+		"#text": "QQ friends",
+		"@_name": "qq_mobile_friends"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "qq_mobile_name"
+	},
+	{
+		"#text": "Read online",
+		"@_name": "read_online"
+	},
+	{
+		"#text": "Recognize image",
+		"@_name": "recognize_picture_text"
+	},
+	{
+		"#text": "Recognize image",
+		"@_name": "recognize_type_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_key_string"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "WeChat stickers",
+		"@_name": "send_emoji_wx_friend"
+	},
+	{
+		"#text": "Send to PC",
+		"@_name": "send_pc_myself"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "send_qq_friend"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "send_wx_friend"
+	},
+	{
+		"#text": "In the case of mis-block and mis-touch, Flyme disables the screen recognition in those scenes. In addition, due to app development differences, Aicy Touch cannot work on some pages",
+		"@_name": "setting_bottom_desc"
+	},
+	{
+		"#text": "Learn More",
+		"@_name": "setting_more"
+	},
+	{
+		"#text": "Skill",
+		"@_name": "setting_more_desc1"
+	},
+	{
+		"#text": "Recognition range",
+		"@_name": "setting_more_desc2"
+	},
+	{
+		"#text": "\"When browsing, press the image\nto identify its content.\"",
+		"@_name": "setting_more_picture_desc"
+	},
+	{
+		"#text": "Text",
+		"@_name": "setting_more_tab1"
+	},
+	{
+		"#text": "Image",
+		"@_name": "setting_more_tab2"
+	},
+	{
+		"#text": "Page",
+		"@_name": "setting_more_tab3"
+	},
+	{
+		"#text": "\"When browsing, press the text\nto identify its key info.\"",
+		"@_name": "setting_more_text_desc"
+	},
+	{
+		"#text": "\"When browsing, press the page\nto identify its content.\"",
+		"@_name": "setting_more_webpage_desc"
+	},
+	{
+		"#text": "Press content for 0.5 sec",
+		"@_name": "setting_trigger_title1"
+	},
+	{
+		"#text": "Long press content for 1 sec",
+		"@_name": "setting_trigger_title2"
+	},
+	{
+		"#text": "Share",
+		"@_name": "share"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "share_choose_title"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "share_to"
+	},
+	{
+		"#text": "Failed to recognize. Please try again later.",
+		"@_name": "shitu_recognize_fail"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "shrink_style_text"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Expand",
+		"@_name": "stretch_style_text"
+	},
+	{
+		"#text": "Open by Taobao",
+		"@_name": "taobao_open"
+	},
+	{
+		"#text": "Open by Tmall",
+		"@_name": "tianmao_open"
+	},
+	{
+		"#text": "View in-transit package updates on Minus 1 Screen",
+		"@_name": "tips_collect_express"
+	},
+	{
+		"#text": "View favorited items on Minus 1 Screen",
+		"@_name": "tips_collect_page"
+	},
+	{
+		"#text": "Learn More",
+		"@_name": "title_activity_picker_learn_more"
+	},
+	{
+		"#text": "Trigger by",
+		"@_name": "title_activity_picker_trigger"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "txt_agreement_allow"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "txt_agreement_connect_net"
+	},
+	{
+		"#text": "To get more recognition results",
+		"@_name": "txt_agreement_connect_net_desc"
+	},
+	{
+		"#text": "To achieve the above functions and services, you are required to agree",
+		"@_name": "txt_agreement_desc1"
+	},
+	{
+		"#text": "Aicy Touch Terms of Use",
+		"@_name": "txt_agreement_desc2"
+	},
+	{
+		"#text": "Access location",
+		"@_name": "txt_agreement_get_location"
+	},
+	{
+		"#text": "Identify addresses in the text based on their locations",
+		"@_name": "txt_agreement_get_location_desc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "txt_agreement_reject"
+	},
+	{
+		"#text": "Aicy Touch Permissions and Statements",
+		"@_name": "txt_agreement_title"
+	},
+	{
+		"#text": "Encyclopedia results",
+		"@_name": "txt_baike_result"
+	},
+	{
+		"#text": "No encyclopedia results yet",
+		"@_name": "txt_baike_tip1"
+	},
+	{
+		"#text": "Please change the keyword query",
+		"@_name": "txt_baike_tip2"
+	},
+	{
+		"#text": "Encyclopedia entry",
+		"@_name": "txt_btn_card_baike"
+	},
+	{
+		"#text": "Long press on screen to find more",
+		"@_name": "txt_card_agreement_desc1"
+	},
+	{
+		"#text": "Aicy Touch needs to access the internet and use your location to get more recognition results",
+		"@_name": "txt_card_agreement_desc2"
+	},
+	{
+		"#text": "Welcome to Aicy Touch",
+		"@_name": "txt_card_agreement_desc3"
+	},
+	{
+		"#text": "Tips",
+		"@_name": "txt_card_name"
+	},
+	{
+		"#text": "Coupon",
+		"@_name": "txt_coupon"
+	},
+	{
+		"#text": "Tap to identify",
+		"@_name": "txt_click_to_recognize"
+	},
+	{
+		"#text": "View details",
+		"@_name": "txt_look_for_detail"
+	},
+	{
+		"#text": "No network connection, please check the settings",
+		"@_name": "txt_no_network_tips"
+	},
+	{
+		"#text": "Connect to Internet for more recognition results",
+		"@_name": "txt_no_network_tips_1"
+	},
+	{
+		"#text": "No contents recognized",
+		"@_name": "txt_no_result_text"
+	},
+	{
+		"#text": "Open App",
+		"@_name": "txt_open_app"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "txt_phone_call"
+	},
+	{
+		"#text": "Change another picture and retry",
+		"@_name": "txt_recognize_fail_tips"
+	},
+	{
+		"#text": "Scan code to copy text",
+		"@_name": "txt_scan_and_copy"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "txt_setting_exit"
+	},
+	{
+		"#text": "Skip",
+		"@_name": "txt_setting_skip"
+	},
+	{
+		"#text": "JD.COM",
+		"@_name": "txt_tag_jd"
+	},
+	{
+		"#text": "Long press content for 0.5 sec | Tap button in the lower right corner after long-pressed",
+		"@_name": "txt_setting_triggle1"
+	},
+	{
+		"#text": "Long press content for 1 sec | Press and hold the content until result card pops up",
+		"@_name": "txt_setting_triggle2"
+	},
+	{
+		"#text": "Plants, celebrities, famous paintings, books, wine, and cars",
+		"@_name": "txt_support_type_tips"
+	},
+	{
+		"#text": "Powered by Tencent Image Recognition",
+		"@_name": "txt_tech_support"
+	},
+	{
+		"#text": "Translation result",
+		"@_name": "txt_translation_result"
+	},
+	{
+		"#text": "Open with Quick Look",
+		"@_name": "txt_window_mode"
+	},
+	{
+		"#text": "Direct to app via Quick Look first",
+		"@_name": "txt_window_mode_desc"
+	},
+	{
+		"#text": "Scan code",
+		"@_name": "type_qrcode"
+	},
+	{
+		"#text": "User reviews",
+		"@_name": "user_hot_comment"
+	},
+	{
+		"#text": "I am watching【",
+		"@_name": "web_url_share_content_head"
+	},
+	{
+		"#text": "】. Share it with you. Join me",
+		"@_name": "web_url_share_content_tail"
+	},
+	{
+		"#text": "Link copied to clipboard",
+		"@_name": "web_view_copy_text_toast"
+	},
+	{
+		"#text": "Copy link",
+		"@_name": "web_view_menu_copy"
+	},
+	{
+		"#text": "Open by browser",
+		"@_name": "web_view_menu_open_browser"
+	},
+	{
+		"#text": "Web preview",
+		"@_name": "web_view_title"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Moments",
+		"@_name": "wx_circle_of_friend"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wx_favourite"
+	},
+	{
+		"#text": "WeChat friends",
+		"@_name": "wx_friend"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "wx_name"
+	}
+]

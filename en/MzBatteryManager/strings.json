@@ -1,0 +1,2568 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Size: %s",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart &amp; Update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download using cellular data?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s release",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Airplane mode",
+		"@_name": "WidgetLayoutExtend_Description_air_plane"
+	},
+	{
+		"#text": "\"Can't exit super saving mode during call\"",
+		"@_name": "alert_dialog_dont_exit_title"
+	},
+	{
+		"#text": "\"Can't switch to super saving mode during call\"",
+		"@_name": "alert_dialog_dont_switch_title"
+	},
+	{
+		"#text": "Power used by AOD:",
+		"@_name": "aod_power_ratio"
+	},
+	{
+		"#text": "\"Power saving tip: Turn off AOD when it's not in use\"",
+		"@_name": "aod_power_save_notice_msg"
+	},
+	{
+		"#text": "App consumption management",
+		"@_name": "app_consumption_management"
+	},
+	{
+		"#text": "App list",
+		"@_name": "app_list"
+	},
+	{
+		"#text": "Battery Manager",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Consumption of app running",
+		"@_name": "app_run"
+	},
+	{
+		"#text": "Running management",
+		"@_name": "app_run_management"
+	},
+	{
+		"#text": "Standby consumption of apps",
+		"@_name": "app_standby"
+	},
+	{
+		"#text": "Standby management",
+		"@_name": "app_standby_management"
+	},
+	{
+		"#text": "Wake-up time: %1$s",
+		"@_name": "app_wakeup_time"
+	},
+	{
+		"#text": "CPU running time: %1$s",
+		"@_name": "app_wakeup_times"
+	},
+	{
+		"#text": "Balance performance and battery life",
+		"@_name": "balance_mode"
+	},
+	{
+		"#text": "Enable super saving mode?",
+		"@_name": "battery_low_alert_title"
+	},
+	{
+		"#text": "Allow Phone and Messages only",
+		"@_name": "battery_low_description"
+	},
+	{
+		"#text": "%d%% remaining. Enable super saving mode?",
+		"@_name": "battery_low_percent_format"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "Bluetooth-on time",
+		"@_name": "bluetooth_on_time"
+	},
+	{
+		"#text": "Power used by Bluetooth:",
+		"@_name": "bluetooth_power_ratio"
+	},
+	{
+		"#text": "Disable Now",
+		"@_name": "button_disable_mode"
+	},
+	{
+		"#text": "Enable Now",
+		"@_name": "button_enable_mode"
+	},
+	{
+		"#text": "CABC screen power saving",
+		"@_name": "cabc_title"
+	},
+	{
+		"#text": "Cellular network standby",
+		"@_name": "cell_standby"
+	},
+	{
+		"#text": "Power used by cellular network:",
+		"@_name": "cell_standby_power_ratio"
+	},
+	{
+		"#text": "Cellular-data-on time",
+		"@_name": "cell_standby_time"
+	},
+	{
+		"#text": "Charging",
+		"@_name": "charing"
+	},
+	{
+		"#text": "Screen on and off time, not including charging time",
+		"@_name": "chart_view_msg"
+	},
+	{
+		"#text": "Power saving tip: Turn off background apps",
+		"@_name": "close_bg_app_msg"
+	},
+	{
+		"#text": "%1$d app(s) in total. Tap to view",
+		"@_name": "context_app_killed_notification"
+	},
+	{
+		"#text": "%1$s background exception. Thus leading to high power usage, heating up, or lagging",
+		"@_name": "cpu_exception_msg"
+	},
+	{
+		"#text": "Exception duration: %1$s min",
+		"@_name": "cpu_exception_time"
+	},
+	{
+		"#text": "High power usage%1$s",
+		"@_name": "cpu_exception_title"
+	},
+	{
+		"#text": "CPU foreground running time: %1$s",
+		"@_name": "cpu_foreground_running_time"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "default_app_name"
+	},
+	{
+		"#text": "Low power mode",
+		"@_name": "dialog_low_ps"
+	},
+	{
+		"#text": "Battery Manager needs access to network and location to view battery consumption",
+		"@_name": "dialog_message_summary"
+	},
+	{
+		"#text": "Super saving mode",
+		"@_name": "dialog_supper_ps"
+	},
+	{
+		"#text": "Custom mode",
+		"@_name": "dialog_user_ps"
+	},
+	{
+		"#text": "Disallow running when on standby",
+		"@_name": "disable_idle_run"
+	},
+	{
+		"#text": "Display",
+		"@_name": "display_device"
+	},
+	{
+		"#text": "%1$d h %2$d m",
+		"@_name": "durationHourMinute"
+	},
+	{
+		"#text": "%1$dh %2$dm %3$ds",
+		"@_name": "durationHourMinuteSecond"
+	},
+	{
+		"#text": "%1$dm %2$ds",
+		"@_name": "durationMinuteSeconds"
+	},
+	{
+		"#text": "%1$d m",
+		"@_name": "durationMinutes"
+	},
+	{
+		"#text": "%1$d s",
+		"@_name": "durationSecond"
+	},
+	{
+		"#text": "Allow running when on standby",
+		"@_name": "enable_idle_run"
+	},
+	{
+		"#text": "1.Disable the app can fix the high power usage problem. But notifications from the app cannot be received",
+		"@_name": "exception_suggest1"
+	},
+	{
+		"#text": "2. Tell the app developers and ask them to fix the problem",
+		"@_name": "exception_suggest2"
+	},
+	{
+		"#text": "Power used by face recognition:",
+		"@_name": "face_power_ratio"
+	},
+	{
+		"#text": "\"Power saving tip: turn off face recognition when it's not in use\"",
+		"@_name": "face_power_save_notice_msg"
+	},
+	{
+		"#text": "Power used by fingerprint:",
+		"@_name": "fingerprint_power_ratio"
+	},
+	{
+		"#text": "\"Power saving tip: turn off fingerprint when it's not in use\"",
+		"@_name": "fingerprint_power_save_notice_msg"
+	},
+	{
+		"#text": "Power used by Flashlight:",
+		"@_name": "flash_light_power_ratio"
+	},
+	{
+		"#text": "Flashlight-on time",
+		"@_name": "flashlight_on_time"
+	},
+	{
+		"#text": "Forced screen-on ranking",
+		"@_name": "force_screen_on_rank"
+	},
+	{
+		"#text": "CPU running time",
+		"@_name": "force_screen_on_time"
+	},
+	{
+		"#text": "Awake time ranking when on standby",
+		"@_name": "force_wakeup_rank"
+	},
+	{
+		"#text": "Awake time when on standby",
+		"@_name": "force_wakeup_time"
+	},
+	{
+		"#text": "Game mode is enabled. Continue with Do Not Disturb and palm rejection settings?",
+		"@_name": "game_context_msg"
+	},
+	{
+		"#text": "Game mode enabled, tap to set",
+		"@_name": "game_notice_msg"
+	},
+	{
+		"#text": "Configure",
+		"@_name": "game_setting"
+	},
+	{
+		"#text": "GPS-used time",
+		"@_name": "gps_use_time"
+	},
+	{
+		"#text": "Drop frames and compress images in social, game, navigation, and browser apps to save power",
+		"@_name": "gpu_app_instruction"
+	},
+	{
+		"#text": "Battery already has enough power.",
+		"@_name": "has_out_low_power_mode_notification_subtitle"
+	},
+	{
+		"#text": "Exited low power mode",
+		"@_name": "has_out_low_power_mode_notification_title"
+	},
+	{
+		"#text": "Prioritize performance and display",
+		"@_name": "high_performance_mode"
+	},
+	{
+		"#text": "May cause overheat and high power consumption. Tap to switch",
+		"@_name": "high_performance_notify_content"
+	},
+	{
+		"#text": "In high performance mode now",
+		"@_name": "high_performance_notify_title"
+	},
+	{
+		"#text": "%1$s was draining the battery fast in the background at %2$s, and is estimated to consume %3$s mAh of power in the next 2 hours. To prevent excessive battery usage, it has been closed.",
+		"@_name": "high_power_auto_kill_msg_type_scale"
+	},
+	{
+		"#text": "Close App",
+		"@_name": "high_power_close_app"
+	},
+	{
+		"#text": "Consuming extra power in background",
+		"@_name": "high_power_consume"
+	},
+	{
+		"#text": "The standby power consumption of %1$s reached %2$s in the recent while, possibly due to abnormal battery usage.",
+		"@_name": "high_power_dialog_msg"
+	},
+	{
+		"#text": "The standby power consumption of %2$s reached %3$s in the past %1$s, possibly due to abnormal battery usage",
+		"@_name": "high_power_dialog_msg_type_duration"
+	},
+	{
+		"#text": "The standby power consumption of %1$s reached %2$s in the recent while, possibly due to abnormal battery usage.",
+		"@_name": "high_power_dialog_msg_type_scale"
+	},
+	{
+		"#text": "Disallow running in background",
+		"@_name": "high_power_forbid_app"
+	},
+	{
+		"#text": "\"Don't remind me again\"",
+		"@_name": "high_power_ignored"
+	},
+	{
+		"#text": "Extend battery life by 30%",
+		"@_name": "high_power_save_subtitle"
+	},
+	{
+		"#text": "High saving",
+		"@_name": "high_power_save_title"
+	},
+	{
+		"#text": "Power usage",
+		"@_name": "history_bat_use_chart"
+	},
+	{
+		"#text": "Turn on Power Usage",
+		"@_name": "histroy_detail"
+	},
+	{
+		"#text": "Standby",
+		"@_name": "idle"
+	},
+	{
+		"#text": "Standby power usage management",
+		"@_name": "idle_power_manager"
+	},
+	{
+		"#text": "Standby power usage:",
+		"@_name": "idle_power_sum"
+	},
+	{
+		"#text": "Permission to run in background",
+		"@_name": "idle_run_permission"
+	},
+	{
+		"#text": "Standby time",
+		"@_name": "idle_time"
+	},
+	{
+		"#text": "Smart",
+		"@_name": "intelligent_management"
+	},
+	{
+		"#text": "Medium saving",
+		"@_name": "intermediate_power_save"
+	},
+	{
+		"#text": "Cut power usage of apps running by 20%",
+		"@_name": "intermediate_power_save_subtitle"
+	},
+	{
+		"#text": "Primary saving",
+		"@_name": "junior_power_save"
+	},
+	{
+		"#text": "Cut power usage of apps running by 10%",
+		"@_name": "junior_power_save_subtitle"
+	},
+	{
+		"#text": "Low power mode will control Bluetooth, GPS, sounds, haptic feedback and other features in a smart manner, restrict background apps, and reduce visual effects and system performance. Your phone will automatically exit this mode when sufficiently charged.",
+		"@_name": "low_power_mode_info"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "low_power_remind_cancle_power_mode"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "low_power_remind_enter_power_mode"
+	},
+	{
+		"#text": "Configure",
+		"@_name": "low_power_remind_jump_to_power_mode_config"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Extend battery life by 20%",
+		"@_name": "medium_power_save_subtitle"
+	},
+	{
+		"#text": "Medium saving",
+		"@_name": "medium_power_save_title"
+	},
+	{
+		"#text": "Balanced",
+		"@_name": "menu_cpu_mode_balance"
+	},
+	{
+		"#text": "High performance",
+		"@_name": "menu_cpu_mode_high"
+	},
+	{
+		"#text": "Power saving",
+		"@_name": "menu_cpu_mode_low"
+	},
+	{
+		"#text": "Mobile data usage",
+		"@_name": "mobile_data"
+	},
+	{
+		"#text": "Turn off sound effects",
+		"@_name": "mode_audio_info"
+	},
+	{
+		"#text": "Disable haptic feedback",
+		"@_name": "mode_feedback_info"
+	},
+	{
+		"#text": "Cut power consumption by up to 50%, but may cause color distortion in certain situations.",
+		"@_name": "mode_screensave_des"
+	},
+	{
+		"#text": "Turn on screen power saving mode",
+		"@_name": "mode_screensave_info"
+	},
+	{
+		"#text": "Saving mode",
+		"@_name": "mode_select"
+	},
+	{
+		"#text": "More",
+		"@_name": "more"
+	},
+	{
+		"#text": "Disabling %1$s",
+		"@_name": "msg_disableing_mode"
+	},
+	{
+		"#text": "Enabling %1$s",
+		"@_name": "msg_enableing_mode"
+	},
+	{
+		"#text": "Disallowed apps will be identified, and frozen or closed according to the actual situation 3 minutes after the phone goes into standby mode. This may cause notification receiving failure.",
+		"@_name": "msg_help_for_clean_app"
+	},
+	{
+		"#text": "Automatically clear background apps 3 minutes after your phone goes into standby mode. This may cause notification receiving failure.",
+		"@_name": "msg_help_for_clean_app_old"
+	},
+	{
+		"#text": "\"Interval between start and end times can't be less than %1$d min.\"",
+		"@_name": "msg_start_end_too_small"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Updated to latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Normal standby time",
+		"@_name": "normal_idle_time"
+	},
+	{
+		"#text": "Normal screen-on time",
+		"@_name": "normal_screen_on_time"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "not_use_powerxtend"
+	},
+	{
+		"#text": "Performance mode",
+		"@_name": "performance_mode"
+	},
+	{
+		"#text": "Permissions",
+		"@_name": "permission_title"
+	},
+	{
+		"#text": "Running",
+		"@_name": "phone_active"
+	},
+	{
+		"#text": "Voice call",
+		"@_name": "phone_call"
+	},
+	{
+		"#text": "Power used by voice calls:",
+		"@_name": "phone_call_power_ratio"
+	},
+	{
+		"#text": "Call time",
+		"@_name": "phone_call_time"
+	},
+	{
+		"#text": "Phone standby",
+		"@_name": "phone_idle"
+	},
+	{
+		"#text": "Image compression",
+		"@_name": "picture_compression"
+	},
+	{
+		"#text": "The greater the compression ratio, the better the power saving effect, but it may affect image quality.",
+		"@_name": "picture_compression_explain"
+	},
+	{
+		"#text": "Ratio",
+		"@_name": "picture_compression_ratio"
+	},
+	{
+		"#text": "OK",
+		"@_name": "power_alert_dialog_ok"
+	},
+	{
+		"#text": "AOD",
+		"@_name": "power_aod"
+	},
+	{
+		"#text": "Background power usage",
+		"@_name": "power_bg"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "power_bluetooth"
+	},
+	{
+		"#text": "Cellular network standby",
+		"@_name": "power_cell"
+	},
+	{
+		"#text": "Usage since last charge",
+		"@_name": "power_consumption_details"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "power_continue_disable"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "power_continue_enable"
+	},
+	{
+		"#text": "Low power mode may reduce system performance",
+		"@_name": "power_continue_remind"
+	},
+	{
+		"#text": "Last 6 hours",
+		"@_name": "power_duration_six_hours"
+	},
+	{
+		"#text": "Last 3 hours",
+		"@_name": "power_duration_three_hours"
+	},
+	{
+		"#text": "Last 12 hours",
+		"@_name": "power_duration_twelve_hours"
+	},
+	{
+		"#text": "Last 24 hours",
+		"@_name": "power_duration_twenty_four_hours"
+	},
+	{
+		"#text": "The app background of non-working occupies more than %1$s of CPU, up to %2$s min today, leading to high power usage, heating up, and lagging",
+		"@_name": "power_exception_msg"
+	},
+	{
+		"#text": "High power usage apps",
+		"@_name": "power_exception_notice"
+	},
+	{
+		"#text": "Face recognition",
+		"@_name": "power_face"
+	},
+	{
+		"#text": "Foreground power usage",
+		"@_name": "power_fg"
+	},
+	{
+		"#text": "Fingerprint identification",
+		"@_name": "power_fingerprint"
+	},
+	{
+		"#text": "Flashlight",
+		"@_name": "power_flashlight"
+	},
+	{
+		"#text": "Hardware",
+		"@_name": "power_hard_sipper"
+	},
+	{
+		"#text": "Total hardware usage",
+		"@_name": "power_hard_total_sipper"
+	},
+	{
+		"#text": "Overview",
+		"@_name": "power_history"
+	},
+	{
+		"#text": "Phone standby",
+		"@_name": "power_idle"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "power_item_ignore"
+	},
+	{
+		"#text": "Smart saving",
+		"@_name": "power_item_medium"
+	},
+	{
+		"#text": "Off",
+		"@_name": "power_item_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "power_item_on"
+	},
+	{
+		"#text": "Primary saving",
+		"@_name": "power_item_primary"
+	},
+	{
+		"#text": "Off",
+		"@_name": "power_mode_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "power_mode_on"
+	},
+	{
+		"#text": "Configuration",
+		"@_name": "power_mode_summary"
+	},
+	{
+		"#text": "No Hardware Usage Data",
+		"@_name": "power_no_hw_data_msg"
+	},
+	{
+		"#text": "No Software Usage Data",
+		"@_name": "power_no_sw_data_msg"
+	},
+	{
+		"#text": "\"Don't remind me again\"",
+		"@_name": "power_not_remind"
+	},
+	{
+		"#text": "Voice call",
+		"@_name": "power_phone"
+	},
+	{
+		"@_name": "power_rank_draw_y0"
+	},
+	{
+		"@_name": "power_rank_draw_y100"
+	},
+	{
+		"@_name": "power_rank_draw_y20"
+	},
+	{
+		"@_name": "power_rank_draw_y40"
+	},
+	{
+		"@_name": "power_rank_draw_y80"
+	},
+	{
+		"#text": "Hardware",
+		"@_name": "power_rank_hardware"
+	},
+	{
+		"#text": "Software",
+		"@_name": "power_rank_soft"
+	},
+	{
+		"#text": "View consumption ranking",
+		"@_name": "power_ranking_desc"
+	},
+	{
+		"#text": "Power saving tip",
+		"@_name": "power_save_notice"
+	},
+	{
+		"#text": "Power saving tip: Reduce the screen brightness and screen timeout",
+		"@_name": "power_save_notice_msg"
+	},
+	{
+		"#text": "Screen",
+		"@_name": "power_screen"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "power_setting"
+	},
+	{
+		"#text": "Software",
+		"@_name": "power_soft_sipper"
+	},
+	{
+		"#text": "Total software usage",
+		"@_name": "power_soft_total_sipper"
+	},
+	{
+		"#text": "Power usage details",
+		"@_name": "power_title"
+	},
+	{
+		"#text": "Extend battery life by 10%",
+		"@_name": "primary_power_save_subtitle"
+	},
+	{
+		"#text": "Primary saving",
+		"@_name": "primary_power_save_title"
+	},
+	{
+		"#text": "Advice",
+		"@_name": "processing_advice"
+	},
+	{
+		"#text": "Running Consumption",
+		"@_name": "run_consumption"
+	},
+	{
+		"#text": "s",
+		"@_name": "runnint_time_unit"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "scheduled_dialog_cancel"
+	},
+	{
+		"#text": "Enable now",
+		"@_name": "scheduled_dialog_ok"
+	},
+	{
+		"#text": "Enable by schedule",
+		"@_name": "scheduled_supermode_on"
+	},
+	{
+		"#text": "Low power mode will be enabled in %s sec.",
+		"@_name": "scheduled_time_dialog_message_standard"
+	},
+	{
+		"#text": "Super saving mode will be enabled in %s sec.",
+		"@_name": "scheduled_time_dialog_message_supper"
+	},
+	{
+		"#text": "Custom power saving mode will be enabled in %s sec.",
+		"@_name": "scheduled_time_dialog_message_userdefine"
+	},
+	{
+		"#text": "CABC screen power-saving technology: by dynamically adjusting the contrast of the display, brightness is reduced, and a power-saving effect is achieved",
+		"@_name": "screen_cabc_description"
+	},
+	{
+		"#text": "CABC setting",
+		"@_name": "screen_cabc_title"
+	},
+	{
+		"#text": "Screen off",
+		"@_name": "screen_off"
+	},
+	{
+		"#text": "Turn off network when on standby",
+		"@_name": "screen_off_network"
+	},
+	{
+		"#text": "Enabling this will save more power, but will prevent the phone from receiving messages when on standby.",
+		"@_name": "screen_off_network_subtitle"
+	},
+	{
+		"#text": "Screen off time",
+		"@_name": "screen_off_time"
+	},
+	{
+		"#text": "Turn off secondary display",
+		"@_name": "screen_off_vice_screen"
+	},
+	{
+		"#text": "Turn off the screen when the low battery mode is turned on",
+		"@_name": "screen_off_vice_screen_subtitle"
+	},
+	{
+		"#text": "Screen on",
+		"@_name": "screen_on"
+	},
+	{
+		"#text": "Includes map navigation, video browsing, game bots, etc.",
+		"@_name": "screen_on_msg"
+	},
+	{
+		"#text": "Screen-on time",
+		"@_name": "screen_on_time"
+	},
+	{
+		"#text": "Power used by display and backlight:",
+		"@_name": "screen_usage"
+	},
+	{
+		"#text": "High saving",
+		"@_name": "senior_power_save"
+	},
+	{
+		"#text": "Cut power usage of apps running by 30%",
+		"@_name": "senior_power_save_subtitle"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Power usage statistics",
+		"@_name": "sipper_detail"
+	},
+	{
+		"#text": "%1$s has been closed for consuming a lot of power when on standby.",
+		"@_name": "sipper_overed_auto_kill_msg"
+	},
+	{
+		"#text": "App has been closed",
+		"@_name": "sipper_overed_close"
+	},
+	{
+		"#text": "The standby power consumption reached %2$s mAh in the past %1$s, %3$s of total, possibly due to abnormal battery usage.",
+		"@_name": "sipper_overed_detail_msg"
+	},
+	{
+		"#text": "%1$s consumes a lot of power when on standby.",
+		"@_name": "sipper_overed_msg"
+	},
+	{
+		"#text": "The standby power consumption during %1$s–%2$s reached %3$s mAh, %4$s of total, possibly due to abnormal battery usage.",
+		"@_name": "sipper_overed_time_msg"
+	},
+	{
+		"#text": "Abnormal power consumption",
+		"@_name": "sipper_overed_title"
+	},
+	{
+		"#text": "Power usage overview",
+		"@_name": "sipper_overview"
+	},
+	{
+		"#text": "\"Power usage ratio: \"",
+		"@_name": "sipper_ratio"
+	},
+	{
+		"#text": "Power usage:",
+		"@_name": "sipper_sum"
+	},
+	{
+		"#text": "Smart Background (recommended)",
+		"@_name": "smart_bg_mode0"
+	},
+	{
+		"#text": "Keep running in background",
+		"@_name": "smart_bg_mode1"
+	},
+	{
+		"#text": "Disallow running in background",
+		"@_name": "smart_bg_mode2"
+	},
+	{
+		"#text": "Reduce performance to save power",
+		"@_name": "smart_power_mode_desc"
+	},
+	{
+		"#text": "Smart drop frame",
+		"@_name": "smart_reduce_fps"
+	},
+	{
+		"#text": "Multiple",
+		"@_name": "some_app"
+	},
+	{
+		"#text": "Bluetooth and GPS",
+		"@_name": "standard_connect_info"
+	},
+	{
+		"#text": "Bluetooth, GPS and NFC",
+		"@_name": "standard_connect_pro_info"
+	},
+	{
+		"#text": "Adjust CPU to balanced mode",
+		"@_name": "standard_cpu_info"
+	},
+	{
+		"#text": "Enable smart brightness",
+		"@_name": "standard_light_auto_info"
+	},
+	{
+		"#text": "Lock screen after 30 sec of inactivity",
+		"@_name": "standard_screentime_info"
+	},
+	{
+		"#text": "Standby power usage",
+		"@_name": "standby_consumption"
+	},
+	{
+		"#text": "Remind to enable saving mode",
+		"@_name": "sub_title_auto_ps"
+	},
+	{
+		"#text": "Automatically turn on power saving mode when battery is low",
+		"@_name": "sub_title_mode_select"
+	},
+	{
+		"#text": "Optimize settings and balance performance",
+		"@_name": "sub_title_stardard_ps"
+	},
+	{
+		"#text": "Maximize battery life",
+		"@_name": "sub_title_supper_ps"
+	},
+	{
+		"#text": "Configure saving mode according to your needs",
+		"@_name": "sub_title_user_ps"
+	},
+	{
+		"#text": "Lower frequency of app auto-start",
+		"@_name": "subtitle_alarm_align"
+	},
+	{
+		"#text": "Disable linked launch of apps when the phone is standby, and resume it when the screen is woken up.",
+		"@_name": "subtitle_app_cutawaken"
+	},
+	{
+		"#text": "Vibrate when Home button is pressed",
+		"@_name": "subtitle_audio_click_vibrate"
+	},
+	{
+		"#text": "Realtime background blurring makes content easier to read. Turning it off will save power.",
+		"@_name": "subtitle_screen_blur"
+	},
+	{
+		"#text": "Cut power consumption by up to 50%, but may cause image distortion.",
+		"@_name": "subtitle_screen_ps"
+	},
+	{
+		"#text": "Turn on/off network connections based on your sleep patterns to save power",
+		"@_name": "subtitle_sleep_mode"
+	},
+	{
+		"#text": "%1$d apps banned when on standby",
+		"@_name": "summary_app_disable_sleep"
+	},
+	{
+		"#text": "%1$d app(s) kept running when on standby",
+		"@_name": "summary_app_enable_sleep"
+	},
+	{
+		"#text": "Auto power saving",
+		"@_name": "summary_auto_ps"
+	},
+	{
+		"#text": "Sounds &amp; vibration",
+		"@_name": "summary_config_audio"
+	},
+	{
+		"#text": "Basic settings",
+		"@_name": "summary_config_device"
+	},
+	{
+		"#text": "Networks",
+		"@_name": "summary_config_network"
+	},
+	{
+		"#text": "Display &amp; brightness",
+		"@_name": "summary_config_screen"
+	},
+	{
+		"#text": "System",
+		"@_name": "summary_config_system"
+	},
+	{
+		"#text": "Other",
+		"@_name": "summary_other_ps"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "summary_timer_ps"
+	},
+	{
+		"#text": "Turn off auto-sync",
+		"@_name": "super_async_info"
+	},
+	{
+		"#text": "Dynamic translucency",
+		"@_name": "super_blur_info"
+	},
+	{
+		"#text": "Bluetooth and GPS",
+		"@_name": "super_connect_info"
+	},
+	{
+		"#text": "Turn off Bluetooth, GPS and NFC",
+		"@_name": "super_connect_pro_info"
+	},
+	{
+		"#text": "Adjust CPU to saving mode",
+		"@_name": "super_cpu_info"
+	},
+	{
+		"#text": "Turn off WLAN and data",
+		"@_name": "super_data_info"
+	},
+	{
+		"#text": "Turn off Home button light",
+		"@_name": "super_homelight_info"
+	},
+	{
+		"#text": "Phone and Messages only",
+		"@_name": "super_intro_info"
+	},
+	{
+		"#text": "Disable gesture wakeup",
+		"@_name": "super_key_wake_info"
+	},
+	{
+		"#text": "Super saving mode allows you to add 2 more apps at most besides Phone and Messages.",
+		"@_name": "super_mode_app_select_title"
+	},
+	{
+		"#text": "Phone, Messages",
+		"@_name": "super_mode_no_use_app"
+	},
+	{
+		"#text": "Phone, Messages, %1$s, %2$s",
+		"@_name": "super_mode_no_use_app_multi_four"
+	},
+	{
+		"#text": "Phone, Messages, %1$s",
+		"@_name": "super_mode_no_use_app_multi_three"
+	},
+	{
+		"#text": "Apps in super saving mode",
+		"@_name": "super_mode_use_app_title"
+	},
+	{
+		"#text": "Super saving mode will change your Home screen to black and white, and reduce power consumption to the least possible amount. Enabling it will disable Bluetooth, GPS, sounds, haptic feedback and other features, as well as most apps except Phone, Messages, and a few others.",
+		"@_name": "super_power_mode_info"
+	},
+	{
+		"#text": "Super saving mode will change your Home screen to black and white, and reduce power consumption to the least possible amount. Enabling it will disable secondary display, Bluetooth, GPS, sounds, haptic feedback and other features, as well as most apps except Phone, Messages, and a few others.",
+		"@_name": "super_power_mode_info_vice_screen"
+	},
+	{
+		"#text": "Lock screen after 15 sec of inactivity",
+		"@_name": "super_screentime_info"
+	},
+	{
+		"#text": "Disable voice wakeup",
+		"@_name": "super_speech_wake_info"
+	},
+	{
+		"#text": "h",
+		"@_name": "text_hour"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "text_loading"
+	},
+	{
+		"#text": "m",
+		"@_name": "text_minute"
+	},
+	{
+		"#text": "No Apps Selectable",
+		"@_name": "text_no_app_select"
+	},
+	{
+		"#text": "Remaining: %1$d d %2$d h",
+		"@_name": "text_remain_sb_time"
+	},
+	{
+		"#text": "Remaining",
+		"@_name": "text_remain_time"
+	},
+	{
+		"#text": "%1$d h %2$d m",
+		"@_name": "text_remain_use_time"
+	},
+	{
+		"#text": "Extended by %1$d h %2$d m",
+		"@_name": "text_use_time_increase"
+	},
+	{
+		"#text": "Scheduled",
+		"@_name": "timed_saving"
+	},
+	{
+		"#text": "Enable by schedule",
+		"@_name": "timed_saving_ps"
+	},
+	{
+		"#text": "%1$d time(s)",
+		"@_name": "times"
+	},
+	{
+		"#text": "Aligned wakeup",
+		"@_name": "title_alarm_algin"
+	},
+	{
+		"#text": "No linked launch when standby",
+		"@_name": "title_app_cutawaken"
+	},
+	{
+		"#text": "Power-consuming apps auto-cleared",
+		"@_name": "title_app_killed_notification"
+	},
+	{
+		"#text": "Background progresses",
+		"@_name": "title_app_sleep_manager"
+	},
+	{
+		"#text": "Select app",
+		"@_name": "title_app_super_app_select"
+	},
+	{
+		"#text": "System sound effects",
+		"@_name": "title_audio_all_tips"
+	},
+	{
+		"#text": "Haptic feedback",
+		"@_name": "title_audio_click_vibrate"
+	},
+	{
+		"#text": "Mute",
+		"@_name": "title_audio_mute"
+	},
+	{
+		"#text": "Vibration",
+		"@_name": "title_audio_vibrate"
+	},
+	{
+		"#text": "Low power alert",
+		"@_name": "title_auto_ps"
+	},
+	{
+		"#text": "Restrict background apps",
+		"@_name": "title_background_app_count"
+	},
+	{
+		"#text": "No background processes",
+		"@_name": "title_background_count_0"
+	},
+	{
+		"#text": "1 process allowed only",
+		"@_name": "title_background_count_1"
+	},
+	{
+		"#text": "2 processes allowed at most",
+		"@_name": "title_background_count_2"
+	},
+	{
+		"#text": "3 processes allowed at most",
+		"@_name": "title_background_count_3"
+	},
+	{
+		"#text": "4 processes allowed at most",
+		"@_name": "title_background_count_4"
+	},
+	{
+		"#text": "Standard limit",
+		"@_name": "title_background_count_standard"
+	},
+	{
+		"#text": "Battery Manager",
+		"@_name": "title_battery_manager"
+	},
+	{
+		"#text": "Tap to enable %1$s",
+		"@_name": "title_click_enter_pm"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "title_device_bluetooth"
+	},
+	{
+		"#text": "CPU performance",
+		"@_name": "title_device_cpu_mode"
+	},
+	{
+		"#text": "GPS",
+		"@_name": "title_device_gps"
+	},
+	{
+		"#text": "GPU power saving",
+		"@_name": "title_device_gpu_mode"
+	},
+	{
+		"#text": "Portable hotspot",
+		"@_name": "title_device_mobile_hotspots"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "title_device_nfc"
+	},
+	{
+		"#text": "Home button light",
+		"@_name": "title_device_tlight"
+	},
+	{
+		"#text": "Enable super saving mode",
+		"@_name": "title_enable_supper_mode"
+	},
+	{
+		"#text": "End time",
+		"@_name": "title_end_time"
+	},
+	{
+		"#text": "10 min",
+		"@_name": "title_locktime_10m"
+	},
+	{
+		"#text": "1 min",
+		"@_name": "title_locktime_1m"
+	},
+	{
+		"#text": "2 min",
+		"@_name": "title_locktime_2m"
+	},
+	{
+		"#text": "30 min",
+		"@_name": "title_locktime_30m"
+	},
+	{
+		"#text": "30 sec",
+		"@_name": "title_locktime_30s"
+	},
+	{
+		"#text": "5 min",
+		"@_name": "title_locktime_5m"
+	},
+	{
+		"#text": "Low power mode",
+		"@_name": "title_low_power_mode"
+	},
+	{
+		"#text": "Tap to configure low power mode",
+		"@_name": "title_low_powr_remind_jump_to_low_power"
+	},
+	{
+		"#text": "Tap to configure super saving mode",
+		"@_name": "title_low_powr_remind_jump_to_super_mode"
+	},
+	{
+		"#text": "Low power:",
+		"@_name": "title_lower_level_value"
+	},
+	{
+		"#text": "Saving mode",
+		"@_name": "title_mode_select"
+	},
+	{
+		"#text": "Turn off cellular network",
+		"@_name": "title_network_data"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "title_network_wlan"
+	},
+	{
+		"#text": "You are in low power mode now.",
+		"@_name": "title_performance_low_mode"
+	},
+	{
+		"#text": "You are now in super saving mode",
+		"@_name": "title_performance_supper_mode"
+	},
+	{
+		"#text": "Battery lower than %1$d",
+		"@_name": "title_power_low"
+	},
+	{
+		"#text": "Battery life remaining is shorter than %1$d %2$s!",
+		"@_name": "title_power_low_mode"
+	},
+	{
+		"#text": "Saving mode",
+		"@_name": "title_power_mode"
+	},
+	{
+		"#text": "Power usage details",
+		"@_name": "title_power_ranking"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "title_power_setting"
+	},
+	{
+		"#text": "Smart brightness",
+		"@_name": "title_screen_autobright"
+	},
+	{
+		"#text": "Dynamic translucency",
+		"@_name": "title_screen_blur"
+	},
+	{
+		"#text": "Brightness",
+		"@_name": "title_screen_bright"
+	},
+	{
+		"#text": "Screen auto-lock",
+		"@_name": "title_screen_locktime"
+	},
+	{
+		"#text": "Enable screen power saving mode",
+		"@_name": "title_screen_ps"
+	},
+	{
+		"#text": "Smart sleep",
+		"@_name": "title_sleep_mode"
+	},
+	{
+		"#text": "Low power mode",
+		"@_name": "title_standard_mode"
+	},
+	{
+		"#text": "Low power mode",
+		"@_name": "title_stardard_ps"
+	},
+	{
+		"#text": "Start time",
+		"@_name": "title_start_time"
+	},
+	{
+		"#text": "Apps allowed in super mode",
+		"@_name": "title_super_mode_app_count"
+	},
+	{
+		"#text": 0,
+		"@_name": "title_super_mode_app_count_0"
+	},
+	{
+		"#text": "1 app",
+		"@_name": "title_super_mode_app_count_1"
+	},
+	{
+		"#text": "2 apps",
+		"@_name": "title_super_mode_app_count_2"
+	},
+	{
+		"#text": "Select app",
+		"@_name": "title_super_mode_app_select"
+	},
+	{
+		"#text": "Super saving mode",
+		"@_name": "title_supper_mode"
+	},
+	{
+		"#text": "Super saving mode will disable all features and services except Phone and Messages.",
+		"@_name": "title_supper_mode_summary"
+	},
+	{
+		"#text": "Super saving mode",
+		"@_name": "title_supper_ps"
+	},
+	{
+		"#text": "Voice wakeup",
+		"@_name": "title_system_audio_awake"
+	},
+	{
+		"#text": "Auto-sync",
+		"@_name": "title_system_autosync"
+	},
+	{
+		"#text": "Gesture wakeup",
+		"@_name": "title_system_awake"
+	},
+	{
+		"#text": "Function mode",
+		"@_name": "title_system_black_mode"
+	},
+	{
+		"#text": "Clear memory",
+		"@_name": "title_system_clean_memory"
+	},
+	{
+		"#text": "Saving mode",
+		"@_name": "title_timer_ps"
+	},
+	{
+		"#text": "Custom mode",
+		"@_name": "title_user_define_mode"
+	},
+	{
+		"#text": "Custom mode",
+		"@_name": "title_user_ps"
+	},
+	{
+		"#text": "Background power usage",
+		"@_name": "total_bg_power_sec"
+	},
+	{
+		"#text": "%1$s running in the background, %2$d mAh of power used",
+		"@_name": "total_bg_run_time_only_sec"
+	},
+	{
+		"#text": "Running in the background %1$s",
+		"@_name": "total_bg_time_sec"
+	},
+	{
+		"#text": "Running in the background",
+		"@_name": "total_bg_time_sec_no_num"
+	},
+	{
+		"#text": "Power usage",
+		"@_name": "total_fg_power_sec"
+	},
+	{
+		"#text": "%1$s running in the foreground, %2$d mAh of power used",
+		"@_name": "total_fg_run_time_only_sec"
+	},
+	{
+		"#text": "Running in the foreground %1$s",
+		"@_name": "total_fg_time_sec"
+	},
+	{
+		"#text": "Running in the foreground",
+		"@_name": "total_fg_time_sec_no_num"
+	},
+	{
+		"#text": "Phone and Messages only",
+		"@_name": "ultra_power_mode_desc"
+	},
+	{
+		"#text": "app(s) kept running",
+		"@_name": "usage_app_num"
+	},
+	{
+		"#text": "Usage details",
+		"@_name": "usage_detail"
+	},
+	{
+		"#text": "Define options for daily use",
+		"@_name": "user_power_mode_desc"
+	},
+	{
+		"#text": "Custom saving",
+		"@_name": "user_power_save"
+	},
+	{
+		"#text": "Customize power saving pattern",
+		"@_name": "user_power_save_subtitle"
+	},
+	{
+		"#text": "Custom saving",
+		"@_name": "user_power_save_title"
+	},
+	{
+		"#text": "Customize power saving pattern",
+		"@_name": "userdefnie_power_save"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "usermode_dialog_cancel"
+	},
+	{
+		"#text": "Custom mode needs to be manually configured or it cannot be turned on.",
+		"@_name": "usermode_dialog_message"
+	},
+	{
+		"#text": "Configure",
+		"@_name": "usermode_dialog_ok"
+	},
+	{
+		"#text": "View All(%1$s)",
+		"@_name": "view_all"
+	},
+	{
+		"#text": "Includes online message sync, data update, etc.",
+		"@_name": "wakeup_msg"
+	},
+	{
+		"#text": "Awake time when on standby",
+		"@_name": "wakeup_time_while_idle"
+	},
+	{
+		"#text": "WLAN data usage",
+		"@_name": "wakeup_times_while_idle"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "wifi"
+	},
+	{
+		"#text": "WLAN data usage",
+		"@_name": "wifi_data"
+	},
+	{
+		"#text": "WLAN-on time",
+		"@_name": "wifi_on_time"
+	},
+	{
+		"#text": "Power used by WLAN:",
+		"@_name": "wifi_power_ratio"
+	},
+	{
+		"#text": "\"Power saving tip: Turn off WLAN when it's not in use\"",
+		"@_name": "wifi_power_save_notie_msg"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "wifi_settings_title"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "%1$dm",
+		"@_name": "durationMinutes_whole_unit"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Battery management",
+		"@_name": "hello_blank_fragment"
+	},
+	{
+		"#text": "Click to enter setup page",
+		"@_name": "jumpToSetup"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": 60,
+		"@_name": "power_rank_draw_y60"
+	},
+	{
+		"#text": "Optional",
+		"@_name": "reject_recommend"
+	},
+	{
+		"#text": "ActivityPowerRank",
+		"@_name": "title_activity_activity_power_rank"
+	},
+	{
+		"@_name": "title_activity_app_power_manager"
+	},
+	{
+		"@_name": "title_activity_power_uimain"
+	},
+	{
+		"#text": "%1$s total Nums",
+		"@_name": "total_num_lager_files"
+	}
+]

@@ -1,0 +1,2245 @@
+[
+	{
+		"#text": "System UI Tools",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled from Favorite",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel like",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite status",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "Days After",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "Days Before",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Update File",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Go refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Call",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/Calling Record",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Calling Record",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s.",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "allow push notifications",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "call phone",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "use camera (to take photo/video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "access location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "use mobile data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "access internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "record audio/call",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "record call",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "turn on mobile data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "access WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "abc_action_bar_home_description_format"
+	},
+	{
+		"#text": "%1$s, %2$s, %3$s",
+		"@_name": "abc_action_bar_home_subtitle_description_format"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "MMMM d",
+		"@_name": "lock_month_day"
+	},
+	{
+		"#text": "yyyy MMM d (E)",
+		"@_name": "lock_week"
+	},
+	{
+		"#text": "E, MMMM d",
+		"@_name": "mz_date_format"
+	},
+	{
+		"#text": "Reply",
+		"@_name": "notification_reply"
+	},
+	{
+		"#text": "Send",
+		"@_name": "notification_reply_send"
+	},
+	{
+		"#text": "[Audio]",
+		"@_name": "wechat_message_type_voice"
+	},
+	{
+		"#text": "Authorization successful",
+		"@_name": "wechat_oauth_success"
+	},
+	{
+		"#text": "Authorization failed",
+		"@_name": "wechat_oauth_deny"
+	},
+	{
+		"#text": "Authorization cancelled",
+		"@_name": "wechat_oauth_cancel"
+	},
+	{
+		"#text": "One unsent message",
+		"@_name": "wechat_sending_failed_title"
+	},
+	{
+		"#text": "Content copied to clipboard. Please paste and send again",
+		"@_name": "wechat_sending_failed_text"
+	},
+	{
+		"#text": "Pretty and smart",
+		"@_name": "first_page_text1"
+	},
+	{
+		"#text": "Secure and easy to use",
+		"@_name": "first_page_text2"
+	},
+	{
+		"#text": "200 new animations",
+		"@_name": "enjoy_text1"
+	},
+	{
+		"#text": "400 new features",
+		"@_name": "enjoy_text2"
+	},
+	{
+		"#text": "430 days and nights",
+		"@_name": "enjoy_text3"
+	},
+	{
+		"#text": "Dedicated to the best Flyme ever",
+		"@_name": "enjoy_text4"
+	},
+	{
+		"#text": "Get Started",
+		"@_name": "enjoy_text5"
+	},
+	{
+		"#text": "Brand New Design",
+		"@_name": "new_design"
+	},
+	{
+		"#text": "\"Content-oriented UI &amp; 3D animation \nA visual treat for gadget enthusiasts\"",
+		"@_name": "new_design_content"
+	},
+	{
+		"#text": "An Engine That Thinks",
+		"@_name": "intelligent_thinking_engine"
+	},
+	{
+		"#text": "\"Boosts gaming performance, heals at night \nAdapts to your habits, and evolves itself\"",
+		"@_name": "intelligent_thinking_engine_content"
+	},
+	{
+		"#text": "Powerful Functionality",
+		"@_name": "powerful_function"
+	},
+	{
+		"#text": "\"Privacy mode, Kid Space, and more \n400 new features, 1 all-capable system\"",
+		"@_name": "powerful_function_content"
+	},
+	{
+		"#text": "Security Innovation",
+		"@_name": "security_innovation"
+	},
+	{
+		"#text": "\"Browsing, payment, communications, etc. \nWe've got it all under perfect control\"",
+		"@_name": "security_innovation_content"
+	},
+	{
+		"#text": "Drag two fingers to pan the picture",
+		"@_name": "screenshot_text_edit_drag"
+	},
+	{
+		"#text": "Shape",
+		"@_name": "screenshot_text_edit_shape"
+	},
+	{
+		"#text": "Share",
+		"@_name": "screenshot_text_share"
+	},
+	{
+		"#text": "No more content",
+		"@_name": "screenshot_text_nomore"
+	},
+	{
+		"#text": "Save",
+		"@_name": "screenshot_text_save"
+	},
+	{
+		"#text": "Drag crop handles to take long screenshot",
+		"@_name": "screenshot_text_scrolltocapture"
+	},
+	{
+		"#text": "Loading....",
+		"@_name": "screenshot_text_load"
+	},
+	{
+		"#text": "Hold power and volume buttons to take partial or long screenshot",
+		"@_name": "screenshot_text_guide"
+	},
+	{
+		"#text": "Maximum length exceeded",
+		"@_name": "screenshot_text_reach_max"
+	},
+	{
+		"#text": "Edit Screenshot",
+		"@_name": "screenshot_text_edit"
+	},
+	{
+		"#text": "Mosaic",
+		"@_name": "screenshot_text_edit_mosaic"
+	},
+	{
+		"#text": "Screen Rec",
+		"@_name": "screenrecord_saved_title"
+	},
+	{
+		"#text": "End",
+		"@_name": "screenrecord_text_stop"
+	},
+	{
+		"#text": "min",
+		"@_name": "screenrecord_saved_text_min"
+	},
+	{
+		"#text": "sec",
+		"@_name": "screenrecord_saved_text_s"
+	},
+	{
+		"#text": "Capture long screenshot",
+		"@_name": "screenshot_text_startscrollcapture"
+	},
+	{
+		"#text": "GOT IT",
+		"@_name": "screenshot_text_known"
+	},
+	{
+		"#text": "Text",
+		"@_name": "screenshot_text_edit_text"
+	},
+	{
+		"#text": "Undo",
+		"@_name": "screenshot_text_edit_undo"
+	},
+	{
+		"#text": "Done",
+		"@_name": "screenshot_text_commit"
+	},
+	{
+		"#text": "\"Can't take long screenshot on current screen.\"",
+		"@_name": "screenshot_text_noscroll"
+	},
+	{
+		"#text": "Start",
+		"@_name": "screenrecord_text_start"
+	},
+	{
+		"#text": "Brush",
+		"@_name": "screenshot_text_edit_brush"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "screenshot_text_cancel"
+	},
+	{
+		"#text": "Preparing Flyme for you",
+		"@_name": "theme_loading"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "title_notifications"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "title_settings"
+	},
+	{
+		"#text": "Task manager",
+		"@_name": "multi_task_title"
+	},
+	{
+		"#text": "Swipe up from bottom edge",
+		"@_name": "multi_task_dtu_title"
+	},
+	{
+		"#text": "Go to last task",
+		"@_name": "multi_task_rtl_title"
+	},
+	{
+		"#text": "Go to last task by swiping from edge to inside",
+		"@_name": "multi_task_rtl_summary"
+	},
+	{
+		"#text": "Task card layout",
+		"@_name": "multi_task_layout_title"
+	},
+	{
+		"#text": "WeChat voice call",
+		"@_name": "wechat_audio"
+	},
+	{
+		"#text": "WeChat video call",
+		"@_name": "wechat_video"
+	},
+	{
+		"#text": "QQ Audio",
+		"@_name": "qq_audio"
+	},
+	{
+		"#text": "QQ Video",
+		"@_name": "qq_video"
+	},
+	{
+		"#text": "TIM Audio",
+		"@_name": "tim_audio"
+	},
+	{
+		"#text": "TIM Video",
+		"@_name": "tim_video"
+	},
+	{
+		"#text": "DingTalk Video",
+		"@_name": "dingtalk_video"
+	},
+	{
+		"#text": "DingTalk Audio",
+		"@_name": "dingtalk_audio"
+	},
+	{
+		"#text": "Unknown artist",
+		"@_name": "unknown_artist"
+	},
+	{
+		"#text": "Unknown album",
+		"@_name": "unknown_albumTitle"
+	},
+	{
+		"#text": "Navigation method",
+		"@_name": "action_bar_tile"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "pref_category_custom"
+	},
+	{
+		"#text": "Background color",
+		"@_name": "pref_category_background"
+	},
+	{
+		"#text": "Slide to switch tasks",
+		"@_name": "pref_title_switcher_recents"
+	},
+	{
+		"#text": "Easy gesture",
+		"@_name": "pref_title_navigation_bar_hide_gesture_simple"
+	},
+	{
+		"#text": "On the screen sides: horizontally swipe to go back. On the screen bottom: swipe up to go Home Screen; swipe up and hold to go multi-task",
+		"@_name": "pref_summary_navigation_bar_hide_gesture_simple"
+	},
+	{
+		"#text": "All-screen gesture",
+		"@_name": "pref_title_navigation_bar_hide_gesture"
+	},
+	{
+		"#text": "Android navigation bar",
+		"@_name": "pref_title_navigation_bar_standard"
+	},
+	{
+		"#text": "mBack",
+		"@_name": "pref_title_navigation_bar_flyme"
+	},
+	{
+		"#text": "Side navigation bar",
+		"@_name": "pref_title_navigation_gesture_side"
+	},
+	{
+		"#text": "Navigation gestures supported on both sides",
+		"@_name": "pref_summary_navigation_gesture_side"
+	},
+	{
+		"#text": "Tap to go back. Press to go Home Screen. Swipe up from the bottom to go multi-task",
+		"@_name": "pref_summary_navigation_bar_flyme"
+	},
+	{
+		"#text": "Tap back, Home, and multi-task on navigation bar",
+		"@_name": "pref_summary_navigation_bar_standard"
+	},
+	{
+		"#text": "Slide in navigation bar to switch tasks",
+		"@_name": "pref_summary_switcher_recents"
+	},
+	{
+		"#text": "On the screen sides: short swipe to go back. Long swipe to go Home Screen; long swipe and hold to go multi-task",
+		"@_name": "pref_summary_navigation_bar_hide_gesture"
+	},
+	{
+		"#text": "Try now",
+		"@_name": "experience_now"
+	},
+	{
+		"#text": "Simple and efficient navigation bar:",
+		"@_name": "experience_now_summary_line_one"
+	},
+	{
+		"#text": "Tap to go back. Press to go Home screen",
+		"@_name": "experience_now_summary_line_two"
+	},
+	{
+		"#text": "Swipe up from the bottom to go multi-task",
+		"@_name": "experience_now_summary_line_three"
+	},
+	{
+		"#text": "从两侧横滑返回",
+		"@_name": "pref_title_mback_gesture_side"
+	},
+	{
+		"#text": "长重按主键锁屏",
+		"@_name": "pref_title_mback_long_press"
+	},
+	{
+		"#text": "Horizontally swipe to go back when in mBack Navi",
+		"@_name": "pref_summary_mback_gesture_side"
+	},
+	{
+		"#text": "Hide navigation bar",
+		"@_name": "pref_title_navigation_bar_none"
+	},
+	{
+		"#text": "Hide navigation bar and use gestures",
+		"@_name": "pref_summary_navigation_bar_none"
+	},
+	{
+		"#text": "Lucky money assistant",
+		"@_name": "luckymoney_app_name"
+	},
+	{
+		"#text": "Renewed",
+		"@_name": "welcomepage_one_title"
+	},
+	{
+		"#text": "Meticulously crafted new design. Simple, light, and delicate.",
+		"@_name": "welcomepage_one_content"
+	},
+	{
+		"#text": "Full-featured",
+		"@_name": "welcomepage_two_title"
+	},
+	{
+		"#text": "\"Make it so easy to\ncommunicate, entertain, and guard\"",
+		"@_name": "welcomepage_two_content"
+	},
+	{
+		"#text": "Aicy debut",
+		"@_name": "welcomepage_three_title"
+	},
+	{
+		"#text": "\"Almighty smart assistant \nProficient in recognition, voice, photo, and more.\"",
+		"@_name": "welcomepage_three_content"
+	},
+	{
+		"#text": "Strong performance",
+		"@_name": "welcomepage_four_title"
+	},
+	{
+		"#text": "\"One Mind 3.5 An Engine That Thinks\nSmarter and more powerful\"",
+		"@_name": "welcomepage_four_content"
+	},
+	{
+		"#text": "Make the experience better",
+		"@_name": "enjoy_textview_one"
+	},
+	{
+		"#text": "Choose apps for quick start",
+		"@_name": "title"
+	},
+	{
+		"#text": "Modify in Settings > Navigation &amp; shortcuts > Double-press power button",
+		"@_name": "title_detial"
+	},
+	{
+		"#text": "All-screen gesture guide",
+		"@_name": "navigation_bar_detail_tile"
+	},
+	{
+		"#text": "Easy gesture guide",
+		"@_name": "navigation_bar_detail_simple_tile"
+	},
+	{
+		"#text": "Easy Navi Gesture",
+		"@_name": "navigation_bar_detail_title_total"
+	},
+	{
+		"#text": "Back",
+		"@_name": "navigation_bar_detail_title_back"
+	},
+	{
+		"#text": "Back to Home screen",
+		"@_name": "navigation_bar_detail_title_home"
+	},
+	{
+		"#text": "Go multi-task",
+		"@_name": "navigation_bar_detail_title_recent"
+	},
+	{
+		"#text": "Go to last task",
+		"@_name": "navigation_bar_detail_title_switch"
+	},
+	{
+		"#text": "\"On the screen sides: horizontally swipe to go back. \nOn the screen bottom: swipe up to go Home Screen; swipe up and hold to go multi-task\"",
+		"@_name": "navigation_bar_detail_simple_subtitle_total"
+	},
+	{
+		"#text": "Swipe from side to inside",
+		"@_name": "navigation_bar_detail_simple_subtitle_back"
+	},
+	{
+		"#text": "Swipe up from bottom",
+		"@_name": "navigation_bar_detail_simple_subtitle_home"
+	},
+	{
+		"#text": "Swipe up from bottom and hold",
+		"@_name": "navigation_bar_detail_simple_subtitle_recent"
+	},
+	{
+		"#text": "Swipe up from bottom and swipe left",
+		"@_name": "navigation_bar_detail_simple_subtitle_switch"
+	},
+	{
+		"#text": "Short swipe from side to inside",
+		"@_name": "navigation_bar_detail_subtitle_back"
+	},
+	{
+		"#text": "Long swipe from side to inside",
+		"@_name": "navigation_bar_detail_subtitle_home"
+	},
+	{
+		"#text": "Long swipe from side to inside and hold",
+		"@_name": "navigation_bar_detail_subtitle_recent"
+	},
+	{
+		"#text": "Demo",
+		"@_name": "navigation_bar_detail_demo_text"
+	},
+	{
+		"#text": "Not to enable Easy Navi Gesture?",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_title"
+	},
+	{
+		"#text": "Enable it in Settings > Navigation &amp; multi-task > Navigation method",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_negative_button_text"
+	},
+	{
+		"#text": "Not now",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_positive_button_text"
+	},
+	{
+		"#text": "Not now",
+		"@_name": "simple_gesture_guide_pager_cancel_button_text"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "simple_gesture_guide_pager_startup_button_text"
+	},
+	{
+		"#text": "Enabled",
+		"@_name": "simple_gesture_guide_pager_startup_toast_text"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "simple_gesture_guide_pager_settings"
+	},
+	{
+		"#text": "Easy and efficient navigation bar",
+		"@_name": "simple_gesture_guide_pager_notification_title"
+	},
+	{
+		"#text": "Visual immersion, easier interaction",
+		"@_name": "simple_gesture_guide_pager_notification_subtitle"
+	},
+	{
+		"#text": "Learn More",
+		"@_name": "simple_gesture_guide_pager_notification_learn_more"
+	},
+	{
+		"#text": "Driving Mode",
+		"@_name": "drivemode_settings_drivemode"
+	},
+	{
+		"#text": "Start when connecting to bluetooth",
+		"@_name": "drivemode_settings_bluetooth_start"
+	},
+	{
+		"#text": "Enable driving mode when connected to bluetooth",
+		"@_name": "drivemode_settings_bluetooth_start＿tips"
+	},
+	{
+		"#text": "Car bluetooth devices",
+		"@_name": "drivemode_settings_drivemode_devices"
+	},
+	{
+		"#text": "No bluetooth devices",
+		"@_name": "drivemode_settings_drivemode_no_devices"
+	},
+	{
+		"#text": "Auto Share WLAN",
+		"@_name": "drivemode_settings_auto_shared_wifi"
+	},
+	{
+		"#text": "Auto Share WLAN When Entering Driving Mode",
+		"@_name": "drivemode_settings_auto_share_wifi_tips"
+	},
+	{
+		"#text": "Dismiss auto-lock",
+		"@_name": "drivemode_settings_auto_unlock"
+	},
+	{
+		"#text": "In driving mode, the screen will not be auto-locked once it unlocks",
+		"@_name": "drivemode_settings_auto_unlock_tips"
+	},
+	{
+		"#text": "Company",
+		"@_name": "drivemode_settings_company"
+	},
+	{
+		"#text": "Not set",
+		"@_name": "drivemode_settings_company_tips"
+	},
+	{
+		"#text": "Exit driving mode",
+		"@_name": "drivemode_settings_exit_drivemode"
+	},
+	{
+		"#text": "Driving mode settings",
+		"@_name": "drivemode_settings_drivemode_settings"
+	},
+	{
+		"#text": "On",
+		"@_name": "drivemode_settings_auto_unlock_open"
+	},
+	{
+		"#text": "Off",
+		"@_name": "drivemode_settings_auto_unlock_close"
+	},
+	{
+		"#text": "Dismiss auto-lock",
+		"@_name": "drivemode_settings_auto_unlock_introduce_title"
+	},
+	{
+		"#text": "\"In driving mode, the unlocked phone will not auto-lock after the screen is turned off\nDouble-tap the screen or press Power button to turn on the screen\nExit the driving mode to auto restore the lock screen settings\"",
+		"@_name": "drivemode_settings_auto_unlock_introduce_small_title"
+	},
+	{
+		"#text": "Voice reminder",
+		"@_name": "drivemode_introduction_one"
+	},
+	{
+		"#text": "Read out incoming call numbers. Answer or end it",
+		"@_name": "drivemode_introduction_one_details"
+	},
+	{
+		"#text": "Focus on the road",
+		"@_name": "drivemode_introduction_two"
+	},
+	{
+		"#text": "Block notifications except incoming calls",
+		"@_name": "drivemode_introduction_two_details"
+	},
+	{
+		"#text": "Auto-on when driving",
+		"@_name": "drivemode_introduction_three"
+	},
+	{
+		"#text": "Enable driving mode when connected to the car",
+		"@_name": "drivemode_introduction_three_details"
+	},
+	{
+		"#text": "Start",
+		"@_name": "drivemode_open"
+	},
+	{
+		"#text": "OK",
+		"@_name": "drivemode_sure"
+	},
+	{
+		"#text": "Select devices",
+		"@_name": "drivemode_next_step"
+	},
+	{
+		"#text": "Skip",
+		"@_name": "drivemode_jump"
+	},
+	{
+		"#text": "Set bluetooth for car",
+		"@_name": "drivemode_conn_your_bluetooth"
+	},
+	{
+		"#text": "Enable driving mode when connected to bluetooth",
+		"@_name": "drivemode_auto_enter_drivemode_when_conn_bluetooth"
+	},
+	{
+		"#text": "Bluetooth devices:",
+		"@_name": "drivemode_current_car_bluetooth_device"
+	},
+	{
+		"#text": "Exchange",
+		"@_name": "drivemode_exchange"
+	},
+	{
+		"@_name": "drivemode_null"
+	},
+	{
+		"#text": "Driving Mode Disclaimer",
+		"@_name": "drivemode_setup_agreement_title"
+	},
+	{
+		"#text": "\"Thank you for using Flyme driving mode\n\n Before using the driving mode (hereinafter referred to as this product), please read this statement carefully. Once you choose to use this product, you acknowledge and accept this disclaimer, terms of service, and all latest agreements of Flyme Terms of Use.\n1. Do not set, change or operate this product while driving in case of traffic accidents or other dangerous situations. Otherwise, all results caused will be borne by you. \n2. Please give the actual traffic situation the top priority. Do not use navigation services provided by this product or other apps as your only basis for travelling and driving. Any violation of traffic regulations or other laws will be your own responsibility. \n3. This product does not require you to provide additional personally identifiable information except for the information you have provided to use the Flyme service. Unless such information is collected on your own initiative or based on the need for providing better service to you. The personal information protection and privacy policy apply to Flyme Terms of Use. \n4. During the process of using this product, you setting or using third-party products and services means you approve and agree to the terms of service of third parties. Please carefully read the policies of third parties. For products and services provided by third parties, Meizu bears no responsibility.\"",
+		"@_name": "drivemode_setup_agreement_content"
+	},
+	{
+		"@_name": "drivemode_flyme_user_protocol_detail",
+		"a": {
+			"#text": "More about Flyme Terms of Use",
+			"@_href": "https://www.flyme.cn/agreement"
+		}
+	},
+	{
+		"#text": "Disagree",
+		"@_name": "drivemode_disagree"
+	},
+	{
+		"#text": "Agree",
+		"@_name": "drivemode_agree"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "drivemode_exit"
+	},
+	{
+		"#text": "I read and agree",
+		"@_name": "drivemode_tips_text"
+	},
+	{
+		"#text": "Driving Mode Disclaimer",
+		"@_name": "drivemode_tips_text_link"
+	},
+	{
+		"#text": "Invite you to experience driving mode",
+		"@_name": "drivemode_tips_text_line1"
+	},
+	{
+		"#text": "Smarter, more convenient and personalized driving experience",
+		"@_name": "drivemode_tips_text_line2"
+	},
+	{
+		"#text": "No longer prompt",
+		"@_name": "drivemode_tips_text_no_more_tips"
+	},
+	{
+		"#text": "Go",
+		"@_name": "drivemode_tips_text_use_now"
+	},
+	{
+		"#text": "Drivemode Id",
+		"@_name": "drivemode_notify_channel_id"
+	},
+	{
+		"#text": "Drivemode Channel",
+		"@_name": "drivemode_notify_channel_name"
+	},
+	{
+		"#text": "This is Drivemode",
+		"@_name": "drivemode_notify_channel_description"
+	},
+	{
+		"#text": "No notifications",
+		"@_name": "game_mode_pro_no_noti"
+	},
+	{
+		"#text": "6 min",
+		"@_name": "childmode_setting_six_min"
+	},
+	{
+		"#text": "Usage",
+		"@_name": "childmode_setting_usage_statistics"
+	},
+	{
+		"#text": "Usage in past 7 days",
+		"@_name": "childmode_setting_use_time_week"
+	},
+	{
+		"#text": "Forced-exit if restricted apps timed out",
+		"@_name": "childmode_setting_forced_timeout_exit"
+	},
+	{
+		"#text": "Game speeded up",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_accelerating"
+	},
+	{
+		"#text": "App auto-exit in %1$d sec",
+		"@_name": "childmode_setting_force_quit_count_down"
+	},
+	{
+		"#text": "Enhance system performance for games and may cause overheat and high power usage",
+		"@_name": "game_mode_game_accelerate_summary"
+	},
+	{
+		"#text": "Timed out",
+		"@_name": "childmode_settings_time_out"
+	},
+	{
+		"#text": "Welfare",
+		"@_name": "game_mode_welfare"
+	},
+	{
+		"#text": "When network speedup interrupted, the game in speeding up may be disconnected",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_msg"
+	},
+	{
+		"#text": "Overused-alert only when closed. With no forced-exit.",
+		"@_name": "childmode_settings_force_quit_msg"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "game_mode_pro_settings"
+	},
+	{
+		"#text": "End",
+		"@_name": "game_mode_end_call"
+	},
+	{
+		"#text": "2 h",
+		"@_name": "childmode_setting_two_hours"
+	},
+	{
+		"#text": "Welfare",
+		"@_name": "game_mode_pro_game"
+	},
+	{
+		"#text": "No limit",
+		"@_name": "childmode_setting_unlimited"
+	},
+	{
+		"#text": "Start",
+		"@_name": "drivemode_noti_welcome_start"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "drivemode_noti_welcome_ignore"
+	},
+	{
+		"#text": "Network speedup",
+		"@_name": "game_mode_xunyou_accelerate_settings_total_switch_title"
+	},
+	{
+		"#text": "Invite you to experience driving mode",
+		"@_name": "drivemode_noti_welcome_title"
+	},
+	{
+		"#text": "Try now",
+		"@_name": "game_mode_xunyou_accelerate_probation_btn_title"
+	},
+	{
+		"#text": "Restricted apps daily quota remaining",
+		"@_name": "childmode_settings_today_remainder_time"
+	},
+	{
+		"#text": "Network speedup not enabled",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_not_open"
+	},
+	{
+		"#text": "Xunyou speedup",
+		"@_name": "game_mode_xunyou_accelerate_title"
+	},
+	{
+		"#text": "\" d\"",
+		"@_name": "childmode_settings_day"
+	},
+	{
+		"#text": "Game mode",
+		"@_name": "game_mode_title"
+	},
+	{
+		"#text": "Barrage notifications",
+		"@_name": "game_mode_barrage_notifications"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_limit_app_str"
+	},
+	{
+		"#text": "Block Gesture Screenshot",
+		"@_name": "game_mode_fingers_title"
+	},
+	{
+		"#text": "Xunyou patented Tech reduce lagging &amp; latency",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item1_msg"
+	},
+	{
+		"#text": "Recharge",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_charge"
+	},
+	{
+		"#text": "Get free trial",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_try"
+	},
+	{
+		"#text": "Restricted apps are still in use after timed out",
+		"@_name": "childmode_settings_use_time_out_msg"
+	},
+	{
+		"#text": "Mis-touch prevention",
+		"@_name": "game_mode_inadvertent_touch_title"
+	},
+	{
+		"#text": "School day",
+		"@_name": "childmode_setting_work_days"
+	},
+	{
+		"#text": "Game Assistant",
+		"@_name": "game_mode_game_assistant_title"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_has_limited_apps"
+	},
+	{
+		"#text": "Speedup expires on %1$s",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_time_to"
+	},
+	{
+		"#text": "Auto-speedup when gaming",
+		"@_name": "game_mode_xunyou_accelerate_settings_total_switch_desc"
+	},
+	{
+		"#text": "1 h",
+		"@_name": "childmode_setting_one_hours"
+	},
+	{
+		"#text": "WLAN Speedup Technology",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item1_title"
+	},
+	{
+		"#text": "s",
+		"@_name": "childmode_settings_second"
+	},
+	{
+		"#text": "Please login to Flyme account",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_login"
+	},
+	{
+		"#text": "Failed to speed up",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_accelerate_failed"
+	},
+	{
+		"#text": "Driving Mode",
+		"@_name": "drivemode"
+	},
+	{
+		"#text": "Fixed brightness",
+		"@_name": "game_mode_lock_brightness_title"
+	},
+	{
+		"#text": "Stopping speeder",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_stop_accelerate"
+	},
+	{
+		"#text": "Professional speeder for WLAN and 4G",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item0_msg"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_positive_text"
+	},
+	{
+		"#text": "Last 7 days",
+		"@_name": "childmode_settings_chart_record_week"
+	},
+	{
+		"#text": "Anti-addiction not enabled",
+		"@_name": "childmode_not_open"
+	},
+	{
+		"#text": "Refresh now",
+		"@_name": "childmode_refresh_data"
+	},
+	{
+		"#text": "Do not disturb",
+		"@_name": "game_mode_dnd_title"
+	},
+	{
+		"#text": "Available today: %1$s",
+		"@_name": "childmode_setting_usage_app_time"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_numbers_of_limited_apps"
+	},
+	{
+		"#text": "No longer prompt",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_checkbox_text"
+	},
+	{
+		"#text": "Game speeded up",
+		"@_name": "game_mode_xunyou_accelerate_summary_accelerate"
+	},
+	{
+		"#text": "QQ customer service",
+		"@_name": "game_mode_xunyou_accelerate_settings_contact_qq"
+	},
+	{
+		"#text": "Optimization options",
+		"@_name": "game_mode_category"
+	},
+	{
+		"#text": "Unlimited time",
+		"@_name": "childmode_setting_time_unlimited"
+	},
+	{
+		"#text": "None",
+		"@_name": "childmode_setting_time_none"
+	},
+	{
+		"#text": "Show Game Assistant while playing games",
+		"@_name": "game_mode_game_assistant_summary"
+	},
+	{
+		"#text": "Optimize network channels, reduce lagging &amp; latency, and avoid disconnection",
+		"@_name": "game_mode_xunyou_accelerate_probation_msg"
+	},
+	{
+		"#text": "Prevent Gesture Screenshot from being mistakenly triggered in games",
+		"@_name": "game_mode_fingers_summary"
+	},
+	{
+		"#text": "7 min",
+		"@_name": "childmode_setting_seven_min"
+	},
+	{
+		"#text": "h",
+		"@_name": "childmode_settings_hour"
+	},
+	{
+		"#text": "Speedup unavailable for current game",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_not_support"
+	},
+	{
+		"#text": "Error getting data. Please make sure that networks of both parties were connected.",
+		"@_name": "childmode_pull_data_errot"
+	},
+	{
+		"#text": "Contact customer service",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_contact"
+	},
+	{
+		"#text": "Initialization failed. Please retry",
+		"@_name": "game_mode_xunyou_accelerate_failed"
+	},
+	{
+		"#text": "Anti-addiction",
+		"@_name": "childmode_setting_breaking_scam"
+	},
+	{
+		"#text": "min",
+		"@_name": "childmode_settings_minute"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_imited_apps_time"
+	},
+	{
+		"#text": "Install mGame engine to get gift",
+		"@_name": "game_mode_pro_no_game_sdk"
+	},
+	{
+		"#text": "Reduce lagging &amp; latency",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item0_title"
+	},
+	{
+		"#text": "Daily usage",
+		"@_name": "childmode_setting_use_rankings_today"
+	},
+	{
+		"#text": "Smarter, more convenient and personalized driving experience",
+		"@_name": "drivemode_noti_welcome_text"
+	},
+	{
+		"#text": "Optimize network for games, reduce lagging &amp; latency",
+		"@_name": "game_mode_xunyou_accelerate_summary_normal"
+	},
+	{
+		"#text": "No notifications",
+		"@_name": "game_mode_no_chat_notifications"
+	},
+	{
+		"#text": "Read out incoming call numbers. Block unimportant notifications",
+		"@_name": "drivemode_noti_runing_text"
+	},
+	{
+		"#text": "Used in 7 days",
+		"@_name": "childmode_setting_use_rankings_seven_days"
+	},
+	{
+		"#text": "Rest day",
+		"@_name": "childmode_setting_reset_day"
+	},
+	{
+		"#text": "Consume a little mobile data to speed up when WLAN is unstable",
+		"@_name": "game_mode_xunyou_accelerate_settings_wifi_switch_desc"
+	},
+	{
+		"#text": "Disable network speeder",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_title"
+	},
+	{
+		"#text": "Disable network speeder",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_negative_text"
+	},
+	{
+		"#text": "Restricted apps exited. All restricted apps are unavailable today",
+		"@_name": "childmode_settings_limit_quit_can_not_use"
+	},
+	{
+		"#text": "3 h",
+		"@_name": "childmode_setting_three_hours"
+	},
+	{
+		"#text": "Identify when a game is running and optimize user experience",
+		"@_name": "game_mode_summary"
+	},
+	{
+		"#text": "WLAN optimization",
+		"@_name": "game_mode_xunyou_accelerate_settings_wifi_switch_title"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "childmode_settings_apps_loading"
+	},
+	{
+		"#text": "Game Keyboard",
+		"@_name": "game_mode_game_keyboard_title"
+	},
+	{
+		"#text": "Remaining: %1$s",
+		"@_name": "childmode_setting_remain_app_time"
+	},
+	{
+		"#text": "Keep brightness fixed when in-game",
+		"@_name": "game_mode_lock_brightness_summary"
+	},
+	{
+		"#text": "Daily quota",
+		"@_name": "childmode_setting_limited_time_every_day"
+	},
+	{
+		"#text": "Unrestricted apps",
+		"@_name": "childmode_setting_no_limited_apps"
+	},
+	{
+		"#text": "Overused",
+		"@_name": "childmode_settings_overtime_use"
+	},
+	{
+		"#text": "8 min",
+		"@_name": "childmode_setting_eight_min"
+	},
+	{
+		"#text": "Today %1$s",
+		"@_name": "childmode_setting_usage_app_item_today_time_msg"
+	},
+	{
+		"#text": "Network is not connected",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_error"
+	},
+	{
+		"#text": "Multi-task gestures &amp; mBack disabled in game mode",
+		"@_name": "game_mode_inadvertent_touch_summary"
+	},
+	{
+		"#text": "Game accelerator",
+		"@_name": "game_mode_game_accelerate_title"
+	},
+	{
+		"#text": "One-tap to start auto-speedup",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item2_title"
+	},
+	{
+		"#text": "Customer service",
+		"@_name": "game_mode_xunyou_accelerate_settings_contact_tel"
+	},
+	{
+		"#text": "Auto-speedup your game if purchased",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item2_msg"
+	},
+	{
+		"#text": "Time remained",
+		"@_name": "childmode_setting_remain_app_time_msg"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "game_mode_xunyou_accelerate_settings_loading_text"
+	},
+	{
+		"#text": "Applied",
+		"@_name": "childmode_setting_usage_app_time_msg"
+	},
+	{
+		"#text": "Time left",
+		"@_name": "game_mode_pro_time_remaining"
+	},
+	{
+		"#text": "Quota on restricted apps",
+		"@_name": "childmode_setting_numbers_of_using_limited_apps"
+	},
+	{
+		"#text": "Disable \\\"Press &amp; back to Home\\\" when Navi bar is hidden",
+		"@_name": "game_mode_inadvertent_pressure_home_summary"
+	},
+	{
+		"#text": "Manage restricted apps",
+		"@_name": "childmode_setting_limited_apps_manage"
+	},
+	{
+		"#text": "Past 7 days %1$s",
+		"@_name": "childmode_setting_usage_app_item_week_time_msg"
+	},
+	{
+		"#text": "Timed out",
+		"@_name": "childmode_settings_use_time_out_title"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "game_mode_pro_noti"
+	},
+	{
+		"#text": "Speedup unavailable for current game",
+		"@_name": "game_mode_xunyou_accelerate_summary_not_support"
+	},
+	{
+		"#text": "Network exception, tap to reload",
+		"@_name": "childmode_settings_loading_fail"
+	},
+	{
+		"#text": "Overused-alert only when closed",
+		"@_name": "childmode_setting_notification_sent_to_me_if_closed"
+	},
+	{
+		"#text": "Speedup expired. Please recharge",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_expired"
+	},
+	{
+		"#text": "Go to login",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_login"
+	},
+	{
+		"#text": "OK",
+		"@_name": "childmode_settings_dialog_ok"
+	},
+	{
+		"#text": "Daily",
+		"@_name": "childmode_settings_chart_record_today"
+	},
+	{
+		"#text": "Setting best speeding configuration",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_start_accelerate"
+	},
+	{
+		"#text": "Restricted apps daily quota run out",
+		"@_name": "childmode_settings_today_no_time"
+	},
+	{
+		"#text": "Press and add the icon to the label bar",
+		"@_name": "game_mode_pro_summary"
+	},
+	{
+		"#text": "Show WeChat and QQ notifications in barrage form while playing games",
+		"@_name": "game_mode_barrage_summary"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "game_mode_notifications"
+	},
+	{
+		"#text": "Disable all heads-ups",
+		"@_name": "game_mode_dnd_summary"
+	},
+	{
+		"#text": "Use a small suspended keyboard while playing landscape screen games",
+		"@_name": "game_mode_keyboard_summary"
+	},
+	{
+		"#text": "Restricted apps unavailable today",
+		"@_name": "childmode_settings_today_can_not_use"
+	},
+	{
+		"#text": "Totally banned",
+		"@_name": "childmode_setting_totally_prohibited"
+	},
+	{
+		"#text": "Close",
+		"@_name": "drivemode_noti_runing_close"
+	},
+	{
+		"#text": "Screen Rec",
+		"@_name": "game_mode_screenrecord"
+	},
+	{
+		"#text": "Driving mode is on",
+		"@_name": "drivemode_noti_runing_title"
+	},
+	{
+		"#text": "All apps",
+		"@_name": "childmode_setting_all_apps_time"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "game_mode_settings"
+	}
+]

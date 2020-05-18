@@ -1,0 +1,46 @@
+[
+	{
+		"#text": "Больше рингтонов...",
+		"@_name": "Add_More_Ringtones"
+	},
+	{
+		"#text": "Звонок будильника по умолчанию",
+		"@_name": "alarm_sound_default"
+	},
+	{
+		"#text": "Media Storage",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Исполнитель",
+		"@_name": "artist_label"
+	},
+	{
+		"#text": "Звук уведомления по умолчанию",
+		"@_name": "notification_sound_default"
+	},
+	{
+		"#text": "Рингтон по умолч.",
+		"@_name": "ringtone_default"
+	},
+	{
+		"#text": "Аудио",
+		"@_name": "root_audio"
+	},
+	{
+		"#text": "Изображения",
+		"@_name": "root_images"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "root_videos"
+	},
+	{
+		"#text": "Media Service",
+		"@_name": "uid_label"
+	},
+	{
+		"#text": "Обновление базы данных медиа.",
+		"@_name": "upgrade_msg"
+	}
+]

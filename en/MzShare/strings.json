@@ -1,0 +1,1885 @@
+[
+	{
+		"#text": "Too many requests are being processed. Try again later.",
+		"@_name": "ErrorTooManyRequests"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Ack record",
+		"@_name": "ack_record"
+	},
+	{
+		"#text": "\"You can't use Bluetooth in Airplane mode.\"",
+		"@_name": "airplane_error_msg"
+	},
+	{
+		"#text": "Airplane mode",
+		"@_name": "airplane_error_title"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Share via Bluetooth",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Bluetooth received",
+		"@_name": "blue_tooth_receive_records"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "bluetooth_history_button_cancel"
+	},
+	{
+		"#text": "View all",
+		"@_name": "bluetooth_history_button_go_document"
+	},
+	{
+		"#text": "Resend",
+		"@_name": "bluetooth_history_button_resend"
+	},
+	{
+		"#text": "View",
+		"@_name": "bluetooth_history_button_view_single_file"
+	},
+	{
+		"#text": "Failed to receive %1$s file(s);",
+		"@_name": "bluetooth_history_message_receive_failure_number"
+	},
+	{
+		"#text": "%1$sfile(s) sent successfully;",
+		"@_name": "bluetooth_history_message_send_success_number"
+	},
+	{
+		"#text": "Failed to receive %1$s file(s)",
+		"@_name": "bluetooth_history_receive_failure_number"
+	},
+	{
+		"#text": "%1$s file(s) received",
+		"@_name": "bluetooth_history_receive_success_number"
+	},
+	{
+		"#text": "Failed to send %1$s file(s)",
+		"@_name": "bluetooth_history_send_failure_number"
+	},
+	{
+		"#text": "%1$s file(s) successfully sent",
+		"@_name": "bluetooth_history_send_success_number"
+	},
+	{
+		"#text": "Recipient: %1$s",
+		"@_name": "bluetooth_histroy_receiver"
+	},
+	{
+		"#text": "Sender: %1$s",
+		"@_name": "bluetooth_histroy_sender"
+	},
+	{
+		"#text": "Share via Bluetooth",
+		"@_name": "bluetooth_share"
+	},
+	{
+		"#text": "content_share",
+		"@_name": "bluetooth_share_file_name"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bluetooth_toast_dialog_btn_ok"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "bt_enable_cancel"
+	},
+	{
+		"#text": "Turn on Bluetooth before using it.",
+		"@_name": "bt_enable_line1"
+	},
+	{
+		"#text": "Turn on Bluetooth now?",
+		"@_name": "bt_enable_line2"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "bt_enable_ok"
+	},
+	{
+		"@_name": "bt_enable_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bt_error_btn_ok"
+	},
+	{
+		"#text": "Failed to receive via Bluetooth",
+		"@_name": "bt_receive_failed"
+	},
+	{
+		"#text": "Successfully received via Bluetooth",
+		"@_name": "bt_receive_success"
+	},
+	{
+		"#text": "Receiving",
+		"@_name": "bt_receiving"
+	},
+	{
+		"#text": "Failed to send via Bluetooth",
+		"@_name": "bt_send_failed"
+	},
+	{
+		"#text": "Successfully sent via Bluetooth",
+		"@_name": "bt_send_success"
+	},
+	{
+		"#text": "Sending",
+		"@_name": "bt_sending"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bt_share_picker_label"
+	},
+	{
+		"#text": "Failed to save files from \\\"%1$s\\\" due to insufficient USB storage space",
+		"@_name": "bt_sm_2_1"
+	},
+	{
+		"#text": "Space needed: %1$s",
+		"@_name": "bt_sm_2_2"
+	},
+	{
+		"#text": "The file(s) will be received. Please check the progress in the notification shade.",
+		"@_name": "bt_toast_1"
+	},
+	{
+		"#text": "Unable to receive the file",
+		"@_name": "bt_toast_2"
+	},
+	{
+		"#text": "Stopped receiving file from \\\"%1$s\\\"",
+		"@_name": "bt_toast_3"
+	},
+	{
+		"#text": "Sending file to \\\"%1$s\\\"",
+		"@_name": "bt_toast_4"
+	},
+	{
+		"#text": "Sending %1$s files to \\\"%2$s\\\"",
+		"@_name": "bt_toast_5"
+	},
+	{
+		"#text": "Stopped sending file to \\\"%1$s\\\"",
+		"@_name": "bt_toast_6"
+	},
+	{
+		"#text": "NFC sharing requires Bluetooth to be enabled",
+		"@_name": "bt_turn_off_prompt"
+	},
+	{
+		"#text": "Turning off Bluetooth will interrupt Bluetooth sharing.",
+		"@_name": "bt_turn_off_prompt_title"
+	},
+	{
+		"#text": "Received via Bluetooth",
+		"@_name": "btopp_live_folder"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Stop Bluetooth sharing",
+		"@_name": "cancel_bt_transfer"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Clear all receiving records?",
+		"@_name": "clear_all_records"
+	},
+	{
+		"#text": "Clear records",
+		"@_name": "clear_record"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Delete all record",
+		"@_name": "deleteAll_record"
+	},
+	{
+		"#text": "Delete record",
+		"@_name": "delete_record"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "delete_task_record_cancel"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete_task_record_title"
+	},
+	{
+		"#text": "Data-free quick sharing",
+		"@_name": "device_picker_actionbar_title"
+	},
+	{
+		"#text": "\"Turn on the recipient's Bluetooth\"",
+		"@_name": "device_picker_bottom_open_bluetooth_tips"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "device_picker_cancel_dialog_negative_button"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "device_picker_cancel_dialog_positive_button"
+	},
+	{
+		"#text": "Stop sharing?",
+		"@_name": "device_picker_cancel_dialog_title"
+	},
+	{
+		"#text": "\"No device available. Please turn on recipient's Bluetooth.\"",
+		"@_name": "device_picker_content_no_device"
+	},
+	{
+		"#text": "Please turn on Bluetooth",
+		"@_name": "device_picker_content_tip_bluetooth_off"
+	},
+	{
+		"#text": "Receiving",
+		"@_name": "device_picker_task_record_ongoing_tip_receiving"
+	},
+	{
+		"#text": "Sending",
+		"@_name": "device_picker_task_record_ongoing_tip_sending"
+	},
+	{
+		"#text": "Sharing history",
+		"@_name": "device_picker_task_record_tip"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "download_cancel"
+	},
+	{
+		"#text": "File not received",
+		"@_name": "download_fail_line1"
+	},
+	{
+		"#text": "File: %1$s",
+		"@_name": "download_fail_line2"
+	},
+	{
+		"#text": "Reason: %1$s",
+		"@_name": "download_fail_line3"
+	},
+	{
+		"#text": "OK",
+		"@_name": "download_fail_ok"
+	},
+	{
+		"#text": "From:",
+		"@_name": "download_line1"
+	},
+	{
+		"#text": "Filename:",
+		"@_name": "download_line2"
+	},
+	{
+		"#text": "File size: %1$s",
+		"@_name": "download_line3"
+	},
+	{
+		"@_name": "download_line4"
+	},
+	{
+		"#text": "Receiving file…",
+		"@_name": "download_line5"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "download_ok"
+	},
+	{
+		"#text": "File received",
+		"@_name": "download_succ_line5"
+	},
+	{
+		"#text": "Open",
+		"@_name": "download_succ_ok"
+	},
+	{
+		"#text": "%1$s received",
+		"@_name": "download_success"
+	},
+	{
+		"#text": "Send via Bluetooth",
+		"@_name": "download_title"
+	},
+	{
+		"#text": "\"Can't send empty folders\"",
+		"@_name": "empty_folder_tips"
+	},
+	{
+		"#text": "Please select at least one file and retry",
+		"@_name": "empty_selected"
+	},
+	{
+		"#text": "Turning on Bluetooth",
+		"@_name": "enabling_progress_content"
+	},
+	{
+		"#text": "Please wait…",
+		"@_name": "enabling_progress_title"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Byte",
+		"@_name": "format_file_total_Byte"
+	},
+	{
+		"#text": "GB",
+		"@_name": "format_file_total_GB"
+	},
+	{
+		"#text": "KB",
+		"@_name": "format_file_total_KB"
+	},
+	{
+		"#text": "MB",
+		"@_name": "format_file_total_MB"
+	},
+	{
+		"#text": "KB/s",
+		"@_name": "format_speed_KB"
+	},
+	{
+		"#text": "MB/s",
+		"@_name": "format_speed_MB"
+	},
+	{
+		"#text": "Hello World, TestActivity",
+		"@_name": "hello"
+	},
+	{
+		"#text": "Records of receiving",
+		"@_name": "inbound_history_title"
+	},
+	{
+		"#text": "Bluetooth sharing: files received",
+		"@_name": "inbound_noti_title"
+	},
+	{
+		"#text": "Receive file?",
+		"@_name": "incoming_file_confirm_Notification_caption"
+	},
+	{
+		"#text": "Bluetooth sharing: Incoming file",
+		"@_name": "incoming_file_confirm_Notification_title"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "incoming_file_confirm_cancel"
+	},
+	{
+		"#text": "\\\"%1$s\\\" wants to send you %2$s (%3$s)",
+		"@_name": "incoming_file_confirm_content"
+	},
+	{
+		"#text": "Accept",
+		"@_name": "incoming_file_confirm_ok"
+	},
+	{
+		"#text": "Receive file",
+		"@_name": "incoming_file_confirm_tick"
+	},
+	{
+		"#text": "There was a timeout while receiving a file from \\\"%1$s\\\"",
+		"@_name": "incoming_file_confirm_timeout_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "incoming_file_confirm_timeout_ok"
+	},
+	{
+		"#text": "Send via Bluetooth",
+		"@_name": "incoming_file_confirm_title"
+	},
+	{
+		"#text": "Receive %1$s file(s)",
+		"@_name": "incoming_file_confirm_with_number"
+	},
+	{
+		"#text": "Received a file request from another device. Do you want to receive it?",
+		"@_name": "incoming_file_toast_msg"
+	},
+	{
+		"#text": "Record of inserting",
+		"@_name": "insert_record"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Available Devices",
+		"@_name": "monkey_device_picker_available_devices"
+	},
+	{
+		"#text": "Paired Devices",
+		"@_name": "monkey_device_picker_bound_devices"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Preparing to send",
+		"@_name": "mznfcp2p_prep_progress_content"
+	},
+	{
+		"#text": "Choose sharing type",
+		"@_name": "nfc_choose_share_file_type"
+	},
+	{
+		"#text": "Tap to begin sharing",
+		"@_name": "nfc_connected_notification_content"
+	},
+	{
+		"#text": "Ready to share via NFC",
+		"@_name": "nfc_connected_notification_title"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "nfc_dialog_lauch_share"
+	},
+	{
+		"#text": "NFC Sharing: %1$s Received",
+		"@_name": "nfc_notification_received"
+	},
+	{
+		"#text": "Sharing via NFC: %1$s Sent",
+		"@_name": "nfc_notification_sent"
+	},
+	{
+		"#text": "Tap to view",
+		"@_name": "nfc_p2p_ready_notification_content"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "nfc_share_picker_label"
+	},
+	{
+		"#text": "Turn off NFC",
+		"@_name": "nfc_turn_off_prompt_title"
+	},
+	{
+		"#text": "Transfer history is empty.",
+		"@_name": "no_transfers"
+	},
+	{
+		"#text": "No file",
+		"@_name": "not_exist_file"
+	},
+	{
+		"#text": "\"The file doesn't exist. \n\"",
+		"@_name": "not_exist_file_desc"
+	},
+	{
+		"#text": "%1$s succeeded, %2$s failed.",
+		"@_name": "noti_caption"
+	},
+	{
+		"#text": "Receiving file",
+		"@_name": "notification_receive_file"
+	},
+	{
+		"#text": "Bluetooth sharing: %1$s Received",
+		"@_name": "notification_received"
+	},
+	{
+		"#text": "Bluetooth sharing: File %1$s is not received",
+		"@_name": "notification_received_fail"
+	},
+	{
+		"#text": "Sharing via Bluetooth: Receiving %1$s",
+		"@_name": "notification_receiving"
+	},
+	{
+		"#text": "Sending file",
+		"@_name": "notification_send_file"
+	},
+	{
+		"#text": "Bluetooth sharing: Sending %1$s",
+		"@_name": "notification_sending"
+	},
+	{
+		"#text": "Bluetooth sharing: %1$s sent",
+		"@_name": "notification_sent"
+	},
+	{
+		"#text": "100% completed",
+		"@_name": "notification_sent_complete"
+	},
+	{
+		"#text": "Bluetooth sharing: File %1$s not sent",
+		"@_name": "notification_sent_fail"
+	},
+	{
+		"#text": "Receiving via Bluetooth is completed",
+		"@_name": "notification_share_receive_complete"
+	},
+	{
+		"#text": "Sending via Bluetooth is completed",
+		"@_name": "notification_share_send_complete"
+	},
+	{
+		"#text": "Bluetooth sharing completed",
+		"@_name": "notification_transfer_multi_sent_complete"
+	},
+	{
+		"#text": "Bluetooth sharing completed: %1$s",
+		"@_name": "notification_transfer_sent_complete"
+	},
+	{
+		"#text": "Notify TCP server",
+		"@_name": "notify_server"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok_button"
+	},
+	{
+		"#text": "Records of sending",
+		"@_name": "outbound_history_title"
+	},
+	{
+		"#text": "Bluetooth sharing: sent files",
+		"@_name": "outbound_noti_title"
+	},
+	{
+		"#text": "Unable to use Bluetooth tethering while connected to WLAN",
+		"@_name": "panu_no_need_connect"
+	},
+	{
+		"#text": "Allow the app to access the BluetoothShare manager and use it to transfer files.",
+		"@_name": "permdesc_bluetoothShareManager"
+	},
+	{
+		"#text": "Allow the app to add a Bluetooth device to the temporary whitelist so that it can send files to this device without user confirmation",
+		"@_name": "permdesc_bluetoothWhitelist"
+	},
+	{
+		"#text": "Allow receiving transfer status information via Bluetooth.",
+		"@_name": "permdesc_handoverStatus"
+	},
+	{
+		"#text": "Access downloading manager.",
+		"@_name": "permlab_bluetoothShareManager"
+	},
+	{
+		"#text": "Add Bluetooth device to access whitelist",
+		"@_name": "permlab_bluetoothWhitelist"
+	},
+	{
+		"#text": "Receive Bluetooth handover transfer broadcasts.",
+		"@_name": "permlab_handoverStatus"
+	},
+	{
+		"@_name": "process"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Select",
+		"@_name": "select_delete_task_record_file"
+	},
+	{
+		"#text": "Bluetooth Share",
+		"@_name": "share_app_name"
+	},
+	{
+		"#text": "\" h \"",
+		"@_name": "share_date_time_hour"
+	},
+	{
+		"#text": "\" m \"",
+		"@_name": "share_date_time_min"
+	},
+	{
+		"#text": "\" s \"",
+		"@_name": "share_date_time_sec"
+	},
+	{
+		"#text": "Bluetooth Share",
+		"@_name": "share_incoming_file_bt_share"
+	},
+	{
+		"#text": "Bluetooth Share: Incoming File",
+		"@_name": "share_incoming_file_bt_share_recv_file"
+	},
+	{
+		"#text": "Accept the file?",
+		"@_name": "share_incoming_file_recv_file_or_not"
+	},
+	{
+		"#text": "\"Receiving: \"",
+		"@_name": "share_notification_active_title_receive"
+	},
+	{
+		"#text": "\"Sending: \"",
+		"@_name": "share_notification_active_title_send"
+	},
+	{
+		"#text": "%1$s item(s) failed",
+		"@_name": "share_notification_complete_receive_message_fail"
+	},
+	{
+		"#text": "%1$s item(s) succeeded",
+		"@_name": "share_notification_complete_receive_message_success"
+	},
+	{
+		"#text": "%1$s item(s) failed",
+		"@_name": "share_notification_complete_send_message_fail"
+	},
+	{
+		"#text": "%1$s item(s) succeeded",
+		"@_name": "share_notification_complete_send_message_success"
+	},
+	{
+		"#text": "File(s) Received via Bluetooth",
+		"@_name": "share_notification_complete_title_receive"
+	},
+	{
+		"#text": "File(s) Sent via Bluetooth",
+		"@_name": "share_notification_complete_title_send"
+	},
+	{
+		"#text": "Bluetooth Share request location, WLAN and network connection permissions",
+		"@_name": "share_permission_dialog_msg"
+	},
+	{
+		"#text": "\"From: \"",
+		"@_name": "share_task_dialog_share_file_to_you"
+	},
+	{
+		"#text": "Stop receiving",
+		"@_name": "share_task_record_cancel_receiving"
+	},
+	{
+		"#text": "Stop sending",
+		"@_name": "share_task_record_cancel_sending"
+	},
+	{
+		"#text": "Clear Now",
+		"@_name": "share_task_record_clean_immdiatly"
+	},
+	{
+		"#text": "OK",
+		"@_name": "share_task_record_confirm"
+	},
+	{
+		"#text": "Connection failed",
+		"@_name": "share_task_record_conn_fail"
+	},
+	{
+		"#text": "\"From: \"",
+		"@_name": "share_task_record_from"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "share_task_record_hide_dialog"
+	},
+	{
+		"#text": "No receiving history",
+		"@_name": "share_task_record_no_recving_history"
+	},
+	{
+		"#text": "No sending history",
+		"@_name": "share_task_record_no_sending_history"
+	},
+	{
+		"#text": "Open file",
+		"@_name": "share_task_record_open_file"
+	},
+	{
+		"#text": "Receiving...",
+		"@_name": "share_task_record_receiving"
+	},
+	{
+		"#text": "Disk/Download/Bluetooth",
+		"@_name": "share_task_record_recv_address"
+	},
+	{
+		"#text": "Not received",
+		"@_name": "share_task_record_recv_fail"
+	},
+	{
+		"#text": "Receiving folder",
+		"@_name": "share_task_record_recv_folder"
+	},
+	{
+		"#text": "Sent by",
+		"@_name": "share_task_record_recv_succeed"
+	},
+	{
+		"#text": "Sharing rejected by the other device",
+		"@_name": "share_task_record_remote_refuse"
+	},
+	{
+		"#text": "File not sent because the other device rejected the transfer",
+		"@_name": "share_task_record_remote_refuse_send_detail"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "share_task_record_retry"
+	},
+	{
+		"#text": "Insufficient storage",
+		"@_name": "share_task_record_sdcard_full"
+	},
+	{
+		"#text": "File not received due to insufficient storage",
+		"@_name": "share_task_record_sdcard_full_recv_detail"
+	},
+	{
+		"#text": "Sent",
+		"@_name": "share_task_record_send_complete"
+	},
+	{
+		"#text": "Not sent",
+		"@_name": "share_task_record_send_fail"
+	},
+	{
+		"#text": "\"To: \"",
+		"@_name": "share_task_record_send_to"
+	},
+	{
+		"#text": "Sending...",
+		"@_name": "share_task_record_sending"
+	},
+	{
+		"#text": "Sharing canceled by user",
+		"@_name": "share_task_record_user_cancel_transfer"
+	},
+	{
+		"#text": "File not received because user canceled the transfer",
+		"@_name": "share_task_record_user_cancel_transfer_recv_detail"
+	},
+	{
+		"#text": "File not sent because user canceled the transfer",
+		"@_name": "share_task_record_user_cancel_transfer_send_detail"
+	},
+	{
+		"#text": "Awaiting acceptance",
+		"@_name": "share_task_record_wait_for_remote_recv"
+	},
+	{
+		"#text": "Receiving file",
+		"@_name": "share_toast_receiving_file"
+	},
+	{
+		"#text": "Sending %1$s file(s) to \\\"%2$s\\\"",
+		"@_name": "share_toast_send_file_to_device"
+	},
+	{
+		"@_name": "sharedUserId"
+	},
+	{
+		"#text": "Start TCP server",
+		"@_name": "start_server"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Transfer is canceled by user",
+		"@_name": "status_canceled"
+	},
+	{
+		"#text": "Connection failed",
+		"@_name": "status_connection_error"
+	},
+	{
+		"#text": "Storage error",
+		"@_name": "status_file_error"
+	},
+	{
+		"#text": "Sending failure due to oversize file",
+		"@_name": "status_file_too_big"
+	},
+	{
+		"#text": "Transfer is not allowed on the target device",
+		"@_name": "status_forbidden"
+	},
+	{
+		"#text": "Insufficient storage",
+		"@_name": "status_no_space"
+	},
+	{
+		"#text": "Content is not supported",
+		"@_name": "status_not_accept"
+	},
+	{
+		"#text": "File transfer is not started yet",
+		"@_name": "status_pending"
+	},
+	{
+		"#text": "Request cannot be processed correctly",
+		"@_name": "status_protocol_error"
+	},
+	{
+		"#text": "Transferring files",
+		"@_name": "status_running"
+	},
+	{
+		"#text": "Files transferred",
+		"@_name": "status_success"
+	},
+	{
+		"#text": "Bluetooth transfer failed",
+		"@_name": "status_transfer_failed"
+	},
+	{
+		"#text": "Unknown error",
+		"@_name": "status_unknown_error"
+	},
+	{
+		"#text": "Open receiving folder",
+		"@_name": "task_record_actionbar_item_open_dir"
+	},
+	{
+		"#text": "Receiving history",
+		"@_name": "task_record_actionbar_title_rev"
+	},
+	{
+		"#text": "Sending history",
+		"@_name": "task_record_actionbar_title_send"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "task_record_header_complete_delete_dialog_negative_button"
+	},
+	{
+		"#text": "OK",
+		"@_name": "task_record_header_complete_delete_dialog_positive_button"
+	},
+	{
+		"#text": "This will not delete the file",
+		"@_name": "task_record_header_complete_delete_dialog_tip"
+	},
+	{
+		"#text": "Clear history",
+		"@_name": "task_record_header_complete_delete_dialog_title"
+	},
+	{
+		"#text": "Transferring",
+		"@_name": "task_record_header_title_active_content"
+	},
+	{
+		"#text": "Delete all",
+		"@_name": "task_record_header_title_active_delete"
+	},
+	{
+		"#text": "Transferred",
+		"@_name": "task_record_header_title_complete_content"
+	},
+	{
+		"#text": "Clear history",
+		"@_name": "task_record_header_title_complete_delete"
+	},
+	{
+		"#text": "Stop the current task",
+		"@_name": "task_record_item_detail_stop_dialog_positive_button"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "task_record_item_resend"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "task_record_item_stop_dialog_negative_button"
+	},
+	{
+		"#text": "Stop Current Task",
+		"@_name": "task_record_item_stop_dialog_positive_button"
+	},
+	{
+		"#text": "No sharing history",
+		"@_name": "task_record_none"
+	},
+	{
+		"#text": "All items will be cleared from the list.",
+		"@_name": "transfer_clear_dlg_msg"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "transfer_clear_dlg_title"
+	},
+	{
+		"#text": "Clear from list",
+		"@_name": "transfer_menu_clear"
+	},
+	{
+		"#text": "Clear list",
+		"@_name": "transfer_menu_clear_all"
+	},
+	{
+		"#text": "Open",
+		"@_name": "transfer_menu_open"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknownNumber"
+	},
+	{
+		"#text": "Unknown device",
+		"@_name": "unknown_device"
+	},
+	{
+		"#text": "Unknown file",
+		"@_name": "unknown_file"
+	},
+	{
+		"#text": "\"There's no app for this file. \n\"",
+		"@_name": "unknown_file_desc"
+	},
+	{
+		"#text": "Confirm the record",
+		"@_name": "update_record"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "upload_fail_cancel"
+	},
+	{
+		"#text": "Unable to send file to %1$s.",
+		"@_name": "upload_fail_line1"
+	},
+	{
+		"#text": "File: %1$s",
+		"@_name": "upload_fail_line1_2"
+	},
+	{
+		"#text": "Try again",
+		"@_name": "upload_fail_ok"
+	},
+	{
+		"#text": "To:",
+		"@_name": "upload_line1"
+	},
+	{
+		"#text": "File type: %1$s (%2$s)",
+		"@_name": "upload_line3"
+	},
+	{
+		"#text": "Sending file…",
+		"@_name": "upload_line5"
+	},
+	{
+		"#text": "Sent file",
+		"@_name": "upload_succ_line5"
+	},
+	{
+		"#text": "OK",
+		"@_name": "upload_succ_ok"
+	},
+	{
+		"#text": "%1$s sent",
+		"@_name": "upload_success"
+	},
+	{
+		"#text": "AndroidHotspot",
+		"@_name": "wifi_tether_configure_ssid_default"
+	}
+]

@@ -1,0 +1,1854 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Number identifier",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "context is null",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "邮件信息",
+		"@_name": "cp_email_sign"
+	},
+	{
+		"#text": "数据来自%s",
+		"@_name": "cp_source_from"
+	},
+	{
+		"#text": "sogou",
+		"@_name": "cp_source_sogou"
+	},
+	{
+		"#text": "teddy",
+		"@_name": "cp_source_teddy"
+	},
+	{
+		"#text": "泰迪熊移动",
+		"@_name": "cp_source_teddy_name"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "download_dialog_cancel"
+	},
+	{
+		"#text": "Install",
+		"@_name": "download_dialog_install"
+	},
+	{
+		"#text": "To use this function need to install family guard first",
+		"@_name": "download_dialog_title"
+	},
+	{
+		"#text": "私人号码",
+		"@_name": "ec_private_info"
+	},
+	{
+		"#text": "error is throwed while get token",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Family Guard",
+		"@_name": "family_app"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "invalid response",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "get token cancel",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "intent need to be handled",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Local number",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "标记成功",
+		"@_name": "mark_success"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "NetContact",
+		"@_name": "net_contact_direcoty_type"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "got null auth token for scope: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "中国大地财产保险股份有限公司",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "国家电力公司",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "中国电信客服热线",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "中国工商银行",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "中国光大银行",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "环保监督服务热线",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "价格监督服务热线",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "中国人民健康保险股份有限公司",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "中国联通客服热线",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "魅族客服热线",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "中国农业银行",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "民生人寿保险股份有限公司",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "司法服务热线",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "太平人寿保险有限公司",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "天气预报",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "中国铁通客服热线",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "消费者协会服务热线",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "中国移动客服热线",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "sync get token time out",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "unknown error from sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "requests too frequently",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Digital Health",
+		"@_name": "us_usage_statistics"
+	},
+	{
+		"#text": "%s声响铃",
+		"@_name": "usage_phone_time"
+	},
+	{
+		"#text": "接收",
+		"@_name": "usage_phone_type_inbox"
+	},
+	{
+		"#text": "呼入",
+		"@_name": "usage_phone_type_incoming"
+	},
+	{
+		"#text": "拒接",
+		"@_name": "usage_phone_type_incoming_reject"
+	},
+	{
+		"#text": "未接",
+		"@_name": "usage_phone_type_missed"
+	},
+	{
+		"#text": "呼出",
+		"@_name": "usage_phone_type_outgoing"
+	},
+	{
+		"#text": "发出",
+		"@_name": "usage_phone_type_sent"
+	},
+	{
+		"#text": "留言",
+		"@_name": "usage_phone_type_voicemail"
+	},
+	{
+		"#text": "未留言",
+		"@_name": "usage_phone_type_voicemail_fail"
+	},
+	{
+		"#text": "Added successfully",
+		"@_name": "yp_activity_add_contact_success"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "yp_activity_add_favor"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "yp_activity_detail_ac"
+	},
+	{
+		"#text": "All call logs",
+		"@_name": "yp_activity_detail_all_calllog"
+	},
+	{
+		"#text": "View all group deals",
+		"@_name": "yp_activity_detail_all_groupons"
+	},
+	{
+		"#text": "Phone bill",
+		"@_name": "yp_activity_detail_balance"
+	},
+	{
+		"#text": "查话费",
+		"@_name": "yp_activity_detail_balance_nt"
+	},
+	{
+		"#text": "Add to blacklist",
+		"@_name": "yp_activity_detail_bl_add"
+	},
+	{
+		"#text": "Remove from blacklist",
+		"@_name": "yp_activity_detail_bl_remove"
+	},
+	{
+		"#text": "Set blacklist",
+		"@_name": "yp_activity_detail_bl_set"
+	},
+	{
+		"#text": "Call logs",
+		"@_name": "yp_activity_detail_calllog"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "yp_activity_detail_copy"
+	},
+	{
+		"#text": "Make a call",
+		"@_name": "yp_activity_detail_easy_dialer"
+	},
+	{
+		"#text": "SEND MESSAGE",
+		"@_name": "yp_activity_detail_easy_sms"
+	},
+	{
+		"#text": "Correct error",
+		"@_name": "yp_activity_detail_error"
+	},
+	{
+		"#text": "Add to favorites",
+		"@_name": "yp_activity_detail_favorite_add"
+	},
+	{
+		"#text": "Unfavorite",
+		"@_name": "yp_activity_detail_favorite_remove"
+	},
+	{
+		"#text": "Group deals",
+		"@_name": "yp_activity_detail_groupons"
+	},
+	{
+		"#text": "Details",
+		"@_name": "yp_activity_detail_label"
+	},
+	{
+		"#text": "Mobile",
+		"@_name": "yp_activity_detail_mobile"
+	},
+	{
+		"#text": "Top up",
+		"@_name": "yp_activity_detail_recharge"
+	},
+	{
+		"#text": "充话费",
+		"@_name": "yp_activity_detail_recharge_nt"
+	},
+	{
+		"#text": "Enter a description of this number",
+		"@_name": "yp_activity_ec_enter_private_info"
+	},
+	{
+		"#text": "My private number",
+		"@_name": "yp_activity_ec_my_private_number"
+	},
+	{
+		"#text": "Private number",
+		"@_name": "yp_activity_ec_private_number"
+	},
+	{
+		"#text": "Wrong info",
+		"@_name": "yp_activity_ec_shop_number"
+	},
+	{
+		"#text": "Provide more information to identify the caller",
+		"@_name": "yp_activity_number_identify_info"
+	},
+	{
+		"#text": "Caller identification",
+		"@_name": "yp_activity_number_identify_lock"
+	},
+	{
+		"#text": "Show items",
+		"@_name": "yp_activity_number_identify_lock_info"
+	},
+	{
+		"#text": "\"This number is marked as a personal number and can't be added to Yellow Pages favorites\"",
+		"@_name": "yp_activity_phone_group_favor"
+	},
+	{
+		"#text": "Unfavorite",
+		"@_name": "yp_activity_remove_favor"
+	},
+	{
+		"#text": "View all",
+		"@_name": "yp_activity_show_all"
+	},
+	{
+		"#text": "Buy data",
+		"@_name": "yp_buy_data"
+	},
+	{
+		"#text": "充流量",
+		"@_name": "yp_buy_data_nt"
+	},
+	{
+		"#text": "%sm %ssec",
+		"@_name": "yp_callDetailsDurationFormat",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Rang for %s time(s)",
+		"@_name": "yp_callDetailsDurationFormat3"
+	},
+	{
+		"#text": "%s sec",
+		"@_name": "yp_callDetailsDurationFormatSecond"
+	},
+	{
+		"#text": "%s hr %s min %s sec",
+		"@_name": "yp_callDetailsDurationFormatWithHour",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Check data usage",
+		"@_name": "yp_check_data"
+	},
+	{
+		"#text": "查流量",
+		"@_name": "yp_check_data_nt"
+	},
+	{
+		"#text": "Call",
+		"@_name": "yp_context_menu_call"
+	},
+	{
+		"#text": "Show a visual menu",
+		"@_name": "yp_context_menu_enterprise_call"
+	},
+	{
+		"#text": "Regular call",
+		"@_name": "yp_context_menu_normal_call"
+	},
+	{
+		"#text": "\" - Regular call\"",
+		"@_name": "yp_context_menu_normal_call_suffix"
+	},
+	{
+		"#text": "Private call",
+		"@_name": "yp_context_menu_private_call"
+	},
+	{
+		"#text": "\" - Private call\"",
+		"@_name": "yp_context_menu_private_call_suffix"
+	},
+	{
+		"#text": "Text %s",
+		"@_name": "yp_detail_activity_sms_talk_back_text"
+	},
+	{
+		"#text": "No app was found to handle this action",
+		"@_name": "yp_dialog_no_app_handle"
+	},
+	{
+		"#text": "Error correction",
+		"@_name": "yp_ec_activity_name"
+	},
+	{
+		"#text": "Contact",
+		"@_name": "yp_ec_contact"
+	},
+	{
+		"#text": "Correct name",
+		"@_name": "yp_ec_input_connect_name"
+	},
+	{
+		"#text": "Correct number",
+		"@_name": "yp_ec_input_connect_number"
+	},
+	{
+		"#text": "Leave your contact information to confirm",
+		"@_name": "yp_ec_input_contact"
+	},
+	{
+		"#text": "Correct address, official website, etc.",
+		"@_name": "yp_ec_input_other"
+	},
+	{
+		"#text": "Name",
+		"@_name": "yp_ec_name"
+	},
+	{
+		"#text": "Number",
+		"@_name": "yp_ec_number"
+	},
+	{
+		"#text": "Requests too frequent, try again later",
+		"@_name": "yp_ec_often"
+	},
+	{
+		"#text": "Other issues",
+		"@_name": "yp_ec_other"
+	},
+	{
+		"#text": "Successful correction",
+		"@_name": "yp_ec_successful"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "yp_ec_wait"
+	},
+	{
+		"#text": "Edit before dialing",
+		"@_name": "yp_item_call_edit"
+	},
+	{
+		"#text": "+ %s and dial",
+		"@_name": "yp_item_default_sim_ip_call"
+	},
+	{
+		"#text": "Call with SIM %s",
+		"@_name": "yp_item_sim_card_call"
+	},
+	{
+		"#text": "Call with SIM %s + %s",
+		"@_name": "yp_item_sim_card_ip_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SIM %s",
+		"@_name": "yp_item_sim_card_type"
+	},
+	{
+		"#text": "Add tag",
+		"@_name": "yp_mark_add"
+	},
+	{
+		"#text": "Modify tag",
+		"@_name": "yp_mark_change_tag"
+	},
+	{
+		"#text": "Clear tag",
+		"@_name": "yp_mark_clear_tag"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "yp_mark_user_defined"
+	},
+	{
+		"#text": "Network exception, please try again later",
+		"@_name": "yp_net_message_network_exception_exception"
+	},
+	{
+		"#text": "Service exception, please try again later",
+		"@_name": "yp_net_message_network_exception_service"
+	},
+	{
+		"#text": "Network connection timeout, please try again later",
+		"@_name": "yp_net_message_network_exception_time_out"
+	},
+	{
+		"#text": "Network exception, tap to reload",
+		"@_name": "yp_net_message_network_exception_with_refresh"
+	},
+	{
+		"#text": "SIM 1 -",
+		"@_name": "yp_sim_card_1"
+	},
+	{
+		"#text": "SIM 2 -",
+		"@_name": "yp_sim_card_2"
+	},
+	{
+		"#text": "Enterprise call",
+		"@_name": "yp_sip_call_enterprise"
+	},
+	{
+		"#text": "Web call to enterprise",
+		"@_name": "yp_sip_call_enterprise_call"
+	},
+	{
+		"#text": "Submit",
+		"@_name": "yp_submit"
+	},
+	{
+		"#text": "Incoming",
+		"@_name": "yp_type_incoming"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "yp_type_incoming_reject"
+	},
+	{
+		"#text": "Missed",
+		"@_name": "yp_type_missed"
+	},
+	{
+		"#text": "Outgoing",
+		"@_name": "yp_type_outgoing"
+	},
+	{
+		"#text": "Cancelled",
+		"@_name": "yp_type_outgoing_cancelled"
+	},
+	{
+		"#text": "Failed",
+		"@_name": "yp_type_outgoing_failed"
+	},
+	{
+		"#text": "Not connected",
+		"@_name": "yp_type_outgoing_not_connected"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "yp_type_voicemail"
+	},
+	{
+		"#text": "No voicemail left",
+		"@_name": "yp_type_voicemail_fail"
+	}
+]

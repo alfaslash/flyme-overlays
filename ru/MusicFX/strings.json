@@ -1,0 +1,861 @@
+[
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "MusicFX",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Бас",
+		"@_name": "bass"
+	},
+	{
+		"#text": "Усиление нижних частот",
+		"@_name": "bass_boost_strength"
+	},
+	{
+		"#text": "Усилитель FX",
+		"@_name": "ci_extreme"
+	},
+	{
+		"#text": "Audio Technica CKM500",
+		"@_name": "ckm500_headset"
+	},
+	{
+		"#text": "Классик",
+		"@_name": "classic"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "close"
+	},
+	{
+		"#text": "Своё",
+		"@_name": "custom"
+	},
+	{
+		"#text": "Sennheiser CX200",
+		"@_name": "cx200_headset"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "EarPods",
+		"@_name": "earpods_headset"
+	},
+	{
+		"#text": "EP20",
+		"@_name": "ep20_headset"
+	},
+	{
+		"#text": "EP20S",
+		"@_name": "ep20s_headset"
+	},
+	{
+		"#text": "EP21",
+		"@_name": "ep21_headset"
+	},
+	{
+		"#text": "EP30",
+		"@_name": "ep30_headset"
+	},
+	{
+		"#text": "EP40",
+		"@_name": "ep40_headset"
+	},
+	{
+		"#text": "Эквалайзер",
+		"@_name": "eq_dialog_title"
+	},
+	{
+		"#text": "Подключите наушники",
+		"@_name": "eq_enable_tip"
+	},
+	{
+		"#text": "Audio Technica ATHES7",
+		"@_name": "es7_headset"
+	},
+	{
+		"#text": "500,0",
+		"@_name": "five_hundred"
+	},
+	{
+		"#text": "4K",
+		"@_name": "fourk"
+	},
+	{
+		"#text": "Требуется подключение наушников",
+		"@_name": "headset"
+	},
+	{
+		"#text": "Чтобы услышать эти эффекты, подключите наушники",
+		"@_name": "headset_plug"
+	},
+	{
+		"#text": "100,0",
+		"@_name": "hundred"
+	},
+	{
+		"#text": "Sennheiser IE8I",
+		"@_name": "ie8i_headset"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Аудиоэффекты",
+		"@_name": "main_toggle_effects_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "дн. назад",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "дн. спустя",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Метал",
+		"@_name": "metal"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Эффекты недоступны.",
+		"@_name": "no_effects"
+	},
+	{
+		"#text": "Больше не показывать",
+		"@_name": "no_longer_prompt"
+	},
+	{
+		"#text": "1K",
+		"@_name": "onek"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "other_headset"
+	},
+	{
+		"#text": "Управление звуковыми эффектами",
+		"@_name": "picker_title"
+	},
+	{
+		"#text": "Поп",
+		"@_name": "pop"
+	},
+	{
+		"#text": "Шаблон ревербератора",
+		"@_name": "pr_dialog_title"
+	},
+	{
+		"#text": "Дополнительные эффекты реверберации в помещении",
+		"@_name": "pr_summary"
+	},
+	{
+		"#text": "Реверберация:",
+		"@_name": "pr_title"
+	},
+	{
+		"#text": "Сброс",
+		"@_name": "reseteq"
+	},
+	{
+		"#text": "Рок",
+		"@_name": "rock"
+	},
+	{
+		"#text": 29,
+		"@_name": "seekbar_100Hz"
+	},
+	{
+		"#text": "15K",
+		"@_name": "seekbar_16KHz"
+	},
+	{
+		"#text": "1K",
+		"@_name": "seekbar_1KHz"
+	},
+	{
+		"#text": 59,
+		"@_name": "seekbar_200Hz"
+	},
+	{
+		"#text": "2K",
+		"@_name": "seekbar_2KHz"
+	},
+	{
+		"#text": 119,
+		"@_name": "seekbar_350Hz"
+	},
+	{
+		"#text": "4K",
+		"@_name": "seekbar_4KHz"
+	},
+	{
+		"#text": 237,
+		"@_name": "seekbar_500Hz"
+	},
+	{
+		"#text": 474,
+		"@_name": "seekbar_750Hz"
+	},
+	{
+		"#text": "8K",
+		"@_name": "seekbar_8KHz"
+	},
+	{
+		"#text": "Настройка",
+		"@_name": "setup"
+	},
+	{
+		"#text": "16K",
+		"@_name": "sixteenk"
+	},
+	{
+		"#text": "3D",
+		"@_name": "str_3D"
+	},
+	{
+		"#text": "Объёмный звук",
+		"@_name": "str_3d_12sp"
+	},
+	{
+		"#text": "3D-эффекты",
+		"@_name": "str_3d_16sp"
+	},
+	{
+		"#text": "Когда эквалайзер включён, Square Sound будет выключен",
+		"@_name": "str_alert_dialog_square_sound"
+	},
+	{
+		"#text": "Перед использованием Square Sound  подключите наушники",
+		"@_name": "str_alert_dialog_square_sound_no_use_heaset"
+	},
+	{
+		"#text": "&lt;",
+		"@_name": "str_back"
+	},
+	{
+		"#text": "Bass",
+		"@_name": "str_bass"
+	},
+	{
+		"#text": "BASS",
+		"@_name": "str_Bass"
+	},
+	{
+		"#text": "Отличный сабвуфер",
+		"@_name": "str_bass_12sp"
+	},
+	{
+		"#text": "Мощный бас",
+		"@_name": "str_bass_16sp"
+	},
+	{
+		"#text": "Classic",
+		"@_name": "str_classical"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "str_custom"
+	},
+	{
+		"#text": "Опыт погружения",
+		"@_name": "str_env_12sp"
+	},
+	{
+		"#text": "Живая музыка",
+		"@_name": "str_env_16sp"
+	},
+	{
+		"#text": "Эквалайзер",
+		"@_name": "str_eq"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "str_got_it"
+	},
+	{
+		"#text": "Чистый голос",
+		"@_name": "str_human_voice"
+	},
+	{
+		"#text": "Джаз",
+		"@_name": "str_jazz"
+	},
+	{
+		"#text": "Живая музыка",
+		"@_name": "str_live"
+	},
+	{
+		"#text": "Больше звуковых эффектов",
+		"@_name": "str_more"
+	},
+	{
+		"#text": "Скоро",
+		"@_name": "str_more_effect_12sp"
+	},
+	{
+		"#text": "Ещё эффекты",
+		"@_name": "str_more_effect_16sp"
+	},
+	{
+		"#text": "Нет звуковых эффектов",
+		"@_name": "str_original_12sp"
+	},
+	{
+		"#text": "Оригинал",
+		"@_name": "str_original_16sp"
+	},
+	{
+		"#text": "Pop",
+		"@_name": "str_pop"
+	},
+	{
+		"#text": "Яркий и натуральный",
+		"@_name": "str_pure_voice_12sp"
+	},
+	{
+		"#text": "Чистый голос",
+		"@_name": "str_pure_voice_16sp"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "str_reset"
+	},
+	{
+		"#text": "Rock",
+		"@_name": "str_rock"
+	},
+	{
+		"#text": "\"Square Sound - система улучшения звучания, разработанная совместно Meizu\nи лучшими специалистами по акустике (необходимо использование наушников)\"",
+		"@_name": "str_tag_disabled"
+	},
+	{
+		"#text": "\"Square Sound - система улучшения звучания, разработанная совместно Meizu\n и лучшими специалистами по акустике\"",
+		"@_name": "str_tag_enabled"
+	},
+	{
+		"#text": "Использовать эквалайзер",
+		"@_name": "use_eq"
+	},
+	{
+		"#text": "Пользователь",
+		"@_name": "user"
+	},
+	{
+		"#text": "Эффект 3D",
+		"@_name": "virtualizer_strength"
+	}
+]

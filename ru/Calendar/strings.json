@@ -1,0 +1,2796 @@
+[
+	{
+		"#text": "Перейти на главный экран",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению \\\"%s\\\"",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "На весь день",
+		"@_name": "accessibility_all_day"
+	},
+	{
+		"#text": "Дата окончания",
+		"@_name": "accessibility_pick_end_date"
+	},
+	{
+		"#text": "Время окончания",
+		"@_name": "accessibility_pick_end_time"
+	},
+	{
+		"#text": "Время начала",
+		"@_name": "accessibility_pick_start_time"
+	},
+	{
+		"#text": "Мой статус",
+		"@_name": "accessibility_reminder_label"
+	},
+	{
+		"#text": "Время напоминания",
+		"@_name": "accessibility_reminder_time"
+	},
+	{
+		"#text": "Тип напоминания",
+		"@_name": "accessibility_reminder_type"
+	},
+	{
+		"#text": "Корпоративный (Exchange)",
+		"@_name": "account_group_exchange"
+	},
+	{
+		"#text": "Почта Meizu",
+		"@_name": "account_meizu_exchange"
+	},
+	{
+		"#text": "Аккаунт Flyme",
+		"@_name": "account_meizu_flyme"
+	},
+	{
+		"#text": "Список событий",
+		"@_name": "action_agenda"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "action_edit_more"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "action_edit_save"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "action_edit_send"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "action_goto_today"
+	},
+	{
+		"#text": "Входящие",
+		"@_name": "action_inbox"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "action_info_delete"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "action_info_edit"
+	},
+	{
+		"#text": "Импорт",
+		"@_name": "action_info_import"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "action_info_share"
+	},
+	{
+		"#text": "Перейти к дате",
+		"@_name": "action_jump_select_time"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "action_search"
+	},
+	{
+		"#text": "Разослать электронные письма участникам",
+		"@_name": "action_send_mail_to_guests"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Подписано",
+		"@_name": "action_subscribed"
+	},
+	{
+		"#text": "Подписки",
+		"@_name": "action_subscription"
+	},
+	{
+		"#text": "Инструменты",
+		"@_name": "action_tools"
+	},
+	{
+		"#text": "演员",
+		"@_name": "actor"
+	},
+	{
+		"#text": "Добавить аккаунт",
+		"@_name": "add_account"
+	},
+	{
+		"#text": "Добавить все",
+		"@_name": "add_all_label"
+	},
+	{
+		"#text": "Добавить в",
+		"@_name": "add_label"
+	},
+	{
+		"#text": "%d дней после",
+		"@_name": "after_day_date"
+	},
+	{
+		"#text": "Сегодня: %1$s",
+		"@_name": "agenda_today"
+	},
+	{
+		"#text": "Несколько напоминаний",
+		"@_name": "alarm_several_times"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "alert_button_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "alert_button_confirm"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "alert_button_custom"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "alert_button_delay"
+	},
+	{
+		"#text": "Напомнить за 10 минут",
+		"@_name": "alert_button_delay_10"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "alert_button_detail"
+	},
+	{
+		"#text": "%s также запланированы на это время",
+		"@_name": "alert_inbox_collision_more_fmt"
+	},
+	{
+		"#text": "\\\"%s\\\" также запланировано на это время",
+		"@_name": "alert_inbox_collision_one_fmt"
+	},
+	{
+		"#text": "Напоминание добавлено",
+		"@_name": "alert_insert_toast"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "alert_login_flyme_btn_cancel"
+	},
+	{
+		"#text": "Вход",
+		"@_name": "alert_login_flyme_btn_ok"
+	},
+	{
+		"#text": "Для подписки требуется войти в аккаунт Flyme",
+		"@_name": "alert_login_flyme_message"
+	},
+	{
+		"#text": "Организатор: %s",
+		"@_name": "alert_organizer"
+	},
+	{
+		"#text": "Событие календаря",
+		"@_name": "alert_title_hint"
+	},
+	{
+		"#text": "Напоминание календаря",
+		"@_name": "alert_title_reminder"
+	},
+	{
+		"#text": "Напоминание обновлено",
+		"@_name": "alert_update_toast"
+	},
+	{
+		"#text": "Все матчи",
+		"@_name": "all_match"
+	},
+	{
+		"#text": "Все команды",
+		"@_name": "all_team"
+	},
+	{
+		"#text": "Весь день",
+		"@_name": "allday"
+	},
+	{
+		"#text": "Альманах",
+		"@_name": "almanac"
+	},
+	{
+		"#text": "\"Ежедневно узнавайте о благоприятных и неблагоприятных часах, счастливых и несчастливых днях в этом канале альманаха.\n\nНажмите, чтобы подписаться, и затем вся необходимая информация станет доступна.\"",
+		"@_name": "almanac_desc"
+	},
+	{
+		"#text": "Лунный календарь",
+		"@_name": "almanac_detail_almanac"
+	},
+	{
+		"#text": "Неделя",
+		"@_name": "almanac_detail_week"
+	},
+	{
+		"#text": "Альманах будущих событий",
+		"@_name": "almanac_item_desc"
+	},
+	{
+		"#text": "День рождения контакта %s уже импортирован",
+		"@_name": "already_import_birthday"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Напомнить за 1 день %s",
+		"@_name": "anniver_alarm_info_befort_one_day_fmt"
+	},
+	{
+		"#text": "Напомнить за 1 неделю %s",
+		"@_name": "anniver_alarm_info_befort_one_week_fmt"
+	},
+	{
+		"#text": "Напомнить за 3 дня %s",
+		"@_name": "anniver_alarm_info_befort_three_day_fmt"
+	},
+	{
+		"#text": "Напомнить за 2 дня %s",
+		"@_name": "anniver_alarm_info_befort_two_day_fmt"
+	},
+	{
+		"#text": "Напомнить %s",
+		"@_name": "anniver_alarm_info_same_day_fmt"
+	},
+	{
+		"#text": "%s лет",
+		"@_name": "anniver_years"
+	},
+	{
+		"#text": "юбилейный год",
+		"@_name": "anniversary_title"
+	},
+	{
+		"#text": "Годовщина",
+		"@_name": "anniversary_title_hint"
+	},
+	{
+		"#text": "лет",
+		"@_name": "anniversary_unit"
+	},
+	{
+		"#text": "\" - юбилей\"",
+		"@_name": "anniversary_zero_title"
+	},
+	{
+		"#text": "Календарь",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "События календаря",
+		"@_name": "assistant_card_header"
+	},
+	{
+		"#text": "Добавить команду",
+		"@_name": "assistant_nba_add_team"
+	},
+	{
+		"#text": "Таблица",
+		"@_name": "assistant_nba_board"
+	},
+	{
+		"#text": "НБА-инфо",
+		"@_name": "assistant_nba_header_title"
+	},
+	{
+		"#text": "Не было матчей",
+		"@_name": "assistant_nba_no_match"
+	},
+	{
+		"#text": "Нет сетевого подключения",
+		"@_name": "assistant_nba_no_net_work"
+	},
+	{
+		"#text": "Недоступно",
+		"@_name": "assistant_nba_under_carriage"
+	},
+	{
+		"#text": "Все события",
+		"@_name": "assistant_view_more_events"
+	},
+	{
+		"#text": "Гости",
+		"@_name": "attendees_label"
+	},
+	{
+		"#text": "%d дн. назад",
+		"@_name": "before_day_date"
+	},
+	{
+		"#text": "дн.",
+		"@_name": "birth_left_unit"
+	},
+	{
+		"#text": "Лунн. %s-%s-%s",
+		"@_name": "birthday_date_lunar_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s-(вис.)%s-%s",
+		"@_name": "birthday_date_lunar_leap_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Отложить",
+		"@_name": "birthday_delay"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "birthday_name"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "birthday_title"
+	},
+	{
+		"#text": "лет",
+		"@_name": "birthday_unit"
+	},
+	{
+		"#text": "- день рождения",
+		"@_name": "birthday_zero_title"
+	},
+	{
+		"#text": "Просмотр",
+		"@_name": "button_past_countdown"
+	},
+	{
+		"#text": "Прошедшие",
+		"@_name": "button_past_events"
+	},
+	{
+		"#text": "Заказать билеты",
+		"@_name": "buy_ticket"
+	},
+	{
+		"#text": "Запрос",
+		"@_name": "calc_check"
+	},
+	{
+		"#text": "Результат поиска",
+		"@_name": "calc_checkout"
+	},
+	{
+		"#text": "Продолжительность",
+		"@_name": "calc_hint_num"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "change"
+	},
+	{
+		"#text": "Изменить ответ",
+		"@_name": "change_response_title"
+	},
+	{
+		"#text": "No App Center installed to download DirectService",
+		"@_name": "check_appcenter_failure"
+	},
+	{
+		"#text": "Выбор контакта",
+		"@_name": "choose_contact_person"
+	},
+	{
+		"#text": "Канун Нового года",
+		"@_name": "chuxi"
+	},
+	{
+		"#text": "Ошибка загрузки, повторите",
+		"@_name": "click_refresh"
+	},
+	{
+		"#text": "no interest",
+		"@_name": "close_item_pop"
+	},
+	{
+		"#text": "宜",
+		"@_name": "compatibility"
+	},
+	{
+		"#text": "Конфликт",
+		"@_name": "conflict_text"
+	},
+	{
+		"#text": "дн.",
+		"@_name": "count_down_title"
+	},
+	{
+		"#text": "\"\n- - осталось\"",
+		"@_name": "countdown_left_default"
+	},
+	{
+		"#text": "дн.",
+		"@_name": "countdown_left_unit"
+	},
+	{
+		"#text": "%s прошло",
+		"@_name": "countdown_past_tip_text"
+	},
+	{
+		"#text": "Осталось %s",
+		"@_name": "countdown_tip_text"
+	},
+	{
+		"#text": "Событие создано",
+		"@_name": "creating_event"
+	},
+	{
+		"#text": "Приглашения будут отправлены",
+		"@_name": "creating_event_with_guest"
+	},
+	{
+		"#text": "Пользовательский (нельзя настроить на телефоне)",
+		"@_name": "custom"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "daily"
+	},
+	{
+		"#text": "%s%s",
+		"@_name": "date_almanac_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "date_time_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Послезавтра",
+		"@_name": "day_after_tomorrow"
+	},
+	{
+		"#text": "Название",
+		"@_name": "days_matter_title_hint"
+	},
+	{
+		"#text": "Card Name",
+		"@_name": "def_card_name"
+	},
+	{
+		"#text": "This is a message",
+		"@_name": "def_des"
+	},
+	{
+		"#text": "Action",
+		"@_name": "def_footer_but"
+	},
+	{
+		"#text": "see more",
+		"@_name": "def_see_more"
+	},
+	{
+		"#text": "This is a title",
+		"@_name": "def_title"
+	},
+	{
+		"#text": "Удалить это событие",
+		"@_name": "delete_this_event_title"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "detail"
+	},
+	{
+		"#text": "导演",
+		"@_name": "director"
+	},
+	{
+		"#text": "В ходе встречи не беспокоить",
+		"@_name": "do_not_disturb_in_meeting"
+	},
+	{
+		"#text": "Никогда",
+		"@_name": "does_not_repeat"
+	},
+	{
+		"#text": "Праздник двойной девятки",
+		"@_name": "double_ninth_festival"
+	},
+	{
+		"#text": "Праздник лодок-драконов",
+		"@_name": "dragon_festival"
+	},
+	{
+		"#text": "Фестиваль Китайских фонариков",
+		"@_name": "dumpling_festival"
+	},
+	{
+		"#text": "Добавить напоминание",
+		"@_name": "edit_add_reminder"
+	},
+	{
+		"#text": "Весь день",
+		"@_name": "edit_event_all_day_label"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "edit_event_annvier_date_hint"
+	},
+	{
+		"#text": "Юбилейная дата",
+		"@_name": "edit_event_birth_date_hint"
+	},
+	{
+		"#text": "Дата отсчёта",
+		"@_name": "edit_event_countdown_date_hint"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "edit_event_label"
+	},
+	{
+		"#text": "Выберите дату рождения",
+		"@_name": "edit_event_select_date"
+	},
+	{
+		"#text": "Годовщина",
+		"@_name": "edit_event_tab_anniversary"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "edit_event_tab_birthday"
+	},
+	{
+		"#text": "События",
+		"@_name": "edit_event_tab_calendar"
+	},
+	{
+		"#text": "Осталось дней",
+		"@_name": "edit_event_tab_daysMatter"
+	},
+	{
+		"#text": "Выбрать аккаунт для календаря",
+		"@_name": "edit_view_choose_calendar"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "edit_view_give_up"
+	},
+	{
+		"#text": "Выйти из редактирования?",
+		"@_name": "edit_view_give_up_edit_event"
+	},
+	{
+		"#text": "Выйти из режима создания события?",
+		"@_name": "edit_view_give_up_new_event"
+	},
+	{
+		"#text": "\\\"%s\\\" – недопустимый адрес. Невозможно отправить приглашение",
+		"@_name": "edit_view_invalid_email"
+	},
+	{
+		"#text": "Локальный аккаунт",
+		"@_name": "edit_view_local_calendar"
+	},
+	{
+		"#text": "\\\"%s\\\"– недопустимые адреса. Невозможно отправить приглашение. Повторите ввод.",
+		"@_name": "edit_view_multi_invalid_email"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "edit_view_no_save"
+	},
+	{
+		"#text": "Счастливое направление",
+		"@_name": "elegant_direction"
+	},
+	{
+		"#text": "Счастливый гороскоп",
+		"@_name": "elegant_horoscope"
+	},
+	{
+		"#text": "Ошибка сетевого запроса",
+		"@_name": "empty_connection_error"
+	},
+	{
+		"#text": "Ошибка сервера",
+		"@_name": "empty_server_error"
+	},
+	{
+		"#text": "Нет событий",
+		"@_name": "empty_view_no_event"
+	},
+	{
+		"#text": "Новое событие",
+		"@_name": "event_create"
+	},
+	{
+		"#text": "Детали события",
+		"@_name": "event_detail"
+	},
+	{
+		"#text": "Изменение",
+		"@_name": "event_edit"
+	},
+	{
+		"#text": "Приняли (%d)",
+		"@_name": "event_info_accepted_nums"
+	},
+	{
+		"#text": "участник(ов)",
+		"@_name": "event_info_attendees_nums"
+	},
+	{
+		"#text": "Отклонили (%d)",
+		"@_name": "event_info_declined_nums"
+	},
+	{
+		"#text": "Аккаунт",
+		"@_name": "event_info_head_account"
+	},
+	{
+		"#text": "Присутствующие",
+		"@_name": "event_info_head_attendees"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "event_info_head_delay"
+	},
+	{
+		"#text": "Напоминание",
+		"@_name": "event_info_head_reminder"
+	},
+	{
+		"#text": "Нет ответа (%d)",
+		"@_name": "event_info_noresponce_nums"
+	},
+	{
+		"#text": "Организатор",
+		"@_name": "event_info_organizer"
+	},
+	{
+		"#text": "Быстрый ответ",
+		"@_name": "event_info_quick_respone_title"
+	},
+	{
+		"#text": "Напоминания",
+		"@_name": "event_info_reminders_label"
+	},
+	{
+		"#text": "Возможно (%d)",
+		"@_name": "event_info_tentative_nums"
+	},
+	{
+		"#text": "Просмотр события",
+		"@_name": "event_info_title"
+	},
+	{
+		"#text": "Приглашения календаря",
+		"@_name": "event_info_title_invite"
+	},
+	{
+		"#text": "Событие не найдено.",
+		"@_name": "event_not_found"
+	},
+	{
+		"#text": "Неподдерживаемый тип",
+		"@_name": "event_unsupported_type"
+	},
+	{
+		"#text": "; до %s",
+		"@_name": "event_until"
+	},
+	{
+		"#text": "Конец",
+		"@_name": "events_list_instance_end"
+	},
+	{
+		"#text": "Начало",
+		"@_name": "events_list_instance_start"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "every_weekday"
+	},
+	{
+		"#text": "День отца",
+		"@_name": "father_day"
+	},
+	{
+		"#text": "\"В разных регионах люди отмечают праздники по-разному. Календарь Meizu собирает для вас весёлые праздники со всего мира. Можете ли вы представить себе, что египтяне плачут на День благодарения, в то время, как сотни обезьян наслаждаются пышным пиром, организованном специально для них? Кроме того, здесь собраны советы, чтобы помочь вам найти пару на День одиночек, или спланировать романтический День Святого Валентина, и многое другое.\n\nПодписавшись на этот канал, вы будете получать своевременную, интересную, и полезную информацию прямо на домашней странице календаря.\"",
+		"@_name": "festival_des"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "festival_detail"
+	},
+	{
+		"#text": "Интересная информация о праздниках",
+		"@_name": "festival_item_desc"
+	},
+	{
+		"#text": "Фестивали",
+		"@_name": "festival_list_title"
+	},
+	{
+		"#text": "Выбрано файлов %1$s, всего %2$sМБ",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Фильмы",
+		"@_name": "film"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "film_detail"
+	},
+	{
+		"#text": "Нет данных",
+		"@_name": "gadget_no_anniversaries"
+	},
+	{
+		"#text": "Нет дней рождений",
+		"@_name": "gadget_no_birthdays"
+	},
+	{
+		"#text": "Нет обратных отсчётов",
+		"@_name": "gadget_no_countdowns"
+	},
+	{
+		"#text": "Нет недавних событий",
+		"@_name": "gadget_no_events"
+	},
+	{
+		"#text": "Календарь",
+		"@_name": "gadget_title"
+	},
+	{
+		"#text": "Игровые моменты",
+		"@_name": "game_highlights"
+	},
+	{
+		"#text": "Созвездие",
+		"@_name": "gethoroscope"
+	},
+	{
+		"#text": "Заметки",
+		"@_name": "hint_description"
+	},
+	{
+		"#text": "Введите не более, чем %d дней после",
+		"@_name": "hint_num_calc_after"
+	},
+	{
+		"#text": "Введите не более, чем %d дней до начала",
+		"@_name": "hint_num_calc_before"
+	},
+	{
+		"#text": "Содержание",
+		"@_name": "hint_what"
+	},
+	{
+		"#text": "Место",
+		"@_name": "hint_where"
+	},
+	{
+		"#text": "\"Если вы ищете любовь или жаждете продвижения по карьерной лестнице, то возьмите инициативу в свои руки.\n\nПодпишитесь на канал гороскопов для ежедневного получения своевременной информации, включая всесторонний анализ гороскопа с разных точек зрения. Это поможет вам найти свой ключ к успеху.\"",
+		"@_name": "horoscope_desc"
+	},
+	{
+		"#text": "Гороскоп на каждый день",
+		"@_name": "horoscope_item_desc"
+	},
+	{
+		"#text": "Фестиаль Голодных призраков",
+		"@_name": "hungry_ghost_festival"
+	},
+	{
+		"#text": "Создайте новое напоминание для всех контактов, которые отмечают дни рождения",
+		"@_name": "import_birthday_item_sub_title"
+	},
+	{
+		"#text": "Импорт существующих дней рождений контактов",
+		"@_name": "import_birthday_item_title"
+	},
+	{
+		"#text": "Импорт",
+		"@_name": "importing"
+	},
+	{
+		"#text": "черездн.",
+		"@_name": "in_num_calc_after",
+		"g": {
+			"#text": "%d",
+			"@_id": "COUNT"
+		}
+	},
+	{
+		"#text": "\" дн. назад \"",
+		"@_name": "in_num_calc_ago",
+		"g": {
+			"#text": "%d",
+			"@_id": "COUNT"
+		}
+	},
+	{
+		"#text": "Конфликт: %s другие события также запланировано на это время",
+		"@_name": "inbox_collision_more_fmt"
+	},
+	{
+		"#text": "Конфликт: %s также запланировано на это время",
+		"@_name": "inbox_collision_one_fmt"
+	},
+	{
+		"#text": "Нет приглашений",
+		"@_name": "inbox_no_invitations"
+	},
+	{
+		"#text": "Новое",
+		"@_name": "inbox_tab_new"
+	},
+	{
+		"#text": "С ответом",
+		"@_name": "inbox_tab_replied"
+	},
+	{
+		"#text": "Входящие",
+		"@_name": "inbox_title"
+	},
+	{
+		"#text": "Когда: %s",
+		"@_name": "inbox_when_fmt"
+	},
+	{
+		"#text": "Где: %s",
+		"@_name": "inbox_where_fmt"
+	},
+	{
+		"#text": "忌",
+		"@_name": "incompatibility"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "install_button_cancel"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "install_button_hide"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install_button_install"
+	},
+	{
+		"#text": "Install by mobile network",
+		"@_name": "install_button_install_mobile"
+	},
+	{
+		"#text": "打开",
+		"@_name": "install_complete_text"
+	},
+	{
+		"#text": "An error occurred, code = %d",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Failed to install DirectService",
+		"@_name": "install_failure"
+	},
+	{
+		"#text": "安装",
+		"@_name": "install_idle_text"
+	},
+	{
+		"#text": "0%",
+		"@_name": "install_progress_default"
+	},
+	{
+		"#text": "Install successful, open quick app immediately",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "Скачивание",
+		"@_name": "install_title_downloading"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "install_title_installing"
+	},
+	{
+		"#text": "Запуск",
+		"@_name": "install_title_launching"
+	},
+	{
+		"#text": "Install DirectService to open quick app",
+		"@_name": "install_title_prompt"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "installing_text"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Лаба-фестиваль",
+		"@_name": "laba"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "load_more_list_footer_default_text"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading_text"
+	},
+	{
+		"#text": "Системный календарь",
+		"@_name": "local_calendar"
+	},
+	{
+		"#text": "Просмотр",
+		"@_name": "look_up_import_birthday"
+	},
+	{
+		"#text": "Счастливый цвет",
+		"@_name": "lucky_color"
+	},
+	{
+		"#text": "Счастливое число",
+		"@_name": "lucky_number"
+	},
+	{
+		"#text": "Счастливая вещь",
+		"@_name": "lucky_object"
+	},
+	{
+		"#text": "Ежегодно (лун.) (%s)",
+		"@_name": "lunar_yearly"
+	},
+	{
+		"#text": "Китайский День влюбленных",
+		"@_name": "magpie_festival"
+	},
+	{
+		"#text": "Завершился",
+		"@_name": "match_finished"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Календарь Meizu",
+		"@_name": "meizu_calendar"
+	},
+	{
+		"#text": "День середины осени",
+		"@_name": "mid_autumn_festival"
+	},
+	{
+		"#text": "мин",
+		"@_name": "min"
+	},
+	{
+		"#text": "Изменить все повторяющиеся события",
+		"@_name": "modify_all"
+	},
+	{
+		"#text": "Изменить это и будущие события",
+		"@_name": "modify_all_following"
+	},
+	{
+		"#text": "Изменить только это событие",
+		"@_name": "modify_event"
+	},
+	{
+		"#text": "Каждый месяц",
+		"@_name": "monthly"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Ещё матчи",
+		"@_name": "more_match"
+	},
+	{
+		"#text": "День матери",
+		"@_name": "mother_day"
+	},
+	{
+		"#text": "добавить получателя",
+		"@_name": "mw_recipient_add_recipient"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "mw_recipient_addrecipient_easymode"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mw_recipient_edit_imeActionLabel"
+	},
+	{
+		"#text": "Поиск глобальных контактов",
+		"@_name": "mw_recipient_global_search"
+	},
+	{
+		"#text": "Поиск глобальных контактов",
+		"@_name": "mw_recipient_global_searching"
+	},
+	{
+		"#text": "Получатель:",
+		"@_name": "mw_recipient_hint_str"
+	},
+	{
+		"#text": "%d ещё...",
+		"@_name": "mw_recipient_others_displayname"
+	},
+	{
+		"#text": "Поиск контактов Weibo",
+		"@_name": "mw_recipient_sns_search"
+	},
+	{
+		"#text": "Поиск контактов Weibo...",
+		"@_name": "mw_recipient_sns_searching"
+	},
+	{
+		"#text": "Обновить контакты Weibo",
+		"@_name": "mw_recipient_sns_update"
+	},
+	{
+		"#text": "Обновление контактов Weibo...",
+		"@_name": "mw_recipient_sns_updating"
+	},
+	{
+		"#text": "Получатель",
+		"@_name": "mw_recipient_title"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "mw_recipient_title_email"
+	},
+	{
+		"#text": "Сообщение",
+		"@_name": "mw_recipient_title_message"
+	},
+	{
+		"#text": "%d получателей",
+		"@_name": "mw_recipient_total_str"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "my_schedule"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "my_subscribe_hot_card"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Переключение Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Переключение NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "\"Установить\nсейчас\"",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "\"Установить\nпозже\"",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Текущее расписание",
+		"@_name": "nba_schedule"
+	},
+	{
+		"#text": "取消",
+		"@_name": "news_cancel"
+	},
+	{
+		"#text": "换一换",
+		"@_name": "news_change"
+	},
+	{
+		"#text": "确定",
+		"@_name": "news_confirm"
+	},
+	{
+		"#text": "不感兴趣",
+		"@_name": "news_dislike"
+	},
+	{
+		"#text": "这条内容我不喜欢",
+		"@_name": "news_dislike_hint"
+	},
+	{
+		"#text": "网络异常, 点击重试",
+		"@_name": "news_error_click_retry"
+	},
+	{
+		"#text": "无更多内容",
+		"@_name": "news_error_no_more"
+	},
+	{
+		"#text": "提交",
+		"@_name": "news_feedback_commit"
+	},
+	{
+		"#text": "刚刚",
+		"@_name": "news_lite_just_now"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "news_loading_text"
+	},
+	{
+		"#text": "更多热点",
+		"@_name": "news_more"
+	},
+	{
+		"#text": "网络异常, 请稍后重试",
+		"@_name": "news_network_error"
+	},
+	{
+		"#text": "%s次播放",
+		"@_name": "news_play_count"
+	},
+	{
+		"#text": "将减少类似内容推荐",
+		"@_name": "news_reduce_recommendation"
+	},
+	{
+		"#text": "举报垃圾内容",
+		"@_name": "news_report"
+	},
+	{
+		"#text": "内容低俗、标题夸张等",
+		"@_name": "news_report_reason"
+	},
+	{
+		"#text": "上滑加载",
+		"@_name": "news_slide_more"
+	},
+	{
+		"#text": "新闻资讯版本太低，播放失败",
+		"@_name": "news_tip_dialog_app_version_too_low"
+	},
+	{
+		"#text": "无网络连接, 请检查网络设置",
+		"@_name": "news_tip_dialog_wifi_not_connected"
+	},
+	{
+		"#text": "立即更新",
+		"@_name": "news_update"
+	},
+	{
+		"#text": "Добавить событие можно только в видимый календарь, настроенный на устройстве. Нажмите \\\"Добавить аккаунт\\\" или, если он недавно добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \\\"Отмена\\\" и сделайте видимым хотя бы один календарь.",
+		"@_name": "no_calendars_found"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "no_data"
+	},
+	{
+		"#text": "Нет дней рождений",
+		"@_name": "no_import_birthday"
+	},
+	{
+		"#text": "Нет прямого эфира",
+		"@_name": "no_live"
+	},
+	{
+		"#text": "No Net",
+		"@_name": "no_net"
+	},
+	{
+		"#text": "Нет календарей",
+		"@_name": "no_syncable_calendars"
+	},
+	{
+		"#text": "Без названия",
+		"@_name": "no_title_label"
+	},
+	{
+		"#text": "Не начался",
+		"@_name": "not_begin"
+	},
+	{
+		"#text": "Идёт сейчас",
+		"@_name": "on_the_march"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "open_custom_event_label"
+	},
+	{
+		"#text": "Событие добавлено",
+		"@_name": "open_insert_event_success"
+	},
+	{
+		"#text": "Событие обновлено",
+		"@_name": "open_update_event_success"
+	},
+	{
+		"#text": "Обратный отсчёт",
+		"@_name": "past_countdown"
+	},
+	{
+		"#text": "Приложение требует доступа к сети и чтению контактов для получения данных о днях рождения и другой информации",
+		"@_name": "permission_text"
+	},
+	{
+		"#text": "Обзор",
+		"@_name": "plot_introduction"
+	},
+	{
+		"#text": "Информация",
+		"@_name": "pref_header_extra_info"
+	},
+	{
+		"#text": "ПОКАЗАТЬ КАЛЕНДАРИ",
+		"@_name": "pref_header_visible_calendar"
+	},
+	{
+		"#text": "Получайте уведомления о подарках, популярных мероприятиях и т. д.",
+		"@_name": "pref_notification_summary"
+	},
+	{
+		"#text": "Исключить из календаря отклонённые события",
+		"@_name": "pref_summary_hide_declined"
+	},
+	{
+		"#text": "Исключить из календаря события до сегодняшнего дня",
+		"@_name": "pref_summary_hide_past"
+	},
+	{
+		"#text": "Разрешить оповещения",
+		"@_name": "pref_title_alerts"
+	},
+	{
+		"#text": "Всплывающие оповещения",
+		"@_name": "pref_title_alerts_popup"
+	},
+	{
+		"#text": "Оповещение о событиях на весь день",
+		"@_name": "pref_title_all_day_default_reminder"
+	},
+	{
+		"#text": "Альманах",
+		"@_name": "pref_title_almanac"
+	},
+	{
+		"#text": "Аккаунты и календари",
+		"@_name": "pref_title_calendars"
+	},
+	{
+		"#text": "Календарь по умолчанию",
+		"@_name": "pref_title_default_calendar"
+	},
+	{
+		"#text": "Время оповещения о событии",
+		"@_name": "pref_title_default_reminder"
+	},
+	{
+		"#text": "Начало недели",
+		"@_name": "pref_title_default_week_start"
+	},
+	{
+		"#text": "ОБЩИЕ НАСТРОЙКИ",
+		"@_name": "pref_title_general_preferences"
+	},
+	{
+		"#text": "Скрыть отклонённые события",
+		"@_name": "pref_title_hide_declined"
+	},
+	{
+		"#text": "Показывать праздничные картинки",
+		"@_name": "pref_title_hide_header_advertise"
+	},
+	{
+		"#text": "Скрыть прошедшие события",
+		"@_name": "pref_title_hide_past"
+	},
+	{
+		"#text": "Местные праздники",
+		"@_name": "pref_title_holiday_zone"
+	},
+	{
+		"#text": "Созвездие",
+		"@_name": "pref_title_horoscope"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "pref_title_notice"
+	},
+	{
+		"#text": "Получать push-уведомления",
+		"@_name": "pref_title_notification"
+	},
+	{
+		"#text": "Оповещение на панели уведомлений при событии",
+		"@_name": "pref_title_reminder_notification"
+	},
+	{
+		"#text": "Отображать оповещения во всплывающем окне",
+		"@_name": "pref_title_reminder_popup"
+	},
+	{
+		"#text": "Тип напоминания",
+		"@_name": "pref_title_reminder_type"
+	},
+	{
+		"#text": -540,
+		"@_name": "pref_value_all_day_default_reminder"
+	},
+	{
+		"#text": 10,
+		"@_name": "pref_value_default_reminder"
+	},
+	{
+		"#text": 1,
+		"@_name": "pref_value_default_reminder_type"
+	},
+	{
+		"#text": -1,
+		"@_name": "pref_value_default_week_start"
+	},
+	{
+		"#text": "Дни рождения контактов",
+		"@_name": "preferences_contacts_birthday_title"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "program_detail"
+	},
+	{
+		"#text": "Отпустить для обновления",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Последнее обновление",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "Сейчас",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "с. назад",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Потянуть вниз для обновления",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "До",
+		"@_name": "recurrence_end_date"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "recurrence_end_times"
+	},
+	{
+		"#text": "Новости по теме",
+		"@_name": "related_news"
+	},
+	{
+		"#text": "Отдых",
+		"@_name": "relex"
+	},
+	{
+		"#text": "Через %s",
+		"@_name": "reminder_fmt_after"
+	},
+	{
+		"#text": "За %s",
+		"@_name": "reminder_fmt_before"
+	},
+	{
+		"#text": "Через %s (%s)",
+		"@_name": "reminder_fmt_day_after",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "За %s (%s)",
+		"@_name": "reminder_fmt_day_before",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "В день события (%s)",
+		"@_name": "reminder_fmt_day_today"
+	},
+	{
+		"#text": "Оповещение",
+		"@_name": "reminders_label"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "repeats_label"
+	},
+	{
+		"#text": "Принять",
+		"@_name": "response_accept"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "response_decline"
+	},
+	{
+		"#text": "Возможно",
+		"@_name": "response_maybe"
+	},
+	{
+		"#text": "В",
+		"@_name": "rest_day"
+	},
+	{
+		"#text": "Событие сохранено",
+		"@_name": "saving_event"
+	},
+	{
+		"#text": "Обновление будет отправлено",
+		"@_name": "saving_event_with_guest"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Участники (%d чел.)",
+		"@_name": "share_info_attendee_title"
+	},
+	{
+		"#text": "Содержимое",
+		"@_name": "share_info_content"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "share_info_location"
+	},
+	{
+		"#text": "(Организатор)",
+		"@_name": "share_info_organizer"
+	},
+	{
+		"#text": "Время",
+		"@_name": "share_info_time"
+	},
+	{
+		"#text": "Создаётся, подождите",
+		"@_name": "share_loading_message"
+	},
+	{
+		"#text": "Детали шоу",
+		"@_name": "show_detail_action_title"
+	},
+	{
+		"#text": "В ролях",
+		"@_name": "show_detail_actor"
+	},
+	{
+		"#text": "Обзор",
+		"@_name": "show_detail_desc"
+	},
+	{
+		"#text": "Режиссёр",
+		"@_name": "show_detail_dirctor"
+	},
+	{
+		"#text": "Комментарии",
+		"@_name": "show_detail_hot_comments"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "show_detail_more"
+	},
+	{
+		"#text": "Нет комментариев",
+		"@_name": "show_detail_no_comment"
+	},
+	{
+		"#text": "Нет данных",
+		"@_name": "show_detail_no_data"
+	},
+	{
+		"#text": "Нет описания",
+		"@_name": "show_detail_no_desc"
+	},
+	{
+		"#text": "Новые фото",
+		"@_name": "show_detail_pic"
+	},
+	{
+		"#text": "Смотреть онлайн",
+		"@_name": "show_detail_watch_online"
+	},
+	{
+		"#text": "%s/%s/%s",
+		"@_name": "solar_date",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Окончание",
+		"@_name": "span_end_date"
+	},
+	{
+		"#text": "Начало",
+		"@_name": "span_start"
+	},
+	{
+		"#text": "Фестиваль Весны",
+		"@_name": "spring_festival"
+	},
+	{
+		"#text": "Категории",
+		"@_name": "square_cates_title"
+	},
+	{
+		"#text": "Звезда",
+		"@_name": "star_speak"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Кадры",
+		"@_name": "stills"
+	},
+	{
+		"#text": "Подписка",
+		"@_name": "sub_action_subscribed"
+	},
+	{
+		"#text": "Просмотр",
+		"@_name": "sub_default_button_string"
+	},
+	{
+		"#text": "Подписка",
+		"@_name": "sub_square_button_text"
+	},
+	{
+		"#text": "Подписка на события",
+		"@_name": "subscribe_alert_text_hint"
+	},
+	{
+		"#text": "Подписано",
+		"@_name": "subscribed"
+	},
+	{
+		"#text": "Расписания подписки",
+		"@_name": "subscribed_schedule"
+	},
+	{
+		"#text": "Команды подписки",
+		"@_name": "subscribed_team"
+	},
+	{
+		"#text": "Подписка",
+		"@_name": "subscription_add"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "subscription_del"
+	},
+	{
+		"#text": "Войти в аккаунт Flyme",
+		"@_name": "subscription_no_account"
+	},
+	{
+		"#text": "Нет подписок",
+		"@_name": "subscription_no_data"
+	},
+	{
+		"#text": "Информация о команде",
+		"@_name": "team_detail"
+	},
+	{
+		"#text": "День благодарения",
+		"@_name": "thanks_giving"
+	},
+	{
+		"#text": "Этот месяц",
+		"@_name": "this_month"
+	},
+	{
+		"#text": "Эта неделя",
+		"@_name": "this_week"
+	},
+	{
+		"#text": "Конфликт времени",
+		"@_name": "time_conflict_text"
+	},
+	{
+		"#text": "События",
+		"@_name": "title_activity_agenda"
+	},
+	{
+		"#text": "Прошедшие события",
+		"@_name": "title_activity_agenda_past"
+	},
+	{
+		"#text": "Детали альманаха",
+		"@_name": "title_activity_almanac_detail"
+	},
+	{
+		"#text": "Обратный отсчёт",
+		"@_name": "title_activity_countdown_past"
+	},
+	{
+		"#text": "FootballListActivity",
+		"@_name": "title_activity_football_list"
+	},
+	{
+		"#text": "Импорт iCalendar",
+		"@_name": "title_activity_icalendar_list"
+	},
+	{
+		"#text": "%s",
+		"@_name": "title_countdown"
+	},
+	{
+		"#text": "Подписки",
+		"@_name": "title_subscription_square"
+	},
+	{
+		"#text": "Прогноз встреч",
+		"@_name": "title_tool"
+	},
+	{
+		"#text": "%s лет",
+		"@_name": "title_year_old"
+	},
+	{
+		"#text": "Нет событий календаря в файле",
+		"@_name": "toast_ics_error_no_event"
+	},
+	{
+		"#text": "Ошибка разбора файла",
+		"@_name": "toast_ics_error_parse"
+	},
+	{
+		"#text": "Формат файла не поддерживается.",
+		"@_name": "toast_ics_error_type"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "today"
+	},
+	{
+		"#text": "Сегодня: %s",
+		"@_name": "today_at_time_fmt"
+	},
+	{
+		"#text": "Завтра",
+		"@_name": "tomorrow"
+	},
+	{
+		"#text": "Завтра %s",
+		"@_name": "tomorrow_at_time_fmt"
+	},
+	{
+		"#text": "После",
+		"@_name": "tool_calc_after"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "tool_calc_before"
+	},
+	{
+		"#text": "Выбрать",
+		"@_name": "tool_calc_choose"
+	},
+	{
+		"#text": "Создать событие",
+		"@_name": "tool_calc_create_event"
+	},
+	{
+		"#text": "Превышает диапазон (1970–2037)",
+		"@_name": "tool_calc_outofcalc"
+	},
+	{
+		"#text": "По будням",
+		"@_name": "tool_weekday"
+	},
+	{
+		"#text": "г",
+		"@_name": "tool_year"
+	},
+	{
+		"#text": "События",
+		"@_name": "touch_3d_agenda"
+	},
+	{
+		"#text": "Гороскоп",
+		"@_name": "touch_3d_horoscope"
+	},
+	{
+		"#text": "Новое событие",
+		"@_name": "touch_3d_new_event"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "touch_3d_search"
+	},
+	{
+		"#text": "Время и место изменено",
+		"@_name": "update_event_both"
+	},
+	{
+		"#text": "Время изменено",
+		"@_name": "update_event_dtstart"
+	},
+	{
+		"#text": "Место изменено",
+		"@_name": "update_event_location"
+	},
+	{
+		"#text": "Using traffic download",
+		"@_name": "use_mobile_download"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Каждую неделю",
+		"@_name": "weekly"
+	},
+	{
+		"#text": "Еженедельно (каждые %s)",
+		"@_name": "weekly_with_days"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Обратный отсчёт",
+		"@_name": "widget_add_countdown"
+	},
+	{
+		"#text": "Р",
+		"@_name": "work_day"
+	},
+	{
+		"#text": "Чемпионат мира",
+		"@_name": "world_cup"
+	},
+	{
+		"#text": "Каждый год",
+		"@_name": "yearly"
+	},
+	{
+		"#text": "Каждый год",
+		"@_name": "yearly_plain"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "yesterday"
+	},
+	{
+		"#text": "В день события (12:00)",
+		"@_name": "ZeroDay"
+	},
+	{
+		"#text": "День события",
+		"@_name": "ZeroDay_All_Day"
+	},
+	{
+		"#text": "Во время события",
+		"@_name": "ZeroMin"
+	}
+]

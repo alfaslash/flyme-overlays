@@ -1,0 +1,2573 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Upgrading network connection, please wait.",
+		"@_name": "action_base_cancel_connecting_tip"
+	},
+	{
+		"#text": "Stopping sending may cause failure to restore contacts, apps, WeChat data, and other information.",
+		"@_name": "action_base_client_stop_share_dialog_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "action_base_detail_confirm_button_text"
+	},
+	{
+		"#text": "Disconnect?",
+		"@_name": "action_base_disconnect_dialog_title"
+	},
+	{
+		"#text": "Receiving stopped",
+		"@_name": "action_base_header_tips_fail_receiver"
+	},
+	{
+		"#text": "Error receiving",
+		"@_name": "action_base_header_tips_fail_receiver_exception"
+	},
+	{
+		"#text": "Sending stopped",
+		"@_name": "action_base_header_tips_fail_sender"
+	},
+	{
+		"#text": "Error sending",
+		"@_name": "action_base_header_tips_fail_sender_exception"
+	},
+	{
+		"#text": "%1$s hr left",
+		"@_name": "action_base_header_tips_left_hour"
+	},
+	{
+		"#text": "%1$s hr %2$s min left",
+		"@_name": "action_base_header_tips_left_hour_minitue"
+	},
+	{
+		"#text": "%1$s min left",
+		"@_name": "action_base_header_tips_left_minitue"
+	},
+	{
+		"#text": "%1$s sec left",
+		"@_name": "action_base_header_tips_left_second"
+	},
+	{
+		"#text": "Time required: %1$s hr",
+		"@_name": "action_base_header_tips_prediction_hour"
+	},
+	{
+		"#text": "Time required: %1$s hr %2$s min",
+		"@_name": "action_base_header_tips_prediction_hour_minute"
+	},
+	{
+		"#text": "Time required: %1$s min",
+		"@_name": "action_base_header_tips_prediction_minute"
+	},
+	{
+		"#text": "Time required: %1$s sec",
+		"@_name": "action_base_header_tips_prediction_second"
+	},
+	{
+		"#text": "Connection timed out. Please continue to receive after reconnected",
+		"@_name": "action_base_header_tips_timeout_exception"
+	},
+	{
+		"#text": "Apps and Personal Data",
+		"@_name": "action_base_item_header_title_basic"
+	},
+	{
+		"#text": "Unable to transfer app content",
+		"@_name": "action_base_item_header_title_fail"
+	},
+	{
+		"#text": "Media",
+		"@_name": "action_base_item_header_title_media"
+	},
+	{
+		"#text": "Please select data on old phone",
+		"@_name": "action_base_item_none_tips"
+	},
+	{
+		"#text": "Back to Homepage",
+		"@_name": "action_base_operation_complete"
+	},
+	{
+		"#text": "Stop receiving",
+		"@_name": "action_base_operation_receive_stop"
+	},
+	{
+		"#text": "Restoring",
+		"@_name": "action_base_operation_recover"
+	},
+	{
+		"#text": "Preparing",
+		"@_name": "action_base_operation_send_preparing"
+	},
+	{
+		"#text": "Stop sending",
+		"@_name": "action_base_operation_send_stop"
+	},
+	{
+		"#text": "Start to Send",
+		"@_name": "action_base_operation_start_text"
+	},
+	{
+		"#text": "Stopping receiving may cause failure to restore contacts, apps, WeChat data, and other information.",
+		"@_name": "action_base_server_stop_share_dialog_title"
+	},
+	{
+		"#text": "Migration interrupted due to disconnection",
+		"@_name": "action_base_socket_5G_timeout_dialog_title"
+	},
+	{
+		"#text": "Please turn off airplane mode and retry",
+		"@_name": "action_base_socket_ari_dialog_title"
+	},
+	{
+		"#text": "Connection failed",
+		"@_name": "action_base_socket_error_dialog_title"
+	},
+	{
+		"#text": "Please Update System",
+		"@_name": "action_base_socket_system_downgrade_receiver"
+	},
+	{
+		"#text": "Migration to older system versions not supported",
+		"@_name": "action_base_socket_system_downgrade_sender"
+	},
+	{
+		"#text": "OK",
+		"@_name": "action_base_stop_share_dialog_button_confirm"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "action_base_stop_share_dialog_button_disconnect"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "action_base_stop_share_dialog_button_negative"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "action_base_stop_share_dialog_button_positive"
+	},
+	{
+		"#text": "Migration interrupted on the other device",
+		"@_name": "action_base_user_remote_cancel_waiting"
+	},
+	{
+		"#text": "Calculating",
+		"@_name": "action_item_calculating"
+	},
+	{
+		"#text": "Transfer in-app data",
+		"@_name": "action_item_detail_app_data_select"
+	},
+	{
+		"#text": "Send Home screen layout",
+		"@_name": "action_item_detail_app_send_desktop_layout"
+	},
+	{
+		"#text": "All",
+		"@_name": "action_item_detail_doc_check_all"
+	},
+	{
+		"#text": "Ebooks",
+		"@_name": "action_item_detail_doc_ebook"
+	},
+	{
+		"#text": "Office documents",
+		"@_name": "action_item_detail_doc_office"
+	},
+	{
+		"#text": "Other",
+		"@_name": "action_item_detail_doc_other"
+	},
+	{
+		"#text": "None",
+		"@_name": "action_item_detail_doc_uncheck_all"
+	},
+	{
+		"#text": "%1$s image(s)",
+		"@_name": "action_item_detail_image_description"
+	},
+	{
+		"#text": "%1$s Item(s) Selected",
+		"@_name": "action_item_detail_list_title_select_multiple"
+	},
+	{
+		"#text": "Select %1$s",
+		"@_name": "action_item_detail_list_title_select_none"
+	},
+	{
+		"#text": "%1$s video(s)",
+		"@_name": "action_item_detail_vidio_description"
+	},
+	{
+		"#text": "%1$s image(s)",
+		"@_name": "action_item_image_scale"
+	},
+	{
+		"#text": "Please grant permission to \\\"Get list of installed apps\\\" in Settings",
+		"@_name": "action_item_no_app_permission"
+	},
+	{
+		"#text": "Please grant permission to Migratool in Settings",
+		"@_name": "action_item_no_permission"
+	},
+	{
+		"#text": "Grant write permission to Migratool in Settings",
+		"@_name": "action_item_no_write_permission"
+	},
+	{
+		"#text": "No %1$s",
+		"@_name": "action_item_none"
+	},
+	{
+		"#text": "No %1$s, or access to the data is denied. Please grant permission in Settings.",
+		"@_name": "action_item_none_or_no_permission"
+	},
+	{
+		"#text": "%1$s item(s)",
+		"@_name": "action_item_scale"
+	},
+	{
+		"#text": "%1$s video(s)",
+		"@_name": "action_item_vidio_scale"
+	},
+	{
+		"#text": "Flyme account",
+		"@_name": "action_name_account"
+	},
+	{
+		"#text": "Alarm settings",
+		"@_name": "action_name_alarm_clock"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "action_name_app"
+	},
+	{
+		"#text": "App content",
+		"@_name": "action_name_app_data"
+	},
+	{
+		"#text": "Browser bookmarks",
+		"@_name": "action_name_browser_bookmarks"
+	},
+	{
+		"#text": "Call logs",
+		"@_name": "action_name_calllog"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "action_name_contact"
+	},
+	{
+		"#text": "Other",
+		"@_name": "action_name_default"
+	},
+	{
+		"#text": "Display settings",
+		"@_name": "action_name_display_settings"
+	},
+	{
+		"#text": "Documents",
+		"@_name": "action_name_doc"
+	},
+	{
+		"#text": "Files",
+		"@_name": "action_name_file"
+	},
+	{
+		"#text": "Photos",
+		"@_name": "action_name_image"
+	},
+	{
+		"#text": "Input settings",
+		"@_name": "action_name_input_method"
+	},
+	{
+		"#text": "Email settings",
+		"@_name": "action_name_mail"
+	},
+	{
+		"#text": "WeChat data",
+		"@_name": "action_name_micromsg"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "action_name_mms"
+	},
+	{
+		"#text": "Music",
+		"@_name": "action_name_music"
+	},
+	{
+		"#text": "Vault",
+		"@_name": "action_name_safe_box"
+	},
+	{
+		"#text": "System settings",
+		"@_name": "action_name_settings"
+	},
+	{
+		"#text": "Messages",
+		"@_name": "action_name_sms"
+	},
+	{
+		"#text": "Sound settings",
+		"@_name": "action_name_sound_settings"
+	},
+	{
+		"#text": "Videos",
+		"@_name": "action_name_vidio"
+	},
+	{
+		"#text": "VPN settings",
+		"@_name": "action_name_vpn_settings"
+	},
+	{
+		"#text": "Wallpaper settings",
+		"@_name": "action_name_wallpaper"
+	},
+	{
+		"#text": "WLAN passwords",
+		"@_name": "action_name_wlan_password"
+	},
+	{
+		"#text": "Receive Data",
+		"@_name": "action_receive_actionbar_title"
+	},
+	{
+		"#text": "Sending",
+		"@_name": "action_send_actionbar_title"
+	},
+	{
+		"#text": "New phone space full",
+		"@_name": "action_send_undercapacity_title"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Apps > Data",
+		"@_name": "app_and_data"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "app_data"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "app_install_failed"
+	},
+	{
+		"#text": "Successfully Installed",
+		"@_name": "app_install_success"
+	},
+	{
+		"#text": "Migratool",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "%1$s app(s)",
+		"@_name": "app_recover_summary_txt"
+	},
+	{
+		"#text": "Available storage: %s",
+		"@_name": "available_size"
+	},
+	{
+		"#text": "%s done",
+		"@_name": "backup_complement"
+	},
+	{
+		"#text": "Backup Date:",
+		"@_name": "backup_date_title"
+	},
+	{
+		"#text": "%s failed. Tap to view details",
+		"@_name": "backup_failed"
+	},
+	{
+		"#text": "Backup finished",
+		"@_name": "backup_finish"
+	},
+	{
+		"#text": "%1$s/backup was occupied. Please remove or rename folder with the same name and backup again",
+		"@_name": "backup_folder_occupied_msg"
+	},
+	{
+		"#text": "Unable to backup",
+		"@_name": "backup_folder_occupied_title"
+	},
+	{
+		"#text": "Backup items",
+		"@_name": "backup_item"
+	},
+	{
+		"#text": "Local %s",
+		"@_name": "backup_loction"
+	},
+	{
+		"#text": "Path of backed up files",
+		"@_name": "backup_path_notify"
+	},
+	{
+		"#text": "Backup record",
+		"@_name": "backup_record"
+	},
+	{
+		"#text": ",",
+		"@_name": "backup_record_item_separtor"
+	},
+	{
+		"#text": "%sitems",
+		"@_name": "backup_record_num"
+	},
+	{
+		"#text": "Backup &amp; restore",
+		"@_name": "backup_recover"
+	},
+	{
+		"#text": "Storage",
+		"@_name": "backup_storge_location"
+	},
+	{
+		"#text": "No backup for %s",
+		"@_name": "backup_time"
+	},
+	{
+		"#text": "%s is in progress. Please check the notification shade.",
+		"@_name": "backup_working"
+	},
+	{
+		"#text": "Failed to compress backups, please try again",
+		"@_name": "backup_zip_failed"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "calendar"
+	},
+	{
+		"#text": "Call logs",
+		"@_name": "calllog"
+	},
+	{
+		"#text": "%1$s call log(s)",
+		"@_name": "calllog_recover_summary_txt"
+	},
+	{
+		"#text": "%s backup and restore not supported",
+		"@_name": "can_not_support_action"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Verifying account information",
+		"@_name": "check_account_info"
+	},
+	{
+		"#text": "Choose storage path",
+		"@_name": "choose_storage"
+	},
+	{
+		"#text": "clean up",
+		"@_name": "clean_rubbish"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "closed"
+	},
+	{
+		"#text": "The function Backup and restore is designed specially for CMCC-versioned phones and can be used among CMCC-versioned phones of all brands.",
+		"@_name": "cmcc_notify"
+	},
+	{
+		"#text": "Done",
+		"@_name": "complete"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "contact"
+	},
+	{
+		"#text": "%1$s contact(s)",
+		"@_name": "contact_recover_summary_txt"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continuration"
+	},
+	{
+		"#text": "Please do not switch WLAN connection during migration",
+		"@_name": "data_migration_code_hint"
+	},
+	{
+		"#text": "Code expired",
+		"@_name": "data_receiver_code_expired_tips"
+	},
+	{
+		"#text": "Generating connection code, please wait",
+		"@_name": "data_receiver_code_generating"
+	},
+	{
+		"#text": "Regenerate",
+		"@_name": "data_receiver_code_recreate"
+	},
+	{
+		"#text": "Enter this connection code on old phone",
+		"@_name": "data_receiver_code_tips"
+	},
+	{
+		"#text": "OK",
+		"@_name": "data_receiver_fail_confirm_button"
+	},
+	{
+		"#text": "Connecting to new phone",
+		"@_name": "data_sender_code_connecting"
+	},
+	{
+		"#text": "Please enter the correct code",
+		"@_name": "data_sender_code_reenter_tips"
+	},
+	{
+		"#text": "Enter code shown on new phone",
+		"@_name": "data_sender_code_tips"
+	},
+	{
+		"#text": "OK",
+		"@_name": "data_sender_fail_confirm_button"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "%1$s other item(s)",
+		"@_name": "default_recover_summary_txt"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete"
+	},
+	{
+		"#text": "\"Can't perform this action during cloud sync\"",
+		"@_name": "desk_update"
+	},
+	{
+		"#text": "Disk",
+		"@_name": "disk_path"
+	},
+	{
+		"#text": "SD Card",
+		"@_name": "disk_scard_path"
+	},
+	{
+		"#text": "Migrate phone data without using cellular data",
+		"@_name": "dm_notification_message"
+	},
+	{
+		"#text": "Phone Migration",
+		"@_name": "dm_notification_title"
+	},
+	{
+		"#text": "%1$s document(s)",
+		"@_name": "doc_recover_summary_txt"
+	},
+	{
+		"#text": "No Backup History",
+		"@_name": "empty_text"
+	},
+	{
+		"#text": "The current Flyme account is not the encrypted account",
+		"@_name": "encry_account_error"
+	},
+	{
+		"#text": "\"Please log out the current Flyme account and log into the following account to recover it\n\nFlyme account:\"",
+		"@_name": "encry_account_error_dialog_message"
+	},
+	{
+		"#text": "Encrypted backup",
+		"@_name": "encry_backup"
+	},
+	{
+		"#text": "Use Flyme account to encrypt your backup",
+		"@_name": "encry_backup_notify"
+	},
+	{
+		"#text": "Use Flyme account to encrypt your backup",
+		"@_name": "encry_msg"
+	},
+	{
+		"#text": "Privacy",
+		"@_name": "encry_title"
+	},
+	{
+		"#text": "Encrypted",
+		"@_name": "encrypt_record_tip"
+	},
+	{
+		"#text": "Estimated backup size:",
+		"@_name": "estimate_backup_size"
+	},
+	{
+		"#text": "Failed to create hotspot. Please acquire permission first.",
+		"@_name": "failed_to_enable_softap"
+	},
+	{
+		"#text": "%1$s file(s)",
+		"@_name": "file_recover_summary_txt"
+	},
+	{
+		"#text": "Use logged Flyme account to encrypt your backup, and you need to log into the same Flyme account to recover your backup",
+		"@_name": "first_encry_backup_dialog_message"
+	},
+	{
+		"#text": "Flyme account",
+		"@_name": "flyme_account"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Get account information",
+		"@_name": "get_account_info"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "get_it"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "has_know"
+	},
+	{
+		"#text": "Skipped",
+		"@_name": "has_skip"
+	},
+	{
+		"#text": "%1$s image(s)",
+		"@_name": "image_recover_summary_txt"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "\"Backed up \n%s ago\"",
+		"@_name": "just_backup"
+	},
+	{
+		"#text": "\"Backed up \njust now\"",
+		"@_name": "just_backup_ago"
+	},
+	{
+		"#text": "Timely backup. No risks.",
+		"@_name": "just_backup_msg"
+	},
+	{
+		"#text": "Launcher layout",
+		"@_name": "launcher"
+	},
+	{
+		"#text": "Positions of icons, folders and tools",
+		"@_name": "launcher_description"
+	},
+	{
+		"#text": "Calculating...",
+		"@_name": "loading_records"
+	},
+	{
+		"#text": "Login",
+		"@_name": "login"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Message",
+		"@_name": "message"
+	},
+	{
+		"#text": "WeChat data",
+		"@_name": "micromsg_recover_summary_txt"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "migration_Refresh_app"
+	},
+	{
+		"#text": "Added to download queue",
+		"@_name": "migration_added_to_download_queue"
+	},
+	{
+		"#text": "Migration without data plans",
+		"@_name": "migration_app_button"
+	},
+	{
+		"#text": "No network connection, please check network settings",
+		"@_name": "migration_app_check_network"
+	},
+	{
+		"#text": "Configure network",
+		"@_name": "migration_app_configure_network"
+	},
+	{
+		"#text": "Failed to transfer",
+		"@_name": "migration_app_failed_title"
+	},
+	{
+		"#text": "Next",
+		"@_name": "migration_app_install_tip_menu_ignore"
+	},
+	{
+		"#text": "Make your Migratool better",
+		"@_name": "migration_app_message"
+	},
+	{
+		"#text": "Try again",
+		"@_name": "migration_app_try_again"
+	},
+	{
+		"#text": "App Migration",
+		"@_name": "migration_application_migration"
+	},
+	{
+		"#text": "%1$s app(s) can be installed on new phone",
+		"@_name": "migration_application_tip"
+	},
+	{
+		"#text": "Clear Now",
+		"@_name": "migration_base_dialog_clear_now"
+	},
+	{
+		"#text": "OK",
+		"@_name": "migration_base_dialog_confirm_button"
+	},
+	{
+		"#text": "Insufficient storage available on destination device",
+		"@_name": "migration_base_notification_text_client_failed_sdcard_full"
+	},
+	{
+		"#text": "%1$s data in total",
+		"@_name": "migration_base_notification_text_complete"
+	},
+	{
+		"#text": "Disconnected",
+		"@_name": "migration_base_notification_text_failed"
+	},
+	{
+		"#text": "Insufficient storage available",
+		"@_name": "migration_base_notification_text_server_failed_sdcard_full"
+	},
+	{
+		"#text": "Restoring \\\"%1$s\\\"",
+		"@_name": "migration_base_notification_text_server_recovering"
+	},
+	{
+		"#text": "Will update Migratool. Please retry after it is updated",
+		"@_name": "migration_base_notification_text_update"
+	},
+	{
+		"#text": "Migration completed",
+		"@_name": "migration_base_notification_title_client_complete"
+	},
+	{
+		"#text": "Sending stopped",
+		"@_name": "migration_base_notification_title_client_failed"
+	},
+	{
+		"#text": "Sending",
+		"@_name": "migration_base_notification_title_client_running"
+	},
+	{
+		"#text": "Migration completed",
+		"@_name": "migration_base_notification_title_server_complete"
+	},
+	{
+		"#text": "Receiving stopped",
+		"@_name": "migration_base_notification_title_server_failed"
+	},
+	{
+		"#text": "Restoring",
+		"@_name": "migration_base_notification_title_server_recovering"
+	},
+	{
+		"#text": "Receiving",
+		"@_name": "migration_base_notification_title_server_running"
+	},
+	{
+		"#text": "Updating Migratool",
+		"@_name": "migration_base_notification_title_update"
+	},
+	{
+		"#text": "Insufficient storage available, transfer interrupted",
+		"@_name": "migration_base_receiver_fail_sdcard_full"
+	},
+	{
+		"#text": "Insufficient storage available on destination device, transfer interrupted",
+		"@_name": "migration_base_sender_fail_sdcard_full"
+	},
+	{
+		"#text": "\"Switching or disabling WLAN will stop transfer \n Locking or turning off screen won't stop transfer\"",
+		"@_name": "migration_base_transfer_tip"
+	},
+	{
+		"#text": "OK",
+		"@_name": "migration_battery_low_dialog_confirm"
+	},
+	{
+		"#text": "Please keep battery above 20% during migration, or you may fail to restore migrated data.",
+		"@_name": "migration_battery_low_dialog_msg"
+	},
+	{
+		"#text": "Resuming from breakpoint",
+		"@_name": "migration_breakpoint_Resuming"
+	},
+	{
+		"#text": "Resend",
+		"@_name": "migration_breakpoint_resend"
+	},
+	{
+		"#text": "Reconnect",
+		"@_name": "migration_breakpoint_resume"
+	},
+	{
+		"#text": "To stop the current task transfer and reselect data to transfer?",
+		"@_name": "migration_breakpoint_stop_and_reselect"
+	},
+	{
+		"#text": "Detected unfinished task transfer to the device %1$s",
+		"@_name": "migration_breakpoint_unfinished_task"
+	},
+	{
+		"#text": "Got It",
+		"@_name": "migration_compatibility_ok"
+	},
+	{
+		"#text": "For compatibility issue, system settings, apps and their data, and launcher layout in the previous phone cannot be migrated to the new one",
+		"@_name": "migration_compatibility_tip"
+	},
+	{
+		"#text": "Done",
+		"@_name": "migration_confirm_button_txt"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "migration_doing_update_app"
+	},
+	{
+		"#text": "Here to enable Screen Always On",
+		"@_name": "migration_enable_screen_always_on"
+	},
+	{
+		"#text": "Content in %1$s",
+		"@_name": "migration_err_app_data"
+	},
+	{
+		"#text": "Details",
+		"@_name": "migration_err_app_details"
+	},
+	{
+		"#text": ", content in %1$s app(s) failed to send.",
+		"@_name": "migration_err_app_summery"
+	},
+	{
+		"#text": "Content in %1$s app(s) failed to send. Free up phone space and try again",
+		"@_name": "migration_err_app_tip"
+	},
+	{
+		"#text": "Migration failed",
+		"@_name": "migration_failed_txt_receive"
+	},
+	{
+		"#text": "FAQ",
+		"@_name": "migration_faq"
+	},
+	{
+		"#text": "$ABCDEFGHIJKLMNOPQRSTUVWXYZ#",
+		"@_name": "migration_fast_scroller_letter"
+	},
+	{
+		"#text": "Migration completed",
+		"@_name": "migration_finished_txt_receive"
+	},
+	{
+		"#text": "Data sent",
+		"@_name": "migration_finished_txt_send"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "migration_got_it"
+	},
+	{
+		"#text": "Install app",
+		"@_name": "migration_install_app"
+	},
+	{
+		"#text": "Install and exit",
+		"@_name": "migration_install_app_and_quit"
+	},
+	{
+		"#text": "Scan with old phone to download",
+		"@_name": "migration_install_app_code_receiver_tips"
+	},
+	{
+		"#text": "Scan to download",
+		"@_name": "migration_install_app_code_sender_tips"
+	},
+	{
+		"#text": "Scan with the other phone to download",
+		"@_name": "migration_install_app_code_tips"
+	},
+	{
+		"#text": "Install (%1$s Apps)",
+		"@_name": "migration_install_app_num"
+	},
+	{
+		"#text": "Install Migratool on old phone",
+		"@_name": "migration_install_app_receiver_title"
+	},
+	{
+		"#text": "Install Migratool",
+		"@_name": "migration_install_app_sender_title"
+	},
+	{
+		"#text": "Install Migratool on new phone",
+		"@_name": "migration_install_app_tip"
+	},
+	{
+		"#text": "Install on the other phone",
+		"@_name": "migration_install_app_title"
+	},
+	{
+		"#text": "\"or \"",
+		"@_name": "migration_install_or"
+	},
+	{
+		"#text": "send APK via Bluetooth",
+		"@_name": "migration_install_send_apk_by_bluetooth"
+	},
+	{
+		"#text": "\"Install Migratool on old phone\nSelect \\\"Move from This Phone\\\"\"",
+		"@_name": "migration_install_share_receiver_tips"
+	},
+	{
+		"#text": "\"Install Migratool on new phone\nSelect \\\"Move to This Phone\\\"\"",
+		"@_name": "migration_install_share_sender_tips"
+	},
+	{
+		"#text": "\"Phone migration requires Migratool\nto be installed on both phones\"",
+		"@_name": "migration_install_share_tips"
+	},
+	{
+		"#text": "\"Can't run Migratool due to Apple's app security strategy for iOS 9 and later versions. Please take the following steps to fix the issue:\"",
+		"@_name": "migration_ios_app_method"
+	},
+	{
+		"#text": "\"Can't run Migration Tool on iPhone\"",
+		"@_name": "migration_ios_app_tip"
+	},
+	{
+		"#text": "3. Tap \\\"Trust\\\" to confirm, then Migratool can open and run properly.",
+		"@_name": "migration_ios_click_trust"
+	},
+	{
+		"#text": "1. Go to Settings > General > Profiles &amp; Device Management, and select Meizu Telecom Equipment Co., Ltd.",
+		"@_name": "migration_ios_device_management"
+	},
+	{
+		"#text": "2. Tap Trust \\\"Meizu Telecom Equipment Co., Ltd.\\\"",
+		"@_name": "migration_ios_meizu_com"
+	},
+	{
+		"#text": "Cleaner",
+		"@_name": "migration_junk_clean"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "migration_loading"
+	},
+	{
+		"#text": "Migratool",
+		"@_name": "migration_main_meizu_title"
+	},
+	{
+		"#text": "This is new phone",
+		"@_name": "migration_main_menu_item_receive"
+	},
+	{
+		"#text": "This is old phone",
+		"@_name": "migration_main_menu_item_send"
+	},
+	{
+		"#text": "Meizu Migratool",
+		"@_name": "migration_main_other_title"
+	},
+	{
+		"#text": "Migratool needs the following permissions to migrate phone data: network connection, WLAN, location, IMEI, contacts, messages, call logs, storage, app list, and system settings",
+		"@_name": "migration_main_permission_dialog_msg"
+	},
+	{
+		"#text": "Transfer your contacts, apps, photos and other data to your new phone with no data usage.",
+		"@_name": "migration_main_tips"
+	},
+	{
+		"#text": "Download using cellular data?",
+		"@_name": "migration_mobile_network_dialog_tip"
+	},
+	{
+		"#text": "Network error, tap to reload",
+		"@_name": "migration_network_failed_tip"
+	},
+	{
+		"#text": "Next",
+		"@_name": "migration_next_step"
+	},
+	{
+		"#text": "\"Migratool needs internet access\nto get app information\"",
+		"@_name": "migration_no_network_tip"
+	},
+	{
+		"#text": "No recommendations",
+		"@_name": "migration_none_recommend_app"
+	},
+	{
+		"#text": "Phone space is less than 200 MB. Please clear and retry",
+		"@_name": "migration_not_enough_space"
+	},
+	{
+		"#text": "%1$s data successfully migrated",
+		"@_name": "migration_overview_total_data_receive"
+	},
+	{
+		"#text": "%1$s data successfully transferred",
+		"@_name": "migration_overview_total_data_send"
+	},
+	{
+		"#text": "Receive Data",
+		"@_name": "migration_qrcode_receiver_actionbar_title"
+	},
+	{
+		"#text": "Send Data",
+		"@_name": "migration_qrcode_sender_actionbar_title"
+	},
+	{
+		"#text": "Quit",
+		"@_name": "migration_quit"
+	},
+	{
+		"#text": "App(s) not installed yet. Quit Migratool?",
+		"@_name": "migration_quit_dialog_tip"
+	},
+	{
+		"#text": "Recommendations",
+		"@_name": "migration_recommend_app"
+	},
+	{
+		"#text": "according to apps on your previous phone",
+		"@_name": "migration_recommend_app_by_old_phone"
+	},
+	{
+		"#text": "Restoring %1$s . . %2$s%%",
+		"@_name": "migration_recover_status"
+	},
+	{
+		"#text": "Restore data",
+		"@_name": "migration_recover_title"
+	},
+	{
+		"#text": "To recover SMS, temporary permission to Change SMS app is required. You can cancel the change after recovery finished",
+		"@_name": "migration_request_default_sms"
+	},
+	{
+		"#text": "Cancel recovery",
+		"@_name": "migration_request_default_sms_cancel"
+	},
+	{
+		"#text": "Authorize now",
+		"@_name": "migration_request_default_sms_ok"
+	},
+	{
+		"#text": "Screen Always On disabled",
+		"@_name": "migration_screen_always_on_disabled"
+	},
+	{
+		"#text": "Screen Always On enabled",
+		"@_name": "migration_screen_always_on_enabled"
+	},
+	{
+		"#text": "Turn On",
+		"@_name": "migration_start_soft_ap_button"
+	},
+	{
+		"#text": "\"If tapping Turn On doesn't direct you to the setup screen, please go to Settings > Portable Hotspot and turn it on\"",
+		"@_name": "migration_start_soft_ap_manual_tip"
+	},
+	{
+		"#text": "Turning on portable hotspot",
+		"@_name": "migration_start_soft_ap_starting"
+	},
+	{
+		"#text": "Portable hotspot auto-on is not supported by Android 7.0 or later, you can manually enable it",
+		"@_name": "migration_start_soft_ap_system_tip"
+	},
+	{
+		"#text": "Please turn on portable hotspot",
+		"@_name": "migration_start_soft_ap_tip"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "migration_update_app_cancel"
+	},
+	{
+		"#text": "\"Can't transfer data because your current version of Migratool is outdated. Already data-free updated, please restart.\"",
+		"@_name": "migration_update_app_dialog"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "migration_update_app_ok"
+	},
+	{
+		"#text": "Update Migratool on the other phone",
+		"@_name": "migration_update_app_other_phone"
+	},
+	{
+		"#text": "Switching WLAN will disrupt transmission",
+		"@_name": "migration_wifi_tips"
+	},
+	{
+		"#text": "Backup history lost",
+		"@_name": "miss_record"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "mms"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "%1$s video(s)",
+		"@_name": "movie_recover_summary_txt"
+	},
+	{
+		"#text": "%1$s piece(s) of music",
+		"@_name": "music_recover_summary_txt"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Clear %s Backup(s)",
+		"@_name": "mz_backup_delete_dialog_ok_text"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)",
+		"@_name": "mz_permission_policy_description"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Permissions and statements",
+		"@_name": "mz_permission_title_terms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Meizu Privacy Policy",
+		"@_name": "mz_privacy_policy"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "User Agreement",
+		"@_name": "mz_user_agreement"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Backup",
+		"@_name": "new_backup"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "no"
+	},
+	{
+		"#text": "No longer prompt",
+		"@_name": "no_tip_next_time"
+	},
+	{
+		"#text": "Out of space. Free up some space and retry",
+		"@_name": "not_enough_size"
+	},
+	{
+		"#text": "Backup Now",
+		"@_name": "now_backup"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Grant Permission",
+		"@_name": "open_wifi_permission"
+	},
+	{
+		"#text": "If no redirecting occurs when enabled, go to app permissions to configure it",
+		"@_name": "operate_permission_tip"
+	},
+	{
+		"#text": "No permission to modify system settings",
+		"@_name": "operate_settings_permission_title"
+	},
+	{
+		"#text": "Enable it in Permissions",
+		"@_name": "operate_storage_permission_summery"
+	},
+	{
+		"#text": "No storage read and write permission",
+		"@_name": "operate_storage_permission_title"
+	},
+	{
+		"#text": "WLAN access denied. Please grant permission and try again.",
+		"@_name": "operate_wifi_no_permission_msg"
+	},
+	{
+		"#text": "Migratool needs WLAN access to connect devices and transfer migrated data. Please grant WLAN permission to Migratool.",
+		"@_name": "operate_wifi_permission_msg_on_meizu"
+	},
+	{
+		"#text": "Help details",
+		"@_name": "operation_detail"
+	},
+	{
+		"#text": "Operation help",
+		"@_name": "operation_help"
+	},
+	{
+		"#text": "%",
+		"@_name": "percent"
+	},
+	{
+		"#text": 0,
+		"@_name": "percent_data"
+	},
+	{
+		"#text": "Backup &amp; Restore needs to access the internet, track your location and read your contacts, messages and call logs to backup your phone data",
+		"@_name": "permission_notify"
+	},
+	{
+		"#text": "Photo",
+		"@_name": "photo"
+	},
+	{
+		"#text": "Please select data",
+		"@_name": "please_select_data"
+	},
+	{
+		"#text": "\"Battery can't be lower than 20% before backup starts\"",
+		"@_name": "power_low_backup"
+	},
+	{
+		"#text": "\"Battery can't be lower than 20% before restore starts.\"",
+		"@_name": "power_low_recover"
+	},
+	{
+		"#text": "%",
+		"@_name": "progress_percent_scale"
+	},
+	{
+		"#text": "Recovering",
+		"@_name": "progress_recover_app"
+	},
+	{
+		"#text": "Connection failed",
+		"@_name": "qr_scanner_wifi_connection_failed"
+	},
+	{
+		"#text": "Log out",
+		"@_name": "quit_account"
+	},
+	{
+		"#text": "WLAN hotspot error",
+		"@_name": "receive_failed_reason_softap_error"
+	},
+	{
+		"#text": "It is recommended to back up immediately to avoid data loss",
+		"@_name": "recommend_backup_msg"
+	},
+	{
+		"#text": "Redo",
+		"@_name": "recover"
+	},
+	{
+		"#text": "Recover encrypted backups",
+		"@_name": "recover_encry_backup"
+	},
+	{
+		"#text": "\"The backup has been encrypted, please log into the Flyme account to recover it \n\nFlyme account:\"",
+		"@_name": "recover_encry_backup_message"
+	},
+	{
+		"#text": "Restored",
+		"@_name": "recover_finish"
+	},
+	{
+		"#text": "Remark",
+		"@_name": "remark"
+	},
+	{
+		"#text": "Remark can contain no more than 10 characters",
+		"@_name": "remark_hint"
+	},
+	{
+		"#text": "\"1. Back up the data and check its backup path.\n2. Connect the phone to a PC and open its directory.\n3. Copy the backup file from the backup path onto the PC.\n4. Connect the new phone to the PC and open its directory.\n5. Copy the backup file into any directory on the new phone.\n6. Open Backup &amp; Restore on the new phone, then select the backup file to start restoring.\"",
+		"@_name": "replace_by_computer"
+	},
+	{
+		"#text": "Replacement by computer:",
+		"@_name": "replace_by_computer_head"
+	},
+	{
+		"#text": "\"1. Insert an SD card into this phone.\n2. Back up the data.\n3. Remove the SD card and insert it into the new device.\n4. Open Backup &amp; Restore on the new phone, then select the backup file to start restoring.\"",
+		"@_name": "replace_by_sd"
+	},
+	{
+		"#text": "Replacement by SD card:",
+		"@_name": "replace_by_sd_head"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "retry_backup_zip"
+	},
+	{
+		"#text": "Migrating data in Vault will overwrite the new phone’s Vault data",
+		"@_name": "safebox_overwrite_tip"
+	},
+	{
+		"#text": "No SD card detected. To restore data onto this device, you can transfer backup files to it from your old phone using a SD card or a PC.",
+		"@_name": "sd_card_notify"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Select app",
+		"@_name": "select_app"
+	},
+	{
+		"#text": "Select Backup Items",
+		"@_name": "select_backup"
+	},
+	{
+		"#text": "Migrated WeChat data will overwrite existing WeChat data on new phone",
+		"@_name": "select_micromsg_prompt_msg"
+	},
+	{
+		"#text": "Invalid item",
+		"@_name": "select_record_item_no_use"
+	},
+	{
+		"#text": "Storage for backups",
+		"@_name": "select_storage"
+	},
+	{
+		"#text": "Choose system settings",
+		"@_name": "select_system_setting"
+	},
+	{
+		"#text": "%1$s system setting(s)",
+		"@_name": "settings_recover_summary_txt"
+	},
+	{
+		"#text": "Backup options",
+		"@_name": "sim_card_select"
+	},
+	{
+		"#text": "Skip",
+		"@_name": "skip"
+	},
+	{
+		"#text": "SIM1",
+		"@_name": "slot_1"
+	},
+	{
+		"#text": "SIM2",
+		"@_name": "slot_2"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "sms"
+	},
+	{
+		"#text": "%1$s message(s)",
+		"@_name": "sms_recover_summary_txt"
+	},
+	{
+		"#text": "The backup failed, SD card memory is not detected",
+		"@_name": "space_backup_failed"
+	},
+	{
+		"#text": "Insufficient space on internal storage. The backup file will be saved to SD card",
+		"@_name": "space_check"
+	},
+	{
+		"#text": "SD card space is insufficient and backup files will be saved to the phone",
+		"@_name": "space_check_storge"
+	},
+	{
+		"#text": "Restore failed because SD card is not found.",
+		"@_name": "space_restore_failed"
+	},
+	{
+		"#text": "Start Backup",
+		"@_name": "start_backup"
+	},
+	{
+		"#text": "Restore",
+		"@_name": "start_recover"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Stop backup",
+		"@_name": "stop_backup"
+	},
+	{
+		"#text": "Stop Restoring",
+		"@_name": "stop_recover"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_count"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_item"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_order"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_page"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_ren"
+	},
+	{
+		"#text": "OK",
+		"@_name": "sure"
+	},
+	{
+		"#text": "The MMS attachment is too large, so the backup may take a moment.",
+		"@_name": "sure_continue_action"
+	},
+	{
+		"#text": "Delete selected item(s)?",
+		"@_name": "sure_delete_action"
+	},
+	{
+		"#text": "Are you sure you want to stop %s?",
+		"@_name": "sure_stop_action"
+	},
+	{
+		"#text": "\"Can't perform this action during cloud backup\"",
+		"@_name": "sync_update"
+	},
+	{
+		"#text": "System settings",
+		"@_name": "system_setting"
+	},
+	{
+		"#text": "MainActivity",
+		"@_name": "title_activity_main"
+	},
+	{
+		"#text": "Unknown file",
+		"@_name": "unknown_file"
+	},
+	{
+		"#text": "To avoid data loss, do not reboot or power off",
+		"@_name": "warning"
+	},
+	{
+		"#text": "No card",
+		"@_name": "without_card"
+	},
+	{
+		"#text": "No SD card detected. To restore data onto this device, you can transfer backup files to it from your old phone using a PC.",
+		"@_name": "without_sd_card"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "yes"
+	},
+	{
+		"#text": "Coming soon",
+		"@_name": "zip_file"
+	}
+]

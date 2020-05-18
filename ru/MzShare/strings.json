@@ -1,0 +1,1769 @@
+[
+	{
+		"#text": "Перейти на главный экран",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению \\\"%s\\\"",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Запросить запись",
+		"@_name": "ack_record"
+	},
+	{
+		"#text": "Вы не можете использовать Bluetooth в режиме Полёта",
+		"@_name": "airplane_error_msg"
+	},
+	{
+		"#text": "Режим полёта",
+		"@_name": "airplane_error_title"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Поделиться через Bluetooth",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Получено через Bluetooth",
+		"@_name": "blue_tooth_receive_records"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "bluetooth_history_button_cancel"
+	},
+	{
+		"#text": "Смотреть все",
+		"@_name": "bluetooth_history_button_go_document"
+	},
+	{
+		"#text": "Повторно",
+		"@_name": "bluetooth_history_button_resend"
+	},
+	{
+		"#text": "Смотреть",
+		"@_name": "bluetooth_history_button_view_single_file"
+	},
+	{
+		"#text": "Ошибка приема файлов: %1$s;",
+		"@_name": "bluetooth_history_message_receive_failure_number"
+	},
+	{
+		"#text": "Файлы успешно отправлены: %1$s;",
+		"@_name": "bluetooth_history_message_send_success_number"
+	},
+	{
+		"#text": "Ошибка получения файлов: %1$s",
+		"@_name": "bluetooth_history_receive_failure_number"
+	},
+	{
+		"#text": "Файлы получены: %1$s",
+		"@_name": "bluetooth_history_receive_success_number"
+	},
+	{
+		"#text": "Ошибка отправки файлов: %1$s",
+		"@_name": "bluetooth_history_send_failure_number"
+	},
+	{
+		"#text": "Файлы успешно отправлены: %1$s",
+		"@_name": "bluetooth_history_send_success_number"
+	},
+	{
+		"#text": "Получатель: %1$s",
+		"@_name": "bluetooth_histroy_receiver"
+	},
+	{
+		"#text": "Отправитель: %1$s",
+		"@_name": "bluetooth_histroy_sender"
+	},
+	{
+		"#text": "Поделиться через Bluetooth",
+		"@_name": "bluetooth_share"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bluetooth_toast_dialog_btn_ok"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "bt_enable_cancel"
+	},
+	{
+		"#text": "Включить Bluetooth перед использованием.",
+		"@_name": "bt_enable_line1"
+	},
+	{
+		"#text": "Включить Bluetooth?",
+		"@_name": "bt_enable_line2"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "bt_enable_ok"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bt_error_btn_ok"
+	},
+	{
+		"#text": "Ошибка получения данных через Bluetooth",
+		"@_name": "bt_receive_failed"
+	},
+	{
+		"#text": "Успешное получение данных через Bluetooth",
+		"@_name": "bt_receive_success"
+	},
+	{
+		"#text": "Получение",
+		"@_name": "bt_receiving"
+	},
+	{
+		"#text": "Ошибка отправки через Bluetooth",
+		"@_name": "bt_send_failed"
+	},
+	{
+		"#text": "Успешно отправлено через Bluetooth",
+		"@_name": "bt_send_success"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "bt_sending"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bt_share_picker_label"
+	},
+	{
+		"#text": "Ошибка сохранения файлов от \\\"%1$s\\\" из-за нехватки места на USB-накопителе",
+		"@_name": "bt_sm_2_1"
+	},
+	{
+		"#text": "Необходимо места: %1$s",
+		"@_name": "bt_sm_2_2"
+	},
+	{
+		"#text": "Файлы будут получены. Отслеживайте прогресс в шторке уведомлений.",
+		"@_name": "bt_toast_1"
+	},
+	{
+		"#text": "Невозможно получить файл",
+		"@_name": "bt_toast_2"
+	},
+	{
+		"#text": "Прекращено получение файла от \\\"%1$s\\\"",
+		"@_name": "bt_toast_3"
+	},
+	{
+		"#text": "Отправка файла \\\"%1$s\\\"",
+		"@_name": "bt_toast_4"
+	},
+	{
+		"#text": "Отправка файлов: %1$s на устройство \\\"%2$s\\\"",
+		"@_name": "bt_toast_5"
+	},
+	{
+		"#text": "Остановлена отправка файлов: \\\"%1$s\\\"",
+		"@_name": "bt_toast_6"
+	},
+	{
+		"#text": "NFC требует, чтобы Bluetooth был включен",
+		"@_name": "bt_turn_off_prompt"
+	},
+	{
+		"#text": "Выключение Bluetooth прервет обмен данными.",
+		"@_name": "bt_turn_off_prompt_title"
+	},
+	{
+		"#text": "Получено через Bluetooth",
+		"@_name": "btopp_live_folder"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Остановить передачу по Bluetooth",
+		"@_name": "cancel_bt_transfer"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Очистить все получаемые записи?",
+		"@_name": "clear_all_records"
+	},
+	{
+		"#text": "Пусто",
+		"@_name": "clear_record"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Удалить записи",
+		"@_name": "delete_record"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "delete_task_record_cancel"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_task_record_title"
+	},
+	{
+		"#text": "Удалить все записи",
+		"@_name": "deleteAll_record"
+	},
+	{
+		"#text": "Быстрый обмен данными",
+		"@_name": "device_picker_actionbar_title"
+	},
+	{
+		"#text": "Включите Bluetooth получателя",
+		"@_name": "device_picker_bottom_open_bluetooth_tips"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "device_picker_cancel_dialog_negative_button"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "device_picker_cancel_dialog_positive_button"
+	},
+	{
+		"#text": "Остановить передачу",
+		"@_name": "device_picker_cancel_dialog_title"
+	},
+	{
+		"#text": "Устройство недоступно. Включите Bluetooth получателя.",
+		"@_name": "device_picker_content_no_device"
+	},
+	{
+		"#text": "Включите Bluetooth",
+		"@_name": "device_picker_content_tip_bluetooth_off"
+	},
+	{
+		"#text": "Получение",
+		"@_name": "device_picker_task_record_ongoing_tip_receiving"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "device_picker_task_record_ongoing_tip_sending"
+	},
+	{
+		"#text": "История обмена",
+		"@_name": "device_picker_task_record_tip"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "download_cancel"
+	},
+	{
+		"#text": "Файл не получен",
+		"@_name": "download_fail_line1"
+	},
+	{
+		"#text": "Файл: %1$s",
+		"@_name": "download_fail_line2"
+	},
+	{
+		"#text": "Причина: %1$s",
+		"@_name": "download_fail_line3"
+	},
+	{
+		"#text": "OK",
+		"@_name": "download_fail_ok"
+	},
+	{
+		"#text": "От:",
+		"@_name": "download_line1"
+	},
+	{
+		"#text": "Имя файла:",
+		"@_name": "download_line2"
+	},
+	{
+		"#text": "Размер файла: %1$s",
+		"@_name": "download_line3"
+	},
+	{
+		"#text": "Получение файла…",
+		"@_name": "download_line5"
+	},
+	{
+		"#text": "Скрыть",
+		"@_name": "download_ok"
+	},
+	{
+		"#text": "Файл получен",
+		"@_name": "download_succ_line5"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "download_succ_ok"
+	},
+	{
+		"#text": "ПолученоЖ %1$s",
+		"@_name": "download_success"
+	},
+	{
+		"#text": "Отправить через Bluetooth",
+		"@_name": "download_title"
+	},
+	{
+		"#text": "Нельзя отправить пустые папки",
+		"@_name": "empty_folder_tips"
+	},
+	{
+		"#text": "Выберите хотя бы один файл и повторите попытку",
+		"@_name": "empty_selected"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "enabling_progress_content"
+	},
+	{
+		"#text": "Пожалуйста ждите…",
+		"@_name": "enabling_progress_title"
+	},
+	{
+		"#text": "Слишком много запросов. Попробуйте позже.",
+		"@_name": "ErrorTooManyRequests"
+	},
+	{
+		"#text": "Б",
+		"@_name": "format_file_total_Byte"
+	},
+	{
+		"#text": "Гб",
+		"@_name": "format_file_total_GB"
+	},
+	{
+		"#text": "Кб",
+		"@_name": "format_file_total_KB"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "format_file_total_MB"
+	},
+	{
+		"#text": "Кб/с",
+		"@_name": "format_speed_KB"
+	},
+	{
+		"#text": "Мб/с",
+		"@_name": "format_speed_MB"
+	},
+	{
+		"#text": "Hello World, TestActivity",
+		"@_name": "hello"
+	},
+	{
+		"#text": "Запись о получении",
+		"@_name": "inbound_history_title"
+	},
+	{
+		"#text": "Bluetooth: полученные файлы",
+		"@_name": "inbound_noti_title"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "incoming_file_confirm_cancel"
+	},
+	{
+		"#text": "\\\"%1$s\\\" хочет отправить %2$s (%3$s)",
+		"@_name": "incoming_file_confirm_content"
+	},
+	{
+		"#text": "Получить файл?",
+		"@_name": "incoming_file_confirm_Notification_caption"
+	},
+	{
+		"#text": "Bluetooth: входящий файл",
+		"@_name": "incoming_file_confirm_Notification_title"
+	},
+	{
+		"#text": "Принять",
+		"@_name": "incoming_file_confirm_ok"
+	},
+	{
+		"#text": "Получить файл",
+		"@_name": "incoming_file_confirm_tick"
+	},
+	{
+		"#text": "Превышен таймаут при получении файла от \\\"%1$s\\\"",
+		"@_name": "incoming_file_confirm_timeout_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "incoming_file_confirm_timeout_ok"
+	},
+	{
+		"#text": "Отправить через Bluetooth",
+		"@_name": "incoming_file_confirm_title"
+	},
+	{
+		"#text": "Получить файлы: %1$s",
+		"@_name": "incoming_file_confirm_with_number"
+	},
+	{
+		"#text": "Получен запрос на передачу файла с другого устройства. Вы хотите его получить?",
+		"@_name": "incoming_file_toast_msg"
+	},
+	{
+		"#text": "Запись о вставке",
+		"@_name": "insert_record"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Видимые устройства",
+		"@_name": "monkey_device_picker_available_devices"
+	},
+	{
+		"#text": "Сопряженные устройства",
+		"@_name": "monkey_device_picker_bound_devices"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Переключение Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-сообщения",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Переключение NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Подготовка к отправке",
+		"@_name": "mznfcp2p_prep_progress_content"
+	},
+	{
+		"#text": "Выберите тип обмена",
+		"@_name": "nfc_choose_share_file_type"
+	},
+	{
+		"#text": "Нажмите, чтобы начать обмен",
+		"@_name": "nfc_connected_notification_content"
+	},
+	{
+		"#text": "Можно поделиться с помощью NFC",
+		"@_name": "nfc_connected_notification_title"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "nfc_dialog_lauch_share"
+	},
+	{
+		"#text": "NFC: получено: %1$s",
+		"@_name": "nfc_notification_received"
+	},
+	{
+		"#text": "NFC: отправлено: %1$s",
+		"@_name": "nfc_notification_sent"
+	},
+	{
+		"#text": "Нажмите для просмотра",
+		"@_name": "nfc_p2p_ready_notification_content"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "nfc_share_picker_label"
+	},
+	{
+		"#text": "Выключить NFC",
+		"@_name": "nfc_turn_off_prompt_title"
+	},
+	{
+		"#text": "История обмена пуста.",
+		"@_name": "no_transfers"
+	},
+	{
+		"#text": "Нет файлов",
+		"@_name": "not_exist_file"
+	},
+	{
+		"#text": "Файл не существует",
+		"@_name": "not_exist_file_desc"
+	},
+	{
+		"#text": "Успешно: %1$s, с ошибкой: %2$s.",
+		"@_name": "noti_caption"
+	},
+	{
+		"#text": "Получение файла",
+		"@_name": "notification_receive_file"
+	},
+	{
+		"#text": "Bluetooth: получено: %1$s",
+		"@_name": "notification_received"
+	},
+	{
+		"#text": "Bluetooth: файл %1$s не получен",
+		"@_name": "notification_received_fail"
+	},
+	{
+		"#text": "Bluetooth: получение %1$s",
+		"@_name": "notification_receiving"
+	},
+	{
+		"#text": "Отправка файла",
+		"@_name": "notification_send_file"
+	},
+	{
+		"#text": "Bluetooth: получение %1$s",
+		"@_name": "notification_sending"
+	},
+	{
+		"#text": "Bluetooth: отправлено: %1$s",
+		"@_name": "notification_sent"
+	},
+	{
+		"#text": "100% завершено",
+		"@_name": "notification_sent_complete"
+	},
+	{
+		"#text": "Bluetooth: файл %1$s не отправлен",
+		"@_name": "notification_sent_fail"
+	},
+	{
+		"#text": "Прием по Bluetooth завершен.",
+		"@_name": "notification_share_receive_complete"
+	},
+	{
+		"#text": "Отправка по Bluetooth завершена",
+		"@_name": "notification_share_send_complete"
+	},
+	{
+		"#text": "Обмен по Bluetooth завершен",
+		"@_name": "notification_transfer_multi_sent_complete"
+	},
+	{
+		"#text": "Обмен по Bluetooth завершен: %1$s",
+		"@_name": "notification_transfer_sent_complete"
+	},
+	{
+		"#text": "Уведомить TCP-сервер",
+		"@_name": "notify_server"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok_button"
+	},
+	{
+		"#text": "Журнал отправки",
+		"@_name": "outbound_history_title"
+	},
+	{
+		"#text": "Bluetooth: отправленные файлы",
+		"@_name": "outbound_noti_title"
+	},
+	{
+		"#text": "Невозможность использовать Bluetooth при подключении к Wi-Fi",
+		"@_name": "panu_no_need_connect"
+	},
+	{
+		"#text": "Разрешить приложению доступ к менеджеру BluetoothShare и использовать его для передачи файлов.",
+		"@_name": "permdesc_bluetoothShareManager"
+	},
+	{
+		"#text": "Разрешить приложению добавить Bluetooth-устройство во временный белый список, чтобы оно могло отправлять файлы на это устройство без подтверждения пользователя.",
+		"@_name": "permdesc_bluetoothWhitelist"
+	},
+	{
+		"#text": "Разрешить получение информации о состоянии передачи через Bluetooth.",
+		"@_name": "permdesc_handoverStatus"
+	},
+	{
+		"#text": "Менеджер доступа к загрузкам.",
+		"@_name": "permlab_bluetoothShareManager"
+	},
+	{
+		"#text": "Добавить устройство Bluetooth в белый список",
+		"@_name": "permlab_bluetoothWhitelist"
+	},
+	{
+		"#text": "Получать данные по Bluetooth.",
+		"@_name": "permlab_handoverStatus"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Выбор",
+		"@_name": "select_delete_task_record_file"
+	},
+	{
+		"#text": "Bluetooth Share",
+		"@_name": "share_app_name"
+	},
+	{
+		"#text": "\" ч. \"",
+		"@_name": "share_date_time_hour"
+	},
+	{
+		"#text": "\" м. \"",
+		"@_name": "share_date_time_min"
+	},
+	{
+		"#text": "\" с. \"",
+		"@_name": "share_date_time_sec"
+	},
+	{
+		"#text": "Bluetooth Share",
+		"@_name": "share_incoming_file_bt_share"
+	},
+	{
+		"#text": "Bluetooth: Входящий файл",
+		"@_name": "share_incoming_file_bt_share_recv_file"
+	},
+	{
+		"#text": "Принять файл?",
+		"@_name": "share_incoming_file_recv_file_or_not"
+	},
+	{
+		"#text": "\"Получение: \"",
+		"@_name": "share_notification_active_title_receive"
+	},
+	{
+		"#text": "\"Отправка: \"",
+		"@_name": "share_notification_active_title_send"
+	},
+	{
+		"#text": "С ошибкой: %1$s",
+		"@_name": "share_notification_complete_receive_message_fail"
+	},
+	{
+		"#text": "Успешно: %1$s",
+		"@_name": "share_notification_complete_receive_message_success"
+	},
+	{
+		"#text": "С ошибкой: %1$s",
+		"@_name": "share_notification_complete_send_message_fail"
+	},
+	{
+		"#text": "Успешно: %1$s",
+		"@_name": "share_notification_complete_send_message_success"
+	},
+	{
+		"#text": "Получено через Bluetooth",
+		"@_name": "share_notification_complete_title_receive"
+	},
+	{
+		"#text": "Отправлено через Bluetooth",
+		"@_name": "share_notification_complete_title_send"
+	},
+	{
+		"#text": "BluetoothShare запрашивает доступ к метоположения, WI-Fi и моб. сети",
+		"@_name": "share_permission_dialog_msg"
+	},
+	{
+		"#text": "\"От: \"",
+		"@_name": "share_task_dialog_share_file_to_you"
+	},
+	{
+		"#text": "Остановить получение",
+		"@_name": "share_task_record_cancel_receiving"
+	},
+	{
+		"#text": "Остановить отправку",
+		"@_name": "share_task_record_cancel_sending"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "share_task_record_clean_immdiatly"
+	},
+	{
+		"#text": "OK",
+		"@_name": "share_task_record_confirm"
+	},
+	{
+		"#text": "Ошибка соединения",
+		"@_name": "share_task_record_conn_fail"
+	},
+	{
+		"#text": "\"От: \"",
+		"@_name": "share_task_record_from"
+	},
+	{
+		"#text": "Скрыть",
+		"@_name": "share_task_record_hide_dialog"
+	},
+	{
+		"#text": "История получения пуста",
+		"@_name": "share_task_record_no_recving_history"
+	},
+	{
+		"#text": "История отправки пуста",
+		"@_name": "share_task_record_no_sending_history"
+	},
+	{
+		"#text": "Открыть файл",
+		"@_name": "share_task_record_open_file"
+	},
+	{
+		"#text": "Получение...",
+		"@_name": "share_task_record_receiving"
+	},
+	{
+		"#text": "Disk/Download/Bluetooth",
+		"@_name": "share_task_record_recv_address"
+	},
+	{
+		"#text": "Не получено",
+		"@_name": "share_task_record_recv_fail"
+	},
+	{
+		"#text": "Папка для получения",
+		"@_name": "share_task_record_recv_folder"
+	},
+	{
+		"#text": "Отправленный",
+		"@_name": "share_task_record_recv_succeed"
+	},
+	{
+		"#text": "Отклонено другим устройством",
+		"@_name": "share_task_record_remote_refuse"
+	},
+	{
+		"#text": "Файл не отправлен, другое устройство отклонило передачу.",
+		"@_name": "share_task_record_remote_refuse_send_detail"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "share_task_record_retry"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "share_task_record_sdcard_full"
+	},
+	{
+		"#text": "Файл не получен из-за нехвтки места",
+		"@_name": "share_task_record_sdcard_full_recv_detail"
+	},
+	{
+		"#text": "Отправлено",
+		"@_name": "share_task_record_send_complete"
+	},
+	{
+		"#text": "Не отправлено",
+		"@_name": "share_task_record_send_fail"
+	},
+	{
+		"#text": "\"Куда: \"",
+		"@_name": "share_task_record_send_to"
+	},
+	{
+		"#text": "Отправка...",
+		"@_name": "share_task_record_sending"
+	},
+	{
+		"#text": "Отменено пользователем",
+		"@_name": "share_task_record_user_cancel_transfer"
+	},
+	{
+		"#text": "Файл не получен, пользователь отменил передачу.",
+		"@_name": "share_task_record_user_cancel_transfer_recv_detail"
+	},
+	{
+		"#text": "Файл не отправлен, пользователь отменил передачу.",
+		"@_name": "share_task_record_user_cancel_transfer_send_detail"
+	},
+	{
+		"#text": "Ожидание принятия",
+		"@_name": "share_task_record_wait_for_remote_recv"
+	},
+	{
+		"#text": "Принимаемый файл",
+		"@_name": "share_toast_receiving_file"
+	},
+	{
+		"#text": "Отправка файлов: %1$s на устройство \\\"%2$s\\\"",
+		"@_name": "share_toast_send_file_to_device"
+	},
+	{
+		"#text": "Запустить TCP-сервер",
+		"@_name": "start_server"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Передача отменена пользователем",
+		"@_name": "status_canceled"
+	},
+	{
+		"#text": "Ошибка соединения",
+		"@_name": "status_connection_error"
+	},
+	{
+		"#text": "Ошибка хранения",
+		"@_name": "status_file_error"
+	},
+	{
+		"#text": "Ошибка отправки из-за большого размера файла",
+		"@_name": "status_file_too_big"
+	},
+	{
+		"#text": "Передача не разрешена на целевом устройстве",
+		"@_name": "status_forbidden"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "status_no_space"
+	},
+	{
+		"#text": "Содержание не поддерживается",
+		"@_name": "status_not_accept"
+	},
+	{
+		"#text": "Передача файлов еще не началась",
+		"@_name": "status_pending"
+	},
+	{
+		"#text": "Запрос не может быть обработан правильно",
+		"@_name": "status_protocol_error"
+	},
+	{
+		"#text": "Передача файлов",
+		"@_name": "status_running"
+	},
+	{
+		"#text": "Переданные файлы",
+		"@_name": "status_success"
+	},
+	{
+		"#text": "Ошибка передачи файлов через Bluetooth",
+		"@_name": "status_transfer_failed"
+	},
+	{
+		"#text": "Неизвестная ошибка",
+		"@_name": "status_unknown_error"
+	},
+	{
+		"#text": "Открыть папку получения",
+		"@_name": "task_record_actionbar_item_open_dir"
+	},
+	{
+		"#text": "История получения",
+		"@_name": "task_record_actionbar_title_rev"
+	},
+	{
+		"#text": "История отправки",
+		"@_name": "task_record_actionbar_title_send"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "task_record_header_complete_delete_dialog_negative_button"
+	},
+	{
+		"#text": "OK",
+		"@_name": "task_record_header_complete_delete_dialog_positive_button"
+	},
+	{
+		"#text": "При этом файл не удаляется",
+		"@_name": "task_record_header_complete_delete_dialog_tip"
+	},
+	{
+		"#text": "Очистить историю",
+		"@_name": "task_record_header_complete_delete_dialog_title"
+	},
+	{
+		"#text": "Передача",
+		"@_name": "task_record_header_title_active_content"
+	},
+	{
+		"#text": "Удалить все",
+		"@_name": "task_record_header_title_active_delete"
+	},
+	{
+		"#text": "Передано",
+		"@_name": "task_record_header_title_complete_content"
+	},
+	{
+		"#text": "Очистить историю",
+		"@_name": "task_record_header_title_complete_delete"
+	},
+	{
+		"#text": "Остановить задачу",
+		"@_name": "task_record_item_detail_stop_dialog_positive_button"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "task_record_item_resend"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "task_record_item_stop_dialog_negative_button"
+	},
+	{
+		"#text": "Остановить задачу",
+		"@_name": "task_record_item_stop_dialog_positive_button"
+	},
+	{
+		"#text": "История пуста",
+		"@_name": "task_record_none"
+	},
+	{
+		"#text": "Все пункты будут удалены из списка.",
+		"@_name": "transfer_clear_dlg_msg"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "transfer_clear_dlg_title"
+	},
+	{
+		"#text": "Убрать из списка",
+		"@_name": "transfer_menu_clear"
+	},
+	{
+		"#text": "Очистить список",
+		"@_name": "transfer_menu_clear_all"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "transfer_menu_open"
+	},
+	{
+		"#text": "Неизвестное устройство",
+		"@_name": "unknown_device"
+	},
+	{
+		"#text": "Неизвестный файл",
+		"@_name": "unknown_file"
+	},
+	{
+		"#text": "\"Для этого файла нет приложения. \"",
+		"@_name": "unknown_file_desc"
+	},
+	{
+		"#text": "Неизвестный",
+		"@_name": "unknownNumber"
+	},
+	{
+		"#text": "Подтвердить запись",
+		"@_name": "update_record"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "upload_fail_cancel"
+	},
+	{
+		"#text": "Невозможно отправить файл: %1$s.",
+		"@_name": "upload_fail_line1"
+	},
+	{
+		"#text": "Файл: %1$s",
+		"@_name": "upload_fail_line1_2"
+	},
+	{
+		"#text": "Ещё раз",
+		"@_name": "upload_fail_ok"
+	},
+	{
+		"#text": "Куда:",
+		"@_name": "upload_line1"
+	},
+	{
+		"#text": "Тип файла: %1$s (%2$s)",
+		"@_name": "upload_line3"
+	},
+	{
+		"#text": "Передача файла…",
+		"@_name": "upload_line5"
+	},
+	{
+		"#text": "Отправленный файл",
+		"@_name": "upload_succ_line5"
+	},
+	{
+		"#text": "OK",
+		"@_name": "upload_succ_ok"
+	},
+	{
+		"#text": "Отправленный: %1$s",
+		"@_name": "upload_success"
+	},
+	{
+		"#text": "AndroidHotspot",
+		"@_name": "wifi_tether_configure_ssid_default"
+	}
+]

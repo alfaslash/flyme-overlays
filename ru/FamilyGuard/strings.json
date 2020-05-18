@@ -1,0 +1,2506 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "Alt +",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl +",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "Ввод",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Fn +",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta +",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift +",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "Пробел",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym +",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Меню +",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "KeepConfiguationContext",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "Ограничение на количество символов превышает %1$d из %2$d",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Дополнительно",
+		"@_name": "expand_button_title"
+	},
+	{
+		"#text": "О защите семьи",
+		"@_name": "fg_about"
+	},
+	{
+		"#text": "Предотвращение спам-звонки/sms, решение проблем телефонов и отслеживания геолокации вашей семьи, чтобы не заблудиться",
+		"@_name": "fg_ad_sub_title"
+	},
+	{
+		"#text": "Защита семьи",
+		"@_name": "fg_app_name"
+	},
+	{
+		"#text": "%1$s Time out",
+		"@_name": "fg_app_usage_timeout"
+	},
+	{
+		"#text": "Пн",
+		"@_name": "fg_common_1"
+	},
+	{
+		"#text": "Вт",
+		"@_name": "fg_common_2"
+	},
+	{
+		"#text": "Ср",
+		"@_name": "fg_common_3"
+	},
+	{
+		"#text": "Чт",
+		"@_name": "fg_common_4"
+	},
+	{
+		"#text": "Пт",
+		"@_name": "fg_common_5"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "fg_common_add"
+	},
+	{
+		"#text": "@android:string/cancel",
+		"@_name": "fg_common_cancel"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "fg_common_continue"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "fg_common_delete"
+	},
+	{
+		"#text": "Ввод",
+		"@_name": "fg_common_enter"
+	},
+	{
+		"#text": "Защита",
+		"@_name": "fg_common_guarded"
+	},
+	{
+		"#text": "Он",
+		"@_name": "fg_common_he"
+	},
+	{
+		"#text": "Она",
+		"@_name": "fg_common_her"
+	},
+	{
+		"#text": "Она",
+		"@_name": "fg_common_her2"
+	},
+	{
+		"#text": "Он",
+		"@_name": "fg_common_him"
+	},
+	{
+		"#text": "Он",
+		"@_name": "fg_common_his"
+	},
+	{
+		"#text": "Игнорировать все",
+		"@_name": "fg_common_ignore_all"
+	},
+	{
+		"#text": "Соединение, пожалуйста, подождите...",
+		"@_name": "fg_common_loading"
+	},
+	{
+		"#text": "Сетевая ошибка. Попробуйте позже",
+		"@_name": "fg_common_network_exception"
+	},
+	{
+		"#text": "Введите защиту семьи",
+		"@_name": "fg_common_open_app"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "fg_common_save"
+	},
+	{
+		"#text": "Она",
+		"@_name": "fg_common_she"
+	},
+	{
+		"#text": "Защита семьи должна получить доступ к интернету и ваше местоположение, снимать фотографии и видео, читать ваши контакты и отправить/получать SMS, чтобы помочь идентифицировать спам-звонки/СМС, местоположение, получить удаленную поддержку и использовать анти-наркомании",
+		"@_name": "fg_cta_message"
+	},
+	{
+		"#text": "%d секунд",
+		"@_name": "fg_duration_format1"
+	},
+	{
+		"#text": "%d мин %d сек",
+		"@_name": "fg_duration_format2",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%d h %d m %d s",
+		"@_name": "fg_duration_format3",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%d h %d m",
+		"@_name": "fg_duration_format_h_m",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%d мин",
+		"@_name": "fg_duration_format_m"
+	},
+	{
+		"#text": "Слишком часто, чтобы получить код",
+		"@_name": "fg_error_login_code_frequently"
+	},
+	{
+		"#text": "Неверный код подтверждения",
+		"@_name": "fg_error_login_code_invalid"
+	},
+	{
+		"#text": "Неправильный формат номера телефона",
+		"@_name": "fg_error_phone_format_invalid"
+	},
+	{
+		"#text": "Неизвестная ошибка",
+		"@_name": "fg_error_unknown"
+	},
+	{
+		"#text": "Пользователь не существует",
+		"@_name": "fg_error_user_not_exist"
+	},
+	{
+		"#text": "Flyme 8 guardian function updating",
+		"@_name": "fg_function_updating"
+	},
+	{
+		"#text": "Откройте защиту семьи > Выберите защиту семьи",
+		"@_name": "fg_guard_summary"
+	},
+	{
+		"#text": "Сканировать QR-код охраны",
+		"@_name": "fg_guard_title"
+	},
+	{
+		"#text": "Удаленная поддержка",
+		"@_name": "fg_header_remote"
+	},
+	{
+		"#text": "Вы можете помочь %s, чтобы решать вопросы по телефону удаленно",
+		"@_name": "fg_header_watch_data_master_desc"
+	},
+	{
+		"#text": "Если любая проблема, вы можете задать %s удаленно",
+		"@_name": "fg_header_watch_data_salve_desc"
+	},
+	{
+		"#text": "%s начинает охранять вас удаленно",
+		"@_name": "fg_header_watch_date_salve_one"
+	},
+	{
+		"#text": "%s имеет охрану на %d дней",
+		"@_name": "fg_header_watch_date_salve_other",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вас охраняют другие члены семьи. Если вы хотите создать новые отношения охранника, пожалуйста удалите существующие отношения и принять запрос",
+		"@_name": "fg_invite_error1"
+	},
+	{
+		"#text": "Вы уже под защитой. Если вы хотите быть защищенным другой стороной, пожалуйста удалите существующие отношения и примите запрос",
+		"@_name": "fg_invite_error2"
+	},
+	{
+		"#text": "%1$s уже под защитой семьи. Если вы хотите охранять %1$s, пожалуйста запросите %2$, чтобы отменить и повторно принять ваш запрос",
+		"@_name": "fg_invite_error3"
+	},
+	{
+		"#text": "Вы можете отправить заявку на вашей семье",
+		"@_name": "fg_invite_error4"
+	},
+	{
+		"#text": "Вы охраняли максимальное количество членов семьи, поэтому вы не можете защитить больше",
+		"@_name": "fg_invite_error5"
+	},
+	{
+		"#text": "Приглашенный охраняет максимальное число членов семьи, поэтому вы не можете присоединиться. Пожалуйста, выберите другого члена семьи, чтобы охранять вас",
+		"@_name": "fg_invite_error6"
+	},
+	{
+		"#text": "Не удается принять запрос",
+		"@_name": "fg_invite_error_title_1"
+	},
+	{
+		"#text": "Запрос отказ",
+		"@_name": "fg_invite_error_title_3"
+	},
+	{
+		"#text": "Заявка истекла",
+		"@_name": "fg_invite_error_title_4"
+	},
+	{
+		"#text": "Обязательно удалить зону безопасности?",
+		"@_name": "fg_location_geofence_delete"
+	},
+	{
+		"#text": "\"Установить область вокруг вашего дома/школы в безопасную зону,\nЧтобы напомнить вам, когда ваша семья входит/выходит из безопасных зон\"",
+		"@_name": "fg_location_geofence_details"
+	},
+	{
+		"#text": "Редактирование зоны безопасности",
+		"@_name": "fg_location_geofence_edit"
+	},
+	{
+		"#text": "В безопасной зоне",
+		"@_name": "fg_location_geofence_enter"
+	},
+	{
+		"#text": "За пределами безопасной зоны",
+		"@_name": "fg_location_geofence_exit"
+	},
+	{
+		"#text": "Зона безопасности",
+		"@_name": "fg_location_geofence_list_title"
+	},
+	{
+		"#text": "%d метров",
+		"@_name": "fg_location_geofence_meter"
+	},
+	{
+		"#text": "Компания",
+		"@_name": "fg_location_geofence_name_company"
+	},
+	{
+		"#text": "Зона безопасности %s",
+		"@_name": "fg_location_geofence_name_generate"
+	},
+	{
+		"#text": "Название",
+		"@_name": "fg_location_geofence_name_hint"
+	},
+	{
+		"#text": "Дом",
+		"@_name": "fg_location_geofence_name_home"
+	},
+	{
+		"#text": "Парк",
+		"@_name": "fg_location_geofence_name_park"
+	},
+	{
+		"#text": "Школа",
+		"@_name": "fg_location_geofence_name_school"
+	},
+	{
+		"#text": "Безопасное имя зоны",
+		"@_name": "fg_location_geofence_name_title"
+	},
+	{
+		"#text": "Центр",
+		"@_name": "fg_location_geofence_position"
+	},
+	{
+		"#text": "Центр:",
+		"@_name": "fg_location_geofence_position_colon"
+	},
+	{
+		"#text": "Радиус безопасности",
+		"@_name": "fg_location_geofence_radius"
+	},
+	{
+		"#text": "Радиус безопасности:",
+		"@_name": "fg_location_geofence_radius_colon"
+	},
+	{
+		"#text": "Добавить безопасную зону",
+		"@_name": "fg_location_geofence_title"
+	},
+	{
+		"#text": "Поиск, пожалуйста подождите...",
+		"@_name": "fg_location_loading"
+	},
+	{
+		"#text": "Нет приложений",
+		"@_name": "fg_location_map_no_found"
+	},
+	{
+		"#text": "Нет информации о местоположении",
+		"@_name": "fg_location_no_address"
+	},
+	{
+		"#text": "Нет места, вы можете вручную обновить",
+		"@_name": "fg_location_none"
+	},
+	{
+		"#text": "Местоположение неудачно",
+		"@_name": "fg_location_poi_empty"
+	},
+	{
+		"#text": "Перейти к",
+		"@_name": "fg_location_route"
+	},
+	{
+		"#text": "Общий адрес",
+		"@_name": "fg_location_share"
+	},
+	{
+		"#text": "%s местоположения: %s",
+		"@_name": "fg_location_share_subtitle",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Защита семьи > Просмотр сведений о местоположении",
+		"@_name": "fg_location_share_title"
+	},
+	{
+		"#text": "Местоположение успешно",
+		"@_name": "fg_location_success"
+	},
+	{
+		"#text": "Запрос слишком часто. Пожалуйста подождите...",
+		"@_name": "fg_location_too_frequently"
+	},
+	{
+		"#text": "Трек",
+		"@_name": "fg_location_trace"
+	},
+	{
+		"#text": "После его включения вы можете просмотреть активность другого абонента за последние 24 часа, но это увеличит расход заряда батареи на телефоне другого абонента.",
+		"@_name": "fg_location_trace_dialog"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "fg_location_trace_open"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "fg_location_update"
+	},
+	{
+		"#text": "Логин",
+		"@_name": "fg_login"
+	},
+	{
+		"#text": "Введите проверочный код",
+		"@_name": "fg_login_code_hint"
+	},
+	{
+		"#text": "Получить код проверки",
+		"@_name": "fg_login_get_code"
+	},
+	{
+		"#text": "Введите новый номер телефона",
+		"@_name": "fg_login_input_new_phone_hint"
+	},
+	{
+		"#text": "Введите ваш номер телефона",
+		"@_name": "fg_login_input_phone_hint"
+	},
+	{
+		"#text": "Повторно",
+		"@_name": "fg_login_regain_code"
+	},
+	{
+		"#text": "Уведомления, когда ваша семья получает нежелательные вызовы/SMS-сообщения",
+		"@_name": "fg_login_sub_title"
+	},
+	{
+		"#text": "Логин с номером телефона",
+		"@_name": "fg_login_title"
+	},
+	{
+		"#text": "Изменить номер телефона",
+		"@_name": "fg_login_title_modify"
+	},
+	{
+		"#text": "Тайм-аут",
+		"@_name": "fg_master_health"
+	},
+	{
+		"#text": "Анти-наркомания",
+		"@_name": "fg_master_health_anti_manage"
+	},
+	{
+		"#text": "Цифровая статистика управление",
+		"@_name": "fg_master_health_manage"
+	},
+	{
+		"#text": "Применить для разрешения управления",
+		"@_name": "fg_master_health_permission"
+	},
+	{
+		"#text": "Обратиться за разрешениями на управление",
+		"@_name": "fg_master_health_permission_again"
+	},
+	{
+		"#text": "Получить разрешения для удаленного управления, контроля и защиты",
+		"@_name": "fg_master_health_permission_dialog"
+	},
+	{
+		"#text": "Применить для разрешения управления (%s сек)",
+		"@_name": "fg_master_health_permission_sending"
+	},
+	{
+		"#text": "Оставшийся заряд батареи",
+		"@_name": "fg_master_us_battery"
+	},
+	{
+		"#text": "Ошибка данных",
+		"@_name": "fg_master_us_getting_fail"
+	},
+	{
+		"#text": "Доступ к данным...",
+		"@_name": "fg_master_us_loading"
+	},
+	{
+		"#text": "Время спаривания",
+		"@_name": "fg_master_us_pickup"
+	},
+	{
+		"#text": "Приложения ежедневного использования",
+		"@_name": "fg_master_us_summary_title"
+	},
+	{
+		"#text": "Не используемые сегодня",
+		"@_name": "fg_master_us_summary_title_empty"
+	},
+	{
+		"#text": "Время использования",
+		"@_name": "fg_master_us_time"
+	},
+	{
+		"#text": "Сетевая ошибка. Попробуйте позже",
+		"@_name": "fg_network_exception"
+	},
+	{
+		"#text": "Семейный гид, чтобы использовать телефон",
+		"@_name": "fg_new_feature_anti_sub_title"
+	},
+	{
+		"#text": "Обновление анти-наркомании",
+		"@_name": "fg_new_feature_anti_title"
+	},
+	{
+		"#text": "Набор безопасных зон для предотвращения потери семьи",
+		"@_name": "fg_new_feature_geo_sub_title"
+	},
+	{
+		"#text": "Добавить безопасную зону",
+		"@_name": "fg_new_feature_geo_title"
+	},
+	{
+		"#text": "Не пропустите ни одного оповещения",
+		"@_name": "fg_new_feature_timeline_sub_title"
+	},
+	{
+		"#text": "Обновить советы по безопасности",
+		"@_name": "fg_new_feature_timeline_title"
+	},
+	{
+		"#text": "Добро пожаловать в защиту семьи",
+		"@_name": "fg_new_feature_title"
+	},
+	{
+		"#text": "SIM-карта необходима для проверки номера телефона для чрезвычайных ситуаций",
+		"@_name": "fg_no_sim_card_description"
+	},
+	{
+		"#text": "Пожалуйста, вставьте SIM-карту",
+		"@_name": "fg_no_sim_card_title"
+	},
+	{
+		"#text": "Игнорировать этот момент",
+		"@_name": "fg_notify_action_ignore"
+	},
+	{
+		"#text": "Просмотр местоположения",
+		"@_name": "fg_notify_action_location"
+	},
+	{
+		"#text": "Откройте приложение",
+		"@_name": "fg_notify_action_open_app"
+	},
+	{
+		"#text": "Снова применить",
+		"@_name": "fg_notify_action_request_again"
+	},
+	{
+		"#text": "Посмотреть детали",
+		"@_name": "fg_notify_action_view_Details"
+	},
+	{
+		"#text": "%s прибыли в %s",
+		"@_name": "fg_notify_geofence_enter",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s осталось %s",
+		"@_name": "fg_notify_geofence_exit",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s успешно установил защиту",
+		"@_name": "fg_notify_qrcode_success"
+	},
+	{
+		"#text": "Если есть вопросы, вы можете задать %s удаленно",
+		"@_name": "fg_notify_qrcode_success_desc"
+	},
+	{
+		"#text": "Пожалуйста, свяжитесь с %s чтобы узнать больше",
+		"@_name": "fg_notify_quite_ask"
+	},
+	{
+		"#text": "Вы успешно установили связь охранника с %s",
+		"@_name": "fg_notify_relation_invite_agree"
+	},
+	{
+		"#text": "Использование %s телефона",
+		"@_name": "fg_notify_relation_invite_agree_des"
+	},
+	{
+		"#text": "%s отказано в присоединении семьи",
+		"@_name": "fg_notify_relation_invite_reject"
+	},
+	{
+		"#text": "%s покинул защиту семьи",
+		"@_name": "fg_notify_relation_quite_master"
+	},
+	{
+		"#text": "%s убрал тебя из семьи",
+		"@_name": "fg_notify_relation_quite_salve"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "fg_relation_inviting_begin"
+	},
+	{
+		"#text": "Просьба заполнить отношения между %s и вами",
+		"@_name": "fg_relation_inviting_custom_sub_title"
+	},
+	{
+		"#text": "Охрана другой семьи",
+		"@_name": "fg_relation_inviting_custom_title"
+	},
+	{
+		"#text": "Далеко",
+		"@_name": "fg_relation_inviting_main_faraway"
+	},
+	{
+		"#text": "Рядом",
+		"@_name": "fg_relation_inviting_main_nearby"
+	},
+	{
+		"#text": "Необходимо, чтобы другая сторона использовала Meizu телефон",
+		"@_name": "fg_relation_inviting_main_sub_title"
+	},
+	{
+		"#text": "Купить",
+		"@_name": "fg_relation_inviting_main_sub_title2"
+	},
+	{
+		"#text": "Семья должна быть под охраной?",
+		"@_name": "fg_relation_inviting_main_title"
+	},
+	{
+		"#text": "Моя роль",
+		"@_name": "fg_relation_inviting_master_name"
+	},
+	{
+		"#text": "Кто ты? Например: внук",
+		"@_name": "fg_relation_inviting_master_name_hint"
+	},
+	{
+		"#text": "Кто ты? Например: внук",
+		"@_name": "fg_relation_inviting_master_name_hint2"
+	},
+	{
+		"#text": "Определите свою роль",
+		"@_name": "fg_relation_inviting_master_sub_title"
+	},
+	{
+		"#text": "Вы хотите охранять %s, меня?",
+		"@_name": "fg_relation_inviting_master_title"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "fg_relation_inviting_next"
+	},
+	{
+		"#text": "Пожалуйста, введите количество %s",
+		"@_name": "fg_relation_inviting_phone_sub_title"
+	},
+	{
+		"#text": "Я %1$s, Я хочу охранять %2$s",
+		"@_name": "fg_relation_inviting_phone_title"
+	},
+	{
+		"#text": "Я хочу охранять %s",
+		"@_name": "fg_relation_inviting_phone_title_lover"
+	},
+	{
+		"#text": "Нажмите охранять мою семью &amp; Выберите поблизости &amp; Сканировать",
+		"@_name": "fg_relation_inviting_salve_add_master_sub_title"
+	},
+	{
+		"#text": "Попросите семью сканировать код защиты",
+		"@_name": "fg_relation_inviting_salve_add_master_title"
+	},
+	{
+		"#text": "Спросите у семей, чтобы защитить меня через WeChat",
+		"@_name": "fg_relation_inviting_salve_add_master_wechart"
+	},
+	{
+		"#text": "Не может быть изменен после выбора",
+		"@_name": "fg_relation_inviting_salver_sub_title"
+	},
+	{
+		"#text": "Кого вы хотите охранять?",
+		"@_name": "fg_relation_inviting_salver_title"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "fg_relation_inviting_send"
+	},
+	{
+		"#text": "%s обратился к",
+		"@_name": "fg_relation_inviting_srole_name"
+	},
+	{
+		"#text": "Кто он? Например: дедушка",
+		"@_name": "fg_relation_inviting_srole_name_hint"
+	},
+	{
+		"#text": "Кто она? Такая как: бабушка",
+		"@_name": "fg_relation_inviting_srole_name_hint2"
+	},
+	{
+		"#text": "Сканирование",
+		"@_name": "fg_relation_inviting_via_qrcode"
+	},
+	{
+		"#text": "SMS-запрос",
+		"@_name": "fg_relation_inviting_via_sms"
+	},
+	{
+		"#text": "Попросите вас охранять меня, предотвратить меня от спам-звонков / SMS и удаленно решить мои проблемы и потери",
+		"@_name": "fg_relation_inviting_wx_title"
+	},
+	{
+		"#text": "Мне",
+		"@_name": "fg_relation_manager"
+	},
+	{
+		"#text": "Нажмите, чтобы изменить количество",
+		"@_name": "fg_relation_manager_account_sub_title"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "fg_relation_manager_delete"
+	},
+	{
+		"#text": "Не удается удаленно охранять %s после удаления отношений. Продолжать?",
+		"@_name": "fg_relation_manager_delete_dialog_title"
+	},
+	{
+		"#text": "Семейная информация",
+		"@_name": "fg_relation_manager_detail"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "fg_relation_manager_logout"
+	},
+	{
+		"#text": "Вы не будете получать уведомления безопасностти семьи, после выхода",
+		"@_name": "fg_relation_manager_logout_dialog_msg"
+	},
+	{
+		"#text": "Покинуть защиту семьи?",
+		"@_name": "fg_relation_manager_logout_dialog_title"
+	},
+	{
+		"#text": "Растворен успешно",
+		"@_name": "fg_relation_master_delete_success"
+	},
+	{
+		"#text": "Успешно изменен",
+		"@_name": "fg_relation_master_update_success"
+	},
+	{
+		"#text": "Для удаления отношений, вам нужно отправить запрос. Продолжать?",
+		"@_name": "fg_relation_salve_child_delete"
+	},
+	{
+		"#text": "Удалось",
+		"@_name": "fg_relation_salve_child_delete_success"
+	},
+	{
+		"#text": "%s не может защитить вас от нежелательных звонков/SMS или удаленно решать вопросы по телефону после выхода из семейного охранника.",
+		"@_name": "fg_relation_salve_delete"
+	},
+	{
+		"#text": "Успешно завершился",
+		"@_name": "fg_relation_salve_delete_success"
+	},
+	{
+		"#text": "Охрана %d дней",
+		"@_name": "fg_relation_watch_days"
+	},
+	{
+		"#text": "Задать %s для удаленной поддержки?",
+		"@_name": "fg_remote_master_launch"
+	},
+	{
+		"#text": "Решить сейчас",
+		"@_name": "fg_remote_notify_master_action"
+	},
+	{
+		"#text": "Другая сторона спрашивает управлять телефоном %1$s, чтобы помочь %2$s решать вопросы по телефону",
+		"@_name": "fg_remote_notify_master_sub_title"
+	},
+	{
+		"#text": "%s запрос удаленной поддержки",
+		"@_name": "fg_remote_notify_master_title"
+	},
+	{
+		"#text": "Теперь согласен",
+		"@_name": "fg_remote_notify_salve_action"
+	},
+	{
+		"#text": "Другая сторона просит управлять телефоном, для решения проблем",
+		"@_name": "fg_remote_notify_salve_sub_title"
+	},
+	{
+		"#text": "%s запросил для удаленной поддержки",
+		"@_name": "fg_remote_notify_salve_title"
+	},
+	{
+		"#text": "Запрос %s чтобы решить мои проблемы с телефоном?",
+		"@_name": "fg_remote_salve_launch"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "fg_retry"
+	},
+	{
+		"#text": "Дочь",
+		"@_name": "fg_role_daughter"
+	},
+	{
+		"#text": "Семья",
+		"@_name": "fg_role_family"
+	},
+	{
+		"#text": "Папа",
+		"@_name": "fg_role_father"
+	},
+	{
+		"#text": "Отец мужа",
+		"@_name": "fg_role_father_of_husband"
+	},
+	{
+		"#text": "Папа жены",
+		"@_name": "fg_role_father_of_wife"
+	},
+	{
+		"#text": "Муж",
+		"@_name": "fg_role_husband"
+	},
+	{
+		"#text": "Дедушка",
+		"@_name": "fg_role_maternal_grandfather"
+	},
+	{
+		"#text": "Бабушка",
+		"@_name": "fg_role_maternal_grandmother"
+	},
+	{
+		"#text": "Мама",
+		"@_name": "fg_role_mother"
+	},
+	{
+		"#text": "Свекровь",
+		"@_name": "fg_role_mother_of_husband"
+	},
+	{
+		"#text": "Тёща",
+		"@_name": "fg_role_mother_of_wife"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "fg_role_other_female"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "fg_role_other_male"
+	},
+	{
+		"#text": "Дедушка",
+		"@_name": "fg_role_paternal_grandfather"
+	},
+	{
+		"#text": "Бабушка",
+		"@_name": "fg_role_paternal_grandmother"
+	},
+	{
+		"#text": "360 часов дочери",
+		"@_name": "fg_role_qihoo_daughter"
+	},
+	{
+		"#text": "Сын 360 часов",
+		"@_name": "fg_role_qihoo_son"
+	},
+	{
+		"#text": "Вс",
+		"@_name": "fg_role_son"
+	},
+	{
+		"#text": "Жена",
+		"@_name": "fg_role_wife"
+	},
+	{
+		"#text": "%s применяются для получения разрешений управления телефоном",
+		"@_name": "fg_salve_timeline_limit_permission"
+	},
+	{
+		"#text": "%s согласился на ваш запрос управления телефоном",
+		"@_name": "fg_salve_timeline_limit_permission_acept"
+	},
+	{
+		"#text": "После авторизации, вы не сможете установить собственные ограничения на использование приложения",
+		"@_name": "fg_salve_timeline_limit_permission_desc"
+	},
+	{
+		"#text": "%s отказано в запросе на получение разрешений на управление",
+		"@_name": "fg_salve_timeline_limit_permission_refuse"
+	},
+	{
+		"#text": "Вы можете снова подать заявку на управление правами доступа",
+		"@_name": "fg_salve_timeline_limit_permission_refuse_desc"
+	},
+	{
+		"#text": "%s просмотра вашего текущего местоположения",
+		"@_name": "fg_salve_timeline_location"
+	},
+	{
+		"#text": "%s у вас сложились семейные отношения",
+		"@_name": "fg_salve_timeline_relation_build_up"
+	},
+	{
+		"#text": "Если любая проблема, вы можете задать %s удаленно",
+		"@_name": "fg_salve_timeline_relation_build_up_desc"
+	},
+	{
+		"#text": "\"Сделать следующие шаги по другую сторону телефона\nОткрыть защиту семьи > Семья охранять меня > Запрос для сканирования семьи\"",
+		"@_name": "fg_scan_result_pic_summary"
+	},
+	{
+		"#text": "Показать правильный QR код",
+		"@_name": "fg_scan_result_pic_title"
+	},
+	{
+		"#text": "Обе SIM-карты имеют семейные отношения",
+		"@_name": "fg_sim_account_select_sub_title"
+	},
+	{
+		"#text": "Выберите SIM-карту",
+		"@_name": "fg_sim_account_select_title"
+	},
+	{
+		"#text": "Каждый член семьи охранник",
+		"@_name": "fg_tail_desc"
+	},
+	{
+		"#text": "Meizu защита семьи",
+		"@_name": "fg_tail_title"
+	},
+	{
+		"#text": "Защита",
+		"@_name": "fg_timeline"
+	},
+	{
+		"#text": "Согласен",
+		"@_name": "fg_timeline_accept"
+	},
+	{
+		"#text": "Согласовано",
+		"@_name": "fg_timeline_accepted"
+	},
+	{
+		"#text": "%1$s чтобы отвечать на %2$s",
+		"@_name": "fg_timeline_answer"
+	},
+	{
+		"#text": "%1$s, длительность вызова %2$s",
+		"@_name": "fg_timeline_answer2"
+	},
+	{
+		"#text": "Modify anti-addiction settings",
+		"@_name": "fg_timeline_anti_change_time_usage"
+	},
+	{
+		"#text": "Вы покинули защиту семьи",
+		"@_name": "fg_timeline_anti_quit_accept"
+	},
+	{
+		"#text": "%s согласился на ваше приложение",
+		"@_name": "fg_timeline_anti_quit_accept_summary"
+	},
+	{
+		"#text": "%s отказано в заявке",
+		"@_name": "fg_timeline_anti_quit_refuse"
+	},
+	{
+		"#text": "%s применяемых для защиты семьи",
+		"@_name": "fg_timeline_anti_quit_title"
+	},
+	{
+		"#text": "Блок",
+		"@_name": "fg_timeline_blacklist"
+	},
+	{
+		"#text": "Этот номер будет заблокирован для вас и защитит семью",
+		"@_name": "fg_timeline_blacklist_confirm"
+	},
+	{
+		"#text": "%1$s для вызова %2$s",
+		"@_name": "fg_timeline_call"
+	},
+	{
+		"#text": "%1$s, длительность вызова %2$s",
+		"@_name": "fg_timeline_call2"
+	},
+	{
+		"#text": "И",
+		"@_name": "fg_timeline_connection_word"
+	},
+	{
+		"#text": "、",
+		"@_name": "fg_timeline_dayton"
+	},
+	{
+		"#text": "Нет записей",
+		"@_name": "fg_timeline_empty"
+	},
+	{
+		"#text": "Высокий риск",
+		"@_name": "fg_timeline_high_risk"
+	},
+	{
+		"#text": "Предупреждение локации",
+		"@_name": "fg_timeline_location"
+	},
+	{
+		"#text": "Просмотр сведений о местоположении",
+		"@_name": "fg_timeline_location_details"
+	},
+	{
+		"#text": "Установить безопасную зону",
+		"@_name": "fg_timeline_location_geofence"
+	},
+	{
+		"#text": "Поиск...",
+		"@_name": "fg_timeline_location_getting"
+	},
+	{
+		"#text": "Сбой доступа к местоположению",
+		"@_name": "fg_timeline_location_getting_fail"
+	},
+	{
+		"#text": "Обновление %s",
+		"@_name": "fg_timeline_location_getting_time"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "fg_timeline_location_title"
+	},
+	{
+		"#text": "Есть",
+		"@_name": "fg_timeline_mms_template_had"
+	},
+	{
+		"#text": "Посмотреть историю",
+		"@_name": "fg_timeline_more"
+	},
+	{
+		"#text": "Посмотреть историю (%d)",
+		"@_name": "fg_timeline_more_num"
+	},
+	{
+		"#text": "%s поступило %2$s сообщений",
+		"@_name": "fg_timeline_receive_sms",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "fg_timeline_refuse"
+	},
+	{
+		"#text": "Отказ",
+		"@_name": "fg_timeline_refused"
+	},
+	{
+		"#text": "Разблокировать",
+		"@_name": "fg_timeline_restore_blacklist"
+	},
+	{
+		"#text": "Разблокирован",
+		"@_name": "fg_timeline_restore_blacklist_success"
+	},
+	{
+		"#text": "Предупреждение о рисках",
+		"@_name": "fg_timeline_risk"
+	},
+	{
+		"#text": "Запись охраны",
+		"@_name": "fg_timeline_salve"
+	},
+	{
+		"#text": "%s отправлено на %2$s сообщений",
+		"@_name": "fg_timeline_send_sms",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "fg_timeline_tag_dialer"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "fg_ui_edit"
+	},
+	{
+		"#text": "Сканировать код",
+		"@_name": "fg_ui_family_guard_me"
+	},
+	{
+		"#text": "Логин",
+		"@_name": "fg_ui_guard_my_family"
+	},
+	{
+		"#text": "%s адресовано к",
+		"@_name": "fg_ui_his_name"
+	},
+	{
+		"#text": "%s номер телефона",
+		"@_name": "fg_ui_his_phone"
+	},
+	{
+		"#text": "\"%s's роль\"",
+		"@_name": "fg_ui_his_role_type"
+	},
+	{
+		"#text": "\"Защита от спама и потери телефона\nУдаленно решать вопросы по телефону\"",
+		"@_name": "fg_ui_init_subtitle"
+	},
+	{
+		"#text": "Узнать больше",
+		"@_name": "fg_ui_init_subtitle2"
+	},
+	{
+		"#text": "Пожалуйста, введите",
+		"@_name": "fg_ui_input"
+	},
+	{
+		"#text": "Дополнительно",
+		"@_name": "fg_ui_input_optional"
+	},
+	{
+		"#text": "Пожалуйста введите",
+		"@_name": "fg_ui_input_required"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "fg_ui_loading"
+	},
+	{
+		"#text": "Я охраняю",
+		"@_name": "fg_ui_my_family"
+	},
+	{
+		"#text": "Мой номер телефона",
+		"@_name": "fg_ui_my_phone"
+	},
+	{
+		"#text": "Моя роль",
+		"@_name": "fg_ui_my_role_type"
+	},
+	{
+		"#text": "Пожалуйста, выберите",
+		"@_name": "fg_ui_select"
+	},
+	{
+		"#text": "Отменить запрос",
+		"@_name": "fg_un_confirm_btn_delete"
+	},
+	{
+		"#text": "После отмена запроса, вы не сможете удаленно управлять %s. Продолжать?",
+		"@_name": "fg_un_confirm_btn_delete_dialog_title"
+	},
+	{
+		"#text": "Запрос снова",
+		"@_name": "fg_un_confirm_btn_re_invite"
+	},
+	{
+		"#text": "Запрос снова (%s сек)",
+		"@_name": "fg_un_confirm_btn_re_invite_with_time"
+	},
+	{
+		"#text": "Другая сторона не может получить сообщение?",
+		"@_name": "fg_un_confirm_btn_sms_fail"
+	},
+	{
+		"#text": "Открыть зашиту семьи &amp;gt; Нажмите семья охранять меня &amp;gt; Попросите семьи защитить меня через WeChat &amp;gt; Выберите для отправки",
+		"@_name": "fg_un_confirm_btn_sms_fail_dialog_sub_title"
+	},
+	{
+		"#text": "Попросите другого абонента выполнить следующие действия",
+		"@_name": "fg_un_confirm_btn_sms_fail_dialog_title"
+	},
+	{
+		"#text": "1. Откройте защиту семьи SMS-запрос",
+		"@_name": "fg_un_confirm_content_sub_tittle1"
+	},
+	{
+		"#text": "2. Нажмите кнопку принять SMS-запрос",
+		"@_name": "fg_un_confirm_content_sub_tittle2"
+	},
+	{
+		"#text": "Принять запрос",
+		"@_name": "fg_un_confirm_content_title"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "fg_un_confirm_header_call"
+	},
+	{
+		"#text": "Запрос отправил. Просьба уведомить другую сторону",
+		"@_name": "fg_un_confirm_header_call_sub_title"
+	},
+	{
+		"#text": "В ожидании приема",
+		"@_name": "fg_un_confirm_header_call_title"
+	},
+	{
+		"#text": "if uninstall this app can not use digital health",
+		"@_name": "fg_uninstall_message"
+	},
+	{
+		"#text": "Выбрано файлов %1$s, всего %2$s Мб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "guide_view__text_skip"
+	},
+	{
+		"#text": "Немедленно включить",
+		"@_name": "guide_view_btn_cancel_text"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Всем привет!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Удалить %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Показать пароль",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "summary_collapsed_preference_list"
+	},
+	{
+		"#text": "Анти-наркомания",
+		"@_name": "us_addiction_prevention"
+	},
+	{
+		"#text": "Ограничить время использования",
+		"@_name": "us_addiction_prevention_des"
+	},
+	{
+		"#text": "Вы удалили права управления на %1$s, пожалуйста свяжитесь с %2$s чтобы установить",
+		"@_name": "us_admin_info"
+	},
+	{
+		"#text": "can set type 、 single app limit, please reset,try more function",
+		"@_name": "us_anti_addiction_salve_updated_message"
+	},
+	{
+		"#text": "Anti-addiction guardian has updated",
+		"@_name": "us_anti_addiction_salve_updated_title"
+	},
+	{
+		"#text": "Старая версия не может перенести, пожалуйста перезагрузите",
+		"@_name": "us_anti_addiction_updated_message"
+	},
+	{
+		"#text": "Анти-наркомания обновлено",
+		"@_name": "us_anti_addiction_updated_title"
+	},
+	{
+		"#text": "Anti-addiction management, you can use new function after target updated to Flyme 8",
+		"@_name": "us_anti_updated_des"
+	},
+	{
+		"#text": "Приложение недоступно",
+		"@_name": "us_app_cant_use"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "us_app_count"
+	},
+	{
+		"#text": "%1$s ограничение по времени использования достигнуто. Пожалуйста, используйте его завтра",
+		"@_name": "us_app_overtime_limit_dialog_message"
+	},
+	{
+		"#text": "%1$s%2$s будет запрещено использовать",
+		"@_name": "us_app_total_limit_dialog_message"
+	},
+	{
+		"#text": "%1$s не отменили %2$s%3$s для приложения ежедневный лимит времени",
+		"@_name": "us_cancel_limit_title"
+	},
+	{
+		"#text": "%1$s ограничение по времени использования достигнута. Пожалуйста, используйте его завтра",
+		"@_name": "us_category_overtime_limit_dialog_message"
+	},
+	{
+		"#text": "%1$s приложение %2$s запрещено использовать",
+		"@_name": "us_category_total_limit_dialog_message"
+	},
+	{
+		"#text": "\" d\"",
+		"@_name": "us_day"
+	},
+	{
+		"#text": "Уведомлений: %2$d в %1$s",
+		"@_name": "us_days_most_notifications"
+	},
+	{
+		"#text": "Развернуть",
+		"@_name": "us_expand"
+	},
+	{
+		"#text": "Финансирование",
+		"@_name": "us_financing"
+	},
+	{
+		"#text": "Будут вынуждены закрыться",
+		"@_name": "us_force_close"
+	},
+	{
+		"#text": "Пт",
+		"@_name": "us_fri"
+	},
+	{
+		"#text": "Игры и видео",
+		"@_name": "us_game_and_video"
+	},
+	{
+		"#text": "ч",
+		"@_name": "us_hour"
+	},
+	{
+		"#text": "Работают в фоне",
+		"@_name": "us_include_app"
+	},
+	{
+		"#text": "Известно",
+		"@_name": "us_known"
+	},
+	{
+		"#text": "Неделя",
+		"@_name": "us_last_7_days"
+	},
+	{
+		"#text": "Жизнь",
+		"@_name": "us_life"
+	},
+	{
+		"#text": "Ограничен",
+		"@_name": "us_limit"
+	},
+	{
+		"#text": "После тайм-аута",
+		"@_name": "us_limit_over"
+	},
+	{
+		"#text": "limit_over_key",
+		"@_name": "us_limit_over_key"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "us_loading"
+	},
+	{
+		"#text": "Часто используемые: %1$s",
+		"@_name": "us_longest_used"
+	},
+	{
+		"#text": "За день: %1$s",
+		"@_name": "us_longest_used_in_single_day"
+	},
+	{
+		"#text": "м",
+		"@_name": "us_minute"
+	},
+	{
+		"#text": "м",
+		"@_name": "us_minute_s"
+	},
+	{
+		"#text": "Пн",
+		"@_name": "us_mon"
+	},
+	{
+		"#text": "Часто используемые",
+		"@_name": "us_most_frequently_used"
+	},
+	{
+		"#text": "Приложение",
+		"@_name": "us_most_frequently_used_app"
+	},
+	{
+		"#text": "Категории приложений",
+		"@_name": "us_most_frequently_used_category"
+	},
+	{
+		"#text": "h:00 a",
+		"@_name": "us_n_clock_12"
+	},
+	{
+		"#text": "H:00",
+		"@_name": "us_n_clock_24"
+	},
+	{
+		"#text": "Новости",
+		"@_name": "us_news"
+	},
+	{
+		"#text": "Свободно",
+		"@_name": "us_no_limit"
+	},
+	{
+		"#text": "%1$d в день",
+		"@_name": "us_notification_day_average"
+	},
+	{
+		"#text": "%1$d в час",
+		"@_name": "us_notification_hour_average"
+	},
+	{
+		"#text": "Приложение",
+		"@_name": "us_notify_category"
+	},
+	{
+		"#text": "%1$s сегодня лимит",
+		"@_name": "us_notify_close_message"
+	},
+	{
+		"#text": "%1$s%2$s будет закрыт в %3$s",
+		"@_name": "us_notify_close_title"
+	},
+	{
+		"#text": "Сделайте перерыв",
+		"@_name": "us_notify_tib_message"
+	},
+	{
+		"#text": "%1$s%2$s имеет используемое %3$s",
+		"@_name": "us_notify_tib_title"
+	},
+	{
+		"#text": "Сообщим вам",
+		"@_name": "us_notify_you"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "us_off_day"
+	},
+	{
+		"#text": "Офис",
+		"@_name": "us_office"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "us_other"
+	},
+	{
+		"#text": "%1$d в день",
+		"@_name": "us_pick_up_day_average"
+	},
+	{
+		"#text": "%1$d в час",
+		"@_name": "us_pick_up_hour_average"
+	},
+	{
+		"#text": "Уведомлений получено",
+		"@_name": "us_receive_notification"
+	},
+	{
+		"#text": "Остальные",
+		"@_name": "us_remaining"
+	},
+	{
+		"#text": "Сб",
+		"@_name": "us_sat"
+	},
+	{
+		"#text": "День школы",
+		"@_name": "us_school_day"
+	},
+	{
+		"#text": "c",
+		"@_name": "us_second"
+	},
+	{
+		"#text": "%1$s%2$s, %3$s%4$s, %5$s когда истекло время",
+		"@_name": "us_set_limit_content"
+	},
+	{
+		"#text": "Приложение",
+		"@_name": "us_set_limit_content_category"
+	},
+	{
+		"#text": "Приложение",
+		"@_name": "us_set_limit_content_package"
+	},
+	{
+		"#text": "%1$s устанавливает свой %2$s%3$s для приложений ежедневный лимит времени",
+		"@_name": "us_set_limit_title"
+	},
+	{
+		"#text": "Интернет магазин",
+		"@_name": "us_shopping"
+	},
+	{
+		"#text": "Социальная сеть",
+		"@_name": "us_social"
+	},
+	{
+		"#text": "Спорт",
+		"@_name": "us_sport"
+	},
+	{
+		"#text": "Образование",
+		"@_name": "us_study"
+	},
+	{
+		"#text": "Вс",
+		"@_name": "us_sun"
+	},
+	{
+		"#text": "This function only support Flyme 8,you can use new function after target updated",
+		"@_name": "us_support_flyme8_only_des"
+	},
+	{
+		"#text": "This function only support Flyme 8,you can use new function after target updated",
+		"@_name": "us_support_flyme8_only_des_q"
+	},
+	{
+		"#text": "Эта функция только поддержка Flyme 8 , сообщить об обновлении системы",
+		"@_name": "us_support_flyme8_only_title"
+	},
+	{
+		"#text": "Системные приложения",
+		"@_name": "us_system_app"
+	},
+	{
+		"#text": "Инструменты",
+		"@_name": "us_system_tools"
+	},
+	{
+		"#text": "Соединений телефона",
+		"@_name": "us_take_up_phone"
+	},
+	{
+		"#text": "Чт",
+		"@_name": "us_thur"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "us_times"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "us_times_t"
+	},
+	{
+		"#text": "-",
+		"@_name": "us_to"
+	},
+	{
+		"#text": "Target app version is too low,tell target to update app",
+		"@_name": "us_to_update_app"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "us_today"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "us_total_limit"
+	},
+	{
+		"#text": "Вт",
+		"@_name": "us_tues"
+	},
+	{
+		"#text": "%s",
+		"@_name": "us_until"
+	},
+	{
+		"#text": "%1$s в день",
+		"@_name": "us_usage_day_average"
+	},
+	{
+		"#text": "%1$s в час",
+		"@_name": "us_usage_hour_average"
+	},
+	{
+		"#text": "Статистика",
+		"@_name": "us_usage_statistics"
+	},
+	{
+		"#text": "Время использования",
+		"@_name": "us_usage_time"
+	},
+	{
+		"#text": "Ср",
+		"@_name": "us_wed"
+	},
+	{
+		"#text": "Неделя",
+		"@_name": "us_week"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "us_week_total"
+	},
+	{
+		"#text": "Будни",
+		"@_name": "us_work_day"
+	},
+	{
+		"#text": "ВЫКЛ.",
+		"@_name": "v7_preference_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "v7_preference_on"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	}
+]

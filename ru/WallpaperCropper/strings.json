@@ -1,0 +1,14 @@
+[
+	{
+		"#text": "Кадрировать обои",
+		"@_name": "crop_wallpaper"
+	},
+	{
+		"#text": "Установить обои",
+		"@_name": "wallpaper_instructions"
+	},
+	{
+		"#text": "Невозможно загрузить изображение в качестве обоев.",
+		"@_name": "wallpaper_load_fail"
+	}
+]

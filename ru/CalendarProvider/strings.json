@@ -1,0 +1,58 @@
+[
+	{
+		"#text": "Календарь по умолчанию",
+		"@_name": "calendar_default_name"
+	},
+	{
+		"#text": "Информация о календаре",
+		"@_name": "calendar_info"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "calendar_info_error"
+	},
+	{
+		"#text": "События: %1$d",
+		"@_name": "calendar_info_events"
+	},
+	{
+		"#text": "События: %1$d. Несохранённые события: %2$d",
+		"@_name": "calendar_info_events_dirty"
+	},
+	{
+		"#text": "Нет календаря",
+		"@_name": "calendar_info_no_calendars"
+	},
+	{
+		"#text": "Calendar Storage",
+		"@_name": "calendar_storage"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "debug_tool_delete_button"
+	},
+	{
+		"#text": "В приложении находится моя база данных календаря со всеми моими встречами и личной информацией. Будьте осторожны при обращении с ней!",
+		"@_name": "debug_tool_email_body"
+	},
+	{
+		"#text": "Выберите программу для отправки файла",
+		"@_name": "debug_tool_email_sender_picker"
+	},
+	{
+		"#text": "База данных календаря",
+		"@_name": "debug_tool_email_subject"
+	},
+	{
+		"#text": "Вам необходимо: 1) сделать копию базы данных календаря на SD-карту/USB-накопитель, 2) отправить ее по электронной почте. Не забудьте удалить копию после того, как скопировали ее с устройства или отправили в  электронном сообщении.",
+		"@_name": "debug_tool_message"
+	},
+	{
+		"#text": "Старт",
+		"@_name": "debug_tool_start_button"
+	},
+	{
+		"#text": "Календарь",
+		"@_name": "provider_label"
+	}
+]

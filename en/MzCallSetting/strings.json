@@ -1,0 +1,1579 @@
+[
+	{
+		"#text": "Edit messages for declining calls",
+		"@_name": "Mz_respond_via_sms_setting_summary"
+	},
+	{
+		"#text": "Call rejection messages",
+		"@_name": "Mz_respond_via_sms_setting_title"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Add Contact",
+		"@_name": "add_contact_btn"
+	},
+	{
+		"#text": "Add speed dial",
+		"@_name": "add_to_speed_dial_contact"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Call settings",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "SIM 1 -",
+		"@_name": "app_name_sim1"
+	},
+	{
+		"#text": "SIM 2 -",
+		"@_name": "app_name_sim2"
+	},
+	{
+		"#text": "All calls",
+		"@_name": "auto_record_all"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "auto_record_log"
+	},
+	{
+		"#text": "Specified contacts",
+		"@_name": "auto_record_specify"
+	},
+	{
+		"#text": "Activate when incoming call is unanswered",
+		"@_name": "auto_record_summary"
+	},
+	{
+		"#text": "Voice message",
+		"@_name": "auto_record_title"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "auto_record_when_calling_title"
+	},
+	{
+		"#text": "Messages and calls from the blacklist will be blocked",
+		"@_name": "blocknumber_list_summary"
+	},
+	{
+		"#text": "Blacklist",
+		"@_name": "blocknumber_list_title"
+	},
+	{
+		"#text": "Power button ends call",
+		"@_name": "button_ends_call_prerefence_title"
+	},
+	{
+		"#text": "No SIM or SIM error",
+		"@_name": "callFailed_simError"
+	},
+	{
+		"#text": "No Recordings",
+		"@_name": "call_list_empty_text"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "call_recording"
+	},
+	{
+		"#text": "Call setting",
+		"@_name": "call_settings"
+	},
+	{
+		"#text": "No permission to modify phone settings",
+		"@_name": "call_settings_primary_user_only"
+	},
+	{
+		"#text": "Dial settings",
+		"@_name": "call_title"
+	},
+	{
+		"#text": "Caller identification",
+		"@_name": "caller_info_identifier"
+	},
+	{
+		"#text": "Provide more information to identify the caller",
+		"@_name": "caller_info_identifier_summary"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel_btn"
+	},
+	{
+		"#text": "No SIM card",
+		"@_name": "card_name_no_sim"
+	},
+	{
+		"#text": "To play recordings",
+		"@_name": "channel_description"
+	},
+	{
+		"#text": "Recording notification",
+		"@_name": "channel_name"
+	},
+	{
+		"#text": "Select the dial layout",
+		"@_name": "choose_dialpad_layout"
+	},
+	{
+		"#text": "The classic layout has been selected",
+		"@_name": "choosed_classic_layout"
+	},
+	{
+		"#text": "The standard layout has been selected",
+		"@_name": "choosed_standard_layout"
+	},
+	{
+		"#text": "Classic bottom bar, convenient search",
+		"@_name": "classic_description"
+	},
+	{
+		"#text": "Classic layout",
+		"@_name": "classic_layout"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "close_profile"
+	},
+	{
+		"#text": "Minute reminder during calls",
+		"@_name": "count_down_tone_play_title"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Play default animation for unassigned contacts",
+		"@_name": "default_motion_tip"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Automatically answer after 5 seconds",
+		"@_name": "delay_answer_ringing_call_summary"
+	},
+	{
+		"#text": "Auto-answer incoming call",
+		"@_name": "delay_answer_ringing_call_title"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Delete %d Item(s)",
+		"@_name": "delete_record_item"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "deleting"
+	},
+	{
+		"#text": "T9 or QWERTY keyboard",
+		"@_name": "dialer_input_method_summary"
+	},
+	{
+		"#text": "Switch dialer input method",
+		"@_name": "dialer_input_method_title"
+	},
+	{
+		"#text": "Dial layout",
+		"@_name": "dialpad_layout_preference_title"
+	},
+	{
+		"#text": "%1$d:%3$02d:%5$02d",
+		"@_name": "durationformatlong"
+	},
+	{
+		"#text": "%2$02d:%5$02d",
+		"@_name": "durationformatshort"
+	},
+	{
+		"#text": "More",
+		"@_name": "expand_option_title"
+	},
+	{
+		"#text": "Recording(s) removed",
+		"@_name": "file_deleted"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "flyme_settings_close"
+	},
+	{
+		"#text": "Enabled",
+		"@_name": "flyme_settings_open"
+	},
+	{
+		"#text": "Please add contacts for whom the animation will be played.",
+		"@_name": "group_motion_tip"
+	},
+	{
+		"#text": "Call animation on secondary display",
+		"@_name": "incoming_assi_motion_title"
+	},
+	{
+		"#text": "Notification light blinks on incoming call",
+		"@_name": "incoming_flash_reminder_summary"
+	},
+	{
+		"#text": "Flash alert on incoming call",
+		"@_name": "incoming_flash_tip_title"
+	},
+	{
+		"#text": "Flip the phone over to stop ringing and vibrating when a call comes in",
+		"@_name": "incoming_flip_silent_summary"
+	},
+	{
+		"#text": "Flip to silence incoming call",
+		"@_name": "incoming_flip_silent_title"
+	},
+	{
+		"#text": "Please mount USB storage",
+		"@_name": "insert_sd_card"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Web call",
+		"@_name": "label_for_flyme_call_default"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Add contact",
+		"@_name": "menu_add"
+	},
+	{
+		"#text": "No Voice Recordings",
+		"@_name": "message_list_empty_text"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "message_record_hide"
+	},
+	{
+		"#text": "Voice recordings",
+		"@_name": "message_record_log"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "message_record_pause"
+	},
+	{
+		"#text": "Play",
+		"@_name": "message_record_play"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Call animation preview",
+		"@_name": "motion_preview"
+	},
+	{
+		"#text": "Dual SIMs",
+		"@_name": "multi_card_title"
+	},
+	{
+		"#text": "%d contacts including %s",
+		"@_name": "multi_contact_repeat_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d item(s) selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "Select recording",
+		"@_name": "mz_action_bar_select_file_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Basic settings",
+		"@_name": "mz_basic_settings"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mz_call_setting"
+	},
+	{
+		"#text": "Manage contacts",
+		"@_name": "mz_contacts_manager"
+	},
+	{
+		"#text": "Import or export contacts",
+		"@_name": "mz_contacts_manager_summary"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "The SIM card used for last call will still be used by default to return phone calls in call logs.",
+		"@_name": "mz_default_dial_slot_summary"
+	},
+	{
+		"#text": "Edit quick response",
+		"@_name": "mz_edit_quick_responce"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "EEE, d/M/yyyy",
+		"@_name": "mz_numeric_date_format_dmy"
+	},
+	{
+		"#text": "EEE, d/yyyy/M",
+		"@_name": "mz_numeric_date_format_dym"
+	},
+	{
+		"#text": "EEE, M/d/yyyy",
+		"@_name": "mz_numeric_date_format_mdy"
+	},
+	{
+		"#text": "EEE, M/yyyy/d",
+		"@_name": "mz_numeric_date_format_myd"
+	},
+	{
+		"#text": "yyyy/d/M, EEE",
+		"@_name": "mz_numeric_date_format_ydm"
+	},
+	{
+		"#text": "yyyy/M/d, EEE",
+		"@_name": "mz_numeric_date_format_ymd"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "%d new recording(s)",
+		"@_name": "new_call"
+	},
+	{
+		"#text": "%d new message(s)",
+		"@_name": "new_message"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "notification_delete"
+	},
+	{
+		"#text": "Block",
+		"@_name": "notification_filter"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "an hour ago",
+		"@_name": "pattern_a_hour_before"
+	},
+	{
+		"#text": "a minute ago",
+		"@_name": "pattern_a_minute_before"
+	},
+	{
+		"#text": "%-e/%-m",
+		"@_name": "pattern_day_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m %H:%M",
+		"@_name": "pattern_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m %p %I:%M",
+		"@_name": "pattern_day_month_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m/%Y",
+		"@_name": "pattern_day_month_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m/%Y %H:%M",
+		"@_name": "pattern_day_month_year_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%p %I:%M",
+		"@_name": "pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %p %I:%M",
+		"@_name": "pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "pattern_week"
+	},
+	{
+		"#text": "%a %-e/%-m %H:%M",
+		"@_name": "pattern_week_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %p %I:%M",
+		"@_name": "pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %p %I:%M",
+		"@_name": "pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %p %I:%M",
+		"@_name": "pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "pattern_yesterday"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "pause_notification_title"
+	},
+	{
+		"#text": "Call settings",
+		"@_name": "phoneAppLabel_mz"
+	},
+	{
+		"#text": "Now playing",
+		"@_name": "playing_notification_title"
+	},
+	{
+		"#text": "Character limit reached",
+		"@_name": "quick_reply_reach_input_limit"
+	},
+	{
+		"#text": "Save the edited text?",
+		"@_name": "quick_reply_save_alert"
+	},
+	{
+		"#text": "%d contact(s)",
+		"@_name": "record_object_summary"
+	},
+	{
+		"#text": "Calls to record",
+		"@_name": "record_object_title"
+	},
+	{
+		"#text": "Auto-record calls",
+		"@_name": "record_pref_title"
+	},
+	{
+		"#text": "Recording status",
+		"@_name": "record_status_category_title"
+	},
+	{
+		"#text": "Recording",
+		"@_name": "record_title"
+	},
+	{
+		"#text": "An assigned animation already exists. Replace it with \\\"%s\\\"?",
+		"@_name": "repeated_contact_motion_tip"
+	},
+	{
+		"#text": "Call you later.",
+		"@_name": "respond_via_sms_canned_response_meizu_1"
+	},
+	{
+		"#text": "\"Can't talk now. What's the matter?\"",
+		"@_name": "respond_via_sms_canned_response_meizu_2"
+	},
+	{
+		"#text": "\"I can't answer now. Please call me back later.\"",
+		"@_name": "respond_via_sms_canned_response_meizu_3"
+	},
+	{
+		"#text": "Save",
+		"@_name": "save_btn"
+	},
+	{
+		"#text": "Sorry, USB storage is busy.",
+		"@_name": "sdcard_busy_message"
+	},
+	{
+		"#text": "Error with USB storage",
+		"@_name": "sdcard_error_message"
+	},
+	{
+		"#text": "No USB storage mounted",
+		"@_name": "sdcard_missing_message"
+	},
+	{
+		"#text": "No USB storage mounted",
+		"@_name": "sdcard_unavailable"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "SIM 1 -",
+		"@_name": "sim_1"
+	},
+	{
+		"#text": "SIM 2 -",
+		"@_name": "sim_2"
+	},
+	{
+		"#text": "Default network settings",
+		"@_name": "sim_call_default_summary"
+	},
+	{
+		"#text": "Set preferred SIM card",
+		"@_name": "sim_calls_category_title"
+	},
+	{
+		"#text": "None",
+		"@_name": "sim_calls_defaule_name"
+	},
+	{
+		"#text": "Set default SIM card for calls",
+		"@_name": "sim_calls_title"
+	},
+	{
+		"#text": "(SIM %d)",
+		"@_name": "sim_label_as_postfix"
+	},
+	{
+		"#text": "Web call",
+		"@_name": "sip_call"
+	},
+	{
+		"#text": "Blocklist",
+		"@_name": "spam_call_filter_title"
+	},
+	{
+		"#text": "SIM 1 voicemail",
+		"@_name": "speed_card1_voicemail"
+	},
+	{
+		"#text": "SIM 2 voicemail",
+		"@_name": "speed_card2_voicemail"
+	},
+	{
+		"#text": "Speed dial",
+		"@_name": "speed_dail_label"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "speed_dail_remove"
+	},
+	{
+		"#text": "Speed dial",
+		"@_name": "speed_dial"
+	},
+	{
+		"#text": "Add",
+		"@_name": "speed_dial_add"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "speed_voicemail"
+	},
+	{
+		"#text": "Floating button, simple &amp; beautiful",
+		"@_name": "standard_description"
+	},
+	{
+		"#text": "Standard layout",
+		"@_name": "standard_layout"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "%1$d h %2$d m %3$d s",
+		"@_name": "time_hour_format"
+	},
+	{
+		"#text": "%1$d m %2$d s",
+		"@_name": "time_min_format"
+	},
+	{
+		"#text": "%d s",
+		"@_name": "time_sec_format"
+	},
+	{
+		"#text": "Setup failed",
+		"@_name": "toast_set_voicemail_fail"
+	},
+	{
+		"#text": "Unknown number",
+		"@_name": "unknown_number"
+	},
+	{
+		"#text": "Vibrate on connection",
+		"@_name": "vibrate_on_connected_toggle_title"
+	},
+	{
+		"#text": "Vibrate when answered",
+		"@_name": "vibrate_when_answered"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "voice_email_closed"
+	},
+	{
+		"#text": "Invalid number",
+		"@_name": "voice_email_error"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "voice_mail"
+	},
+	{
+		"#text": "Voice recordings",
+		"@_name": "voice_message"
+	},
+	{
+		"#text": "Voice mail",
+		"@_name": "voicemail"
+	},
+	{
+		"#text": "No Voicemail",
+		"@_name": "voicemail_list_empty_text"
+	},
+	{
+		"#text": "Voicemail number",
+		"@_name": "voicemail_number"
+	},
+	{
+		"#text": "Web Call",
+		"@_name": "web_call_title"
+	}
+]

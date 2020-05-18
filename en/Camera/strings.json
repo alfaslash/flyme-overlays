@@ -1,0 +1,3171 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "SD card unavailable",
+		"@_name": "access_sd_fail"
+	},
+	{
+		"#text": "Done",
+		"@_name": "accessibility_review_ok"
+	},
+	{
+		"#text": "Retake",
+		"@_name": "accessibility_review_retake"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "auto"
+	},
+	{
+		"#text": "Flash",
+		"@_name": "auto_flash_on_hint"
+	},
+	{
+		"#text": "com.google.android.material.bottomsheet.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "Camera disabled due to security restrictions",
+		"@_name": "camera_disabled"
+	},
+	{
+		"#text": "The camera is occupied. Please try again later.",
+		"@_name": "cannot_connect_camera"
+	},
+	{
+		"#text": "The camera is occupied. Please restart the phone and try again",
+		"@_name": "cannot_connect_camera_anyway"
+	},
+	{
+		"#text": "Error in camera. Please try again later or restart your phone.",
+		"@_name": "cannot_connect_camera_v2"
+	},
+	{
+		"#text": "\"Can't load image\"",
+		"@_name": "cannot_load_image"
+	},
+	{
+		"#text": "Character limit exceeded %1$d of %2$d",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "Save",
+		"@_name": "crop_save"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Done",
+		"@_name": "descp_accessibility_review_ok"
+	},
+	{
+		"#text": "Retake",
+		"@_name": "descp_accessibility_review_retake"
+	},
+	{
+		"#text": "Capture",
+		"@_name": "descp_capture"
+	},
+	{
+		"#text": "10 seconds",
+		"@_name": "descp_countdown_10s"
+	},
+	{
+		"#text": "3 seconds",
+		"@_name": "descp_countdown_3s"
+	},
+	{
+		"#text": "Close",
+		"@_name": "descp_countdown_close"
+	},
+	{
+		"#text": "Currently in %1s mode",
+		"@_name": "descp_current_mode"
+	},
+	{
+		"#text": "Play",
+		"@_name": "descp_gif_play"
+	},
+	{
+		"#text": "Mode",
+		"@_name": "descp_mode"
+	},
+	{
+		"#text": "Exit mode selection",
+		"@_name": "descp_mode_close"
+	},
+	{
+		"#text": "Cancel record",
+		"@_name": "descp_record_cancel"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "descp_record_pause"
+	},
+	{
+		"#text": "Resume",
+		"@_name": "descp_record_resume"
+	},
+	{
+		"#text": "Take photo",
+		"@_name": "descp_record_shutter"
+	},
+	{
+		"#text": "Start recording",
+		"@_name": "descp_record_start"
+	},
+	{
+		"#text": "Stop recording",
+		"@_name": "descp_record_stop"
+	},
+	{
+		"#text": "Back",
+		"@_name": "descp_setting_back"
+	},
+	{
+		"#text": "20M",
+		"@_name": "descp_smb_20m"
+	},
+	{
+		"#text": "Switch to rear camera",
+		"@_name": "descp_smb_back"
+	},
+	{
+		"#text": "Filter",
+		"@_name": "descp_smb_filter"
+	},
+	{
+		"#text": "Switch to front camera",
+		"@_name": "descp_smb_front"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "descp_smb_setting"
+	},
+	{
+		"#text": "Thumbnail",
+		"@_name": "descp_thumbnail"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dialog_ok"
+	},
+	{
+		"#text": "com.google.android.material.transformation.FabTransformationScrimBehavior",
+		"@_name": "fab_transformation_scrim_behavior"
+	},
+	{
+		"#text": "com.google.android.material.transformation.FabTransformationSheetBehavior",
+		"@_name": "fab_transformation_sheet_behavior"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "This website contains malware. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_COCKHORSE"
+	},
+	{
+		"#text": "Attackers on this website might try to steal your identity and private information, causing privacy compromise, financial loss and other harms. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_DEFAULT_CHEAT"
+	},
+	{
+		"#text": "This website contains a game bot. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_GAMES_HANG"
+	},
+	{
+		"#text": "This website contains deceptive information about making money online. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MAKE_MONEY"
+	},
+	{
+		"#text": "This website has been involved in prize scams or money transfer fraud. Attackers might trick you to provide verification codes and pay \\\"remittance charges\\\". Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MONEY_CHEAT"
+	},
+	{
+		"#text": "This website is a suspicious blog. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MSG_BLOG"
+	},
+	{
+		"#text": "This website contains malicious information, politically incorrect opinions, and other improper content. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MSG_REACTIONARY"
+	},
+	{
+		"#text": "This website might redirect to a suspicious site. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MSG_SHADINESS"
+	},
+	{
+		"#text": "This website is on a private game server. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_PRIVATE_SERVER"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "harm_url_desc_HARM_REGULAR"
+	},
+	{
+		"#text": "This website contains pornographic content. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_SEX"
+	},
+	{
+		"#text": "This website has been involved in malicious or deceptive value-added telecom service. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_SP_SERVICE"
+	},
+	{
+		"#text": "This website has been involved in phishing and account hacking. Attackers might steal your QQ, WeChat and other accounts. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_STEAL_ACCOUNT"
+	},
+	{
+		"#text": "This website has been involved in prize scams. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_TIPS_CHEAT"
+	},
+	{
+		"#text": "This website contains links to another dangerous site. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_TIPS_DEFAULT"
+	},
+	{
+		"#text": "This website might contain potentially risky content. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_UNKNOWN"
+	},
+	{
+		"#text": "Social engineering attack",
+		"@_name": "harm_url_type_EVIL_CHEAT1"
+	},
+	{
+		"#text": "Fraud",
+		"@_name": "harm_url_type_EVIL_CHEAT2"
+	},
+	{
+		"#text": "Fake shopping website",
+		"@_name": "harm_url_type_EVIL_FAULTSALES"
+	},
+	{
+		"#text": "Illegal content",
+		"@_name": "harm_url_type_EVIL_ILLEGALCONTENT"
+	},
+	{
+		"#text": "Gambling website",
+		"@_name": "harm_url_type_EVIL_LOTTERYWEB"
+	},
+	{
+		"#text": "Malicious file",
+		"@_name": "harm_url_type_EVIL_MALICEFILE"
+	},
+	{
+		"#text": "Secure website",
+		"@_name": "harm_url_type_EVIL_NOEVIL"
+	},
+	{
+		"#text": "Risky website",
+		"@_name": "harm_url_type_EVIL_RISKWEB"
+	},
+	{
+		"#text": "Pornographic website",
+		"@_name": "harm_url_type_EVIL_SEXYWEB"
+	},
+	{
+		"#text": "com.google.android.material.behavior.HideBottomViewOnScrollBehavior",
+		"@_name": "hide_bottom_view_on_scroll_behavior"
+	},
+	{
+		"#text": "\"'P'yMMdd-HHmmss\"",
+		"@_name": "image_file_name_format"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "manual_auto_for_special"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Remove %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "Address",
+		"@_name": "mz_address_info_addr"
+	},
+	{
+		"#text": "Birthday",
+		"@_name": "mz_address_info_birthday"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mz_address_info_mail"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "mz_address_info_note"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "mz_address_info_phone"
+	},
+	{
+		"#text": "Title",
+		"@_name": "mz_address_info_title"
+	},
+	{
+		"#text": "Website",
+		"@_name": "mz_address_info_url"
+	},
+	{
+		"#text": "Aicy Camera",
+		"@_name": "mz_aicy_action_bar_title"
+	},
+	{
+		"#text": "Turn on Camera > Settings > AI scene recognition. Aicy auto recognizes portraits, night scenes, blue sky, food and more before each press of the shutter, and selects the best photo for you",
+		"@_name": "mz_aicy_asd_content"
+	},
+	{
+		"#text": "AI Scene Recognition 2.0",
+		"@_name": "mz_aicy_asd_title"
+	},
+	{
+		"#text": "Turn on Camera > Beauty, Aicy will beautify your face according to your gender, age, skin type and skin tone. No need to learn any parameters, you can have a clear and natural selfie",
+		"@_name": "mz_aicy_beauty_content"
+	},
+	{
+		"#text": "AI Beauty 2.0",
+		"@_name": "mz_aicy_beauty_title"
+	},
+	{
+		"#text": "Enable Camera > More > Document adjustment, align the finder frame with the document, slides, documents, etc., and tap the shutter. Aicy will recognize the document area and auto correct it to generate a scanned copy",
+		"@_name": "mz_aicy_document_content"
+	},
+	{
+		"#text": "Document adjustment",
+		"@_name": "mz_aicy_document_title"
+	},
+	{
+		"#text": "Swipe up while viewing the image to see the related people, things, places, etc. that Aicy associates with. Recall each moments of the picture and wake up you memory then",
+		"@_name": "mz_aicy_search_photo_content"
+	},
+	{
+		"#text": "Image Search",
+		"@_name": "mz_aicy_search_photo_title"
+	},
+	{
+		"#text": "\"Turn on Camera > More > Super Night to experience a fascinating night. Display details in dark light by multi-frame merging. It's so easy to have a good shot in the night\"",
+		"@_name": "mz_aicy_super_night_content"
+	},
+	{
+		"#text": "Super Night 2.0",
+		"@_name": "mz_aicy_super_night_title"
+	},
+	{
+		"#text": "\"Enable Gallery > Album Page, Aicy sorts each of your photos, whether it's your friend, pet, or meal.\"",
+		"@_name": "mz_aicy_things_clues_content"
+	},
+	{
+		"#text": "People &amp; Clues albums",
+		"@_name": "mz_aicy_things_clues_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Tap model to interact with it",
+		"@_name": "mz_ar_guide_interact"
+	},
+	{
+		"#text": "Tap and drag with one finger to move model",
+		"@_name": "mz_ar_guide_move"
+	},
+	{
+		"#text": "Slide horizontally with two fingers to rotate model",
+		"@_name": "mz_ar_guide_rotate"
+	},
+	{
+		"#text": "Move two fingers apart/toward to zoom model",
+		"@_name": "mz_ar_guide_scale"
+	},
+	{
+		"#text": "Baidu AI Augmented Reality Support",
+		"@_name": "mz_ar_info_desc"
+	},
+	{
+		"#text": "Copied",
+		"@_name": "mz_bar_code_copy"
+	},
+	{
+		"#text": "Tap to light up",
+		"@_name": "mz_bar_code_flash_tip"
+	},
+	{
+		"#text": "Aim at a QR code or barcode to scan",
+		"@_name": "mz_bar_code_hint"
+	},
+	{
+		"#text": "Scan succeeded, processing",
+		"@_name": "mz_bar_code_hint_success"
+	},
+	{
+		"#text": "￥",
+		"@_name": "mz_bar_code_renminbi"
+	},
+	{
+		"#text": "View contact QR code",
+		"@_name": "mz_barcode_auto_address_book_result_hint"
+	},
+	{
+		"#text": "Open Alipay link",
+		"@_name": "mz_barcode_auto_alipay_result_hint"
+	},
+	{
+		"#text": "Jinri Toutiao",
+		"@_name": "mz_barcode_auto_app_name_article_news"
+	},
+	{
+		"#text": "Watermelon video",
+		"@_name": "mz_barcode_auto_app_name_article_video"
+	},
+	{
+		"#text": "Bilibili",
+		"@_name": "mz_barcode_auto_app_name_bili"
+	},
+	{
+		"#text": "NetEase Music",
+		"@_name": "mz_barcode_auto_app_name_cloud_music"
+	},
+	{
+		"#text": "DingTalk",
+		"@_name": "mz_barcode_auto_app_name_dingtalk"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "mz_barcode_auto_app_name_qq"
+	},
+	{
+		"#text": "Tencent Reading",
+		"@_name": "mz_barcode_auto_app_name_reading"
+	},
+	{
+		"#text": "Taobao",
+		"@_name": "mz_barcode_auto_app_name_taobao"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "mz_barcode_auto_app_name_weibo"
+	},
+	{
+		"#text": "Weibo Lite",
+		"@_name": "mz_barcode_auto_app_name_weibolite"
+	},
+	{
+		"#text": "Zhihu",
+		"@_name": "mz_barcode_auto_app_name_zhihu"
+	},
+	{
+		"#text": "Link",
+		"@_name": "mz_barcode_auto_app_result_hint_end"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mz_barcode_auto_app_result_hint_start"
+	},
+	{
+		"#text": "View calendar QR code",
+		"@_name": "mz_barcode_auto_calendar_result_hint"
+	},
+	{
+		"#text": "View WLAN QR code",
+		"@_name": "mz_barcode_auto_email_result_hint"
+	},
+	{
+		"#text": "View Express barcode",
+		"@_name": "mz_barcode_auto_express_result_hint"
+	},
+	{
+		"#text": "View location QR code",
+		"@_name": "mz_barcode_auto_geo_result_hint"
+	},
+	{
+		"#text": "View book barcode",
+		"@_name": "mz_barcode_auto_isbn_result_hint"
+	},
+	{
+		"#text": "View product barcode",
+		"@_name": "mz_barcode_auto_product_result_hint"
+	},
+	{
+		"#text": "View SMS QR Code",
+		"@_name": "mz_barcode_auto_sms_result_hint"
+	},
+	{
+		"#text": "View phone QR code",
+		"@_name": "mz_barcode_auto_tel_result_hint"
+	},
+	{
+		"#text": "View text QR code",
+		"@_name": "mz_barcode_auto_text_result_hint"
+	},
+	{
+		"#text": "Open web link",
+		"@_name": "mz_barcode_auto_url_result_hint"
+	},
+	{
+		"#text": "Open WeChat link",
+		"@_name": "mz_barcode_auto_wechat_result_hint"
+	},
+	{
+		"#text": "View WLAN QR code",
+		"@_name": "mz_barcode_auto_wifi_result_hint"
+	},
+	{
+		"#text": "Detail",
+		"@_name": "mz_barcode_detail"
+	},
+	{
+		"#text": "Unable to launch the requested app",
+		"@_name": "mz_barcode_intent_failed"
+	},
+	{
+		"#text": "Data source: Smart Snap (kuaipai.cn)",
+		"@_name": "mz_barcode_lingdong"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "mz_barcode_no_network"
+	},
+	{
+		"#text": "No Product Found",
+		"@_name": "mz_barcode_no_response"
+	},
+	{
+		"#text": "Add to calendar",
+		"@_name": "mz_barcode_save_calendar"
+	},
+	{
+		"#text": "Save contact",
+		"@_name": "mz_barcode_save_contact"
+	},
+	{
+		"#text": "Send",
+		"@_name": "mz_barcode_send"
+	},
+	{
+		"#text": "yyyy-MM-dd-HH-mm-ss",
+		"@_name": "mz_burst_folder_name_format"
+	},
+	{
+		"#text": "Processing...",
+		"@_name": "mz_burst_process"
+	},
+	{
+		"#text": "Calendar event",
+		"@_name": "mz_calendar"
+	},
+	{
+		"#text": "Description",
+		"@_name": "mz_calendar_description"
+	},
+	{
+		"#text": "End time",
+		"@_name": "mz_calendar_end"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_calendar_location"
+	},
+	{
+		"#text": "Start time",
+		"@_name": "mz_calendar_start"
+	},
+	{
+		"#text": "Title",
+		"@_name": "mz_calendar_summary"
+	},
+	{
+		"#text": "Can be added as calendar event",
+		"@_name": "mz_calendar_title"
+	},
+	{
+		"#text": "AmazingAR",
+		"@_name": "mz_cam_mode_amazing"
+	},
+	{
+		"#text": "AR Fun",
+		"@_name": "mz_cam_mode_ar"
+	},
+	{
+		"#text": "Photo",
+		"@_name": "mz_cam_mode_auto"
+	},
+	{
+		"#text": "Backlight selfie",
+		"@_name": "mz_cam_mode_back_lighting"
+	},
+	{
+		"#text": "Backtrace",
+		"@_name": "mz_cam_mode_back_trace"
+	},
+	{
+		"#text": "Scan",
+		"@_name": "mz_cam_mode_bar_code"
+	},
+	{
+		"#text": "Document adjustment",
+		"@_name": "mz_cam_mode_document"
+	},
+	{
+		"#text": "Funny Snap",
+		"@_name": "mz_cam_mode_funny_snap"
+	},
+	{
+		"#text": "Tap to download third-party app",
+		"@_name": "mz_cam_mode_funny_snap_faceu_desc"
+	},
+	{
+		"#text": "FaceU AR Camera",
+		"@_name": "mz_cam_mode_funny_snap_faceu_title"
+	},
+	{
+		"#text": "Unable to recognize faces",
+		"@_name": "mz_cam_mode_funny_snap_no_face"
+	},
+	{
+		"#text": "GIF",
+		"@_name": "mz_cam_mode_gif"
+	},
+	{
+		"#text": "Macro",
+		"@_name": "mz_cam_mode_macro"
+	},
+	{
+		"#text": "Makeup",
+		"@_name": "mz_cam_mode_makeup"
+	},
+	{
+		"#text": "Pro",
+		"@_name": "mz_cam_mode_manual"
+	},
+	{
+		"#text": "Panorama",
+		"@_name": "mz_cam_mode_pano"
+	},
+	{
+		"#text": "Portrait",
+		"@_name": "mz_cam_mode_portrait"
+	},
+	{
+		"#text": "Light field",
+		"@_name": "mz_cam_mode_refocus"
+	},
+	{
+		"#text": "Slo-mo",
+		"@_name": "mz_cam_mode_slowmotion"
+	},
+	{
+		"#text": "Square",
+		"@_name": "mz_cam_mode_square"
+	},
+	{
+		"#text": "SuperNight",
+		"@_name": "mz_cam_mode_super_night"
+	},
+	{
+		"#text": "Time-lapse",
+		"@_name": "mz_cam_mode_timelapse"
+	},
+	{
+		"#text": "Black &amp; white",
+		"@_name": "mz_cam_mode_white_black"
+	},
+	{
+		"#text": "10s",
+		"@_name": "mz_countdown_10s"
+	},
+	{
+		"#text": "3s",
+		"@_name": "mz_countdown_3s"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mz_countdown_close"
+	},
+	{
+		"#text": "Your phone is overheating. The processing will slow down in current mode to protect your phone.",
+		"@_name": "mz_cpu_fm_inefficient_toast"
+	},
+	{
+		"#text": "Acquire sound when recording",
+		"@_name": "mz_cta_permission_audio"
+	},
+	{
+		"#text": "Get exact location to record the place",
+		"@_name": "mz_cta_permission_loc"
+	},
+	{
+		"#text": "Get Funny Snap stickers",
+		"@_name": "mz_cta_permission_net"
+	},
+	{
+		"#text": "By your nickname",
+		"@_name": "mz_custom_device_mark_defalut_hint"
+	},
+	{
+		"#text": "Cannot input emoji",
+		"@_name": "mz_custom_device_mark_dialog_error_hint_emoji"
+	},
+	{
+		"#text": "Input should be less than 20 characters",
+		"@_name": "mz_custom_device_mark_dialog_error_hint_length"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_custom_device_mark_dialog_negative"
+	},
+	{
+		"#text": "Save",
+		"@_name": "mz_custom_device_mark_dialog_positive"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Place the document in preview",
+		"@_name": "mz_document_hint"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mz_download"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mz_email"
+	},
+	{
+		"#text": "Send to:",
+		"@_name": "mz_email_sendto_pre"
+	},
+	{
+		"#text": "Express",
+		"@_name": "mz_express"
+	},
+	{
+		"#text": "smart_depth",
+		"@_name": "mz_fb_entryvalue_smart_depth"
+	},
+	{
+		"#text": "smart_mile",
+		"@_name": "mz_fb_entryvalue_smart_mile"
+	},
+	{
+		"#text": "Eye size",
+		"@_name": "mz_fb_eye"
+	},
+	{
+		"#text": "Advanced",
+		"@_name": "mz_fb_manual"
+	},
+	{
+		"#text": "Face width",
+		"@_name": "mz_fb_slime"
+	},
+	{
+		"#text": "Smart",
+		"@_name": "mz_fb_smart"
+	},
+	{
+		"#text": "Depth smart",
+		"@_name": "mz_fb_smart_depth"
+	},
+	{
+		"#text": "Mile smart",
+		"@_name": "mz_fb_smart_mile"
+	},
+	{
+		"#text": "Skin smoothness",
+		"@_name": "mz_fb_smooth"
+	},
+	{
+		"#text": "Skin tone",
+		"@_name": "mz_fb_tone"
+	},
+	{
+		"#text": "YU1",
+		"@_name": "mz_filter_1_key"
+	},
+	{
+		"#text": "yu1",
+		"@_name": "mz_filter_1_title"
+	},
+	{
+		"#text": "mz_yu1",
+		"@_name": "mz_filter_1_value"
+	},
+	{
+		"#text": "YU2",
+		"@_name": "mz_filter_2_key"
+	},
+	{
+		"#text": "yu2",
+		"@_name": "mz_filter_2_title"
+	},
+	{
+		"#text": "mz_yu2",
+		"@_name": "mz_filter_2_value"
+	},
+	{
+		"#text": "YU3",
+		"@_name": "mz_filter_3_key"
+	},
+	{
+		"#text": "yu3",
+		"@_name": "mz_filter_3_title"
+	},
+	{
+		"#text": "mz_yu3",
+		"@_name": "mz_filter_3_value"
+	},
+	{
+		"#text": "SI1",
+		"@_name": "mz_filter_4_key"
+	},
+	{
+		"#text": "si1",
+		"@_name": "mz_filter_4_title"
+	},
+	{
+		"#text": "mz_si1",
+		"@_name": "mz_filter_4_value"
+	},
+	{
+		"#text": "OB1",
+		"@_name": "mz_filter_5_key"
+	},
+	{
+		"#text": "ob1",
+		"@_name": "mz_filter_5_title"
+	},
+	{
+		"#text": "mz_ob1",
+		"@_name": "mz_filter_5_value"
+	},
+	{
+		"#text": "QU1",
+		"@_name": "mz_filter_6_key"
+	},
+	{
+		"#text": "qu1",
+		"@_name": "mz_filter_6_title"
+	},
+	{
+		"#text": "mz_qu1",
+		"@_name": "mz_filter_6_value"
+	},
+	{
+		"#text": "QU2",
+		"@_name": "mz_filter_7_key"
+	},
+	{
+		"#text": "qu2",
+		"@_name": "mz_filter_7_title"
+	},
+	{
+		"#text": "mz_qu2",
+		"@_name": "mz_filter_7_value"
+	},
+	{
+		"#text": "SIL",
+		"@_name": "mz_filter_8_key"
+	},
+	{
+		"#text": "sil",
+		"@_name": "mz_filter_8_title"
+	},
+	{
+		"#text": "mz_sil",
+		"@_name": "mz_filter_8_value"
+	},
+	{
+		"#text": "BLA",
+		"@_name": "mz_filter_9_key"
+	},
+	{
+		"#text": "bla",
+		"@_name": "mz_filter_9_title"
+	},
+	{
+		"#text": "mz_bla",
+		"@_name": "mz_filter_9_value"
+	},
+	{
+		"#text": "NO",
+		"@_name": "mz_filter_none_key"
+	},
+	{
+		"#text": "no",
+		"@_name": "mz_filter_none_title"
+	},
+	{
+		"#text": "mz_no",
+		"@_name": "mz_filter_none_value"
+	},
+	{
+		"#text": "Mirror",
+		"@_name": "mz_forcetouch_item_mirror"
+	},
+	{
+		"#text": "Video",
+		"@_name": "mz_forcetouch_item_video"
+	},
+	{
+		"#text": "\"Tap to try AR Fun's new feature\"",
+		"@_name": "mz_funny_cam_ar_intro_desc"
+	},
+	{
+		"#text": "Download with cellular data?",
+		"@_name": "mz_funny_cam_download_with_mobile_network"
+	},
+	{
+		"#text": "Long press to record video",
+		"@_name": "mz_funny_cam_guide_desc"
+	},
+	{
+		"#text": "Failed to load stickers. Please check network and retry",
+		"@_name": "mz_funny_cam_no_network"
+	},
+	{
+		"#text": "Hot",
+		"@_name": "mz_funny_cam_sticker_category_hot"
+	},
+	{
+		"#text": "My",
+		"@_name": "mz_funny_cam_sticker_category_my"
+	},
+	{
+		"#text": "Slimmer face &amp; bigger eyes: %d%%",
+		"@_name": "mz_funny_cam_thin_face_hint"
+	},
+	{
+		"#text": "Smooth skin: %d%%",
+		"@_name": "mz_funny_cam_whiten_skin_hint"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_geo"
+	},
+	{
+		"#text": "Height:",
+		"@_name": "mz_geo_altitude"
+	},
+	{
+		"#text": "Latitude:",
+		"@_name": "mz_geo_latitude"
+	},
+	{
+		"#text": "Longitude:",
+		"@_name": "mz_geo_longitude"
+	},
+	{
+		"#text": "Crop",
+		"@_name": "mz_gif_crop_title"
+	},
+	{
+		"#text": "Processing...",
+		"@_name": "mz_gif_hint_handling"
+	},
+	{
+		"#text": "Save",
+		"@_name": "mz_gif_ok"
+	},
+	{
+		"#text": "Retake",
+		"@_name": "mz_gif_recapture"
+	},
+	{
+		"#text": "Best focusing distance: within 1.5m",
+		"@_name": "mz_handle_focus_distance_hint"
+	},
+	{
+		"#text": "Best focusing distance: within 2m",
+		"@_name": "mz_handle_integer_focus_distance_hint"
+	},
+	{
+		"#text": "Night scene enhancement",
+		"@_name": "mz_handle_low_night_hint"
+	},
+	{
+		"#text": "Processing %d photos..",
+		"@_name": "mz_handle_picture_hint"
+	},
+	{
+		"#text": "Bokeh",
+		"@_name": "mz_handle_realtime_bokeh_normal_hint"
+	},
+	{
+		"#text": "The environment is too dark",
+		"@_name": "mz_handle_surrounding_dark_hint"
+	},
+	{
+		"#text": "Super Wide/Super Macro mode disabled",
+		"@_name": "mz_hint_close_wideangle"
+	},
+	{
+		"#text": "Telephoto-Lens mode is opened",
+		"@_name": "mz_hint_open_telephoto"
+	},
+	{
+		"#text": "Super Wide/Super Macro mode enabled",
+		"@_name": "mz_hint_open_wideangle"
+	},
+	{
+		"#text": "Click to experience Super Night Photo",
+		"@_name": "mz_hint_supernight_desc"
+	},
+	{
+		"#text": "Tap to experience a larger field of view and a closer distance",
+		"@_name": "mz_hint_wideangle_desc"
+	},
+	{
+		"#text": "Blur:",
+		"@_name": "mz_hint_xuhua"
+	},
+	{
+		"#text": "\"Author: \"",
+		"@_name": "mz_isbn_author"
+	},
+	{
+		"#text": "Price:",
+		"@_name": "mz_isbn_info_price"
+	},
+	{
+		"#text": "\"Publisher: \"",
+		"@_name": "mz_isbn_info_publish"
+	},
+	{
+		"#text": "\"Description: \"",
+		"@_name": "mz_isbn_info_summary"
+	},
+	{
+		"#text": "Book information",
+		"@_name": "mz_isbn_info_title"
+	},
+	{
+		"#text": "Feedback",
+		"@_name": "mz_lab_setting_advice"
+	},
+	{
+		"#text": "You can freeze frame, trace a portrait, and select the best facial expression for each person in the same live photo to get a perfect one.",
+		"@_name": "mz_lab_setting_back_trace_desc"
+	},
+	{
+		"#text": "Try now",
+		"@_name": "mz_lab_setting_enter"
+	},
+	{
+		"#text": "Best focusing distance: within 3cm",
+		"@_name": "mz_macro_focus_distance_hint"
+	},
+	{
+		"#text": "EV",
+		"@_name": "mz_manual_exposure_title"
+	},
+	{
+		"#text": "Infinite",
+		"@_name": "mz_manual_focus_infinite"
+	},
+	{
+		"#text": "Macro",
+		"@_name": "mz_manual_focus_marco"
+	},
+	{
+		"#text": "Standard",
+		"@_name": "mz_manual_focus_standard"
+	},
+	{
+		"#text": "AF/MF",
+		"@_name": "mz_manual_focus_title"
+	},
+	{
+		"#text": "ISO",
+		"@_name": "mz_manual_iso_title"
+	},
+	{
+		"#text": "High",
+		"@_name": "mz_manual_item_high"
+	},
+	{
+		"#text": "Low",
+		"@_name": "mz_manual_item_low"
+	},
+	{
+		"#text": "Medium",
+		"@_name": "mz_manual_item_middle"
+	},
+	{
+		"#text": "Scene",
+		"@_name": "mz_manual_scene_title"
+	},
+	{
+		"#text": "Sports",
+		"@_name": "mz_manual_scenemode_label_action"
+	},
+	{
+		"#text": "Landscape",
+		"@_name": "mz_manual_scenemode_label_landscape"
+	},
+	{
+		"#text": "Night",
+		"@_name": "mz_manual_scenemode_label_night"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "mz_manual_scenemode_label_normal"
+	},
+	{
+		"#text": "Portrait",
+		"@_name": "mz_manual_scenemode_label_portrait"
+	},
+	{
+		"#text": "Sunset",
+		"@_name": "mz_manual_scenemode_label_sunset"
+	},
+	{
+		"#text": "S",
+		"@_name": "mz_manual_shutter_speed_title"
+	},
+	{
+		"#text": "WB",
+		"@_name": "mz_manual_wb_title"
+	},
+	{
+		"#text": "Cloudy",
+		"@_name": "mz_manual_whitebalance_label_cloudy"
+	},
+	{
+		"#text": "Sunny",
+		"@_name": "mz_manual_whitebalance_label_daylight"
+	},
+	{
+		"#text": "Fluorescent",
+		"@_name": "mz_manual_whitebalance_label_fluorescent"
+	},
+	{
+		"#text": "Incandescent",
+		"@_name": "mz_manual_whitebalance_label_incandescent"
+	},
+	{
+		"#text": "Manual metering",
+		"@_name": "mz_meter_separate_title"
+	},
+	{
+		"#text": "Try it now",
+		"@_name": "mz_mode_guide_enter"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "mz_mode_move_btn_edit"
+	},
+	{
+		"#text": "Done",
+		"@_name": "mz_mode_move_btn_finish"
+	},
+	{
+		"#text": "Cannot show on the homepage",
+		"@_name": "mz_mode_move_disable_in_slide_menu_hint"
+	},
+	{
+		"#text": "Drag icon here to show it on the homepage",
+		"@_name": "mz_mode_move_show_in_slide_menu_hint"
+	},
+	{
+		"#text": "Network setting",
+		"@_name": "mz_network_setting"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Tutorial",
+		"@_name": "mz_night_mode_coach_button"
+	},
+	{
+		"#text": "Close AmazingAR ?",
+		"@_name": "mz_online_amazing_ar_close_title"
+	},
+	{
+		"#text": "Turn off Funny Snap Mode will terminate the downloading of stickers",
+		"@_name": "mz_online_funny_close_download_title"
+	},
+	{
+		"#text": "This mode will no longer appear in the camera after closing",
+		"@_name": "mz_online_funny_close_msg"
+	},
+	{
+		"#text": "Turn off Funny Snap Mode ?",
+		"@_name": "mz_online_funny_close_title"
+	},
+	{
+		"#text": "Function management",
+		"@_name": "mz_online_setting_title"
+	},
+	{
+		"#text": "Version: %s",
+		"@_name": "mz_online_version"
+	},
+	{
+		"#text": "Save with this direction up",
+		"@_name": "mz_orientation_hint"
+	},
+	{
+		"#text": "Press shutter and slowly move camera horizontally",
+		"@_name": "mz_pano_hint"
+	},
+	{
+		"#text": "Not moving camera horizontally",
+		"@_name": "mz_pano_hint_off_center"
+	},
+	{
+		"#text": "Saving",
+		"@_name": "mz_pano_hint_saving"
+	},
+	{
+		"#text": "Please keep the arrow on the horizontal line",
+		"@_name": "mz_pano_hint_start_panning"
+	},
+	{
+		"#text": "Please move slowly",
+		"@_name": "mz_pano_hint_too_fast"
+	},
+	{
+		"#text": "Agree",
+		"@_name": "mz_permission_agree"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "Disagree",
+		"@_name": "mz_permission_disagree"
+	},
+	{
+		"#text": "To provide basic services, this app needs to access the following permissions",
+		"@_name": "mz_permission_inform"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)",
+		"@_name": "mz_permission_policy_description"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Permissions and statements",
+		"@_name": "mz_permission_title_terms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "auto",
+		"@_name": "mz_pref_camera_shutter_speed_default"
+	},
+	{
+		"#text": "Meizu Privacy Policy",
+		"@_name": "mz_privacy_policy"
+	},
+	{
+		"#text": "Company:",
+		"@_name": "mz_product_info_factory"
+	},
+	{
+		"#text": "Place of origin:",
+		"@_name": "mz_product_info_origin"
+	},
+	{
+		"#text": "Indicative price:",
+		"@_name": "mz_product_info_price"
+	},
+	{
+		"#text": "Indicative price",
+		"@_name": "mz_product_info_price_new"
+	},
+	{
+		"#text": "Product information",
+		"@_name": "mz_product_info_title"
+	},
+	{
+		"#text": "Specifications:",
+		"@_name": "mz_product_specification"
+	},
+	{
+		"#text": "In-store price:",
+		"@_name": "mz_product_stores_title"
+	},
+	{
+		"#text": "Please exit Recorder first",
+		"@_name": "mz_record_device_occupied"
+	},
+	{
+		"#text": "Video portrait turned off",
+		"@_name": "mz_record_portrait_hint_close"
+	},
+	{
+		"#text": "Video portrait turned on",
+		"@_name": "mz_record_portrait_hint_open"
+	},
+	{
+		"#text": "Saving",
+		"@_name": "mz_recording_save"
+	},
+	{
+		"#text": "Keep camera steady",
+		"@_name": "mz_refocus_hint"
+	},
+	{
+		"#text": "Best capture distance: within 3m",
+		"@_name": "mz_refocus_hint_effect_better"
+	},
+	{
+		"#text": "Processing...",
+		"@_name": "mz_refocus_hint_handling"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Intelligently identify scenes and optimize imaging results",
+		"@_name": "mz_setting_asd_switch_label"
+	},
+	{
+		"#text": "AI scene recognition",
+		"@_name": "mz_setting_asd_switch_title"
+	},
+	{
+		"#text": "The camera auto-recognize the QR code/barcode in viewfinder",
+		"@_name": "mz_setting_barcode_auto_label"
+	},
+	{
+		"#text": "Scan",
+		"@_name": "mz_setting_barcode_auto_switch_title"
+	},
+	{
+		"#text": "Countdown",
+		"@_name": "mz_setting_countdown_title"
+	},
+	{
+		"#text": ", Anti-shake",
+		"@_name": "mz_setting_des_antishake"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_setting_des_devicemark_close"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "mz_setting_des_devicemark_custom"
+	},
+	{
+		"#text": "Default",
+		"@_name": "mz_setting_des_devicemark_default"
+	},
+	{
+		"#text": "、30fps",
+		"@_name": "mz_setting_des_fps_30"
+	},
+	{
+		"#text": "、60fps",
+		"@_name": "mz_setting_des_fps_60"
+	},
+	{
+		"#text": "Device Watermark",
+		"@_name": "mz_setting_devicemark_title"
+	},
+	{
+		"#text": "Need more time to process when enabled",
+		"@_name": "mz_setting_fb_high_picturesize_label"
+	},
+	{
+		"#text": "High-resolution beauty",
+		"@_name": "mz_setting_fb_high_picturesize_title"
+	},
+	{
+		"#text": "High-resolution Funny Snap",
+		"@_name": "mz_setting_funnycam_hd"
+	},
+	{
+		"#text": "Meizu watermark",
+		"@_name": "mz_setting_funnycam_mark_title"
+	},
+	{
+		"#text": "HDR",
+		"@_name": "mz_setting_hdr_title"
+	},
+	{
+		"#text": "Tilt indicator",
+		"@_name": "mz_setting_level_title"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_setting_location_title"
+	},
+	{
+		"#text": "Manual 20M",
+		"@_name": "mz_setting_manual_20m_title"
+	},
+	{
+		"#text": "Manual 48M",
+		"@_name": "mz_setting_manual_48m_title"
+	},
+	{
+		"#text": "Manual 64M",
+		"@_name": "mz_setting_manual_64m_title"
+	},
+	{
+		"#text": "Gridlines",
+		"@_name": "mz_setting_meshline_title"
+	},
+	{
+		"#text": "Auto-reduce noise at low light levels",
+		"@_name": "mz_setting_mfll_lable"
+	},
+	{
+		"#text": "Multi-Frame Low Light Mode",
+		"@_name": "mz_setting_mfll_title"
+	},
+	{
+		"#text": "Save photos mirrored as previewed",
+		"@_name": "mz_setting_mirror_label"
+	},
+	{
+		"#text": "Mirror",
+		"@_name": "mz_setting_mirror_title"
+	},
+	{
+		"#text": "Photo aspect ratio",
+		"@_name": "mz_setting_picture_size_proportion"
+	},
+	{
+		"#text": "Video size",
+		"@_name": "mz_setting_recordsize_title"
+	},
+	{
+		"#text": "Prefer SD card for storage",
+		"@_name": "mz_setting_storage_title"
+	},
+	{
+		"#text": "Date stamp",
+		"@_name": "mz_setting_timemark_title"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mz_setting_title"
+	},
+	{
+		"#text": "Custom device watermark",
+		"@_name": "mz_setting_title_devicemark_custom"
+	},
+	{
+		"#text": "Tripod",
+		"@_name": "mz_setting_tripod_title"
+	},
+	{
+		"#text": "Can record up to 10 min in such size",
+		"@_name": "mz_setting_video_4k_60fps_limit"
+	},
+	{
+		"#text": "\"Say 'Paizhao' or 'Qiezi'\"",
+		"@_name": "mz_setting_voice_action_label"
+	},
+	{
+		"#text": "Voice control",
+		"@_name": "mz_setting_voice_action_title"
+	},
+	{
+		"#text": "Tap secondary display to take photo",
+		"@_name": "mz_setting_watch_capture_title"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "120fps, 1080P",
+		"@_name": "mz_slow_motion_desc_120fps"
+	},
+	{
+		"#text": "240fps, 1080P",
+		"@_name": "mz_slow_motion_desc_240fps"
+	},
+	{
+		"#text": "480fps, 720P",
+		"@_name": "mz_slow_motion_desc_480fps"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "mz_sms"
+	},
+	{
+		"#text": "Send to:",
+		"@_name": "mz_sms_sendto_pre"
+	},
+	{
+		"#text": "Insufficient storage space",
+		"@_name": "mz_space_is_low"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Double tap to exit square mode",
+		"@_name": "mz_square_mode_tip"
+	},
+	{
+		"#text": "Low battery, video recording paused",
+		"@_name": "mz_system_battery_level_low_close_record"
+	},
+	{
+		"#text": "Low battery, dual lens paused",
+		"@_name": "mz_system_battery_level_low_close_stereo"
+	},
+	{
+		"#text": "\"The phone's temperature has reached the limit level. Camera will close.\"",
+		"@_name": "mz_system_temperature_close_camera"
+	},
+	{
+		"#text": "The phone is overheating. Your camera flash will be unavailable.",
+		"@_name": "mz_system_temperature_close_flash"
+	},
+	{
+		"#text": "The phone is overheating. Stop recording.",
+		"@_name": "mz_system_temperature_close_record"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "mz_tel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_temperature_dialog_know"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_temperature_exit_dialog_btn"
+	},
+	{
+		"#text": "The phone is overheating. Please use after cooling.",
+		"@_name": "mz_temperature_recommend_exit_dialog_msg"
+	},
+	{
+		"#text": "Text content",
+		"@_name": "mz_text"
+	},
+	{
+		"#text": "120 sec to 1 sec",
+		"@_name": "mz_time_lapse_desc_120s"
+	},
+	{
+		"#text": "15 sec to 1 sec",
+		"@_name": "mz_time_lapse_desc_15s"
+	},
+	{
+		"#text": "240 sec to 1 sec",
+		"@_name": "mz_time_lapse_desc_240s"
+	},
+	{
+		"#text": "30 sec to 1 sec",
+		"@_name": "mz_time_lapse_desc_30s"
+	},
+	{
+		"#text": "60 sec to 1 sec",
+		"@_name": "mz_time_lapse_desc_60s"
+	},
+	{
+		"#text": "Turn off HD resolution",
+		"@_name": "mz_toggle_hint_20m_close"
+	},
+	{
+		"#text": "Turn on HD resolution",
+		"@_name": "mz_toggle_hint_20m_open"
+	},
+	{
+		"#text": "close 48M",
+		"@_name": "mz_toggle_hint_48m_close"
+	},
+	{
+		"#text": "please keep phone steady when taking photos",
+		"@_name": "mz_toggle_hint_48m_notify"
+	},
+	{
+		"#text": "Countdown 10 seconds",
+		"@_name": "mz_toggle_hint_countdown_10s"
+	},
+	{
+		"#text": "Countdown 3 seconds",
+		"@_name": "mz_toggle_hint_countdown_3s"
+	},
+	{
+		"#text": "Countdown closed",
+		"@_name": "mz_toggle_hint_countdown_off"
+	},
+	{
+		"#text": "Face beauty is off",
+		"@_name": "mz_toggle_hint_fb_close"
+	},
+	{
+		"#text": "Heavily beautified",
+		"@_name": "mz_toggle_hint_fb_depth_beauty"
+	},
+	{
+		"#text": "Lightly beautified",
+		"@_name": "mz_toggle_hint_fb_mild_beauty"
+	},
+	{
+		"#text": "Baby recognized. Flash mode not recommended.",
+		"@_name": "mz_toggle_hint_flash_asd_infant"
+	},
+	{
+		"#text": "Auto flash is on",
+		"@_name": "mz_toggle_hint_flash_auto"
+	},
+	{
+		"#text": "Flash is off",
+		"@_name": "mz_toggle_hint_flash_close"
+	},
+	{
+		"#text": "Baby recognized and flash turned off",
+		"@_name": "mz_toggle_hint_flash_close_infant"
+	},
+	{
+		"#text": "Flash is on",
+		"@_name": "mz_toggle_hint_flash_open"
+	},
+	{
+		"#text": "Flash is always on",
+		"@_name": "mz_toggle_hint_flash_torch"
+	},
+	{
+		"#text": "Auto-HDR enabled",
+		"@_name": "mz_toggle_hint_hdr_auto"
+	},
+	{
+		"#text": "HDR is off",
+		"@_name": "mz_toggle_hint_hdr_close"
+	},
+	{
+		"#text": "HDR is on",
+		"@_name": "mz_toggle_hint_hdr_open"
+	},
+	{
+		"#text": "It is suitable for capturing in bright environments when %1$dM on",
+		"@_name": "mz_toggle_hint_high_size_notify2"
+	},
+	{
+		"#text": "Close Tripod Optimization",
+		"@_name": "mz_toggle_hint_tripod_close"
+	},
+	{
+		"#text": "Open Tripod Optimization",
+		"@_name": "mz_toggle_hint_tripod_open"
+	},
+	{
+		"#text": "Charging, flash is unavailable",
+		"@_name": "mz_usb_charge_forbid_use_flash"
+	},
+	{
+		"#text": "User Agreement",
+		"@_name": "mz_user_agreement"
+	},
+	{
+		"#text": "Slide down to show all modes",
+		"@_name": "mz_user_guide"
+	},
+	{
+		"#text": "Level %1$d beautification",
+		"@_name": "mz_watch_beauty_level"
+	},
+	{
+		"#text": "Camera is being used on the secondary display. Please try again later.",
+		"@_name": "mz_watch_cannot_connect_camera"
+	},
+	{
+		"#text": "\"Camera is being used. \nPlease close it on primary\n screen and try again.\"",
+		"@_name": "mz_watch_main_camera_occupied"
+	},
+	{
+		"#text": "Please operate on primary screen",
+		"@_name": "mz_watch_mapping_operate_hint"
+	},
+	{
+		"#text": "Original",
+		"@_name": "mz_watch_mode_auto"
+	},
+	{
+		"#text": "Beauty",
+		"@_name": "mz_watch_mode_facebeauty"
+	},
+	{
+		"#text": "Blur",
+		"@_name": "mz_watch_mode_stereo"
+	},
+	{
+		"#text": "\"Mapping unsupported\n in this mode\"",
+		"@_name": "mz_watch_not_support_mapping"
+	},
+	{
+		"#text": "Swipe up or down to exit",
+		"@_name": "mz_watch_slide_hint"
+	},
+	{
+		"#text": "\"Can't launch Camera due to\n insufficient storage space\"",
+		"@_name": "mz_watch_spaceIsLow_content"
+	},
+	{
+		"#text": "\"The phone's temperature\n has reached the limit level.\n Camera will close.\"",
+		"@_name": "mz_watch_system_temperature_close_camera"
+	},
+	{
+		"#text": "Secondary display is off",
+		"@_name": "mz_watch_turn_off"
+	},
+	{
+		"#text": "Secondary display is on",
+		"@_name": "mz_watch_turn_on"
+	},
+	{
+		"#text": "\"Please wait for\n the main screen camera\n to complete\"",
+		"@_name": "mz_watch_waiting_settings"
+	},
+	{
+		"#text": "Photo processing",
+		"@_name": "mz_watch_waiting_take_photo"
+	},
+	{
+		"#text": "Burst shooting unsupported in Super Wide/Super Macro mode",
+		"@_name": "mz_wide_angle_not_support_burst"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "WLAN hotspot",
+		"@_name": "mz_wifi"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "mz_wifi_connet"
+	},
+	{
+		"#text": "Failed to connect",
+		"@_name": "mz_wifi_connet_fail"
+	},
+	{
+		"#text": "Connected",
+		"@_name": "mz_wifi_conneted"
+	},
+	{
+		"#text": "Connecting",
+		"@_name": "mz_wifi_conneting"
+	},
+	{
+		"#text": "Video recording is paused in screen casting",
+		"@_name": "mz_wifi_display_close_record"
+	},
+	{
+		"#text": "Encryption type:",
+		"@_name": "mz_wifi_encription"
+	},
+	{
+		"#text": "Password:",
+		"@_name": "mz_wifi_password_pre"
+	},
+	{
+		"#text": "Hotspot name",
+		"@_name": "mz_wifi_title"
+	},
+	{
+		"#text": "1x",
+		"@_name": "mz_zoom_indicator_1x"
+	},
+	{
+		"#text": "2x",
+		"@_name": "mz_zoom_indicator_2x"
+	},
+	{
+		"#text": "3x",
+		"@_name": "mz_zoom_indicator_3x"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Insert SD card to use camera",
+		"@_name": "no_storage"
+	},
+	{
+		"#text": "Not selectable in scene mode.",
+		"@_name": "not_selectable_in_scene_mode"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "off",
+		"@_name": "pref_camera_flashmode_default"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "pref_camera_flashmode_entry_auto"
+	},
+	{
+		"#text": "Off",
+		"@_name": "pref_camera_flashmode_entry_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "pref_camera_flashmode_entry_on"
+	},
+	{
+		"#text": "Torch",
+		"@_name": "pref_camera_flashmode_entry_torch"
+	},
+	{
+		"#text": "Flash mode",
+		"@_name": "pref_camera_flashmode_title"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "pref_camera_hdr_entry_auto"
+	},
+	{
+		"#text": "Off",
+		"@_name": "pref_camera_hdr_entry_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "pref_camera_hdr_entry_on"
+	},
+	{
+		"#text": "Off",
+		"@_name": "pref_camera_manual_20m_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "pref_camera_manual_20m_on"
+	},
+	{
+		"#text": "Off",
+		"@_name": "pref_camera_manual_48m_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "pref_camera_manual_48m_on"
+	},
+	{
+		"#text": "auto",
+		"@_name": "pref_camera_scenemode_default"
+	},
+	{
+		"#text": "Camera settings",
+		"@_name": "pref_camera_settings_category"
+	},
+	{
+		"#text": "0.5s",
+		"@_name": "pref_camera_timelapse_default"
+	},
+	{
+		"#text": "0.5s",
+		"@_name": "pref_camera_timelapse_entry_0.5s"
+	},
+	{
+		"#text": "1s",
+		"@_name": "pref_camera_timelapse_entry_1s"
+	},
+	{
+		"#text": "2s",
+		"@_name": "pref_camera_timelapse_entry_2s"
+	},
+	{
+		"#text": "4s",
+		"@_name": "pref_camera_timelapse_entry_4s"
+	},
+	{
+		"#text": "8s",
+		"@_name": "pref_camera_timelapse_entry_8s"
+	},
+	{
+		"#text": "TimeLapse mode",
+		"@_name": "pref_camera_timelapse_title"
+	},
+	{
+		"#text": 0,
+		"@_name": "pref_camera_timer_default"
+	},
+	{
+		"#text": "on",
+		"@_name": "pref_camera_timer_sound_default"
+	},
+	{
+		"#text": "Off",
+		"@_name": "pref_camera_toggle_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "pref_camera_toggle_on"
+	},
+	{
+		"#text": "Off",
+		"@_name": "pref_camera_tripod_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "pref_camera_tripod_on"
+	},
+	{
+		"#text": "off",
+		"@_name": "pref_video_flashmode_default"
+	},
+	{
+		"#text": 3,
+		"@_name": "pref_watch_camera_timer_default"
+	},
+	{
+		"#text": "Preparing SD card…",
+		"@_name": "preparing_sd"
+	},
+	{
+		"#text": "Continue Anyway",
+		"@_name": "qr_code_result_insist_access"
+	},
+	{
+		"#text": "Secure website",
+		"@_name": "qr_code_result_security_title"
+	},
+	{
+		"#text": "Powered by Tencent",
+		"@_name": "qr_code_result_supporter"
+	},
+	{
+		"#text": "\"Security couldn't detect this website because the phone is disconnected from the internet. It's recommended that you check the credibility of this site.\"",
+		"@_name": "qr_code_result_unknown_cause_net_desc"
+	},
+	{
+		"#text": "\"The security of this website is unknown. It's suggested that you check the credibility of this site.\"",
+		"@_name": "qr_code_result_unknown_desc"
+	},
+	{
+		"#text": "Security is unknown",
+		"@_name": "qr_code_result_unknown_title"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Select image",
+		"@_name": "select_image"
+	},
+	{
+		"#text": "auto",
+		"@_name": "setting_auto_value"
+	},
+	{
+		"#text": "custom",
+		"@_name": "setting_custom_value"
+	},
+	{
+		"#text": "off",
+		"@_name": "setting_off_value"
+	},
+	{
+		"#text": "on",
+		"@_name": "setting_on_value"
+	},
+	{
+		"#text": "sdcard",
+		"@_name": "setting_storage_value"
+	},
+	{
+		"#text": "Setting wallpaper",
+		"@_name": "setting_wallpaper"
+	},
+	{
+		"#text": "Share",
+		"@_name": "share"
+	},
+	{
+		"#text": "\"Can't launch Camera due to insufficient storage space\"",
+		"@_name": "spaceIsLow_content"
+	},
+	{
+		"#text": "Internal storage is full. Prefer SD card for storage?",
+		"@_name": "spaceIsLow_use_sdcard"
+	},
+	{
+		"#text": "Photos will be stored on internal storage when SD card is full.",
+		"@_name": "spaceIsLow_use_storage"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Storage space error. Please try again later",
+		"@_name": "storage_unmounted"
+	},
+	{
+		"#text": "输入内容",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Video",
+		"@_name": "video_camera_label"
+	},
+	{
+		"#text": "\"Can't play video\"",
+		"@_name": "video_err"
+	},
+	{
+		"#text": "\"'V'yMMdd-HHmmss\"",
+		"@_name": "video_file_name_format"
+	},
+	{
+		"#text": "Size limit reached",
+		"@_name": "video_reach_size_limit"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	}
+]

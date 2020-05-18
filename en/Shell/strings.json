@@ -1,0 +1,90 @@
+[
+	{
+		"#text": "Shell",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Bug report #%d is being generated",
+		"@_name": "bugreport_in_progress_title"
+	},
+	{
+		"#text": "Bug report #%d captured",
+		"@_name": "bugreport_finished_title"
+	},
+	{
+		"#text": "Adding details to the bug report",
+		"@_name": "bugreport_updating_title"
+	},
+	{
+		"#text": "Please wait…",
+		"@_name": "bugreport_updating_wait"
+	},
+	{
+		"#text": "Tap to share your bug report",
+		"@_name": "bugreport_finished_text"
+	},
+	{
+		"#text": "Tap to share your bug report without a screenshot or wait for the screenshot to finish",
+		"@_name": "bugreport_finished_pending_screenshot_text"
+	},
+	{
+		"#text": "\"Bug reports contain data from the system's various log files, which may include data you consider sensitive (such as app-usage and location data). Only share bug reports with people and apps you trust.\"",
+		"@_name": "bugreport_confirm"
+	},
+	{
+		"#text": "\"Don't show again\"",
+		"@_name": "bugreport_confirm_dont_repeat"
+	},
+	{
+		"#text": "Bug reports",
+		"@_name": "bugreport_storage_title"
+	},
+	{
+		"#text": "Bug report file could not be read",
+		"@_name": "bugreport_unreadable_text"
+	},
+	{
+		"#text": "\"Couldn't add bug report details to zip file\"",
+		"@_name": "bugreport_add_details_to_zip_failed"
+	},
+	{
+		"#text": "unnamed",
+		"@_name": "bugreport_unnamed"
+	},
+	{
+		"#text": "Details",
+		"@_name": "bugreport_info_action"
+	},
+	{
+		"#text": "Screenshot",
+		"@_name": "bugreport_screenshot_action"
+	},
+	{
+		"#text": "Screenshot taken successfully.",
+		"@_name": "bugreport_screenshot_taken"
+	},
+	{
+		"#text": "Screenshot could not be taken.",
+		"@_name": "bugreport_screenshot_failed"
+	},
+	{
+		"#text": "Bug report #%d details",
+		"@_name": "bugreport_info_dialog_title"
+	},
+	{
+		"#text": "Filename",
+		"@_name": "bugreport_info_name"
+	},
+	{
+		"#text": "Bug title",
+		"@_name": "bugreport_info_title"
+	},
+	{
+		"#text": "Bug summary",
+		"@_name": "bugreport_info_description"
+	},
+	{
+		"#text": "Save",
+		"@_name": "save"
+	}
+]

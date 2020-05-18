@@ -1,0 +1,899 @@
+[
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled from Favorite",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel like",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite status",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "Days After",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "Days Before",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Update File",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Go refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Call",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/Calling Record",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Calling Record",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "MusicFX",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "&lt;",
+		"@_name": "str_back"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "str_custom"
+	},
+	{
+		"#text": "Pop",
+		"@_name": "str_pop"
+	},
+	{
+		"#text": "Rock",
+		"@_name": "str_rock"
+	},
+	{
+		"#text": "Classic",
+		"@_name": "str_classical"
+	},
+	{
+		"#text": "Bass",
+		"@_name": "str_bass"
+	},
+	{
+		"#text": "Jazz",
+		"@_name": "str_jazz"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "str_reset"
+	},
+	{
+		"#text": "Original",
+		"@_name": "str_original_16sp"
+	},
+	{
+		"#text": "No sound effects",
+		"@_name": "str_original_12sp"
+	},
+	{
+		"#text": "3D sound effects",
+		"@_name": "str_3d_16sp"
+	},
+	{
+		"#text": "Surround-sound",
+		"@_name": "str_3d_12sp"
+	},
+	{
+		"#text": "Power Bass",
+		"@_name": "str_bass_16sp"
+	},
+	{
+		"#text": "Excellent subwoofer",
+		"@_name": "str_bass_12sp"
+	},
+	{
+		"#text": "Pure Voice",
+		"@_name": "str_pure_voice_16sp"
+	},
+	{
+		"#text": "Pristine &amp; natural",
+		"@_name": "str_pure_voice_12sp"
+	},
+	{
+		"#text": "Live Music",
+		"@_name": "str_env_16sp"
+	},
+	{
+		"#text": "Immersive Experience",
+		"@_name": "str_env_12sp"
+	},
+	{
+		"#text": "More Effects",
+		"@_name": "str_more_effect_16sp"
+	},
+	{
+		"#text": "Coming soon",
+		"@_name": "str_more_effect_12sp"
+	},
+	{
+		"#text": "\"Square Sound is co-developed by Meizu and national top acoustic team\nto offer an excellent hearing experience\"",
+		"@_name": "str_tag_enabled"
+	},
+	{
+		"#text": "\"Square Sound is co-developed by Meizu and national top acoustic team\nto offer an excellent hearing experience (headphones needed)\"",
+		"@_name": "str_tag_disabled"
+	},
+	{
+		"#text": "When equalizer switched on Square Sound will be switched off",
+		"@_name": "str_alert_dialog_square_sound"
+	},
+	{
+		"#text": "To enable Square Sound effect headphones are required",
+		"@_name": "str_alert_dialog_square_sound_no_use_heaset"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "str_got_it"
+	},
+	{
+		"#text": "Effects not available.",
+		"@_name": "no_effects"
+	},
+	{
+		"#text": "Audio effects",
+		"@_name": "main_toggle_effects_title"
+	},
+	{
+		"#text": "Equalizer",
+		"@_name": "eq_dialog_title"
+	},
+	{
+		"#text": "Insert earphone for those great sound effects",
+		"@_name": "headset_plug"
+	},
+	{
+		"#text": "Bass boost",
+		"@_name": "bass_boost_strength"
+	},
+	{
+		"#text": "3D sound effect",
+		"@_name": "virtualizer_strength"
+	},
+	{
+		"#text": "Reverb:",
+		"@_name": "pr_title"
+	},
+	{
+		"#text": "Additional room reverberation effects",
+		"@_name": "pr_summary"
+	},
+	{
+		"#text": "Reverb preset",
+		"@_name": "pr_dialog_title"
+	},
+	{
+		"#text": "Setup",
+		"@_name": "setup"
+	},
+	{
+		"#text": "FX booster",
+		"@_name": "ci_extreme"
+	},
+	{
+		"#text": "User",
+		"@_name": "user"
+	},
+	{
+		"#text": "Other",
+		"@_name": "other_headset"
+	},
+	{
+		"#text": "Music effects control panel",
+		"@_name": "picker_title"
+	},
+	{
+		"#text": "EP20",
+		"@_name": "ep20_headset"
+	},
+	{
+		"#text": "EP20S",
+		"@_name": "ep20s_headset"
+	},
+	{
+		"#text": "EP21",
+		"@_name": "ep21_headset"
+	},
+	{
+		"#text": "EP30",
+		"@_name": "ep30_headset"
+	},
+	{
+		"#text": "EP40",
+		"@_name": "ep40_headset"
+	},
+	{
+		"#text": "EarPods",
+		"@_name": "earpods_headset"
+	},
+	{
+		"#text": "Audio Technica ATHES7",
+		"@_name": "es7_headset"
+	},
+	{
+		"#text": "Audio Technica CKM500",
+		"@_name": "ckm500_headset"
+	},
+	{
+		"#text": "Sennheiser CX200",
+		"@_name": "cx200_headset"
+	},
+	{
+		"#text": "Sennheiser IE8I",
+		"@_name": "ie8i_headset"
+	},
+	{
+		"#text": "Use equalizer",
+		"@_name": "use_eq"
+	},
+	{
+		"#text": "Please insert earphone",
+		"@_name": "eq_enable_tip"
+	},
+	{
+		"#text": "Earphones are required to use this feature.",
+		"@_name": "headset"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "reseteq"
+	},
+	{
+		"#text": "Pop",
+		"@_name": "pop"
+	},
+	{
+		"#text": "Metal",
+		"@_name": "metal"
+	},
+	{
+		"#text": "Rock",
+		"@_name": "rock"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "custom"
+	},
+	{
+		"#text": "Classic",
+		"@_name": "classic"
+	},
+	{
+		"#text": "Bass",
+		"@_name": "bass"
+	},
+	{
+		"#text": "1K",
+		"@_name": "seekbar_1KHz"
+	},
+	{
+		"#text": "4K",
+		"@_name": "seekbar_4KHz"
+	},
+	{
+		"#text": 29,
+		"@_name": "seekbar_100Hz"
+	},
+	{
+		"#text": 237,
+		"@_name": "seekbar_500Hz"
+	},
+	{
+		"#text": "15K",
+		"@_name": "seekbar_16KHz"
+	},
+	{
+		"#text": 59,
+		"@_name": "seekbar_200Hz"
+	},
+	{
+		"#text": 119,
+		"@_name": "seekbar_350Hz"
+	},
+	{
+		"#text": 474,
+		"@_name": "seekbar_750Hz"
+	},
+	{
+		"#text": "2K",
+		"@_name": "seekbar_2KHz"
+	},
+	{
+		"#text": "8K",
+		"@_name": "seekbar_8KHz"
+	},
+	{
+		"#text": "Close",
+		"@_name": "close"
+	},
+	{
+		"#text": "Live Music",
+		"@_name": "str_live"
+	},
+	{
+		"#text": 100,
+		"@_name": "hundred"
+	},
+	{
+		"#text": "4K",
+		"@_name": "fourk"
+	},
+	{
+		"#text": "3D",
+		"@_name": "str_3D"
+	},
+	{
+		"#text": "Pure Voice",
+		"@_name": "str_human_voice"
+	},
+	{
+		"#text": "BASS",
+		"@_name": "str_Bass"
+	},
+	{
+		"#text": "More Sound Effects",
+		"@_name": "str_more"
+	},
+	{
+		"#text": "16K",
+		"@_name": "sixteenk"
+	},
+	{
+		"#text": 500,
+		"@_name": "five_hundred"
+	},
+	{
+		"#text": "1K",
+		"@_name": "onek"
+	},
+	{
+		"#text": "Equalizer",
+		"@_name": "str_eq"
+	},
+	{
+		"#text": "No Longer Prompt",
+		"@_name": "no_longer_prompt"
+	}
+]

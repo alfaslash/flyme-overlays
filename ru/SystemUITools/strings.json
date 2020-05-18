@@ -1,0 +1,2235 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "abc_action_bar_home_description_format"
+	},
+	{
+		"#text": "%1$s, %2$s, %3$s",
+		"@_name": "abc_action_bar_home_subtitle_description_format"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Вид навигации",
+		"@_name": "action_bar_tile"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Инструменты системы",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Anti-addiction not enabled",
+		"@_name": "childmode_not_open"
+	},
+	{
+		"#text": "Error getting data. Please make sure that networks of both parties were connected.",
+		"@_name": "childmode_pull_data_errot"
+	},
+	{
+		"#text": "Refresh now",
+		"@_name": "childmode_refresh_data"
+	},
+	{
+		"#text": "All apps",
+		"@_name": "childmode_setting_all_apps_time"
+	},
+	{
+		"#text": "Anti-addiction",
+		"@_name": "childmode_setting_breaking_scam"
+	},
+	{
+		"#text": "8 min",
+		"@_name": "childmode_setting_eight_min"
+	},
+	{
+		"#text": "App auto-exit in %1$d sec",
+		"@_name": "childmode_setting_force_quit_count_down"
+	},
+	{
+		"#text": "Forced-exit if restricted apps timed out",
+		"@_name": "childmode_setting_forced_timeout_exit"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_has_limited_apps"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_imited_apps_time"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_limit_app_str"
+	},
+	{
+		"#text": "Manage restricted apps",
+		"@_name": "childmode_setting_limited_apps_manage"
+	},
+	{
+		"#text": "Daily quota",
+		"@_name": "childmode_setting_limited_time_every_day"
+	},
+	{
+		"#text": "Unrestricted apps",
+		"@_name": "childmode_setting_no_limited_apps"
+	},
+	{
+		"#text": "Overused-alert only when closed",
+		"@_name": "childmode_setting_notification_sent_to_me_if_closed"
+	},
+	{
+		"#text": "Restricted apps",
+		"@_name": "childmode_setting_numbers_of_limited_apps"
+	},
+	{
+		"#text": "Quota on restricted apps",
+		"@_name": "childmode_setting_numbers_of_using_limited_apps"
+	},
+	{
+		"#text": "1 h",
+		"@_name": "childmode_setting_one_hours"
+	},
+	{
+		"#text": "Remaining: %1$s",
+		"@_name": "childmode_setting_remain_app_time"
+	},
+	{
+		"#text": "Time remained",
+		"@_name": "childmode_setting_remain_app_time_msg"
+	},
+	{
+		"#text": "Rest day",
+		"@_name": "childmode_setting_reset_day"
+	},
+	{
+		"#text": "7 min",
+		"@_name": "childmode_setting_seven_min"
+	},
+	{
+		"#text": "6 min",
+		"@_name": "childmode_setting_six_min"
+	},
+	{
+		"#text": "3 h",
+		"@_name": "childmode_setting_three_hours"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "childmode_setting_time_none"
+	},
+	{
+		"#text": "Unlimited time",
+		"@_name": "childmode_setting_time_unlimited"
+	},
+	{
+		"#text": "Totally banned",
+		"@_name": "childmode_setting_totally_prohibited"
+	},
+	{
+		"#text": "2 h",
+		"@_name": "childmode_setting_two_hours"
+	},
+	{
+		"#text": "Без ограничения",
+		"@_name": "childmode_setting_unlimited"
+	},
+	{
+		"#text": "Today %1$s",
+		"@_name": "childmode_setting_usage_app_item_today_time_msg"
+	},
+	{
+		"#text": "Past 7 days %1$s",
+		"@_name": "childmode_setting_usage_app_item_week_time_msg"
+	},
+	{
+		"#text": "Available today: %1$s",
+		"@_name": "childmode_setting_usage_app_time"
+	},
+	{
+		"#text": "Applied",
+		"@_name": "childmode_setting_usage_app_time_msg"
+	},
+	{
+		"#text": "Usage",
+		"@_name": "childmode_setting_usage_statistics"
+	},
+	{
+		"#text": "Used in 7 days",
+		"@_name": "childmode_setting_use_rankings_seven_days"
+	},
+	{
+		"#text": "Daily usage",
+		"@_name": "childmode_setting_use_rankings_today"
+	},
+	{
+		"#text": "Usage in past 7 days",
+		"@_name": "childmode_setting_use_time_week"
+	},
+	{
+		"#text": "School day",
+		"@_name": "childmode_setting_work_days"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "childmode_settings_apps_loading"
+	},
+	{
+		"#text": "Daily",
+		"@_name": "childmode_settings_chart_record_today"
+	},
+	{
+		"#text": "Last 7 days",
+		"@_name": "childmode_settings_chart_record_week"
+	},
+	{
+		"#text": "\" d\"",
+		"@_name": "childmode_settings_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "childmode_settings_dialog_ok"
+	},
+	{
+		"#text": "Overused-alert only when closed. With no forced-exit.",
+		"@_name": "childmode_settings_force_quit_msg"
+	},
+	{
+		"#text": "h",
+		"@_name": "childmode_settings_hour"
+	},
+	{
+		"#text": "Restricted apps exited. All restricted apps are unavailable today",
+		"@_name": "childmode_settings_limit_quit_can_not_use"
+	},
+	{
+		"#text": "Network exception, tap to reload",
+		"@_name": "childmode_settings_loading_fail"
+	},
+	{
+		"#text": "min",
+		"@_name": "childmode_settings_minute"
+	},
+	{
+		"#text": "Overused",
+		"@_name": "childmode_settings_overtime_use"
+	},
+	{
+		"#text": "s",
+		"@_name": "childmode_settings_second"
+	},
+	{
+		"#text": "Timed out",
+		"@_name": "childmode_settings_time_out"
+	},
+	{
+		"#text": "Restricted apps unavailable today",
+		"@_name": "childmode_settings_today_can_not_use"
+	},
+	{
+		"#text": "Restricted apps daily quota run out",
+		"@_name": "childmode_settings_today_no_time"
+	},
+	{
+		"#text": "Restricted apps daily quota remaining",
+		"@_name": "childmode_settings_today_remainder_time"
+	},
+	{
+		"#text": "Restricted apps are still in use after timed out",
+		"@_name": "childmode_settings_use_time_out_msg"
+	},
+	{
+		"#text": "Timed out",
+		"@_name": "childmode_settings_use_time_out_title"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Аудио DingTalk",
+		"@_name": "dingtalk_audio"
+	},
+	{
+		"#text": "Видео DingTalk",
+		"@_name": "dingtalk_video"
+	},
+	{
+		"#text": "Driving Mode",
+		"@_name": "drivemode"
+	},
+	{
+		"#text": "Принять",
+		"@_name": "drivemode_agree"
+	},
+	{
+		"#text": "Активация режима вождения при Bluetooth-соединении",
+		"@_name": "drivemode_auto_enter_drivemode_when_conn_bluetooth"
+	},
+	{
+		"#text": "Подключение Bluetooth-устройства",
+		"@_name": "drivemode_conn_your_bluetooth"
+	},
+	{
+		"#text": "Bluetooth-устройства:",
+		"@_name": "drivemode_current_car_bluetooth_device"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "drivemode_disagree"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "drivemode_exchange"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "drivemode_exit"
+	},
+	{
+		"#text": "Голосовые оповещения",
+		"@_name": "drivemode_introduction_one"
+	},
+	{
+		"#text": "Оповещение о входящем вызове, ответ или сброс звонка",
+		"@_name": "drivemode_introduction_one_details"
+	},
+	{
+		"#text": "Автозапуск при начале поездки",
+		"@_name": "drivemode_introduction_three"
+	},
+	{
+		"#text": "Активация режима вождения при сопряжении с Bluetooth-устройством автомобиля",
+		"@_name": "drivemode_introduction_three_details"
+	},
+	{
+		"#text": "Фокусировка внимания",
+		"@_name": "drivemode_introduction_two"
+	},
+	{
+		"#text": "Блокировка всех уведомлений и оповещений, кроме входящих вызовов",
+		"@_name": "drivemode_introduction_two_details"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "drivemode_jump"
+	},
+	{
+		"#text": "Выбор устройств",
+		"@_name": "drivemode_next_step"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "drivemode_noti_runing_close"
+	},
+	{
+		"#text": "Read out incoming call numbers. Block unimportant notifications",
+		"@_name": "drivemode_noti_runing_text"
+	},
+	{
+		"#text": "Driving mode is on",
+		"@_name": "drivemode_noti_runing_title"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "drivemode_noti_welcome_ignore"
+	},
+	{
+		"#text": "Start",
+		"@_name": "drivemode_noti_welcome_start"
+	},
+	{
+		"#text": "Smarter, more convenient and personalized driving experience",
+		"@_name": "drivemode_noti_welcome_text"
+	},
+	{
+		"#text": "Invite you to experience driving mode",
+		"@_name": "drivemode_noti_welcome_title"
+	},
+	{
+		"#text": "Это режим вождения",
+		"@_name": "drivemode_notify_channel_description"
+	},
+	{
+		"#text": "ID режима вождения",
+		"@_name": "drivemode_notify_channel_id"
+	},
+	{
+		"#text": "Канал режима вождения",
+		"@_name": "drivemode_notify_channel_name"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "drivemode_open"
+	},
+	{
+		"#text": "Автоматически включать точку доступа Wi-Fi при активации режима вождения",
+		"@_name": "drivemode_settings_auto_share_wifi_tips"
+	},
+	{
+		"#text": "Точка доступа",
+		"@_name": "drivemode_settings_auto_shared_wifi"
+	},
+	{
+		"#text": "Отключить блокировку экрана",
+		"@_name": "drivemode_settings_auto_unlock"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "drivemode_settings_auto_unlock_close"
+	},
+	{
+		"#text": "\"После активации режима вождения, экран телефона не будет блокироваться даже после его автоотключения или нажатия кн. питания.\nДважды нажмитие на экран или нажмите кн. питания чтобы включить подсветку снова.\nВыход из режима вождения вернет настройки блокировки на значения по умолчанию\"",
+		"@_name": "drivemode_settings_auto_unlock_introduce_small_title"
+	},
+	{
+		"#text": "Отключить автоблокировку экрана",
+		"@_name": "drivemode_settings_auto_unlock_introduce_title"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "drivemode_settings_auto_unlock_open"
+	},
+	{
+		"#text": "Не блокировать экран в режиме вождения",
+		"@_name": "drivemode_settings_auto_unlock_tips"
+	},
+	{
+		"#text": "Автозапуск",
+		"@_name": "drivemode_settings_bluetooth_start"
+	},
+	{
+		"#text": "Активировать режим вождения при сопряжении с Bluetooth-устройством",
+		"@_name": "drivemode_settings_bluetooth_start＿tips"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "drivemode_settings_company"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "drivemode_settings_company_tips"
+	},
+	{
+		"#text": "Режим вождения",
+		"@_name": "drivemode_settings_drivemode"
+	},
+	{
+		"#text": "Bluetooth-устройства",
+		"@_name": "drivemode_settings_drivemode_devices"
+	},
+	{
+		"#text": "Нет Bluetooth-устройств",
+		"@_name": "drivemode_settings_drivemode_no_devices"
+	},
+	{
+		"#text": "Настройки режима вождения",
+		"@_name": "drivemode_settings_drivemode_settings"
+	},
+	{
+		"#text": "Выйти из режима вождения",
+		"@_name": "drivemode_settings_exit_drivemode"
+	},
+	{
+		"#text": "\"Благодарим вас за использование режима вождения Flyme\n\n Перед использованием режима вождения (далее - этот продукт), пожалуйста, внимательно прочитайте это соглашение. После того, как вы решите использовать этот продукт, вы подтверждаете и принимаете это заявление об отказе от ответственности, условия обслуживания и все последние соглашения об условиях использования.\n1. Не устанавливайте, не изменяйте и не эксплуатируйте этот продукт во время движения в случае дорожно-транспортных происшествий или других опасных ситуаций. В противном случае все полученные результаты будут на вашей ответственности.\n2. Пожалуйста, оценивайте состояние дорожного движения, как главный фактор. Не используйте навигационные услуги, предоставляемые этим продуктом или другими приложениями, в качестве единственной основы для путешествий и вождения. Любое нарушение правил дорожного движения или других законов повлечет собой уголовную ответственность.\n3. Этот продукт не требует, чтобы вы предоставили дополнительную личную информацию, за исключением информации, которую вы предоставили для использования услуг Flyme. За исключение случаев, когда такая информация собирается по вашей собственной инициативе или необходима для предоставления вам более качественного обслуживания. Политика конфиденциальности и защиты личной информации применима и к условиям использования.\n4. Во время использования этого продукта вы устанавливаете или используете сторонние продукты и услуги, что означает, что вы одобряете и соглашаетесь с условиями обслуживания третьих лиц. Пожалуйста, внимательно ознакомьтесь с политикой использования. Компания Meizu не несет ответственности за качество и безопасность продуктов и услуг, предоставляемых третьими лицами.\"",
+		"@_name": "drivemode_setup_agreement_content"
+	},
+	{
+		"#text": "О режиме вождения",
+		"@_name": "drivemode_setup_agreement_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "drivemode_sure"
+	},
+	{
+		"#text": "Я прочитал и согласен",
+		"@_name": "drivemode_tips_text"
+	},
+	{
+		"#text": "Испытайте новые ощущения, будучи за рулем",
+		"@_name": "drivemode_tips_text_line1"
+	},
+	{
+		"#text": "Комфортное вождение и удобство использования",
+		"@_name": "drivemode_tips_text_line2"
+	},
+	{
+		"#text": "\" с правилами\"",
+		"@_name": "drivemode_tips_text_link"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "drivemode_tips_text_no_more_tips"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "drivemode_tips_text_use_now"
+	},
+	{
+		"#text": "200 новых анимаций",
+		"@_name": "enjoy_text1"
+	},
+	{
+		"#text": "400 новых функций",
+		"@_name": "enjoy_text2"
+	},
+	{
+		"#text": "430 дней и ночей",
+		"@_name": "enjoy_text3"
+	},
+	{
+		"#text": "Всё самое лучшее из Flyme",
+		"@_name": "enjoy_text4"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "enjoy_text5"
+	},
+	{
+		"#text": "Погрузитесь в новизну с головой",
+		"@_name": "enjoy_textview_one"
+	},
+	{
+		"#text": "Попробовать",
+		"@_name": "experience_now"
+	},
+	{
+		"#text": "Попробуйте более простой и эффективный способ управления системой:",
+		"@_name": "experience_now_summary_line_one"
+	},
+	{
+		"#text": "Проведите вверх от края экрана для открытия многозадачности",
+		"@_name": "experience_now_summary_line_three"
+	},
+	{
+		"#text": "Коснитесь главной клавиши для перехода назад, нажмите на главную клавишу для возврата на начальный экран",
+		"@_name": "experience_now_summary_line_two"
+	},
+	{
+		"#text": "Элегантность и интеллект",
+		"@_name": "first_page_text1"
+	},
+	{
+		"#text": "Безопасность и простота в использовании",
+		"@_name": "first_page_text2"
+	},
+	{
+		"#text": "Barrage notifications",
+		"@_name": "game_mode_barrage_notifications"
+	},
+	{
+		"#text": "Show WeChat and QQ notifications in barrage form while playing games",
+		"@_name": "game_mode_barrage_summary"
+	},
+	{
+		"#text": "Optimization options",
+		"@_name": "game_mode_category"
+	},
+	{
+		"#text": "Disable all heads-ups",
+		"@_name": "game_mode_dnd_summary"
+	},
+	{
+		"#text": "Do not disturb",
+		"@_name": "game_mode_dnd_title"
+	},
+	{
+		"#text": "End",
+		"@_name": "game_mode_end_call"
+	},
+	{
+		"#text": "Prevent Gesture Screenshot from being mistakenly triggered in games",
+		"@_name": "game_mode_fingers_summary"
+	},
+	{
+		"#text": "Block Gesture Screenshot",
+		"@_name": "game_mode_fingers_title"
+	},
+	{
+		"#text": "Enhance system performance for games and may cause overheat and high power usage",
+		"@_name": "game_mode_game_accelerate_summary"
+	},
+	{
+		"#text": "Game accelerator",
+		"@_name": "game_mode_game_accelerate_title"
+	},
+	{
+		"#text": "Show Game Assistant while playing games",
+		"@_name": "game_mode_game_assistant_summary"
+	},
+	{
+		"#text": "Game Assistant",
+		"@_name": "game_mode_game_assistant_title"
+	},
+	{
+		"#text": "Game Keyboard",
+		"@_name": "game_mode_game_keyboard_title"
+	},
+	{
+		"#text": "Disable \\\"Press &amp; back to Home\\\" when Navi bar is hidden",
+		"@_name": "game_mode_inadvertent_pressure_home_summary"
+	},
+	{
+		"#text": "Multi-task gestures &amp; mBack disabled in game mode",
+		"@_name": "game_mode_inadvertent_touch_summary"
+	},
+	{
+		"#text": "Mis-touch prevention",
+		"@_name": "game_mode_inadvertent_touch_title"
+	},
+	{
+		"#text": "Use a small suspended keyboard while playing landscape screen games",
+		"@_name": "game_mode_keyboard_summary"
+	},
+	{
+		"#text": "Keep brightness fixed when in-game",
+		"@_name": "game_mode_lock_brightness_summary"
+	},
+	{
+		"#text": "Fixed brightness",
+		"@_name": "game_mode_lock_brightness_title"
+	},
+	{
+		"#text": "Нет уведомлений",
+		"@_name": "game_mode_no_chat_notifications"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "game_mode_notifications"
+	},
+	{
+		"#text": "Welfare",
+		"@_name": "game_mode_pro_game"
+	},
+	{
+		"#text": "Install mGame engine to get gift",
+		"@_name": "game_mode_pro_no_game_sdk"
+	},
+	{
+		"#text": "Нет уведомлений",
+		"@_name": "game_mode_pro_no_noti"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "game_mode_pro_noti"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "game_mode_pro_settings"
+	},
+	{
+		"#text": "Press and add the icon to the label bar",
+		"@_name": "game_mode_pro_summary"
+	},
+	{
+		"#text": "Time left",
+		"@_name": "game_mode_pro_time_remaining"
+	},
+	{
+		"#text": "Screen Rec",
+		"@_name": "game_mode_screenrecord"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "game_mode_settings"
+	},
+	{
+		"#text": "Identify when a game is running and optimize user experience",
+		"@_name": "game_mode_summary"
+	},
+	{
+		"#text": "Игровой режим",
+		"@_name": "game_mode_title"
+	},
+	{
+		"#text": "Welfare",
+		"@_name": "game_mode_welfare"
+	},
+	{
+		"#text": "Initialization failed. Please retry",
+		"@_name": "game_mode_xunyou_accelerate_failed"
+	},
+	{
+		"#text": "Try now",
+		"@_name": "game_mode_xunyou_accelerate_probation_btn_title"
+	},
+	{
+		"#text": "Optimize network channels, reduce lagging &amp; latency, and avoid disconnection",
+		"@_name": "game_mode_xunyou_accelerate_probation_msg"
+	},
+	{
+		"#text": "Recharge",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_charge"
+	},
+	{
+		"#text": "Contact customer service",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_contact"
+	},
+	{
+		"#text": "Go to login",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_login"
+	},
+	{
+		"#text": "Get free trial",
+		"@_name": "game_mode_xunyou_accelerate_settings_btn_title_try"
+	},
+	{
+		"#text": "QQ customer service",
+		"@_name": "game_mode_xunyou_accelerate_settings_contact_qq"
+	},
+	{
+		"#text": "Customer service",
+		"@_name": "game_mode_xunyou_accelerate_settings_contact_tel"
+	},
+	{
+		"#text": "No longer prompt",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_checkbox_text"
+	},
+	{
+		"#text": "When network speedup interrupted, the game in speeding up may be disconnected",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_msg"
+	},
+	{
+		"#text": "Disable network speeder",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_negative_text"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_positive_text"
+	},
+	{
+		"#text": "Disable network speeder",
+		"@_name": "game_mode_xunyou_accelerate_settings_dialog_title"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "game_mode_xunyou_accelerate_settings_loading_text"
+	},
+	{
+		"#text": "Failed to speed up",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_accelerate_failed"
+	},
+	{
+		"#text": "Game speeded up",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_accelerating"
+	},
+	{
+		"#text": "Network is not connected",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_error"
+	},
+	{
+		"#text": "Speedup expired. Please recharge",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_expired"
+	},
+	{
+		"#text": "Please login to Flyme account",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_login"
+	},
+	{
+		"#text": "Network speedup not enabled",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_not_open"
+	},
+	{
+		"#text": "Speedup unavailable for current game",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_not_support"
+	},
+	{
+		"#text": "Setting best speeding configuration",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_start_accelerate"
+	},
+	{
+		"#text": "Stopping speeder",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_stop_accelerate"
+	},
+	{
+		"#text": "Speedup expires on %1$s",
+		"@_name": "game_mode_xunyou_accelerate_settings_msg_time_to"
+	},
+	{
+		"#text": "Professional speeder for Wi-Fi and 4G",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item0_msg"
+	},
+	{
+		"#text": "Reduce lagging &amp; latency",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item0_title"
+	},
+	{
+		"#text": "Xunyou patented Tech reduce lagging &amp; latency",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item1_msg"
+	},
+	{
+		"#text": "Wi-Fi Speedup Technology",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item1_title"
+	},
+	{
+		"#text": "Auto-speedup your game if purchased",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item2_msg"
+	},
+	{
+		"#text": "One-tap to start auto-speedup",
+		"@_name": "game_mode_xunyou_accelerate_settings_probation_item2_title"
+	},
+	{
+		"#text": "Auto-speedup when gaming",
+		"@_name": "game_mode_xunyou_accelerate_settings_total_switch_desc"
+	},
+	{
+		"#text": "Network speedup",
+		"@_name": "game_mode_xunyou_accelerate_settings_total_switch_title"
+	},
+	{
+		"#text": "Consume a little mobile data to speed up when Wi-Fi is unstable",
+		"@_name": "game_mode_xunyou_accelerate_settings_wifi_switch_desc"
+	},
+	{
+		"#text": "Wi-Fi optimization",
+		"@_name": "game_mode_xunyou_accelerate_settings_wifi_switch_title"
+	},
+	{
+		"#text": "Game speeded up",
+		"@_name": "game_mode_xunyou_accelerate_summary_accelerate"
+	},
+	{
+		"#text": "Optimize network for games, reduce lagging &amp; latency",
+		"@_name": "game_mode_xunyou_accelerate_summary_normal"
+	},
+	{
+		"#text": "Speedup unavailable for current game",
+		"@_name": "game_mode_xunyou_accelerate_summary_not_support"
+	},
+	{
+		"#text": "Xunyou speedup",
+		"@_name": "game_mode_xunyou_accelerate_title"
+	},
+	{
+		"#text": "Система, способная мыслить",
+		"@_name": "intelligent_thinking_engine"
+	},
+	{
+		"#text": "\"Улучшенная производительность в играх\nАдаптация к вашим сценариям работы\"",
+		"@_name": "intelligent_thinking_engine_content"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "d MMM",
+		"@_name": "lock_month_day"
+	},
+	{
+		"#text": "d.M.yyyy(EEE)",
+		"@_name": "lock_week"
+	},
+	{
+		"#text": "Ассистент Lucky money",
+		"@_name": "luckymoney_app_name"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "дн. назад",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "дн. спустя",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 День после",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "За 1 день до",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Свайп вверх от края экрана",
+		"@_name": "multi_task_dtu_title"
+	},
+	{
+		"#text": "Макет диспетчера задач",
+		"@_name": "multi_task_layout_title"
+	},
+	{
+		"#text": "Перейти к предыдущей задаче свайпом от края к центру",
+		"@_name": "multi_task_rtl_summary"
+	},
+	{
+		"#text": "Перейти к пред. задаче",
+		"@_name": "multi_task_rtl_title"
+	},
+	{
+		"#text": "Диспетчер задач",
+		"@_name": "multi_task_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Снять",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d MMMM, cccc",
+		"@_name": "mz_date_format"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Запретить и больше не спрашивать",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "Приложение «%1$s» запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s запрашивает %2$s %3$d разрешения",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Запросить следующие разрешение",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Разрешить доступ",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Запретить доступ",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Загрузить",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s V%s загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Размер: %s",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Установлена актуальная версия",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "Что нового: %s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить и обновить",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до актуальной версии (%s)",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "В сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s V%s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Обновление «%s» V%s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Демо",
+		"@_name": "navigation_bar_detail_demo_text"
+	},
+	{
+		"#text": "Свайп от края к центру",
+		"@_name": "navigation_bar_detail_simple_subtitle_back"
+	},
+	{
+		"#text": "Свайп вверх от края",
+		"@_name": "navigation_bar_detail_simple_subtitle_home"
+	},
+	{
+		"#text": "Свайп вверх от края и удержание",
+		"@_name": "navigation_bar_detail_simple_subtitle_recent"
+	},
+	{
+		"#text": "Свайп вверх от края и свайп влево",
+		"@_name": "navigation_bar_detail_simple_subtitle_switch"
+	},
+	{
+		"#text": "\"По бокам экрана: свайпните по горизонтали, чтобы вернуться назад.\nВ нижней части экрана: свайпните вверх, чтобы перейти на главный экран; свайпните вверх и удерживайте, чтобы открыть диспетчер задач\"",
+		"@_name": "navigation_bar_detail_simple_subtitle_total"
+	},
+	{
+		"#text": "Использование упрощённых жестов",
+		"@_name": "navigation_bar_detail_simple_tile"
+	},
+	{
+		"#text": "Короткий свайп с края к центру",
+		"@_name": "navigation_bar_detail_subtitle_back"
+	},
+	{
+		"#text": "Длинный свайп с края к центру",
+		"@_name": "navigation_bar_detail_subtitle_home"
+	},
+	{
+		"#text": "Длинный свайп с края к центру и удержание",
+		"@_name": "navigation_bar_detail_subtitle_recent"
+	},
+	{
+		"#text": "Использование полноэкранных жестов",
+		"@_name": "navigation_bar_detail_tile"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "navigation_bar_detail_title_back"
+	},
+	{
+		"#text": "Вернуться на рабочий стол",
+		"@_name": "navigation_bar_detail_title_home"
+	},
+	{
+		"#text": "Открыть диспетчер задач",
+		"@_name": "navigation_bar_detail_title_recent"
+	},
+	{
+		"#text": "Переключиться вперед",
+		"@_name": "navigation_bar_detail_title_switch"
+	},
+	{
+		"#text": "Включить упрощённые жесты",
+		"@_name": "navigation_bar_detail_title_total"
+	},
+	{
+		"#text": "Обновленный дизайн",
+		"@_name": "new_design"
+	},
+	{
+		"#text": "\"Контент-ориентированный интерфейс и 3D-анимации\nВизуальное удовольствие для любителей гаджетов\"",
+		"@_name": "new_design_content"
+	},
+	{
+		"#text": "Ответить",
+		"@_name": "notification_reply"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "notification_reply_send"
+	},
+	{
+		"#text": "Мощная функциональность",
+		"@_name": "powerful_function"
+	},
+	{
+		"#text": "\"Детский режим и многое другое\n400 новых функций в одной системе\"",
+		"@_name": "powerful_function_content"
+	},
+	{
+		"#text": "Цвет фона",
+		"@_name": "pref_category_background"
+	},
+	{
+		"#text": "Своя настройка",
+		"@_name": "pref_category_custom"
+	},
+	{
+		"#text": "Проведите в сторону для возврата назад используя навигацию mBack",
+		"@_name": "pref_summary_mback_gesture_side"
+	},
+	{
+		"#text": "Коснитесь для перехода назад. Нажмите для перехода на рабочий стол. Проведите вверх от нижнего края для открытия диспетчера задач",
+		"@_name": "pref_summary_navigation_bar_flyme"
+	},
+	{
+		"#text": "Коснитесь для перехода назад. Нажмите для перехода на рабочий стол. Проведите вверх от нижнего края для открытия диспетчера задач",
+		"@_name": "pref_summary_navigation_bar_flyme_pressure"
+	},
+	{
+		"#text": "По бокам экрана: короткий свайп для перехода назад, длинный свайп для возврата на рабочий стол или открытия диспетчера задач",
+		"@_name": "pref_summary_navigation_bar_hide_gesture"
+	},
+	{
+		"#text": "По бокам экрана: свайпните по горизонтали для перехода назад. В нижней части экрана: свайпните вверх для перехода на рабочий стол; свайпните вверх и удерживайте для открытия диспетчера задач",
+		"@_name": "pref_summary_navigation_bar_hide_gesture_simple"
+	},
+	{
+		"#text": "Скрыть нав. панель и использовать жесты",
+		"@_name": "pref_summary_navigation_bar_none"
+	},
+	{
+		"#text": "Кнопки «Назад», «Домой», и «Недавние» на панели навигации",
+		"@_name": "pref_summary_navigation_bar_standard"
+	},
+	{
+		"#text": "Поддержка жестов навигации с обоих сторон экрана",
+		"@_name": "pref_summary_navigation_gesture_side"
+	},
+	{
+		"#text": "Проведите по панели навигации для переключения задач",
+		"@_name": "pref_summary_switcher_recents"
+	},
+	{
+		"#text": "Жест «Назад»",
+		"@_name": "pref_title_mback_gesture_side"
+	},
+	{
+		"#text": "长重按主键锁屏",
+		"@_name": "pref_title_mback_long_press"
+	},
+	{
+		"#text": "mBack",
+		"@_name": "pref_title_navigation_bar_flyme"
+	},
+	{
+		"#text": "Полноэкранные жесты",
+		"@_name": "pref_title_navigation_bar_hide_gesture"
+	},
+	{
+		"#text": "Упрощённые жесты",
+		"@_name": "pref_title_navigation_bar_hide_gesture_simple"
+	},
+	{
+		"#text": "Скрыть нав. панель",
+		"@_name": "pref_title_navigation_bar_none"
+	},
+	{
+		"#text": "Навигационная панель",
+		"@_name": "pref_title_navigation_bar_standard"
+	},
+	{
+		"#text": "Дополнительные жесты навигации",
+		"@_name": "pref_title_navigation_gesture_side"
+	},
+	{
+		"#text": "Свайп для переключения задач",
+		"@_name": "pref_title_switcher_recents"
+	},
+	{
+		"#text": "Аудио QQ",
+		"@_name": "qq_audio"
+	},
+	{
+		"#text": "Видео QQ",
+		"@_name": "qq_video"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "screenrecord_saved_text_min"
+	},
+	{
+		"#text": "сек.",
+		"@_name": "screenrecord_saved_text_s"
+	},
+	{
+		"#text": "Запись экрана",
+		"@_name": "screenrecord_saved_title"
+	},
+	{
+		"#text": "Старт",
+		"@_name": "screenrecord_text_start"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "screenrecord_text_stop"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "screenshot_text_cancel"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "screenshot_text_commit"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "screenshot_text_edit"
+	},
+	{
+		"#text": "Кисть",
+		"@_name": "screenshot_text_edit_brush"
+	},
+	{
+		"#text": "Сдвиньте два пальца для масштабирования",
+		"@_name": "screenshot_text_edit_drag"
+	},
+	{
+		"#text": "Мозаика",
+		"@_name": "screenshot_text_edit_mosaic"
+	},
+	{
+		"#text": "Форма",
+		"@_name": "screenshot_text_edit_shape"
+	},
+	{
+		"#text": "Текст",
+		"@_name": "screenshot_text_edit_text"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "screenshot_text_edit_undo"
+	},
+	{
+		"#text": "Длительное нажатие на клавишу питания и клавишу регулировки громкости для скриншота",
+		"@_name": "screenshot_text_guide"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "screenshot_text_known"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "screenshot_text_load"
+	},
+	{
+		"#text": "Нет больше контента",
+		"@_name": "screenshot_text_nomore"
+	},
+	{
+		"#text": "Невозможно создать длинный скриншот на данном экране",
+		"@_name": "screenshot_text_noscroll"
+	},
+	{
+		"#text": "Достигнута максимальная длина",
+		"@_name": "screenshot_text_reach_max"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "screenshot_text_save"
+	},
+	{
+		"#text": "Выполните прокрутку вверх или вниз, чтобы сделать длинный скриншот",
+		"@_name": "screenshot_text_scrolltocapture"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "screenshot_text_share"
+	},
+	{
+		"#text": "Длинный скриншот",
+		"@_name": "screenshot_text_startscrollcapture"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Инновации безопасности",
+		"@_name": "security_innovation"
+	},
+	{
+		"#text": "\"Интернет-сёрфинг, коммуникации и т.д.\nВсё под вашим полным контролем\"",
+		"@_name": "security_innovation_content"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "simple_gesture_guide_pager_cancel_button_text"
+	},
+	{
+		"#text": "Измените эту опцию в меню Настройки > Навигация и многозадачность > Тип навигации",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_message"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_negative_button_text"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_positive_button_text"
+	},
+	{
+		"#text": "Не хотите включить упрощенную жестовую навигацию?",
+		"@_name": "simple_gesture_guide_pager_cancel_dialog_title"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "simple_gesture_guide_pager_notification_learn_more"
+	},
+	{
+		"#text": "Полное погружение и улучшенное взаимодействие",
+		"@_name": "simple_gesture_guide_pager_notification_subtitle"
+	},
+	{
+		"#text": "Простая и эффективная панель навигации",
+		"@_name": "simple_gesture_guide_pager_notification_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "simple_gesture_guide_pager_settings"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "simple_gesture_guide_pager_startup_button_text"
+	},
+	{
+		"#text": "Включено",
+		"@_name": "simple_gesture_guide_pager_startup_toast_text"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Подготавливаем Flyme для вас",
+		"@_name": "theme_loading"
+	},
+	{
+		"#text": "Аудио TIM",
+		"@_name": "tim_audio"
+	},
+	{
+		"#text": "Видео TIM",
+		"@_name": "tim_video"
+	},
+	{
+		"#text": "Выберите ПО для быстрого запуска",
+		"@_name": "title"
+	},
+	{
+		"#text": "Измените настройку в меню Настройки > Навигация и многозадачность > Дв. нажатие кн. питания",
+		"@_name": "title_detial"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "title_notifications"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "title_settings"
+	},
+	{
+		"#text": "Неизв. альбом",
+		"@_name": "unknown_albumTitle"
+	},
+	{
+		"#text": "Неизв. исполнитель",
+		"@_name": "unknown_artist"
+	},
+	{
+		"#text": "Голосовой вызов WeChat",
+		"@_name": "wechat_audio"
+	},
+	{
+		"#text": "[Аудио]",
+		"@_name": "wechat_message_type_voice"
+	},
+	{
+		"#text": "Авторизация отменена",
+		"@_name": "wechat_oauth_cancel"
+	},
+	{
+		"#text": "Ошибка авторизации",
+		"@_name": "wechat_oauth_deny"
+	},
+	{
+		"#text": "Авторизация выполнена",
+		"@_name": "wechat_oauth_success"
+	},
+	{
+		"#text": "Содержимое скопировано в буфер обмена. Пожалуйста, вставьте и отправьте снова.",
+		"@_name": "wechat_sending_failed_text"
+	},
+	{
+		"#text": "Одно неотправленное сообщение",
+		"@_name": "wechat_sending_failed_title"
+	},
+	{
+		"#text": "Видеовызов WeChat",
+		"@_name": "wechat_video"
+	},
+	{
+		"#text": "\"Обновление One Mind 3.5 превносит\nновые улучшенные алгоритмы работы\"",
+		"@_name": "welcomepage_four_content"
+	},
+	{
+		"#text": "Производительность",
+		"@_name": "welcomepage_four_title"
+	},
+	{
+		"#text": "Тщательно продуманный новый дизайн. Минималистичный и удобный",
+		"@_name": "welcomepage_one_content"
+	},
+	{
+		"#text": "Дизайн",
+		"@_name": "welcomepage_one_title"
+	},
+	{
+		"#text": "\"Многофункциональный ассистент\nспособный распознавать контент, голос, фотографии и многое другое\"",
+		"@_name": "welcomepage_three_content"
+	},
+	{
+		"#text": "Дебют Aicy",
+		"@_name": "welcomepage_three_title"
+	},
+	{
+		"#text": "\"Новые функции для\nудобства общения, развлечений и защиты устройства\"",
+		"@_name": "welcomepage_two_content"
+	},
+	{
+		"#text": "Функционал",
+		"@_name": "welcomepage_two_title"
+	}
+]

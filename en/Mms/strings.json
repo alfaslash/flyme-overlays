@@ -1,0 +1,4559 @@
+[
+	{
+		"#text": "I",
+		"@_name": "I"
+	},
+	{
+		"#text": "MMS:",
+		"@_name": "MMS_numbers"
+	},
+	{
+		"#text": "; total size:",
+		"@_name": "Mms_total_size"
+	},
+	{
+		"#text": ", SMS:",
+		"@_name": "SMS_numbers"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "WaitTip"
+	},
+	{
+		"#text": "You",
+		"@_name": "YOU"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "关于我们",
+		"@_name": "about_us"
+	},
+	{
+		"#text": "The system is busy, please try again later",
+		"@_name": "access_server_error"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add"
+	},
+	{
+		"#text": "Attach",
+		"@_name": "add_attachment"
+	},
+	{
+		"#text": "Attach vCard",
+		"@_name": "add_attachment_contact_vcard_title"
+	},
+	{
+		"#text": "Add attachment",
+		"@_name": "add_attachments"
+	},
+	{
+		"#text": "Add songs",
+		"@_name": "add_music"
+	},
+	{
+		"#text": "Add nickname",
+		"@_name": "add_nickname_title"
+	},
+	{
+		"#text": "Add pictures",
+		"@_name": "add_picture"
+	},
+	{
+		"#text": "Add slides",
+		"@_name": "add_slide"
+	},
+	{
+		"#text": "Touch to create new slide.",
+		"@_name": "add_slide_hint"
+	},
+	{
+		"#text": "Add video",
+		"@_name": "add_video"
+	},
+	{
+		"#text": "Data format incorrect",
+		"@_name": "alipay_data_exception"
+	},
+	{
+		"#text": "Network Request Error",
+		"@_name": "alipay_network_request_error"
+	},
+	{
+		"#text": "Payment service is updating",
+		"@_name": "alipay_server_error"
+	},
+	{
+		"#text": "Alipay no response, please try again",
+		"@_name": "alipay_unknown_error"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "97209926a151c7a701a14ca7833cce77",
+		"@_name": "amap_key"
+	},
+	{
+		"#text": "Messages",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "ServiceFunction",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Meizu assistant does not support MMS",
+		"@_name": "assistant_cannt_support_mms"
+	},
+	{
+		"#text": "Upper limit of 420 characters exceeded",
+		"@_name": "assistant_message_text_length_error"
+	},
+	{
+		"#text": "Contact",
+		"@_name": "attach_menu_contact"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "attach_menu_from_camera"
+	},
+	{
+		"#text": "Image",
+		"@_name": "attach_menu_image"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "attach_menu_snapshoot"
+	},
+	{
+		"#text": "Scheduled SMS",
+		"@_name": "attach_menu_timer"
+	},
+	{
+		"#text": "Recording",
+		"@_name": "attach_record_sound"
+	},
+	{
+		"#text": "Capture video",
+		"@_name": "attach_record_video"
+	},
+	{
+		"#text": "Slide",
+		"@_name": "attach_slideshow"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "attach_sound"
+	},
+	{
+		"#text": "Take photo",
+		"@_name": "attach_take_photo"
+	},
+	{
+		"#text": "Video",
+		"@_name": "attach_video"
+	},
+	{
+		"#text": "Add Video",
+		"@_name": "attach_video_title"
+	},
+	{
+		"#text": "Add Recording",
+		"@_name": "attach_voice_title"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "attachment_audio"
+	},
+	{
+		"#text": "File",
+		"@_name": "attachment_file"
+	},
+	{
+		"#text": "Location",
+		"@_name": "attachment_location"
+	},
+	{
+		"#text": "Image",
+		"@_name": "attachment_picture"
+	},
+	{
+		"#text": "Slide",
+		"@_name": "attachment_slideshow"
+	},
+	{
+		"#text": "Voice",
+		"@_name": "attachment_talk"
+	},
+	{
+		"#text": "Name card",
+		"@_name": "attachment_vcard"
+	},
+	{
+		"#text": "Video",
+		"@_name": "attachment_video"
+	},
+	{
+		"#text": "Tap here or change in settings",
+		"@_name": "banner_sms_promo_message"
+	},
+	{
+		"#text": "%s is your SMS app",
+		"@_name": "banner_sms_promo_title_application"
+	},
+	{
+		"#text": "The built-in app is not your default SMS app",
+		"@_name": "banner_sms_promo_title_initial"
+	},
+	{
+		"@_name": "btn_new_message"
+	},
+	{
+		"#text": "New message",
+		"@_name": "btn_new_message_large"
+	},
+	{
+		"#text": "Creating slide",
+		"@_name": "building_slideshow_title"
+	},
+	{
+		"#text": "Group messaging not supported for web message",
+		"@_name": "can_not_send_flyme_for_group_mms"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel_tip"
+	},
+	{
+		"#text": "Cancel pin to top",
+		"@_name": "cancel_top"
+	},
+	{
+		"#text": "Unable to add videos and pictures to one single slide.",
+		"@_name": "cannot_add_picture_and_video"
+	},
+	{
+		"#text": "Mass messaging recipients can not be more than 500",
+		"@_name": "cannot_add_recipients_exceed"
+	},
+	{
+		"#text": "Unable to add more slides.",
+		"@_name": "cannot_add_slide_anymore"
+	},
+	{
+		"#text": "Unable to get details.",
+		"@_name": "cannot_get_details"
+	},
+	{
+		"#text": "\"Can't record during a call\"",
+		"@_name": "cannot_record_error"
+	},
+	{
+		"#text": "Unable to save SMS.",
+		"@_name": "cannot_save_message"
+	},
+	{
+		"#text": "Do not support email address",
+		"@_name": "cannot_send_flyme_message_reason_some_loginout"
+	},
+	{
+		"#text": "Mass messaging does not support Meizu assistant messages",
+		"@_name": "cannot_send_message_for_group_assistant"
+	},
+	{
+		"#text": "Mass messaging does not support email addresses",
+		"@_name": "cannot_send_message_for_group_email"
+	},
+	{
+		"#text": "Mass messaging does not support email addresses and Weibo private messages",
+		"@_name": "cannot_send_message_for_group_email_and_sns"
+	},
+	{
+		"#text": "Do not support Weibo private messages",
+		"@_name": "cannot_send_message_for_sns"
+	},
+	{
+		"#text": "Change your default SMS app?",
+		"@_name": "change_default_message_app_dialog_title"
+	},
+	{
+		"@_name": "change_duration_activity"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "change_mms_text"
+	},
+	{
+		"#text": "Edit nickname",
+		"@_name": "change_nickname_title"
+	},
+	{
+		"#text": "Card 1 - %s",
+		"@_name": "change_sim1_title"
+	},
+	{
+		"#text": "Card 2 - %s",
+		"@_name": "change_sim2_title"
+	},
+	{
+		"#text": "Some contents has not been sent",
+		"@_name": "change_slot_toast"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "change_sms_text"
+	},
+	{
+		"@_name": "class_0_message_activity"
+	},
+	{
+		"#text": "From Meizu Security App",
+		"@_name": "com_meizu_safe_send_query_charge_sms"
+	},
+	{
+		"#text": "From Meizu Security",
+		"@_name": "com_meizu_safe_send_query_flow_sms"
+	},
+	{
+		"#text": "\"Can't compose messages as this app is not the default SMS app.\"",
+		"@_name": "compose_disabled_toast"
+	},
+	{
+		"#text": "Scheduled SMS",
+		"@_name": "compose_text_hint_timer"
+	},
+	{
+		"#text": "Send",
+		"@_name": "compose_timer"
+	},
+	{
+		"#text": "Delete %1$s message(s)",
+		"@_name": "confirm_dialog_title"
+	},
+	{
+		"#text": "Multiple MMS will be sent. Are you sure?",
+		"@_name": "confirm_rate_limit"
+	},
+	{
+		"#text": "Server cannot accept this content",
+		"@_name": "content_not_accepted"
+	},
+	{
+		"#text": "yyyy",
+		"@_name": "conv_divider_fomater"
+	},
+	{
+		"#text": "Failed to send message",
+		"@_name": "conv_subject_fail_warning"
+	},
+	{
+		"#text": "Copied to clipboard",
+		"@_name": "copy_code"
+	},
+	{
+		"#text": "Copy to SIM",
+		"@_name": "copy_to_sim"
+	},
+	{
+		"#text": "Copy to card 1",
+		"@_name": "copy_to_sim_1"
+	},
+	{
+		"#text": "Copy to card 2",
+		"@_name": "copy_to_sim_2"
+	},
+	{
+		"#text": "Failed to copy to SIM",
+		"@_name": "copy_to_sim_fail"
+	},
+	{
+		"#text": "Copied to SIM",
+		"@_name": "copy_to_sim_success"
+	},
+	{
+		"#text": "Copy to Card",
+		"@_name": "copy_to_uim"
+	},
+	{
+		"#text": "Failed to copy to Card",
+		"@_name": "copy_to_uim_fail"
+	},
+	{
+		"#text": "Messages copied to Card",
+		"@_name": "copy_to_uim_success"
+	},
+	{
+		"#text": "Create new message",
+		"@_name": "create_new_message"
+	},
+	{
+		"#text": "Telecom Smart SMS",
+		"@_name": "ctcc_smart_message"
+	},
+	{
+		"#text": "Dangerous URL. Please do not open it.",
+		"@_name": "dangerous_url"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "del_progress_dialog_title"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete_extra"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete_message"
+	},
+	{
+		"#text": "Delivered:",
+		"@_name": "delivered_label"
+	},
+	{
+		"@_name": "desc_mms_send_outbox_msg"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "dial_btn_title"
+	},
+	{
+		"#text": "Please do not change or delete this number unless you are required by a carrier or an individual; otherwise you may fail to receive or send messages normally",
+		"@_name": "dialog_sms_center_message"
+	},
+	{
+		"#text": "SMS center",
+		"@_name": "dialog_sms_center_number"
+	},
+	{
+		"#text": "Stop receiving duplicate SMS notifications from default Messaging app?",
+		"@_name": "disable_notifications_dialog_message"
+	},
+	{
+		"#text": "Discard",
+		"@_name": "discard_btn_title"
+	},
+	{
+		"#text": "Discard change?",
+		"@_name": "discard_nickname_change_title"
+	},
+	{
+		"#text": "\"The mms doesn't support nickname\"",
+		"@_name": "discard_nickname_for_mms_title"
+	},
+	{
+		"#text": "Discard slide",
+		"@_name": "discard_slideshow"
+	},
+	{
+		"#text": "Group has been dissolved",
+		"@_name": "dissolve_group"
+	},
+	{
+		"#text": "Done",
+		"@_name": "done"
+	},
+	{
+		"#text": "Done",
+		"@_name": "done_text"
+	},
+	{
+		"#text": "Tap to Continue",
+		"@_name": "download_goon_title"
+	},
+	{
+		"#text": "Unable to download right now. Retry later.",
+		"@_name": "download_later"
+	},
+	{
+		"#text": "You have unsent message.",
+		"@_name": "draft_header_text"
+	},
+	{
+		"#text": "No subject",
+		"@_name": "draft_no_subject"
+	},
+	{
+		"#text": ",",
+		"@_name": "draft_separator"
+	},
+	{
+		"#text": "MMS: %1$s",
+		"@_name": "draft_sub_tittle_mms"
+	},
+	{
+		"#text": "\"[Draft] \"",
+		"@_name": "draft_tittle_large"
+	},
+	{
+		"#text": "切换车次",
+		"@_name": "duoqu_613_change"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_613_select"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_air_arriver_city"
+	},
+	{
+		"#text": "到达时间",
+		"@_name": "duoqu_air_arriver_date"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_air_departure_city"
+	},
+	{
+		"#text": "出发时间",
+		"@_name": "duoqu_air_departure_date"
+	},
+	{
+		"#text": "航班号",
+		"@_name": "duoqu_air_flight_num"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_air_number"
+	},
+	{
+		"#text": "上午",
+		"@_name": "duoqu_am"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_arrive_city"
+	},
+	{
+		"#text": "到达时间",
+		"@_name": "duoqu_arrive_datetime"
+	},
+	{
+		"#text": "：",
+		"@_name": "duoqu_bill_data_split"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_bub_dialog_content"
+	},
+	{
+		"#text": "提示",
+		"@_name": "duoqu_bub_dialog_title"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_bub_popmenu_content"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "duoqu_bub_web_aboutus"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "duoqu_bub_web_close"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "duoqu_bub_web_loading"
+	},
+	{
+		"#text": "解除默认选择",
+		"@_name": "duoqu_bub_web_reset"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_bubble_flight_arrive"
+	},
+	{
+		"#text": "；",
+		"@_name": "duoqu_bubble_money_split"
+	},
+	{
+		"#text": "收起",
+		"@_name": "duoqu_bubble_more_info_hide"
+	},
+	{
+		"#text": "更多",
+		"@_name": "duoqu_bubble_more_info_show"
+	},
+	{
+		"#text": "（更多信息请点击显示原文）",
+		"@_name": "duoqu_bubble_more_info_show_extend"
+	},
+	{
+		"#text": "派送中",
+		"@_name": "duoqu_bubble_post_sending"
+	},
+	{
+		"#text": "派送状态",
+		"@_name": "duoqu_bubble_post_title"
+	},
+	{
+		"#text": "，",
+		"@_name": "duoqu_bubble_train_seat_split"
+	},
+	{
+		"#text": "-",
+		"@_name": "duoqu_bubble_ui_part_air_train_split"
+	},
+	{
+		"#text": "来电",
+		"@_name": "duoqu_call"
+	},
+	{
+		"#text": "骚扰电话",
+		"@_name": "duoqu_call_harass"
+	},
+	{
+		"#text": "拨打电话",
+		"@_name": "duoqu_call_phone"
+	},
+	{
+		"#text": "陌生人",
+		"@_name": "duoqu_call_stranger"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_call_unknown"
+	},
+	{
+		"#text": "呼叫时间",
+		"@_name": "duoqu_calls_callingtime"
+	},
+	{
+		"#text": "来电时间",
+		"@_name": "duoqu_calls_calltime"
+	},
+	{
+		"#text": "来电次数",
+		"@_name": "duoqu_calls_frequency"
+	},
+	{
+		"#text": "末次时间",
+		"@_name": "duoqu_calls_last_calltime"
+	},
+	{
+		"#text": "来电时状态",
+		"@_name": "duoqu_calls_ownstate"
+	},
+	{
+		"#text": "来电识别",
+		"@_name": "duoqu_calls_reminder_discern_call"
+	},
+	{
+		"#text": "电话号码",
+		"@_name": "duoqu_calls_reminder_side_phone_num"
+	},
+	{
+		"#text": "对方归属地",
+		"@_name": "duoqu_calls_sideattribution"
+	},
+	{
+		"#text": "对方状态",
+		"@_name": "duoqu_calls_sidestate"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_cancel"
+	},
+	{
+		"#text": "检票口",
+		"@_name": "duoqu_check_info"
+	},
+	{
+		"#text": "[一-龥]",
+		"@_name": "duoqu_chinese"
+	},
+	{
+		"#text": "充值",
+		"@_name": "duoqu_chonzhi"
+	},
+	{
+		"#text": "：",
+		"@_name": "duoqu_colon"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_confirm"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_defult_gray_text"
+	},
+	{
+		"#text": "删除",
+		"@_name": "duoqu_delete"
+	},
+	{
+		"#text": "delete",
+		"@_name": "duoqu_delete_eg"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "duoqu_delete_en"
+	},
+	{
+		"#text": "刪除",
+		"@_name": "duoqu_delete_tw"
+	},
+	{
+		"#text": "删除",
+		"@_name": "duoqu_delete_zh"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_depart_city"
+	},
+	{
+		"#text": "出发时间",
+		"@_name": "duoqu_depart_datetime"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_dialog_content"
+	},
+	{
+		"#text": "提示",
+		"@_name": "duoqu_dialog_title"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_direction"
+	},
+	{
+		"#text": "— —",
+		"@_name": "duoqu_double_line"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_double_line_an"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_double_line_arr_time"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_double_line_dep_time"
+	},
+	{
+		"#text": "- -",
+		"@_name": "duoqu_double_line_en"
+	},
+	{
+		"#text": "进站口",
+		"@_name": "duoqu_entrance_info"
+	},
+	{
+		"#text": "找不到网页，请您检查当前网络是否通畅!",
+		"@_name": "duoqu_errortext"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_fight_end"
+	},
+	{
+		"#text": "航班选择",
+		"@_name": "duoqu_fight_number_select"
+	},
+	{
+		"#text": "备降",
+		"@_name": "duoqu_fight_state_alternate"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_fight_state_cancel"
+	},
+	{
+		"#text": "延误",
+		"@_name": "duoqu_fight_state_delays"
+	},
+	{
+		"#text": "起飞",
+		"@_name": "duoqu_fight_state_departure"
+	},
+	{
+		"#text": "计划中",
+		"@_name": "duoqu_fight_state_plan"
+	},
+	{
+		"#text": "返航",
+		"@_name": "duoqu_fight_state_return"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_filght"
+	},
+	{
+		"#text": "备降到达",
+		"@_name": "duoqu_flight_date_alternate_arrival"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_flight_date_arrival"
+	},
+	{
+		"#text": "返航到达",
+		"@_name": "duoqu_flight_date_return_arrival"
+	},
+	{
+		"#text": "目的地",
+		"@_name": "duoqu_flight_def_arrive_adress"
+	},
+	{
+		"#text": "出发地",
+		"@_name": "duoqu_flight_def_depart_adress"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_flight_def_depart_time"
+	},
+	{
+		"#text": "选择航班",
+		"@_name": "duoqu_flight_number_select"
+	},
+	{
+		"#text": "提前取消",
+		"@_name": "duoqu_flight_state_ahead_cancel"
+	},
+	{
+		"#text": "备降",
+		"@_name": "duoqu_flight_state_alternate"
+	},
+	{
+		"#text": "备降取消",
+		"@_name": "duoqu_flight_state_alternate_cancel"
+	},
+	{
+		"#text": "备降起飞",
+		"@_name": "duoqu_flight_state_alternate_departure"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_flight_state_cancel"
+	},
+	{
+		"#text": "延误",
+		"@_name": "duoqu_flight_state_delays"
+	},
+	{
+		"#text": "起飞",
+		"@_name": "duoqu_flight_state_departure"
+	},
+	{
+		"#text": "计划",
+		"@_name": "duoqu_flight_state_plan"
+	},
+	{
+		"#text": "返航",
+		"@_name": "duoqu_flight_state_return"
+	},
+	{
+		"#text": "返航取消",
+		"@_name": "duoqu_flight_state_return_cancel"
+	},
+	{
+		"#text": "返航起飞",
+		"@_name": "duoqu_flight_state_return_departure"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_flight_unknow_time"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_flightstr"
+	},
+	{
+		"#text": "转发短信",
+		"@_name": "duoqu_forword_sms"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_has_read"
+	},
+	{
+		"#text": "Read",
+		"@_name": "duoqu_has_read_en"
+	},
+	{
+		"#text": "已讀",
+		"@_name": "duoqu_has_read_tw"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_has_read_zh"
+	},
+	{
+		"#text": "正在加载,请稍后...",
+		"@_name": "duoqu_loading"
+	},
+	{
+		"#text": "附近网点",
+		"@_name": "duoqu_nearby_point_list_title"
+	},
+	{
+		"#text": "暂无相关信息，请联网再试~",
+		"@_name": "duoqu_no_net"
+	},
+	{
+		"#text": "暂无相关信息，请稍后再试~",
+		"@_name": "duoqu_no_train_info"
+	},
+	{
+		"#text": "打开地图",
+		"@_name": "duoqu_open_map"
+	},
+	{
+		"#text": "访问网址",
+		"@_name": "duoqu_open_net"
+	},
+	{
+		"#text": "打开原文",
+		"@_name": "duoqu_open_text"
+	},
+	{
+		"#text": "下午",
+		"@_name": "duoqu_pm"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_popmenu_content"
+	},
+	{
+		"#text": "Reply",
+		"@_name": "duoqu_reply_en"
+	},
+	{
+		"#text": "回复短信",
+		"@_name": "duoqu_reply_sms"
+	},
+	{
+		"#text": "回復",
+		"@_name": "duoqu_reply_tw"
+	},
+	{
+		"#text": "回复",
+		"@_name": "duoqu_reply_zh"
+	},
+	{
+		"#text": "座位",
+		"@_name": "duoqu_seat_info"
+	},
+	{
+		"#text": "切换航班",
+		"@_name": "duoqu_select_air"
+	},
+	{
+		"#text": "选择终点站",
+		"@_name": "duoqu_select_destination"
+	},
+	{
+		"#text": "选择航班信息",
+		"@_name": "duoqu_select_fight_num"
+	},
+	{
+		"#text": "切换车次",
+		"@_name": "duoqu_select_train"
+	},
+	{
+		"#text": "选择车次信息",
+		"@_name": "duoqu_select_train_num"
+	},
+	{
+		"#text": "发送邮件",
+		"@_name": "duoqu_send_email"
+	},
+	{
+		"#text": "卡",
+		"@_name": "duoqu_sim_card"
+	},
+	{
+		"#text": "数据来源百度地图",
+		"@_name": "duoqu_tip_data_source"
+	},
+	{
+		"#text": "多趣",
+		"@_name": "duoqu_tip_duoqu_name"
+	},
+	{
+		"#text": "缺少参数，无法打开百度地图",
+		"@_name": "duoqu_tip_false"
+	},
+	{
+		"#text": "亲，数据获取失败，可能是您未开启定位哦~",
+		"@_name": "duoqu_tip_gps_closed_error"
+	},
+	{
+		"#text": "点击加载更多数据",
+		"@_name": "duoqu_tip_load_more"
+	},
+	{
+		"#text": "加载中...",
+		"@_name": "duoqu_tip_loading"
+	},
+	{
+		"#text": "附近网点加载中...",
+		"@_name": "duoqu_tip_nearby_point_loading"
+	},
+	{
+		"#text": "对不起，网络出错了，轻触屏幕重新加载",
+		"@_name": "duoqu_tip_nearby_point_network_lose"
+	},
+	{
+		"#text": "没有找到相关结果！",
+		"@_name": "duoqu_tip_nearby_point_not_find"
+	},
+	{
+		"@_name": "duoqu_tip_nearby_point_refresh",
+		"u": "刷新试试"
+	},
+	{
+		"#text": "信析宝提供服务",
+		"@_name": "duoqu_tip_services_provide"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_train_arrive"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_train_date_arrival"
+	},
+	{
+		"#text": "MM月dd日",
+		"@_name": "duoqu_train_date_format"
+	},
+	{
+		"#text": "MM月dd日",
+		"@_name": "duoqu_train_date_format_cn"
+	},
+	{
+		"#text": "MM-dd",
+		"@_name": "duoqu_train_date_format_qiku"
+	},
+	{
+		"#text": "当天",
+		"@_name": "duoqu_train_date_one"
+	},
+	{
+		"#text": "第三天",
+		"@_name": "duoqu_train_date_three"
+	},
+	{
+		"#text": "第二天",
+		"@_name": "duoqu_train_date_two"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_train_depart"
+	},
+	{
+		"#text": "预计",
+		"@_name": "duoqu_train_dupplement_date"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_end"
+	},
+	{
+		"#text": "暂无相关信息，请稍后再试",
+		"@_name": "duoqu_train_nodata_warnning"
+	},
+	{
+		"#text": "暂无相关信息，请联网再试",
+		"@_name": "duoqu_train_nonet_warnning"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_num"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_train_num_str"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_train_number"
+	},
+	{
+		"#text": "列车信息已过期",
+		"@_name": "duoqu_train_outtime"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_train_select"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_time"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_train_unknow_time"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_ui_air_departure_city"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_ui_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_ui_confirm"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_dialog_select_cart"
+	},
+	{
+		"#text": "选择航班",
+		"@_name": "duoqu_ui_dialog_select_flight"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_dialog_select_trains"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_ui_direction"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_fight"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_ui_filght"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_ui_part_air_date_title"
+	},
+	{
+		"#text": "乘客：",
+		"@_name": "duoqu_ui_part_air_price_title"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_part_air_train_train_select"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_ui_part_call_unknown"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_ui_part_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_ui_part_confirm"
+	},
+	{
+		"#text": "选择目的地",
+		"@_name": "duoqu_ui_part_destination"
+	},
+	{
+		"@_name": "duoqu_ui_part_double_line"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_ui_part_double_line_an"
+	},
+	{
+		"#text": "- -",
+		"@_name": "duoqu_ui_part_double_line_en"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_part_fight"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_ui_part_noti_mark"
+	},
+	{
+		"#text": "求助人",
+		"@_name": "duoqu_ui_part_notification_help"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_part_select_air_title"
+	},
+	{
+		"#text": "到达站",
+		"@_name": "duoqu_ui_part_select_destination"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_ui_part_select_train_title"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_ui_part_train_date_title"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_ui_part_train_no_price"
+	},
+	{
+		"#text": "座位",
+		"@_name": "duoqu_ui_part_train_price_title"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_ui_train_num_str"
+	},
+	{
+		"#text": "N/A",
+		"@_name": "duoqu_unknow"
+	},
+	{
+		"#text": "提示：请勿泄露短信验证码",
+		"@_name": "duoqu_verifycode_warnning"
+	},
+	{
+		"#text": "候车地点",
+		"@_name": "duoqu_wait_info"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "duoqu_web_aboutus"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "duoqu_web_close"
+	},
+	{
+		"#text": "反馈",
+		"@_name": "duoqu_web_feedback"
+	},
+	{
+		"#text": "帮助",
+		"@_name": "duoqu_web_help"
+	},
+	{
+		"#text": "网络失效了，打开网络看看",
+		"@_name": "duoqu_web_network_fail"
+	},
+	{
+		"#text": "网络设置",
+		"@_name": "duoqu_web_network_setting"
+	},
+	{
+		"#text": "找不到网页",
+		"@_name": "duoqu_web_not_find_page"
+	},
+	{
+		"#text": "刷新",
+		"@_name": "duoqu_web_reload"
+	},
+	{
+		"#text": "解除默认选择",
+		"@_name": "duoqu_web_reset"
+	},
+	{
+		"#text": "选择文件",
+		"@_name": "duoqu_webview_img_select_dialog_choose_text_content"
+	},
+	{
+		"#text": "手机相册",
+		"@_name": "duoqu_webview_img_select_dialog_photo_album_text_content"
+	},
+	{
+		"#text": "拍摄照片",
+		"@_name": "duoqu_webview_img_select_dialog_shooting_text_content"
+	},
+	{
+		"#text": "当前网页申请使用您当前位置",
+		"@_name": "duoqu_webview_location_prompt_message"
+	},
+	{
+		"#text": "拒绝",
+		"@_name": "duoqu_webview_location_prompt_negative"
+	},
+	{
+		"#text": "同意",
+		"@_name": "duoqu_webview_location_prompt_positive"
+	},
+	{
+		"#text": "选择应用",
+		"@_name": "duoqu_webview_select_application"
+	},
+	{
+		"#text": "预计到达时间",
+		"@_name": "duqou_arrive_time_string"
+	},
+	{
+		"#text": "标为已读",
+		"@_name": "duqou_mark_btn_name"
+	},
+	{
+		"#text": "车厢座位",
+		"@_name": "duqou_seat_info_string"
+	},
+	{
+		"#text": "求助人",
+		"@_name": "duqou_seek_assistance"
+	},
+	{
+		"#text": "选择终点站",
+		"@_name": "duqou_select_arrive_city"
+	},
+	{
+		"#text": "(更多请点击卡片查看)",
+		"@_name": "duqou_view_the_orgmessage"
+	},
+	{
+		"#text": "Duration must be a number.",
+		"@_name": "duration_not_a_number"
+	},
+	{
+		"#text": "Duration (%s s)",
+		"@_name": "duration_sec"
+	},
+	{
+		"#text": "Duration for slide",
+		"@_name": "duration_selector_title"
+	},
+	{
+		"#text": "Duration must be greater than 0 second.",
+		"@_name": "duration_zero"
+	},
+	{
+		"#text": "Edit Number",
+		"@_name": "edit_phone_title"
+	},
+	{
+		"@_name": "edit_slide_activity"
+	},
+	{
+		"#text": "Edit slideshow",
+		"@_name": "edit_slideshow_activity"
+	},
+	{
+		"#text": "MMS attachments maximum only supports 298KB file",
+		"@_name": "exceed_message_size_limitation"
+	},
+	{
+		"#text": "Attachment size reached upper size limit",
+		"@_name": "exceed_message_size_limitation_cmcc"
+	},
+	{
+		"#text": "MMS attachments maximum only supports 300KB file",
+		"@_name": "exceed_message_size_limitation_cu"
+	},
+	{
+		"#text": "Expiration time: %s",
+		"@_name": "expire_on"
+	},
+	{
+		"#text": "Import to phone",
+		"@_name": "export_sim_mms"
+	},
+	{
+		"#text": "Select a city",
+		"@_name": "extra_city_title"
+	},
+	{
+		"#text": "Picture not resized.",
+		"@_name": "failed_to_resize_image"
+	},
+	{
+		"#text": "\"From \"",
+		"@_name": "favorite_common_from_prefix"
+	},
+	{
+		"#text": "\"To \"",
+		"@_name": "favorite_common_me_send_prefix"
+	},
+	{
+		"#text": "Starred messages",
+		"@_name": "favorite_page_label"
+	},
+	{
+		"#text": "File has been deleted",
+		"@_name": "file_no_exsit"
+	},
+	{
+		"#text": "File has been deleted",
+		"@_name": "file_not_exist"
+	},
+	{
+		"#text": "fitActionView",
+		"@_name": "fit_action_view"
+	},
+	{
+		"#text": "Unable to download Flyme MMS, touch to open the document.",
+		"@_name": "flyme_disk_limit_notify_description"
+	},
+	{
+		"#text": "SD card out of space",
+		"@_name": "flyme_disk_limite"
+	},
+	{
+		"#text": "https://pay-res.meizu.com/resources/pay/h5/flyme5_pay_h5.zip",
+		"@_name": "flyme_h5_file_download_pay"
+	},
+	{
+		"#text": "The file has been deleted",
+		"@_name": "flyme_message_reDownload_msg"
+	},
+	{
+		"#text": "Download it again",
+		"@_name": "flyme_message_reDownload_positive_title"
+	},
+	{
+		"#text": "Clear now",
+		"@_name": "flyme_mms_no_space_dialog_positive"
+	},
+	{
+		"#text": "Available space: %s",
+		"@_name": "flyme_mms_no_space_msg"
+	},
+	{
+		"#text": "SD card ran out of space",
+		"@_name": "flyme_mms_no_space_title"
+	},
+	{
+		"#text": "Web message",
+		"@_name": "flyme_mms_send_action_title"
+	},
+	{
+		"#text": "The recipient cannot receive Flyme MMS, please delete attachments",
+		"@_name": "flyme_no_regist"
+	},
+	{
+		"#text": "\"The recipient's software version does not support Flyme MMS\"",
+		"@_name": "flyme_oldversion_mms"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Fwd:",
+		"@_name": "forward_prefix"
+	},
+	{
+		"#text": "From:",
+		"@_name": "from_label"
+	},
+	{
+		"#text": "You joined group is full",
+		"@_name": "full_group"
+	},
+	{
+		"#text": "Location",
+		"@_name": "get_location_menu"
+	},
+	{
+		"#text": "Group is established",
+		"@_name": "group_chat_established"
+	},
+	{
+		"#text": "join the group",
+		"@_name": "group_chat_join"
+	},
+	{
+		"#text": "kicked out the group",
+		"@_name": "group_chat_kickout"
+	},
+	{
+		"#text": "left the group",
+		"@_name": "group_chat_left"
+	},
+	{
+		"#text": "Manage",
+		"@_name": "group_edit"
+	},
+	{
+		"#text": "%d in total",
+		"@_name": "group_message_recipient_count_title"
+	},
+	{
+		"#text": "Group name has changed to %s",
+		"@_name": "group_name_change"
+	},
+	{
+		"#text": "View details",
+		"@_name": "group_recipients_detail"
+	},
+	{
+		"#text": "Not delivered",
+		"@_name": "group_status_delivey_failed"
+	},
+	{
+		"#text": "Failed to send",
+		"@_name": "group_status_failed"
+	},
+	{
+		"#text": "(none)",
+		"@_name": "group_status_none"
+	},
+	{
+		"#text": "Pending",
+		"@_name": "group_status_pending"
+	},
+	{
+		"#text": "Delivered",
+		"@_name": "group_status_received"
+	},
+	{
+		"#text": "Sent",
+		"@_name": "group_status_sended"
+	},
+	{
+		"#text": "Sending",
+		"@_name": "group_status_sending"
+	},
+	{
+		"#text": "Send details",
+		"@_name": "group_title_mms_delivery_reports"
+	},
+	{
+		"#text": "Guest mode does not support this feature",
+		"@_name": "guest_mode_disable_assistant"
+	},
+	{
+		"#text": "Downloading now, please try again later",
+		"@_name": "has_download_task_tip"
+	},
+	{
+		"#text": "Drafts",
+		"@_name": "has_draft"
+	},
+	{
+		"#text": "Starred",
+		"@_name": "has_favorited"
+	},
+	{
+		"#text": "Invalid recipient",
+		"@_name": "has_invalid_recipient"
+	},
+	{
+		"#text": "Hidden sender address",
+		"@_name": "hidden_sender_address"
+	},
+	{
+		"#text": "Smart SMS, more cost-efficient and convenient",
+		"@_name": "home_rcs_enable_notify_text"
+	},
+	{
+		"#text": "取消",
+		"@_name": "hybrid_cancel"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "hybrid_msg_loading"
+	},
+	{
+		"#text": "网络异常，点击重新加载",
+		"@_name": "hybrid_network_error_to_refresh"
+	},
+	{
+		"#text": "无网络连接，请检查网络设置",
+		"@_name": "hybrid_no_network_to_setting"
+	},
+	{
+		"#text": "确定",
+		"@_name": "hybrid_ok"
+	},
+	{
+		"#text": "设置网络",
+		"@_name": "hybrid_setting_network"
+	},
+	{
+		"#text": "Illegal payment request",
+		"@_name": "illegal_pay_request"
+	},
+	{
+		"#text": "Please input a nickname",
+		"@_name": "input_nickname_hint"
+	},
+	{
+		"#text": "Smart SMS",
+		"@_name": "intelligent_message"
+	},
+	{
+		"#text": "Invalid destination address.",
+		"@_name": "invalid_destination"
+	},
+	{
+		"#text": "Push Messages",
+		"@_name": "ippush_message"
+	},
+	{
+		"#text": "Public Service",
+		"@_name": "ippush_public_service"
+	},
+	{
+		"#text": "Service Introduction",
+		"@_name": "ippush_service_introduce_title"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "You have been kicked out of the group",
+		"@_name": "kicked_out_group"
+	},
+	{
+		"#text": "KB",
+		"@_name": "kilobyte"
+	},
+	{
+		"#text": "%dKB",
+		"@_name": "kilobyte_with_size"
+	},
+	{
+		"@_name": "label_mms_send_outbox_msg"
+	},
+	{
+		"#text": "CellBroadcast",
+		"@_name": "lable_cell_broadcast"
+	},
+	{
+		"#text": "SMS center",
+		"@_name": "lable_sms_center_number"
+	},
+	{
+		"#text": "Layout (bottom)",
+		"@_name": "layout_bottom"
+	},
+	{
+		"#text": "Slide layout",
+		"@_name": "layout_selector_title"
+	},
+	{
+		"#text": "Layout (top)",
+		"@_name": "layout_top"
+	},
+	{
+		"#text": "You have left this group",
+		"@_name": "leave_group"
+	},
+	{
+		"#text": "Loading conversations",
+		"@_name": "loading_conversations"
+	},
+	{
+		"#text": "My Location",
+		"@_name": "location_current"
+	},
+	{
+		"#text": "%s km",
+		"@_name": "location_far_kilometer"
+	},
+	{
+		"#text": "%s m",
+		"@_name": "location_far_meter"
+	},
+	{
+		"#text": "Failed to obtain map screenshot, please retry",
+		"@_name": "location_getmap_timeout"
+	},
+	{
+		"#text": "Fail to obtain location link, please retry",
+		"@_name": "location_geturl_timeout"
+	},
+	{
+		"#text": "Network error",
+		"@_name": "location_net_fail"
+	},
+	{
+		"#text": "No information about this place",
+		"@_name": "location_no_detials_msg"
+	},
+	{
+		"#text": "No match results",
+		"@_name": "location_search_fail"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "long_press_menu_copy"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "long_press_menu_delete"
+	},
+	{
+		"#text": "Forward",
+		"@_name": "long_press_menu_forward"
+	},
+	{
+		"#text": "Open",
+		"@_name": "long_press_menu_open"
+	},
+	{
+		"#text": "Show original text",
+		"@_name": "long_press_menu_original"
+	},
+	{
+		"#text": "Save",
+		"@_name": "long_press_menu_save"
+	},
+	{
+		"#text": "Select",
+		"@_name": "long_press_menu_sel"
+	},
+	{
+		"#text": "Mark all as read",
+		"@_name": "mark_all_as_read_title"
+	},
+	{
+		"#text": "Mark all as read",
+		"@_name": "mark_all_readed"
+	},
+	{
+		"#text": "MB",
+		"@_name": "mbyte"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Meizu Technology",
+		"@_name": "meizu_assistant_company"
+	},
+	{
+		"#text": "GroupMembers is full",
+		"@_name": "member_full_group"
+	},
+	{
+		"@_name": "menu_debug_dump"
+	},
+	{
+		"#text": "Keypad",
+		"@_name": "menu_key_tip"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "menu_preferences"
+	},
+	{
+		"#text": "Search",
+		"@_name": "menu_search"
+	},
+	{
+		"#text": "Message category:",
+		"@_name": "message_class_label"
+	},
+	{
+		"#text": "Message details",
+		"@_name": "message_details_title"
+	},
+	{
+		"#text": "MMS accessory download failed",
+		"@_name": "message_download_failed_title"
+	},
+	{
+		"#text": "Tap to View",
+		"@_name": "message_failed_body"
+	},
+	{
+		"#text": "Star",
+		"@_name": "message_favorite_label"
+	},
+	{
+		"#text": "Marked as favorite",
+		"@_name": "message_favorite_success"
+	},
+	{
+		"#text": "Message expired",
+		"@_name": "message_has_expire_title"
+	},
+	{
+		"#text": "Message expired and cannot be downloaded",
+		"@_name": "message_has_expired"
+	},
+	{
+		"#text": "Notices",
+		"@_name": "message_notice_label"
+	},
+	{
+		"#text": "Notices %s",
+		"@_name": "message_notice_labell_has_unread"
+	},
+	{
+		"#text": "Personal",
+		"@_name": "message_person_label"
+	},
+	{
+		"#text": "Personal %s",
+		"@_name": "message_person_label_has_unread"
+	},
+	{
+		"#text": "Close",
+		"@_name": "message_popup_veri_close"
+	},
+	{
+		"#text": "Company contacts",
+		"@_name": "message_recipient_directory_title"
+	},
+	{
+		"#text": "Search for company contacts",
+		"@_name": "message_recipient_global_search"
+	},
+	{
+		"#text": "Searching for company contacts",
+		"@_name": "message_recipient_global_searching"
+	},
+	{
+		"#text": "Message saved as draft",
+		"@_name": "message_saved_as_draft"
+	},
+	{
+		"#text": "Messages not sent",
+		"@_name": "message_send_failed_title"
+	},
+	{
+		"#text": "Size",
+		"@_name": "message_size_label"
+	},
+	{
+		"#text": "Message too large to attach a video",
+		"@_name": "message_too_big_for_video"
+	},
+	{
+		"#text": "Type:",
+		"@_name": "message_type_label"
+	},
+	{
+		"#text": "Unfavorite",
+		"@_name": "message_unfavorite_label"
+	},
+	{
+		"#text": "Unfavoriting",
+		"@_name": "message_unfavoriting_label"
+	},
+	{
+		"#text": "Me",
+		"@_name": "messagelist_sender_self"
+	},
+	{
+		"#text": "Select image",
+		"@_name": "mms_add_attachment_title_for_picture"
+	},
+	{
+		"#text": "description",
+		"@_name": "mms_add_description"
+	},
+	{
+		"#text": "Unable to attach to MMS.",
+		"@_name": "mms_added_failed"
+	},
+	{
+		"#text": "MMS: Flyme notification",
+		"@_name": "mms_flyme_noti_subject_view"
+	},
+	{
+		"#text": "MMS: %s",
+		"@_name": "mms_has_subject_view"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mms_loading"
+	},
+	{
+		"#text": "MMS: 1 attachment",
+		"@_name": "mms_no_subject_view"
+	},
+	{
+		"#text": "Receiving MMS",
+		"@_name": "mms_noti_rectrive_statu_msg"
+	},
+	{
+		"#text": "MMS: 1 Notification",
+		"@_name": "mms_noti_subject_view"
+	},
+	{
+		"#text": "(MMS notification)",
+		"@_name": "mms_notifi_subject"
+	},
+	{
+		"#text": "%02d:%02d",
+		"@_name": "mms_slide_show_duration",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Details",
+		"@_name": "mms_slideshow_view_title"
+	},
+	{
+		"#text": "MMS: voice notification",
+		"@_name": "mms_talk_noti_subject_view"
+	},
+	{
+		"#text": "In %s",
+		"@_name": "mms_x_year"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Move down",
+		"@_name": "move_down"
+	},
+	{
+		"#text": "Move up",
+		"@_name": "move_up"
+	},
+	{
+		"#text": "vCard info",
+		"@_name": "msg_body_sms_vcard"
+	},
+	{
+		"#text": "联系人信息为空",
+		"@_name": "msg_empty_contact"
+	},
+	{
+		"#text": "Details >",
+		"@_name": "msg_item_text_more_mult_mms"
+	},
+	{
+		"#text": "Details >",
+		"@_name": "msg_item_text_more_single_mms"
+	},
+	{
+		"#text": "Loading data",
+		"@_name": "msg_loading"
+	},
+	{
+		"#text": "Multi-choice",
+		"@_name": "multi_choice"
+	},
+	{
+		"#text": "Select message",
+		"@_name": "multi_tittle_select_message"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "multimedia_message"
+	},
+	{
+		"#text": "MMS notification",
+		"@_name": "multimedia_notification"
+	},
+	{
+		"#text": "Multiple formats supported",
+		"@_name": "multiple_formats"
+	},
+	{
+		"#text": "add recipient",
+		"@_name": "mw_recipient_add_recipient"
+	},
+	{
+		"#text": "Add",
+		"@_name": "mw_recipient_addrecipient_easymode"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mw_recipient_edit_imeActionLabel"
+	},
+	{
+		"#text": "Search for global contacts",
+		"@_name": "mw_recipient_global_search"
+	},
+	{
+		"#text": "Searching for global contacts",
+		"@_name": "mw_recipient_global_searching"
+	},
+	{
+		"#text": "Recipient:",
+		"@_name": "mw_recipient_hint_str"
+	},
+	{
+		"#text": "%d others..",
+		"@_name": "mw_recipient_others_displayname"
+	},
+	{
+		"#text": "Search for Weibo contacts",
+		"@_name": "mw_recipient_sns_search"
+	},
+	{
+		"#text": "Searching Weibo contacts ..",
+		"@_name": "mw_recipient_sns_searching"
+	},
+	{
+		"#text": "Update Weibo contacts",
+		"@_name": "mw_recipient_sns_update"
+	},
+	{
+		"#text": "Updating Weibo contacts..",
+		"@_name": "mw_recipient_sns_updating"
+	},
+	{
+		"#text": "Recipient",
+		"@_name": "mw_recipient_title"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mw_recipient_title_email"
+	},
+	{
+		"#text": "Message",
+		"@_name": "mw_recipient_title_message"
+	},
+	{
+		"#text": "%d people",
+		"@_name": "mw_recipient_total_str"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "\"You need to: 1) make a copy of your database which includes MMS to the internal storage, and 2) email it. Remember to delete the copy asap after you have copied it from the device or the email is received. \n\n Please wait one minute after you tap Start.\"",
+		"@_name": "mzc_debug_dump_database_message"
+	},
+	{
+		"#text": "Delete now",
+		"@_name": "mzc_debug_dump_delete_button"
+	},
+	{
+		"#text": "Attached is my MMS database. Be careful when handling it!",
+		"@_name": "mzc_debug_dump_email_body"
+	},
+	{
+		"#text": "Choose a program to send your file",
+		"@_name": "mzc_debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "MMS database attached",
+		"@_name": "mzc_debug_dump_email_subject"
+	},
+	{
+		"#text": "Start",
+		"@_name": "mzc_debug_dump_start_button"
+	},
+	{
+		"#text": "Copy MMS database",
+		"@_name": "mzc_debug_dump_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Network Request Error",
+		"@_name": "networkRequestError"
+	},
+	{
+		"#text": "Network error, tap to reload",
+		"@_name": "network_error_to_refresh"
+	},
+	{
+		"#text": "Web Messages",
+		"@_name": "network_message"
+	},
+	{
+		"#text": "become the new gourp manager",
+		"@_name": "new_group_manager"
+	},
+	{
+		"#text": "New message",
+		"@_name": "new_message"
+	},
+	{
+		"#text": "%d new messages",
+		"@_name": "new_message_notification_tip"
+	},
+	{
+		"#text": "Got It",
+		"@_name": "nickname_dialog_confirm"
+	},
+	{
+		"#text": "\"While editing group message, according to recipients' name, generate nickname, then add the nickname to the message.\"",
+		"@_name": "nickname_dialog_content"
+	},
+	{
+		"#text": "Description",
+		"@_name": "nickname_dialog_title"
+	},
+	{
+		"#text": "For example, to send message to Sam and Lucy:",
+		"@_name": "nickname_function_dialog_example"
+	},
+	{
+		"#text": "!",
+		"@_name": "nickname_function_dialog_example_content_end"
+	},
+	{
+		"#text": "Happy new year to",
+		"@_name": "nickname_function_dialog_example_content_start"
+	},
+	{
+		"#text": "The messages that received by Sam and Lucy will be:",
+		"@_name": "nickname_function_dialog_example_send_out"
+	},
+	{
+		"#text": "Happy new year, Sam!",
+		"@_name": "nickname_function_dialog_example_send_out_content1"
+	},
+	{
+		"#text": "Happy new year, Lucy!",
+		"@_name": "nickname_function_dialog_example_send_out_content2"
+	},
+	{
+		"#text": "Contact",
+		"@_name": "nickname_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "no"
+	},
+	{
+		"#text": "No APN specified on the device.",
+		"@_name": "no_apn"
+	},
+	{
+		"#text": "No charges",
+		"@_name": "no_charge_description"
+	},
+	{
+		"#text": "No Messages",
+		"@_name": "no_conversations"
+	},
+	{
+		"#text": "Not available in current mode",
+		"@_name": "no_exec_app_to_select"
+	},
+	{
+		"#text": "No Messages",
+		"@_name": "no_favorite_message"
+	},
+	{
+		"#text": "No network, please check your settings.",
+		"@_name": "no_network_to_setting"
+	},
+	{
+		"#text": "No Results Found",
+		"@_name": "no_search_results"
+	},
+	{
+		"#text": "No SIM card",
+		"@_name": "no_sim"
+	},
+	{
+		"#text": "No UIM card",
+		"@_name": "no_sim_cdma"
+	},
+	{
+		"#text": "Easy and free to use",
+		"@_name": "no_use_threshold"
+	},
+	{
+		"#text": "\"You haven't selected the location to send\"",
+		"@_name": "not_choose_location"
+	},
+	{
+		"#text": "The built-in Messages app has no permission to send or delete messages",
+		"@_name": "not_default_message_app_dialog_message"
+	},
+	{
+		"#text": "The built-in app is not your default SMS app",
+		"@_name": "not_default_message_app_dialog_title"
+	},
+	{
+		"#text": "Download Failed",
+		"@_name": "notification_download_failed"
+	},
+	{
+		"#text": "%s SMS cannot be sent",
+		"@_name": "notification_failed_multiple"
+	},
+	{
+		"#text": "Messages not sent",
+		"@_name": "notification_failed_multiple_title"
+	},
+	{
+		"#text": "receive%s message(s)",
+		"@_name": "notify_hide_content_msg_unique"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Open keyboard to type message",
+		"@_name": "open_keyboard_to_compose_message"
+	},
+	{
+		"#text": "Payment service authorization",
+		"@_name": "open_pay_auto_pay_permission_title"
+	},
+	{
+		"#text": "Illegal request, order incomplete",
+		"@_name": "orderInfoIncomplete"
+	},
+	{
+		"#text": "The system is busy, please try again later",
+		"@_name": "pay_base_channel_access_server_error"
+	},
+	{
+		"#text": "Payment failed",
+		"@_name": "pay_base_channel_pay_fail"
+	},
+	{
+		"#text": "Payment made successfully",
+		"@_name": "pay_base_channel_pay_success"
+	},
+	{
+		"#text": "Payment failed, unknown exception",
+		"@_name": "pay_base_channel_pay_unknown_error"
+	},
+	{
+		"#text": "Payment failed",
+		"@_name": "pay_fail"
+	},
+	{
+		"#text": "Payment made successfully",
+		"@_name": "pay_success"
+	},
+	{
+		"#text": "Payment failed, unknown exception",
+		"@_name": "pay_unknown_error"
+	},
+	{
+		"#text": "Network is required for Messages to identify and filter junk SMS",
+		"@_name": "permission_dialog_message"
+	},
+	{
+		"#text": "The time selected can not earlier than the current time",
+		"@_name": "pick_timer_warning"
+	},
+	{
+		"#text": "Add recipient",
+		"@_name": "please_add_recipient"
+	},
+	{
+		"#text": "Messages and calls from the blacklist will be blocked",
+		"@_name": "pref_key_block_number_list_summary"
+	},
+	{
+		"#text": "Blacklist",
+		"@_name": "pref_key_block_number_list_title"
+	},
+	{
+		"@_name": "pref_messages_to_save"
+	},
+	{
+		"#text": "More",
+		"@_name": "pref_more_title"
+	},
+	{
+		"#text": "\"Automatically return a read report at the sender's request when a new message is read\"",
+		"@_name": "pref_summary_allow_return_mms_read_reports"
+	},
+	{
+		"#text": "System default",
+		"@_name": "pref_summary_default_message_is_system_own"
+	},
+	{
+		"#text": "Edit messages for quick responses",
+		"@_name": "pref_summary_edit_quick_reply"
+	},
+	{
+		"#text": "Auto download messages",
+		"@_name": "pref_summary_mms_auto_retrieval"
+	},
+	{
+		"#text": "Request a read report for every message you send",
+		"@_name": "pref_summary_mms_read_reports"
+	},
+	{
+		"#text": "Default SMS app",
+		"@_name": "pref_title_default_message_app"
+	},
+	{
+		"#text": "Message storage",
+		"@_name": "pref_title_key_message_capacity"
+	},
+	{
+		"#text": "Blocklist",
+		"@_name": "pref_title_manage_messages_spam"
+	},
+	{
+		"#text": "SIM messages (%s)",
+		"@_name": "pref_title_manage_multi_sim_messages"
+	},
+	{
+		"#text": "Manage messages stored on your card(%s)",
+		"@_name": "pref_title_manage_multi_sim_messages_cdma"
+	},
+	{
+		"#text": "SIM messages",
+		"@_name": "pref_title_manage_sim_messages"
+	},
+	{
+		"#text": "Manage messages stored on your card",
+		"@_name": "pref_title_manage_sim_messages_cdma"
+	},
+	{
+		"#text": "Allow read report to be returned to MMS",
+		"@_name": "pref_title_mms_allow_return_read_reports"
+	},
+	{
+		"#text": "Auto download MMS",
+		"@_name": "pref_title_mms_auto_retrieval"
+	},
+	{
+		"#text": "Mms read report",
+		"@_name": "pref_title_mms_read_reports"
+	},
+	{
+		"#text": "Download MMS when roaming",
+		"@_name": "pref_title_mms_retrieval_during_roaming"
+	},
+	{
+		"#text": "Show details in notifications",
+		"@_name": "pref_title_notification_enabled"
+	},
+	{
+		"#text": "Delivery report",
+		"@_name": "pref_title_sms_delivery_reports"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "preferences_title"
+	},
+	{
+		"#text": "Adding recipients",
+		"@_name": "prepare_add_recipient"
+	},
+	{
+		"#text": "Preparing data to send",
+		"@_name": "prepare_mms_pdu_data"
+	},
+	{
+		"#text": "Preview",
+		"@_name": "preview"
+	},
+	{
+		"#text": "Preview",
+		"@_name": "preview_slideshow"
+	},
+	{
+		"#text": "High",
+		"@_name": "priority_high"
+	},
+	{
+		"#text": "Priority:",
+		"@_name": "priority_label"
+	},
+	{
+		"#text": "Low",
+		"@_name": "priority_low"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "priority_normal"
+	},
+	{
+		"#text": "Importing",
+		"@_name": "progress_copy_title"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "progress_del_title"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "MzPullRefreshLayout",
+		"@_name": "ptr_label"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "just now",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "seconds ago",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": 100088,
+		"@_name": "push_app_id"
+	},
+	{
+		"#text": "560b608f327a461bb7f474e1502a478d",
+		"@_name": "push_app_key"
+	},
+	{
+		"#text": "Reply",
+		"@_name": "quick_reply"
+	},
+	{
+		"#text": "Quick responses",
+		"@_name": "quick_reply_menu"
+	},
+	{
+		"#text": "Save the edited text?",
+		"@_name": "quick_reply_save_alert"
+	},
+	{
+		"#text": "Confirm",
+		"@_name": "rate_limit_surpassed"
+	},
+	{
+		"#text": "[audio]",
+		"@_name": "rcs_audio_subject_view"
+	},
+	{
+		"#text": "\"No charge when the other party's carrier is China Mobile\"",
+		"@_name": "rcs_banner_text_01"
+	},
+	{
+		"#text": "Voice chat, multimedia messages such as pictures and videos are supported",
+		"@_name": "rcs_banner_text_02"
+	},
+	{
+		"#text": "Information visual card design to improve reading efficiency",
+		"@_name": "rcs_banner_text_03"
+	},
+	{
+		"#text": "取消",
+		"@_name": "rcs_common_cancel"
+	},
+	{
+		"#text": "确认",
+		"@_name": "rcs_common_confirm"
+	},
+	{
+		"#text": "数据获取失败",
+		"@_name": "rcs_common_get_data_failed"
+	},
+	{
+		"#text": "参数无效",
+		"@_name": "rcs_common_invalid_params"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "rcs_common_loading"
+	},
+	{
+		"#text": "网络不可用，请检查网络设置",
+		"@_name": "rcs_common_network_disabled"
+	},
+	{
+		"#text": "是否举报该条消息内容？",
+		"@_name": "rcs_complaint_content"
+	},
+	{
+		"#text": "举报失败",
+		"@_name": "rcs_complaint_fail"
+	},
+	{
+		"#text": "不再接收该企业此类消息",
+		"@_name": "rcs_complaint_is_shielding"
+	},
+	{
+		"#text": "仅限中国移动号码可提交举报",
+		"@_name": "rcs_complaint_only_cmcc"
+	},
+	{
+		"#text": "举报",
+		"@_name": "rcs_complaint_title"
+	},
+	{
+		"#text": "[file]",
+		"@_name": "rcs_file_subject_view"
+	},
+	{
+		"#text": "Send and receive SMS for free. Learn more?",
+		"@_name": "rcs_guide_notification"
+	},
+	{
+		"#text": "[image]",
+		"@_name": "rcs_image_subject_view"
+	},
+	{
+		"#text": "\"Meizu Smart SMS is a service provided by China mobile's Converged Communication platform. For full function and experience, the platform (and Fetion service) will be opened free of charge. For more details, go http://feixin.10086.cn/native. If you don't need it, configure it in Messages > Settings > Smart SMS.\"",
+		"@_name": "rcs_introduce"
+	},
+	{
+		"#text": "[location]",
+		"@_name": "rcs_location_subject_view"
+	},
+	{
+		"#text": "Rcs Message Off",
+		"@_name": "rcs_message_off"
+	},
+	{
+		"#text": "Rcs Message On",
+		"@_name": "rcs_message_on"
+	},
+	{
+		"#text": "Rcs Message",
+		"@_name": "rcs_message_use"
+	},
+	{
+		"#text": "Rcs Message Key",
+		"@_name": "rcs_message_use_key"
+	},
+	{
+		"#text": "Close",
+		"@_name": "rcs_msg_state_closed"
+	},
+	{
+		"#text": "Open",
+		"@_name": "rcs_msg_state_opened"
+	},
+	{
+		"#text": "\"If the recipient's phone carrier is China Mobile, SMS will be sent via networks and free of charge\"",
+		"@_name": "rcs_no_charge_description"
+	},
+	{
+		"#text": "\"Only the recipient's phone number needed. No app installation or adding friends\"",
+		"@_name": "rcs_no_use_threshold"
+	},
+	{
+		"#text": "Smart SMS enabled",
+		"@_name": "rcs_open_toasttext"
+	},
+	{
+		"#text": "smart message",
+		"@_name": "rcs_public_message"
+	},
+	{
+		"#text": "[Red Packet]",
+		"@_name": "rcs_red_packet_text"
+	},
+	{
+		"#text": "流量红包",
+		"@_name": "rcs_redpacket_detail_title"
+	},
+	{
+		"#text": "此红包仅限中国移动号码领取",
+		"@_name": "rcs_redpacket_only_cmcc"
+	},
+	{
+		"#text": "红包已失效",
+		"@_name": "rcs_redpacket_status_invalid"
+	},
+	{
+		"#text": "手机号非法不支持领取",
+		"@_name": "rcs_redpacket_status_phone_illegal"
+	},
+	{
+		"#text": "领取红包",
+		"@_name": "rcs_redpacket_status_text"
+	},
+	{
+		"#text": "红包已领取",
+		"@_name": "rcs_redpacket_status_used"
+	},
+	{
+		"#text": "Rcs Setting",
+		"@_name": "rcs_setting"
+	},
+	{
+		"#text": "取消",
+		"@_name": "rcs_share_cancel"
+	},
+	{
+		"#text": "来自信析宝RCS的分享",
+		"@_name": "rcs_share_default_description"
+	},
+	{
+		"#text": "QQ好友",
+		"@_name": "rcs_share_platform_qq"
+	},
+	{
+		"#text": "QQ空间",
+		"@_name": "rcs_share_platform_qzone"
+	},
+	{
+		"#text": "微博",
+		"@_name": "rcs_share_platform_sina"
+	},
+	{
+		"#text": "微信好友",
+		"@_name": "rcs_share_platform_wechat"
+	},
+	{
+		"#text": "朋友圈",
+		"@_name": "rcs_share_platform_wechat_moment"
+	},
+	{
+		"#text": "分享到",
+		"@_name": "rcs_share_to"
+	},
+	{
+		"#text": "SMS, image, audio, video, position, and vCard are supported to send",
+		"@_name": "rcs_support_multiple_formats"
+	},
+	{
+		"#text": "After enabled, send SMS to China Mobile users for free, and charge only 0.01 RMB per SMS when sending it to China Unicom users and China Telecom users.",
+		"@_name": "rcs_switch_description"
+	},
+	{
+		"#text": "Only China Mobile cards supported",
+		"@_name": "rcs_switch_dialog_message"
+	},
+	{
+		"#text": "Translate Sms",
+		"@_name": "rcs_translate_sms"
+	},
+	{
+		"#text": "Translate Sms Key",
+		"@_name": "rcs_translate_sms_key"
+	},
+	{
+		"#text": "When text message less than 900 bytes send failed, translate to send it by sms.",
+		"@_name": "rcs_translate_sms_summary"
+	},
+	{
+		"#text": "[name card]",
+		"@_name": "rcs_vcard_subject_view"
+	},
+	{
+		"#text": "播放",
+		"@_name": "rcs_video_continue_play"
+	},
+	{
+		"#text": "00:00",
+		"@_name": "rcs_video_default_time"
+	},
+	{
+		"#text": "视频出错了! 点击重播",
+		"@_name": "rcs_video_error"
+	},
+	{
+		"#text": "了解更多",
+		"@_name": "rcs_video_know_more"
+	},
+	{
+		"#text": "播放将消耗",
+		"@_name": "rcs_video_mobile_network_tip_prefix"
+	},
+	{
+		"#text": "MB流量",
+		"@_name": "rcs_video_mobile_network_tip_suffix"
+	},
+	{
+		"#text": "网络已恢复，重新连接中",
+		"@_name": "rcs_video_network_reconnected"
+	},
+	{
+		"#text": "播放",
+		"@_name": "rcs_video_play"
+	},
+	{
+		"#text": "返回",
+		"@_name": "rcs_video_return"
+	},
+	{
+		"#text": "[video]",
+		"@_name": "rcs_video_subject_view"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "rcs_web_abouts"
+	},
+	{
+		"#text": "取消",
+		"@_name": "rcs_web_download_no"
+	},
+	{
+		"#text": "下载",
+		"@_name": "rcs_web_download_yes"
+	},
+	{
+		"#text": "当前网络为非Wi-Fi环境，是否继续使用手机流量下载",
+		"@_name": "rcs_web_mobile_network_download_message"
+	},
+	{
+		"#text": "流量提醒",
+		"@_name": "rcs_web_mobile_network_tip"
+	},
+	{
+		"#text": "网络失效了，打开网络看看",
+		"@_name": "rcs_web_network_fail"
+	},
+	{
+		"#text": "网络设置",
+		"@_name": "rcs_web_network_setting"
+	},
+	{
+		"#text": "分享",
+		"@_name": "rcs_web_share"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "read_report_dialog_cancel"
+	},
+	{
+		"#text": "Send",
+		"@_name": "read_report_dialog_send"
+	},
+	{
+		"#text": "Send read report?",
+		"@_name": "read_report_dialog_title"
+	},
+	{
+		"#text": "%s read",
+		"@_name": "read_report_toast_body"
+	},
+	{
+		"#text": "%s unread",
+		"@_name": "read_report_toast_body_fail"
+	},
+	{
+		"#text": "Received:",
+		"@_name": "received_label"
+	},
+	{
+		"#text": "Recording length:",
+		"@_name": "recoder_time"
+	},
+	{
+		"#text": "Recording too short",
+		"@_name": "recoder_time_limit_short"
+	},
+	{
+		"#text": "Recording failed",
+		"@_name": "record_failed"
+	},
+	{
+		"#text": "This feature is not supported by your phone.",
+		"@_name": "remote_not_exist"
+	},
+	{
+		"#text": "Remove music",
+		"@_name": "remove_music"
+	},
+	{
+		"#text": "Remove picture",
+		"@_name": "remove_picture"
+	},
+	{
+		"#text": "Remove slide",
+		"@_name": "remove_slide"
+	},
+	{
+		"#text": "Remove text",
+		"@_name": "remove_text"
+	},
+	{
+		"#text": "Remove video",
+		"@_name": "remove_video"
+	},
+	{
+		"#text": "Replace picture",
+		"@_name": "replace_image"
+	},
+	{
+		"#text": "Reply Message",
+		"@_name": "reply_activity"
+	},
+	{
+		"#text": "Nickname",
+		"@_name": "represent_content"
+	},
+	{
+		"#text": "Request too fast",
+		"@_name": "request_too_fast"
+	},
+	{
+		"#text": "Resend",
+		"@_name": "resend_btn"
+	},
+	{
+		"#text": "Resend?",
+		"@_name": "resend_title"
+	},
+	{
+		"#text": "This picture is still too large to send even after being resized",
+		"@_name": "resize_image_error_information"
+	},
+	{
+		"#text": "Restore",
+		"@_name": "restore_nickname_title"
+	},
+	{
+		"#text": "Save to",
+		"@_name": "save"
+	},
+	{
+		"#text": "Save",
+		"@_name": "save_btn"
+	},
+	{
+		"#text": "Saved:",
+		"@_name": "saved_label"
+	},
+	{
+		"#text": "Saving",
+		"@_name": "saving"
+	},
+	{
+		"#text": "Attachment does not exist.",
+		"@_name": "sd_file_not_exist"
+	},
+	{
+		"#text": "SD card not ready",
+		"@_name": "sd_mount_err"
+	},
+	{
+		"#text": "The attachment to be sent is saved on the SD card, which was removed. Insert it or remove the attachment to send!",
+		"@_name": "sd_removed_message"
+	},
+	{
+		"#text": "Messaging",
+		"@_name": "search"
+	},
+	{
+		"#text": "Search for message",
+		"@_name": "search_hint"
+	},
+	{
+		"@_name": "search_label"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"@_name": "search_setting_description"
+	},
+	{
+		"#text": "Searching",
+		"@_name": "searching"
+	},
+	{
+		"#text": "sec(s)",
+		"@_name": "secs"
+	},
+	{
+		"#text": "Another %s message, See all",
+		"@_name": "see_all_group_message_title"
+	},
+	{
+		"#text": "See",
+		"@_name": "see_in_filemanager_title"
+	},
+	{
+		"#text": "Text at the bottom",
+		"@_name": "select_bottom_text"
+	},
+	{
+		"#text": "matching",
+		"@_name": "select_conversation_matching"
+	},
+	{
+		"#text": "Recipient",
+		"@_name": "select_recipt_contact_act_title"
+	},
+	{
+		"#text": "Text on the top",
+		"@_name": "select_top_text"
+	},
+	{
+		"#text": "Send",
+		"@_name": "send"
+	},
+	{
+		"#text": "Send Message",
+		"@_name": "send_btn"
+	},
+	{
+		"#text": "Choose sending method",
+		"@_name": "send_type_choose"
+	},
+	{
+		"#text": "Choose send type",
+		"@_name": "send_type_choose_title"
+	},
+	{
+		"#text": "Sending disabled",
+		"@_name": "sending_disabled_not_default_app"
+	},
+	{
+		"#text": "Sending",
+		"@_name": "sending_message"
+	},
+	{
+		"#text": "Sent:",
+		"@_name": "sent_label"
+	},
+	{
+		"#text": "Server error",
+		"@_name": "server_error"
+	},
+	{
+		"#text": "置顶",
+		"@_name": "service__num_tips_top"
+	},
+	{
+		"#text": "推荐",
+		"@_name": "service_comment_tips_top"
+	},
+	{
+		"#text": "Message expired or not available for viewing",
+		"@_name": "service_message_not_found"
+	},
+	{
+		"#text": "Service not activated on network",
+		"@_name": "service_not_activated"
+	},
+	{
+		"#text": "更多",
+		"@_name": "service_num_more"
+	},
+	{
+		"#text": "搜索",
+		"@_name": "service_num_seach"
+	},
+	{
+		"#text": "删除",
+		"@_name": "service_num_setting_delete"
+	},
+	{
+		"#text": "服务号",
+		"@_name": "service_num_title_name"
+	},
+	{
+		"#text": "取消置顶",
+		"@_name": "service_setting_cancel_top"
+	},
+	{
+		"#text": "置顶",
+		"@_name": "service_setting_top"
+	},
+	{
+		"#text": "Recently used services",
+		"@_name": "servicefunction_least_recently_used"
+	},
+	{
+		"#text": "The services used in the information are shown here",
+		"@_name": "servicefunction_not_exist_description"
+	},
+	{
+		"#text": "Application",
+		"@_name": "servicefunction_type_app"
+	},
+	{
+		"#text": "Quick service",
+		"@_name": "servicefunction_type_h5"
+	},
+	{
+		"#text": "Quick App",
+		"@_name": "servicefunction_type_qapp"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "set"
+	},
+	{
+		"#text": "Set",
+		"@_name": "setting_network"
+	},
+	{
+		"#text": "Card 1",
+		"@_name": "sim1"
+	},
+	{
+		"#text": "Card 2",
+		"@_name": "sim2"
+	},
+	{
+		"#text": "Close",
+		"@_name": "sim_close"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "sim_delete"
+	},
+	{
+		"#text": "No messages on SIM card.",
+		"@_name": "sim_empty"
+	},
+	{
+		"#text": "Delete some messages to free up space.",
+		"@_name": "sim_full_body"
+	},
+	{
+		"#text": "SIM card full",
+		"@_name": "sim_full_title"
+	},
+	{
+		"#text": "Open",
+		"@_name": "sim_open"
+	},
+	{
+		"#text": "Card 1%s, Card 2%s",
+		"@_name": "sim_status",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Normal message",
+		"@_name": "sim_type_normal"
+	},
+	{
+		"#text": "MB",
+		"@_name": "size_unit"
+	},
+	{
+		"#text": "Skip",
+		"@_name": "skip_introduce"
+	},
+	{
+		"#text": "\"You can't add this %1$s to your message\"",
+		"@_name": "slide_failed_to_add_media"
+	},
+	{
+		"#text": "Slide %s",
+		"@_name": "slide_number"
+	},
+	{
+		"#text": "%1$s of %2$s",
+		"@_name": "slide_show_part"
+	},
+	{
+		"#text": "Slideshow",
+		"@_name": "slideshow_activity"
+	},
+	{
+		"#text": "Slide options",
+		"@_name": "slideshow_options"
+	},
+	{
+		"#text": "Unable to receive SMS as the storage is full. Please free up space",
+		"@_name": "sms_full_body"
+	},
+	{
+		"#text": "SMS memory full",
+		"@_name": "sms_full_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "sms_mms_failed_cancel_title"
+	},
+	{
+		"#text": "%1$s recipient(s)",
+		"@_name": "sms_mms_failed_message_multi"
+	},
+	{
+		"#text": "Resend",
+		"@_name": "sms_mms_failed_redeliver_title"
+	},
+	{
+		"#text": "请输入统一认证安全码",
+		"@_name": "sso_string_input_seccode_title"
+	},
+	{
+		"#text": "请检查网络连接",
+		"@_name": "sso_string_net_system_exception"
+	},
+	{
+		"#text": "操作频繁，请稍后再试",
+		"@_name": "sso_string_operator_limited"
+	},
+	{
+		"#text": "安全码错误",
+		"@_name": "sso_string_seccode_error"
+	},
+	{
+		"#text": "忘记密码？",
+		"@_name": "sso_string_seccode_manager_forget_pwd"
+	},
+	{
+		"#text": "登录用户:",
+		"@_name": "sso_string_seccode_manager_login_username"
+	},
+	{
+		"#text": "开启安全码二次鉴权，增强隐私数据安全性",
+		"@_name": "sso_string_seccode_manager_tips"
+	},
+	{
+		"#text": "设置成功",
+		"@_name": "sso_string_seccode_set_success"
+	},
+	{
+		"#text": "确认",
+		"@_name": "sso_string_seccode_success_confirm"
+	},
+	{
+		"#text": "验证成功",
+		"@_name": "sso_string_seccode_valify_success"
+	},
+	{
+		"#text": "服务异常，请稍后再试",
+		"@_name": "sso_string_service_exception_retry"
+	},
+	{
+		"#text": "请设置统一认证安全码",
+		"@_name": "sso_string_set_seccode_title"
+	},
+	{
+		"#text": "Tap to download",
+		"@_name": "start_download_title"
+	},
+	{
+		"#text": "https://pay-res.meizu.com/resources/pay/h5/config.json",
+		"@_name": "static_file_down_load_pay"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "(none)",
+		"@_name": "status_none"
+	},
+	{
+		"#text": "Read",
+		"@_name": "status_read"
+	},
+	{
+		"#text": "Rejected",
+		"@_name": "status_rejected"
+	},
+	{
+		"#text": "Unread",
+		"@_name": "status_unread"
+	},
+	{
+		"@_name": "storage_limits_activity"
+	},
+	{
+		"#text": "Limit the number of messages you can save per conversation?",
+		"@_name": "storage_limits_message"
+	},
+	{
+		"#text": "Set limit",
+		"@_name": "storage_limits_setting"
+	},
+	{
+		"#text": "Unlimited",
+		"@_name": "storage_limits_setting_dismiss"
+	},
+	{
+		"#text": "\"You won't receive new SMS/MMS messages\"",
+		"@_name": "storage_warning_content"
+	},
+	{
+		"#text": "\"Your phone's storage is full\"",
+		"@_name": "storage_warning_title"
+	},
+	{
+		"#text": "Subject",
+		"@_name": "subject_hint"
+	},
+	{
+		"#text": "Subject:",
+		"@_name": "subject_label"
+	},
+	{
+		"#text": "Character upper limit reached",
+		"@_name": "subject_reach_input_limit_cmcc"
+	},
+	{
+		"#text": "Details of %1$s",
+		"@_name": "talk_avatar_detail"
+	},
+	{
+		"#text": "MMS: 1 audio",
+		"@_name": "talk_subject"
+	},
+	{
+		"#text": "c87fc42fac3bff0e5bf917d02604b8ef",
+		"@_name": "tedi_key"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "text_message"
+	},
+	{
+		"#text": "MMM d",
+		"@_name": "timer_date_formater_format"
+	},
+	{
+		"#text": "MM/dd/yyyy HH:mm",
+		"@_name": "timer_date_formatter"
+	},
+	{
+		"#text": "MM/dd/yyyy hh:mm a",
+		"@_name": "timer_date_formatter_12"
+	},
+	{
+		"#text": "h",
+		"@_name": "timer_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "timer_date_time_min"
+	},
+	{
+		"#text": "Will be sent in %1$s",
+		"@_name": "timer_string_formatter"
+	},
+	{
+		"#text": "数据来源百度地图",
+		"@_name": "tip_data_source"
+	},
+	{
+		"#text": "点击加载更多数据",
+		"@_name": "tip_load_more"
+	},
+	{
+		"#text": "加载中...",
+		"@_name": "tip_loading"
+	},
+	{
+		"#text": "Free SMS (China Mobile user only)",
+		"@_name": "tip_overflow_text"
+	},
+	{
+		"#text": "米佳信析宝提供服务",
+		"@_name": "tip_services_provide"
+	},
+	{
+		"#text": "充流量",
+		"@_name": "title_buy_data"
+	},
+	{
+		"#text": "充话费",
+		"@_name": "title_buy_tel"
+	},
+	{
+		"#text": "Recipient",
+		"@_name": "title_coversation_contact_multi"
+	},
+	{
+		"#text": "Contact details",
+		"@_name": "title_coversation_contact_single"
+	},
+	{
+		"#text": "魅友卡",
+		"@_name": "title_mz_card"
+	},
+	{
+		"#text": "手机充值",
+		"@_name": "title_phone_recharge"
+	},
+	{
+		"#text": "Recipient:",
+		"@_name": "to_address_label"
+	},
+	{
+		"#text": "Sending a message is not available",
+		"@_name": "toast_cannot_send_message"
+	},
+	{
+		"#text": "Too many recipients (%1$s). You can send messages to no more than %2$s recipients.",
+		"@_name": "too_many_recipients"
+	},
+	{
+		"#text": "Pin to top",
+		"@_name": "top"
+	},
+	{
+		"#text": "Top chat",
+		"@_name": "top_group_thread_title"
+	},
+	{
+		"#text": "Tap to view",
+		"@_name": "touch_to_browse"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "type_audio"
+	},
+	{
+		"#text": "File",
+		"@_name": "type_file"
+	},
+	{
+		"#text": "Image",
+		"@_name": "type_picture"
+	},
+	{
+		"#text": "Text",
+		"@_name": "type_text"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "type_to_compose_sms_enter_to_send"
+	},
+	{
+		"#text": "SMS / MMS",
+		"@_name": "type_to_compose_text_enter_to_send"
+	},
+	{
+		"#text": "Type message, or leave blank",
+		"@_name": "type_to_compose_text_or_leave_blank"
+	},
+	{
+		"#text": "Contact vCard",
+		"@_name": "type_vcard"
+	},
+	{
+		"#text": "Video",
+		"@_name": "type_video"
+	},
+	{
+		"#text": "Card is full",
+		"@_name": "uim_full_title"
+	},
+	{
+		"#text": "Read",
+		"@_name": "unfiltrate"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "Unknown sender",
+		"@_name": "unknown_sender"
+	},
+	{
+		"#text": "Data error",
+		"@_name": "unkown_file"
+	},
+	{
+		"#text": "Unsubscribe",
+		"@_name": "unsubscribe"
+	},
+	{
+		"#text": "Unsubscribe instructions",
+		"@_name": "unsubscribe_instructions"
+	},
+	{
+		"#text": "If you want to block all unsubscribe supported messages, you can go to Blocklist - SMS blocking to set.",
+		"@_name": "unsubscribe_instructions_message_five"
+	},
+	{
+		"#text": "You can recover the blocked SMS in settings-harassment intercept.",
+		"@_name": "unsubscribe_instructions_message_four"
+	},
+	{
+		"#text": "\"For unsubscribe supported messages, users cannot successfully unsubscribe them by replying TD.They may need to reply reply TD, TD can, reply TD can and other instructions, to cope with the advertisers' word games.\"",
+		"@_name": "unsubscribe_instructions_message_one"
+	},
+	{
+		"#text": "Blocklist - SMS blocking",
+		"@_name": "unsubscribe_instructions_message_span"
+	},
+	{
+		"#text": "This unsubscribe feature does not respond to any instruction, but automatically intercepts unsubscribe supported messages sent by this number.",
+		"@_name": "unsubscribe_instructions_message_three"
+	},
+	{
+		"#text": "In addition, after replying to the faked instructions, some advertisers may even think you are active and send you more ads later.",
+		"@_name": "unsubscribe_instructions_message_two"
+	},
+	{
+		"#text": "Unsubscribe from information",
+		"@_name": "unsubscribe_sms"
+	},
+	{
+		"#text": "Successfully unsubscribed",
+		"@_name": "unsubscribe_success"
+	},
+	{
+		"#text": "Unsubscribe will no longer receive subscription information sent by this number",
+		"@_name": "unsubscribe_tips"
+	},
+	{
+		"#text": "Unsubscribed",
+		"@_name": "unsubscribed"
+	},
+	{
+		"#text": "This file format is not available",
+		"@_name": "unsupported_file_format"
+	},
+	{
+		"#text": "File format is not supported",
+		"@_name": "unsupported_media_format"
+	},
+	{
+		"#text": "\"Birthday:%1$s\n\"",
+		"@_name": "vcard_birthday"
+	},
+	{
+		"#text": "\"Email:%1$s\n\"",
+		"@_name": "vcard_email"
+	},
+	{
+		"#text": "\"Instant message:%1$s\n\"",
+		"@_name": "vcard_ims"
+	},
+	{
+		"#text": "Name",
+		"@_name": "vcard_name"
+	},
+	{
+		"#text": "\"Nickname:%1$s\n\"",
+		"@_name": "vcard_nickname"
+	},
+	{
+		"#text": "\"Notes:%1$s\n\"",
+		"@_name": "vcard_note"
+	},
+	{
+		"#text": "Phone:",
+		"@_name": "vcard_number_hint"
+	},
+	{
+		"#text": "\"Company:%1$s\n\"",
+		"@_name": "vcard_organization"
+	},
+	{
+		"#text": "\"Address:%1$s\n\"",
+		"@_name": "vcard_postal"
+	},
+	{
+		"#text": "Phone number",
+		"@_name": "vcard_tel"
+	},
+	{
+		"#text": "\"Website:%1$s\n\"",
+		"@_name": "vcard_website"
+	},
+	{
+		"#text": "View as slide",
+		"@_name": "view_by_slide_title"
+	},
+	{
+		"#text": "Details",
+		"@_name": "view_message_details"
+	},
+	{
+		"#text": "View more conversations",
+		"@_name": "view_more_conversations"
+	},
+	{
+		"#text": "Press and hold while speaking",
+		"@_name": "voice_text_normal"
+	},
+	{
+		"#text": "Release to end",
+		"@_name": "voice_text_over"
+	},
+	{
+		"#text": "Slide up to cancel",
+		"@_name": "voice_text_press"
+	},
+	{
+		"#text": "You can speak for %s more sec",
+		"@_name": "voice_text_remain"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "weixin"
+	},
+	{
+		"#text": "WeChat no response, please retry",
+		"@_name": "weixin_unknown_error"
+	},
+	{
+		"#text": "测试",
+		"@_name": "xiaoyuan_test"
+	},
+	{
+		"#text": "OK",
+		"@_name": "yes"
+	}
+]

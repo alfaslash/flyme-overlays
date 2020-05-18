@@ -1,0 +1,1453 @@
+[
+	{
+		"#text": "Перейти на главный экран",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению \\\"%s\\\"",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Добавить контакт",
+		"@_name": "add_contact_btn"
+	},
+	{
+		"#text": "Добавить быстрый набор",
+		"@_name": "add_to_speed_dial_contact"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Настройки вызовов",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "\"SIM 1 - \"",
+		"@_name": "app_name_sim1"
+	},
+	{
+		"#text": "\"SIM 2 - \"",
+		"@_name": "app_name_sim2"
+	},
+	{
+		"#text": "Все вызовы",
+		"@_name": "auto_record_all"
+	},
+	{
+		"#text": "Записи вызовов",
+		"@_name": "auto_record_log"
+	},
+	{
+		"#text": "Указанные контакты",
+		"@_name": "auto_record_specify"
+	},
+	{
+		"#text": "Когда нет ответа",
+		"@_name": "auto_record_summary"
+	},
+	{
+		"#text": "Голосовые сообщения",
+		"@_name": "auto_record_title"
+	},
+	{
+		"#text": "Записи вызовов",
+		"@_name": "auto_record_when_calling_title"
+	},
+	{
+		"#text": "Сообщения и вызовы из чёрного списка будут заблокированы",
+		"@_name": "blocknumber_list_summary"
+	},
+	{
+		"#text": "Чёрный список",
+		"@_name": "blocknumber_list_title"
+	},
+	{
+		"#text": "Отбой вызова кнопкой питания",
+		"@_name": "button_ends_call_prerefence_title"
+	},
+	{
+		"#text": "Нет записей",
+		"@_name": "call_list_empty_text"
+	},
+	{
+		"#text": "Записи вызовов",
+		"@_name": "call_recording"
+	},
+	{
+		"#text": "Настройки вызовов",
+		"@_name": "call_settings"
+	},
+	{
+		"#text": "Нет разрешения на изменение настроек телефона",
+		"@_name": "call_settings_primary_user_only"
+	},
+	{
+		"#text": "Набор номера",
+		"@_name": "call_title"
+	},
+	{
+		"#text": "Идентификация абонента",
+		"@_name": "caller_info_identifier"
+	},
+	{
+		"#text": "Предоставьте дополнительную информацию для идентификации вызывающего абонента",
+		"@_name": "caller_info_identifier_summary"
+	},
+	{
+		"#text": "Нет SIM-карты Ошибка SIM",
+		"@_name": "callFailed_simError"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel_btn"
+	},
+	{
+		"#text": "Нет SIM-карты",
+		"@_name": "card_name_no_sim"
+	},
+	{
+		"#text": "Воспроизвести записи",
+		"@_name": "channel_description"
+	},
+	{
+		"#text": "Запись уведомления",
+		"@_name": "channel_name"
+	},
+	{
+		"#text": "Выбор схемы номеронабирателя",
+		"@_name": "choose_dialpad_layout"
+	},
+	{
+		"#text": "Выбрана классическая схема",
+		"@_name": "choosed_classic_layout"
+	},
+	{
+		"#text": "Выбрана стандартная схема",
+		"@_name": "choosed_standard_layout"
+	},
+	{
+		"#text": "Классическая нижняя панель. Удобный поиск.",
+		"@_name": "classic_description"
+	},
+	{
+		"#text": "Классическая",
+		"@_name": "classic_layout"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "close_profile"
+	},
+	{
+		"#text": "Минутный сигнал во время разговора",
+		"@_name": "count_down_tone_play_title"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Воспроизвести анимацию по умолчанию для контактов без назначенной анимации",
+		"@_name": "default_motion_tip"
+	},
+	{
+		"#text": "Автоответ через 5 сек.",
+		"@_name": "delay_answer_ringing_call_summary"
+	},
+	{
+		"#text": "Автоответ на входящие вызовы",
+		"@_name": "delay_answer_ringing_call_title"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Удалить записи: %d",
+		"@_name": "delete_record_item"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "deleting"
+	},
+	{
+		"#text": "T9 или полная клавиатура",
+		"@_name": "dialer_input_method_summary"
+	},
+	{
+		"#text": "Переключить раскладку набора номера",
+		"@_name": "dialer_input_method_title"
+	},
+	{
+		"#text": "Схема номеронабирателя",
+		"@_name": "dialpad_layout_preference_title"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "expand_option_title"
+	},
+	{
+		"#text": "Записи удалены",
+		"@_name": "file_deleted"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "flyme_settings_close"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "flyme_settings_open"
+	},
+	{
+		"#text": "Добавьте контакты, для которых будет воспроизводиться анимация.",
+		"@_name": "group_motion_tip"
+	},
+	{
+		"#text": "Анимация вызова на дополнительном экране",
+		"@_name": "incoming_assi_motion_title"
+	},
+	{
+		"#text": "Мигание вспышки при входящем вызове",
+		"@_name": "incoming_flash_reminder_summary"
+	},
+	{
+		"#text": "Мигание вспышки",
+		"@_name": "incoming_flash_tip_title"
+	},
+	{
+		"#text": "Переверните телефон, чтобы он перестал звонить и вибрировать при поступлении вызова",
+		"@_name": "incoming_flip_silent_summary"
+	},
+	{
+		"#text": "Отключить входящий вызов",
+		"@_name": "incoming_flip_silent_title"
+	},
+	{
+		"#text": "Подключите USB-накопитель",
+		"@_name": "insert_sd_card"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Веб-вызов",
+		"@_name": "label_for_flyme_call_default"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Добавить контакт",
+		"@_name": "menu_add"
+	},
+	{
+		"#text": "Нет голосовых сообщений",
+		"@_name": "message_list_empty_text"
+	},
+	{
+		"#text": "Скрыть",
+		"@_name": "message_record_hide"
+	},
+	{
+		"#text": "Голосовые записи",
+		"@_name": "message_record_log"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "message_record_pause"
+	},
+	{
+		"#text": "Воспроизвести",
+		"@_name": "message_record_play"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Предварительный просмотр анимации вызова",
+		"@_name": "motion_preview"
+	},
+	{
+		"#text": "Две SIM-карты",
+		"@_name": "multi_card_title"
+	},
+	{
+		"#text": "%d контактов, включая %s",
+		"@_name": "multi_contact_repeat_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "Выбрать аудиофайл",
+		"@_name": "mz_action_bar_select_file_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Базовые настройки",
+		"@_name": "mz_basic_settings"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mz_call_setting"
+	},
+	{
+		"#text": "Управление контактами",
+		"@_name": "mz_contacts_manager"
+	},
+	{
+		"#text": "Импорт и экспорт контактов",
+		"@_name": "mz_contacts_manager_summary"
+	},
+	{
+		"#text": "Список недавних вызовов основан на последней использованной карте",
+		"@_name": "mz_default_dial_slot_summary"
+	},
+	{
+		"#text": "Изменить быстрый ответ",
+		"@_name": "mz_edit_quick_responce"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "EEE, d.M.yyyy",
+		"@_name": "mz_numeric_date_format_dmy"
+	},
+	{
+		"#text": "EEE, d.yyyy.M",
+		"@_name": "mz_numeric_date_format_dym"
+	},
+	{
+		"#text": "EEE, M.d.yyyy",
+		"@_name": "mz_numeric_date_format_mdy"
+	},
+	{
+		"#text": "EEE, M.yyyy.d",
+		"@_name": "mz_numeric_date_format_myd"
+	},
+	{
+		"#text": "yyyy.d.M, EEE",
+		"@_name": "mz_numeric_date_format_ydm"
+	},
+	{
+		"#text": "yyyy.M.d, EEE",
+		"@_name": "mz_numeric_date_format_ymd"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Переключение Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-сообщения",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Переключение NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Изменить текст быстрых ответов",
+		"@_name": "Mz_respond_via_sms_setting_summary"
+	},
+	{
+		"#text": "Быстрые ответы",
+		"@_name": "Mz_respond_via_sms_setting_title"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "%d новых записей",
+		"@_name": "new_call"
+	},
+	{
+		"#text": "%d новых сообщений",
+		"@_name": "new_message"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "notification_delete"
+	},
+	{
+		"#text": "Блокировка",
+		"@_name": "notification_filter"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "ok"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "pattern_a_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "pattern_day_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "pattern_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %p %I:%M",
+		"@_name": "pattern_day_month_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "pattern_day_month_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "pattern_day_month_year_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%p %I:%M",
+		"@_name": "pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %p %I:%M",
+		"@_name": "pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "pattern_week"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "pattern_week_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %p %I:%M",
+		"@_name": "pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %p %I:%M",
+		"@_name": "pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %p %I:%M",
+		"@_name": "pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "pattern_yesterday"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "pause_notification_title"
+	},
+	{
+		"#text": "Настройки вызовов",
+		"@_name": "phoneAppLabel_mz"
+	},
+	{
+		"#text": "Воспроизведение",
+		"@_name": "playing_notification_title"
+	},
+	{
+		"#text": "Достигнут лимит символов",
+		"@_name": "quick_reply_reach_input_limit"
+	},
+	{
+		"#text": "Сохранить изменения?",
+		"@_name": "quick_reply_save_alert"
+	},
+	{
+		"#text": "Контактов: %d",
+		"@_name": "record_object_summary"
+	},
+	{
+		"#text": "Вызовы для записи",
+		"@_name": "record_object_title"
+	},
+	{
+		"#text": "Автозапись вызовов",
+		"@_name": "record_pref_title"
+	},
+	{
+		"#text": "Статус записи",
+		"@_name": "record_status_category_title"
+	},
+	{
+		"#text": "Запись",
+		"@_name": "record_title"
+	},
+	{
+		"#text": "Назначенная анимация уже существует. Заменить её на \\\"%s\\\"?",
+		"@_name": "repeated_contact_motion_tip"
+	},
+	{
+		"#text": "Я перезвоню позже.",
+		"@_name": "respond_via_sms_canned_response_meizu_1"
+	},
+	{
+		"#text": "Не могу сейчас говорить. Что случилось?",
+		"@_name": "respond_via_sms_canned_response_meizu_2"
+	},
+	{
+		"#text": "Не могу сейчас ответить. Позвони мне позже.",
+		"@_name": "respond_via_sms_canned_response_meizu_3"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "save_btn"
+	},
+	{
+		"#text": "USB-накопитель занят",
+		"@_name": "sdcard_busy_message"
+	},
+	{
+		"#text": "Ошибка USB-накопителя",
+		"@_name": "sdcard_error_message"
+	},
+	{
+		"#text": "USB-накопитель не подключён",
+		"@_name": "sdcard_missing_message"
+	},
+	{
+		"#text": "USB-накопитель не подключён",
+		"@_name": "sdcard_unavailable"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "\"SIM 1 - \"",
+		"@_name": "sim_1"
+	},
+	{
+		"#text": "\"SIM 2 - \"",
+		"@_name": "sim_2"
+	},
+	{
+		"#text": "Настройки сети по умолчанию",
+		"@_name": "sim_call_default_summary"
+	},
+	{
+		"#text": "SIM-карта по умолчанию",
+		"@_name": "sim_calls_category_title"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "sim_calls_defaule_name"
+	},
+	{
+		"#text": "SIM-карта по умолчанию",
+		"@_name": "sim_calls_title"
+	},
+	{
+		"#text": "(SIM %d)",
+		"@_name": "sim_label_as_postfix"
+	},
+	{
+		"#text": "Веб-вызов",
+		"@_name": "sip_call"
+	},
+	{
+		"#text": "Спам-блокировка",
+		"@_name": "spam_call_filter_title"
+	},
+	{
+		"#text": "Голос. почта SIM 1",
+		"@_name": "speed_card1_voicemail"
+	},
+	{
+		"#text": "Голос. почта SIM 2",
+		"@_name": "speed_card2_voicemail"
+	},
+	{
+		"#text": "Быстрый набор",
+		"@_name": "speed_dail_label"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "speed_dail_remove"
+	},
+	{
+		"#text": "Быстрый набор",
+		"@_name": "speed_dial"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "speed_dial_add"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "speed_voicemail"
+	},
+	{
+		"#text": "Всего одна кнопка. Просто и красиво.",
+		"@_name": "standard_description"
+	},
+	{
+		"#text": "Стандартная",
+		"@_name": "standard_layout"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "%1$d ч. %2$d м. %3$d с.",
+		"@_name": "time_hour_format"
+	},
+	{
+		"#text": "%1$d м. %2$d с.",
+		"@_name": "time_min_format"
+	},
+	{
+		"#text": "%d с.",
+		"@_name": "time_sec_format"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "toast_set_voicemail_fail"
+	},
+	{
+		"#text": "Неизвестный номер",
+		"@_name": "unknown_number"
+	},
+	{
+		"#text": "Вибрация при соединении",
+		"@_name": "vibrate_on_connected_toggle_title"
+	},
+	{
+		"#text": "Вибрация при ответе",
+		"@_name": "vibrate_when_answered"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "voice_email_closed"
+	},
+	{
+		"#text": "Неверный номер",
+		"@_name": "voice_email_error"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "voice_mail"
+	},
+	{
+		"#text": "Голосовые сообщения",
+		"@_name": "voice_message"
+	},
+	{
+		"#text": "Голос. почта",
+		"@_name": "voicemail"
+	},
+	{
+		"#text": "Нет голос. почты",
+		"@_name": "voicemail_list_empty_text"
+	},
+	{
+		"#text": "Номер голосовой почты",
+		"@_name": "voicemail_number"
+	},
+	{
+		"#text": "Веб-вызов",
+		"@_name": "web_call_title"
+	}
+]

@@ -1,0 +1,1615 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Add a pedometer shortcut to Home screen?",
+		"@_name": "add_pedo_shutcut"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Pedometer",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "To join the Bububao insurance plan, please install Wallet first.",
+		"@_name": "bububao_downlaod_wallet"
+	},
+	{
+		"#text": "Walk 5,000 steps a day, get an insurance coverage of ￥100,000 against critical illness for free",
+		"@_name": "bububao_downlaod_wallet_des"
+	},
+	{
+		"#text": "Please log in first",
+		"@_name": "bububao_login"
+	},
+	{
+		"#text": "Insurance",
+		"@_name": "bububao_title"
+	},
+	{
+		"#text": "History",
+		"@_name": "cal_history"
+	},
+	{
+		"#text": "Kcal",
+		"@_name": "calory"
+	},
+	{
+		"#text": "Current version: V%s",
+		"@_name": "category_current_version"
+	},
+	{
+		"#text": "Update failed",
+		"@_name": "category_current_version_fail"
+	},
+	{
+		"#text": "Your version is up to date.",
+		"@_name": "category_current_version_latest"
+	},
+	{
+		"#text": "Checking for updates",
+		"@_name": "category_get_latest_version"
+	},
+	{
+		"#text": "New version available",
+		"@_name": "category_has_new_version"
+	},
+	{
+		"#text": "Improper parameter",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Kcal",
+		"@_name": "cost_calory"
+	},
+	{
+		"#text": "Sharing failed. Please try again.",
+		"@_name": "create_share_failed"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "dialog_cancel"
+	},
+	{
+		"#text": "Close",
+		"@_name": "dialog_close"
+	},
+	{
+		"#text": "Download Wallet",
+		"@_name": "dialog_sure"
+	},
+	{
+		"#text": "Km",
+		"@_name": "distance_mile"
+	},
+	{
+		"#text": 0,
+		"@_name": "empty_data"
+	},
+	{
+		"#text": "Kcal",
+		"@_name": "energy_calory"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "\"Login error. Error code: \"",
+		"@_name": "flyme_lgoin_exception_errorcode"
+	},
+	{
+		"#text": "Account login error. Please try again",
+		"@_name": "flyme_login_exception"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "Canceled by user",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "Authorization failed, please check network or system time and try again",
+		"@_name": "get_token_failed"
+	},
+	{
+		"#text": "Measurement completed",
+		"@_name": "heart_complete"
+	},
+	{
+		"#text": "Measurement failed",
+		"@_name": "heart_faild"
+	},
+	{
+		"#text": "Press too hard",
+		"@_name": "heart_faild_touch_heavy"
+	},
+	{
+		"#text": "Higher than normal",
+		"@_name": "heart_fast"
+	},
+	{
+		"#text": "Description",
+		"@_name": "heart_instru"
+	},
+	{
+		"#text": "No press detected",
+		"@_name": "heart_nofinger"
+	},
+	{
+		"#text": "Normal range: 60-100 bpm",
+		"@_name": "heart_normal_rate"
+	},
+	{
+		"#text": "\" bpm\"",
+		"@_name": "heart_rate_danwei"
+	},
+	{
+		"#text": "Normal range",
+		"@_name": "heart_rate_ok"
+	},
+	{
+		"#text": "Heart rate signal is unstable. Please steady your finger.",
+		"@_name": "heart_sign_bad"
+	},
+	{
+		"#text": "Lower than normal",
+		"@_name": "heart_slow"
+	},
+	{
+		"#text": "End",
+		"@_name": "heart_stop"
+	},
+	{
+		"#text": "Measuring",
+		"@_name": "heart_testing"
+	},
+	{
+		"#text": "Heart Rate",
+		"@_name": "heart_title"
+	},
+	{
+		"#text": "\"Heart rate is the number of heart beats per minute while a person is at rest. The normal range is 60 to 100 bpm, which can vary with age, gender, and other physiological factors. Generally, the younger an individual is, the higher the heart beat will be. It is normal that the elderly and the male have lower heart rates than the young and the female. An adult's normal resting heart rate ranges from 60 to 100 bpm, while the ideal range is 55 to 70 bpm. Compared with ordinary grown-ups, athletes' hearts beat is noticeably lower, at about 50 bpm.\"",
+		"@_name": "hert_note"
+	},
+	{
+		"#text": "Measure Again",
+		"@_name": "hert_test_aging"
+	},
+	{
+		"#text": "Place finger on Home button to start measuring",
+		"@_name": "hint_press_finger"
+	},
+	{
+		"#text": "Please process the return value",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Kilometer",
+		"@_name": "kilometer"
+	},
+	{
+		"#text": "Average daily steps",
+		"@_name": "lcanler_list_title_every_day"
+	},
+	{
+		"#text": "Monthly steps",
+		"@_name": "lcanler_list_title_every_month"
+	},
+	{
+		"#text": "Weekly steps",
+		"@_name": "lcanler_list_title_every_week"
+	},
+	{
+		"#text": "&lt; 1",
+		"@_name": "less_one"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Done",
+		"@_name": "menu_done"
+	},
+	{
+		"#text": "BACK",
+		"@_name": "menu_last_step"
+	},
+	{
+		"#text": "Next",
+		"@_name": "menu_next_step"
+	},
+	{
+		"#text": "Skip",
+		"@_name": "menu_skip"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Network error. Tap to reload",
+		"@_name": "network_error_refresh"
+	},
+	{
+		"#text": "Tap to view details",
+		"@_name": "noti_text_new_icon"
+	},
+	{
+		"#text": "Try out Meizu Pedometer!",
+		"@_name": "noti_tittle_new_icon"
+	},
+	{
+		"#text": "%d steps beyond the goal. Well done!",
+		"@_name": "notifications_summary_exceed_target"
+	},
+	{
+		"#text": "You have reached your goal!",
+		"@_name": "notifications_summary_target"
+	},
+	{
+		"#text": "%d steps away from the goal!",
+		"@_name": "notifications_summary_within_target"
+	},
+	{
+		"#text": "%d Steps Taken Today",
+		"@_name": "notifications_title"
+	},
+	{
+		"#text": "Yesterday %H:%M",
+		"@_name": "pattern_yesterday_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday %I:%M %p",
+		"@_name": "pattern_yesterday_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Add",
+		"@_name": "pedo_add"
+	},
+	{
+		"#text": "Kcal",
+		"@_name": "pedo_calendar_calorie_text"
+	},
+	{
+		"#text": "\"Goal\n\"",
+		"@_name": "pedo_calendar_dash_target_text"
+	},
+	{
+		"#text": "Km",
+		"@_name": "pedo_calendar_distance_text"
+	},
+	{
+		"#text": "No Movement Data",
+		"@_name": "pedo_calendar_empty_text"
+	},
+	{
+		"#text": "Last month",
+		"@_name": "pedo_calendar_last_month"
+	},
+	{
+		"#text": "Last week",
+		"@_name": "pedo_calendar_last_week"
+	},
+	{
+		"#text": "\" steps\"",
+		"@_name": "pedo_calendar_steps_suffix"
+	},
+	{
+		"#text": "Steps",
+		"@_name": "pedo_calendar_steps_text"
+	},
+	{
+		"#text": "This month",
+		"@_name": "pedo_calendar_this_month"
+	},
+	{
+		"#text": "This week",
+		"@_name": "pedo_calendar_this_week"
+	},
+	{
+		"#text": "Daily view",
+		"@_name": "pedo_calendar_title_day"
+	},
+	{
+		"#text": "Monthly view",
+		"@_name": "pedo_calendar_title_month"
+	},
+	{
+		"#text": "Weekly view",
+		"@_name": "pedo_calendar_title_week"
+	},
+	{
+		"#text": "Today",
+		"@_name": "pedo_calendar_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "pedo_calendar_yesterday"
+	},
+	{
+		"#text": "Pedometer Off",
+		"@_name": "pedo_disabled"
+	},
+	{
+		"#text": "Pedometer is off. Please turn it on in Me",
+		"@_name": "pedo_disabled_open"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "pedo_network_error"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "pedo_network_settting"
+	},
+	{
+		"#text": "Today",
+		"@_name": "pedo_share_steps_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "pedo_share_steps_yesterday"
+	},
+	{
+		"#text": "Pedometer",
+		"@_name": "pedometer"
+	},
+	{
+		"#text": "Data sources",
+		"@_name": "pedometer_data_source_page_label"
+	},
+	{
+		"#text": "%d steps",
+		"@_name": "pedometer_steps"
+	},
+	{
+		"#text": "Pedometer needs to access the internet and use your location to synchronize step data",
+		"@_name": "permission_dialog_message"
+	},
+	{
+		"#text": "\" years\"",
+		"@_name": "personal_age_unit"
+	},
+	{
+		"#text": "Me",
+		"@_name": "personal_center_name"
+	},
+	{
+		"#text": "Male",
+		"@_name": "personal_gender_boy"
+	},
+	{
+		"#text": "Female",
+		"@_name": "personal_gender_girl"
+	},
+	{
+		"#text": "Gender",
+		"@_name": "personal_gender_title"
+	},
+	{
+		"#text": "Height",
+		"@_name": "personal_height_title"
+	},
+	{
+		"#text": "CM",
+		"@_name": "personal_height_unit"
+	},
+	{
+		"#text": "Help",
+		"@_name": "personal_help_title"
+	},
+	{
+		"#text": "Log into Meizu account to sync the data",
+		"@_name": "personal_login_summary"
+	},
+	{
+		"#text": "Tap to log in",
+		"@_name": "personal_login_title"
+	},
+	{
+		"#text": "Movement goal",
+		"@_name": "personal_motion_target_title"
+	},
+	{
+		"#text": "steps",
+		"@_name": "personal_motion_target_unit"
+	},
+	{
+		"#text": "Turn off step counting?",
+		"@_name": "personal_pedo_function_dialog_title"
+	},
+	{
+		"#text": "Step counting",
+		"@_name": "personal_pedo_function_title"
+	},
+	{
+		"#text": "Home screen shortcut",
+		"@_name": "personal_pedo_shortcut_title"
+	},
+	{
+		"#text": "Personal profile",
+		"@_name": "personal_profile_name"
+	},
+	{
+		"#text": "Create a quick personal profile",
+		"@_name": "personal_profile_tip_sub"
+	},
+	{
+		"#text": "Personal profile",
+		"@_name": "personal_profile_title"
+	},
+	{
+		"#text": "Steps notifications",
+		"@_name": "personal_push_notifications_title"
+	},
+	{
+		"#text": "Syncing step data",
+		"@_name": "personal_sync_doing_text"
+	},
+	{
+		"#text": "Failed to sync data",
+		"@_name": "personal_sync_fail_text"
+	},
+	{
+		"#text": "Data updated: %s",
+		"@_name": "personal_sync_last_time_text"
+	},
+	{
+		"#text": "Weight",
+		"@_name": "personal_weight_title"
+	},
+	{
+		"#text": "KG",
+		"@_name": "personal_weight_unit"
+	},
+	{
+		"#text": "Age",
+		"@_name": "personal_year_title"
+	},
+	{
+		"#text": "Add",
+		"@_name": "pm_add_binding"
+	},
+	{
+		"#text": "Login with Flyme ID to manage data sources",
+		"@_name": "pm_add_data_source_warning"
+	},
+	{
+		"#text": "OK",
+		"@_name": "pm_band_bind_failed_dialog_bt"
+	},
+	{
+		"#text": "Failed to add. Try later",
+		"@_name": "pm_band_bind_failed_dialog_title"
+	},
+	{
+		"#text": "Added successfully",
+		"@_name": "pm_band_bind_success"
+	},
+	{
+		"#text": "Adding",
+		"@_name": "pm_band_binding"
+	},
+	{
+		"#text": "Go to pair",
+		"@_name": "pm_band_not_bind_dialog_positive_bt"
+	},
+	{
+		"#text": "Band and watch are not paired",
+		"@_name": "pm_band_not_bind_dialog_title"
+	},
+	{
+		"#text": "Data sources",
+		"@_name": "pm_data_source"
+	},
+	{
+		"#text": "Meizu Band",
+		"@_name": "pm_data_source_MZ_band"
+	},
+	{
+		"#text": "Meizu Watch",
+		"@_name": "pm_data_source_MZ_watch"
+	},
+	{
+		"#text": "Login",
+		"@_name": "pm_login_Flyme"
+	},
+	{
+		"#text": "Delete data sources",
+		"@_name": "pm_remove_band_dialog_remove_band"
+	},
+	{
+		"#text": "Delete data sources &amp; data history",
+		"@_name": "pm_remove_band_dialog_remove_band_and_data"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "pm_remove_binding"
+	},
+	{
+		"#text": "Failed to delete",
+		"@_name": "pm_remove_binding_failed"
+	},
+	{
+		"#text": "Deleted successfully",
+		"@_name": "pm_remove_binding_success"
+	},
+	{
+		"#text": "Quit",
+		"@_name": "quit"
+	},
+	{
+		"#text": "Authorization failed. Error getting info about %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Receive push messages",
+		"@_name": "settings_nofify"
+	},
+	{
+		"#text": "Receive event notifications",
+		"@_name": "settings_nofify_sum"
+	},
+	{
+		"#text": "Check for updates",
+		"@_name": "settings_update_name"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "share_bluetouch"
+	},
+	{
+		"#text": "Sharing canceled",
+		"@_name": "share_cancel"
+	},
+	{
+		"#text": "Sharing rejected",
+		"@_name": "share_deny"
+	},
+	{
+		"#text": "Email",
+		"@_name": "share_email"
+	},
+	{
+		"#text": "Sharing failed",
+		"@_name": "share_failure"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "share_message"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "share_note"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "share_pengyouquan"
+	},
+	{
+		"#text": "QQ friends",
+		"@_name": "share_qq_friend"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "share_shareto"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "share_sina_weibo"
+	},
+	{
+		"#text": "Day %d in a row",
+		"@_name": "share_steps_keep_days"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "share_steps_qq"
+	},
+	{
+		"#text": "Meizu Pedometer",
+		"@_name": "share_steps_seperate_title_first"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "share_steps_seperate_title_second"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "share_steps_weibo"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "share_steps_weixin"
+	},
+	{
+		"#text": "Flyme user",
+		"@_name": "share_steps_whose"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "share_steps_wxfriends"
+	},
+	{
+		"#text": "Shared successfully",
+		"@_name": "share_success"
+	},
+	{
+		"#text": "Share steps",
+		"@_name": "share_title"
+	},
+	{
+		"#text": "Return",
+		"@_name": "share_unknown"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "share_wechat_favorite"
+	},
+	{
+		"#text": "WeChat friends",
+		"@_name": "share_wechat_session"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "steps",
+		"@_name": "step"
+	},
+	{
+		"#text": "Steps",
+		"@_name": "steps"
+	},
+	{
+		"#text": "%1$s Step count",
+		"@_name": "steps_of_date"
+	},
+	{
+		"#text": "Request timeout. Please retry.",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Goal",
+		"@_name": "target"
+	},
+	{
+		"#text": "Goal: %1$d",
+		"@_name": "target_step"
+	},
+	{
+		"#text": "\"Sorry, the current device doesn't support step counting\"",
+		"@_name": "tips_pedo_not_support"
+	},
+	{
+		"#text": "Authorize Pedometer to sync step counts",
+		"@_name": "toast_binding_flyme_accout"
+	},
+	{
+		"#text": "Today",
+		"@_name": "today"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "Your request is too frequent",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Failed to load page",
+		"@_name": "webload_faild"
+	},
+	{
+		"#text": "\" steps\"",
+		"@_name": "widget_step"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "yesterday"
+	}
+]

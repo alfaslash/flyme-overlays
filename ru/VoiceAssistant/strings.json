@@ -1,0 +1,2997 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Изменить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Голосовой помощник включает службу, которая позволит помочь пользователю быстро выполнить соответствующую операцию, когда пользователь произносит инструкции. Эта услуга автоматически включается и выключается программой Голосового Помощника.",
+		"@_name": "accessibility_service_description"
+	},
+	{
+		"#text": "Справочная служба Голосового помощника",
+		"@_name": "accessibility_service_name"
+	},
+	{
+		"#text": "Рекомендуемые приложения",
+		"@_name": "ad_setting_title"
+	},
+	{
+		"#text": "Лента",
+		"@_name": "aicy_assistant"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "aicy_camera"
+	},
+	{
+		"#text": "Ассистент",
+		"@_name": "aicy_description"
+	},
+	{
+		"#text": "Пикер",
+		"@_name": "aicy_picker"
+	},
+	{
+		"#text": "Aicy",
+		"@_name": "aicy_settings"
+	},
+	{
+		"#text": "Предложения",
+		"@_name": "aicy_suggestion"
+	},
+	{
+		"#text": "Активация",
+		"@_name": "aicy_voice"
+	},
+	{
+		"#text": "飞行模式",
+		"@_name": "air_mode"
+	},
+	{
+		"#text": "飞行模式不能打开移动数据",
+		"@_name": "airmode_cannot_open"
+	},
+	{
+		"#text": "关闭飞行模式",
+		"@_name": "airmode_close"
+	},
+	{
+		"#text": "已关闭飞行模式",
+		"@_name": "airmode_close_already"
+	},
+	{
+		"#text": "打开飞行模式",
+		"@_name": "airmode_open"
+	},
+	{
+		"#text": "已打开飞行模式",
+		"@_name": "airmode_open_already"
+	},
+	{
+		"#text": "闹钟",
+		"@_name": "alarm"
+	},
+	{
+		"#text": "此闹钟已删除",
+		"@_name": "alarm_deleted_tip"
+	},
+	{
+		"#text": "All skills",
+		"@_name": "all_skills"
+	},
+	{
+		"#text": "以下是你设置的闹钟",
+		"@_name": "already_setup_alarm"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "澳门",
+		"@_name": "aomen"
+	},
+	{
+		"#text": "要使用哪个应用程序呢?",
+		"@_name": "app_choose_tip"
+	},
+	{
+		"#text": "%s已被禁用，无法打开",
+		"@_name": "app_guest_mode"
+	},
+	{
+		"#text": "Aicy",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "该应用已加密，无法访问数据",
+		"@_name": "app_not_accessible"
+	},
+	{
+		"#text": "应用中心出现错误",
+		"@_name": "app_store_error"
+	},
+	{
+		"#text": "安装",
+		"@_name": "app_store_installation"
+	},
+	{
+		"#text": "我在应用中心找到以下应用程序：",
+		"@_name": "app_web_find_list_tip"
+	},
+	{
+		"#text": "对不起，找不到应用",
+		"@_name": "app_web_no_find_tip"
+	},
+	{
+		"#text": "蓝牙被远程禁用",
+		"@_name": "army_cant_support_bt"
+	},
+	{
+		"#text": "位置信息被远程禁用",
+		"@_name": "army_cant_support_gps"
+	},
+	{
+		"#text": "数据连接被远程禁用",
+		"@_name": "army_cant_support_net"
+	},
+	{
+		"#text": "Авторизация",
+		"@_name": "authorize"
+	},
+	{
+		"#text": "蓝牙",
+		"@_name": "blue_tooth"
+	},
+	{
+		"#text": "关闭蓝牙",
+		"@_name": "bt_close"
+	},
+	{
+		"#text": "已关闭蓝牙",
+		"@_name": "bt_close_already"
+	},
+	{
+		"#text": "打开蓝牙",
+		"@_name": "bt_open"
+	},
+	{
+		"#text": "已打开蓝牙",
+		"@_name": "bt_open_already"
+	},
+	{
+		"#text": "日历",
+		"@_name": "calendar"
+	},
+	{
+		"#text": "这个时间已经过去了",
+		"@_name": "calendar_overtime_prefix"
+	},
+	{
+		"#text": "很抱歉，小溪暂时还不能帮您关闭应用哦",
+		"@_name": "can_not_close_app"
+	},
+	{
+		"#text": "抱歉，小溪还不能帮你处理这个问题，你可以到%s里自行处理。",
+		"@_name": "can_not_process"
+	},
+	{
+		"#text": "很抱歉，小溪暂时还不能帮您卸载应用哦",
+		"@_name": "can_not_uninstall_app"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Информация об автомобиле",
+		"@_name": "car_info"
+	},
+	{
+		"#text": "车载模式",
+		"@_name": "car_mode"
+	},
+	{
+		"#text": "关闭驾驶模式",
+		"@_name": "car_mode_close"
+	},
+	{
+		"#text": "已关闭驾驶模式",
+		"@_name": "car_mode_close_already"
+	},
+	{
+		"#text": "不支持驾驶模式",
+		"@_name": "car_mode_not_support"
+	},
+	{
+		"#text": "打开驾驶模式",
+		"@_name": "car_mode_open"
+	},
+	{
+		"#text": "已打开驾驶模式",
+		"@_name": "car_mode_open_already"
+	},
+	{
+		"#text": "卡1",
+		"@_name": "card_one_for_arab"
+	},
+	{
+		"#text": "卡一",
+		"@_name": "card_one_for_chinese"
+	},
+	{
+		"#text": "卡2",
+		"@_name": "card_two_for_arab"
+	},
+	{
+		"#text": "卡二",
+		"@_name": "card_two_for_chinese"
+	},
+	{
+		"#text": "中国",
+		"@_name": "china"
+	},
+	{
+		"#text": "移动",
+		"@_name": "choose_card_mobile"
+	},
+	{
+		"#text": "电信",
+		"@_name": "choose_card_telecom"
+	},
+	{
+		"#text": "联通",
+		"@_name": "choose_card_unicom"
+	},
+	{
+		"#text": "没有找到对应的闹钟，请手动关闭一下",
+		"@_name": "clock_cancel_error_tip"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "close"
+	},
+	{
+		"#text": "关闭免打扰",
+		"@_name": "close_donotdisturb"
+	},
+	{
+		"#text": "已关闭免打扰",
+		"@_name": "close_donotdisturb_already"
+	},
+	{
+		"#text": "关闭便携式热点",
+		"@_name": "close_hotspot"
+	},
+	{
+		"#text": "已关闭便携式热点",
+		"@_name": "close_hotspot_already"
+	},
+	{
+		"#text": "关闭手电筒",
+		"@_name": "close_light"
+	},
+	{
+		"#text": "已关闭手电筒",
+		"@_name": "close_light_already"
+	},
+	{
+		"#text": "关闭前置摄像头",
+		"@_name": "close_pre_camera"
+	},
+	{
+		"#text": "关闭旋转",
+		"@_name": "close_ratation"
+	},
+	{
+		"#text": "已关闭旋转",
+		"@_name": "close_ratation_already"
+	},
+	{
+		"#text": "关闭悬浮球",
+		"@_name": "close_smarttouch"
+	},
+	{
+		"#text": "已关闭悬浮球",
+		"@_name": "close_smarttouch_already"
+	},
+	{
+		"#text": "关闭语音调试",
+		"@_name": "close_voice_debug"
+	},
+	{
+		"#text": "关闭无线网络",
+		"@_name": "close_wireless_network"
+	},
+	{
+		"#text": "已关闭无线网络",
+		"@_name": "close_wireless_network_already"
+	},
+	{
+		"#text": "无法识别的命令",
+		"@_name": "cmd_error"
+	},
+	{
+		"#text": "不能识别到手机卡，无法打开移动数据",
+		"@_name": "cmd_no_sim_card_insert"
+	},
+	{
+		"#text": "确认重启吗？",
+		"@_name": "cmd_restart_tip"
+	},
+	{
+		"#text": "确认关机吗？",
+		"@_name": "cmd_shutdown_tip"
+	},
+	{
+		"#text": "取消",
+		"@_name": "cmd_shutstart_cancel"
+	},
+	{
+		"#text": "Complete",
+		"@_name": "complete"
+	},
+	{
+		"#text": "连接",
+		"@_name": "connection"
+	},
+	{
+		"#text": "找到了，来看一下吧！",
+		"@_name": "constellation_title_tip"
+	},
+	{
+		"#text": "继续播放",
+		"@_name": "continue_play"
+	},
+	{
+		"#text": "Контроль",
+		"@_name": "control"
+	},
+	{
+		"#text": "复制",
+		"@_name": "copy"
+	},
+	{
+		"#text": "OK",
+		"@_name": "cta_btn_text_confirm"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "cta_btn_text_exit"
+	},
+	{
+		"#text": "%s должен иметь доступ к Интернету, использовать ваше местоположение, читать ваши контакты и использовать микрофон",
+		"@_name": "cta_external_information"
+	},
+	{
+		"#text": "Aicy должна иметь доступ к Интернету, использовать ваше местоположение, читать ваши контакты и использовать микрофон для получения более точной информации.",
+		"@_name": "cta_message"
+	},
+	{
+		"#text": "Неопределено",
+		"@_name": "custom_command_summary"
+	},
+	{
+		"#text": "Пользовательская команда",
+		"@_name": "custom_command_title"
+	},
+	{
+		"#text": "关闭数据连接",
+		"@_name": "data_close"
+	},
+	{
+		"#text": "打开数据连接",
+		"@_name": "data_open"
+	},
+	{
+		"#text": "还不能帮你关闭指定日期的闹钟，请手动设置一下",
+		"@_name": "date_not_support"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "断开",
+		"@_name": "disconnect"
+	},
+	{
+		"#text": "免打扰",
+		"@_name": "do_not_disturb"
+	},
+	{
+		"#text": "|  无需安装，一秒即开",
+		"@_name": "do_not_install"
+	},
+	{
+		"#text": "减少亮度",
+		"@_name": "down_brightness"
+	},
+	{
+		"#text": "减小亮度",
+		"@_name": "down_brightness_1"
+	},
+	{
+		"#text": "调低亮度",
+		"@_name": "down_brightness_2"
+	},
+	{
+		"#text": "暗一点",
+		"@_name": "down_brightness_3"
+	},
+	{
+		"#text": "调暗点",
+		"@_name": "down_brightness_4"
+	},
+	{
+		"#text": "亮度调低",
+		"@_name": "down_brightness_5"
+	},
+	{
+		"#text": "调暗一点",
+		"@_name": "down_brightness_6"
+	},
+	{
+		"#text": "已减少亮度",
+		"@_name": "down_brightness_already"
+	},
+	{
+		"#text": "字体变小",
+		"@_name": "down_fontsize"
+	},
+	{
+		"#text": "字号变小",
+		"@_name": "down_fontsize_1"
+	},
+	{
+		"#text": "字变小",
+		"@_name": "down_fontsize_2"
+	},
+	{
+		"#text": "字变小一点",
+		"@_name": "down_fontsize_3"
+	},
+	{
+		"#text": "字缩小一点",
+		"@_name": "down_fontsize_4"
+	},
+	{
+		"#text": "字放小一点",
+		"@_name": "down_fontsize_5"
+	},
+	{
+		"#text": "系统字体已调整至“%s”了",
+		"@_name": "down_fontsize_already"
+	},
+	{
+		"#text": "减少声音",
+		"@_name": "down_volume"
+	},
+	{
+		"#text": "小声一点",
+		"@_name": "down_volume_1"
+	},
+	{
+		"#text": "调小声一点",
+		"@_name": "down_volume_2"
+	},
+	{
+		"#text": "调小声点",
+		"@_name": "down_volume_3"
+	},
+	{
+		"#text": "声音变小",
+		"@_name": "down_volume_4"
+	},
+	{
+		"#text": "减少音量",
+		"@_name": "down_volume_5"
+	},
+	{
+		"#text": "减小声音",
+		"@_name": "down_volume_6"
+	},
+	{
+		"#text": "已减小系统音量",
+		"@_name": "down_volume_already"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "download"
+	},
+	{
+		"#text": "驾驶辅助",
+		"@_name": "driving_assist"
+	},
+	{
+		"#text": "驾驶模式",
+		"@_name": "driving_mode"
+	},
+	{
+		"#text": "进入",
+		"@_name": "enter"
+	},
+	{
+		"#text": "好的，事件已经创建好了",
+		"@_name": "event_have_been_created"
+	},
+	{
+		"#text": "退出",
+		"@_name": "exit"
+	},
+	{
+		"#text": "秒开  >",
+		"@_name": "fast_open"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "float_menu_qq"
+	},
+	{
+		"#text": "Search",
+		"@_name": "float_menu_search"
+	},
+	{
+		"#text": "Share",
+		"@_name": "float_menu_share"
+	},
+	{
+		"#text": "Shopping",
+		"@_name": "float_menu_shop"
+	},
+	{
+		"#text": "Text operations",
+		"@_name": "float_menu_title"
+	},
+	{
+		"#text": "Todo",
+		"@_name": "float_menu_todo"
+	},
+	{
+		"#text": "Wechat",
+		"@_name": "float_menu_wexin"
+	},
+	{
+		"#text": "帮你安排了|ZJM|a HH:mm 的日程",
+		"@_name": "format_calendar_create_tip"
+	},
+	{
+		"#text": "\"我没法创建超过24小时之后的闹钟，\n已为你创建为日历事件\"",
+		"@_name": "format_calendar_create_tip2"
+	},
+	{
+		"#text": "\"闹钟已到上限，不能添加\n将创建为日历事件\"",
+		"@_name": "format_calendar_create_tip3"
+	},
+	{
+		"#text": "\"无法创建月循环闹钟\n将创建为日历事件\"",
+		"@_name": "format_calendar_create_tip4"
+	},
+	{
+		"#text": "已帮你关闭了a HH:mm 的闹钟",
+		"@_name": "format_clock_cancel_count_tip"
+	},
+	{
+		"#text": "我没有找到a HH:mm 的闹钟",
+		"@_name": "format_clock_cancel_error_tip"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "format_clock_closed"
+	},
+	{
+		"#text": "已设置a HH:mm 的闹钟",
+		"@_name": "format_clock_create_tip"
+	},
+	{
+		"#text": "yyyy年M月d日",
+		"@_name": "format_date_output"
+	},
+	{
+		"#text": "每天",
+		"@_name": "format_repeat_everyday"
+	},
+	{
+		"#text": "E",
+		"@_name": "format_week_date_output"
+	},
+	{
+		"#text": "整体运",
+		"@_name": "fortune_all"
+	},
+	{
+		"#text": "事业运",
+		"@_name": "fortune_career"
+	},
+	{
+		"#text": "爱情运",
+		"@_name": "fortune_love"
+	},
+	{
+		"#text": "财富运",
+		"@_name": "fortune_wealth"
+	},
+	{
+		"#text": "功能待开发",
+		"@_name": "function_to_develop"
+	},
+	{
+		"#text": "关闭2g",
+		"@_name": "g2g_close"
+	},
+	{
+		"#text": "打开2g",
+		"@_name": "g2g_open"
+	},
+	{
+		"#text": "关闭3g",
+		"@_name": "g3g_close"
+	},
+	{
+		"#text": "打开3g",
+		"@_name": "g3g_open"
+	},
+	{
+		"#text": "关闭4g",
+		"@_name": "g4g_close"
+	},
+	{
+		"#text": "打开4g",
+		"@_name": "g4g_open"
+	},
+	{
+		"#text": "移动数据",
+		"@_name": "gdata"
+	},
+	{
+		"#text": "关闭移动数据",
+		"@_name": "gdata_close"
+	},
+	{
+		"#text": "已关闭移动数据",
+		"@_name": "gdata_close_already"
+	},
+	{
+		"#text": "打开移动数据",
+		"@_name": "gdata_open"
+	},
+	{
+		"#text": "已打开移动数据",
+		"@_name": "gdata_open_already"
+	},
+	{
+		"#text": "起床",
+		"@_name": "getup"
+	},
+	{
+		"#text": "关闭gprs",
+		"@_name": "gprs_close"
+	},
+	{
+		"#text": "打开gprs",
+		"@_name": "gprs_open"
+	},
+	{
+		"#text": "GPS",
+		"@_name": "gps"
+	},
+	{
+		"#text": "关闭GPS",
+		"@_name": "gps_close"
+	},
+	{
+		"#text": "已关闭GPS",
+		"@_name": "gps_close_already"
+	},
+	{
+		"#text": "打开GPS",
+		"@_name": "gps_open"
+	},
+	{
+		"#text": "已打开GPS",
+		"@_name": "gps_open_already"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "guide_close"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "guide_next"
+	},
+	{
+		"#text": "Настройка голосового напоминания",
+		"@_name": "guide_tip1"
+	},
+	{
+		"#text": "Aicy",
+		"@_name": "guide_tip1_1"
+	},
+	{
+		"#text": "Что я могу сделать для вас",
+		"@_name": "guide_tip1_2"
+	},
+	{
+		"#text": "Инструкция по использованию клавиш Питания",
+		"@_name": "guide_tip1_2_2"
+	},
+	{
+		"#text": "Подойдите ближе к телефону и произнесите «Сяо Си Ни Хао», ассистент узнает ваш голос. Убедитесь, что вокруг тихо и расстояние между вами и телефоном около 20 сантиметров.",
+		"@_name": "guide_tip2"
+	},
+	{
+		"#text": "Новый дизайн",
+		"@_name": "guide_tip2_1_1"
+	},
+	{
+		"#text": "Разбудить голосом Aicy",
+		"@_name": "guide_tip2_1_1_2"
+	},
+	{
+		"#text": "Свободное и легкое голосовое взаимодействие",
+		"@_name": "guide_tip2_1_2"
+	},
+	{
+		"#text": "Длительное нажатие на кнопку питания в течение 0,5 секунды",
+		"@_name": "guide_tip2_1_2_2"
+	},
+	{
+		"#text": "Простое пробуждение",
+		"@_name": "guide_tip2_2_1"
+	},
+	{
+		"#text": "Принудительный перезапуск телефона",
+		"@_name": "guide_tip2_2_1_2"
+	},
+	{
+		"#text": "Продолжайте нажимать кнопку питания в течение длительного времени",
+		"@_name": "guide_tip2_2_2_2"
+	},
+	{
+		"#text": "Удобно",
+		"@_name": "guide_tip2_3_1"
+	},
+	{
+		"#text": "Войдите в меню выключения",
+		"@_name": "guide_tip2_3_1_2"
+	},
+	{
+		"#text": "Произнесите одно предложение для действия",
+		"@_name": "guide_tip2_3_2"
+	},
+	{
+		"#text": "Длительное нажатие на кнопку питания в течение 3 секунд",
+		"@_name": "guide_tip2_3_2_2"
+	},
+	{
+		"#text": "Aicy должна иметь доступ к Интернету, использовать ваше местоположение, читать ваши контакты и использовать микрофон для предоставления более точной информации",
+		"@_name": "guide_tip3_1"
+	},
+	{
+		"#text": "Настройки по умолчанию можно изменить в меню «Настройки» -> «Aicy» -> «Активация».",
+		"@_name": "guide_tip3_1_2"
+	},
+	{
+		"#text": "Значение по умолчанию можно изменить в разделе «Настройки» -> «Специальные возможности» -> «Ассистент».",
+		"@_name": "guide_tip3_1_2_flyme7"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "guide_tip3_2_1"
+	},
+	{
+		"#text": "Начините сейчас",
+		"@_name": "guide_tip3_2_2"
+	},
+	{
+		"#text": "Как выключать телефон",
+		"@_name": "guide_tip_learn"
+	},
+	{
+		"#text": "Удерживайте кнопку питания, чтобы разбудить Aicy",
+		"@_name": "guide_tip_wakeup"
+	},
+	{
+		"#text": "Длительное нажатие кнопки питания - разбудить Aicy",
+		"@_name": "guide_tip_wakeup_fingerprint"
+	},
+	{
+		"#text": "Управление наушниками",
+		"@_name": "headset_middlekey_wakeup"
+	},
+	{
+		"#text": "Удерживайте кнопку наушников посередине, чтобы активировать Aicy",
+		"@_name": "headset_middlekey_wakeup_summay"
+	},
+	{
+		"#text": "帮助列表",
+		"@_name": "help_list"
+	},
+	{
+		"#text": "Hi!",
+		"@_name": "home_page_hello"
+	},
+	{
+		"#text": "香港",
+		"@_name": "hongkong_short"
+	},
+	{
+		"#text": "便携式热点",
+		"@_name": "hotspot"
+	},
+	{
+		"#text": "便携热点",
+		"@_name": "hotspot_1"
+	},
+	{
+		"#text": "安装",
+		"@_name": "install"
+	},
+	{
+		"#text": "%s安装成功，请再试试",
+		"@_name": "installed_tip"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "屏幕已密码锁定，无法访问数据",
+		"@_name": "keyguard_not_accessible"
+	},
+	{
+		"#text": "手电筒",
+		"@_name": "light"
+	},
+	{
+		"#text": "获取定位信息出错",
+		"@_name": "location_fail"
+	},
+	{
+		"#text": "Choose the way to open",
+		"@_name": "map_chooser_dialog"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "map_chooser_download"
+	},
+	{
+		"#text": "recommended",
+		"@_name": "map_chooser_recommend"
+	},
+	{
+		"#text": "Просто и удобно",
+		"@_name": "map_chooser_recommend_tip"
+	},
+	{
+		"#text": "Meizu Map",
+		"@_name": "map_chooser_title"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "map_choosesr_update"
+	},
+	{
+		"#text": "我的位置",
+		"@_name": "map_current_position"
+	},
+	{
+		"#text": "亮度已调节至最大了",
+		"@_name": "max_brightness_already"
+	},
+	{
+		"#text": "系统音量已调节至最大了",
+		"@_name": "max_volume_already"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дн. спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дн. назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день после",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "За 1 день до",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "魅族科技",
+		"@_name": "meizu_technology"
+	},
+	{
+		"#text": "亮度已调节至最低了",
+		"@_name": "min_brightness_already"
+	},
+	{
+		"#text": "系统音量已调节至最低了",
+		"@_name": "min_volume_already"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "我猜你是想设置今天（%s）%s的闹钟，已经设置好了",
+		"@_name": "morning_setup_alarm_title",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "你可以说卡一或者卡二哦",
+		"@_name": "multicard_call_choose_retry_tip"
+	},
+	{
+		"#text": "你要从哪张卡拨出？",
+		"@_name": "multicard_call_choose_tip"
+	},
+	{
+		"#text": "卡%s（%s）",
+		"@_name": "multicard_card_name_format",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "无法找到本地音乐",
+		"@_name": "music_local_not_find"
+	},
+	{
+		"#text": "正在为你播放",
+		"@_name": "music_playing_now"
+	},
+	{
+		"#text": "静音",
+		"@_name": "mute"
+	},
+	{
+		"#text": "关闭静音",
+		"@_name": "mute_close"
+	},
+	{
+		"#text": "已关闭静音",
+		"@_name": "mute_close_already"
+	},
+	{
+		"#text": "打开静音",
+		"@_name": "mute_open"
+	},
+	{
+		"#text": "已打开静音",
+		"@_name": "mute_open_already"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Элемент(ов) Выбрано",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Никогда не спрашивать после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос Разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивают %3$d разрешение(ий) для %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s нужны %2$s %3$d разрешения",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Запрос следующих разрешений",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная Сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые Соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Блокировать",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включить Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включить Сотовую Связь",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включить WI-FI",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Еще разрешить",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, установить?",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "Загрузка %s %s завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загрузка %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Размер: %s",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Неудачная установка",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезагрузить и Обновить",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Игнорировать",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если вы пропустите эту версию, вам не будет предложено установить ее",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Напомнить Позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить используя моб. интернет?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s релиз",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить Позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "下一首",
+		"@_name": "next_song"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "nfc"
+	},
+	{
+		"#text": "关闭nfc",
+		"@_name": "nfc_close"
+	},
+	{
+		"#text": "已关闭NFC",
+		"@_name": "nfc_close_already"
+	},
+	{
+		"#text": "本机没有NFC功能",
+		"@_name": "nfc_not_exist"
+	},
+	{
+		"#text": "打开nfc",
+		"@_name": "nfc_open"
+	},
+	{
+		"#text": "已打开NFC",
+		"@_name": "nfc_open_already"
+	},
+	{
+		"#text": "Untitled",
+		"@_name": "no_content"
+	},
+	{
+		"#text": "你还没有设置闹钟",
+		"@_name": "not_setup_alarm"
+	},
+	{
+		"#text": "不支持该操作",
+		"@_name": "not_support_handler"
+	},
+	{
+		"#text": "暂不支持播放在线音乐",
+		"@_name": "online_music_not_support"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "open"
+	},
+	{
+		"#text": "打开免打扰",
+		"@_name": "open_donotdisturb"
+	},
+	{
+		"#text": "已打开免打扰",
+		"@_name": "open_donotdisturb_already"
+	},
+	{
+		"#text": "请手动确定是否开启免打扰并退出驾驶辅助",
+		"@_name": "open_donotdisturb_drivemode"
+	},
+	{
+		"#text": "打开便携式热点",
+		"@_name": "open_hotspot"
+	},
+	{
+		"#text": "已打开便携式热点",
+		"@_name": "open_hotspot_already"
+	},
+	{
+		"#text": "开启",
+		"@_name": "open_kq"
+	},
+	{
+		"#text": "打开手电筒",
+		"@_name": "open_light"
+	},
+	{
+		"#text": "已打开手电筒",
+		"@_name": "open_light_already"
+	},
+	{
+		"#text": "打开MTP",
+		"@_name": "open_mtp"
+	},
+	{
+		"#text": "打开前置摄像头",
+		"@_name": "open_pre_camera"
+	},
+	{
+		"#text": "打开前置摄像头失败",
+		"@_name": "open_pre_camera_fail"
+	},
+	{
+		"#text": "打开PTP",
+		"@_name": "open_ptp"
+	},
+	{
+		"#text": "打开旋转",
+		"@_name": "open_ratation"
+	},
+	{
+		"#text": "已打开旋转",
+		"@_name": "open_ratation_already"
+	},
+	{
+		"#text": "打开后置摄像头",
+		"@_name": "open_rear_camera"
+	},
+	{
+		"#text": "打开后置摄像头失败",
+		"@_name": "open_rear_camera_fail"
+	},
+	{
+		"#text": "打开悬浮球",
+		"@_name": "open_smartouch"
+	},
+	{
+		"#text": "已打开悬浮球",
+		"@_name": "open_smarttouch_already"
+	},
+	{
+		"#text": "打开语音调试",
+		"@_name": "open_voice_debug"
+	},
+	{
+		"#text": "打开无线网络",
+		"@_name": "open_wireless_network"
+	},
+	{
+		"#text": "已打开无线网络",
+		"@_name": "open_wireless_network_already"
+	},
+	{
+		"#text": "其它",
+		"@_name": "other"
+	},
+	{
+		"#text": "暂停播放",
+		"@_name": "pause_play"
+	},
+	{
+		"#text": "Личная информация",
+		"@_name": "personal_info"
+	},
+	{
+		"#text": "试试说\\\"下载QQ\\\"",
+		"@_name": "pop_view_guide"
+	},
+	{
+		"#text": "Кнопка включения питания",
+		"@_name": "power_key_wakeup"
+	},
+	{
+		"#text": "Нажмите и держите 0,5 секунды, чтобы активировать Aicy, 3 секунды, чтобы выключить",
+		"@_name": "power_key_wakeup_summay"
+	},
+	{
+		"#text": "上一首",
+		"@_name": "prev_song"
+	},
+	{
+		"#text": "Уже добавлено",
+		"@_name": "quick_action_added"
+	},
+	{
+		"#text": "Не добавлено",
+		"@_name": "quick_action_not_added"
+	},
+	{
+		"#text": "Карта быстрых действий",
+		"@_name": "quick_action_setting_title"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "quick_action_settings"
+	},
+	{
+		"#text": "Быстрые команды",
+		"@_name": "quick_action_title"
+	},
+	{
+		"#text": "M月d日 EE",
+		"@_name": "r_date_week_single_format"
+	},
+	{
+		"#text": "后天",
+		"@_name": "r_day_after_tomorrow_text"
+	},
+	{
+		"#text": "前天",
+		"@_name": "r_day_before_yesterday_text"
+	},
+	{
+		"#text": "M/d",
+		"@_name": "r_day_format"
+	},
+	{
+		"#text": "EE",
+		"@_name": "r_day_week_format"
+	},
+	{
+		"#text": "后天",
+		"@_name": "r_dayAfterTomorrow_text"
+	},
+	{
+		"#text": "d日",
+		"@_name": "r_onlyday_format"
+	},
+	{
+		"#text": "下午",
+		"@_name": "r_time_afternoon"
+	},
+	{
+		"#text": "凌晨",
+		"@_name": "r_time_dawn"
+	},
+	{
+		"#text": "HH:mm",
+		"@_name": "r_time_format"
+	},
+	{
+		"#text": "上午",
+		"@_name": "r_time_morning"
+	},
+	{
+		"#text": "晚上",
+		"@_name": "r_time_night"
+	},
+	{
+		"#text": "中午",
+		"@_name": "r_time_noon"
+	},
+	{
+		"#text": "08:00",
+		"@_name": "r_time_time_style"
+	},
+	{
+		"#text": "今天",
+		"@_name": "r_today_text"
+	},
+	{
+		"#text": "明天",
+		"@_name": "r_tomorrow_text"
+	},
+	{
+		"#text": "昨天",
+		"@_name": "r_yesterday_text"
+	},
+	{
+		"#text": "旋转",
+		"@_name": "ratation"
+	},
+	{
+		"#text": "旋转模式",
+		"@_name": "ratation_model"
+	},
+	{
+		"#text": "新闻资讯",
+		"@_name": "reader"
+	},
+	{
+		"#text": "重启",
+		"@_name": "reboot"
+	},
+	{
+		"#text": "识别已取消",
+		"@_name": "recognition_canceled"
+	},
+	{
+		"#text": "Главная страница",
+		"@_name": "recommend_card"
+	},
+	{
+		"#text": "Типичные ведомости карточки",
+		"@_name": "recommend_setting_title"
+	},
+	{
+		"#text": "Вы можете говорить",
+		"@_name": "recommend_title"
+	},
+	{
+		"#text": "重新启动",
+		"@_name": "restart"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "设置",
+		"@_name": "settings"
+	},
+	{
+		"#text": "关闭电源",
+		"@_name": "shut_off_power"
+	},
+	{
+		"#text": "关机",
+		"@_name": "shutdown"
+	},
+	{
+		"#text": "悬浮球",
+		"@_name": "smart_touch"
+	},
+	{
+		"#text": "智能语音",
+		"@_name": "smart_voice"
+	},
+	{
+		"#text": "Умное пробуждение голосом",
+		"@_name": "smart_voice_wakeup"
+	},
+	{
+		"#text": "Команды",
+		"@_name": "smart_voice_wakeup_command"
+	},
+	{
+		"#text": "Сяо Си Ни Хао",
+		"@_name": "smart_voice_wakeup_command_default"
+	},
+	{
+		"#text": "Скажи «Сяо Си Ни Хао», чтобы разбудить Aicy",
+		"@_name": "smart_voice_wakeup_default_tips"
+	},
+	{
+		"#text": "Использовать голосовые команды для активации Aicy при выключеном экране",
+		"@_name": "smart_voice_wakeup_tips"
+	},
+	{
+		"#text": "Используйте голосовые команды для активации Aicy",
+		"@_name": "smart_voice_wakeup_tips_new"
+	},
+	{
+		"#text": "Используйте голосовые команды для активации Aicy",
+		"@_name": "smart_voice_wakeup_tips_sensory"
+	},
+	{
+		"#text": "您的说法不正确，请手动操作一下吧",
+		"@_name": "sms_mms_match_error"
+	},
+	{
+		"#text": "我没听清哦，请手动操作一下吧",
+		"@_name": "sms_mms_sorry_tip"
+	},
+	{
+		"#text": "Говорите…",
+		"@_name": "speak_hint"
+	},
+	{
+		"#text": "支出:",
+		"@_name": "spending"
+	},
+	{
+		"#text": "启动",
+		"@_name": "start"
+	},
+	{
+		"#text": "开始自动化测试",
+		"@_name": "start_auto_test"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "昨收盘:",
+		"@_name": "stock_closing_price_tip"
+	},
+	{
+		"#text": "最高价:",
+		"@_name": "stock_high_price_tip"
+	},
+	{
+		"#text": "%s的股票，当前价 %s，%s %s",
+		"@_name": "stock_information",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "最低价:",
+		"@_name": "stock_low_price_tip"
+	},
+	{
+		"#text": "今开盘:",
+		"@_name": "stock_opening_price_tip"
+	},
+	{
+		"#text": "未找到该股票，试试问我其他股票。",
+		"@_name": "stock_unknown"
+	},
+	{
+		"#text": "停止自动化测试",
+		"@_name": "stop_auto_test"
+	},
+	{
+		"#text": "切换MTP",
+		"@_name": "switch_mtp"
+	},
+	{
+		"#text": "切换PTP",
+		"@_name": "switch_ptp"
+	},
+	{
+		"#text": "暂时不支持国外的路线",
+		"@_name": "temporarily_does_not_support_overseas_routes"
+	},
+	{
+		"#text": "时间:",
+		"@_name": "time"
+	},
+	{
+		"#text": "您要找谁？",
+		"@_name": "tip_call_anybody"
+	},
+	{
+		"#text": "卡%d未启用",
+		"@_name": "tip_call_choose_card_invalid"
+	},
+	{
+		"#text": "%s卡未启用",
+		"@_name": "tip_call_choose_card_invalid_by_name"
+	},
+	{
+		"#text": "请直接说出您要找的联系人姓名",
+		"@_name": "tip_call_find_anybody"
+	},
+	{
+		"#text": "在通讯录中未找到联系人",
+		"@_name": "tip_call_no_found"
+	},
+	{
+		"#text": "在通讯录中未找到%s",
+		"@_name": "tip_call_nobody"
+	},
+	{
+		"#text": "电话",
+		"@_name": "tip_call_not"
+	},
+	{
+		"#text": "为您找到%d个联系人，要选第几个？",
+		"@_name": "tip_call_sms_select_num"
+	},
+	{
+		"#text": "请选择你想用的地图：",
+		"@_name": "tip_choose_map"
+	},
+	{
+		"#text": "默认使用该应用打开",
+		"@_name": "tip_choose_map_footer"
+	},
+	{
+		"#text": "在通讯录中找到以下联系人的资料：",
+		"@_name": "tip_contact_list_detail"
+	},
+	{
+		"#text": "在通讯录中未找到此人",
+		"@_name": "tip_contact_nobody"
+	},
+	{
+		"#text": "这是%s的联系资料：",
+		"@_name": "tip_contact_somebody"
+	},
+	{
+		"#text": "语音导航，请先安装相关地图应用",
+		"@_name": "tip_install_map"
+	},
+	{
+		"#text": "已暂停播放",
+		"@_name": "tip_music_pause"
+	},
+	{
+		"#text": "音乐需要联网权限",
+		"@_name": "tip_net_music_not_permission"
+	},
+	{
+		"#text": "请连接互联网",
+		"@_name": "tip_network_error"
+	},
+	{
+		"#text": "网络连接超时",
+		"@_name": "tip_network_timeout"
+	},
+	{
+		"#text": "需要网络授权，请联网后重试",
+		"@_name": "tip_network_unavailable"
+	},
+	{
+		"#text": "录音权限被占用",
+		"@_name": "tip_no_granted"
+	},
+	{
+		"#text": "未识别到有效录音",
+		"@_name": "tip_no_speech_data"
+	},
+	{
+		"#text": "Идентификация не удалась. Пожалуйста, введите заново",
+		"@_name": "tip_re_enter"
+	},
+	{
+		"#text": "SIM卡未插入，请先插入SIM卡",
+		"@_name": "tip_sim_not_insert"
+	},
+	{
+		"#text": "暂时还没有实现哦",
+		"@_name": "tip_sms_contact_unachieve"
+	},
+	{
+		"#text": "%s无可用号码",
+		"@_name": "tip_sms_no_used_phone"
+	},
+	{
+		"#text": "好的，已取消",
+		"@_name": "tip_sms_send_cancel"
+	},
+	{
+		"#text": "未知",
+		"@_name": "tip_tel_unknown"
+	},
+	{
+		"#text": "对不起，您的说法不正确",
+		"@_name": "tip_type_match_error"
+	},
+	{
+		"#text": "请升级最新系统后再试",
+		"@_name": "tip_update_firmware"
+	},
+	{
+		"#text": "启用",
+		"@_name": "to_enable"
+	},
+	{
+		"#text": "Сделать",
+		"@_name": "todo"
+	},
+	{
+		"#text": "工具箱",
+		"@_name": "toolbox"
+	},
+	{
+		"#text": "本机没有手电筒",
+		"@_name": "torch_not_exsit"
+	},
+	{
+		"#text": "关掉",
+		"@_name": "turn_off"
+	},
+	{
+		"#text": "闹钟",
+		"@_name": "txt_alarm"
+	},
+	{
+		"#text": "请手动取消日历提醒",
+		"@_name": "txt_cancle_calendar_event"
+	},
+	{
+		"#text": "天",
+		"@_name": "txt_day"
+	},
+	{
+		"#text": "小时",
+		"@_name": "txt_hour"
+	},
+	{
+		"#text": "分钟后",
+		"@_name": "txt_min"
+	},
+	{
+		"#text": "0 分钟后",
+		"@_name": "txt_null"
+	},
+	{
+		"#text": "类型:",
+		"@_name": "type"
+	},
+	{
+		"#text": "%s已经被卸载，请安装",
+		"@_name": "uninstall_tip"
+	},
+	{
+		"#text": "增加亮度",
+		"@_name": "up_brightness"
+	},
+	{
+		"#text": "调亮一点",
+		"@_name": "up_brightness_1"
+	},
+	{
+		"#text": "亮一点",
+		"@_name": "up_brightness_2"
+	},
+	{
+		"#text": "调高亮度",
+		"@_name": "up_brightness_3"
+	},
+	{
+		"#text": "增大亮度",
+		"@_name": "up_brightness_4"
+	},
+	{
+		"#text": "亮度调高",
+		"@_name": "up_brightness_5"
+	},
+	{
+		"#text": "已增加亮度",
+		"@_name": "up_brightness_already"
+	},
+	{
+		"#text": "字体变大",
+		"@_name": "up_fontsize"
+	},
+	{
+		"#text": "字号变大",
+		"@_name": "up_fontsize_1"
+	},
+	{
+		"#text": "字变大",
+		"@_name": "up_fontsize_2"
+	},
+	{
+		"#text": "字变大一点",
+		"@_name": "up_fontsize_3"
+	},
+	{
+		"#text": "字调节大一点",
+		"@_name": "up_fontsize_4"
+	},
+	{
+		"#text": "字加大一点",
+		"@_name": "up_fontsize_5"
+	},
+	{
+		"#text": "字放大",
+		"@_name": "up_fontsize_6"
+	},
+	{
+		"#text": "字放大一点",
+		"@_name": "up_fontsize_7"
+	},
+	{
+		"#text": "系统字体已调整至“%s”了",
+		"@_name": "up_fontsize_already"
+	},
+	{
+		"#text": "加大声音",
+		"@_name": "up_volume"
+	},
+	{
+		"#text": "大声一点",
+		"@_name": "up_volume_1"
+	},
+	{
+		"#text": "调大声一点",
+		"@_name": "up_volume_2"
+	},
+	{
+		"#text": "声音变大",
+		"@_name": "up_volume_3"
+	},
+	{
+		"#text": "已加大系统音量",
+		"@_name": "up_volume_already"
+	},
+	{
+		"#text": "点击编辑",
+		"@_name": "user_speak_edit"
+	},
+	{
+		"#text": "Основной адрес",
+		"@_name": "usually_address"
+	},
+	{
+		"#text": "振动",
+		"@_name": "vibrate"
+	},
+	{
+		"#text": "关闭震动",
+		"@_name": "vibrate_close"
+	},
+	{
+		"#text": "已关闭振动",
+		"@_name": "vibrate_close_already_two"
+	},
+	{
+		"#text": "关闭振动",
+		"@_name": "vibrate_close_two"
+	},
+	{
+		"#text": "打开震动",
+		"@_name": "vibrate_open"
+	},
+	{
+		"#text": "已打开振动",
+		"@_name": "vibrate_open_already_two"
+	},
+	{
+		"#text": "打开振动",
+		"@_name": "vibrate_open_two"
+	},
+	{
+		"#text": "开启震动",
+		"@_name": "vibrate_start"
+	},
+	{
+		"#text": "开启振动",
+		"@_name": "vibrate_start_two"
+	},
+	{
+		"#text": "振动",
+		"@_name": "vibrate_two"
+	},
+	{
+		"#text": "您正在使用语音助手",
+		"@_name": "voice_app_opened"
+	},
+	{
+		"#text": "语音助手",
+		"@_name": "voice_assistant"
+	},
+	{
+		"#text": "Принудительно перезагрузить телефон",
+		"@_name": "voice_assistant_guide_restart"
+	},
+	{
+		"#text": "Нажмите и удерживайте кнопку питания",
+		"@_name": "voice_assistant_guide_restart_rule"
+	},
+	{
+		"#text": "Проснись Aicy",
+		"@_name": "voice_assistant_guide_rouse"
+	},
+	{
+		"#text": "Нажатие на кнопку питания в течение 0,5 секунды",
+		"@_name": "voice_assistant_guide_rouse_rule"
+	},
+	{
+		"#text": "Нажатие на кнопку питания в течение 3 секунд",
+		"@_name": "voice_assistant_guide_rouse_shutdown_rule"
+	},
+	{
+		"#text": "Вход в интерфейс выключения",
+		"@_name": "voice_assistant_guide_shutdown"
+	},
+	{
+		"#text": "Понял",
+		"@_name": "voice_assistant_guide_sure"
+	},
+	{
+		"#text": "Настройки по умолчанию можно изменить в меню Настройки> Специальные возможности> Голосовой Ассистент",
+		"@_name": "voice_assistant_guide_tip"
+	},
+	{
+		"#text": "Инструкции для кнопки питания",
+		"@_name": "voice_assistant_guide_title"
+	},
+	{
+		"#text": "Разрешить Aicy совершать звонки на заблокированном телефоне",
+		"@_name": "voice_assistent_settings_summary"
+	},
+	{
+		"#text": "Звонки с экрана блокировки",
+		"@_name": "voice_assistent_settings_title"
+	},
+	{
+		"#text": "已关闭语音调试",
+		"@_name": "voice_debug_close"
+	},
+	{
+		"#text": "已打开语音调试",
+		"@_name": "voice_debug_open"
+	},
+	{
+		"#text": "退出智能语音",
+		"@_name": "voiceassistance_close"
+	},
+	{
+		"#text": "退出",
+		"@_name": "voiceassistance_close_1"
+	},
+	{
+		"#text": "再见",
+		"@_name": "voiceassistance_close_2"
+	},
+	{
+		"#text": "拜拜",
+		"@_name": "voiceassistance_close_3"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "voiceassistance_close_4"
+	},
+	{
+		"#text": "关闭智能语音",
+		"@_name": "voiceassistance_close_5"
+	},
+	{
+		"#text": "Пробуждение",
+		"@_name": "wakeup"
+	},
+	{
+		"#text": "魅族钱包",
+		"@_name": "wallet"
+	},
+	{
+		"#text": "理财从记账开始，请先安装钱包",
+		"@_name": "wallet_not_installed"
+	},
+	{
+		"#text": "钱包记账",
+		"@_name": "wallet_record"
+	},
+	{
+		"#text": "Действительно хотите выйти из голосовых настроек?",
+		"@_name": "wave_back_dialog_tip"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "wave_del"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "wave_save"
+	},
+	{
+		"#text": "Имя файла не может быть пустым!",
+		"@_name": "wave_save_toast_empty_tip"
+	},
+	{
+		"#text": "Не могу получить команду на пробуждение",
+		"@_name": "wave_wake_acquire_keyword_fail"
+	},
+	{
+		"#text": "Сохранить голосовую команду",
+		"@_name": "wave_wake_keyword_tag"
+	},
+	{
+		"#text": "OK",
+		"@_name": "wave_wake_ok"
+	},
+	{
+		"#text": "OK",
+		"@_name": "wave_wake_ok_2"
+	},
+	{
+		"#text": "Пожалуйста попробуйте еще",
+		"@_name": "wave_wake_qcom__tip_confirm_error"
+	},
+	{
+		"#text": "%d/5",
+		"@_name": "wave_wake_qcom_tip_confirm"
+	},
+	{
+		"#text": "Настройка голосовых команд успешно завершена",
+		"@_name": "wave_wake_qcom_tip_confirm_success"
+	},
+	{
+		"#text": "语令",
+		"@_name": "wave_wake_save_hint"
+	},
+	{
+		"#text": "Пожалуйста, скажите что-нибудь для ввода текста с помощью голоса",
+		"@_name": "wave_wake_speak_now_tip"
+	},
+	{
+		"#text": "Пожалуйста, говорите на мандаринском Ваш мобильный телефон в спокойной обстановке.",
+		"@_name": "wave_wake_tip1_1"
+	},
+	{
+		"#text": "пожалуйста, говорите дальше",
+		"@_name": "wave_wake_tip1_2"
+	},
+	{
+		"#text": "Опять говори",
+		"@_name": "wave_wake_tip1_3"
+	},
+	{
+		"#text": "Почти готово, говорите дальше",
+		"@_name": "wave_wake_tip1_4"
+	},
+	{
+		"#text": "В прошлый раз, говорите дальше",
+		"@_name": "wave_wake_tip1_5"
+	},
+	{
+		"#text": "“小溪你好”",
+		"@_name": "wave_wake_tip2_default"
+	},
+	{
+		"#text": "«Извините, я не поняла этого»",
+		"@_name": "wave_wake_tip2_failed_record1"
+	},
+	{
+		"#text": "«Простите, я не уловила этого»",
+		"@_name": "wave_wake_tip2_failed_record2"
+	},
+	{
+		"#text": "«Извините, я не уловила этого»",
+		"@_name": "wave_wake_tip2_failed_record3"
+	},
+	{
+		"#text": "Что-то пошло не так.\\nПожалуйста, попробуйте позже.",
+		"@_name": "wave_wake_tip2_failed_train"
+	},
+	{
+		"#text": "\"«Теперь вы можете разбудить Aicy голосом\"",
+		"@_name": "wave_wake_tip2_success"
+	},
+	{
+		"#text": "Обучение",
+		"@_name": "wave_wake_tip2_training"
+	},
+	{
+		"#text": "请保持安静的录音环境，人机距离不超过10cm",
+		"@_name": "wave_wake_tip_condition"
+	},
+	{
+		"#text": "请重复第%d遍",
+		"@_name": "wave_wake_tip_confirm"
+	},
+	{
+		"#text": "请再试一次",
+		"@_name": "wave_wake_tip_confirm_error"
+	},
+	{
+		"#text": "语令设置完成",
+		"@_name": "wave_wake_tip_confirm_success"
+	},
+	{
+		"#text": "\"声纹采集成功\n请重复语令 3遍，以验证语令内容\"",
+		"@_name": "wave_wake_tip_create_success"
+	},
+	{
+		"#text": "语令过短，请录入三个字以上的语令",
+		"@_name": "wave_wake_tip_lest_words"
+	},
+	{
+		"#text": "语令过长，请录入三个字以上的语令",
+		"@_name": "wave_wake_tip_more_words"
+	},
+	{
+		"#text": "声纹设置错误，请重试",
+		"@_name": "wave_wake_tip_other_error"
+	},
+	{
+		"#text": "声纹验证完成",
+		"@_name": "wave_wake_tip_third"
+	},
+	{
+		"#text": "\"建议录入三个字以上的语令\n如：芝麻开门\"",
+		"@_name": "wave_wake_warm_tip_input_command"
+	},
+	{
+		"#text": "很抱歉，暂不支持该地区的天气查询",
+		"@_name": "weather_cannot_find_city"
+	},
+	{
+		"#text": "获取天气信息出错",
+		"@_name": "weather_fail"
+	},
+	{
+		"#text": "以下是%s%s的天气情况",
+		"@_name": "weather_info",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "后天",
+		"@_name": "weather_key_day_after_tomorrow"
+	},
+	{
+		"#text": "周五",
+		"@_name": "weather_key_fri"
+	},
+	{
+		"#text": "星期五",
+		"@_name": "weather_key_friday"
+	},
+	{
+		"#text": "未来几天",
+		"@_name": "weather_key_future"
+	},
+	{
+		"#text": "未来",
+		"@_name": "weather_key_future_1"
+	},
+	{
+		"#text": "最近",
+		"@_name": "weather_key_future_2"
+	},
+	{
+		"#text": "周一",
+		"@_name": "weather_key_mon"
+	},
+	{
+		"#text": "星期一",
+		"@_name": "weather_key_monday"
+	},
+	{
+		"#text": "下周",
+		"@_name": "weather_key_next_week"
+	},
+	{
+		"#text": "现在",
+		"@_name": "weather_key_now"
+	},
+	{
+		"#text": "周六",
+		"@_name": "weather_key_sat"
+	},
+	{
+		"#text": "星期六",
+		"@_name": "weather_key_saturday"
+	},
+	{
+		"#text": "周天",
+		"@_name": "weather_key_sun"
+	},
+	{
+		"#text": "周日",
+		"@_name": "weather_key_sun2"
+	},
+	{
+		"#text": "星期天",
+		"@_name": "weather_key_sunday"
+	},
+	{
+		"#text": "星期日",
+		"@_name": "weather_key_sunday2"
+	},
+	{
+		"#text": "大后天",
+		"@_name": "weather_key_three_days_from_now"
+	},
+	{
+		"#text": "周四",
+		"@_name": "weather_key_thu"
+	},
+	{
+		"#text": "星期四",
+		"@_name": "weather_key_thursday"
+	},
+	{
+		"#text": "今天",
+		"@_name": "weather_key_today"
+	},
+	{
+		"#text": "明天",
+		"@_name": "weather_key_tomorrow"
+	},
+	{
+		"#text": "周二",
+		"@_name": "weather_key_tue"
+	},
+	{
+		"#text": "星期二",
+		"@_name": "weather_key_tuesday"
+	},
+	{
+		"#text": "周三",
+		"@_name": "weather_key_wed"
+	},
+	{
+		"#text": "星期三",
+		"@_name": "weather_key_wednesday"
+	},
+	{
+		"#text": "昨天",
+		"@_name": "weather_key_yesterday"
+	},
+	{
+		"#text": "([12]?[0-9]|[3][0-1])(日)",
+		"@_name": "weather_matcher_day"
+	},
+	{
+		"#text": "([0-9]|[1]?[0-2])(月)",
+		"@_name": "weather_matcher_month"
+	},
+	{
+		"#text": "Посмотреть еще",
+		"@_name": "webview_more"
+	},
+	{
+		"#text": "关闭WIFI",
+		"@_name": "wifi_close"
+	},
+	{
+		"#text": "已关闭wifi",
+		"@_name": "wifi_close_already"
+	},
+	{
+		"#text": "打开WIFI",
+		"@_name": "wifi_open"
+	},
+	{
+		"#text": "已打开wifi",
+		"@_name": "wifi_open_already"
+	},
+	{
+		"#text": "无线网络",
+		"@_name": "wireless_network"
+	},
+	{
+		"#text": "无线网",
+		"@_name": "wireless_network_1"
+	},
+	{
+		"#text": "关闭WLAN",
+		"@_name": "wlan_close"
+	},
+	{
+		"#text": "已关闭WLAN",
+		"@_name": "wlan_close_already"
+	},
+	{
+		"#text": "打开WLAN",
+		"@_name": "wlan_open"
+	},
+	{
+		"#text": "已打开WLAN",
+		"@_name": "wlan_open_already"
+	}
+]

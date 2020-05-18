@@ -1,0 +1,4471 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "abc_action_bar_home_description_format"
+	},
+	{
+		"#text": "%1$s, %2$s, %3$s",
+		"@_name": "abc_action_bar_home_subtitle_description_format"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "О нас",
+		"@_name": "about_us"
+	},
+	{
+		"#text": "Система не отвечает, попробуйте позже.",
+		"@_name": "access_server_error"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add"
+	},
+	{
+		"#text": "Прикрепить",
+		"@_name": "add_attachment"
+	},
+	{
+		"#text": "Прикрепить vCard",
+		"@_name": "add_attachment_contact_vcard_title"
+	},
+	{
+		"#text": "Добавить вложение",
+		"@_name": "add_attachments"
+	},
+	{
+		"#text": "Добавить треки",
+		"@_name": "add_music"
+	},
+	{
+		"#text": "Добавить псевдоним",
+		"@_name": "add_nickname_title"
+	},
+	{
+		"#text": "Изображения",
+		"@_name": "add_picture"
+	},
+	{
+		"#text": "Добавить слайды",
+		"@_name": "add_slide"
+	},
+	{
+		"#text": "Нажмите, чтобы создать слайд.",
+		"@_name": "add_slide_hint"
+	},
+	{
+		"#text": "Добавить видео",
+		"@_name": "add_video"
+	},
+	{
+		"#text": "Неверный формат данных",
+		"@_name": "alipay_data_exception"
+	},
+	{
+		"#text": "Ошибка сетевого запроса",
+		"@_name": "alipay_network_request_error"
+	},
+	{
+		"#text": "Обновление платежного сервиса",
+		"@_name": "alipay_server_error"
+	},
+	{
+		"#text": "Alipay не отвечает, попробуй еще раз",
+		"@_name": "alipay_unknown_error"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Сообщения",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Сервисы",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Ассистент Meizu не поддерживает MMS",
+		"@_name": "assistant_cannt_support_mms"
+	},
+	{
+		"#text": "Превышен предел в 420 символов",
+		"@_name": "assistant_message_text_length_error"
+	},
+	{
+		"#text": "Контакт",
+		"@_name": "attach_menu_contact"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "attach_menu_from_camera"
+	},
+	{
+		"#text": "Картинка",
+		"@_name": "attach_menu_image"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "attach_menu_snapshoot"
+	},
+	{
+		"#text": "Отложенное SMS",
+		"@_name": "attach_menu_timer"
+	},
+	{
+		"#text": "Запись",
+		"@_name": "attach_record_sound"
+	},
+	{
+		"#text": "Запись видео",
+		"@_name": "attach_record_video"
+	},
+	{
+		"#text": "Слайд-шоу",
+		"@_name": "attach_slideshow"
+	},
+	{
+		"#text": "Аудио",
+		"@_name": "attach_sound"
+	},
+	{
+		"#text": "Сделать снимок",
+		"@_name": "attach_take_photo"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "attach_video"
+	},
+	{
+		"#text": "Добавить видео",
+		"@_name": "attach_video_title"
+	},
+	{
+		"#text": "Добавить запись",
+		"@_name": "attach_voice_title"
+	},
+	{
+		"#text": "Аудио",
+		"@_name": "attachment_audio"
+	},
+	{
+		"#text": "Файл",
+		"@_name": "attachment_file"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "attachment_location"
+	},
+	{
+		"#text": "Картинка",
+		"@_name": "attachment_picture"
+	},
+	{
+		"#text": "Слайд-шоу",
+		"@_name": "attachment_slideshow"
+	},
+	{
+		"#text": "Голосовая связь",
+		"@_name": "attachment_talk"
+	},
+	{
+		"#text": "Визитка vCard",
+		"@_name": "attachment_vcard"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "attachment_video"
+	},
+	{
+		"#text": "Нажмите здесь или измените в настройках",
+		"@_name": "banner_sms_promo_message"
+	},
+	{
+		"#text": "Используемое SMS-приложение: %s",
+		"@_name": "banner_sms_promo_title_application"
+	},
+	{
+		"#text": "Встроенное приложение не является приложением по умолчанию",
+		"@_name": "banner_sms_promo_title_initial"
+	},
+	{
+		"#text": "Новое сообщение",
+		"@_name": "btn_new_message_large"
+	},
+	{
+		"#text": "Создание слайд-шоу",
+		"@_name": "building_slideshow_title"
+	},
+	{
+		"#text": "Группы не поддерживаются в веб-версии сообщений",
+		"@_name": "can_not_send_flyme_for_group_mms"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel_tip"
+	},
+	{
+		"#text": "Открепить",
+		"@_name": "cancel_top"
+	},
+	{
+		"#text": "Нельзя добавить на слайд и картинку, и видео.",
+		"@_name": "cannot_add_picture_and_video"
+	},
+	{
+		"#text": "Количество получателей при массовой рассылке не может быть более 500",
+		"@_name": "cannot_add_recipients_exceed"
+	},
+	{
+		"#text": "Добавлено максимальное число слайдов.",
+		"@_name": "cannot_add_slide_anymore"
+	},
+	{
+		"#text": "Не удалось загрузить данные.",
+		"@_name": "cannot_get_details"
+	},
+	{
+		"#text": "Нельзя записать во время вызова",
+		"@_name": "cannot_record_error"
+	},
+	{
+		"#text": "Не удалось сохранить сообщение.",
+		"@_name": "cannot_save_message"
+	},
+	{
+		"#text": "Адреса эл. почты не поддерживаются",
+		"@_name": "cannot_send_flyme_message_reason_some_loginout"
+	},
+	{
+		"#text": "Массовая рассылка не поддерживается для сообщений помощника Meizu",
+		"@_name": "cannot_send_message_for_group_assistant"
+	},
+	{
+		"#text": "Массовая рассылка не поддерживается для эл. почты",
+		"@_name": "cannot_send_message_for_group_email"
+	},
+	{
+		"#text": "Массовая рассылка не поддерживается для эл. почты и личных сообщений Weibo",
+		"@_name": "cannot_send_message_for_group_email_and_sns"
+	},
+	{
+		"#text": "Личные сообщения Weibo не поддерживаются",
+		"@_name": "cannot_send_message_for_sns"
+	},
+	{
+		"#text": "Изменить приложение для сообщений?",
+		"@_name": "change_default_message_app_dialog_title"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "change_mms_text"
+	},
+	{
+		"#text": "Изменить псевдоним",
+		"@_name": "change_nickname_title"
+	},
+	{
+		"#text": "SIM 1 - %s",
+		"@_name": "change_sim1_title"
+	},
+	{
+		"#text": "SIM 2 - %s",
+		"@_name": "change_sim2_title"
+	},
+	{
+		"#text": "Некоторое содержимое не отправлено",
+		"@_name": "change_slot_toast"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "change_sms_text"
+	},
+	{
+		"#text": "Через ПО Безопасность от Meizu",
+		"@_name": "com_meizu_safe_send_query_charge_sms"
+	},
+	{
+		"#text": "Из Meizu Security",
+		"@_name": "com_meizu_safe_send_query_flow_sms"
+	},
+	{
+		"#text": "Невозможно создать сообщение, так как текущее приложение не является установленным по умолчанию.",
+		"@_name": "compose_disabled_toast"
+	},
+	{
+		"#text": "Отложенное SMS",
+		"@_name": "compose_text_hint_timer"
+	},
+	{
+		"#text": "Запланировать",
+		"@_name": "compose_timer"
+	},
+	{
+		"#text": "Удалить сообщения: %1$s",
+		"@_name": "confirm_dialog_title"
+	},
+	{
+		"#text": "Отправляется несколько MMS. Продолжить?",
+		"@_name": "confirm_rate_limit"
+	},
+	{
+		"#text": "Сервер не может принять данное содержимое",
+		"@_name": "content_not_accepted"
+	},
+	{
+		"#text": "yyyy",
+		"@_name": "conv_divider_fomater"
+	},
+	{
+		"#text": "Ошибка отправки сообщения",
+		"@_name": "conv_subject_fail_warning"
+	},
+	{
+		"#text": "Скопировано в буфер обмена",
+		"@_name": "copy_code"
+	},
+	{
+		"#text": "Копировать в SIM",
+		"@_name": "copy_to_sim"
+	},
+	{
+		"#text": "Копировать на SIM 1",
+		"@_name": "copy_to_sim_1"
+	},
+	{
+		"#text": "Копировать на SIM 2",
+		"@_name": "copy_to_sim_2"
+	},
+	{
+		"#text": "Ошибка копирования в SIM",
+		"@_name": "copy_to_sim_fail"
+	},
+	{
+		"#text": "Скопировано в SIM",
+		"@_name": "copy_to_sim_success"
+	},
+	{
+		"#text": "Копировать на SIM-карту",
+		"@_name": "copy_to_uim"
+	},
+	{
+		"#text": "Ошибка копирования на карту",
+		"@_name": "copy_to_uim_fail"
+	},
+	{
+		"#text": "Успешно скопировано на карту",
+		"@_name": "copy_to_uim_success"
+	},
+	{
+		"#text": "Новое сообщение",
+		"@_name": "create_new_message"
+	},
+	{
+		"#text": "Telecom Smart SMS",
+		"@_name": "ctcc_smart_message"
+	},
+	{
+		"#text": "Опасная ссылка! Пожалуйста, не открывайте её.",
+		"@_name": "dangerous_url"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "del_progress_dialog_title"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_extra"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_message"
+	},
+	{
+		"#text": "Доставлено:",
+		"@_name": "delivered_label"
+	},
+	{
+		"#text": "Демонстрация RCS-сообщений",
+		"@_name": "demo_name"
+	},
+	{
+		"#text": "Набор",
+		"@_name": "dial_btn_title"
+	},
+	{
+		"#text": "Не изменяйте или не удаляйте этот номер, если это не предполагается оператором связи; в противном случае функция получения или отправки сообщений может быть недоступна",
+		"@_name": "dialog_sms_center_message"
+	},
+	{
+		"#text": "SMS-центр",
+		"@_name": "dialog_sms_center_number"
+	},
+	{
+		"#text": "Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию?",
+		"@_name": "disable_notifications_dialog_message"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "discard_btn_title"
+	},
+	{
+		"#text": "Отменить изменения?",
+		"@_name": "discard_nickname_change_title"
+	},
+	{
+		"#text": "MMS не поддерживает псевдонимы",
+		"@_name": "discard_nickname_for_mms_title"
+	},
+	{
+		"#text": "Отменить слайд-шоу",
+		"@_name": "discard_slideshow"
+	},
+	{
+		"#text": "Группа была удалена",
+		"@_name": "dissolve_group"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "done"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "done_text"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "douqu_loading"
+	},
+	{
+		"#text": "м",
+		"@_name": "douqu_m"
+	},
+	{
+		"#text": "Нажмите для продолжения",
+		"@_name": "download_goon_title"
+	},
+	{
+		"#text": "Не удалось загрузить сообщения. Повторите попытку позже.",
+		"@_name": "download_later"
+	},
+	{
+		"#text": "У вас есть неотправленные сообщения.",
+		"@_name": "draft_header_text"
+	},
+	{
+		"#text": "Без темы",
+		"@_name": "draft_no_subject"
+	},
+	{
+		"#text": ",",
+		"@_name": "draft_separator"
+	},
+	{
+		"#text": "MMS: %1$s",
+		"@_name": "draft_sub_tittle_mms"
+	},
+	{
+		"#text": "\"[Черновик] \"",
+		"@_name": "draft_tittle_large"
+	},
+	{
+		"#text": "切换车次",
+		"@_name": "duoqu_613_change"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_613_select"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_air_arriver_city"
+	},
+	{
+		"#text": "到达时间",
+		"@_name": "duoqu_air_arriver_date"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_air_departure_city"
+	},
+	{
+		"#text": "出发时间",
+		"@_name": "duoqu_air_departure_date"
+	},
+	{
+		"#text": "航班号",
+		"@_name": "duoqu_air_flight_num"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_air_number"
+	},
+	{
+		"#text": "上午",
+		"@_name": "duoqu_am"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_arrive_city"
+	},
+	{
+		"#text": "到达时间",
+		"@_name": "duoqu_arrive_datetime"
+	},
+	{
+		"#text": ":",
+		"@_name": "duoqu_bill_data_split"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_bub_dialog_content"
+	},
+	{
+		"#text": "提示",
+		"@_name": "duoqu_bub_dialog_title"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_bub_popmenu_content"
+	},
+	{
+		"#text": "О нас",
+		"@_name": "duoqu_bub_web_aboutus"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "duoqu_bub_web_close"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "duoqu_bub_web_loading"
+	},
+	{
+		"#text": "解除默认选择",
+		"@_name": "duoqu_bub_web_reset"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_bubble_flight_arrive"
+	},
+	{
+		"#text": ";",
+		"@_name": "duoqu_bubble_money_split"
+	},
+	{
+		"#text": "收起",
+		"@_name": "duoqu_bubble_more_info_hide"
+	},
+	{
+		"#text": "更多",
+		"@_name": "duoqu_bubble_more_info_show"
+	},
+	{
+		"#text": "（更多信息请点击显示原文）",
+		"@_name": "duoqu_bubble_more_info_show_extend"
+	},
+	{
+		"#text": "派送中",
+		"@_name": "duoqu_bubble_post_sending"
+	},
+	{
+		"#text": "派送状态",
+		"@_name": "duoqu_bubble_post_title"
+	},
+	{
+		"#text": "，",
+		"@_name": "duoqu_bubble_train_seat_split"
+	},
+	{
+		"#text": "-",
+		"@_name": "duoqu_bubble_ui_part_air_train_split"
+	},
+	{
+		"#text": "来电",
+		"@_name": "duoqu_call"
+	},
+	{
+		"#text": "骚扰电话",
+		"@_name": "duoqu_call_harass"
+	},
+	{
+		"#text": "拨打电话",
+		"@_name": "duoqu_call_phone"
+	},
+	{
+		"#text": "陌生人",
+		"@_name": "duoqu_call_stranger"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_call_unknown"
+	},
+	{
+		"#text": "呼叫时间",
+		"@_name": "duoqu_calls_callingtime"
+	},
+	{
+		"#text": "来电时间",
+		"@_name": "duoqu_calls_calltime"
+	},
+	{
+		"#text": "来电次数",
+		"@_name": "duoqu_calls_frequency"
+	},
+	{
+		"#text": "末次时间",
+		"@_name": "duoqu_calls_last_calltime"
+	},
+	{
+		"#text": "来电时状态",
+		"@_name": "duoqu_calls_ownstate"
+	},
+	{
+		"#text": "来电识别",
+		"@_name": "duoqu_calls_reminder_discern_call"
+	},
+	{
+		"#text": "电话号码",
+		"@_name": "duoqu_calls_reminder_side_phone_num"
+	},
+	{
+		"#text": "对方归属地",
+		"@_name": "duoqu_calls_sideattribution"
+	},
+	{
+		"#text": "对方状态",
+		"@_name": "duoqu_calls_sidestate"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_cancel"
+	},
+	{
+		"#text": "检票口",
+		"@_name": "duoqu_check_info"
+	},
+	{
+		"#text": "[一-龥]",
+		"@_name": "duoqu_chinese"
+	},
+	{
+		"#text": "充值",
+		"@_name": "duoqu_chonzhi"
+	},
+	{
+		"#text": ":",
+		"@_name": "duoqu_colon"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_confirm"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_defult_gray_text"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "duoqu_delete"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "duoqu_delete_eg"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "duoqu_delete_en"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "duoqu_delete_tw"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "duoqu_delete_zh"
+	},
+	{
+		"#text": "выезд",
+		"@_name": "duoqu_depart_city"
+	},
+	{
+		"#text": "Время отправления",
+		"@_name": "duoqu_depart_datetime"
+	},
+	{
+		"#text": "После удаления выбора службы по умолчанию, вы можете повторно выбрать нужное приложение службы",
+		"@_name": "duoqu_dialog_content"
+	},
+	{
+		"#text": "подсказка",
+		"@_name": "duoqu_dialog_title"
+	},
+	{
+		"#text": "Собираюсь",
+		"@_name": "duoqu_direction"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "duoqu_dlg_cancel"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "duoqu_dlg_laoding"
+	},
+	{
+		"#text": "— —",
+		"@_name": "duoqu_double_line"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_double_line_an"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_double_line_arr_time"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_double_line_dep_time"
+	},
+	{
+		"#text": "- -",
+		"@_name": "duoqu_double_line_en"
+	},
+	{
+		"#text": "进站口",
+		"@_name": "duoqu_entrance_info"
+	},
+	{
+		"#text": "找不到网页，请您检查当前网络是否通畅!",
+		"@_name": "duoqu_errortext"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_fight_end"
+	},
+	{
+		"#text": "航班选择",
+		"@_name": "duoqu_fight_number_select"
+	},
+	{
+		"#text": "备降",
+		"@_name": "duoqu_fight_state_alternate"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_fight_state_cancel"
+	},
+	{
+		"#text": "延误",
+		"@_name": "duoqu_fight_state_delays"
+	},
+	{
+		"#text": "起飞",
+		"@_name": "duoqu_fight_state_departure"
+	},
+	{
+		"#text": "计划中",
+		"@_name": "duoqu_fight_state_plan"
+	},
+	{
+		"#text": "返航",
+		"@_name": "duoqu_fight_state_return"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_filght"
+	},
+	{
+		"#text": "备降到达",
+		"@_name": "duoqu_flight_date_alternate_arrival"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_flight_date_arrival"
+	},
+	{
+		"#text": "返航到达",
+		"@_name": "duoqu_flight_date_return_arrival"
+	},
+	{
+		"#text": "目的地",
+		"@_name": "duoqu_flight_def_arrive_adress"
+	},
+	{
+		"#text": "出发地",
+		"@_name": "duoqu_flight_def_depart_adress"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_flight_def_depart_time"
+	},
+	{
+		"#text": "选择航班",
+		"@_name": "duoqu_flight_number_select"
+	},
+	{
+		"#text": "提前取消",
+		"@_name": "duoqu_flight_state_ahead_cancel"
+	},
+	{
+		"#text": "备降",
+		"@_name": "duoqu_flight_state_alternate"
+	},
+	{
+		"#text": "备降取消",
+		"@_name": "duoqu_flight_state_alternate_cancel"
+	},
+	{
+		"#text": "备降起飞",
+		"@_name": "duoqu_flight_state_alternate_departure"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_flight_state_cancel"
+	},
+	{
+		"#text": "延误",
+		"@_name": "duoqu_flight_state_delays"
+	},
+	{
+		"#text": "起飞",
+		"@_name": "duoqu_flight_state_departure"
+	},
+	{
+		"#text": "计划",
+		"@_name": "duoqu_flight_state_plan"
+	},
+	{
+		"#text": "返航",
+		"@_name": "duoqu_flight_state_return"
+	},
+	{
+		"#text": "返航取消",
+		"@_name": "duoqu_flight_state_return_cancel"
+	},
+	{
+		"#text": "返航起飞",
+		"@_name": "duoqu_flight_state_return_departure"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_flight_unknow_time"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_flightstr"
+	},
+	{
+		"#text": "转发短信",
+		"@_name": "duoqu_forword_sms"
+	},
+	{
+		"#text": "Прочитать",
+		"@_name": "duoqu_has_read"
+	},
+	{
+		"#text": "Прочитать",
+		"@_name": "duoqu_has_read_en"
+	},
+	{
+		"#text": "Прочитать",
+		"@_name": "duoqu_has_read_tw"
+	},
+	{
+		"#text": "Прочитать",
+		"@_name": "duoqu_has_read_zh"
+	},
+	{
+		"#text": "Загрузка. Пожалуйста, подождите…",
+		"@_name": "duoqu_loading"
+	},
+	{
+		"#text": "附近网点",
+		"@_name": "duoqu_nearby_point_list_title"
+	},
+	{
+		"#text": "暂无相关信息，请联网再试~",
+		"@_name": "duoqu_no_net"
+	},
+	{
+		"#text": "暂无相关信息，请稍后再试~",
+		"@_name": "duoqu_no_train_info"
+	},
+	{
+		"#text": "打开地图",
+		"@_name": "duoqu_open_map"
+	},
+	{
+		"#text": "访问网址",
+		"@_name": "duoqu_open_net"
+	},
+	{
+		"#text": "打开原文",
+		"@_name": "duoqu_open_text"
+	},
+	{
+		"#text": "下午",
+		"@_name": "duoqu_pm"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_popmenu_content"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "duoqu_reply_en"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "duoqu_reply_sms"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "duoqu_reply_tw"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "duoqu_reply_zh"
+	},
+	{
+		"#text": "座位",
+		"@_name": "duoqu_seat_info"
+	},
+	{
+		"#text": "切换航班",
+		"@_name": "duoqu_select_air"
+	},
+	{
+		"#text": "选择终点站",
+		"@_name": "duoqu_select_destination"
+	},
+	{
+		"#text": "选择航班信息",
+		"@_name": "duoqu_select_fight_num"
+	},
+	{
+		"#text": "切换车次",
+		"@_name": "duoqu_select_train"
+	},
+	{
+		"#text": "选择车次信息",
+		"@_name": "duoqu_select_train_num"
+	},
+	{
+		"#text": "发送邮件",
+		"@_name": "duoqu_send_email"
+	},
+	{
+		"#text": "卡",
+		"@_name": "duoqu_sim_card"
+	},
+	{
+		"#text": "数据来源百度地图",
+		"@_name": "duoqu_tip_data_source"
+	},
+	{
+		"#text": "多趣",
+		"@_name": "duoqu_tip_duoqu_name"
+	},
+	{
+		"#text": "缺少参数，无法打开百度地图",
+		"@_name": "duoqu_tip_false"
+	},
+	{
+		"#text": "亲，数据获取失败，可能是您未开启定位哦~",
+		"@_name": "duoqu_tip_gps_closed_error"
+	},
+	{
+		"#text": "点击加载更多数据",
+		"@_name": "duoqu_tip_load_more"
+	},
+	{
+		"#text": "加载中...",
+		"@_name": "duoqu_tip_loading"
+	},
+	{
+		"#text": "附近网点加载中...",
+		"@_name": "duoqu_tip_nearby_point_loading"
+	},
+	{
+		"#text": "对不起，网络出错了，轻触屏幕重新加载",
+		"@_name": "duoqu_tip_nearby_point_network_lose"
+	},
+	{
+		"#text": "没有找到相关结果！",
+		"@_name": "duoqu_tip_nearby_point_not_find"
+	},
+	{
+		"#text": "信析宝提供服务",
+		"@_name": "duoqu_tip_services_provide"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_train_arrive"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_train_date_arrival"
+	},
+	{
+		"#text": "dd MM",
+		"@_name": "duoqu_train_date_format"
+	},
+	{
+		"#text": "MM月dd日",
+		"@_name": "duoqu_train_date_format_cn"
+	},
+	{
+		"#text": "dd.MM",
+		"@_name": "duoqu_train_date_format_qiku"
+	},
+	{
+		"#text": "当天",
+		"@_name": "duoqu_train_date_one"
+	},
+	{
+		"#text": "第三天",
+		"@_name": "duoqu_train_date_three"
+	},
+	{
+		"#text": "第二天",
+		"@_name": "duoqu_train_date_two"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_train_depart"
+	},
+	{
+		"#text": "预计",
+		"@_name": "duoqu_train_dupplement_date"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_end"
+	},
+	{
+		"#text": "暂无相关信息，请稍后再试",
+		"@_name": "duoqu_train_nodata_warnning"
+	},
+	{
+		"#text": "暂无相关信息，请联网再试",
+		"@_name": "duoqu_train_nonet_warnning"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_num"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_train_num_str"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_train_number"
+	},
+	{
+		"#text": "列车信息已过期",
+		"@_name": "duoqu_train_outtime"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_train_select"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_time"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_train_unknow_time"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_ui_air_departure_city"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_ui_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_ui_confirm"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_dialog_select_cart"
+	},
+	{
+		"#text": "选择航班",
+		"@_name": "duoqu_ui_dialog_select_flight"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_dialog_select_trains"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_ui_direction"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_fight"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_ui_filght"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_ui_part_air_date_title"
+	},
+	{
+		"#text": "乘客：",
+		"@_name": "duoqu_ui_part_air_price_title"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_part_air_train_train_select"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_ui_part_call_unknown"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_ui_part_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_ui_part_confirm"
+	},
+	{
+		"#text": "选择目的地",
+		"@_name": "duoqu_ui_part_destination"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_ui_part_double_line_an"
+	},
+	{
+		"#text": "- -",
+		"@_name": "duoqu_ui_part_double_line_en"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_part_fight"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_ui_part_noti_mark"
+	},
+	{
+		"#text": "求助人",
+		"@_name": "duoqu_ui_part_notification_help"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_part_select_air_title"
+	},
+	{
+		"#text": "到达站",
+		"@_name": "duoqu_ui_part_select_destination"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_ui_part_select_train_title"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_ui_part_train_date_title"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_ui_part_train_no_price"
+	},
+	{
+		"#text": "座位",
+		"@_name": "duoqu_ui_part_train_price_title"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_ui_train_num_str"
+	},
+	{
+		"#text": "Н/д",
+		"@_name": "duoqu_unknow"
+	},
+	{
+		"#text": "提示：请勿泄露短信验证码",
+		"@_name": "duoqu_verifycode_warnning"
+	},
+	{
+		"#text": "候车地点",
+		"@_name": "duoqu_wait_info"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "duoqu_web_aboutus"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "duoqu_web_close"
+	},
+	{
+		"#text": "反馈",
+		"@_name": "duoqu_web_feedback"
+	},
+	{
+		"#text": "帮助",
+		"@_name": "duoqu_web_help"
+	},
+	{
+		"#text": "网络失效了，打开网络看看",
+		"@_name": "duoqu_web_network_fail"
+	},
+	{
+		"#text": "网络设置",
+		"@_name": "duoqu_web_network_setting"
+	},
+	{
+		"#text": "找不到网页",
+		"@_name": "duoqu_web_not_find_page"
+	},
+	{
+		"#text": "刷新",
+		"@_name": "duoqu_web_reload"
+	},
+	{
+		"#text": "解除默认选择",
+		"@_name": "duoqu_web_reset"
+	},
+	{
+		"#text": "选择文件",
+		"@_name": "duoqu_webview_img_select_dialog_choose_text_content"
+	},
+	{
+		"#text": "手机相册",
+		"@_name": "duoqu_webview_img_select_dialog_photo_album_text_content"
+	},
+	{
+		"#text": "拍摄照片",
+		"@_name": "duoqu_webview_img_select_dialog_shooting_text_content"
+	},
+	{
+		"#text": "当前网页申请使用您当前位置",
+		"@_name": "duoqu_webview_location_prompt_message"
+	},
+	{
+		"#text": "拒绝",
+		"@_name": "duoqu_webview_location_prompt_negative"
+	},
+	{
+		"#text": "同意",
+		"@_name": "duoqu_webview_location_prompt_positive"
+	},
+	{
+		"#text": "选择应用",
+		"@_name": "duoqu_webview_select_application"
+	},
+	{
+		"#text": "预计到达时间",
+		"@_name": "duqou_arrive_time_string"
+	},
+	{
+		"#text": "标为已读",
+		"@_name": "duqou_mark_btn_name"
+	},
+	{
+		"#text": "车厢座位",
+		"@_name": "duqou_seat_info_string"
+	},
+	{
+		"#text": "求助人",
+		"@_name": "duqou_seek_assistance"
+	},
+	{
+		"#text": "选择终点站",
+		"@_name": "duqou_select_arrive_city"
+	},
+	{
+		"#text": "(更多请点击卡片查看)",
+		"@_name": "duqou_view_the_orgmessage"
+	},
+	{
+		"#text": "Должно быть указано числовое значение.",
+		"@_name": "duration_not_a_number"
+	},
+	{
+		"#text": "Продолжительность (%s с.)",
+		"@_name": "duration_sec"
+	},
+	{
+		"#text": "Продолжительность показа слайда",
+		"@_name": "duration_selector_title"
+	},
+	{
+		"#text": "Значение должно быть больше нуля.",
+		"@_name": "duration_zero"
+	},
+	{
+		"#text": "Изменить номер",
+		"@_name": "edit_phone_title"
+	},
+	{
+		"#text": "Изменить слайд-шоу",
+		"@_name": "edit_slideshow_activity"
+	},
+	{
+		"#text": "Максимальный размер вложения MMS - 298 Кб",
+		"@_name": "exceed_message_size_limitation"
+	},
+	{
+		"#text": "Размер вложения превышает допустимый лимит",
+		"@_name": "exceed_message_size_limitation_cmcc"
+	},
+	{
+		"#text": "Максимальный размер вложения в MMS - 300 Кб",
+		"@_name": "exceed_message_size_limitation_cu"
+	},
+	{
+		"#text": "Срок истекает: %s",
+		"@_name": "expire_on"
+	},
+	{
+		"#text": "Импорт в телефон",
+		"@_name": "export_sim_mms"
+	},
+	{
+		"#text": "Выбрать город",
+		"@_name": "extra_city_title"
+	},
+	{
+		"#text": "Не удалось изменить размер изображения.",
+		"@_name": "failed_to_resize_image"
+	},
+	{
+		"#text": "\"От \"",
+		"@_name": "favorite_common_from_prefix"
+	},
+	{
+		"#text": "\"Для \"",
+		"@_name": "favorite_common_me_send_prefix"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "favorite_page_label"
+	},
+	{
+		"#text": "Файл был удален",
+		"@_name": "file_no_exsit"
+	},
+	{
+		"#text": "Файл был удален",
+		"@_name": "file_not_exist"
+	},
+	{
+		"#text": "Невозможно загрузить сообщение Flyme. Нажмите для открытия",
+		"@_name": "flyme_disk_limit_notify_description"
+	},
+	{
+		"#text": "Недостаточно места на карте памяти",
+		"@_name": "flyme_disk_limite"
+	},
+	{
+		"#text": "Файл был удалён",
+		"@_name": "flyme_message_reDownload_msg"
+	},
+	{
+		"#text": "Загрузить снова",
+		"@_name": "flyme_message_reDownload_positive_title"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "flyme_mms_no_space_dialog_positive"
+	},
+	{
+		"#text": "Доступно: %s",
+		"@_name": "flyme_mms_no_space_msg"
+	},
+	{
+		"#text": "Недостаточно места на карте памяти",
+		"@_name": "flyme_mms_no_space_title"
+	},
+	{
+		"#text": "Веб-сообщения",
+		"@_name": "flyme_mms_send_action_title"
+	},
+	{
+		"#text": "Адресат не может получать MMS-сообщения Flyme. Удалите вложения.",
+		"@_name": "flyme_no_regist"
+	},
+	{
+		"#text": "Версия ПО получателя не поддерживает MMS-сообщения Flyme",
+		"@_name": "flyme_oldversion_mms"
+	},
+	{
+		"#text": "Переслать:",
+		"@_name": "forward_prefix"
+	},
+	{
+		"#text": "От:",
+		"@_name": "from_label"
+	},
+	{
+		"#text": "Выбранная группа переполена",
+		"@_name": "full_group"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "get_location_menu"
+	},
+	{
+		"#text": "Группа создана",
+		"@_name": "group_chat_established"
+	},
+	{
+		"#text": "вступил(а) в группу",
+		"@_name": "group_chat_join"
+	},
+	{
+		"#text": "исключен(а) из группы",
+		"@_name": "group_chat_kickout"
+	},
+	{
+		"#text": "покинул(а) группу",
+		"@_name": "group_chat_left"
+	},
+	{
+		"#text": "Управление",
+		"@_name": "group_edit"
+	},
+	{
+		"#text": "Всего: %d",
+		"@_name": "group_message_recipient_count_title"
+	},
+	{
+		"#text": "Название группы было изменено на %s",
+		"@_name": "group_name_change"
+	},
+	{
+		"#text": "Посмотреть детали",
+		"@_name": "group_recipients_detail"
+	},
+	{
+		"#text": "Не получено",
+		"@_name": "group_status_delivey_failed"
+	},
+	{
+		"#text": "Ошибка отправки",
+		"@_name": "group_status_failed"
+	},
+	{
+		"#text": "(нет)",
+		"@_name": "group_status_none"
+	},
+	{
+		"#text": "Ожидание",
+		"@_name": "group_status_pending"
+	},
+	{
+		"#text": "Доставлено",
+		"@_name": "group_status_received"
+	},
+	{
+		"#text": "Отправлено",
+		"@_name": "group_status_sended"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "group_status_sending"
+	},
+	{
+		"#text": "Отчёт об отправке",
+		"@_name": "group_title_mms_delivery_reports"
+	},
+	{
+		"#text": "Эта функция не поддерживается в режиме гостя",
+		"@_name": "guest_mode_disable_assistant"
+	},
+	{
+		"#text": "Идёт загрузка, попробуйте позже",
+		"@_name": "has_download_task_tip"
+	},
+	{
+		"#text": "Черновики",
+		"@_name": "has_draft"
+	},
+	{
+		"#text": "Добавлено в помеченное",
+		"@_name": "has_favorited"
+	},
+	{
+		"#text": "Недопустимый получатель",
+		"@_name": "has_invalid_recipient"
+	},
+	{
+		"#text": "Отмечено как прочитанное",
+		"@_name": "has_mark_read"
+	},
+	{
+		"#text": "Отмечено как непрочитанное",
+		"@_name": "has_mark_unread"
+	},
+	{
+		"#text": "Демонстрация публичного ключа RCS-сообщений",
+		"@_name": "head_name"
+	},
+	{
+		"#text": "Адрес отправителя скрыт",
+		"@_name": "hidden_sender_address"
+	},
+	{
+		"#text": "Smart SMS, более экономичный и удобный",
+		"@_name": "home_rcs_enable_notify_text"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "hybrid_cancel"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "hybrid_msg_loading"
+	},
+	{
+		"#text": "Сетевая ошибка. Нажмите для перезагрузки",
+		"@_name": "hybrid_network_error_to_refresh"
+	},
+	{
+		"#text": "Нет подключения к сети. Проверьте настройки.",
+		"@_name": "hybrid_no_network_to_setting"
+	},
+	{
+		"#text": "OK",
+		"@_name": "hybrid_ok"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "hybrid_setting_network"
+	},
+	{
+		"#text": "Я",
+		"@_name": "I"
+	},
+	{
+		"#text": "Незаконное платежное требование",
+		"@_name": "illegal_pay_request"
+	},
+	{
+		"#text": "Введите псевдоним",
+		"@_name": "input_nickname_hint"
+	},
+	{
+		"#text": "Smart SMS",
+		"@_name": "intelligent_message"
+	},
+	{
+		"#text": "Неверный адрес получателя.",
+		"@_name": "invalid_destination"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "ippush_message"
+	},
+	{
+		"#text": "Публичный сервис",
+		"@_name": "ippush_public_service"
+	},
+	{
+		"#text": "Введение в сервис",
+		"@_name": "ippush_service_introduce_title"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Вы были исключены из группы",
+		"@_name": "kicked_out_group"
+	},
+	{
+		"#text": "Кб",
+		"@_name": "kilobyte"
+	},
+	{
+		"#text": "%d Кб",
+		"@_name": "kilobyte_with_size"
+	},
+	{
+		"#text": "Трансляция сотовой сети",
+		"@_name": "lable_cell_broadcast"
+	},
+	{
+		"#text": "SMS-центр",
+		"@_name": "lable_sms_center_number"
+	},
+	{
+		"#text": "Расположение (снизу)",
+		"@_name": "layout_bottom"
+	},
+	{
+		"#text": "Макет слайд-шоу",
+		"@_name": "layout_selector_title"
+	},
+	{
+		"#text": "Расположение (сверху)",
+		"@_name": "layout_top"
+	},
+	{
+		"#text": "Вы покинули эту группу",
+		"@_name": "leave_group"
+	},
+	{
+		"#text": "Загрузка бесед",
+		"@_name": "loading_conversations"
+	},
+	{
+		"#text": "Моё местоположение",
+		"@_name": "location_current"
+	},
+	{
+		"#text": "%s км",
+		"@_name": "location_far_kilometer"
+	},
+	{
+		"#text": "%s м.",
+		"@_name": "location_far_meter"
+	},
+	{
+		"#text": "Ошибка получения скриншота карты. Попробуйте снова.",
+		"@_name": "location_getmap_timeout"
+	},
+	{
+		"#text": "Ошибка получения ссылки местоположения. Попробуйте снова.",
+		"@_name": "location_geturl_timeout"
+	},
+	{
+		"#text": "Ошибка сети",
+		"@_name": "location_net_fail"
+	},
+	{
+		"#text": "Нет информации об этом месте",
+		"@_name": "location_no_detials_msg"
+	},
+	{
+		"#text": "Местоположение не найдено",
+		"@_name": "location_search_fail"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "long_press_menu_copy"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "long_press_menu_delete"
+	},
+	{
+		"#text": "Переслать",
+		"@_name": "long_press_menu_forward"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "long_press_menu_open"
+	},
+	{
+		"#text": "Исходный текст",
+		"@_name": "long_press_menu_original"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "long_press_menu_save"
+	},
+	{
+		"#text": "Выбрать",
+		"@_name": "long_press_menu_sel"
+	},
+	{
+		"#text": "Отметить все как прочитанное",
+		"@_name": "mark_all_as_read_title"
+	},
+	{
+		"#text": "Отметить все как прочитанное",
+		"@_name": "mark_all_readed"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "mbyte"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "дн. назад",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "дн. спустя",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "%1$d дн. спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дн. назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 д. спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 д. назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Meizu Technology",
+		"@_name": "meizu_assistant_company"
+	},
+	{
+		"#text": "Группа заполнена",
+		"@_name": "member_full_group"
+	},
+	{
+		"#text": "Клавиатура",
+		"@_name": "menu_key_tip"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "menu_preferences"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "menu_search"
+	},
+	{
+		"#text": "Класс сообщений:",
+		"@_name": "message_class_label"
+	},
+	{
+		"#text": "Детали сообщения",
+		"@_name": "message_details_title"
+	},
+	{
+		"#text": "Сообщение не загружено",
+		"@_name": "message_download_failed_title"
+	},
+	{
+		"#text": "Нажмите для просмотра",
+		"@_name": "message_failed_body"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "message_favorite_label"
+	},
+	{
+		"#text": "Отмечено как избранное",
+		"@_name": "message_favorite_success"
+	},
+	{
+		"#text": "Сообщение просрочено",
+		"@_name": "message_has_expire_title"
+	},
+	{
+		"#text": "Сообщение просрочено и не может быть загружено",
+		"@_name": "message_has_expired"
+	},
+	{
+		"#text": "Оповещения",
+		"@_name": "message_notice_label"
+	},
+	{
+		"#text": "Оповещения: %s",
+		"@_name": "message_notice_labell_has_unread"
+	},
+	{
+		"#text": "Личные",
+		"@_name": "message_person_label"
+	},
+	{
+		"#text": "Личные: %s",
+		"@_name": "message_person_label_has_unread"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "message_popup_veri_close"
+	},
+	{
+		"#text": "Контакты компании",
+		"@_name": "message_recipient_directory_title"
+	},
+	{
+		"#text": "Поиск контактов компании",
+		"@_name": "message_recipient_global_search"
+	},
+	{
+		"#text": "Поиск контактов компании",
+		"@_name": "message_recipient_global_searching"
+	},
+	{
+		"#text": "Черновик сообщения сохранён",
+		"@_name": "message_saved_as_draft"
+	},
+	{
+		"#text": "Сообщения не отправлены",
+		"@_name": "message_send_failed_title"
+	},
+	{
+		"#text": "Размер",
+		"@_name": "message_size_label"
+	},
+	{
+		"#text": "Сообщение слишком большое, чтобы прикрепить видео",
+		"@_name": "message_too_big_for_video"
+	},
+	{
+		"#text": "Тип:",
+		"@_name": "message_type_label"
+	},
+	{
+		"#text": "Удалить из избранного",
+		"@_name": "message_unfavorite_label"
+	},
+	{
+		"#text": "Удалить из избранного",
+		"@_name": "message_unfavoriting_label"
+	},
+	{
+		"#text": "Я",
+		"@_name": "messagelist_sender_self"
+	},
+	{
+		"#text": "Выбрать изображение",
+		"@_name": "mms_add_attachment_title_for_picture"
+	},
+	{
+		"#text": "описание",
+		"@_name": "mms_add_description"
+	},
+	{
+		"#text": "Невозможно добавить в MMS",
+		"@_name": "mms_added_failed"
+	},
+	{
+		"#text": "Веб-MMS: 1 аудио",
+		"@_name": "mms_audio_subject_view"
+	},
+	{
+		"#text": "Веб-MMS: 1 файл",
+		"@_name": "mms_file_subject_view"
+	},
+	{
+		"#text": "MMS: Уведомление Flyme",
+		"@_name": "mms_flyme_noti_subject_view"
+	},
+	{
+		"#text": "MMS: %s",
+		"@_name": "mms_has_subject_view"
+	},
+	{
+		"#text": "Веб-MMS: 1 изображение",
+		"@_name": "mms_image_subject_view"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mms_loading"
+	},
+	{
+		"#text": "Веб-MMS: 1 местоположение",
+		"@_name": "mms_location_subject_view"
+	},
+	{
+		"#text": "MMS: 1 вложение",
+		"@_name": "mms_no_subject_view"
+	},
+	{
+		"#text": "Получение MMS",
+		"@_name": "mms_noti_rectrive_statu_msg"
+	},
+	{
+		"#text": "MMS: 1 уведомление",
+		"@_name": "mms_noti_subject_view"
+	},
+	{
+		"#text": "(MMS-уведомление)",
+		"@_name": "mms_notifi_subject"
+	},
+	{
+		"#text": "MMS:",
+		"@_name": "MMS_numbers"
+	},
+	{
+		"#text": "%02d:%02d",
+		"@_name": "mms_slide_show_duration",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "mms_slideshow_view_title"
+	},
+	{
+		"#text": "MMS: голосовое сообщение",
+		"@_name": "mms_talk_noti_subject_view"
+	},
+	{
+		"#text": "; общий размер:",
+		"@_name": "Mms_total_size"
+	},
+	{
+		"#text": "Веб-MMS: 1 визитка",
+		"@_name": "mms_vcard_subject_view"
+	},
+	{
+		"#text": "Веб-MMS: 1 видео",
+		"@_name": "mms_video_subject_view"
+	},
+	{
+		"#text": "В %s",
+		"@_name": "mms_x_year"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Переместить вниз",
+		"@_name": "move_down"
+	},
+	{
+		"#text": "Переместить вверх",
+		"@_name": "move_up"
+	},
+	{
+		"#text": "Данные vCard",
+		"@_name": "msg_body_sms_vcard"
+	},
+	{
+		"#text": "Информация о контакте пуста",
+		"@_name": "msg_empty_contact"
+	},
+	{
+		"#text": "Детали >",
+		"@_name": "msg_item_text_more_mult_mms"
+	},
+	{
+		"#text": "Детали >",
+		"@_name": "msg_item_text_more_single_mms"
+	},
+	{
+		"#text": "Загрузка данных",
+		"@_name": "msg_loading"
+	},
+	{
+		"#text": "Мульти-выбор",
+		"@_name": "multi_choice"
+	},
+	{
+		"#text": "Выбрать сообщение",
+		"@_name": "multi_tittle_select_message"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "multimedia_message"
+	},
+	{
+		"#text": "MMS-уведомление",
+		"@_name": "multimedia_notification"
+	},
+	{
+		"#text": "Поддержка нескольких форматов",
+		"@_name": "multiple_formats"
+	},
+	{
+		"#text": "добавить получателя",
+		"@_name": "mw_recipient_add_recipient"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "mw_recipient_addrecipient_easymode"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mw_recipient_edit_imeActionLabel"
+	},
+	{
+		"#text": "Поиск глобальных контактов",
+		"@_name": "mw_recipient_global_search"
+	},
+	{
+		"#text": "Поиск глобальных контактов",
+		"@_name": "mw_recipient_global_searching"
+	},
+	{
+		"#text": "Получатель:",
+		"@_name": "mw_recipient_hint_str"
+	},
+	{
+		"#text": "Ещё %d",
+		"@_name": "mw_recipient_others_displayname"
+	},
+	{
+		"#text": "Поиск контактов Weibo",
+		"@_name": "mw_recipient_sns_search"
+	},
+	{
+		"#text": "Поиск контактов Weibo…",
+		"@_name": "mw_recipient_sns_searching"
+	},
+	{
+		"#text": "Обновить контакты Weibo",
+		"@_name": "mw_recipient_sns_update"
+	},
+	{
+		"#text": "Обновление контактов Weibo…",
+		"@_name": "mw_recipient_sns_updating"
+	},
+	{
+		"#text": "Получатель",
+		"@_name": "mw_recipient_title"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "mw_recipient_title_email"
+	},
+	{
+		"#text": "Сообщение",
+		"@_name": "mw_recipient_title_message"
+	},
+	{
+		"#text": "Получатели: %d",
+		"@_name": "mw_recipient_total_str"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Снять",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Больше не спрашивать",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "Приложение «%1$s» запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "Приложение «%1$s» требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" требуются разрешения\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые подключения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "\"Вам необходимо: 1) сделать копию своей базы MMS во внутреннюю память, и 2) отправить её по электронной почте. Не забудьте удалить копию как можно скорее, скопировав её с устройства или получив электронное письмо.\n\nПодождите одну минуту после нажатия кнопки Старт.\"",
+		"@_name": "mzc_debug_dump_database_message"
+	},
+	{
+		"#text": "Удалить сейчас",
+		"@_name": "mzc_debug_dump_delete_button"
+	},
+	{
+		"#text": "Прилагается моя база MMS. Будьте осторожны при обращении с ней!",
+		"@_name": "mzc_debug_dump_email_body"
+	},
+	{
+		"#text": "Выберите программу для отправки файла",
+		"@_name": "mzc_debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "Добавлена ​​база MMS",
+		"@_name": "mzc_debug_dump_email_subject"
+	},
+	{
+		"#text": "Старт",
+		"@_name": "mzc_debug_dump_start_button"
+	},
+	{
+		"#text": "Скопировать базу MMS",
+		"@_name": "mzc_debug_dump_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Загрузить",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s V%s загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Размер: %s",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Установлена актуальная версия",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить и обновить",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до актуальной версии (%s)",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "В сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s V%s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Обновление «%s» V%s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Network error, tap to reload",
+		"@_name": "network_error_to_refresh"
+	},
+	{
+		"#text": "Веб-сообщения",
+		"@_name": "network_message"
+	},
+	{
+		"#text": "Network Request Error",
+		"@_name": "networkRequestError"
+	},
+	{
+		"#text": "стал лидером группы",
+		"@_name": "new_group_manager"
+	},
+	{
+		"#text": "Новое сообщение",
+		"@_name": "new_message"
+	},
+	{
+		"#text": "Новых сообщений: %d",
+		"@_name": "new_message_notification_tip"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "nickname_dialog_confirm"
+	},
+	{
+		"#text": "При редактировании группового сообщения для получателей генерируются псевдонимы, которые затем добавляются к сообщению.",
+		"@_name": "nickname_dialog_content"
+	},
+	{
+		"#text": "Представление",
+		"@_name": "nickname_dialog_title"
+	},
+	{
+		"#text": "Например, для отправки сообщения Ивану и Марии:",
+		"@_name": "nickname_function_dialog_example"
+	},
+	{
+		"#text": "!",
+		"@_name": "nickname_function_dialog_example_content_end"
+	},
+	{
+		"#text": "С Новым годом",
+		"@_name": "nickname_function_dialog_example_content_start"
+	},
+	{
+		"#text": "Сообщения, которые получат Иван и Мария, будут такими:",
+		"@_name": "nickname_function_dialog_example_send_out"
+	},
+	{
+		"#text": "C Новым годом, Иван!",
+		"@_name": "nickname_function_dialog_example_send_out_content1"
+	},
+	{
+		"#text": "C Новым годом, Мария!",
+		"@_name": "nickname_function_dialog_example_send_out_content2"
+	},
+	{
+		"#text": "Контакт",
+		"@_name": "nickname_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "no"
+	},
+	{
+		"#text": "APN на устройстве не найден.",
+		"@_name": "no_apn"
+	},
+	{
+		"#text": "Без оплаты",
+		"@_name": "no_charge_description"
+	},
+	{
+		"#text": "Пока ничего нет",
+		"@_name": "no_conversations"
+	},
+	{
+		"#text": "Недоступно в текущем режиме",
+		"@_name": "no_exec_app_to_select"
+	},
+	{
+		"#text": "Нет сообщений",
+		"@_name": "no_favorite_message"
+	},
+	{
+		"#text": "Нет подключения к сети. Пожалуйста, проверьте настройки.",
+		"@_name": "no_network_to_setting"
+	},
+	{
+		"#text": "Нет результатов",
+		"@_name": "no_search_results"
+	},
+	{
+		"#text": "Нет SIM-карты",
+		"@_name": "no_sim"
+	},
+	{
+		"#text": "Нет UIM-карты",
+		"@_name": "no_sim_cdma"
+	},
+	{
+		"#text": "Лёгкое использование",
+		"@_name": "no_use_threshold"
+	},
+	{
+		"#text": "Местоположение не выбрано",
+		"@_name": "not_choose_location"
+	},
+	{
+		"#text": "Встроенное приложение Сообщения не имеет права отправлять или удалять сообщения",
+		"@_name": "not_default_message_app_dialog_message"
+	},
+	{
+		"#text": "Встроенное приложение не является приложением по умолчанию",
+		"@_name": "not_default_message_app_dialog_title"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "notification_download_failed"
+	},
+	{
+		"#text": "Не удалось отправить сообщения: %s",
+		"@_name": "notification_failed_multiple"
+	},
+	{
+		"#text": "Сообщения не отправлены",
+		"@_name": "notification_failed_multiple_title"
+	},
+	{
+		"#text": "Получено сообщений: %s",
+		"@_name": "notify_hide_content_msg_unique"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Откройте клавиатуру, чтобы ввести сообщение",
+		"@_name": "open_keyboard_to_compose_message"
+	},
+	{
+		"#text": "Payment service authorization",
+		"@_name": "open_pay_auto_pay_permission_title"
+	},
+	{
+		"#text": "Illegal request, order incomplete",
+		"@_name": "orderInfoIncomplete"
+	},
+	{
+		"#text": "The system is busy, please try again later",
+		"@_name": "pay_base_channel_access_server_error"
+	},
+	{
+		"#text": "Payment failed",
+		"@_name": "pay_base_channel_pay_fail"
+	},
+	{
+		"#text": "Payment made successfully",
+		"@_name": "pay_base_channel_pay_success"
+	},
+	{
+		"#text": "Payment failed, unknown exception",
+		"@_name": "pay_base_channel_pay_unknown_error"
+	},
+	{
+		"#text": "Payment failed",
+		"@_name": "pay_fail"
+	},
+	{
+		"#text": "Payment made successfully",
+		"@_name": "pay_success"
+	},
+	{
+		"#text": "Payment failed, unknown exception",
+		"@_name": "pay_unknown_error"
+	},
+	{
+		"#text": "Приложению «Сообщения» требуется доступ к сети для отправки и получения веб-сообщений и фильтрации спама.",
+		"@_name": "permission_dialog_message"
+	},
+	{
+		"#text": "Установленное время не может быть раньше текущего",
+		"@_name": "pick_timer_warning"
+	},
+	{
+		"#text": "Добавить получателя",
+		"@_name": "please_add_recipient"
+	},
+	{
+		"#text": "Сообщения и звонки из чёрного списка будут блокироваться",
+		"@_name": "pref_key_block_number_list_summary"
+	},
+	{
+		"#text": "Чёрный список",
+		"@_name": "pref_key_block_number_list_title"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "pref_more_title"
+	},
+	{
+		"#text": "После прочтения каждого нового сообщения, если отправитель разрешил получение отчёта о доставке",
+		"@_name": "pref_summary_allow_return_mms_read_reports"
+	},
+	{
+		"#text": "Системное приложение",
+		"@_name": "pref_summary_default_message_is_system_own"
+	},
+	{
+		"#text": "Изменить сообщения для быстрого ответа",
+		"@_name": "pref_summary_edit_quick_reply"
+	},
+	{
+		"#text": "Автоматически загружать MMS-сообщения",
+		"@_name": "pref_summary_mms_auto_retrieval"
+	},
+	{
+		"#text": "Запрашивать отчёт о прочтении для всех отправляемых сообщений",
+		"@_name": "pref_summary_mms_read_reports"
+	},
+	{
+		"#text": "SMS-приложение по умолчанию",
+		"@_name": "pref_title_default_message_app"
+	},
+	{
+		"#text": "Хранилище сообщений",
+		"@_name": "pref_title_key_message_capacity"
+	},
+	{
+		"#text": "Анти-спам",
+		"@_name": "pref_title_manage_messages_spam"
+	},
+	{
+		"#text": "Сообщения на SIM-карте (%s)",
+		"@_name": "pref_title_manage_multi_sim_messages"
+	},
+	{
+		"#text": "Управление сообщениями на карте (%s)",
+		"@_name": "pref_title_manage_multi_sim_messages_cdma"
+	},
+	{
+		"#text": "Сообщения SIM-карт",
+		"@_name": "pref_title_manage_sim_messages"
+	},
+	{
+		"#text": "Управление сообщениями SIM",
+		"@_name": "pref_title_manage_sim_messages_cdma"
+	},
+	{
+		"#text": "Разрешить читать отчёт о доставке MMS",
+		"@_name": "pref_title_mms_allow_return_read_reports"
+	},
+	{
+		"#text": "Автозагрузка MMS",
+		"@_name": "pref_title_mms_auto_retrieval"
+	},
+	{
+		"#text": "Отчёты о прочтении MMS",
+		"@_name": "pref_title_mms_read_reports"
+	},
+	{
+		"#text": "Автозагрузка MMS в роуминге",
+		"@_name": "pref_title_mms_retrieval_during_roaming"
+	},
+	{
+		"#text": "Текст сообщений в уведомлениях",
+		"@_name": "pref_title_notification_enabled"
+	},
+	{
+		"#text": "Отчёты о доставке",
+		"@_name": "pref_title_sms_delivery_reports"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "preferences_title"
+	},
+	{
+		"#text": "Добавление получателей",
+		"@_name": "prepare_add_recipient"
+	},
+	{
+		"#text": "Подготовка данных к отправке",
+		"@_name": "prepare_mms_pdu_data"
+	},
+	{
+		"#text": "Предпросмотр",
+		"@_name": "preview"
+	},
+	{
+		"#text": "Предпросмотр",
+		"@_name": "preview_slideshow"
+	},
+	{
+		"#text": "Высокий",
+		"@_name": "priority_high"
+	},
+	{
+		"#text": "Приоритет:",
+		"@_name": "priority_label"
+	},
+	{
+		"#text": "Низкий",
+		"@_name": "priority_low"
+	},
+	{
+		"#text": "Нормальный",
+		"@_name": "priority_normal"
+	},
+	{
+		"#text": "Импортирование",
+		"@_name": "progress_copy_title"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "progress_del_title"
+	},
+	{
+		"#text": "Отпустите для обновления",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Последнее обновление",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "м. назад",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "с. назад",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "Потянуть вниз для отметки прочитанным",
+		"@_name": "pull_to_mark_read"
+	},
+	{
+		"#text": "Потянуть вниз для отметки непрочитанным",
+		"@_name": "pull_to_mark_unread"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "quick_reply"
+	},
+	{
+		"#text": "Быстрые ответы",
+		"@_name": "quick_reply_menu"
+	},
+	{
+		"#text": "Сохранить изменения?",
+		"@_name": "quick_reply_save_alert"
+	},
+	{
+		"#text": "Подтвердить",
+		"@_name": "rate_limit_surpassed"
+	},
+	{
+		"#text": "[Аудио]",
+		"@_name": "rcs_audio_subject_view"
+	},
+	{
+		"#text": "Бесплатно, если другой стороной является абонент China Mobile",
+		"@_name": "rcs_banner_text_01"
+	},
+	{
+		"#text": "Поддерживаются голосовой чат и мультимедийные сообщения, такие как изображения и видео",
+		"@_name": "rcs_banner_text_02"
+	},
+	{
+		"#text": "Дизайн информационной визуальной карты для повышения эффективности чтения",
+		"@_name": "rcs_banner_text_03"
+	},
+	{
+		"#text": "取消",
+		"@_name": "rcs_common_cancel"
+	},
+	{
+		"#text": "确认",
+		"@_name": "rcs_common_confirm"
+	},
+	{
+		"#text": "数据获取失败",
+		"@_name": "rcs_common_get_data_failed"
+	},
+	{
+		"#text": "参数无效",
+		"@_name": "rcs_common_invalid_params"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "rcs_common_loading"
+	},
+	{
+		"#text": "网络不可用，请检查网络设置",
+		"@_name": "rcs_common_network_disabled"
+	},
+	{
+		"#text": "是否举报该条消息内容？",
+		"@_name": "rcs_complaint_content"
+	},
+	{
+		"#text": "举报失败",
+		"@_name": "rcs_complaint_fail"
+	},
+	{
+		"#text": "不再接收该企业此类消息",
+		"@_name": "rcs_complaint_is_shielding"
+	},
+	{
+		"#text": "仅限中国移动号码可提交举报",
+		"@_name": "rcs_complaint_only_cmcc"
+	},
+	{
+		"#text": "举报",
+		"@_name": "rcs_complaint_title"
+	},
+	{
+		"#text": "[файл]",
+		"@_name": "rcs_file_subject_view"
+	},
+	{
+		"#text": "Отправка и получение SMS бесплатно. Хотите узнать больше?",
+		"@_name": "rcs_guide_notification"
+	},
+	{
+		"#text": "[изображение]",
+		"@_name": "rcs_image_subject_view"
+	},
+	{
+		"#text": "Meizu Smart SMS - это услуга, предоставляемая платформой конвергентной связи China Mobile. Для полноценной работы платформа (и служба Fetion) будет открыта бесплатно. Для дополнительной информации посетите http://feixin.10086.cn/native",
+		"@_name": "rcs_introduce"
+	},
+	{
+		"#text": "[местонахождение]",
+		"@_name": "rcs_location_subject_view"
+	},
+	{
+		"#text": "RCS-сообщения откл.",
+		"@_name": "rcs_message_off"
+	},
+	{
+		"#text": "RCS-сообщения вкл.",
+		"@_name": "rcs_message_on"
+	},
+	{
+		"#text": "RCS-сообщения",
+		"@_name": "rcs_message_use"
+	},
+	{
+		"#text": "Ключ RCS-сообщений",
+		"@_name": "rcs_message_use_key"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "rcs_msg_state_closed"
+	},
+	{
+		"#text": "Открыто",
+		"@_name": "rcs_msg_state_opened"
+	},
+	{
+		"#text": "Если оператор мобильной связи получателя - China Mobile, SMS будет отправляться через сеть и бесплатно",
+		"@_name": "rcs_no_charge_description"
+	},
+	{
+		"#text": "Нужен только номер телефона получателя. Нет установки приложения или добавления друзей",
+		"@_name": "rcs_no_use_threshold"
+	},
+	{
+		"#text": "Smart SMS включено",
+		"@_name": "rcs_open_toasttext"
+	},
+	{
+		"#text": "Умные сообщения",
+		"@_name": "rcs_public_message"
+	},
+	{
+		"#text": "[Красный конверт]",
+		"@_name": "rcs_red_packet_text"
+	},
+	{
+		"#text": "流量红包",
+		"@_name": "rcs_redpacket_detail_title"
+	},
+	{
+		"#text": "此红包仅限中国移动号码领取",
+		"@_name": "rcs_redpacket_only_cmcc"
+	},
+	{
+		"#text": "红包已失效",
+		"@_name": "rcs_redpacket_status_invalid"
+	},
+	{
+		"#text": "手机号非法不支持领取",
+		"@_name": "rcs_redpacket_status_phone_illegal"
+	},
+	{
+		"#text": "领取红包",
+		"@_name": "rcs_redpacket_status_text"
+	},
+	{
+		"#text": "红包已领取",
+		"@_name": "rcs_redpacket_status_used"
+	},
+	{
+		"#text": "Настройки RCS",
+		"@_name": "rcs_setting"
+	},
+	{
+		"#text": "取消",
+		"@_name": "rcs_share_cancel"
+	},
+	{
+		"#text": "来自信析宝RCS的分享",
+		"@_name": "rcs_share_default_description"
+	},
+	{
+		"#text": "QQ好友",
+		"@_name": "rcs_share_platform_qq"
+	},
+	{
+		"#text": "QQ空间",
+		"@_name": "rcs_share_platform_qzone"
+	},
+	{
+		"#text": "微博",
+		"@_name": "rcs_share_platform_sina"
+	},
+	{
+		"#text": "微信好友",
+		"@_name": "rcs_share_platform_wechat"
+	},
+	{
+		"#text": "朋友圈",
+		"@_name": "rcs_share_platform_wechat_moment"
+	},
+	{
+		"#text": "分享到",
+		"@_name": "rcs_share_to"
+	},
+	{
+		"#text": "SMS, изображения, аудио, видео, данные местоположения и карточки vCard поддерживаются для отправки",
+		"@_name": "rcs_support_multiple_formats"
+	},
+	{
+		"#text": "Отправка и получение SMS через Wi-Fi и сотовую сеть",
+		"@_name": "rcs_switch_description"
+	},
+	{
+		"#text": "Поддерживаются только карты China Mobile",
+		"@_name": "rcs_switch_dialog_message"
+	},
+	{
+		"#text": "Конвертация SMS",
+		"@_name": "rcs_translate_sms"
+	},
+	{
+		"#text": "Ключ конвертации SMS",
+		"@_name": "rcs_translate_sms_key"
+	},
+	{
+		"#text": "При ошибке отправки сообщения размером менее 900 Б, выполните конвертацию.",
+		"@_name": "rcs_translate_sms_summary"
+	},
+	{
+		"#text": "[имя карты]",
+		"@_name": "rcs_vcard_subject_view"
+	},
+	{
+		"#text": "播放",
+		"@_name": "rcs_video_continue_play"
+	},
+	{
+		"#text": "00:00",
+		"@_name": "rcs_video_default_time"
+	},
+	{
+		"#text": "视频出错了! 点击重播",
+		"@_name": "rcs_video_error"
+	},
+	{
+		"#text": "了解更多",
+		"@_name": "rcs_video_know_more"
+	},
+	{
+		"#text": "播放将消耗",
+		"@_name": "rcs_video_mobile_network_tip_prefix"
+	},
+	{
+		"#text": "MB流量",
+		"@_name": "rcs_video_mobile_network_tip_suffix"
+	},
+	{
+		"#text": "网络已恢复，重新连接中",
+		"@_name": "rcs_video_network_reconnected"
+	},
+	{
+		"#text": "播放",
+		"@_name": "rcs_video_play"
+	},
+	{
+		"#text": "返回",
+		"@_name": "rcs_video_return"
+	},
+	{
+		"#text": "[видео]",
+		"@_name": "rcs_video_subject_view"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "rcs_web_abouts"
+	},
+	{
+		"#text": "取消",
+		"@_name": "rcs_web_download_no"
+	},
+	{
+		"#text": "下载",
+		"@_name": "rcs_web_download_yes"
+	},
+	{
+		"#text": "当前网络为非Wi-Fi环境，是否继续使用手机流量下载",
+		"@_name": "rcs_web_mobile_network_download_message"
+	},
+	{
+		"#text": "流量提醒",
+		"@_name": "rcs_web_mobile_network_tip"
+	},
+	{
+		"#text": "网络失效了，打开网络看看",
+		"@_name": "rcs_web_network_fail"
+	},
+	{
+		"#text": "网络设置",
+		"@_name": "rcs_web_network_setting"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "rcs_web_share"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "read_report_dialog_cancel"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "read_report_dialog_send"
+	},
+	{
+		"#text": "Отправить отчёт о прочтении?",
+		"@_name": "read_report_dialog_title"
+	},
+	{
+		"#text": "%s прочитано",
+		"@_name": "read_report_toast_body"
+	},
+	{
+		"#text": "%s не прочитано",
+		"@_name": "read_report_toast_body_fail"
+	},
+	{
+		"#text": "Получено:",
+		"@_name": "received_label"
+	},
+	{
+		"#text": "Время записи:",
+		"@_name": "recoder_time"
+	},
+	{
+		"#text": "Время записи слишком короткое",
+		"@_name": "recoder_time_limit_short"
+	},
+	{
+		"#text": "Ошибка записи",
+		"@_name": "record_failed"
+	},
+	{
+		"#text": "Эта функция не поддерживается телефоном.",
+		"@_name": "remote_not_exist"
+	},
+	{
+		"#text": "Удалить музыку",
+		"@_name": "remove_music"
+	},
+	{
+		"#text": "Удалить изображение",
+		"@_name": "remove_picture"
+	},
+	{
+		"#text": "Удалить слайд",
+		"@_name": "remove_slide"
+	},
+	{
+		"#text": "Удалить текст",
+		"@_name": "remove_text"
+	},
+	{
+		"#text": "Удалить видео",
+		"@_name": "remove_video"
+	},
+	{
+		"#text": "Заменить изображение",
+		"@_name": "replace_image"
+	},
+	{
+		"#text": "Ответное сообщение",
+		"@_name": "reply_activity"
+	},
+	{
+		"#text": "Псевдоним",
+		"@_name": "represent_content"
+	},
+	{
+		"#text": "Request too fast",
+		"@_name": "request_too_fast"
+	},
+	{
+		"#text": "Отправить снова",
+		"@_name": "resend_btn"
+	},
+	{
+		"#text": "Отправить снова?",
+		"@_name": "resend_title"
+	},
+	{
+		"#text": "Изображение слишком велико для отправки даже после изменения размера",
+		"@_name": "resize_image_error_information"
+	},
+	{
+		"#text": "Восстановить",
+		"@_name": "restore_nickname_title"
+	},
+	{
+		"#text": "Сохранить в",
+		"@_name": "save"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "save_btn"
+	},
+	{
+		"#text": "Сохранено:",
+		"@_name": "saved_label"
+	},
+	{
+		"#text": "Сохранение",
+		"@_name": "saving"
+	},
+	{
+		"#text": "Вложение не существует",
+		"@_name": "sd_file_not_exist"
+	},
+	{
+		"#text": "Карта памяти не готова",
+		"@_name": "sd_mount_err"
+	},
+	{
+		"#text": "Отправляемое вложение было записано на карту памяти, которая сейчас отключена. Подключите карту памяти для отправки вложения.",
+		"@_name": "sd_removed_message"
+	},
+	{
+		"#text": "Сообщения",
+		"@_name": "search"
+	},
+	{
+		"#text": "Поиск сообщений",
+		"@_name": "search_hint"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Поиск SMS",
+		"@_name": "search_tint"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "searching"
+	},
+	{
+		"#text": "с.",
+		"@_name": "secs"
+	},
+	{
+		"#text": "Ещё %s сообщен., открыть",
+		"@_name": "see_all_group_message_title"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "see_in_filemanager_title"
+	},
+	{
+		"#text": "Текст внизу",
+		"@_name": "select_bottom_text"
+	},
+	{
+		"#text": "Совпадение",
+		"@_name": "select_conversation_matching"
+	},
+	{
+		"#text": "Получатель",
+		"@_name": "select_recipt_contact_act_title"
+	},
+	{
+		"#text": "Текст вверху",
+		"@_name": "select_top_text"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "send"
+	},
+	{
+		"#text": "Отправить сообщение",
+		"@_name": "send_btn"
+	},
+	{
+		"#text": "Тип передачи",
+		"@_name": "send_type_choose"
+	},
+	{
+		"#text": "Выбрать тип отправки",
+		"@_name": "send_type_choose_title"
+	},
+	{
+		"#text": "Отправка отключена",
+		"@_name": "sending_disabled_not_default_app"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "sending_message"
+	},
+	{
+		"#text": "Отправлено:",
+		"@_name": "sent_label"
+	},
+	{
+		"#text": "Ошибка сервера",
+		"@_name": "server_error"
+	},
+	{
+		"#text": "Закрепить",
+		"@_name": "service__num_tips_top"
+	},
+	{
+		"#text": "Популярное",
+		"@_name": "service_comment_tips_top"
+	},
+	{
+		"#text": "Сообщение просрочено или недоступно",
+		"@_name": "service_message_not_found"
+	},
+	{
+		"#text": "Услуга не активирована в сети",
+		"@_name": "service_not_activated"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "service_num_more"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "service_num_seach"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "service_num_setting_delete"
+	},
+	{
+		"#text": "Сервисы",
+		"@_name": "service_num_title_name"
+	},
+	{
+		"#text": "Открепить",
+		"@_name": "service_setting_cancel_top"
+	},
+	{
+		"#text": "Закрепить",
+		"@_name": "service_setting_top"
+	},
+	{
+		"#text": "Недавно использованные услуги",
+		"@_name": "servicefunction_least_recently_used"
+	},
+	{
+		"#text": "Здесь показаны услуги, используемые в информации",
+		"@_name": "servicefunction_not_exist_description"
+	},
+	{
+		"#text": "Приложение",
+		"@_name": "servicefunction_type_app"
+	},
+	{
+		"#text": "Быстрое обслуживание",
+		"@_name": "servicefunction_type_h5"
+	},
+	{
+		"#text": "Быстрое приложение",
+		"@_name": "servicefunction_type_qapp"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "set"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "setting_network"
+	},
+	{
+		"#text": "SIM 1",
+		"@_name": "sim1"
+	},
+	{
+		"#text": "SIM 2",
+		"@_name": "sim2"
+	},
+	{
+		"#text": "откл.",
+		"@_name": "sim_close"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "sim_delete"
+	},
+	{
+		"#text": "На SIM-карте нет сообщений",
+		"@_name": "sim_empty"
+	},
+	{
+		"#text": "Удалите сообщения, чтобы освободить место.",
+		"@_name": "sim_full_body"
+	},
+	{
+		"#text": "SIM-карта заполнена",
+		"@_name": "sim_full_title"
+	},
+	{
+		"#text": "вкл.",
+		"@_name": "sim_open"
+	},
+	{
+		"#text": "SIM 1 %s | SIM 2 %s",
+		"@_name": "sim_status",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Обычное сообщение",
+		"@_name": "sim_type_normal"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "size_unit"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "skip_introduce"
+	},
+	{
+		"#text": "Невозможно добавить объект %1$s к сообщению",
+		"@_name": "slide_failed_to_add_media"
+	},
+	{
+		"#text": "Слайд %s",
+		"@_name": "slide_number"
+	},
+	{
+		"#text": "%1$s из %2$s",
+		"@_name": "slide_show_part"
+	},
+	{
+		"#text": "Слайд-шоу",
+		"@_name": "slideshow_activity"
+	},
+	{
+		"#text": "Настройки слайд-шоу",
+		"@_name": "slideshow_options"
+	},
+	{
+		"#text": "Недостаточно места для получения SMS-сообщений. Освободите память",
+		"@_name": "sms_full_body"
+	},
+	{
+		"#text": "Память для текстовых сообщений переполнена.",
+		"@_name": "sms_full_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "sms_mms_failed_cancel_title"
+	},
+	{
+		"#text": "Получатели: %1$s",
+		"@_name": "sms_mms_failed_message_multi"
+	},
+	{
+		"#text": "Отправить снова",
+		"@_name": "sms_mms_failed_redeliver_title"
+	},
+	{
+		"#text": ", SMS:",
+		"@_name": "SMS_numbers"
+	},
+	{
+		"#text": "Пожалуйста, введите код безопасности",
+		"@_name": "sso_string_input_seccode_title"
+	},
+	{
+		"#text": "Пожалуйста, проверьте подключение к сети",
+		"@_name": "sso_string_net_system_exception"
+	},
+	{
+		"#text": "Слишком частые запросы. Пожалуйста, попробуйте позже",
+		"@_name": "sso_string_operator_limited"
+	},
+	{
+		"#text": "Ошибка кода безопасности",
+		"@_name": "sso_string_seccode_error"
+	},
+	{
+		"#text": "Забыли пароль?",
+		"@_name": "sso_string_seccode_manager_forget_pwd"
+	},
+	{
+		"#text": "Логин:",
+		"@_name": "sso_string_seccode_manager_login_username"
+	},
+	{
+		"#text": "Включите вторичную двухфакторную аутентификацию для повышения безопасности данных",
+		"@_name": "sso_string_seccode_manager_tips"
+	},
+	{
+		"#text": "Код установлен",
+		"@_name": "sso_string_seccode_set_success"
+	},
+	{
+		"#text": "OK",
+		"@_name": "sso_string_seccode_success_confirm"
+	},
+	{
+		"#text": "Проверка завершена",
+		"@_name": "sso_string_seccode_valify_success"
+	},
+	{
+		"#text": "Сетевая ошибка. Попробуйте позже",
+		"@_name": "sso_string_service_exception_retry"
+	},
+	{
+		"#text": "Установите код безопасности",
+		"@_name": "sso_string_set_seccode_title"
+	},
+	{
+		"#text": "Нажмите для загрузки",
+		"@_name": "start_download_title"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "(нет)",
+		"@_name": "status_none"
+	},
+	{
+		"#text": "Прочитано",
+		"@_name": "status_read"
+	},
+	{
+		"#text": "Отклонено",
+		"@_name": "status_rejected"
+	},
+	{
+		"#text": "Непрочитанное",
+		"@_name": "status_unread"
+	},
+	{
+		"#text": "Ограничить число сообщений, сохраняемых в беседе?",
+		"@_name": "storage_limits_message"
+	},
+	{
+		"#text": "Установить лимит",
+		"@_name": "storage_limits_setting"
+	},
+	{
+		"#text": "Нет ограничений",
+		"@_name": "storage_limits_setting_dismiss"
+	},
+	{
+		"#text": "Вы не будете получать новые SMS/MMS",
+		"@_name": "storage_warning_content"
+	},
+	{
+		"#text": "Память телефона заполнена",
+		"@_name": "storage_warning_title"
+	},
+	{
+		"#text": "Тема",
+		"@_name": "subject_hint"
+	},
+	{
+		"#text": "Тема:",
+		"@_name": "subject_label"
+	},
+	{
+		"#text": "Достигнут предел количества символов",
+		"@_name": "subject_reach_input_limit_cmcc"
+	},
+	{
+		"#text": "Детали %1$s",
+		"@_name": "talk_avatar_detail"
+	},
+	{
+		"#text": "MMS: 1 аудио",
+		"@_name": "talk_subject"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "text_message"
+	},
+	{
+		"#text": "d MMM",
+		"@_name": "timer_date_formater_format"
+	},
+	{
+		"#text": "dd.MM.yyyy HH:mm",
+		"@_name": "timer_date_formatter"
+	},
+	{
+		"#text": "dd.MM.yyyy hh:mm a",
+		"@_name": "timer_date_formatter_12"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "timer_date_time_hour"
+	},
+	{
+		"#text": "м.",
+		"@_name": "timer_date_time_min"
+	},
+	{
+		"#text": "Будет отправлено %1$s",
+		"@_name": "timer_string_formatter"
+	},
+	{
+		"#text": "Источник: Baidu Map",
+		"@_name": "tip_data_source"
+	},
+	{
+		"#text": "Нажмите, чтобы загрузить больше данных",
+		"@_name": "tip_load_more"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "tip_loading"
+	},
+	{
+		"#text": "Бесплатные SMS (только для пользователей China Mobile)",
+		"@_name": "tip_overflow_text"
+	},
+	{
+		"#text": "Предоставлено: Mi Jiaxin Jiebao",
+		"@_name": "tip_services_provide"
+	},
+	{
+		"#text": "Пополнить",
+		"@_name": "title_buy_data"
+	},
+	{
+		"#text": "Входящие",
+		"@_name": "title_buy_tel"
+	},
+	{
+		"#text": "Получатель",
+		"@_name": "title_coversation_contact_multi"
+	},
+	{
+		"#text": "Сведения о контакте",
+		"@_name": "title_coversation_contact_single"
+	},
+	{
+		"#text": "魅友卡",
+		"@_name": "title_mz_card"
+	},
+	{
+		"#text": "Пополнить",
+		"@_name": "title_phone_recharge"
+	},
+	{
+		"#text": "Получатель:",
+		"@_name": "to_address_label"
+	},
+	{
+		"#text": "Отправка сообщений недоступна",
+		"@_name": "toast_cannot_send_message"
+	},
+	{
+		"#text": "Указано слишком много получателей (%1$s). Разрешено не более %2$s .",
+		"@_name": "too_many_recipients"
+	},
+	{
+		"#text": "Закреплено",
+		"@_name": "top"
+	},
+	{
+		"#text": "Закрепить сверху",
+		"@_name": "top_group_thread_title"
+	},
+	{
+		"#text": "Нажмите для просмотра",
+		"@_name": "touch_to_browse"
+	},
+	{
+		"#text": "Аудио",
+		"@_name": "type_audio"
+	},
+	{
+		"#text": "Файл",
+		"@_name": "type_file"
+	},
+	{
+		"#text": "Картинка",
+		"@_name": "type_picture"
+	},
+	{
+		"#text": "Текст",
+		"@_name": "type_text"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "type_to_compose_sms_enter_to_send"
+	},
+	{
+		"#text": "SMS/MMS",
+		"@_name": "type_to_compose_text_enter_to_send"
+	},
+	{
+		"#text": "Введите сообщение или оставьте поле пустым",
+		"@_name": "type_to_compose_text_or_leave_blank"
+	},
+	{
+		"#text": "Данные vCard",
+		"@_name": "type_vcard"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "type_video"
+	},
+	{
+		"#text": "Карта заполнена",
+		"@_name": "uim_full_title"
+	},
+	{
+		"#text": "Прочитано",
+		"@_name": "unfiltrate"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "Неизвестный отправитель",
+		"@_name": "unknown_sender"
+	},
+	{
+		"#text": "Ошибка данных",
+		"@_name": "unkown_file"
+	},
+	{
+		"#text": "Отписаться",
+		"@_name": "unsubscribe"
+	},
+	{
+		"#text": "Отказ от подписки",
+		"@_name": "unsubscribe_instructions"
+	},
+	{
+		"#text": "Если вы хотите блокировать все сообщения, поддерживающие отмену подписки, это можно сделать через \\\"Перехват спама - перехват SMS\\\".",
+		"@_name": "unsubscribe_instructions_message_five"
+	},
+	{
+		"#text": "Вы можете восстановить заблокированное SMS-сообщение в Настройках - Перехват спама.",
+		"@_name": "unsubscribe_instructions_message_four"
+	},
+	{
+		"#text": "Для сообщений, которые не поддерживают подписку, пользователи не могут успешно отказаться от подписки на них. Возможно, вам придётся ответить , чтобы справиться с этим.",
+		"@_name": "unsubscribe_instructions_message_one"
+	},
+	{
+		"#text": "Перехват спама - перехват SMS",
+		"@_name": "unsubscribe_instructions_message_span"
+	},
+	{
+		"#text": "Эта функция отписки не отвечает на какую-либо инструкцию, но автоматически перехватывает сообщение, содержащее отказ от подписки, отправленное этим номером.",
+		"@_name": "unsubscribe_instructions_message_three"
+	},
+	{
+		"#text": "Кроме того, после ответа на неподходящие инструкции некоторые продавцы могут даже подумать, что вы активны и позднее могут отправить вам больше рекламной информации.",
+		"@_name": "unsubscribe_instructions_message_two"
+	},
+	{
+		"#text": "Отказаться от информации",
+		"@_name": "unsubscribe_sms"
+	},
+	{
+		"#text": "Подписка успешно отменена",
+		"@_name": "unsubscribe_success"
+	},
+	{
+		"#text": "Отказ от подписки больше не будет получать информацию о подписке, отправленную этим номером",
+		"@_name": "unsubscribe_tips"
+	},
+	{
+		"#text": "Отписан(а)",
+		"@_name": "unsubscribed"
+	},
+	{
+		"#text": "Формат файла не поддерживается",
+		"@_name": "unsupported_file_format"
+	},
+	{
+		"#text": "Формат файла не поддерживается",
+		"@_name": "unsupported_media_format"
+	},
+	{
+		"#text": "\"День рождения: %1$s\n\"",
+		"@_name": "vcard_birthday"
+	},
+	{
+		"#text": "\"Эл. почта: %1$s\n\"",
+		"@_name": "vcard_email"
+	},
+	{
+		"#text": "\"Мгнов. сообщение: %1$s\n\"",
+		"@_name": "vcard_ims"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "vcard_name"
+	},
+	{
+		"#text": "\"Псевдоним: %1$s\n\"",
+		"@_name": "vcard_nickname"
+	},
+	{
+		"#text": "\"Примечание: %1$s\n\"",
+		"@_name": "vcard_note"
+	},
+	{
+		"#text": "\"Телефон: \"",
+		"@_name": "vcard_number_hint"
+	},
+	{
+		"#text": "\"Компания: %1$s\n\"",
+		"@_name": "vcard_organization"
+	},
+	{
+		"#text": "\"Адрес: %1$s\n\"",
+		"@_name": "vcard_postal"
+	},
+	{
+		"#text": "Номер телефона",
+		"@_name": "vcard_tel"
+	},
+	{
+		"#text": "\"Веб-сайт: %1$s\n\"",
+		"@_name": "vcard_website"
+	},
+	{
+		"#text": "Просмотр слайд-шоу",
+		"@_name": "view_by_slide_title"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "view_message_details"
+	},
+	{
+		"#text": "Другие беседы",
+		"@_name": "view_more_conversations"
+	},
+	{
+		"#text": "Нажмите и удерживайте во время разговора",
+		"@_name": "voice_text_normal"
+	},
+	{
+		"#text": "Release to end",
+		"@_name": "voice_text_over"
+	},
+	{
+		"#text": "Проведите для отмены",
+		"@_name": "voice_text_press"
+	},
+	{
+		"#text": "Говорите более %s сек.",
+		"@_name": "voice_text_remain"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "WaitTip"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "weixin"
+	},
+	{
+		"#text": "WeChat не отвечает, повторите попытку",
+		"@_name": "weixin_unknown_error"
+	},
+	{
+		"#text": "Тест",
+		"@_name": "xiaoyuan_test"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "yes"
+	},
+	{
+		"#text": "Вы",
+		"@_name": "YOU"
+	}
+]

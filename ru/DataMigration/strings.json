@@ -1,0 +1,2469 @@
+[
+	{
+		"#text": "Перейти на главный экран",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению \\\"%s\\\"",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Обновление сетевого подключения, пожалуйста, подождите.",
+		"@_name": "action_base_cancel_connecting_tip"
+	},
+	{
+		"#text": "Остановка может привести к невозможности восстановить контакты, приложения, данные WeChat и другую информацию..",
+		"@_name": "action_base_client_stop_share_dialog_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "action_base_detail_confirm_button_text"
+	},
+	{
+		"#text": "Отключить?",
+		"@_name": "action_base_disconnect_dialog_title"
+	},
+	{
+		"#text": "Получение остановлено",
+		"@_name": "action_base_header_tips_fail_receiver"
+	},
+	{
+		"#text": "Ошибка получения",
+		"@_name": "action_base_header_tips_fail_receiver_exception"
+	},
+	{
+		"#text": "Отправка прекращена",
+		"@_name": "action_base_header_tips_fail_sender"
+	},
+	{
+		"#text": "Отправка ошибок",
+		"@_name": "action_base_header_tips_fail_sender_exception"
+	},
+	{
+		"#text": "%1$s ч. осталось",
+		"@_name": "action_base_header_tips_left_hour"
+	},
+	{
+		"#text": "%1$s ч. %2$s мин. осталось",
+		"@_name": "action_base_header_tips_left_hour_minitue"
+	},
+	{
+		"#text": "%1$s мин. осталось",
+		"@_name": "action_base_header_tips_left_minitue"
+	},
+	{
+		"#text": "%1$s сек. осталось",
+		"@_name": "action_base_header_tips_left_second"
+	},
+	{
+		"#text": "Потребуется: %1$s ч.",
+		"@_name": "action_base_header_tips_prediction_hour"
+	},
+	{
+		"#text": "Потребуется: %1$s ч. %2$s мин.",
+		"@_name": "action_base_header_tips_prediction_hour_minute"
+	},
+	{
+		"#text": "Потребуется: %1$s мин.",
+		"@_name": "action_base_header_tips_prediction_minute"
+	},
+	{
+		"#text": "Потребуется: %1$s с.",
+		"@_name": "action_base_header_tips_prediction_second"
+	},
+	{
+		"#text": "Тайм-аут подключения. Пожалуйста, продолжите после переподключения",
+		"@_name": "action_base_header_tips_timeout_exception"
+	},
+	{
+		"#text": "Приложения и пользовательские данные",
+		"@_name": "action_base_item_header_title_basic"
+	},
+	{
+		"#text": "Невозможно передать содержимое приложений",
+		"@_name": "action_base_item_header_title_fail"
+	},
+	{
+		"#text": "Медиа контент",
+		"@_name": "action_base_item_header_title_media"
+	},
+	{
+		"#text": "Выберите данные на старом телефоне",
+		"@_name": "action_base_item_none_tips"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "action_base_operation_complete"
+	},
+	{
+		"#text": "Остановить",
+		"@_name": "action_base_operation_receive_stop"
+	},
+	{
+		"#text": "Восстановление",
+		"@_name": "action_base_operation_recover"
+	},
+	{
+		"#text": "Подготовка",
+		"@_name": "action_base_operation_send_preparing"
+	},
+	{
+		"#text": "Остановить",
+		"@_name": "action_base_operation_send_stop"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "action_base_operation_start_text"
+	},
+	{
+		"#text": "Остановка может привести к невозможности восстановить контакты, приложения, данные WeChat и другую информацию.",
+		"@_name": "action_base_server_stop_share_dialog_title"
+	},
+	{
+		"#text": "Миграция прервана из-за отключения соединения",
+		"@_name": "action_base_socket_5G_timeout_dialog_title"
+	},
+	{
+		"#text": "Пожалуйста, выключите режим полета и повторите попытку.",
+		"@_name": "action_base_socket_ari_dialog_title"
+	},
+	{
+		"#text": "Ошибка соединения",
+		"@_name": "action_base_socket_error_dialog_title"
+	},
+	{
+		"#text": "Пожалуйста, обновите систему",
+		"@_name": "action_base_socket_system_downgrade_receiver"
+	},
+	{
+		"#text": "Переход на более старые версии системы не поддерживается",
+		"@_name": "action_base_socket_system_downgrade_sender"
+	},
+	{
+		"#text": "OK",
+		"@_name": "action_base_stop_share_dialog_button_confirm"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "action_base_stop_share_dialog_button_disconnect"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "action_base_stop_share_dialog_button_negative"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "action_base_stop_share_dialog_button_positive"
+	},
+	{
+		"#text": "Миграция прервана на другом устройстве",
+		"@_name": "action_base_user_remote_cancel_waiting"
+	},
+	{
+		"#text": "Вычисление",
+		"@_name": "action_item_calculating"
+	},
+	{
+		"#text": "Передача данных в приложение",
+		"@_name": "action_item_detail_app_data_select"
+	},
+	{
+		"#text": "Отправить расположение элементов главного экрана",
+		"@_name": "action_item_detail_app_send_desktop_layout"
+	},
+	{
+		"#text": "Все",
+		"@_name": "action_item_detail_doc_check_all"
+	},
+	{
+		"#text": "Электронные книги",
+		"@_name": "action_item_detail_doc_ebook"
+	},
+	{
+		"#text": "Документы",
+		"@_name": "action_item_detail_doc_office"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "action_item_detail_doc_other"
+	},
+	{
+		"#text": "Ничего",
+		"@_name": "action_item_detail_doc_uncheck_all"
+	},
+	{
+		"#text": "Изображения: %1$s",
+		"@_name": "action_item_detail_image_description"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "action_item_detail_list_title_select_multiple"
+	},
+	{
+		"#text": "Выберите %1$s",
+		"@_name": "action_item_detail_list_title_select_none"
+	},
+	{
+		"#text": "Видео: %1$s",
+		"@_name": "action_item_detail_vidio_description"
+	},
+	{
+		"#text": "Изображения: %1$s",
+		"@_name": "action_item_image_scale"
+	},
+	{
+		"#text": "Дайте разрешение \\\"Получение списка установленных приложений\\\" в разделе \"Настройки\".",
+		"@_name": "action_item_no_app_permission"
+	},
+	{
+		"#text": "Выдайте разрешение Migratool в настройках.",
+		"@_name": "action_item_no_permission"
+	},
+	{
+		"#text": "Предоставьте разрешение на запись Migratool в настройках",
+		"@_name": "action_item_no_write_permission"
+	},
+	{
+		"#text": "Нет %1$s",
+		"@_name": "action_item_none"
+	},
+	{
+		"#text": "Нет %1$s, или доступ к данным запрещен. Выдайте разрешение в Настройках.",
+		"@_name": "action_item_none_or_no_permission"
+	},
+	{
+		"#text": "Элементы: %1$s",
+		"@_name": "action_item_scale"
+	},
+	{
+		"#text": "Видео: %1$s",
+		"@_name": "action_item_vidio_scale"
+	},
+	{
+		"#text": "Аккаунт Flyme",
+		"@_name": "action_name_account"
+	},
+	{
+		"#text": "Настройки будильника",
+		"@_name": "action_name_alarm_clock"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "action_name_app"
+	},
+	{
+		"#text": "Содержимое приложений",
+		"@_name": "action_name_app_data"
+	},
+	{
+		"#text": "Закладки браузера",
+		"@_name": "action_name_browser_bookmarks"
+	},
+	{
+		"#text": "Журнал вызовов",
+		"@_name": "action_name_calllog"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "action_name_contact"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "action_name_default"
+	},
+	{
+		"#text": "Настройки экрана",
+		"@_name": "action_name_display_settings"
+	},
+	{
+		"#text": "Документы",
+		"@_name": "action_name_doc"
+	},
+	{
+		"#text": "Файлы",
+		"@_name": "action_name_file"
+	},
+	{
+		"#text": "Фото",
+		"@_name": "action_name_image"
+	},
+	{
+		"#text": "Метод ввода",
+		"@_name": "action_name_input_method"
+	},
+	{
+		"#text": "Настройкиe email клиента",
+		"@_name": "action_name_mail"
+	},
+	{
+		"#text": "Данные WeChat",
+		"@_name": "action_name_micromsg"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "action_name_mms"
+	},
+	{
+		"#text": "Музыка",
+		"@_name": "action_name_music"
+	},
+	{
+		"#text": "Vault",
+		"@_name": "action_name_safe_box"
+	},
+	{
+		"#text": "Системные настройки",
+		"@_name": "action_name_settings"
+	},
+	{
+		"#text": "Сообщения",
+		"@_name": "action_name_sms"
+	},
+	{
+		"#text": "Настройки звука",
+		"@_name": "action_name_sound_settings"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "action_name_vidio"
+	},
+	{
+		"#text": "Настройки VPN",
+		"@_name": "action_name_vpn_settings"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "action_name_wallpaper"
+	},
+	{
+		"#text": "Пароли Wi-Fi",
+		"@_name": "action_name_wlan_password"
+	},
+	{
+		"#text": "Получение данных",
+		"@_name": "action_receive_actionbar_title"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "action_send_actionbar_title"
+	},
+	{
+		"#text": "На новом телефоне закончилась свободное место",
+		"@_name": "action_send_undercapacity_title"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Приложения > Данные",
+		"@_name": "app_and_data"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "app_data"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "app_install_failed"
+	},
+	{
+		"#text": "Успешно установлено",
+		"@_name": "app_install_success"
+	},
+	{
+		"#text": "Migratool",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Приложения: %1$s",
+		"@_name": "app_recover_summary_txt"
+	},
+	{
+		"#text": "Доступное место: %s",
+		"@_name": "available_size"
+	},
+	{
+		"#text": "Завершено: %s",
+		"@_name": "backup_complement"
+	},
+	{
+		"#text": "Дата резервного копирования:",
+		"@_name": "backup_date_title"
+	},
+	{
+		"#text": "%s неудачно. Посмотреть детали",
+		"@_name": "backup_failed"
+	},
+	{
+		"#text": "Рез. копирование завершено",
+		"@_name": "backup_finish"
+	},
+	{
+		"#text": "Имя %1$ занято. Пожалуйста, удалите или переименуйте папку с тем же именем и повторите резервное копирование.",
+		"@_name": "backup_folder_occupied_msg"
+	},
+	{
+		"#text": "Невозможно создать рез. копию",
+		"@_name": "backup_folder_occupied_title"
+	},
+	{
+		"#text": "Элементы рез. копии",
+		"@_name": "backup_item"
+	},
+	{
+		"#text": "Локально %s",
+		"@_name": "backup_loction"
+	},
+	{
+		"#text": "Путь к рез. копиям",
+		"@_name": "backup_path_notify"
+	},
+	{
+		"#text": "Резервные копии",
+		"@_name": "backup_record"
+	},
+	{
+		"#text": ",",
+		"@_name": "backup_record_item_separtor"
+	},
+	{
+		"#text": "Элементы: %s",
+		"@_name": "backup_record_num"
+	},
+	{
+		"#text": "Резервное копирование",
+		"@_name": "backup_recover"
+	},
+	{
+		"#text": "Расположение",
+		"@_name": "backup_storge_location"
+	},
+	{
+		"#text": "Не выполнялось: %s",
+		"@_name": "backup_time"
+	},
+	{
+		"#text": "В процессе: %s. Следите за уведомлениями в шторке.",
+		"@_name": "backup_working"
+	},
+	{
+		"#text": "Не удалось сжать резервные копии, попробуйте еще раз.",
+		"@_name": "backup_zip_failed"
+	},
+	{
+		"#text": "Календарь",
+		"@_name": "calendar"
+	},
+	{
+		"#text": "Журнал вызовов",
+		"@_name": "calllog"
+	},
+	{
+		"#text": "Журнал вызовов: %1$s",
+		"@_name": "calllog_recover_summary_txt"
+	},
+	{
+		"#text": "%s резервное копирование и восстановление не поддерживается",
+		"@_name": "can_not_support_action"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Проверка аккаунта",
+		"@_name": "check_account_info"
+	},
+	{
+		"#text": "Выберите путь для хранения",
+		"@_name": "choose_storage"
+	},
+	{
+		"#text": "очистить",
+		"@_name": "clean_rubbish"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "closed"
+	},
+	{
+		"#text": "Резервное копирование и восстановление предназначена специально для телефонов CMCC-версии и может использоваться среди телефонов CMCC-версии всех торговых марок.",
+		"@_name": "cmcc_notify"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "complete"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "contact"
+	},
+	{
+		"#text": "Контакты: %1$s",
+		"@_name": "contact_recover_summary_txt"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "continuration"
+	},
+	{
+		"#text": "Пожалуйста, не отключайте WLAN-соединение во время миграции",
+		"@_name": "data_migration_code_hint"
+	},
+	{
+		"#text": "Срок действия кода истек",
+		"@_name": "data_receiver_code_expired_tips"
+	},
+	{
+		"#text": "Генерация кода соединения, подождите",
+		"@_name": "data_receiver_code_generating"
+	},
+	{
+		"#text": "Регенерировать",
+		"@_name": "data_receiver_code_recreate"
+	},
+	{
+		"#text": "Введите этот код на старом телефоне",
+		"@_name": "data_receiver_code_tips"
+	},
+	{
+		"#text": "OK",
+		"@_name": "data_receiver_fail_confirm_button"
+	},
+	{
+		"#text": "Соединение с новым телефоном",
+		"@_name": "data_sender_code_connecting"
+	},
+	{
+		"#text": "Введите корректный код",
+		"@_name": "data_sender_code_reenter_tips"
+	},
+	{
+		"#text": "Введите код, сгенерированный на новом телефоне",
+		"@_name": "data_sender_code_tips"
+	},
+	{
+		"#text": "OK",
+		"@_name": "data_sender_fail_confirm_button"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Другое: %1$s",
+		"@_name": "default_recover_summary_txt"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "\"Действие не может быть выполнено во время синхронизации с облаком\"",
+		"@_name": "desk_update"
+	},
+	{
+		"#text": "Память",
+		"@_name": "disk_path"
+	},
+	{
+		"#text": "SD карта",
+		"@_name": "disk_scard_path"
+	},
+	{
+		"#text": "Миграция данных телефона без использования моб. интернета",
+		"@_name": "dm_notification_message"
+	},
+	{
+		"#text": "Миграция данных",
+		"@_name": "dm_notification_title"
+	},
+	{
+		"#text": "Документы: %1$s",
+		"@_name": "doc_recover_summary_txt"
+	},
+	{
+		"#text": "История рез. копирования пуста",
+		"@_name": "empty_text"
+	},
+	{
+		"#text": "Текущая учетная запись Flyme не является зашифрованной.",
+		"@_name": "encry_account_error"
+	},
+	{
+		"#text": "\"Выйдите из текущей учетной записи Flyme и войдите в новую учетную запись для ее восстановления\n\nFlyme аккаунт:\"",
+		"@_name": "encry_account_error_dialog_message"
+	},
+	{
+		"#text": "Зашифровать",
+		"@_name": "encry_backup"
+	},
+	{
+		"#text": "Использовать учетную запись Flyme для шифрования резервной копии",
+		"@_name": "encry_backup_notify"
+	},
+	{
+		"#text": "Использовать учетную запись Flyme для шифрования резервной копии",
+		"@_name": "encry_msg"
+	},
+	{
+		"#text": "Конфиденциальность",
+		"@_name": "encry_title"
+	},
+	{
+		"#text": "Зашифровано",
+		"@_name": "encrypt_record_tip"
+	},
+	{
+		"#text": "Расчетный размер:",
+		"@_name": "estimate_backup_size"
+	},
+	{
+		"#text": "Не удалось создать точку доступа. Сначала получите разрешение.",
+		"@_name": "failed_to_enable_softap"
+	},
+	{
+		"#text": "Файлы: %1$s",
+		"@_name": "file_recover_summary_txt"
+	},
+	{
+		"#text": "Авторизуйтесь в аккаунте Flyme для шифрования резервной копии. Для восстановления нужно будет войти в этот же аккаунт Flyme.",
+		"@_name": "first_encry_backup_dialog_message"
+	},
+	{
+		"#text": "Аккаунт Flyme",
+		"@_name": "flyme_account"
+	},
+	{
+		"#text": "Информация об аккаунте",
+		"@_name": "get_account_info"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "get_it"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "has_know"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "has_skip"
+	},
+	{
+		"#text": "Изображения: %1$s",
+		"@_name": "image_recover_summary_txt"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "\"Выполнено %s назад\"",
+		"@_name": "just_backup"
+	},
+	{
+		"#text": "\"Выполнено только что\"",
+		"@_name": "just_backup_ago"
+	},
+	{
+		"#text": "Своевременное резервное копирование. Рисков нет.",
+		"@_name": "just_backup_msg"
+	},
+	{
+		"#text": "Настройки лаунчера",
+		"@_name": "launcher"
+	},
+	{
+		"#text": "Распложение иконок, папок и виджетов",
+		"@_name": "launcher_description"
+	},
+	{
+		"#text": "Вычисление...",
+		"@_name": "loading_records"
+	},
+	{
+		"#text": "Логин",
+		"@_name": "login"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Сообщение",
+		"@_name": "message"
+	},
+	{
+		"#text": "Данные WeChat",
+		"@_name": "micromsg_recover_summary_txt"
+	},
+	{
+		"#text": "Добавлено в очередь на загрузку",
+		"@_name": "migration_added_to_download_queue"
+	},
+	{
+		"#text": "Миграция без планов по сбору данных",
+		"@_name": "migration_app_button"
+	},
+	{
+		"#text": "Нет подключения, пожалуйста, проверьте настройки сети",
+		"@_name": "migration_app_check_network"
+	},
+	{
+		"#text": "Настройка сети",
+		"@_name": "migration_app_configure_network"
+	},
+	{
+		"#text": "Ошибка отправки",
+		"@_name": "migration_app_failed_title"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "migration_app_install_tip_menu_ignore"
+	},
+	{
+		"#text": "Сделайте Migratool лучше",
+		"@_name": "migration_app_message"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "migration_app_try_again"
+	},
+	{
+		"#text": "Приложение Migration",
+		"@_name": "migration_application_migration"
+	},
+	{
+		"#text": "%1$s прил. может быть установлено на новом телефоне",
+		"@_name": "migration_application_tip"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "migration_base_dialog_clear_now"
+	},
+	{
+		"#text": "OK",
+		"@_name": "migration_base_dialog_confirm_button"
+	},
+	{
+		"#text": "Недостаточно места на устройстве назначения",
+		"@_name": "migration_base_notification_text_client_failed_sdcard_full"
+	},
+	{
+		"#text": "Данных всего: %1$s",
+		"@_name": "migration_base_notification_text_complete"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "migration_base_notification_text_failed"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "migration_base_notification_text_server_failed_sdcard_full"
+	},
+	{
+		"#text": "Восстановление \\\"%1$s\\\"",
+		"@_name": "migration_base_notification_text_server_recovering"
+	},
+	{
+		"#text": "Обновите Migratool и повторите попытку",
+		"@_name": "migration_base_notification_text_update"
+	},
+	{
+		"#text": "Миграция завершена",
+		"@_name": "migration_base_notification_title_client_complete"
+	},
+	{
+		"#text": "Отправка остановлена",
+		"@_name": "migration_base_notification_title_client_failed"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "migration_base_notification_title_client_running"
+	},
+	{
+		"#text": "Миграция завершена",
+		"@_name": "migration_base_notification_title_server_complete"
+	},
+	{
+		"#text": "Получение остановлено",
+		"@_name": "migration_base_notification_title_server_failed"
+	},
+	{
+		"#text": "Восстановление",
+		"@_name": "migration_base_notification_title_server_recovering"
+	},
+	{
+		"#text": "Получение",
+		"@_name": "migration_base_notification_title_server_running"
+	},
+	{
+		"#text": "Обновление Migratool",
+		"@_name": "migration_base_notification_title_update"
+	},
+	{
+		"#text": "Недостаточно места, миграция прервана",
+		"@_name": "migration_base_receiver_fail_sdcard_full"
+	},
+	{
+		"#text": "Недостаточно места, миграция прервана",
+		"@_name": "migration_base_sender_fail_sdcard_full"
+	},
+	{
+		"#text": "\"Подключение или отключение Wi-Fi остановит миграцию\n Блокировка или отключение экрана НЕ остановит миграцию\"",
+		"@_name": "migration_base_transfer_tip"
+	},
+	{
+		"#text": "OK",
+		"@_name": "migration_battery_low_dialog_confirm"
+	},
+	{
+		"#text": "Убедитесь, что заряд батареи выше 20%, иначе вы не сможете восстановить перенесенные данные.",
+		"@_name": "migration_battery_low_dialog_msg"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "migration_breakpoint_resend"
+	},
+	{
+		"#text": "Переподключить",
+		"@_name": "migration_breakpoint_resume"
+	},
+	{
+		"#text": "Восстановление от точки останова",
+		"@_name": "migration_breakpoint_Resuming"
+	},
+	{
+		"#text": "Остановить передачу текущих задач и повторно выбрать данные для передачи?",
+		"@_name": "migration_breakpoint_stop_and_reselect"
+	},
+	{
+		"#text": "Обнаружена незавершенная передача на устройство %1$s",
+		"@_name": "migration_breakpoint_unfinished_task"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "migration_compatibility_ok"
+	},
+	{
+		"#text": "Для совместимости данных нельзя переносить системные настройки, приложения и их данные, а также настрйоки лаунчера со старого телефона на новый.",
+		"@_name": "migration_compatibility_tip"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "migration_confirm_button_txt"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "migration_doing_update_app"
+	},
+	{
+		"#text": "Оставить экран включенным",
+		"@_name": "migration_enable_screen_always_on"
+	},
+	{
+		"#text": "Данные в %1$s",
+		"@_name": "migration_err_app_data"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "migration_err_app_details"
+	},
+	{
+		"#text": "Не удалось отправить данные приложений: %1$s",
+		"@_name": "migration_err_app_summery"
+	},
+	{
+		"#text": "Не удалось отправить данные приложений: %1$s. Освободите место в телефоне и попробуйте еще раз",
+		"@_name": "migration_err_app_tip"
+	},
+	{
+		"#text": "Ошибка миграции",
+		"@_name": "migration_failed_txt_receive"
+	},
+	{
+		"#text": "FAQ",
+		"@_name": "migration_faq"
+	},
+	{
+		"#text": "$ABCDEFGHIJKLMNOPQRSTUVWXYZ#",
+		"@_name": "migration_fast_scroller_letter"
+	},
+	{
+		"#text": "Миграция завершена",
+		"@_name": "migration_finished_txt_receive"
+	},
+	{
+		"#text": "Отправленные данные",
+		"@_name": "migration_finished_txt_send"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "migration_got_it"
+	},
+	{
+		"#text": "Установить приложение",
+		"@_name": "migration_install_app"
+	},
+	{
+		"#text": "Установить и выйти",
+		"@_name": "migration_install_app_and_quit"
+	},
+	{
+		"#text": "Сканировать со старого телефона для скачивания",
+		"@_name": "migration_install_app_code_receiver_tips"
+	},
+	{
+		"#text": "Отсканируйте QR-код для скачивания приложенияЫ",
+		"@_name": "migration_install_app_code_sender_tips"
+	},
+	{
+		"#text": "Сканировать с другого телефона для скачивания",
+		"@_name": "migration_install_app_code_tips"
+	},
+	{
+		"#text": "Установить (%1$s прил.)",
+		"@_name": "migration_install_app_num"
+	},
+	{
+		"#text": "Установить Migratool на старый телефон",
+		"@_name": "migration_install_app_receiver_title"
+	},
+	{
+		"#text": "Установить Migratool",
+		"@_name": "migration_install_app_sender_title"
+	},
+	{
+		"#text": "Установить Migratool на новый телефон",
+		"@_name": "migration_install_app_tip"
+	},
+	{
+		"#text": "Установить на другой телефон",
+		"@_name": "migration_install_app_title"
+	},
+	{
+		"#text": "\"или \"",
+		"@_name": "migration_install_or"
+	},
+	{
+		"#text": "отправить APK через Bluetooth",
+		"@_name": "migration_install_send_apk_by_bluetooth"
+	},
+	{
+		"#text": "\"Для установки Migratool на страый телефон\nвыберите \\\"Перенос с этого телефона\\\"\"",
+		"@_name": "migration_install_share_receiver_tips"
+	},
+	{
+		"#text": "\"Для установки Migratool на новый иелефон\nвыберите \\\"Перенести на этот телефон\\\"\"",
+		"@_name": "migration_install_share_sender_tips"
+	},
+	{
+		"#text": "\"Для миграции нелбходимо приложение Migratool\nна обоих устройствах\"",
+		"@_name": "migration_install_share_tips"
+	},
+	{
+		"#text": "\"Migratool не может быть запущен из-за стратегии безопасности приложений Apple для iOS 9 и более поздних версий. Пожалуйста, выполните следующие шаги для решения проблемы:\"",
+		"@_name": "migration_ios_app_method"
+	},
+	{
+		"#text": "\"Не могу запустить Migration Tool на iPhone\"",
+		"@_name": "migration_ios_app_tip"
+	},
+	{
+		"#text": "3. Нажмите \\\"Trust\\\" для подтверждения, когда Migratool будет запущен.",
+		"@_name": "migration_ios_click_trust"
+	},
+	{
+		"#text": "1. Перейдите: Настройки > Общие > Профили &amp; Менеджер устройства, и выберите Meizu Telecom Equipment Co., Ltd.",
+		"@_name": "migration_ios_device_management"
+	},
+	{
+		"#text": "2. Нажмите \\\"Meizu Telecom Equipment Co., Ltd.\\\"",
+		"@_name": "migration_ios_meizu_com"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "migration_junk_clean"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "migration_loading"
+	},
+	{
+		"#text": "Migratool",
+		"@_name": "migration_main_meizu_title"
+	},
+	{
+		"#text": "Это новый телефон",
+		"@_name": "migration_main_menu_item_receive"
+	},
+	{
+		"#text": "Это старый телефон",
+		"@_name": "migration_main_menu_item_send"
+	},
+	{
+		"#text": "Meizu Migratool",
+		"@_name": "migration_main_other_title"
+	},
+	{
+		"#text": "Для миграции данных Migratool требуются следующие разрешения: сетевое подключение, Wi-Fi, местоположение, IMEI, контакты, сообщения, журналы вызовов, хранилище, список приложений и системные настройки.",
+		"@_name": "migration_main_permission_dialog_msg"
+	},
+	{
+		"#text": "Перенос контактов, приложений, фотографий и других данных на новый телефон без интернета.",
+		"@_name": "migration_main_tips"
+	},
+	{
+		"#text": "Загрузить, используя моб. интернет?",
+		"@_name": "migration_mobile_network_dialog_tip"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для перезагрузки",
+		"@_name": "migration_network_failed_tip"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "migration_next_step"
+	},
+	{
+		"#text": "\"Migratool необходимо предоставить доступ к интернету\"",
+		"@_name": "migration_no_network_tip"
+	},
+	{
+		"#text": "Не показывать рекомендации",
+		"@_name": "migration_none_recommend_app"
+	},
+	{
+		"#text": "На телефоне менее 200Мб свободного места. Выполните очистку и повторите попытку.",
+		"@_name": "migration_not_enough_space"
+	},
+	{
+		"#text": "Успешно перенесены данные: %1$s",
+		"@_name": "migration_overview_total_data_receive"
+	},
+	{
+		"#text": "Успешно перенесены данные: %1$s",
+		"@_name": "migration_overview_total_data_send"
+	},
+	{
+		"#text": "Получение данных",
+		"@_name": "migration_qrcode_receiver_actionbar_title"
+	},
+	{
+		"#text": "Отправка данных",
+		"@_name": "migration_qrcode_sender_actionbar_title"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "migration_quit"
+	},
+	{
+		"#text": "Приложение еще не установлено. Хотите выйти?",
+		"@_name": "migration_quit_dialog_tip"
+	},
+	{
+		"#text": "Рекомендации",
+		"@_name": "migration_recommend_app"
+	},
+	{
+		"#text": "согласно приложениям на вашем предыдущем телефоне",
+		"@_name": "migration_recommend_app_by_old_phone"
+	},
+	{
+		"#text": "Восстановление %1$s . . %2$s%%",
+		"@_name": "migration_recover_status"
+	},
+	{
+		"#text": "Восстановление данных",
+		"@_name": "migration_recover_title"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "migration_Refresh_app"
+	},
+	{
+		"#text": "Для восстановления SMS требуется временное разрешение Изменение SMS. Вы можете отозвать разрешение после завершения восстановления",
+		"@_name": "migration_request_default_sms"
+	},
+	{
+		"#text": "Отменить восстановление",
+		"@_name": "migration_request_default_sms_cancel"
+	},
+	{
+		"#text": "Авторизация",
+		"@_name": "migration_request_default_sms_ok"
+	},
+	{
+		"#text": "Экран всегда включен: ВЫКЛ",
+		"@_name": "migration_screen_always_on_disabled"
+	},
+	{
+		"#text": "Экран всегда включен: ВКЛ",
+		"@_name": "migration_screen_always_on_enabled"
+	},
+	{
+		"#text": "Выключить",
+		"@_name": "migration_start_soft_ap_button"
+	},
+	{
+		"#text": "\"Если после нажатия Включить не откроется экран настроек, то перейдите Настройки > Точка доступа и выберите включить\"",
+		"@_name": "migration_start_soft_ap_manual_tip"
+	},
+	{
+		"#text": "Включение точки доступа",
+		"@_name": "migration_start_soft_ap_starting"
+	},
+	{
+		"#text": "Автоматическое включение для точки доступа не поддерживается для Android 7.0 и выше. Вам нужно самостоятельно включить точку достпа.",
+		"@_name": "migration_start_soft_ap_system_tip"
+	},
+	{
+		"#text": "Пожалуйста, включите точку доступа",
+		"@_name": "migration_start_soft_ap_tip"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "migration_update_app_cancel"
+	},
+	{
+		"#text": "\"Версия Migratool устарела, миграция не может быть выполнена. Обновите Migratool.\"",
+		"@_name": "migration_update_app_dialog"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "migration_update_app_ok"
+	},
+	{
+		"#text": "Обновите Migratool на другом телефоне",
+		"@_name": "migration_update_app_other_phone"
+	},
+	{
+		"#text": "Переключение Wi-Fi нарушит передачу",
+		"@_name": "migration_wifi_tips"
+	},
+	{
+		"#text": "История резервного копирования потеряна",
+		"@_name": "miss_record"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "mms"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Видео: %1$s",
+		"@_name": "movie_recover_summary_txt"
+	},
+	{
+		"#text": "Музыка: %1$s",
+		"@_name": "music_recover_summary_txt"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Clear %s Backup(s)",
+		"@_name": "mz_backup_delete_dialog_ok_text"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)",
+		"@_name": "mz_permission_policy_description"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Разрешения и заявления",
+		"@_name": "mz_permission_title_terms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Переключение Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-сообщения",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Переключение NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Политика конфиденциальности Meizu",
+		"@_name": "mz_privacy_policy"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Пользовательское соглашение",
+		"@_name": "mz_user_agreement"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "\"Установить сейчас\"",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "\"Установить позже\"",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Рез. копирование",
+		"@_name": "new_backup"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "no"
+	},
+	{
+		"#text": "Больше не требуется",
+		"@_name": "no_tip_next_time"
+	},
+	{
+		"#text": "Недостаточно места. Освободите место и повторите попытку.",
+		"@_name": "not_enough_size"
+	},
+	{
+		"#text": "Выполнить",
+		"@_name": "now_backup"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Выдать разрешение",
+		"@_name": "open_wifi_permission"
+	},
+	{
+		"#text": "Если перенаправление не происходит, то перейдите к разрешениям для настройки",
+		"@_name": "operate_permission_tip"
+	},
+	{
+		"#text": "Нет разрешения на изменение настроек системы",
+		"@_name": "operate_settings_permission_title"
+	},
+	{
+		"#text": "Включите его в Разрешениях",
+		"@_name": "operate_storage_permission_summery"
+	},
+	{
+		"#text": "Нет разрешения на чтение и запись данных",
+		"@_name": "operate_storage_permission_title"
+	},
+	{
+		"#text": "Доступ к Wi-Fi запрещен. Пожалуйста, дайте разрешение и повторите попытку.",
+		"@_name": "operate_wifi_no_permission_msg"
+	},
+	{
+		"#text": "Для подключения устройств и передачи данных Migratool необходим доступ к Wi-Fi. Пожалуйста, предоставьте Migratool данное разрешение.",
+		"@_name": "operate_wifi_permission_msg_on_meizu"
+	},
+	{
+		"#text": "Справка",
+		"@_name": "operation_detail"
+	},
+	{
+		"#text": "Помощь в работе",
+		"@_name": "operation_help"
+	},
+	{
+		"#text": "%",
+		"@_name": "percent"
+	},
+	{
+		"#text": "Рез. копированию &amp; Восстановлению необходимо предоставить доступ в Интернет, к получению местоположения и чтению контактов, сообщений и журналов звонков.",
+		"@_name": "permission_notify"
+	},
+	{
+		"#text": "Фото",
+		"@_name": "photo"
+	},
+	{
+		"#text": "Выберите данные",
+		"@_name": "please_select_data"
+	},
+	{
+		"#text": "\"Заряд батареи не может быть ниже 20% на момент ре. копирования.\"",
+		"@_name": "power_low_backup"
+	},
+	{
+		"#text": "\"Заряд батареи не может быть ниже 20% на момент восстановления.\"",
+		"@_name": "power_low_recover"
+	},
+	{
+		"#text": "%",
+		"@_name": "progress_percent_scale"
+	},
+	{
+		"#text": "Recovering",
+		"@_name": "progress_recover_app"
+	},
+	{
+		"#text": "Ошибка соединения",
+		"@_name": "qr_scanner_wifi_connection_failed"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "quit_account"
+	},
+	{
+		"#text": "Ошибка точки доступа Wi-Fi",
+		"@_name": "receive_failed_reason_softap_error"
+	},
+	{
+		"#text": "Рекомендуется создать резервную копию, чтобы избежать потери данных.",
+		"@_name": "recommend_backup_msg"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "recover"
+	},
+	{
+		"#text": "Восстановить зашифрованные резервные копии",
+		"@_name": "recover_encry_backup"
+	},
+	{
+		"#text": "\"Эта резервная копия была зашифрована, войдите в аккаунт Flyme, чтобы восстановить её.\n\nFlyme аккаунт:\"",
+		"@_name": "recover_encry_backup_message"
+	},
+	{
+		"#text": "Восстановлено",
+		"@_name": "recover_finish"
+	},
+	{
+		"#text": "Примечание",
+		"@_name": "remark"
+	},
+	{
+		"#text": "Примечание может содержать не более 10 символов",
+		"@_name": "remark_hint"
+	},
+	{
+		"#text": "\"1. Сделайте резервную копию данных и проверьте путь к файлу резервной копии.\n2. Подключите телефон к ПК и откройте в проводнике каталог с файлом резервной копии.\n3. Скопируйте файл резервной копии на ПК.\n4. Подключите новый телефон к ПК и откройте проводник.\n5. Скопируйте файл резервной копии в любой каталог на новом телефоне.\n6. Откройте приложение Рез. копирование &amp; Восстановление  на новом телефоне и выберите файл резервной копии для начала восстановления.\"",
+		"@_name": "replace_by_computer"
+	},
+	{
+		"#text": "Замена на ПК:",
+		"@_name": "replace_by_computer_head"
+	},
+	{
+		"#text": "\"1. Вставьте карту памяти в телефон.\n2. Сделайте резервную копию данных.\n3. Извлеките карту памяти и вставьте ее в новое устройство.\n4. Откройте Рез. копирование &amp; Восстановление на новом телефоне, затем выберите файл резервной копии для начала восстановления.\"",
+		"@_name": "replace_by_sd"
+	},
+	{
+		"#text": "Замена на карту памяти:",
+		"@_name": "replace_by_sd_head"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "retry_backup_zip"
+	},
+	{
+		"#text": "Миграция данных хранилища перезапишет данные хранилища нового телефона.",
+		"@_name": "safebox_overwrite_tip"
+	},
+	{
+		"#text": "SD-карта не обнаружена. Для восстановления данных на этом устройстве можно передать на него резервные файлы со старого телефона с помощью SD-карты или ПК.",
+		"@_name": "sd_card_notify"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Выберите приложения",
+		"@_name": "select_app"
+	},
+	{
+		"#text": "Выберите элементы",
+		"@_name": "select_backup"
+	},
+	{
+		"#text": "При миграции, данные WeChat перезапишут данные WeChat на новом телефоне",
+		"@_name": "select_micromsg_prompt_msg"
+	},
+	{
+		"#text": "Некоректный элемент",
+		"@_name": "select_record_item_no_use"
+	},
+	{
+		"#text": "Выбор места хранения",
+		"@_name": "select_storage"
+	},
+	{
+		"#text": "Выберите настройки системы",
+		"@_name": "select_system_setting"
+	},
+	{
+		"#text": "Настройки системы: %1$s",
+		"@_name": "settings_recover_summary_txt"
+	},
+	{
+		"#text": "Параметры резервного копирования",
+		"@_name": "sim_card_select"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "skip"
+	},
+	{
+		"#text": "SIM1",
+		"@_name": "slot_1"
+	},
+	{
+		"#text": "SIM2",
+		"@_name": "slot_2"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "sms"
+	},
+	{
+		"#text": "Сообщения: %1$s",
+		"@_name": "sms_recover_summary_txt"
+	},
+	{
+		"#text": "Ошибка резервного копирования, карта памяти не обнаружена.",
+		"@_name": "space_backup_failed"
+	},
+	{
+		"#text": "Недостаточно места в памяти телефона, файлы резервных копий будут сохранены на карту памяти",
+		"@_name": "space_check"
+	},
+	{
+		"#text": "Недостаточно места на SD-карте, файлы резервных копий будут сохранены в памяти телефона.",
+		"@_name": "space_check_storge"
+	},
+	{
+		"#text": "Восстановление не удалось из-за того, что SD-карта не найдена.",
+		"@_name": "space_restore_failed"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "start_backup"
+	},
+	{
+		"#text": "Восстановить",
+		"@_name": "start_recover"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Остановить",
+		"@_name": "stop_backup"
+	},
+	{
+		"#text": "Остановить",
+		"@_name": "stop_recover"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_count"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_item"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_order"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_page"
+	},
+	{
+		"#text": "%s",
+		"@_name": "suffix_ren"
+	},
+	{
+		"#text": "OK",
+		"@_name": "sure"
+	},
+	{
+		"#text": "Вложение MMS слишком большое, поэтому резервное копирование может занять некоторое время.",
+		"@_name": "sure_continue_action"
+	},
+	{
+		"#text": "Удалить выбранные элементы?",
+		"@_name": "sure_delete_action"
+	},
+	{
+		"#text": "Хотите остановить: %s?",
+		"@_name": "sure_stop_action"
+	},
+	{
+		"#text": "\"Действие не может быть выполнено во время резервного копирования\"",
+		"@_name": "sync_update"
+	},
+	{
+		"#text": "Настройки системы",
+		"@_name": "system_setting"
+	},
+	{
+		"#text": "MainActivity",
+		"@_name": "title_activity_main"
+	},
+	{
+		"#text": "Неизветный файл",
+		"@_name": "unknown_file"
+	},
+	{
+		"#text": "Чтобы избежать потери данных, не перезагружайте и не выключайте устройство.",
+		"@_name": "warning"
+	},
+	{
+		"#text": "Нет карты памяти",
+		"@_name": "without_card"
+	},
+	{
+		"#text": "SD-карта не обнаружена. Для восстановления данных на этом устройстве можно передать на него резервные файлы со старого телефона с помощью ПК..",
+		"@_name": "without_sd_card"
+	},
+	{
+		"#text": "Да",
+		"@_name": "yes"
+	},
+	{
+		"#text": "Скоро",
+		"@_name": "zip_file"
+	}
+]

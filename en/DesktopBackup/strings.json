@@ -1,0 +1,2291 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "Continue"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "Delete"
+	},
+	{
+		"#text": "Installing. Unable to cancel",
+		"@_name": "InstallingCannotCancel"
+	},
+	{
+		"#text": "Installing. Unable to pause",
+		"@_name": "InstallingCannotPause"
+	},
+	{
+		"#text": "Skip",
+		"@_name": "Skip"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "WaitTip"
+	},
+	{
+		"#text": "App already exists. Please uninstall before reinstalling",
+		"@_name": "already_exists"
+	},
+	{
+		"#text": "Installed",
+		"@_name": "app_local_exist"
+	},
+	{
+		"#text": "Home Screen Backup",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Cloud Backup",
+		"@_name": "app_name_for_flyme7"
+	},
+	{
+		"#text": "Application",
+		"@_name": "apps_label"
+	},
+	{
+		"#text": "Accessibility",
+		"@_name": "assist_option"
+	},
+	{
+		"#text": "Auto backup everyday",
+		"@_name": "auto_backup"
+	},
+	{
+		"#text": "Checking apps for backup",
+		"@_name": "backupChecking"
+	},
+	{
+		"#text": "Backing up current launcher will overwrite the cloud backup",
+		"@_name": "backupComfirmMsg"
+	},
+	{
+		"#text": "Backup current launcher?",
+		"@_name": "backupComfirmTitile"
+	},
+	{
+		"#text": "Backup Launcher",
+		"@_name": "backupDesktop"
+	},
+	{
+		"#text": "Error uploading launcher data. Tap to retry",
+		"@_name": "backupDesktopExceptionTip"
+	},
+	{
+		"#text": "Backup from: %s",
+		"@_name": "backupFrom"
+	},
+	{
+		"#text": "Generating backup data",
+		"@_name": "backupGenerating"
+	},
+	{
+		"#text": "Backup Launcher",
+		"@_name": "backupLauncher"
+	},
+	{
+		"#text": "Login required to backup launcher",
+		"@_name": "backupNeedLogin"
+	},
+	{
+		"#text": "%s",
+		"@_name": "backupTime"
+	},
+	{
+		"#text": "Backup cancelled",
+		"@_name": "backup_canceled"
+	},
+	{
+		"#text": "Backup failed",
+		"@_name": "backup_error"
+	},
+	{
+		"#text": "Failed to back up some apps. Exit backup?",
+		"@_name": "backup_error_tip"
+	},
+	{
+		"#text": "Ignored apps",
+		"@_name": "backup_ignored"
+	},
+	{
+		"#text": "Backup complete",
+		"@_name": "backup_launcher_complete"
+	},
+	{
+		"#text": "Backup error",
+		"@_name": "backup_launcher_error"
+	},
+	{
+		"#text": "Failed to back up launcher. Exit backup?",
+		"@_name": "backup_launcher_error_tip"
+	},
+	{
+		"#text": "Backup successful",
+		"@_name": "backup_launcher_success"
+	},
+	{
+		"#text": "No WLAN connection. Backup paused",
+		"@_name": "backup_no_wifi_tip"
+	},
+	{
+		"#text": "Backup phone to cloud",
+		"@_name": "backup_now"
+	},
+	{
+		"#text": "Backup option",
+		"@_name": "backup_option_label"
+	},
+	{
+		"#text": "Backup Progress",
+		"@_name": "backup_progress"
+	},
+	{
+		"#text": "Backup history",
+		"@_name": "backup_record_title"
+	},
+	{
+		"#text": "Stop backup",
+		"@_name": "backup_stop"
+	},
+	{
+		"#text": "backup stopped",
+		"@_name": "backup_stopped"
+	},
+	{
+		"#text": "Backup successful",
+		"@_name": "backup_success"
+	},
+	{
+		"#text": "Backup completed. %d item(s) backed up including %d new app(s)",
+		"@_name": "backup_success_1_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Backup completed. %d item(s) backed up including no new apps",
+		"@_name": "backup_success_2_tip"
+	},
+	{
+		"#text": "Backup elapse: %s",
+		"@_name": "backup_time"
+	},
+	{
+		"#text": "\"Back up your phone's apps and settings to the cloud, you can recover the data on other phones\"",
+		"@_name": "backup_tip"
+	},
+	{
+		"#text": "Back up via WLAN only",
+		"@_name": "backup_while_wlan_open"
+	},
+	{
+		"#text": "Currently WLAN unavailable. To back up via cellular data?",
+		"@_name": "backup_with_mobile_networks"
+	},
+	{
+		"#text": "Backing up",
+		"@_name": "backuping"
+	},
+	{
+		"#text": "Backing up apps",
+		"@_name": "backuping_app"
+	},
+	{
+		"#text": "Backing up launcher layout",
+		"@_name": "backuping_launcher"
+	},
+	{
+		"#text": "Backuping, please wait %d / %d",
+		"@_name": "backuping_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Backup completed. %d app(s) backed up including %d new one(s)",
+		"@_name": "bacup_success_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Unable to parse app manifest file. Please try reinstalling",
+		"@_name": "bad_manifest"
+	},
+	{
+		"#text": "Package name missing or in wrong format. Please reinstall",
+		"@_name": "bad_package_name"
+	},
+	{
+		"#text": "Invalid process",
+		"@_name": "bad_shared_user_id"
+	},
+	{
+		"#text": "Backupable",
+		"@_name": "can_backup_label"
+	},
+	{
+		"#text": "Restorable",
+		"@_name": "can_restore"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Stop ongoing backup?",
+		"@_name": "cancelBackup_tip"
+	},
+	{
+		"#text": "Stop ongoing restore?",
+		"@_name": "cancelRestore_tip"
+	},
+	{
+		"#text": "Canceling backup",
+		"@_name": "cancelling_backup"
+	},
+	{
+		"#text": "Backup failed",
+		"@_name": "cannotBackup"
+	},
+	{
+		"#text": "Failed to backup %s",
+		"@_name": "cannotBackupCount1"
+	},
+	{
+		"#text": "Failed to backup %s and %s",
+		"@_name": "cannotBackupCount2",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Failed to backup %d apps/settings including %s and %s",
+		"@_name": "cannotBackupCountMore",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Failed to backup %s apps including %s",
+		"@_name": "cannotBackupDetails",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Failed to restore %s",
+		"@_name": "cannotRestoreCount1"
+	},
+	{
+		"#text": "Failed to restore %s and %s",
+		"@_name": "cannotRestoreCount2",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Failed to restore %d apps/settings including %s and %s",
+		"@_name": "cannotRestoreCount3",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Failed to restore %d apps including %s and %s",
+		"@_name": "cannotRestoreCountMore",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Signature certificate coding error. Please reinstall",
+		"@_name": "certificate_encoding"
+	},
+	{
+		"#text": "View",
+		"@_name": "check"
+	},
+	{
+		"#text": "Checking apps",
+		"@_name": "check_app"
+	},
+	{
+		"#text": "Check failed, tap to retry",
+		"@_name": "check_app_error_tip"
+	},
+	{
+		"#text": "No app need to be backup",
+		"@_name": "check_app_result_0_tip"
+	},
+	{
+		"#text": "No app need to be backed up and another %d cannot be backed up",
+		"@_name": "check_app_result_1_tip"
+	},
+	{
+		"#text": "No app is selected to backup",
+		"@_name": "check_app_result_2_tip"
+	},
+	{
+		"#text": "No app selected to backup and another %d cannot be backed up",
+		"@_name": "check_app_result_3_tip"
+	},
+	{
+		"#text": "Have chosen to backup %d",
+		"@_name": "check_app_result_4_tip"
+	},
+	{
+		"#text": "%d apps selected to backup and another %d cannot be backed up",
+		"@_name": "check_app_result_5_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Checking backup-available apps: %d / %d",
+		"@_name": "check_spec_app",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Checking",
+		"@_name": "checking_text"
+	},
+	{
+		"#text": "Clear now",
+		"@_name": "cleanNow"
+	},
+	{
+		"#text": ", tap to view",
+		"@_name": "clickToSee"
+	},
+	{
+		"#text": "\", \"",
+		"@_name": "comma"
+	},
+	{
+		"#text": "Done",
+		"@_name": "complete"
+	},
+	{
+		"#text": "Package conflict. Please try reinstalling",
+		"@_name": "conflicting_provider"
+	},
+	{
+		"#text": "Unable to access external storage. Please try rebooting",
+		"@_name": "container_error"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continue_backup"
+	},
+	{
+		"#text": "Continue to ignore",
+		"@_name": "continue_ignore"
+	},
+	{
+		"#text": "Go on to exit",
+		"@_name": "continue_quit"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continue_restore"
+	},
+	{
+		"#text": "Continue backup",
+		"@_name": "continue_to_backup"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continues"
+	},
+	{
+		"#text": "Backup already exists in the cloud, and will be overwritten if you continue.",
+		"@_name": "cover_backup_tip"
+	},
+	{
+		"#text": "CPU_ABI incompatible",
+		"@_name": "cpu_abi_incompatible"
+	},
+	{
+		"#text": "Restoring \\\"%s\\\"",
+		"@_name": "currentRestore"
+	},
+	{
+		"#text": "Deletion error",
+		"@_name": "del_backup_record_error_tip"
+	},
+	{
+		"#text": "Delete 1 Backup Record",
+		"@_name": "delete_backup_data_tip"
+	},
+	{
+		"#text": "Deleted. Uanble to restore",
+		"@_name": "deleted_app"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "deleting"
+	},
+	{
+		"#text": "To ensure quick backup, third-party apps over 100 MB will be left out",
+		"@_name": "desktopBackupLimit"
+	},
+	{
+		"#text": "Out of space. Please free up space for installation",
+		"@_name": "dexopt"
+	},
+	{
+		"#text": "Error in getting launcher data",
+		"@_name": "download_launcher_data_error"
+	},
+	{
+		"#text": "A package by the same name has been installed. Please uninstall it before reinstalling",
+		"@_name": "duplicate_package"
+	},
+	{
+		"#text": "Duplicate custom permissions (Signature certificate does not match)",
+		"@_name": "duplicate_permission"
+	},
+	{
+		"#text": "Error uploading",
+		"@_name": "errorType0"
+	},
+	{
+		"#text": "No access permission",
+		"@_name": "errorType1"
+	},
+	{
+		"#text": "Error getting MD5 value",
+		"@_name": "errorType2"
+	},
+	{
+		"#text": "Error checking backup status",
+		"@_name": "errorType3"
+	},
+	{
+		"#text": "Package parsing error",
+		"@_name": "errorType4"
+	},
+	{
+		"#text": "App size exceeds 100 MB",
+		"@_name": "errorType5"
+	},
+	{
+		"#text": "Apk file is too large",
+		"@_name": "file_over_volume"
+	},
+	{
+		"#text": "Failed to get cloud storage info. Please try again later",
+		"@_name": "get_volume_error_text"
+	},
+	{
+		"#text": "Restore launcher backup?",
+		"@_name": "ifRestoreDesktopData"
+	},
+	{
+		"#text": "Do not ask me again",
+		"@_name": "ignore"
+	},
+	{
+		"#text": "Ignored",
+		"@_name": "ignore_app"
+	},
+	{
+		"#text": "Ignored",
+		"@_name": "ignored"
+	},
+	{
+		"#text": "Give up ignored apps when failing to back them up",
+		"@_name": "ignored_app_tip"
+	},
+	{
+		"#text": "Signature certificate does not match. Please uninstall and then reinstall",
+		"@_name": "inconsistent_certificates"
+	},
+	{
+		"#text": "Installation stopped",
+		"@_name": "install_aborted"
+	},
+	{
+		"#text": "App unable to perform action",
+		"@_name": "install_method_invoke_failed"
+	},
+	{
+		"#text": "Installation successful",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Installing %s",
+		"@_name": "installing_formatted"
+	},
+	{
+		"#text": "Out of storage. Please free up space for installation",
+		"@_name": "insufficient_storage"
+	},
+	{
+		"#text": "Internal system error. Please try rebooting",
+		"@_name": "internal_error"
+	},
+	{
+		"#text": "Invalid package. Please reinstall",
+		"@_name": "invalid_apk"
+	},
+	{
+		"#text": "Invalid installation path. Please reinstall",
+		"@_name": "invalid_install_location"
+	},
+	{
+		"#text": "Invalid APK path. Please reinstall",
+		"@_name": "invalid_uri"
+	},
+	{
+		"#text": "just now",
+		"@_name": "just_now"
+	},
+	{
+		"#text": "Home screen backup",
+		"@_name": "launcherBackup"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "launcherBackupCancel"
+	},
+	{
+		"#text": "Launcher backup failed",
+		"@_name": "launcherBackupFailed"
+	},
+	{
+		"#text": "Pause launcher backup",
+		"@_name": "launcherBackupPause"
+	},
+	{
+		"#text": "Launcher Backup",
+		"@_name": "launcherBackupStopped"
+	},
+	{
+		"#text": "Home Screen Backup",
+		"@_name": "launcherSync"
+	},
+	{
+		"#text": "Auto-backup apps and layout of launcher when connected to WLAN",
+		"@_name": "launcherSyncTip"
+	},
+	{
+		"#text": "Launcher Layout",
+		"@_name": "launcher_layout"
+	},
+	{
+		"#text": "Restoring",
+		"@_name": "launcher_restoring"
+	},
+	{
+		"#text": "Restorable launcher backup found in the cloud. Tap to view",
+		"@_name": "launcher_start_notifition_subtitle"
+	},
+	{
+		"#text": "Home screen restore",
+		"@_name": "launcher_start_notifition_title"
+	},
+	{
+		"#text": "Current",
+		"@_name": "launcher_this_device"
+	},
+	{
+		"#text": "Error getting launcher backup data",
+		"@_name": "loadRestoreDataError"
+	},
+	{
+		"#text": "Error loading. Tap to reload",
+		"@_name": "load_account_error"
+	},
+	{
+		"#text": "Failed to load backup info. Please tap to retry",
+		"@_name": "load_device_error"
+	},
+	{
+		"#text": "Loading failed. Tap to retry",
+		"@_name": "load_error_retry_tip"
+	},
+	{
+		"#text": "Loading...",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Loading backup list",
+		"@_name": "loading_backup_data"
+	},
+	{
+		"#text": "Restoring or backing up locally. Please wait",
+		"@_name": "localRestoreLockTip"
+	},
+	{
+		"#text": "Installed app",
+		"@_name": "local_app"
+	},
+	{
+		"#text": "Account logged out, launcher backup stopped",
+		"@_name": "logoutTip"
+	},
+	{
+		"#text": "Manage cloud storage",
+		"@_name": "manage_storage_text"
+	},
+	{
+		"#text": "Unable to find manifest file. Please try reinstalling",
+		"@_name": "manifest_empty"
+	},
+	{
+		"#text": "Error in app manifest file structure. Please try reinstalling",
+		"@_name": "manifest_malformed"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Unable to access storage. Please try rebooting",
+		"@_name": "media_unavailable"
+	},
+	{
+		"#text": "Package contains features not supported by current system",
+		"@_name": "missing_feature"
+	},
+	{
+		"#text": "Invalid dependent package. Please try installing Google Services",
+		"@_name": "missing_shared_library"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "network_settings"
+	},
+	{
+		"#text": "System version higher than that required by package. Please try install a higher version",
+		"@_name": "newer_sdk"
+	},
+	{
+		"#text": "No apps to restore",
+		"@_name": "noAppsToRestore"
+	},
+	{
+		"#text": "Out of storage. Unable to restore",
+		"@_name": "noEnoughVolume"
+	},
+	{
+		"#text": "App installed already. Pause from next app in line?",
+		"@_name": "noNeedToRestore_tip"
+	},
+	{
+		"#text": "No WLAN connection",
+		"@_name": "noWifi"
+	},
+	{
+		"#text": "No WLAN connection. Enable now?",
+		"@_name": "noWifiTip"
+	},
+	{
+		"#text": "Not backed up",
+		"@_name": "no_backup"
+	},
+	{
+		"#text": "No Backup Data",
+		"@_name": "no_backup_data"
+	},
+	{
+		"#text": "Nonbackup",
+		"@_name": "no_backup_label"
+	},
+	{
+		"#text": "Unable to find signature certificate. Please try reinstalling",
+		"@_name": "no_certificates"
+	},
+	{
+		"#text": "No data",
+		"@_name": "no_data"
+	},
+	{
+		"#text": "No matched native libray of CPU framework",
+		"@_name": "no_matching_abis"
+	},
+	{
+		"#text": "No native libraries",
+		"@_name": "no_native_libraries"
+	},
+	{
+		"#text": "Network connection failed. Please tap to retry.",
+		"@_name": "no_network"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "no_network_tips"
+	},
+	{
+		"#text": "No app selected to backup. Continue?",
+		"@_name": "no_selected_backup_apps_tip"
+	},
+	{
+		"#text": "No process-sharing app. Install dependent app first",
+		"@_name": "no_shared_user"
+	},
+	{
+		"#text": "No WLAN connection. Please check your network settings",
+		"@_name": "no_wifi_tip"
+	},
+	{
+		"#text": "Not an APK file. Please try reinstalling",
+		"@_name": "not_apk"
+	},
+	{
+		"#text": "Ignore no more",
+		"@_name": "not_ignored"
+	},
+	{
+		"#text": "Action not supported",
+		"@_name": "not_support_operation"
+	},
+	{
+		"#text": "Notification &amp; status bar",
+		"@_name": "notification_status_bar_option"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Outdated system version. Please update system before installing.",
+		"@_name": "older_sdk"
+	},
+	{
+		"#text": "Backup via WLAN only",
+		"@_name": "onlyWifiWorkCanBackupDesktop"
+	},
+	{
+		"#text": "Gesture wakeup, SmartTouch",
+		"@_name": "option_assist_sub_title"
+	},
+	{
+		"#text": "Checking backup apps",
+		"@_name": "option_check_app_tip_sub_title"
+	},
+	{
+		"#text": "Notification management, lock screen, status bar",
+		"@_name": "option_notify_state_sub_title"
+	},
+	{
+		"#text": "Themes, wallpapers, fonts",
+		"@_name": "option_personal_sub_title"
+	},
+	{
+		"#text": "Do not backup apps over 100 MB",
+		"@_name": "over_volume_app"
+	},
+	{
+		"#text": "Not backed up",
+		"@_name": "over_volume_title"
+	},
+	{
+		"#text": "Package changed. Please reinstall",
+		"@_name": "package_changed"
+	},
+	{
+		"#text": "An package by the same name is being downloaded",
+		"@_name": "package_downloading"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "pause"
+	},
+	{
+		"#text": "\\\"%s\\\" restore paused",
+		"@_name": "pauseRestore"
+	},
+	{
+		"#text": "App installation in progress. Pause restore from next app in line?",
+		"@_name": "pauseRestore_tip"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "pause_backup"
+	},
+	{
+		"#text": "\"Can't pause an installing app\"",
+		"@_name": "pause_invalid_with_installing_app_tip"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "pause_restore"
+	},
+	{
+		"#text": "Personal",
+		"@_name": "personal_option"
+	},
+	{
+		"#text": "Preparing for backup",
+		"@_name": "prepare_backup"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "reDownload"
+	},
+	{
+		"#text": "Tap to retry",
+		"@_name": "regetRestoreDb"
+	},
+	{
+		"#text": "Dependenct package missing. Please try installing Google Services",
+		"@_name": "replace_couldnt_delete"
+	},
+	{
+		"#text": "Restore",
+		"@_name": "restore"
+	},
+	{
+		"#text": "Error restoring launcher",
+		"@_name": "restoreDesktopException"
+	},
+	{
+		"#text": "Restore Launcher",
+		"@_name": "restoreLauncher"
+	},
+	{
+		"#text": "Restore complete",
+		"@_name": "restoreLauncherCompleted"
+	},
+	{
+		"#text": "Failed to restore launcher layout",
+		"@_name": "restoreLauncherError"
+	},
+	{
+		"#text": "Restore failed",
+		"@_name": "restoreLauncherFailed"
+	},
+	{
+		"#text": "Pause restore",
+		"@_name": "restoreLauncherPuase"
+	},
+	{
+		"#text": "Restore successful",
+		"@_name": "restoreLauncherSuc"
+	},
+	{
+		"#text": "Parsing launcher backup data",
+		"@_name": "restore_analyse_launcher_data"
+	},
+	{
+		"#text": "Restore cancelled",
+		"@_name": "restore_canceled"
+	},
+	{
+		"#text": "Canceling restore",
+		"@_name": "restore_cancelling"
+	},
+	{
+		"#text": "Getting data",
+		"@_name": "restore_download_launcher_data"
+	},
+	{
+		"#text": "Failed to install some apps. Exit restore?",
+		"@_name": "restore_error_tip"
+	},
+	{
+		"#text": "Restore record",
+		"@_name": "restore_exist_data"
+	},
+	{
+		"#text": "Restore failed",
+		"@_name": "restore_failed"
+	},
+	{
+		"#text": "Failed to restore launcher. Exit restore?",
+		"@_name": "restore_launcher_error_tip"
+	},
+	{
+		"#text": "Launcher backup data error",
+		"@_name": "restore_launhcer_data_error"
+	},
+	{
+		"#text": "Restore paused backup",
+		"@_name": "restore_paused"
+	},
+	{
+		"#text": "Restore failed due to server error. Please try later",
+		"@_name": "restore_serve_error"
+	},
+	{
+		"#text": "restore stopped",
+		"@_name": "restore_stopped"
+	},
+	{
+		"#text": "Restore successful",
+		"@_name": "restore_success"
+	},
+	{
+		"#text": "Restore completed. %d app(s) restored including %d new one(s)",
+		"@_name": "restore_success_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Restore completed. %d item(s) restored including %d new app(s)",
+		"@_name": "restore_success_message_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Restore completed. %d item(s) restored including no new apps",
+		"@_name": "restore_success_no_new_tip"
+	},
+	{
+		"#text": "Restoring",
+		"@_name": "restoring"
+	},
+	{
+		"#text": "Restoring App",
+		"@_name": "restoring_app"
+	},
+	{
+		"#text": "Restoring launcher layout",
+		"@_name": "restoring_launcher"
+	},
+	{
+		"#text": "Restoring, please wait %d / %d",
+		"@_name": "restoring_tip",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading Home screen icons",
+		"@_name": "restroe_download_app_icons"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "retry"
+	},
+	{
+		"#text": "Retry all",
+		"@_name": "retry_all"
+	},
+	{
+		"#text": "Retry %d",
+		"@_name": "retry_count"
+	},
+	{
+		"#text": "Retry failed items",
+		"@_name": "retry_failed_app"
+	},
+	{
+		"#text": "All",
+		"@_name": "select_all"
+	},
+	{
+		"#text": "Select the apps you want to backup and the desktop layout will be backed up also",
+		"@_name": "select_backup_apps_tip"
+	},
+	{
+		"#text": "None",
+		"@_name": "select_none"
+	},
+	{
+		"#text": "No app is selected to restore",
+		"@_name": "select_restore_app_count_0_tip"
+	},
+	{
+		"#text": "No Apps need to be restored",
+		"@_name": "select_restore_app_count_1_tip"
+	},
+	{
+		"#text": "Selected %d apps to restore",
+		"@_name": "select_restore_app_count_tip"
+	},
+	{
+		"#text": "Select the apps you want to restore and the desktop layout will be restored also",
+		"@_name": "select_restore_apps_tip"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "settings_label"
+	},
+	{
+		"#text": "Signature does not match that of the shared process",
+		"@_name": "share_user_incompatible"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "skip"
+	},
+	{
+		"#text": "Start restore",
+		"@_name": "start_restore"
+	},
+	{
+		"#text": "Start",
+		"@_name": "start_text"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "stop"
+	},
+	{
+		"#text": "Stop Restoring",
+		"@_name": "stop_restore"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "stop_restore_limit"
+	},
+	{
+		"#text": "For test only. Please install official version",
+		"@_name": "test_only"
+	},
+	{
+		"#text": "Loading error. Tap to reload",
+		"@_name": "tip_load_error"
+	},
+	{
+		"#text": "Running process changed",
+		"@_name": "uid_changed"
+	},
+	{
+		"#text": "Unknown error. Please try reinstalling",
+		"@_name": "unexpected_exception"
+	},
+	{
+		"#text": "Update package incompatible. Please uninstall and then reinstall",
+		"@_name": "update_incompatible"
+	},
+	{
+		"#text": "Update package incompatible. Please update again",
+		"@_name": "update_pack_incompatible"
+	},
+	{
+		"#text": "%d app(s) updated",
+		"@_name": "updatedApps"
+	},
+	{
+		"#text": "No WLAN connection. Upload launcher data when connected",
+		"@_name": "uploadNoWifiTip"
+	},
+	{
+		"#text": "Uploading launcher data",
+		"@_name": "uploadingDesktopData"
+	},
+	{
+		"#text": "Insufficient permissions",
+		"@_name": "user_restricted"
+	},
+	{
+		"#text": "Package verification failed. Please reinstall",
+		"@_name": "verification_failure"
+	},
+	{
+		"#text": "Package verification timed out. Please reinstall",
+		"@_name": "verification_timeout"
+	},
+	{
+		"#text": "To downgrade, please uninstall it before reinstalling",
+		"@_name": "version_downgrade"
+	},
+	{
+		"#text": "Cloud service storage insufficient. Unable to backup data to the cloud",
+		"@_name": "volume_over_tip_text"
+	},
+	{
+		"#text": "Waiting to backup",
+		"@_name": "wait_backup"
+	},
+	{
+		"#text": "Waiting to install",
+		"@_name": "wait_isntall"
+	},
+	{
+		"#text": "Wait to restore",
+		"@_name": "wait_restore"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "wait_tip"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Only over Wi-Fi",
+		"@_name": "autoUpdateTip"
+	},
+	{
+		"#text": "Purchase canceled",
+		"@_name": "cancelled_purchase"
+	},
+	{
+		"#text": "Canceling restore",
+		"@_name": "cancelling_restore"
+	},
+	{
+		"#text": "Unable to restore %d app(s) of %s",
+		"@_name": "cannotRestore",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "App restore error",
+		"@_name": "cannotRestore2"
+	},
+	{
+		"#text": "Find wrong backup file, fail to backup",
+		"@_name": "cannotRestore3"
+	},
+	{
+		"#text": "%s",
+		"@_name": "content_title_with_subtitle",
+		"@_formatted": "false",
+		"small": {
+			"font": {
+				"#text": "%s",
+				"@_color": "gray"
+			}
+		}
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "delete_confirm_result_cancel"
+	},
+	{
+		"#text": "Yes, I am sure",
+		"@_name": "delete_confirm_result_delete"
+	},
+	{
+		"#text": "No, I want rollback my data",
+		"@_name": "delete_confirm_result_rollback"
+	},
+	{
+		"#text": "Download Paused",
+		"@_name": "download_pause"
+	},
+	{
+		"#text": "Size: %s",
+		"@_name": "fileSize"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "9.0.0",
+		"@_name": "funambol_version_code"
+	},
+	{
+		"#text": "Hello blank fragment",
+		"@_name": "hello_blank_fragment"
+	},
+	{
+		"#text": "%s successfully installed",
+		"@_name": "install_success_formatted"
+	},
+	{
+		"#text": "%s successfully installed",
+		"@_name": "install_success_formatted2"
+	},
+	{
+		"#text": "Cloud Backup requests one permission for internet.",
+		"@_name": "internet_authority"
+	},
+	{
+		"#text": "autoBackup",
+		"@_name": "key_auto_backup"
+	},
+	{
+		"#text": "Backing up launcher",
+		"@_name": "launcherBackuping"
+	},
+	{
+		"#text": "Downloading app icons",
+		"@_name": "loadingRestoreDesktopIcon"
+	},
+	{
+		"#text": "Parsing data for launcher restore",
+		"@_name": "loadingRestoreDesktopPre"
+	},
+	{
+		"#text": "Can not get the account message.",
+		"@_name": "login_err_message"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "com.meizu.account",
+		"@_name": "meizu_acount_type"
+	},
+	{
+		"#text": "Failed to restore \\\"%s\\\"",
+		"@_name": "restoreAppFailed"
+	},
+	{
+		"#text": "Retry restore",
+		"@_name": "retryRestore"
+	},
+	{
+		"#text": "Please wait for backup to complete",
+		"@_name": "wait_other_service"
+	}
+]

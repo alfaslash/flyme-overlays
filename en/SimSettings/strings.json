@@ -1,0 +1,310 @@
+[
+	{
+		"#text": "Yes",
+		"@_name": "yes"
+	},
+	{
+		"#text": "No",
+		"@_name": "no"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "okay"
+	},
+	{
+		"#text": "SIM cards changed.",
+		"@_name": "sim_notification_title"
+	},
+	{
+		"#text": "Touch to set up",
+		"@_name": "sim_notification_summary"
+	},
+	{
+		"#text": "ChinaTelecom card inserted in wrong slot",
+		"@_name": "alert_ct_in_wrong_slot_title"
+	},
+	{
+		"#text": "Currently only slot 1 support ChinaTelecom card, if you insert ChinaTelecom card in slot 2, it may be out of service, please re-insert ChinaTelecom card in the right slot.",
+		"@_name": "alert_ct_in_wrong_slot_message"
+	},
+	{
+		"#text": "SMS messages",
+		"@_name": "sms_messages_title"
+	},
+	{
+		"#text": "Ask every time",
+		"@_name": "sim_calls_ask_first_prefs_title"
+	},
+	{
+		"#text": "Selection required",
+		"@_name": "sim_selection_required_pref"
+	},
+	{
+		"#text": "Calls",
+		"@_name": "calls_title"
+	},
+	{
+		"#text": "SIM name",
+		"@_name": "sim_editor_name"
+	},
+	{
+		"#text": "SIM cards",
+		"@_name": "sim_setup_wizard_title"
+	},
+	{
+		"#text": "SIM cards",
+		"@_name": "sim_settings_title"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "sim_settings_summary"
+	},
+	{
+		"#text": "SIM cards have changed",
+		"@_name": "sim_cards_changed_message"
+	},
+	{
+		"#text": "Touch to set activities",
+		"@_name": "sim_cards_changed_message_summary"
+	},
+	{
+		"#text": "Cellular data is unavailable",
+		"@_name": "sim_cellular_data_unavailable"
+	},
+	{
+		"#text": "Touch to select a data SIM",
+		"@_name": "sim_cellular_data_unavailable_summary"
+	},
+	{
+		"#text": "Always use this for calls",
+		"@_name": "sim_calls_always_use"
+	},
+	{
+		"#text": "Select a SIM for data",
+		"@_name": "select_sim_for_data"
+	},
+	{
+		"#text": "Switching data SIM, this may take up to a minute...",
+		"@_name": "data_switch_started"
+	},
+	{
+		"#text": "Call with",
+		"@_name": "select_sim_for_calls"
+	},
+	{
+		"#text": "Select a SIM card",
+		"@_name": "sim_select_card"
+	},
+	{
+		"#text": "SIM %1$d",
+		"@_name": "sim_card_number_title"
+	},
+	{
+		"#text": "SIM empty",
+		"@_name": "sim_slot_empty"
+	},
+	{
+		"#text": "Enter SIM name",
+		"@_name": "sim_name_hint"
+	},
+	{
+		"#text": "SIM slot %1$d",
+		"@_name": "sim_editor_title"
+	},
+	{
+		"#text": "Carrier",
+		"@_name": "sim_editor_carrier"
+	},
+	{
+		"#text": "Number",
+		"@_name": "sim_editor_number"
+	},
+	{
+		"#text": "SIM color",
+		"@_name": "sim_editor_color"
+	},
+	{
+		"#text": "Select SIM card for SMS",
+		"@_name": "sim_card_select_title"
+	},
+	{
+		"#text": "Orange",
+		"@_name": "color_orange"
+	},
+	{
+		"#text": "Color",
+		"@_name": "color_title"
+	},
+	{
+		"#text": "Purple",
+		"@_name": "color_purple"
+	},
+	{
+		"#text": "No SIM cards inserted",
+		"@_name": "sim_no_inserted_msg"
+	},
+	{
+		"#text": "SIM status",
+		"@_name": "sim_status_title"
+	},
+	{
+		"#text": "Call back from default SIM",
+		"@_name": "sim_call_back_title"
+	},
+	{
+		"#text": "SIM for outgoing calls",
+		"@_name": "sim_outgoing_call_title"
+	},
+	{
+		"#text": "Other call settings",
+		"@_name": "sim_other_call_settings"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "cellular_data_title"
+	},
+	{
+		"#text": "Preferred SIM for",
+		"@_name": "sim_pref_divider"
+	},
+	{
+		"#text": "Default 4G/3G Subscription",
+		"@_name": "primary_sub_select_title"
+	},
+	{
+		"#text": "Update preferred SIM card?",
+		"@_name": "sim_preferred_title"
+	},
+	{
+		"#text": "%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?",
+		"@_name": "sim_preferred_message"
+	},
+	{
+		"#text": "Select Data in SIM%1$s",
+		"@_name": "data_switch_warning_title"
+	},
+	{
+		"#text": "You will lose Voice Calling functionality.We do not recommend turning off data. Do you still want to continue?",
+		"@_name": "data_switch_voice_calling_warning_text"
+	},
+	{
+		"#text": "\" is %1$s\"",
+		"@_name": "sim_enabler_summary"
+	},
+	{
+		"#text": "enabled",
+		"@_name": "sim_enabled"
+	},
+	{
+		"#text": "disabled",
+		"@_name": "sim_disabled"
+	},
+	{
+		"#text": "missing or error",
+		"@_name": "sim_missing"
+	},
+	{
+		"#text": "Activating the SIM, are you sure?",
+		"@_name": "sim_enabler_need_enable_sim"
+	},
+	{
+		"#text": "Deactivating the SIM, are you sure?",
+		"@_name": "sim_enabler_need_disable_sim"
+	},
+	{
+		"#text": "Attention",
+		"@_name": "sim_enabler_will_disable_sim_title"
+	},
+	{
+		"#text": "Will disable it and switch to SIM%1$s for data services, are you sure?",
+		"@_name": "sim_enabler_need_switch_data_service"
+	},
+	{
+		"#text": "ERROR, airplane mode is on!",
+		"@_name": "sim_enabler_airplane_on"
+	},
+	{
+		"#text": "ERROR, in call!",
+		"@_name": "sim_enabler_in_call"
+	},
+	{
+		"#text": "\"Error, can't disable all the SIMs\"",
+		"@_name": "sim_enabler_both_inactive"
+	},
+	{
+		"#text": "Activating...",
+		"@_name": "sim_enabler_enabling"
+	},
+	{
+		"#text": "Deactivating...",
+		"@_name": "sim_enabler_disabling"
+	},
+	{
+		"#text": "Successfully Activated.",
+		"@_name": "sub_activate_success"
+	},
+	{
+		"#text": "Activation failed.",
+		"@_name": "sub_activate_failed"
+	},
+	{
+		"#text": "Successfully Deactivated.",
+		"@_name": "sub_deactivate_success"
+	},
+	{
+		"#text": "Deactivation failed.",
+		"@_name": "sub_deactivate_failed"
+	},
+	{
+		"#text": "4G/3G SIM cards switcher is unavailable",
+		"@_name": "lte_switch_unavailable"
+	},
+	{
+		"#text": "Two sim cards are detected, please select the preferred SIM card:",
+		"@_name": "lte_recognize_summary_generic"
+	},
+	{
+		"#text": "The selected sim card will have 3G/4G services with Data subscription.",
+		"@_name": "lte_select_summary_generic"
+	},
+	{
+		"#text": "Set mobile data to the selected SIM card once default 4G/3G SIM card is changed",
+		"@_name": "lte_checkbox_text"
+	},
+	{
+		"#text": "OK",
+		"@_name": "select_ok"
+	},
+	{
+		"#text": "Default 4G/3G SIM card",
+		"@_name": "lte_select_title"
+	},
+	{
+		"#text": "SIM card recognition",
+		"@_name": "lte_recognition_title"
+	},
+	{
+		"#text": "Registration failed",
+		"@_name": "reg_failed"
+	},
+	{
+		"#text": "Default 4G/3G SIM card registration failed, %1$s will be recognized as a 2G SIM card.",
+		"@_name": "reg_failed_msg"
+	},
+	{
+		"#text": "Set",
+		"@_name": "lte_set"
+	},
+	{
+		"#text": "Default 4G/3G SIM card is being set",
+		"@_name": "lte_setting"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "select_cancel"
+	}
+]

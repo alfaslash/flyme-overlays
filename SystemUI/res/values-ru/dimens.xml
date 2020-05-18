@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="mc_native_date_picker_date_head_lunar_date_text_size">0.0sp</dimen>
-    <dimen name="mz_qs_carrier_single_collapsed_size">11.0dip</dimen>
-    <dimen name="mz_qs_carrier_double_collapsed_size">11.0dip</dimen>
-    <dimen name="mz_qs_date_collapsed_size">11.0dip</dimen>
-    <dimen name="mz_qs_date_collapsed_size_landscape">10.0dip</dimen>
-</resources>

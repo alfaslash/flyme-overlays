@@ -1,0 +1,1333 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "app_manager"
+	},
+	{
+		"#text": "Some apps disable night mode by default due to compatibility issues and do not appear in the list below.",
+		"@_name": "app_manager_list_tips"
+	},
+	{
+		"#text": "Some apps disable dark mode by default due to compatibility issues and do not appear in the list below.",
+		"@_name": "app_manager_list_tips_dark"
+	},
+	{
+		"#text": "Common Components",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "btn_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "btn_confirm"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "btn_exit"
+	},
+	{
+		"#text": "Network settings",
+		"@_name": "btn_set_network"
+	},
+	{
+		"#text": "context is null",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "The interval should be at least 1 min",
+		"@_name": "do_not_disturb_time_interval_error_tips"
+	},
+	{
+		"#text": "error is throwed while get token",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "invalid response",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "get token cancel",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "intent need to be handled",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "know_the"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "bubble",
+		"@_name": "mz_wallpaper_category_bubble"
+	},
+	{
+		"#text": "video",
+		"@_name": "mz_wallpaper_category_video"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Allow or disable night mode for specific apps",
+		"@_name": "night_mode_app_manager_summary"
+	},
+	{
+		"#text": "Allow or disable dark mode for specific apps",
+		"@_name": "night_mode_app_manager_summary_dark"
+	},
+	{
+		"#text": "Not now",
+		"@_name": "night_mode_notification_recommend_action_ignore_close"
+	},
+	{
+		"#text": "Not now",
+		"@_name": "night_mode_notification_recommend_action_ignore_open"
+	},
+	{
+		"#text": "Night mode is not advised currently. Disable now?",
+		"@_name": "night_mode_notification_recommend_content_close"
+	},
+	{
+		"#text": "Dark mode is not advised currently. Disable now?",
+		"@_name": "night_mode_notification_recommend_content_close_dark"
+	},
+	{
+		"#text": "Night mode is advised currently. Enable now?",
+		"@_name": "night_mode_notification_recommend_content_open"
+	},
+	{
+		"#text": "Dark mode is advised currently. Enable now?",
+		"@_name": "night_mode_notification_recommend_content_open_dark"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "night_mode_notification_schedule_immeditely_close"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "night_mode_notification_schedule_immeditely_open"
+	},
+	{
+		"#text": "Dark",
+		"@_name": "night_mode_on_off_dark"
+	},
+	{
+		"#text": "Default",
+		"@_name": "night_mode_on_off_light"
+	},
+	{
+		"#text": "Night",
+		"@_name": "night_mode_on_off_night"
+	},
+	{
+		"#text": "Turning off night mode....",
+		"@_name": "night_mode_switch_anim_close"
+	},
+	{
+		"#text": "Turning off dark mode....",
+		"@_name": "night_mode_switch_anim_close_dark"
+	},
+	{
+		"#text": "Turning on night mode...",
+		"@_name": "night_mode_switch_anim_open"
+	},
+	{
+		"#text": "Turning on dark mode...",
+		"@_name": "night_mode_switch_anim_open_dark"
+	},
+	{
+		"#text": "Close",
+		"@_name": "night_mode_time_config_close"
+	},
+	{
+		"#text": "Arrive at set time, switch page takes effect",
+		"@_name": "night_mode_time_config_dialog_title"
+	},
+	{
+		"#text": "Timed night mode",
+		"@_name": "night_mode_time_config_title"
+	},
+	{
+		"#text": "Enable dark mode regularly",
+		"@_name": "night_mode_time_config_title_dark"
+	},
+	{
+		"#text": "Sunset to sunrise",
+		"@_name": "night_mode_time_config_twilight"
+	},
+	{
+		"#text": "Custom time period",
+		"@_name": "night_mode_time_config_user"
+	},
+	{
+		"#text": "No data",
+		"@_name": "no_data"
+	},
+	{
+		"#text": "End Time",
+		"@_name": "pref_title_night_mode_end_time"
+	},
+	{
+		"#text": "Start Time",
+		"@_name": "pref_title_night_mode_start_time"
+	},
+	{
+		"#text": "got null auth token for scope: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "No network connection. Please check your network settings",
+		"@_name": "status_no_network"
+	},
+	{
+		"#text": "sync get token time out",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Dark Mode",
+		"@_name": "title_activity_dark_mode_settings"
+	},
+	{
+		"#text": "Night Mode",
+		"@_name": "title_activity_night_mode_settings"
+	},
+	{
+		"#text": "Translate",
+		"@_name": "translation"
+	},
+	{
+		"#text": "Arabic",
+		"@_name": "translation_baidu_language_ara"
+	},
+	{
+		"#text": "Bulgarian",
+		"@_name": "translation_baidu_language_bul"
+	},
+	{
+		"#text": "Traditional Chinese",
+		"@_name": "translation_baidu_language_cht"
+	},
+	{
+		"#text": "Czech",
+		"@_name": "translation_baidu_language_cs"
+	},
+	{
+		"#text": "Danish",
+		"@_name": "translation_baidu_language_dan"
+	},
+	{
+		"#text": "German",
+		"@_name": "translation_baidu_language_de"
+	},
+	{
+		"#text": "Greek",
+		"@_name": "translation_baidu_language_el"
+	},
+	{
+		"#text": "English",
+		"@_name": "translation_baidu_language_en"
+	},
+	{
+		"#text": "Estonian",
+		"@_name": "translation_baidu_language_est"
+	},
+	{
+		"#text": "Finnish",
+		"@_name": "translation_baidu_language_fin"
+	},
+	{
+		"#text": "French",
+		"@_name": "translation_baidu_language_fra"
+	},
+	{
+		"#text": "Hungarian",
+		"@_name": "translation_baidu_language_hu"
+	},
+	{
+		"#text": "Italian",
+		"@_name": "translation_baidu_language_it"
+	},
+	{
+		"#text": "Japanese",
+		"@_name": "translation_baidu_language_jp"
+	},
+	{
+		"#text": "Korean",
+		"@_name": "translation_baidu_language_kor"
+	},
+	{
+		"#text": "Dutch",
+		"@_name": "translation_baidu_language_nl"
+	},
+	{
+		"#text": "Polish",
+		"@_name": "translation_baidu_language_pl"
+	},
+	{
+		"#text": "Portuguese",
+		"@_name": "translation_baidu_language_pt"
+	},
+	{
+		"#text": "Romanian",
+		"@_name": "translation_baidu_language_rom"
+	},
+	{
+		"#text": "Russian",
+		"@_name": "translation_baidu_language_ru"
+	},
+	{
+		"#text": "Slovenian",
+		"@_name": "translation_baidu_language_slo"
+	},
+	{
+		"#text": "Spanish",
+		"@_name": "translation_baidu_language_spa"
+	},
+	{
+		"#text": "Swedish",
+		"@_name": "translation_baidu_language_swe"
+	},
+	{
+		"#text": "Thai",
+		"@_name": "translation_baidu_language_th"
+	},
+	{
+		"#text": "Classical Chinese",
+		"@_name": "translation_baidu_language_wyw"
+	},
+	{
+		"#text": "Cantonese",
+		"@_name": "translation_baidu_language_yue"
+	},
+	{
+		"#text": "Simplified Chinese",
+		"@_name": "translation_baidu_language_zh"
+	},
+	{
+		"#text": "Copy translation",
+		"@_name": "translation_copy"
+	},
+	{
+		"#text": "Replicated",
+		"@_name": "translation_copy_successed"
+	},
+	{
+		"#text": "Explanation",
+		"@_name": "translation_detail"
+	},
+	{
+		"#text": "Failed to translate. Please try again later",
+		"@_name": "translation_disable_text"
+	},
+	{
+		"#text": "This language not supported",
+		"@_name": "translation_language_not_supported"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "translation_loading_text"
+	},
+	{
+		"#text": "Source",
+		"@_name": "translation_original_text"
+	},
+	{
+		"#text": "Automatically detected: %s",
+		"@_name": "translation_original_title_tip"
+	},
+	{
+		"#text": "Network error. Try later",
+		"@_name": "translation_request_error"
+	},
+	{
+		"#text": "Provided by Baidu Translate",
+		"@_name": "translation_source"
+	},
+	{
+		"#text": "Translation",
+		"@_name": "translation_translation"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "unknown error from sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "requests too frequently",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Ramune soda",
+		"@_name": "user_aware_wallpaper_bubble"
+	},
+	{
+		"#text": "Ramune soda",
+		"@_name": "user_aware_wallpaper_bubble_description"
+	},
+	{
+		"#text": "Coffee soda",
+		"@_name": "user_aware_wallpaper_bubble_description_v2"
+	},
+	{
+		"#text": "Matcha latte",
+		"@_name": "user_aware_wallpaper_bubble_description_v3"
+	},
+	{
+		"#text": "Peach Oolong",
+		"@_name": "user_aware_wallpaper_bubble_description_v4"
+	},
+	{
+		"#text": "Blueberry soda",
+		"@_name": "user_aware_wallpaper_bubble_description_v5"
+	},
+	{
+		"#text": "Coffee soda",
+		"@_name": "user_aware_wallpaper_bubble_v2"
+	},
+	{
+		"#text": "Matcha latte",
+		"@_name": "user_aware_wallpaper_bubble_v3"
+	},
+	{
+		"#text": "Peach Oolong",
+		"@_name": "user_aware_wallpaper_bubble_v4"
+	},
+	{
+		"#text": "Blueberry soda",
+		"@_name": "user_aware_wallpaper_bubble_v5"
+	},
+	{
+		"#text": "The wave",
+		"@_name": "user_aware_wallpaper_video_description_v1"
+	},
+	{
+		"#text": "Deep diving",
+		"@_name": "user_aware_wallpaper_video_description_v2"
+	},
+	{
+		"#text": "The ripple",
+		"@_name": "user_aware_wallpaper_video_description_v3"
+	},
+	{
+		"#text": "The wave",
+		"@_name": "user_aware_wallpaper_video_v1"
+	},
+	{
+		"#text": "Deep diving",
+		"@_name": "user_aware_wallpaper_video_v2"
+	},
+	{
+		"#text": "The ripple",
+		"@_name": "user_aware_wallpaper_video_v3"
+	}
+]

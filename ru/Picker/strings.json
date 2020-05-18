@@ -1,0 +1,1517 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Изменить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Автор",
+		"@_name": "about_author"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Экранный помощник",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Энциклопедия",
+		"@_name": "baidu_wikipedia"
+	},
+	{
+		"#text": "Профиль",
+		"@_name": "baike_word_intro"
+	},
+	{
+		"#text": "Покупка онлайн",
+		"@_name": "book_buy_online"
+	},
+	{
+		"#text": "Детали книги",
+		"@_name": "book_detail"
+	},
+	{
+		"#text": "OK",
+		"@_name": "btn_ok"
+	},
+	{
+		"#text": "Запустить",
+		"@_name": "btn_text_start_now"
+	},
+	{
+		"#text": "OK",
+		"@_name": "btn_tips_confirm"
+	},
+	{
+		"#text": "Энциклопедии",
+		"@_name": "btn_txt_baike"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "btn_txt_copy"
+	},
+	{
+		"#text": "Открыть карту",
+		"@_name": "btn_txt_map"
+	},
+	{
+		"#text": "Связанные песни",
+		"@_name": "btn_txt_musics"
+	},
+	{
+		"#text": "Связанные новости",
+		"@_name": "btn_txt_news"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "btn_txt_phone"
+	},
+	{
+		"#text": "Детали сцены",
+		"@_name": "btn_txt_scene"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "btn_txt_search"
+	},
+	{
+		"#text": "Выбрать все",
+		"@_name": "btn_txt_select_all"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "btn_txt_share"
+	},
+	{
+		"#text": "Перевод",
+		"@_name": "btn_txt_translation"
+	},
+	{
+		"#text": "Снять выделение",
+		"@_name": "btn_txt_unselect_all"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Нет приложений для выполнения данного действия",
+		"@_name": "cannot_find_app_for_this_service"
+	},
+	{
+		"#text": "Загрузка ..",
+		"@_name": "card_loading_tips"
+	},
+	{
+		"#text": "Предварительный просмотр не найден",
+		"@_name": "card_no_data"
+	},
+	{
+		"#text": "Просмотр настроек сети",
+		"@_name": "check_setting"
+	},
+	{
+		"#text": "Избранные",
+		"@_name": "collected"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "collection"
+	},
+	{
+		"#text": "Текущая страница",
+		"@_name": "collection_current_page"
+	},
+	{
+		"#text": "Скопированный",
+		"@_name": "copy_success"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "download"
+	},
+	{
+		"#text": "Сохранено в альбом",
+		"@_name": "download_success"
+	},
+	{
+		"#text": "Загруженные",
+		"@_name": "downloaded"
+	},
+	{
+		"#text": "Нет электронной почты",
+		"@_name": "email_is_empty"
+	},
+	{
+		"#text": "Выбрано %1$s файлов, всего %2$s Мб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "￥%1$s",
+		"@_name": "goods_origin_price"
+	},
+	{
+		"#text": "Групповые предложения",
+		"@_name": "group_purchase_info"
+	},
+	{
+		"#text": "Найдите фильмы, людей пароли и т.д. продолжительным нажатием на экран",
+		"@_name": "guide_notifycation_content"
+	},
+	{
+		"#text": "Нажмите на экран и подержите, чтобы получить больше информационных услуг",
+		"@_name": "guide_notifycation_title"
+	},
+	{
+		"#text": "Просроченная ссылка",
+		"@_name": "invalid_sign"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Выберите текст",
+		"@_name": "item_text_selection"
+	},
+	{
+		"#text": "Нет ссылки",
+		"@_name": "link_is_null"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Позже",
+		"@_name": "map_todo"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дн. спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дн. назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день после",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "За 1 день до",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "merchant_contact"
+	},
+	{
+		"#text": "Перейти к отелю",
+		"@_name": "merchant_navigation_hotel"
+	},
+	{
+		"#text": "Перейти к ресторану",
+		"@_name": "merchant_navigation_restaurant"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "…",
+		"@_name": "movie_card_text_more"
+	},
+	{
+		"#text": "Подробности",
+		"@_name": "movie_douban_detail"
+	},
+	{
+		"#text": "Купить билет",
+		"@_name": "movie_online_ticket"
+	},
+	{
+		"#text": "Поезд",
+		"@_name": "movie_prevue"
+	},
+	{
+		"#text": "Последние",
+		"@_name": "movie_relative_movie"
+	},
+	{
+		"#text": "Проигрывание по сети",
+		"@_name": "movie_watch_online"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Никогда не спрашивать после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивают %3$d разрешение(ий) для %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s нужны %2$s %3$d разрешения",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Запрос следующих разрешений",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Блокировать",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включить Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включить сотовую связь",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включить Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после обмена",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Ещё разрешить",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Ошибка сети. Пожалуйста, повторите.",
+		"@_name": "network_error"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "next_step"
+	},
+	{
+		"#text": "Извините, не могу прочитать ключевые слова",
+		"@_name": "no_data"
+	},
+	{
+		"#text": "Нет сетевого подключения. Пожалуйста, проверьте настройки сети",
+		"@_name": "no_network"
+	},
+	{
+		"#text": "Элемент не распознан",
+		"@_name": "not_recognize_item"
+	},
+	{
+		"#text": "Распознавание не поддерживается",
+		"@_name": "not_support_recognize"
+	},
+	{
+		"#text": "Совместное использование не поддерживается",
+		"@_name": "not_support_share"
+	},
+	{
+		"#text": "Pinyin: %1$s",
+		"@_name": "obscure_word_pronunciation"
+	},
+	{
+		"#text": "Радикалы: %1$s",
+		"@_name": "obscure_word_radical"
+	},
+	{
+		"#text": "Штрихи: %1$s",
+		"@_name": "obscure_word_stroke"
+	},
+	{
+		"#text": "Открыть карты",
+		"@_name": "open_map"
+	},
+	{
+		"#text": "Buy via photo",
+		"@_name": "pai_li_tao"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "personage_weibo"
+	},
+	{
+		"#text": "Нет номера телефона",
+		"@_name": "phone_is_empty"
+	},
+	{
+		"#text": "Длительное нажатие по тексту / изображению в приложении может распознать его ключевые моменты, такие как ссылки на фильм, знаменитостей и Taobao, и предоставить прямой доступ к этой информации и услугам.",
+		"@_name": "picker_desc"
+	},
+	{
+		"#text": "Стиль результата",
+		"@_name": "picker_display_style_text"
+	},
+	{
+		"#text": "Включен",
+		"@_name": "picker_start"
+	},
+	{
+		"#text": "\"1. Для анализа контента, охватываемого долго нажатой областью пользователя, сервис должен получить доступ к сети и собрать и обработать следующие данные во время своего выполнения:\"",
+		"@_name": "policy_content1"
+	},
+	{
+		"#text": "\"а. Чтобы проанализировать значение каждого сегмента в тексте, мы можем собирать и обрабатывать содержимое в тексте с длинным нажатием.\n    б. Чтобы увеличить положительную корреляцию распознанных результатов, мы можем собирать и обрабатывать имя интерфейса приложения, когда оно долго нажималось.\n    в. Поскольку распознанные результаты необходимо пересматривать в соответствии с географическим местоположением мы можем собирать и обрабатывать текущее местоположение при длительном нажатии.\n    д. Чтобы избежать конфликтов, а именно, чтобы защитить распознанные результаты от конфликтующих сцен, мы можем собирать и обрабатывать при длительном нажатии состояние системы.\"",
+		"@_name": "policy_content2"
+	},
+	{
+		"#text": "2. Результаты анализируемого контента включают, помимо прочего, следующие типы данных: фильмы, книги, магазины, местоположение, имена знаменитостей, товары и т.д.",
+		"@_name": "policy_content3"
+	},
+	{
+		"#text": "3. Во время работы сервис захватывает текущий экран. Снимки экрана используются для распознавания текста, визуального представления и обмена между пользователями. Этот процесс выполняется только в автономном режиме на терминальном устройстве и не будет загружен в облако.",
+		"@_name": "policy_content4"
+	},
+	{
+		"#text": "4. Чтобы распознать результаты, такие как фильмы, книги и т.д. из текста, служба будет десенсибилизировать личную информацию в тексте, а затем идентифицировать ее содержание. Вы можете отключить услугу, чтобы остановить передачу текста в Настройки> Aicy> Aicy Touch.",
+		"@_name": "policy_content5"
+	},
+	{
+		"#text": "Чтобы использовать Flyme Aicy Touch (далее \"Услуга\"), вы должны прочитать и соблюдать настоящие Условия использования Aicy Touch (далее \"Условия\"). При длительном нажатии пользователем области на экране устройства сервис идентифицирует, анализирует и прогнозирует контент области нажатия с использованием таких технологий, как оптическое распознавание символов и естественная обработка языка, и объединяет информацию и услуги, связанные с контентом. Агрегирование позволяет пользователю быстро и эффективно получать необходимую информацию и услуги.",
+		"@_name": "policy_content_head"
+	},
+	{
+		"#text": "Правила обслуживания и Политика конфиденциальности",
+		"@_name": "policy_content_head1"
+	},
+	{
+		"#text": "Запуская службу Aicy Touch, вы соглашаетесь с Условиями, Условиями использования Flyme и Политикой конфиденциальности.",
+		"@_name": "policy_content_tail"
+	},
+	{
+		"#text": "Условия использования экранного помощника",
+		"@_name": "policy_name"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "policy_not_open_now"
+	},
+	{
+		"#text": "Нажмите здесь, чтобы увидеть результаты идентификации",
+		"@_name": "popup_window_tips"
+	},
+	{
+		"#text": "QQ друзья",
+		"@_name": "qq_mobile_friends"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "qq_mobile_name"
+	},
+	{
+		"#text": "Читать онлайн",
+		"@_name": "read_online"
+	},
+	{
+		"#text": "Распознать изображение",
+		"@_name": "recognize_picture_text"
+	},
+	{
+		"#text": "Распознать изображение",
+		"@_name": "recognize_type_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_key_string"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "WeChat stickers",
+		"@_name": "send_emoji_wx_friend"
+	},
+	{
+		"#text": "Отправить на ПК",
+		"@_name": "send_pc_myself"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "send_qq_friend"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "send_wx_friend"
+	},
+	{
+		"#text": "Чтобы избежать ложных прикосновений, Flyme запрещает запуск функции распознавания экрана при определенных условиях. Кроме того, из-за различных способов разработки приложений, смарт-экран не может быть запущен на отдельных страницах в настоящее время.",
+		"@_name": "setting_bottom_desc"
+	},
+	{
+		"#text": "Узнать больше",
+		"@_name": "setting_more"
+	},
+	{
+		"#text": "Умение",
+		"@_name": "setting_more_desc1"
+	},
+	{
+		"#text": "Диапазон распознавания",
+		"@_name": "setting_more_desc2"
+	},
+	{
+		"#text": "Содержимое изображения может быть распознано при просмотре",
+		"@_name": "setting_more_picture_desc"
+	},
+	{
+		"#text": "Текст",
+		"@_name": "setting_more_tab1"
+	},
+	{
+		"#text": "Изображение",
+		"@_name": "setting_more_tab2"
+	},
+	{
+		"#text": "Страница",
+		"@_name": "setting_more_tab3"
+	},
+	{
+		"#text": "Ключевую информацию в тексте можно определить по длине текста",
+		"@_name": "setting_more_text_desc"
+	},
+	{
+		"#text": "При длительном просмотре интернета \\\"Веб-контент может быть распознан\\\"",
+		"@_name": "setting_more_webpage_desc"
+	},
+	{
+		"#text": "Сетевые настройки",
+		"@_name": "setting_network"
+	},
+	{
+		"#text": "Длительное нажатие в течение 0,5 секунд",
+		"@_name": "setting_trigger_title1"
+	},
+	{
+		"#text": "Длительное нажатие в течение 1 секунды",
+		"@_name": "setting_trigger_title2"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share_choose_title"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share_to"
+	},
+	{
+		"#text": "Не удалось распознать. Пожалуйста, попробуйте позже.",
+		"@_name": "shitu_recognize_fail"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "shrink_style_text"
+	},
+	{
+		"#text": "Запустить",
+		"@_name": "start_experience"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Развернуть",
+		"@_name": "stretch_style_text"
+	},
+	{
+		"#text": "Обратная связь",
+		"@_name": "suggestion_name"
+	},
+	{
+		"#text": "Открыть на Taobao",
+		"@_name": "taobao_open"
+	},
+	{
+		"#text": "Открыть на Tmall",
+		"@_name": "tianmao_open"
+	},
+	{
+		"#text": "View in-transit package updates on Minus 1 Screen",
+		"@_name": "tips_collect_express"
+	},
+	{
+		"#text": "View favorited items on Minus 1 Screen",
+		"@_name": "tips_collect_page"
+	},
+	{
+		"#text": "Узнать больше",
+		"@_name": "title_activity_picker_learn_more"
+	},
+	{
+		"#text": "Триггерный режим",
+		"@_name": "title_activity_picker_trigger"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "txt_agreement_allow"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "txt_agreement_connect_net"
+	},
+	{
+		"#text": "To get more recognition results",
+		"@_name": "txt_agreement_connect_net_desc"
+	},
+	{
+		"#text": "To achieve the above functions and services, you are required to agree",
+		"@_name": "txt_agreement_desc1"
+	},
+	{
+		"#text": "Aicy Touch Terms of Use",
+		"@_name": "txt_agreement_desc2"
+	},
+	{
+		"#text": "Access location",
+		"@_name": "txt_agreement_get_location"
+	},
+	{
+		"#text": "Identify addresses in the text based on their locations",
+		"@_name": "txt_agreement_get_location_desc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "txt_agreement_reject"
+	},
+	{
+		"#text": "Aicy Touch Permissions and Statements",
+		"@_name": "txt_agreement_title"
+	},
+	{
+		"#text": "Encyclopedia results",
+		"@_name": "txt_baike_result"
+	},
+	{
+		"#text": "No encyclopedia results yet",
+		"@_name": "txt_baike_tip1"
+	},
+	{
+		"#text": "Please change the keyword query",
+		"@_name": "txt_baike_tip2"
+	},
+	{
+		"#text": "Encyclopedia entry",
+		"@_name": "txt_btn_card_baike"
+	},
+	{
+		"#text": "Long press on screen to find more",
+		"@_name": "txt_card_agreement_desc1"
+	},
+	{
+		"#text": "Aicy Touch needs to access the internet and use your location to get more recognition results",
+		"@_name": "txt_card_agreement_desc2"
+	},
+	{
+		"#text": "Welcome to Aicy Touch",
+		"@_name": "txt_card_agreement_desc3"
+	},
+	{
+		"#text": "Подсказки",
+		"@_name": "txt_card_name"
+	},
+	{
+		"#text": "Нажмите, чтобы определить",
+		"@_name": "txt_click_to_recognize"
+	},
+	{
+		"#text": "Копировать перевод",
+		"@_name": "txt_copy_translation_text"
+	},
+	{
+		"#text": "Купон",
+		"@_name": "txt_coupon"
+	},
+	{
+		"#text": "Смотреть детали",
+		"@_name": "txt_look_for_detail"
+	},
+	{
+		"#text": "Нет подключения к сети, пожалуйста, проверьте сеть",
+		"@_name": "txt_no_network_tips"
+	},
+	{
+		"#text": "Подключите сеть, чтобы получить больше результатов распознавания",
+		"@_name": "txt_no_network_tips_1"
+	},
+	{
+		"#text": "Содержание не распознано",
+		"@_name": "txt_no_result_text"
+	},
+	{
+		"#text": "Открытое приложение",
+		"@_name": "txt_open_app"
+	},
+	{
+		"#text": "Исходный размер изображения",
+		"@_name": "txt_original_pic"
+	},
+	{
+		"#text": "Первоначальный текст",
+		"@_name": "txt_original_text"
+	},
+	{
+		"#text": "Соединить",
+		"@_name": "txt_phone_call"
+	},
+	{
+		"#text": "Измените изображение и повторите попытку",
+		"@_name": "txt_recognize_fail_tips"
+	},
+	{
+		"#text": "Отправлено",
+		"@_name": "txt_repo_success_text"
+	},
+	{
+		"#text": "Сообщить об ошибках",
+		"@_name": "txt_repo_text"
+	},
+	{
+		"#text": "Сканирование копии текста",
+		"@_name": "txt_scan_and_copy"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "txt_setting_exit"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "txt_setting_skip"
+	},
+	{
+		"#text": "Долгое нажатие по контенту на 0,5 секунды | После долгого нажатия, коснитесь кнопки в правом нижнем углу.",
+		"@_name": "txt_setting_triggle1"
+	},
+	{
+		"#text": "Долгое нажатие по контенту на 1 секунду | Удерживайте контент, пока не появится всплывающая подсказка",
+		"@_name": "txt_setting_triggle2"
+	},
+	{
+		"#text": "Tencent знает, что вы видите",
+		"@_name": "txt_support_text"
+	},
+	{
+		"#text": "Поддерживается распознавание: растений, знаменитостей, картин, книг, вина, автомобилей",
+		"@_name": "txt_support_type_tips"
+	},
+	{
+		"#text": "JD.COM",
+		"@_name": "txt_tag_jd"
+	},
+	{
+		"#text": "Поддержка технологии Tencent Mapping",
+		"@_name": "txt_tech_support"
+	},
+	{
+		"#text": "Не удалось выполнить перевод, повторите попытку позже.",
+		"@_name": "txt_translate_fail"
+	},
+	{
+		"#text": "Подробная интерпретация",
+		"@_name": "txt_translation_detail_text"
+	},
+	{
+		"#text": "Результат перевода",
+		"@_name": "txt_translation_result"
+	},
+	{
+		"#text": "Перевод",
+		"@_name": "txt_translation_text"
+	},
+	{
+		"#text": "Открыть с помощью Quick Look",
+		"@_name": "txt_window_mode"
+	},
+	{
+		"#text": "Прямой доступ к приложению через Quick Look",
+		"@_name": "txt_window_mode_desc"
+	},
+	{
+		"#text": "Сканирование кода",
+		"@_name": "type_qrcode"
+	},
+	{
+		"#text": "Отзывы пользователей",
+		"@_name": "user_hot_comment"
+	},
+	{
+		"#text": "Я смотрю【",
+		"@_name": "web_url_share_content_head"
+	},
+	{
+		"#text": "】. Хочу Поделится с Вами. Присоединяйся ко мне",
+		"@_name": "web_url_share_content_tail"
+	},
+	{
+		"#text": "Ссылка скопирована в буфер обмена",
+		"@_name": "web_view_copy_text_toast"
+	},
+	{
+		"#text": "Копировать ссылку",
+		"@_name": "web_view_menu_copy"
+	},
+	{
+		"#text": "Открыть в браузере",
+		"@_name": "web_view_menu_open_browser"
+	},
+	{
+		"#text": "Веб-предосмотр",
+		"@_name": "web_view_title"
+	},
+	{
+		"#text": "WeChat Друзья",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Моменты",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Избранное",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Моменты",
+		"@_name": "wx_circle_of_friend"
+	},
+	{
+		"#text": "WeChat Избранное",
+		"@_name": "wx_favourite"
+	},
+	{
+		"#text": "WeChat друзья",
+		"@_name": "wx_friend"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "wx_name"
+	}
+]

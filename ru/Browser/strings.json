@@ -1,0 +1,4894 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "about_browser"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "accessibility_button_refresh"
+	},
+	{
+		"#text": "Dismiss %s.",
+		"@_name": "accessibility_item_will_be_dismissed"
+	},
+	{
+		"#text": "Аккаунт",
+		"@_name": "account"
+	},
+	{
+		"#text": "Войти",
+		"@_name": "account_login_result_default"
+	},
+	{
+		"#text": "Срок действия логина истёк",
+		"@_name": "account_login_result_expire"
+	},
+	{
+		"#text": "Ошибка входа",
+		"@_name": "account_login_result_failed"
+	},
+	{
+		"#text": "Авторизация выполнена",
+		"@_name": "account_login_result_success"
+	},
+	{
+		"#text": "Войти",
+		"@_name": "action"
+	},
+	{
+		"#text": "%d выбрано",
+		"@_name": "action_bar_multi_choice_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "ad_app_install"
+	},
+	{
+		"#text": "Добавить канал",
+		"@_name": "add_channel"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add_lightapp"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add_lightapps"
+	},
+	{
+		"#text": "Новая закладка",
+		"@_name": "add_new_bookmark"
+	},
+	{
+		"#text": "Не удалось добавить закладку",
+		"@_name": "add_new_bookmark_fail"
+	},
+	{
+		"#text": "Добавлено успешно",
+		"@_name": "add_new_bookmark_success"
+	},
+	{
+		"#text": "Не называйте её как папка по умолчанию. Попробуйте другое имя.",
+		"@_name": "add_new_folder_default_fail"
+	},
+	{
+		"#text": "Папка с таким именем уже существует",
+		"@_name": "add_new_folder_same_fail"
+	},
+	{
+		"#text": "%s добавлено",
+		"@_name": "add_people_count"
+	},
+	{
+		"#text": "Не удалось добавить ярлык на главный экран",
+		"@_name": "add_short_cut_fail"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add_shotcut"
+	},
+	{
+		"#text": "Добавить закладку",
+		"@_name": "add_to_bookmark"
+	},
+	{
+		"#text": "Закладка",
+		"@_name": "add_to_bookmarks_menu_option"
+	},
+	{
+		"#text": "Добавить на главный экран",
+		"@_name": "add_to_home_shortcut"
+	},
+	{
+		"#text": "Добавить на главную",
+		"@_name": "add_to_homepage"
+	},
+	{
+		"#text": "Главный экран",
+		"@_name": "add_to_homescreen_menu_option"
+	},
+	{
+		"#text": "Другая папка",
+		"@_name": "add_to_other_folder_menu_option"
+	},
+	{
+		"#text": "Закладка",
+		"@_name": "add_to_stub_bookmark"
+	},
+	{
+		"#text": "Рабочий стол",
+		"@_name": "add_to_stub_desktop"
+	},
+	{
+		"#text": "Домашняя страница",
+		"@_name": "add_to_stub_homepage"
+	},
+	{
+		"#text": "Ошибка добавления %s",
+		"@_name": "add_to_xxx_fail"
+	},
+	{
+		"#text": "Уже добавлено в %s",
+		"@_name": "add_to_xxx_success"
+	},
+	{
+		"#text": "Добавлено",
+		"@_name": "added_text"
+	},
+	{
+		"#text": "Советы: ##Долгое нажатие #img# на панели инструментов, чтобы закрыть текущую вкладку##Долгое нажатие кнопки Назад #img# для ввода URL-адреса или поиска##Двойное касание строки состояния, чтобы вернуться к началу",
+		"@_name": "advance_tips"
+	},
+	{
+		"#text": "Ссылка проверена и является безопасной",
+		"@_name": "alert_safe_tip"
+	},
+	{
+		"#text": "Этот сайт может содержать недостоверную информацию. Рекомендуется прекратить его посещение.",
+		"@_name": "alert_unsafe_tip"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "allow"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Сканер",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Браузер",
+		"@_name": "application_name"
+	},
+	{
+		"#text": "Приложению требуется доступ к вашему местоположению, списку контактов и камере для предоставления специализированных услуг и сканирования кода поддержки.",
+		"@_name": "application_permission_message"
+	},
+	{
+		"#text": "Элементы автосинхронизации",
+		"@_name": "auto_sync_content"
+	},
+	{
+		"#text": "Автосинхронизация только по Wi-Fi",
+		"@_name": "auto_sync_wifi"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "autofill_profile_editor_delete_profile"
+	},
+	{
+		"#text": "Браузер может автоматически заполнять такие веб-формы. Включить автозаполнение?",
+		"@_name": "autofill_setup_dialog_message"
+	},
+	{
+		"#text": "\"Войти как \"",
+		"@_name": "autologin_account_name_prefix"
+	},
+	{
+		"#text": "Вход под аккаунтом",
+		"@_name": "autologin_account_name_suffix"
+	},
+	{
+		"#text": "Невозможно войти",
+		"@_name": "autologin_bar_error"
+	},
+	{
+		"#text": "Вход в",
+		"@_name": "autologin_bar_logging"
+	},
+	{
+		"#text": "Войти",
+		"@_name": "autologin_bar_login_text"
+	},
+	{
+		"#text": "Войти в аккаунт",
+		"@_name": "autologin_bar_text_prompt"
+	},
+	{
+		"#text": "LEARN MORE",
+		"@_name": "banner_btn_text"
+	},
+	{
+		"#text": "Блокировать",
+		"@_name": "block"
+	},
+	{
+		"#text": "Невозможно добавить в закладки этот URL-адрес.",
+		"@_name": "bookmark_cannot_save_url"
+	},
+	{
+		"#text": "Имя не совпадает",
+		"@_name": "bookmark_name_empty"
+	},
+	{
+		"#text": "Необходимо указать имя закладки.",
+		"@_name": "bookmark_needs_title"
+	},
+	{
+		"#text": "Необходимо указать место закладки",
+		"@_name": "bookmark_needs_url"
+	},
+	{
+		"#text": "Не удалось сохранить закладку",
+		"@_name": "bookmark_not_saved"
+	},
+	{
+		"#text": "Сохранено в закладках",
+		"@_name": "bookmark_saved"
+	},
+	{
+		"#text": "Добавить страницу в закладки",
+		"@_name": "bookmark_this_page"
+	},
+	{
+		"#text": "URL-адрес не может быть пустым",
+		"@_name": "bookmark_url_empty"
+	},
+	{
+		"#text": "Неправильный URL-адрес.",
+		"@_name": "bookmark_url_not_valid"
+	},
+	{
+		"#text": "Недействительный URL-адрес",
+		"@_name": "bookmark_url_valid"
+	},
+	{
+		"#text": "Закладки",
+		"@_name": "bookmarks"
+	},
+	{
+		"#text": "Браузер",
+		"@_name": "bookmarks_search"
+	},
+	{
+		"#text": "ПОДРОБНЕЕ",
+		"@_name": "brand_learn_more_text"
+	},
+	{
+		"#text": "ОТВЕТИТЬ",
+		"@_name": "brand_replay_text"
+	},
+	{
+		"#text": "ПРОПУСТИТЬ",
+		"@_name": "brand_skip_text"
+	},
+	{
+		"#text": "Продвигаемые приложения",
+		"@_name": "brand_sponsored_text"
+	},
+	{
+		"#text": "О браузере",
+		"@_name": "browser_msg"
+	},
+	{
+		"#text": "Расширенное описание функций",
+		"@_name": "browser_setting_advance_detail"
+	},
+	{
+		"#text": "Ярлыки, закладки",
+		"@_name": "browser_sync_description"
+	},
+	{
+		"#text": "Браузер",
+		"@_name": "browser_sync_title"
+	},
+	{
+		"#text": "Идентификатор браузера",
+		"@_name": "browser_useragent"
+	},
+	{
+		"#text": "Версия приложения",
+		"@_name": "browser_version"
+	},
+	{
+		"#text": "Проблема с файлом",
+		"@_name": "browserFrameFileErrorLabel"
+	},
+	{
+		"#text": "Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (\\\"POSTDATA\\\"). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).",
+		"@_name": "browserFrameFormResubmitMessage"
+	},
+	{
+		"#text": "Ошибка подключения",
+		"@_name": "browserFrameNetworkErrorLabel"
+	},
+	{
+		"#text": "Сканировать обложку/постер",
+		"@_name": "business_display_cover"
+	},
+	{
+		"#text": "Сканировать QR-код",
+		"@_name": "business_display_qr_code"
+	},
+	{
+		"#text": "Сканировать обложку",
+		"@_name": "business_tab_cover"
+	},
+	{
+		"#text": "Сканировать",
+		"@_name": "business_tab_qr_code"
+	},
+	{
+		"#text": "Изменить тип",
+		"@_name": "businesscard_choose_type"
+	},
+	{
+		"#text": "Данные не найдены",
+		"@_name": "businesscard_no_data"
+	},
+	{
+		"#text": "Выйти без сохранения?",
+		"@_name": "businesscard_no_save_exit"
+	},
+	{
+		"#text": "Фото не найдено",
+		"@_name": "businesscard_photo_not_found"
+	},
+	{
+		"#text": "Сохранение контакта…",
+		"@_name": "businesscard_saving_contact"
+	},
+	{
+		"#text": "Добавить в календарь",
+		"@_name": "calendar_event_add"
+	},
+	{
+		"#text": "Камера занята, сканирование не доступно",
+		"@_name": "camera_error_message"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Загрузка возможна только с URL, начинающихся с http или https.",
+		"@_name": "cannot_download"
+	},
+	{
+		"#text": "No history",
+		"@_name": "card_most_visited_empty_msg"
+	},
+	{
+		"#text": "Frequently-visited",
+		"@_name": "card_most_visited_name"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "celltick_sports_game"
+	},
+	{
+		"#text": "Ставки",
+		"@_name": "celltick_sports_guess"
+	},
+	{
+		"#text": "Рейтинг",
+		"@_name": "celltick_sports_rank"
+	},
+	{
+		"#text": "Для вас",
+		"@_name": "channel_name_for_you"
+	},
+	{
+		"#text": "Нет подключения к сети. Проверьте настройки..",
+		"@_name": "check_network_setting"
+	},
+	{
+		"#text": "Выберите причины для точной блокировки",
+		"@_name": "choice_reasons"
+	},
+	{
+		"#text": "Версия Chrome",
+		"@_name": "chrome_version"
+	},
+	{
+		"#text": "Новая закладка",
+		"@_name": "classic_menu_add_new_bookmark"
+	},
+	{
+		"#text": "Домашний сайт",
+		"@_name": "classic_menu_desktop_mode"
+	},
+	{
+		"#text": "Вперёд",
+		"@_name": "classic_menu_forward"
+	},
+	{
+		"#text": "Ночной режим",
+		"@_name": "classic_menu_night_mode"
+	},
+	{
+		"#text": "Без картинок",
+		"@_name": "classic_menu_no_image_mode"
+	},
+	{
+		"#text": "Инкогнито",
+		"@_name": "classic_menu_pri_mode"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "clear_all"
+	},
+	{
+		"#text": "Очистить всю историю?",
+		"@_name": "clear_all_history"
+	},
+	{
+		"#text": "История запросов и просмотренных страниц",
+		"@_name": "clear_all_history_message"
+	},
+	{
+		"#text": "Очистить данные",
+		"@_name": "clear_data"
+	},
+	{
+		"#text": "Аккаунты и пароли",
+		"@_name": "clear_data_account_passwords"
+	},
+	{
+		"#text": "Доступ к местоположению",
+		"@_name": "clear_data_authorized_location"
+	},
+	{
+		"#text": "История просмотра",
+		"@_name": "clear_data_browser_history"
+	},
+	{
+		"#text": "Кэш-файлы",
+		"@_name": "clear_data_cache_file"
+	},
+	{
+		"#text": "Cookies",
+		"@_name": "clear_data_cookies"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "clear_data_finish"
+	},
+	{
+		"#text": "История ввода",
+		"@_name": "clear_data_input_record"
+	},
+	{
+		"#text": "Очистка данных…",
+		"@_name": "clear_data_now"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "clear_history"
+	},
+	{
+		"#text": "Очистить историю поиска",
+		"@_name": "clear_search_history"
+	},
+	{
+		"#text": "Быстрое открытие ссылки",
+		"@_name": "click_to_open_copied_url"
+	},
+	{
+		"#text": "Режим инкогнито отключён",
+		"@_name": "close_incognito_mode"
+	},
+	{
+		"#text": "Очистить кэш-ускорение облака",
+		"@_name": "cloud_clear_cache"
+	},
+	{
+		"#text": "Очистить кэши?",
+		"@_name": "cloud_clear_cache_dlg"
+	},
+	{
+		"#text": "%1$s сохранено в этом месяце, %2$s сохранено всего",
+		"@_name": "cloud_save_sumary"
+	},
+	{
+		"#text": "Ускорение загрузки данных",
+		"@_name": "cloud_title"
+	},
+	{
+		"#text": "Нет содержимого",
+		"@_name": "comment_end"
+	},
+	{
+		"#text": "Комментарии слишком длинны",
+		"@_name": "comment_overflow"
+	},
+	{
+		"#text": "Ответить",
+		"@_name": "comment_prefix"
+	},
+	{
+		"#text": "Пока без комментариев. Оставьте первый комментарий!",
+		"@_name": "comment_sofa_tip"
+	},
+	{
+		"#text": "评论",
+		"@_name": "comment_title"
+	},
+	{
+		"#text": "Все комментарии",
+		"@_name": "commentHint"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "common_google_play_services_enable_button"
+	},
+	{
+		"#text": "Для работы приложения \\\"%1$s\\\" требуется включить сервисы Google Play.",
+		"@_name": "common_google_play_services_enable_text"
+	},
+	{
+		"#text": "Включите сервисы Google Play",
+		"@_name": "common_google_play_services_enable_title"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "common_google_play_services_install_button"
+	},
+	{
+		"#text": "Для работы приложения \\\"%1$s\\\" требуется установить сервисы Google Play.",
+		"@_name": "common_google_play_services_install_text"
+	},
+	{
+		"#text": "Установите сервисы Google Play",
+		"@_name": "common_google_play_services_install_title"
+	},
+	{
+		"#text": "Доступность сервисов Google Play",
+		"@_name": "common_google_play_services_notification_channel_name"
+	},
+	{
+		"#text": "Ошибка сервисов Google Play",
+		"@_name": "common_google_play_services_notification_ticker"
+	},
+	{
+		"#text": "Приложению \\\"%1$s\\\" не удается подключиться к сервисам Google Play. Повторите попытку.",
+		"@_name": "common_google_play_services_unknown_issue"
+	},
+	{
+		"#text": "Для работы с приложением \\\"%1$s\\\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.",
+		"@_name": "common_google_play_services_unsupported_text"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "common_google_play_services_update_button"
+	},
+	{
+		"#text": "Чтобы запустить приложение \\\"%1$s\\\", обновите сервисы Google Play.",
+		"@_name": "common_google_play_services_update_text"
+	},
+	{
+		"#text": "Обновите сервисы Google Play",
+		"@_name": "common_google_play_services_update_title"
+	},
+	{
+		"#text": "Сервисы Google Play, необходимые для работы приложения \\\"%1$s\\\", в настоящий момент обновляются.",
+		"@_name": "common_google_play_services_updating_text"
+	},
+	{
+		"#text": "Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.",
+		"@_name": "common_google_play_services_wear_update_text"
+	},
+	{
+		"#text": "Открыть на телефоне",
+		"@_name": "common_open_on_phone"
+	},
+	{
+		"#text": "Войти",
+		"@_name": "common_signin_button_text"
+	},
+	{
+		"#text": "Войти через аккаунт Google",
+		"@_name": "common_signin_button_text_long"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "complete"
+	},
+	{
+		"#text": "Задание выполнено. Получено золотых шаров: %s. Дальнейшее действие",
+		"@_name": "complete_mission"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Адрес",
+		"@_name": "contact_header_address"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "contact_header_birthday"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "contact_header_email"
+	},
+	{
+		"#text": "Геоданные",
+		"@_name": "contact_header_geo"
+	},
+	{
+		"#text": "Мессенджер",
+		"@_name": "contact_header_instantmessenger"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "contact_header_name"
+	},
+	{
+		"#text": "Псевдоним",
+		"@_name": "contact_header_nickname"
+	},
+	{
+		"#text": "Заметка",
+		"@_name": "contact_header_note"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "contact_header_org"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "contact_header_phonenumber"
+	},
+	{
+		"#text": "Пининь",
+		"@_name": "contact_header_pronunciation"
+	},
+	{
+		"#text": "Название",
+		"@_name": "contact_header_title"
+	},
+	{
+		"#text": "Сайт",
+		"@_name": "contact_header_url"
+	},
+	{
+		"#text": "Адрес",
+		"@_name": "contact_hint_address"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "contact_hint_birthday"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "contact_hint_email"
+	},
+	{
+		"#text": "Геоданные",
+		"@_name": "contact_hint_geo"
+	},
+	{
+		"#text": "Мессенджер",
+		"@_name": "contact_hint_instantmessenger"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "contact_hint_name"
+	},
+	{
+		"#text": "Ник",
+		"@_name": "contact_hint_nickname"
+	},
+	{
+		"#text": "Заметки",
+		"@_name": "contact_hint_note"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "contact_hint_org"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "contact_hint_phonenumber"
+	},
+	{
+		"#text": "Пининь",
+		"@_name": "contact_hint_pronunciation"
+	},
+	{
+		"#text": "Название",
+		"@_name": "contact_hint_title"
+	},
+	{
+		"#text": "Сайт",
+		"@_name": "contact_hint_url"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "contact_type_other"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "contacts_email"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "contacts_item_no_type"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "contacts_location"
+	},
+	{
+		"#text": "Добавить в",
+		"@_name": "containing_folder"
+	},
+	{
+		"#text": "%d закладок",
+		"@_name": "contextheader_folder_bookmarkcount"
+	},
+	{
+		"#text": "Пустая папка",
+		"@_name": "contextheader_folder_empty"
+	},
+	{
+		"#text": "В существующий контакт",
+		"@_name": "contextmenu_add_exist_contact"
+	},
+	{
+		"#text": "Создать новый контакт",
+		"@_name": "contextmenu_add_new_contact"
+	},
+	{
+		"#text": "Блокировка рекламы",
+		"@_name": "contextmenu_adfilter_manual"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "contextmenu_copy"
+	},
+	{
+		"#text": "Выбрать текст",
+		"@_name": "contextmenu_copy_text"
+	},
+	{
+		"#text": "Копировать ссылку",
+		"@_name": "contextmenu_copylink"
+	},
+	{
+		"#text": "Набор",
+		"@_name": "contextmenu_dial_dot"
+	},
+	{
+		"#text": "Сохранить картинку",
+		"@_name": "contextmenu_download_image"
+	},
+	{
+		"#text": "Карты",
+		"@_name": "contextmenu_map"
+	},
+	{
+		"#text": "Открыть в новом окне",
+		"@_name": "contextmenu_openlink_newwindow"
+	},
+	{
+		"#text": "Открыть в фоновой вкладке",
+		"@_name": "contextmenu_openlink_newwindow_background"
+	},
+	{
+		"#text": "Распознать QR-код",
+		"@_name": "contextmenu_qr_code"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "contextmenu_remove"
+	},
+	{
+		"#text": "Сохранить ссылку",
+		"@_name": "contextmenu_savelink"
+	},
+	{
+		"#text": "Отправить письмо",
+		"@_name": "contextmenu_send_mail"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "contextmenu_share_imege"
+	},
+	{
+		"#text": "Показать изображение",
+		"@_name": "contextmenu_show_image"
+	},
+	{
+		"#text": "Открыть изображение",
+		"@_name": "contextmenu_view_image"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "copy"
+	},
+	{
+		"#text": "Копировать URL",
+		"@_name": "copy_page_url"
+	},
+	{
+		"#text": "Копировать все",
+		"@_name": "copyAll"
+	},
+	{
+		"#text": "Невозможно создать папку сохранённой страницы",
+		"@_name": "create_folder_fail"
+	},
+	{
+		"#text": "Используется мобильная передача данных. Это влечёт потребление трафика.",
+		"@_name": "currently_in_mobile_network"
+	},
+	{
+		"#text": "Используется сеть Wi-Fi",
+		"@_name": "currently_in_wifi_network"
+	},
+	{
+		"#text": "Ошибка сети, пожалуйста, подключитесь снова",
+		"@_name": "currently_network_error"
+	},
+	{
+		"#text": "Свой тип",
+		"@_name": "custom_type"
+	},
+	{
+		"#text": "Вырезать",
+		"@_name": "cut"
+	},
+	{
+		"#text": "\"Ой! Ошибка браузера. Нажмите Восстановить и перезапустите браузер.\"",
+		"@_name": "database_crash_empty_list_tip"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Новая вкладка",
+		"@_name": "deck_view_default_title"
+	},
+	{
+		"#text": "Пусто",
+		"@_name": "deck_view_empty_message"
+	},
+	{
+		"#text": "Закладки",
+		"@_name": "default_bookmarks_folder"
+	},
+	{
+		"#text": "Папка по умолчанию",
+		"@_name": "default_folder"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Удалить закладку %s?",
+		"@_name": "delete_bookmark_warning"
+	},
+	{
+		"#text": "Ошибка удаления",
+		"@_name": "delete_failture"
+	},
+	{
+		"#text": "Удалить папку %1$s",
+		"@_name": "delete_folder"
+	},
+	{
+		"#text": "Удалено",
+		"@_name": "delete_success"
+	},
+	{
+		"#text": "Отключить автозаполнение",
+		"@_name": "disable_autofill"
+	},
+	{
+		"#text": "Диск",
+		"@_name": "disk_to_save"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "do_not_save"
+	},
+	{
+		"#text": "Не отслеживать",
+		"@_name": "do_not_track"
+	},
+	{
+		"#text": "Только третьим лицам и рекламодателям",
+		"@_name": "do_not_track_summary"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "done"
+	},
+	{
+		"#text": "Этот документ не поддерживается",
+		"@_name": "dont_support_doc_type"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download"
+	},
+	{
+		"#text": "Запрос…",
+		"@_name": "download_dialog_query"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "download_error"
+	},
+	{
+		"#text": "Нет доступной сети",
+		"@_name": "download_interupter_error"
+	},
+	{
+		"#text": "Нет сети. Выберите сеть",
+		"@_name": "download_interupter_error_no_network"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_management"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_management_drag_menu"
+	},
+	{
+		"#text": "Для загрузки файла %s требуется SD-карта.",
+		"@_name": "download_no_sdcard_dlg_msg"
+	},
+	{
+		"#text": "Нет SD-карты",
+		"@_name": "download_no_sdcard_dlg_title"
+	},
+	{
+		"#text": "Загрузить",
+		"@_name": "download_now"
+	},
+	{
+		"#text": "Неизвестная загрузка",
+		"@_name": "download_original_file"
+	},
+	{
+		"#text": "Путь загрузки",
+		"@_name": "download_path"
+	},
+	{
+		"#text": "Пауза загрузки",
+		"@_name": "download_pause"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_pending"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "download_safe"
+	},
+	{
+		"#text": "SD-карта",
+		"@_name": "download_sdcard"
+	},
+	{
+		"#text": "SD-карта занята. Чтобы разрешить загрузки, выберите Отключить USB-накопитель в панели уведомлений.",
+		"@_name": "download_sdcard_busy_dlg_msg"
+	},
+	{
+		"#text": "SD-карта недоступна",
+		"@_name": "download_sdcard_busy_dlg_title"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "downloading"
+	},
+	{
+		"#text": "Изменить закладку",
+		"@_name": "edit_bookmark"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "edit_channel"
+	},
+	{
+		"#text": "Правка файла",
+		"@_name": "edit_file"
+	},
+	{
+		"#text": "Нет закладок",
+		"@_name": "empty_bookmarks_folder"
+	},
+	{
+		"#text": "Нет истории",
+		"@_name": "empty_history"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "empty_list_refresh"
+	},
+	{
+		"#text": "Нет соединения",
+		"@_name": "empty_list_tap_retry"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "empty_loading"
+	},
+	{
+		"#text": "Можно сохранить страницы для офлайн-чтения",
+		"@_name": "empty_offline_webpage_folder"
+	},
+	{
+		"#text": "Нет сохранённых страниц",
+		"@_name": "empty_offline_webpage_folder_tips"
+	},
+	{
+		"#text": "Вы комментируете слишком быстро. Повторите попытку позже.",
+		"@_name": "error_add_comment_limit_error"
+	},
+	{
+		"#text": "Ошибка отправки. Повторите попытку.",
+		"@_name": "error_add_comment_unauthorized_error"
+	},
+	{
+		"#text": "Ошибка сети. Повторите попытку позже.",
+		"@_name": "error_comment_server_error"
+	},
+	{
+		"#text": "Evaluate",
+		"@_name": "error_console_eval_button_text"
+	},
+	{
+		"#text": "Evaluate JavaScript",
+		"@_name": "error_console_eval_text_hint"
+	},
+	{
+		"#text": "JavaScript console",
+		"@_name": "error_console_header_text_maximized"
+	},
+	{
+		"#text": "Show JavaScript console",
+		"@_name": "error_console_header_text_minimized"
+	},
+	{
+		"#text": "Ошибка сети. Повторите попытку.",
+		"@_name": "error_load_comment_unauthorized_error"
+	},
+	{
+		"#text": "Перезагрузить при ошибке сети",
+		"@_name": "errornetreload"
+	},
+	{
+		"#text": "Больше",
+		"@_name": "expand"
+	},
+	{
+		"#text": "Позвонить перевозчику",
+		"@_name": "express_dial_phone"
+	},
+	{
+		"#text": "Быстрая установка",
+		"@_name": "fast_install"
+	},
+	{
+		"#text": "Проблема",
+		"@_name": "feedback_bug"
+	},
+	{
+		"#text": "Типы проблемы",
+		"@_name": "feedback_category"
+	},
+	{
+		"#text": "Описание проблемы",
+		"@_name": "feedback_des"
+	},
+	{
+		"#text": "Опишите свою проблему или оставьте отзыв",
+		"@_name": "feedback_des_hint"
+	},
+	{
+		"#text": "E-mail",
+		"@_name": "feedback_email"
+	},
+	{
+		"#text": "Введите свой адрес электронной почты",
+		"@_name": "feedback_email_hint"
+	},
+	{
+		"#text": "Введите правильный e-mail",
+		"@_name": "feedback_email_limit"
+	},
+	{
+		"#text": "Помощь",
+		"@_name": "feedback_help"
+	},
+	{
+		"#text": "Размер фото не должен превышать 4 Мб",
+		"@_name": "feedback_image_oversize"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "feedback_submit"
+	},
+	{
+		"#text": "Сообщение было успешно отправлено",
+		"@_name": "feedback_submit_success"
+	},
+	{
+		"#text": "Отправляем",
+		"@_name": "feedback_submiting"
+	},
+	{
+		"#text": "Ошибка отправки сообщения, попробуйте позже",
+		"@_name": "feedback_submiting_fail"
+	},
+	{
+		"#text": "Успешно",
+		"@_name": "feedback_submiting_success"
+	},
+	{
+		"#text": "Не менее 10 символов",
+		"@_name": "feedback_suggest_limit"
+	},
+	{
+		"#text": "Предложение",
+		"@_name": "feedback_suggestion"
+	},
+	{
+		"#text": "Имя файла",
+		"@_name": "file_name"
+	},
+	{
+		"#text": "Имя файла не может быть пустым",
+		"@_name": "file_name_empty"
+	},
+	{
+		"#text": "Выбрано файлов %1$s, всего %2$s Мб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Найти на странице",
+		"@_name": "find_on_page"
+	},
+	{
+		"#text": "\"Найти на странице\"",
+		"@_name": "find_on_page_drag_menu"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "finish_edit_channel"
+	},
+	{
+		"#text": "%d этаж",
+		"@_name": "floor_child_name"
+	},
+	{
+		"#text": "Ещё %d ответ(ов)",
+		"@_name": "floor_count"
+	},
+	{
+		"#text": "Автор темы",
+		"@_name": "floor_master_name"
+	},
+	{
+		"#text": "Папка",
+		"@_name": "folder"
+	},
+	{
+		"#text": "Новая вкладка",
+		"@_name": "forcetouch_new_page"
+	},
+	{
+		"#text": "В закладки",
+		"@_name": "forcetouch_open_bookmark"
+	},
+	{
+		"#text": "Открыть пользовательский экран",
+		"@_name": "forcetouch_open_custom"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "forcetouch_search"
+	},
+	{
+		"#text": "Вперёд",
+		"@_name": "forward"
+	},
+	{
+		"#text": "FrameAnimLib",
+		"@_name": "frame_anim_lib_name"
+	},
+	{
+		"#text": "Полноэкранный режим",
+		"@_name": "full_screen_mode"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "geolocation_permissions_prompt_dont_share"
+	},
+	{
+		"#text": "%s Сайт запрашивает данные о вашем местоположении",
+		"@_name": "geolocation_permissions_prompt_message"
+	},
+	{
+		"#text": "Запомнить мой выбор",
+		"@_name": "geolocation_permissions_prompt_remember"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "geolocation_permissions_prompt_share"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "geolocation_settings_page_dialog_cancel_button"
+	},
+	{
+		"#text": "Закрыть этому сайту доступ к данным о вашем местоположении?",
+		"@_name": "geolocation_settings_page_dialog_message"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "geolocation_settings_page_dialog_ok_button"
+	},
+	{
+		"#text": "Этот сайт сейчас имеет доступ к вашему местоположению.",
+		"@_name": "geolocation_settings_page_summary_allowed"
+	},
+	{
+		"#text": "У этого сайта сейчас нет доступа к данным о вашем местоположении.",
+		"@_name": "geolocation_settings_page_summary_not_allowed"
+	},
+	{
+		"#text": "Отключить доступ к геоданным для этого сайта",
+		"@_name": "geolocation_settings_page_title"
+	},
+	{
+		"#text": "Проведите по краю экрана для взаимодействия",
+		"@_name": "gesture_back_forward_info"
+	},
+	{
+		"#text": "Вперёд",
+		"@_name": "go_to"
+	},
+	{
+		"#text": "Downloading with mobile network?",
+		"@_name": "gps_prompt_context"
+	},
+	{
+		"#text": "Tips",
+		"@_name": "gps_prompt_title"
+	},
+	{
+		"#text": "Сдвиньте вправо для перехода к предыдущей странице",
+		"@_name": "guide_back_forward_back"
+	},
+	{
+		"#text": "Сдвиньте влево для перехода к следующей странице",
+		"@_name": "guide_back_forward_forward"
+	},
+	{
+		"#text": "Резервное копирование",
+		"@_name": "guide_view_backup_title"
+	},
+	{
+		"#text": "Попробовать",
+		"@_name": "guide_view_btn_cancel_text"
+	},
+	{
+		"#text": "立即开启",
+		"@_name": "guide_view_cancel_text"
+	},
+	{
+		"#text": "跳过",
+		"@_name": "guide_view_jump"
+	},
+	{
+		"#text": "Синхронизация закладок",
+		"@_name": "guide_view_olympic_sub_title"
+	},
+	{
+		"#text": "动手吧，这次绝不手软！",
+		"@_name": "guide_view_sub_title_1"
+	},
+	{
+		"#text": "换个方向，视界不一样",
+		"@_name": "guide_view_sub_title_2"
+	},
+	{
+		"#text": "手动屏蔽广告",
+		"@_name": "guide_view_title_1"
+	},
+	{
+		"#text": "首页横屏",
+		"@_name": "guide_view_title_2"
+	},
+	{
+		"#text": "极速开启",
+		"@_name": "guide_view_uc_cancel_btn_text"
+	},
+	{
+		"#text": "体积更小，加载更快",
+		"@_name": "guide_view_uc_sub_title"
+	},
+	{
+		"#text": "281 项优化，只为让你体验最佳",
+		"@_name": "guide_view_uc_sub_title_2"
+	},
+	{
+		"#text": "全新引擎，体积压缩 25%",
+		"@_name": "guide_view_uc_title"
+	},
+	{
+		"#text": "Отмечено как прочитанное",
+		"@_name": "has_mark_read"
+	},
+	{
+		"#text": "Отмечено как непрочитанное",
+		"@_name": "has_mark_unread"
+	},
+	{
+		"#text": "История",
+		"@_name": "history"
+	},
+	{
+		"#text": "Latest news for you",
+		"@_name": "home_zixun_tips"
+	},
+	{
+		"#text": "Использовать текущую страницу",
+		"@_name": "homepage_current_page"
+	},
+	{
+		"#text": "Настройка пользователя",
+		"@_name": "homepage_custom"
+	},
+	{
+		"#text": "Страница навигации",
+		"@_name": "homepage_navigation"
+	},
+	{
+		"#text": "Ярлыки главной страницы",
+		"@_name": "homepage_shortcut"
+	},
+	{
+		"#text": "Полезные комментарии",
+		"@_name": "hot_comment"
+	},
+	{
+		"#text": "Топ поиска",
+		"@_name": "hot_search"
+	},
+	{
+		"#text": "http://",
+		"@_name": "http"
+	},
+	{
+		"#text": "100 миллионов",
+		"@_name": "hundredMillion"
+	},
+	{
+		"#text": "%d фото",
+		"@_name": "image_card_text"
+	},
+	{
+		"#text": "Показ картинок только по Wi-Fi",
+		"@_name": "image_only_in_wifi"
+	},
+	{
+		"#text": "Ошибка сохранения",
+		"@_name": "image_save_fail"
+	},
+	{
+		"#text": "Сохранено в Download/Browser/",
+		"@_name": "image_save_title"
+	},
+	{
+		"#text": "Полноэкранный режим",
+		"@_name": "immersive_mode"
+	},
+	{
+		"#text": "Вверх для скрытия панели инструментов",
+		"@_name": "immersive_summary"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "install_app"
+	},
+	{
+		"#text": "Google Mobile Services is required to shop online. Download GMS?",
+		"@_name": "install_GMS"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Details",
+		"@_name": "interstitial_default_button_text"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Set JS flags",
+		"@_name": "js_engine_flags"
+	},
+	{
+		"#text": "Прямо сейчас",
+		"@_name": "just_now"
+	},
+	{
+		"#text": "Отзыв",
+		"@_name": "label_feedback"
+	},
+	{
+		"#text": "عربي(العربية)",
+		"@_name": "lan_ar_ab"
+	},
+	{
+		"#text": "العربية السعودية(العربية)",
+		"@_name": "lan_ar_sa"
+	},
+	{
+		"#text": "български(български)",
+		"@_name": "lan_bg_bg"
+	},
+	{
+		"#text": "Česká Republika(Čeština)",
+		"@_name": "lan_cs_cz"
+	},
+	{
+		"#text": "Danmark(Dansk)",
+		"@_name": "lan_da_dk"
+	},
+	{
+		"#text": "Österreich(Deutsch)",
+		"@_name": "lan_de_at"
+	},
+	{
+		"#text": "Schweiz(Deutsch)",
+		"@_name": "lan_de_ch"
+	},
+	{
+		"#text": "Deutschland(Deutsch)",
+		"@_name": "lan_de_de"
+	},
+	{
+		"#text": "Australia(English)",
+		"@_name": "lan_en_au"
+	},
+	{
+		"#text": "Canada(English)",
+		"@_name": "lan_en_ca"
+	},
+	{
+		"#text": "United Kingdom(English)",
+		"@_name": "lan_en_gb"
+	},
+	{
+		"#text": "India(English)",
+		"@_name": "lan_en_in"
+	},
+	{
+		"#text": "မြန်မာ(မြန်မာ)",
+		"@_name": "lan_en_mm"
+	},
+	{
+		"#text": "Malaysia(English)",
+		"@_name": "lan_en_my"
+	},
+	{
+		"#text": "Singapore(English)",
+		"@_name": "lan_en_sg"
+	},
+	{
+		"#text": "USA(English)",
+		"@_name": "lan_en_us"
+	},
+	{
+		"#text": "International(English)",
+		"@_name": "lan_en_wd"
+	},
+	{
+		"#text": "España(Español)",
+		"@_name": "lan_es_es"
+	},
+	{
+		"#text": "America latina(Español)",
+		"@_name": "lan_es_lm"
+	},
+	{
+		"#text": "México(Español)",
+		"@_name": "lan_es_mx"
+	},
+	{
+		"#text": "Suisse(Français)",
+		"@_name": "lan_fr_ch"
+	},
+	{
+		"#text": "France(Français)",
+		"@_name": "lan_fr_fr"
+	},
+	{
+		"#text": "इंडिया(हिंदी)",
+		"@_name": "lan_hi_in"
+	},
+	{
+		"#text": "Hrvatska(Hrvatski)",
+		"@_name": "lan_hr_hr"
+	},
+	{
+		"#text": "Magyarország(magyar)",
+		"@_name": "lan_hu_hu"
+	},
+	{
+		"#text": "Indonesia(Bahasa Indonesia)",
+		"@_name": "lan_id_id"
+	},
+	{
+		"#text": "Italia(Italiano)",
+		"@_name": "lan_it_it"
+	},
+	{
+		"#text": "日本(日本語)",
+		"@_name": "lan_ja_jp"
+	},
+	{
+		"#text": "Nederland(Nederlands)",
+		"@_name": "lan_nl_nl"
+	},
+	{
+		"#text": "Norge(Norsk språk)",
+		"@_name": "lan_no_no"
+	},
+	{
+		"#text": "Polska(Polski)",
+		"@_name": "lan_pl_pl"
+	},
+	{
+		"#text": "România(Românesc)",
+		"@_name": "lan_ro_ro"
+	},
+	{
+		"#text": "Россия(Pусский)",
+		"@_name": "lan_ru_ru"
+	},
+	{
+		"#text": "Україна(Український)",
+		"@_name": "lan_ru_ua"
+	},
+	{
+		"#text": "Slovensko(Slovenský jazyk)",
+		"@_name": "lan_sk_sk"
+	},
+	{
+		"#text": "Slovenija(Slovenski)",
+		"@_name": "lan_sl_si"
+	},
+	{
+		"#text": "Србија(Srpski језик)",
+		"@_name": "lan_sr_rs"
+	},
+	{
+		"#text": "Sverige(Svenska)",
+		"@_name": "lan_sv_se"
+	},
+	{
+		"#text": "இந்தியா(தமிழ்)",
+		"@_name": "lan_ta_in"
+	},
+	{
+		"#text": "ประเทศไทย(ไทย)",
+		"@_name": "lan_th_th"
+	},
+	{
+		"#text": "Türkiye(Türk)",
+		"@_name": "lan_tr_tr"
+	},
+	{
+		"#text": "Việt Nam(Tiếng Việt)",
+		"@_name": "lan_vi_vn"
+	},
+	{
+		"#text": "中国(简体中文)",
+		"@_name": "lan_zh_cn"
+	},
+	{
+		"#text": "香港(繁體中文)",
+		"@_name": "lan_zh_hk"
+	},
+	{
+		"#text": "台灣(繁體中文)",
+		"@_name": "lan_zh_tw"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loadding_more"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading_error"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading_more"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading_text"
+	},
+	{
+		"#text": "Локально",
+		"@_name": "local_bookmarks"
+	},
+	{
+		"#text": "Определение местоположения через gps или моб. сеть",
+		"@_name": "location"
+	},
+	{
+		"#text": "%d вкладок всего",
+		"@_name": "max_tabs_warning"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "дн. назад",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "дн. спустя",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Новости Meizu",
+		"@_name": "meizu_taotiao"
+	},
+	{
+		"#text": "Добавить комментарий",
+		"@_name": "menu_add_comment"
+	},
+	{
+		"#text": "Добавить ответ",
+		"@_name": "menu_add_reply_comment"
+	},
+	{
+		"#text": "Очистить историю",
+		"@_name": "menu_clear_history"
+	},
+	{
+		"#text": "Полная версия",
+		"@_name": "menu_desktop_mode"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "menu_edit"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "menu_exit"
+	},
+	{
+		"#text": "Выйти",
+		"@_name": "menu_exit_drag_menu"
+	},
+	{
+		"#text": "Очистить историю",
+		"@_name": "menu_more_clear_history"
+	},
+	{
+		"#text": "Очистить историю",
+		"@_name": "menu_more_clear_history_dlg"
+	},
+	{
+		"#text": "Ночной режим",
+		"@_name": "menu_night_mode"
+	},
+	{
+		"#text": "\"Ночь\"",
+		"@_name": "menu_night_mode_drag_menu"
+	},
+	{
+		"#text": "Без картинок",
+		"@_name": "menu_no_image_mode"
+	},
+	{
+		"#text": "Нет изображений",
+		"@_name": "menu_no_image_mode_drag_menu"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "menu_preferences"
+	},
+	{
+		"#text": "\"Настройки\"",
+		"@_name": "menu_preferences_drag_menu"
+	},
+	{
+		"#text": "Инкогнито",
+		"@_name": "menu_pri_mode"
+	},
+	{
+		"#text": "Сохранить страницу",
+		"@_name": "menu_save_snapshot"
+	},
+	{
+		"#text": "\"Сохранить страницу\"",
+		"@_name": "menu_save_snapshot_drag_menu"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "menu_share_url"
+	},
+	{
+		"#text": "\"Передать\"",
+		"@_name": "menu_share_url_drag_menu"
+	},
+	{
+		"#text": "Новая вкладка",
+		"@_name": "menupage_toolbar_new_page"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "minute_ago"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "minutes_ago"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mobile_data_connect_disable"
+	},
+	{
+		"#text": "Подключить",
+		"@_name": "mobile_data_connect_enable"
+	},
+	{
+		"#text": "Рабочий стол",
+		"@_name": "mobile_desktop"
+	},
+	{
+		"#text": "app desc",
+		"@_name": "mobvista_reward_appdesc"
+	},
+	{
+		"#text": "app title",
+		"@_name": "mobvista_reward_apptitle"
+	},
+	{
+		"#text": "Play Game",
+		"@_name": "mobvista_reward_clickable_cta_btntext"
+	},
+	{
+		"#text": "AD",
+		"@_name": "mobvista_reward_endcard_ad"
+	},
+	{
+		"#text": "Do you want to learn more?",
+		"@_name": "mobvista_reward_endcard_vast_notice"
+	},
+	{
+		"#text": "Install Now",
+		"@_name": "mobvista_reward_install"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Мой канал",
+		"@_name": "my_channel"
+	},
+	{
+		"#text": "Мои сообщения",
+		"@_name": "my_remind"
+	},
+	{
+		"#text": "Ответ %s:",
+		"@_name": "my_remind_edt_hint"
+	},
+	{
+		"#text": "Ответить",
+		"@_name": "my_remind_reply"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Запрос следующих разрешений",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "Загрузка %s %s завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Тег",
+		"@_name": "name"
+	},
+	{
+		"#text": "Имя и URL-адрес",
+		"@_name": "name_and_url"
+	},
+	{
+		"#text": "Часть функций браузера временно недоступна в соответствии с положениями безопасности. Пожалуйста, повторите попытку позже",
+		"@_name": "net_supervisor_info_default"
+	},
+	{
+		"#text": "Новая закладка",
+		"@_name": "new_bookmark_title"
+	},
+	{
+		"#text": "Новая папка",
+		"@_name": "new_folder"
+	},
+	{
+		"#text": "Новая вкладка инкогнито",
+		"@_name": "new_incognito_tab"
+	},
+	{
+		"#text": "Новая вкладка",
+		"@_name": "new_tab"
+	},
+	{
+		"#text": "Вы остановились здесь, нажмите для обновления.",
+		"@_name": "news_article_read_hint"
+	},
+	{
+		"#text": "Нет подпапок",
+		"@_name": "no_subfolders"
+	},
+	{
+		"#text": "Вход не выполнен",
+		"@_name": "not_login"
+	},
+	{
+		"#text": "Не синхронизировано",
+		"@_name": "not_yet_sync_info"
+	},
+	{
+		"#text": "Больше не спрашивать",
+		"@_name": "notTip"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "ok"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "okay_action"
+	},
+	{
+		"#text": "Ранее",
+		"@_name": "older"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "onews__pr_load_more"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "onews__pr_refreshing_label"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "onews_settings_activity_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "onews_settings_clean_cache_dialog_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "onews_settings_clean_cache_dialog_clear"
+	},
+	{
+		"#text": "Clean all caches?",
+		"@_name": "onews_settings_clean_cache_dialog_tips"
+	},
+	{
+		"#text": "Clean cache",
+		"@_name": "onews_settings_clean_cache_label"
+	},
+	{
+		"#text": "1.0.0",
+		"@_name": "onews_settings_default_software_version"
+	},
+	{
+		"#text": "Language",
+		"@_name": "onews_settings_language_title"
+	},
+	{
+		"#text": "Night mode",
+		"@_name": "onews_settings_night_mode_label"
+	},
+	{
+		"#text": "NR detail",
+		"@_name": "onews_settings_nr_detail_label"
+	},
+	{
+		"#text": "Show image",
+		"@_name": "onews_settings_nr_list_label"
+	},
+	{
+		"#text": "Version",
+		"@_name": "onews_settings_software_version_label"
+	},
+	{
+		"#text": "Videos",
+		"@_name": "onews_tab_video"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "open_app"
+	},
+	{
+		"#text": "Включён режим инкогнито",
+		"@_name": "open_incognito_mode"
+	},
+	{
+		"#text": "Другие закладки",
+		"@_name": "other_bookmarks"
+	},
+	{
+		"#text": "Информация о странице",
+		"@_name": "page_info"
+	},
+	{
+		"#text": "URL-адрес:",
+		"@_name": "page_info_address"
+	},
+	{
+		"#text": "Информация о странице",
+		"@_name": "page_info_view"
+	},
+	{
+		"#text": "К сожалению, эта страница временно недоступна",
+		"@_name": "page_temporarily_unavailable"
+	},
+	{
+		"#text": "Пароль",
+		"@_name": "password"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "Вставить",
+		"@_name": "paste"
+	},
+	{
+		"#text": "Вставить и перейти",
+		"@_name": "paste_and_goto"
+	},
+	{
+		"#text": "Друзья",
+		"@_name": "pengyouquan"
+	},
+	{
+		"#text": "Загрузить результаты",
+		"@_name": "permission_preload_label"
+	},
+	{
+		"#text": "Моё",
+		"@_name": "personal_center"
+	},
+	{
+		"#text": "Облачная синхронизация",
+		"@_name": "personal_sync_center_title"
+	},
+	{
+		"#text": "Качество изображения",
+		"@_name": "pic_quality"
+	},
+	{
+		"#text": "Доступна сеть Wi-Fi. Подключиться к точке доступа?",
+		"@_name": "pick_wifi_message"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "pick_wifi_no"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "pick_wifi_title"
+	},
+	{
+		"#text": "Да",
+		"@_name": "pick_wifi_yes"
+	},
+	{
+		"#text": "Воспроизвести онлайн",
+		"@_name": "play_online"
+	},
+	{
+		"#text": "Открыть всплывающее окно с этого сайта?",
+		"@_name": "popup_window_attempt"
+	},
+	{
+		"#text": "Разрешить открывать несколько вкладок",
+		"@_name": "pref_allow_apptabs"
+	},
+	{
+		"#text": "Автозаполнение форм",
+		"@_name": "pref_autofill_enabled"
+	},
+	{
+		"#text": "Быстрое заполнение веб-форм",
+		"@_name": "pref_autofill_enabled_summary"
+	},
+	{
+		"#text": "Вход в Google с помощью %s",
+		"@_name": "pref_autologin_progress"
+	},
+	{
+		"#text": "Автоматический вход в Google",
+		"@_name": "pref_autologin_title"
+	},
+	{
+		"#text": "Мобильный вид",
+		"@_name": "pref_content_autofit"
+	},
+	{
+		"#text": "Подгонять веб-страницы под размер экрана",
+		"@_name": "pref_content_autofit_summary"
+	},
+	{
+		"#text": "Блокировать всплывающие окна",
+		"@_name": "pref_content_block_popups"
+	},
+	{
+		"#text": "Настроить главную страницу",
+		"@_name": "pref_content_homepage"
+	},
+	{
+		"#text": "JavaScript",
+		"@_name": "pref_content_javascript"
+	},
+	{
+		"#text": "Горизонтально",
+		"@_name": "pref_content_landscape_only"
+	},
+	{
+		"#text": "Загружать изображения",
+		"@_name": "pref_content_load_images"
+	},
+	{
+		"#text": "Показывать изображения на веб-страницах",
+		"@_name": "pref_content_load_images_summary"
+	},
+	{
+		"#text": "Открывать страницы в режиме обзора",
+		"@_name": "pref_content_load_page"
+	},
+	{
+		"#text": "Показывать новые страницы в режиме обзора",
+		"@_name": "pref_content_load_page_summary"
+	},
+	{
+		"#text": "Открыть в фоновой вкладке",
+		"@_name": "pref_content_open_in_background"
+	},
+	{
+		"#text": "Открывать новые вкладки позади текущей",
+		"@_name": "pref_content_open_in_background_summary"
+	},
+	{
+		"#text": "Включить Flash",
+		"@_name": "pref_content_plugins"
+	},
+	{
+		"#text": "Режим инкогнито",
+		"@_name": "pref_content_private_browse"
+	},
+	{
+		"#text": "Поисковая система",
+		"@_name": "pref_content_search_engine"
+	},
+	{
+		"#text": "Выберите поисковую систему",
+		"@_name": "pref_content_search_engine_summary"
+	},
+	{
+		"#text": "Содержание страницы",
+		"@_name": "pref_content_title"
+	},
+	{
+		"#text": "WIFI_ONLY",
+		"@_name": "pref_data_preload_default_value"
+	},
+	{
+		"#text": "Загрузка результатов поиска",
+		"@_name": "pref_data_preload_dialogtitle"
+	},
+	{
+		"#text": "Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме",
+		"@_name": "pref_data_preload_summary"
+	},
+	{
+		"#text": "Загрузка результатов поиска",
+		"@_name": "pref_data_preload_title"
+	},
+	{
+		"#text": "ALWAYS",
+		"@_name": "pref_data_preload_value_always"
+	},
+	{
+		"#text": "WIFI_ONLY",
+		"@_name": "pref_data_preload_value_wifi_only"
+	},
+	{
+		"#text": "Кодировка текста",
+		"@_name": "pref_default_text_encoding"
+	},
+	{
+		"#text": "auto-detector",
+		"@_name": "pref_default_text_encoding_default"
+	},
+	{
+		"#text": "Кодировка текста",
+		"@_name": "pref_default_text_encoding_dialogtitle"
+	},
+	{
+		"#text": "Масштаб по умолчанию",
+		"@_name": "pref_default_zoom"
+	},
+	{
+		"#text": "Масштаб по умолчанию",
+		"@_name": "pref_default_zoom_dialogtitle"
+	},
+	{
+		"#text": "Enable Cpu Upload Path",
+		"@_name": "pref_development_cpu_upload_path"
+	},
+	{
+		"#text": "Show JavaScript Console",
+		"@_name": "pref_development_error_console"
+	},
+	{
+		"#text": "Enable OpenGL Rendering",
+		"@_name": "pref_development_hardware_accel"
+	},
+	{
+		"#text": "Enable HW Accelerated Skia",
+		"@_name": "pref_development_hardware_accel_skia"
+	},
+	{
+		"#text": "Enable nav cache dump",
+		"@_name": "pref_development_nav_dump"
+	},
+	{
+		"#text": "Normal rendering",
+		"@_name": "pref_development_normal_rendering"
+	},
+	{
+		"#text": "Reset prelogin",
+		"@_name": "pref_development_reset_prelogin"
+	},
+	{
+		"#text": "Single column rendering",
+		"@_name": "pref_development_single_column_rendering"
+	},
+	{
+		"#text": "Для разработчиков",
+		"@_name": "pref_development_title"
+	},
+	{
+		"#text": "Enable tracing",
+		"@_name": "pref_development_trace"
+	},
+	{
+		"#text": "UAString",
+		"@_name": "pref_development_uastring"
+	},
+	{
+		"#text": "Use wide viewport",
+		"@_name": "pref_development_viewport"
+	},
+	{
+		"#text": "Enable Visual Indicator",
+		"@_name": "pref_development_visual_indicator"
+	},
+	{
+		"#text": "Сброс настроек",
+		"@_name": "pref_extras_reset_default"
+	},
+	{
+		"#text": "Восстановить настройки по умолчанию?",
+		"@_name": "pref_extras_reset_default_dlg"
+	},
+	{
+		"#text": "Восстановить значения по умолчанию",
+		"@_name": "pref_extras_reset_default_summary"
+	},
+	{
+		"#text": "Восстановить настройки по умолчанию?",
+		"@_name": "pref_extras_reset_default_title"
+	},
+	{
+		"#text": "Настройки веб-сайтов",
+		"@_name": "pref_extras_website_settings"
+	},
+	{
+		"#text": "Дополнительные настройки для отдельных сайтов",
+		"@_name": "pref_extras_website_settings_summary"
+	},
+	{
+		"#text": "Автозаполнение",
+		"@_name": "pref_general_autofill_title"
+	},
+	{
+		"#text": "Полный экран",
+		"@_name": "pref_lab_fullscreen"
+	},
+	{
+		"#text": "Чтобы скрыть строку состояния, используйте полноэкранный режим",
+		"@_name": "pref_lab_fullscreen_summary"
+	},
+	{
+		"#text": "Панель инструментов",
+		"@_name": "pref_lab_quick_controls"
+	},
+	{
+		"#text": "Проведите от правого или левого края, чтобы открыть панель инструментов и скрыть строку приложения и адресную строку.",
+		"@_name": "pref_lab_quick_controls_summary"
+	},
+	{
+		"#text": "Предварительная загрузка страницы",
+		"@_name": "pref_link_prefetch_dialogtitle"
+	},
+	{
+		"#text": "Предварительно загружать веб-страницы в фоновом режиме",
+		"@_name": "pref_link_prefetch_summary"
+	},
+	{
+		"#text": "Предварительная загрузка страницы",
+		"@_name": "pref_link_prefetch_title"
+	},
+	{
+		"#text": "ALWAYS",
+		"@_name": "pref_link_prefetch_value_always"
+	},
+	{
+		"#text": "WIFI_ONLY",
+		"@_name": "pref_link_prefetch_value_wifi_only"
+	},
+	{
+		"#text": "Очистить кэш",
+		"@_name": "pref_privacy_clear_cache"
+	},
+	{
+		"#text": "Удалить кэшированный контент и базы данных?",
+		"@_name": "pref_privacy_clear_cache_dlg"
+	},
+	{
+		"#text": "Удалить кэшированный контент и базы данных",
+		"@_name": "pref_privacy_clear_cache_summary"
+	},
+	{
+		"#text": "Очистить файлы cookie",
+		"@_name": "pref_privacy_clear_cookies"
+	},
+	{
+		"#text": "Удалить все файлы cookie?",
+		"@_name": "pref_privacy_clear_cookies_dlg"
+	},
+	{
+		"#text": "Удалить все файлы cookie браузера",
+		"@_name": "pref_privacy_clear_cookies_summary"
+	},
+	{
+		"#text": "Очистить данные формы",
+		"@_name": "pref_privacy_clear_form_data"
+	},
+	{
+		"#text": "Удалить все сохранённые данные форм?",
+		"@_name": "pref_privacy_clear_form_data_dlg"
+	},
+	{
+		"#text": "Удалить все сохранённые данные форм",
+		"@_name": "pref_privacy_clear_form_data_summary"
+	},
+	{
+		"#text": "Закрыть геоданные",
+		"@_name": "pref_privacy_clear_geolocation_access"
+	},
+	{
+		"#text": "Закрыть геоданные?",
+		"@_name": "pref_privacy_clear_geolocation_access_dlg"
+	},
+	{
+		"#text": "Очистить список сайтов, имеющих доступ к данным о вашем местоположении",
+		"@_name": "pref_privacy_clear_geolocation_access_summary"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "pref_privacy_clear_history"
+	},
+	{
+		"#text": "Удалить историю браузера?",
+		"@_name": "pref_privacy_clear_history_dlg"
+	},
+	{
+		"#text": "Очистить историю браузера",
+		"@_name": "pref_privacy_clear_history_summary"
+	},
+	{
+		"#text": "Очистить пароли",
+		"@_name": "pref_privacy_clear_passwords"
+	},
+	{
+		"#text": "Удалить все сохранённые пароли?",
+		"@_name": "pref_privacy_clear_passwords_dlg"
+	},
+	{
+		"#text": "Удалить все сохранённые пароли",
+		"@_name": "pref_privacy_clear_passwords_summary"
+	},
+	{
+		"#text": "Файлы cookie",
+		"@_name": "pref_privacy_cookies_title"
+	},
+	{
+		"#text": "Доступ к геоданным",
+		"@_name": "pref_privacy_enable_geolocation"
+	},
+	{
+		"#text": "Разрешить сайтам запрашивать доступ к данным о вашем местоположении",
+		"@_name": "pref_privacy_enable_geolocation_summary"
+	},
+	{
+		"#text": "Данные формы",
+		"@_name": "pref_privacy_formdata_title"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "pref_privacy_location_title"
+	},
+	{
+		"#text": "Расположение панели инструментов",
+		"@_name": "pref_privacy_toolbar_sort"
+	},
+	{
+		"#text": "Запомнить пароль",
+		"@_name": "pref_save_user_account_and_password"
+	},
+	{
+		"#text": "Сохранить имя и пароль для сайта",
+		"@_name": "pref_save_user_account_and_password_summary"
+	},
+	{
+		"#text": "Разрешить cookie",
+		"@_name": "pref_security_accept_cookies"
+	},
+	{
+		"#text": "Разрешить сайтам сохранять и читать файлы cookie",
+		"@_name": "pref_security_accept_cookies_summary"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "pref_security_accept_push_msg"
+	},
+	{
+		"#text": "Пароли",
+		"@_name": "pref_security_passwords_title"
+	},
+	{
+		"#text": "Сохранять пароли",
+		"@_name": "pref_security_remember_passwords"
+	},
+	{
+		"#text": "Сохранять имена пользователей и пароли веб-сайтов",
+		"@_name": "pref_security_remember_passwords_summary"
+	},
+	{
+		"#text": "Сохранять данные форм",
+		"@_name": "pref_security_save_form_data"
+	},
+	{
+		"#text": "Запоминать введённые в формы данные для дальнейшего использования",
+		"@_name": "pref_security_save_form_data_summary"
+	},
+	{
+		"#text": "Сообщать об опасности",
+		"@_name": "pref_security_show_security_warning"
+	},
+	{
+		"#text": "Сообщать о проблемах с безопасностью сайтов",
+		"@_name": "pref_security_show_security_warning_summary"
+	},
+	{
+		"#text": "Установить как",
+		"@_name": "pref_set_homepage_to"
+	},
+	{
+		"#text": "Размер шрифта",
+		"@_name": "pref_set_text_degree"
+	},
+	{
+		"#text": "Автообновление",
+		"@_name": "pref_silent_upgrade_switch"
+	},
+	{
+		"#text": "Стиль панели инструментов",
+		"@_name": "pref_toolbar_style"
+	},
+	{
+		"#text": "Настройки Новостей Meizu",
+		"@_name": "pref_topic_news_setting"
+	},
+	{
+		"#text": "Появляется реклама - долгое нажатие для блокировки",
+		"@_name": "preference_ad_block_empty_bg_text"
+	},
+	{
+		"#text": "Нет блокированной рекламы",
+		"@_name": "preference_ad_block_empty_bg_title"
+	},
+	{
+		"#text": "Заблокирована реклама %1$s",
+		"@_name": "preference_ad_block_hit_count"
+	},
+	{
+		"#text": "Разблокировать",
+		"@_name": "preference_ad_block_manual_delete"
+	},
+	{
+		"#text": "Ручная настройка AdBlock",
+		"@_name": "preference_ad_block_manual_title"
+	},
+	{
+		"#text": "Блокировка рекламы",
+		"@_name": "preference_ad_block_title"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "preference_more"
+	},
+	{
+		"#text": "Установка обоев…",
+		"@_name": "progress_dialog_setting_wallpaper"
+	},
+	{
+		"#text": "Советы",
+		"@_name": "prompt_dialog_default_title"
+	},
+	{
+		"#text": "%s относится к личной информации",
+		"@_name": "prompt_dialog_header_title"
+	},
+	{
+		"#text": "Отпустите для обновления",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Последнее обновление",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "ч назад",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "сейчас",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "с. назад",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Потянуть вниз для обновления",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "Потянуть вниз для отметки прочитанным",
+		"@_name": "pull_to_mark_read"
+	},
+	{
+		"#text": "Потянуть вниз для отметки непрочитанным",
+		"@_name": "pull_to_mark_unread"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "pull_to_refresh_tip"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "rank_ad_banner"
+	},
+	{
+		"#text": "Режим чтения",
+		"@_name": "reader"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "reader_loading_error"
+	},
+	{
+		"#text": "Загрузка следующей страницы",
+		"@_name": "reader_loading_next_page"
+	},
+	{
+		"#text": "Это последняя страница",
+		"@_name": "reader_reach_end"
+	},
+	{
+		"#text": "Связанные рекомендации",
+		"@_name": "recomend_arcticle_head_title"
+	},
+	{
+		"#text": "Рекомендации",
+		"@_name": "recommend_channel"
+	},
+	{
+		"#text": "Сброс",
+		"@_name": "recovery"
+	},
+	{
+		"#text": "Восстановить вкладку",
+		"@_name": "recovery_tab"
+	},
+	{
+		"#text": "Восстановить незакрытые страницы при запуске",
+		"@_name": "recovery_tab_info"
+	},
+	{
+		"#text": "Ошибка сервера, попробуйте позже",
+		"@_name": "refresh_failed_server_error"
+	},
+	{
+		"#text": "Сеть нестабильна, пожалуйста, повторите попытку позже",
+		"@_name": "refresh_failed_time_out"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "refresh_success_no_data"
+	},
+	{
+		"#text": "Обновлено новостей %1$d",
+		"@_name": "refresh_success_with_data"
+	},
+	{
+		"#text": "Обновлено фото %1$d",
+		"@_name": "refresh_success_with_image"
+	},
+	{
+		"#text": "Обновлено видео %1$d",
+		"@_name": "refresh_success_with_video"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "refreshing_tip"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "reload"
+	},
+	{
+		"#text": "\"Обновить\"",
+		"@_name": "reload_drag_menu"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "reload_page_temporarily_unavailable"
+	},
+	{
+		"#text": "Запомнить",
+		"@_name": "remember"
+	},
+	{
+		"#text": "Запомнить мой выбор",
+		"@_name": "remember_choice"
+	},
+	{
+		"#text": "Сохранить пароль?",
+		"@_name": "remember_passwords"
+	},
+	{
+		"#text": "Я: %s",
+		"@_name": "remind_item_content_prefix"
+	},
+	{
+		"#text": "…",
+		"@_name": "remind_item_love_name_more_fix_prefix"
+	},
+	{
+		"#text": "и т.д.",
+		"@_name": "remind_item_love_name_more_prefix"
+	},
+	{
+		"#text": "%d пользоват. согласны с вашей точкой зрения",
+		"@_name": "remind_item_love_name_more_suffix"
+	},
+	{
+		"#text": "Согласны с вашей точкой зрения",
+		"@_name": "remind_item_love_name_one_suffix"
+	},
+	{
+		"#text": "Последние сообщения: %d",
+		"@_name": "remind_item_new_comment"
+	},
+	{
+		"#text": "Ответ: %s",
+		"@_name": "remind_item_reply_prefix"
+	},
+	{
+		"#text": "Ответ дан",
+		"@_name": "remind_reply_success"
+	},
+	{
+		"#text": "Нет новостей, вперёд к комментариям",
+		"@_name": "remind_sofa_tip"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "remove"
+	},
+	{
+		"#text": "Удаление закладок: %s",
+		"@_name": "remove_bookmark_number"
+	},
+	{
+		"#text": "Удаление записей: %s",
+		"@_name": "remove_history_number"
+	},
+	{
+		"#text": "Удаление записей: %s",
+		"@_name": "remove_snapshot_number"
+	},
+	{
+		"#text": "Все ответы",
+		"@_name": "reply_comment"
+	},
+	{
+		"#text": "Юан.",
+		"@_name": "rmb_yuan"
+	},
+	{
+		"#text": "Сохранить изображение",
+		"@_name": "s1"
+	},
+	{
+		"#text": "Разрешить объявлению сохранить изображение в галерее?",
+		"@_name": "s2"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "s3"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "s4"
+	},
+	{
+		"#text": "Создать мероприятие",
+		"@_name": "s5"
+	},
+	{
+		"#text": "Разрешить объявлению создать мероприятие в календаре?",
+		"@_name": "s6"
+	},
+	{
+		"#text": "Тестовое объявление",
+		"@_name": "s7"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "save"
+	},
+	{
+		"#text": "Неизвестная ошибка",
+		"@_name": "save_page_unknown_error"
+	},
+	{
+		"#text": "Сохранить в заметках",
+		"@_name": "save_to_note"
+	},
+	{
+		"#text": "Не удалось сохранить веб-страницу",
+		"@_name": "saved_page_failed"
+	},
+	{
+		"#text": "Веб-страница успешно сохранена",
+		"@_name": "saved_page_succeed"
+	},
+	{
+		"#text": "Сохранение…",
+		"@_name": "saving_snapshot"
+	},
+	{
+		"#text": "Требуется доступ к вашей камере для поддержки сканирования кодов",
+		"@_name": "scan_application_permission_message"
+	},
+	{
+		"#text": "Нет результатов",
+		"@_name": "scan_frame_no_result_text_1"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "scan_frame_no_result_text_2"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети.",
+		"@_name": "scan_network_unavailable"
+	},
+	{
+		"#text": "Сеть не найдена, нажмите для настройки",
+		"@_name": "scan_no_network"
+	},
+	{
+		"#text": "Нет результатов",
+		"@_name": "scan_no_result"
+	},
+	{
+		"#text": "Ошибка сервера, нажмите для повтора",
+		"@_name": "scan_server_error"
+	},
+	{
+		"#text": "Игры",
+		"@_name": "sdk_label_game"
+	},
+	{
+		"#text": "Книги",
+		"@_name": "sdk_label_novel"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search"
+	},
+	{
+		"#text": "Найдено в сети:",
+		"@_name": "search_ad_tip"
+	},
+	{
+		"#text": "Ввод",
+		"@_name": "search_bar_right_btn_enter"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_bar_right_btn_search"
+	},
+	{
+		"#text": "Запустить",
+		"@_name": "search_button_text"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "search_change_data"
+	},
+	{
+		"#text": "Успешно скопировано",
+		"@_name": "search_copy_success"
+	},
+	{
+		"#text": "Введите запрос или URL-адрес",
+		"@_name": "search_hint"
+	},
+	{
+		"#text": "История поиска",
+		"@_name": "search_history"
+	},
+	{
+		"#text": "Browser",
+		"@_name": "search_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Закладки и история поиска",
+		"@_name": "search_settings_description"
+	},
+	{
+		"#text": "Предупреждения безопасности",
+		"@_name": "security_warning"
+	},
+	{
+		"#text": "Выбрать",
+		"@_name": "select"
+	},
+	{
+		"#text": "Выбрать закладку",
+		"@_name": "select_bookmark_hint"
+	},
+	{
+		"#text": "Выбрать историю",
+		"@_name": "select_history_hint"
+	},
+	{
+		"#text": "Выбрать изображение",
+		"@_name": "select_image"
+	},
+	{
+		"#text": "Выбрать страницу",
+		"@_name": "select_page"
+	},
+	{
+		"#text": "Выберите, чтобы открыть",
+		"@_name": "select_to_open"
+	},
+	{
+		"#text": "Выбрать все",
+		"@_name": "selectAll"
+	},
+	{
+		"#text": "Отправить на рабочий стол",
+		"@_name": "send_to_desktop"
+	},
+	{
+		"#text": "Уже существует на рабочем столе",
+		"@_name": "send_to_desktop_duplicate"
+	},
+	{
+		"#text": "Не разрешать пустой заголовок",
+		"@_name": "send_to_desktop_empty"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "set_network"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "set_network_dialog_cancel"
+	},
+	{
+		"#text": "Настроить сеть",
+		"@_name": "set_network_dialog_confirm"
+	},
+	{
+		"#text": "Нет сети. Проверьте настройки.",
+		"@_name": "set_network_dialog_message"
+	},
+	{
+		"#text": "Открытие скопированной ссылки",
+		"@_name": "setting_redirect_when_copied_url"
+	},
+	{
+		"#text": "Привет. Мне понравилась страница %s., посмотри!",
+		"@_name": "share_desc"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "share_title"
+	},
+	{
+		"#text": "URL-адрес уже существует",
+		"@_name": "shotcut_already_exist"
+	},
+	{
+		"#text": "Раздражает реклама? Попробуйте заблокировать её долгим нажатием",
+		"@_name": "show_ad_filter_guide"
+	},
+	{
+		"#text": "Вы можете отменить блокировку рекламы в настройках",
+		"@_name": "show_ad_filter_toast"
+	},
+	{
+		"#text": "Сравнить все цены",
+		"@_name": "show_all_price"
+	},
+	{
+		"#text": "Удерживайте и перетащите для упорядочивания значков",
+		"@_name": "show_drag_menu_guide"
+	},
+	{
+		"#text": "Нажмите Вперёд, чтобы просмотреть предварительно загруженную страницу.",
+		"@_name": "show_pre_read_guide"
+	},
+	{
+		"#text": "Удерживайте и проведите вверх для закрытия текущей страницы",
+		"@_name": "show_scroll_bar_guide"
+	},
+	{
+		"#text": "Удерживайте и проведите вниз для закрытия всех страниц",
+		"@_name": "show_scroll_bar_guide_land"
+	},
+	{
+		"#text": "Нажмите на строку состояния, чтобы вернуться к заголовку страницы",
+		"@_name": "show_status_bar_guide"
+	},
+	{
+		"#text": "Удерживайте кнопку Назад для быстрого ввода URL-адреса",
+		"@_name": "show_url_input_guide"
+	},
+	{
+		"#text": "Войти в %s1\\\"%s2\\\"",
+		"@_name": "sign_in_to",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Слайд для настройки",
+		"@_name": "slide_right_to_home_page"
+	},
+	{
+		"#text": "Смарт-ридер",
+		"@_name": "smart_reader"
+	},
+	{
+		"#text": "Слияние веб-страницы со Смарт-ридером",
+		"@_name": "smart_reader_info"
+	},
+	{
+		"#text": "Не удалось сохранить для офлайн-чтения",
+		"@_name": "snapshot_failed"
+	},
+	{
+		"#text": "Требуется загрузка новой версии браузера. Выполнить загрузку через мобильную сеть?",
+		"@_name": "so_crash_download_tip"
+	},
+	{
+		"#text": "\"Ошибка браузера. Загрузите актуальную версию для решения проблемы\"",
+		"@_name": "so_crash_empty_list_tip"
+	},
+	{
+		"#text": "\"Восстановление… Перезагрузите браузер после завершения\"",
+		"@_name": "so_crash_restore_tip"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "sponsored"
+	},
+	{
+		"#text": "Сертификат безопасности",
+		"@_name": "ssl_certificate"
+	},
+	{
+		"#text": "Этот сертификат действителен.",
+		"@_name": "ssl_certificate_is_valid"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "ssl_continue"
+	},
+	{
+		"#text": "Дата этого сертификата недействительна.",
+		"@_name": "ssl_date_invalid"
+	},
+	{
+		"#text": "Срок действия сертификата истёк.",
+		"@_name": "ssl_expired"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "ssl_go_back"
+	},
+	{
+		"#text": "Этот сертификат недействителен.",
+		"@_name": "ssl_invalid"
+	},
+	{
+		"#text": "Название сайта не соответствует названию в сертификате.",
+		"@_name": "ssl_mismatch"
+	},
+	{
+		"#text": "Сертификат ещё не действителен.",
+		"@_name": "ssl_not_yet_valid"
+	},
+	{
+		"#text": "Неизвестная ошибка сертификата.",
+		"@_name": "ssl_unknown"
+	},
+	{
+		"#text": "Этот сертификат получен из ненадёжных источников.",
+		"@_name": "ssl_untrusted"
+	},
+	{
+		"#text": "У этого сайта обнаружены проблемы с сертификатом безопасности.",
+		"@_name": "ssl_warnings_header"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Остановка…",
+		"@_name": "stopping"
+	},
+	{
+		"#text": "Автор: %1$s",
+		"@_name": "string_book_author"
+	},
+	{
+		"#text": "Цена: %1$s%2$s",
+		"@_name": "string_book_price"
+	},
+	{
+		"#text": "Издательство: %1$s",
+		"@_name": "string_book_publish"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "string_copy"
+	},
+	{
+		"#text": "Статус доставки",
+		"@_name": "string_express_info"
+	},
+	{
+		"#text": "Нет данных, попробуйте позже",
+		"@_name": "string_express_no_info"
+	},
+	{
+		"#text": "Содержание",
+		"@_name": "string_introduce"
+	},
+	{
+		"#text": "Сравнить цены",
+		"@_name": "string_price_compare"
+	},
+	{
+		"#text": "Справочная цена",
+		"@_name": "string_reference_price"
+	},
+	{
+		"#text": "Сохранить контакт",
+		"@_name": "string_save_contacts"
+	},
+	{
+		"#text": "Открыть сайт",
+		"@_name": "string_visit_url"
+	},
+	{
+		"#text": "Ответить на комментарий",
+		"@_name": "sub_comment_title"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "submit"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "submited_done"
+	},
+	{
+		"#text": "Сообщение отправлено, спасибо за отзыв",
+		"@_name": "submited_tip"
+	},
+	{
+		"#text": "Подписаться",
+		"@_name": "subscribe"
+	},
+	{
+		"#text": "Выбрать место",
+		"@_name": "suggest_btn_title_bug"
+	},
+	{
+		"#text": "Играть",
+		"@_name": "suggest_btn_title_play"
+	},
+	{
+		"#text": "Используется передача данных через мобильную сеть. Продолжение загрузки повлечёт расход трафика (%s).",
+		"@_name": "suggest_install_app_over_size_alert"
+	},
+	{
+		"#text": "ПО",
+		"@_name": "suggest_symbol_app"
+	},
+	{
+		"#text": "Игры",
+		"@_name": "suggest_symbol_game"
+	},
+	{
+		"#text": "Фильмы",
+		"@_name": "suggest_symbol_movie"
+	},
+	{
+		"#text": "O2O",
+		"@_name": "suggest_symbol_o2o"
+	},
+	{
+		"#text": "Очистить историю поиска?",
+		"@_name": "sure_to_clear_search_history"
+	},
+	{
+		"#text": "Синхронизация",
+		"@_name": "sync"
+	},
+	{
+		"#text": "Элементы синхронизации",
+		"@_name": "sync_content"
+	},
+	{
+		"#text": "Синхронизировать закладки и ярлыки",
+		"@_name": "sync_description"
+	},
+	{
+		"#text": "Ярлыки",
+		"@_name": "sync_home_icon"
+	},
+	{
+		"#text": "Ошибка синхронизации",
+		"@_name": "sync_info_fail"
+	},
+	{
+		"#text": "Сбой синхронизации. Повторите попытку позже.",
+		"@_name": "sync_info_fail_msg"
+	},
+	{
+		"#text": "Последняя синхронизация: %s",
+		"@_name": "sync_info_last_time"
+	},
+	{
+		"#text": "Прямо сейчас",
+		"@_name": "sync_info_last_time1"
+	},
+	{
+		"#text": "\" м. назад\"",
+		"@_name": "sync_info_last_time2"
+	},
+	{
+		"#text": "\" ч. назад\"",
+		"@_name": "sync_info_last_time3"
+	},
+	{
+		"#text": "Синхронизация",
+		"@_name": "sync_loading"
+	},
+	{
+		"#text": "Синхронизация",
+		"@_name": "sync_now"
+	},
+	{
+		"#text": "Синхронизация завершена",
+		"@_name": "sync_success"
+	},
+	{
+		"#text": "Тип синхронизации",
+		"@_name": "sync_way"
+	},
+	{
+		"#text": "Системный аккаунт",
+		"@_name": "system_account"
+	},
+	{
+		"#text": "Закладки",
+		"@_name": "tab_bookmarks"
+	},
+	{
+		"#text": "Закладки/История",
+		"@_name": "tab_bookmarks_history"
+	},
+	{
+		"#text": "Категория",
+		"@_name": "tab_catalog"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "tab_feed"
+	},
+	{
+		"#text": "История",
+		"@_name": "tab_history"
+	},
+	{
+		"#text": "История",
+		"@_name": "tab_history_short"
+	},
+	{
+		"#text": "Главная страница",
+		"@_name": "tab_homepage"
+	},
+	{
+		"#text": "Сохран. страницы",
+		"@_name": "tab_snapshots"
+	},
+	{
+		"#text": "Инструменты",
+		"@_name": "tab_tool_box"
+	},
+	{
+		"#text": "\"Инструменты\"",
+		"@_name": "tab_tool_box_drag_menu"
+	},
+	{
+		"#text": "более 10 тысяч",
+		"@_name": "ten_thousands_more"
+	},
+	{
+		"#text": "10 тысяч",
+		"@_name": "tenThousand"
+	},
+	{
+		"#text": "Условия использования Яндекс.Новостей",
+		"@_name": "terms_of_use_for_newsfeed_by_yandex"
+	},
+	{
+		"#text": "----------------------------------------------------------------------------------------",
+		"@_name": "test"
+	},
+	{
+		"#text": "Закрыть все",
+		"@_name": "text_close_all_tab"
+	},
+	{
+		"#text": "тыс.",
+		"@_name": "thousand"
+	},
+	{
+		"#text": "Позавчера",
+		"@_name": "time_day_before_yestoday"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "time_today"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "time_yestoday"
+	},
+	{
+		"#text": "Нет соединения, проверьте настройки сети",
+		"@_name": "tip_no_network"
+	},
+	{
+		"#text": "Название",
+		"@_name": "title"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "title_bar_loading"
+	},
+	{
+		"#text": "Книга",
+		"@_name": "title_book"
+	},
+	{
+		"#text": "Событие",
+		"@_name": "title_calendar"
+	},
+	{
+		"#text": "Открыть «%s»?",
+		"@_name": "title_open_extras_app"
+	},
+	{
+		"#text": "Продукт",
+		"@_name": "title_product"
+	},
+	{
+		"#text": "Текст",
+		"@_name": "title_text"
+	},
+	{
+		"#text": "Сайт",
+		"@_name": "title_url"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "title_wifi"
+	},
+	{
+		"#text": "Достигнута максимальная длина URL",
+		"@_name": "too_long_url_dialog_title"
+	},
+	{
+		"#text": "Можно открыть только одно всплывающее окно.",
+		"@_name": "too_many_subwindows_dialog_message"
+	},
+	{
+		"#text": "Всплывающее окно уже открыто",
+		"@_name": "too_many_subwindows_dialog_title"
+	},
+	{
+		"#text": "Удерживайте и перетащите для сортировки",
+		"@_name": "toolbar_sort_text"
+	},
+	{
+		"#text": "Тип",
+		"@_name": "type"
+	},
+	{
+		"#text": "Не интересно",
+		"@_name": "uninterested"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "update"
+	},
+	{
+		"#text": "Установлена актуальная версия",
+		"@_name": "update_check_current_is_newest_version"
+	},
+	{
+		"#text": "Текущая версия: V%1$s",
+		"@_name": "update_check_current_version"
+	},
+	{
+		"#text": "Текущая версия V%1$s. Доступна новая версия V%2$s",
+		"@_name": "update_check_found_new_version"
+	},
+	{
+		"#text": "Проверка…",
+		"@_name": "update_check_is_checking"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для проверки",
+		"@_name": "update_check_is_failed"
+	},
+	{
+		"#text": "Обновление выполняется в фоновом режиме, пожалуйста, подождите…",
+		"@_name": "update_check_is_updating"
+	},
+	{
+		"#text": "Проверка обновлений",
+		"@_name": "update_check_title"
+	},
+	{
+		"#text": "Обновить пароль?",
+		"@_name": "update_passwords"
+	},
+	{
+		"#text": "Этот сайт может быть опасен!",
+		"@_name": "url_warn"
+	},
+	{
+		"#text": "Использовать передачу данных для воспроизведения?",
+		"@_name": "use_mobile_play"
+	},
+	{
+		"#text": "Агент пользователя",
+		"@_name": "user_agent"
+	},
+	{
+		"#text": "Войти сейчас",
+		"@_name": "user_center_info_unlogin_button_login_now"
+	},
+	{
+		"#text": "Войти снова",
+		"@_name": "user_center_info_unlogin_button_re_login"
+	},
+	{
+		"#text": "Вход в систему",
+		"@_name": "user_center_info_unlogin_loading_text"
+	},
+	{
+		"#text": "Ошибка входа",
+		"@_name": "user_center_info_unlogin_tips_failed"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "user_center_quit_cancel"
+	},
+	{
+		"#text": "Выйти",
+		"@_name": "user_center_quit_quit"
+	},
+	{
+		"#text": "Выйти",
+		"@_name": "user_center_quit_quit_account"
+	},
+	{
+		"#text": "Очистить локальные данные аккаунта?",
+		"@_name": "user_center_quit_quit_dialog_checkbox_text"
+	},
+	{
+		"#text": "Выйти из аккаунта?",
+		"@_name": "user_center_quit_quit_dialog_message"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "user_center_quit_sure"
+	},
+	{
+		"#text": "Синхронизация",
+		"@_name": "user_center_quit_sync"
+	},
+	{
+		"#text": "Часть данных ещё не синхронизирована с аккаунтом Flyme",
+		"@_name": "user_center_quit_unsync_dialog_message"
+	},
+	{
+		"#text": "Войдите, чтобы сохранять закладки",
+		"@_name": "user_menu_info_text"
+	},
+	{
+		"#text": "Идентификация браузера влияет на отображение страниц и видео",
+		"@_name": "useragent_hint"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "username"
+	},
+	{
+		"#text": "Click for more details, if you are interested in the sponsorship.",
+		"@_name": "video_des_text"
+	},
+	{
+		"#text": "Сейчас в мобильной сети",
+		"@_name": "video_in_mobile_network"
+	},
+	{
+		"#text": "Удерживайте для разблокировки",
+		"@_name": "video_longpress_unlock"
+	},
+	{
+		"#text": "воспроизв.",
+		"@_name": "video_play_text"
+	},
+	{
+		"#text": "Нажмите, чтобы разблокировать",
+		"@_name": "video_screen_click_to_unlock"
+	},
+	{
+		"#text": "Экран заблокирован",
+		"@_name": "video_screen_lock"
+	},
+	{
+		"#text": "Экран разблокирован",
+		"@_name": "video_screen_unlock"
+	},
+	{
+		"#text": "Click For More Details",
+		"@_name": "video_title_text"
+	},
+	{
+		"#text": "Просмотреть сертификат",
+		"@_name": "view_certificate"
+	},
+	{
+		"#text": "Install",
+		"@_name": "vp_app_install"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "vp_app_installing"
+	},
+	{
+		"#text": "VideoPlayerHelper",
+		"@_name": "vp_app_name"
+	},
+	{
+		"#text": "Auto-download and install over WLAN",
+		"@_name": "vp_auto_download"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "vp_cancel"
+	},
+	{
+		"#text": "Detail",
+		"@_name": "vp_detail"
+	},
+	{
+		"#text": "%s Views",
+		"@_name": "vp_have_viewed"
+	},
+	{
+		"#text": "network unavailable",
+		"@_name": "vp_network_unavailable"
+	},
+	{
+		"#text": "No network connection, please check the network settings",
+		"@_name": "vp_network_unavailable_please_check"
+	},
+	{
+		"#text": "Playing video will consume data traffic in mobile networks,continue playing?",
+		"@_name": "vp_newwork_warning_text"
+	},
+	{
+		"#text": "Videos needs connecting to network and tracking your location to provide online videos.",
+		"@_name": "vp_permission_dialog_msg"
+	},
+	{
+		"#text": "Play",
+		"@_name": "vp_play"
+	},
+	{
+		"#text": "\"Can't rotate when gravity sensor is on\"",
+		"@_name": "vp_player_rotate_invalid"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "vp_pull_to_refresh"
+	},
+	{
+		"#text": "The content has been refreshed",
+		"@_name": "vp_refresh_notice"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "vp_release_to_refresh"
+	},
+	{
+		"#text": "Replay",
+		"@_name": "vp_replay"
+	},
+	{
+		"#text": "Tap to play via mobile network",
+		"@_name": "vp_use_mobile_clickplay"
+	},
+	{
+		"#text": "Using the mobile network to download  (%s)",
+		"@_name": "vp_use_mobile_download_game"
+	},
+	{
+		"#text": "Fail. Click to exit",
+		"@_name": "vp_video_error_click_to_exit"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "vp_video_loading_text"
+	},
+	{
+		"#text": "Tap to unlock",
+		"@_name": "vp_video_screen_click_to_unlock"
+	},
+	{
+		"#text": "Screen is locked",
+		"@_name": "vp_video_screen_lock"
+	},
+	{
+		"#text": "%1$d%%",
+		"@_name": "vp_volume_light_info"
+	},
+	{
+		"#text": "Могут существовать риски",
+		"@_name": "waring_dialog_header_text"
+	},
+	{
+		"#text": "Возможны риски, когда неизвестный веб-сайт предлагает ввод информации",
+		"@_name": "waring_dialog_prompt_header_text"
+	},
+	{
+		"#text": "Перезагрузить при слабом сигнале сети",
+		"@_name": "weaknetreload"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "web_name"
+	},
+	{
+		"#text": "Ссылка",
+		"@_name": "web_url"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "website_settings_clear_all_dialog_cancel_button"
+	},
+	{
+		"#text": "Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении",
+		"@_name": "website_settings_clear_all_dialog_message"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "webstorage_clear_data_dialog_cancel_button"
+	},
+	{
+		"#text": "Удалить все данные, сохраненные этим веб-сайтом",
+		"@_name": "webstorage_clear_data_dialog_message"
+	},
+	{
+		"#text": "Удалить сохранённые данные",
+		"@_name": "webstorage_clear_data_title"
+	},
+	{
+		"#text": "Объем занятой памяти телефона (Мб)",
+		"@_name": "webstorage_origin_summary_mb_stored"
+	},
+	{
+		"#text": "Нажмите, чтобы освободить место",
+		"@_name": "webstorage_outofspace_notification_text"
+	},
+	{
+		"#text": "Память браузера переполнена",
+		"@_name": "webstorage_outofspace_notification_title"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_favorite"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Сеанс WeChat",
+		"@_name": "wechat_session"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Больше не спрашивать",
+		"@_name": "wifi_aps_unavailable_check"
+	},
+	{
+		"#text": "Точка доступа Wi-Fi не обнаружена. Подключиться через 3G? Без пакета трафика это может привести к дополнительным расходам.",
+		"@_name": "wifi_aps_unavailable_message"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "wifi_aps_unavailable_title"
+	},
+	{
+		"#text": "Подключение по Wi-Fi",
+		"@_name": "wifi_connect"
+	},
+	{
+		"#text": "Тип: %1$s",
+		"@_name": "wifi_encryption_string"
+	},
+	{
+		"#text": "Пароль: %1$s",
+		"@_name": "wifi_password_string"
+	},
+	{
+		"#text": "Подключено",
+		"@_name": "wifi_status_connect"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "wifi_status_disconnect"
+	},
+	{
+		"#text": "Статус: %1$s",
+		"@_name": "wifi_status_string"
+	},
+	{
+		"#text": "Бесплатные беспроводные сети могут быть опасны, пожалуйста, позаботьтесь о сохранности ваших данных!",
+		"@_name": "wifi_warn"
+	},
+	{
+		"#text": "Кубок мира",
+		"@_name": "world_cup_name"
+	},
+	{
+		"#text": "Условия использования",
+		"@_name": "yandex_news_terms_of_use"
+	},
+	{
+		"#text": "Подключите учётные записи",
+		"@_name": "zen_auth_header"
+	},
+	{
+		"#text": "Дзен будет рекомендовать лучше, если будет больше знать о вас.",
+		"@_name": "zen_auth_snippet"
+	},
+	{
+		"#text": "Перейти к авторизации",
+		"@_name": "zen_auth_start"
+	},
+	{
+		"#text": "Скопировать ссылку",
+		"@_name": "zen_copy_url"
+	},
+	{
+		"#text": "\"device_id = %1$s \nuuid = %2$s \nclid = %3$s \nclient_name = %4$s \ncountry = %5$s \nversion_name = %6$s \nversion_code = %7$d\"",
+		"@_name": "zen_debug_multiTap_info"
+	},
+	{
+		"#text": "Debug info",
+		"@_name": "zen_debug_multiTap_info_label"
+	},
+	{
+		"#text": "Заблокировать источник",
+		"@_name": "zen_feedback_block"
+	},
+	{
+		"#text": "Источник заблокирован. Вы не будете видеть %s",
+		"@_name": "zen_feedback_blocked"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "zen_feedback_cancel"
+	},
+	{
+		"#text": "Не нравится",
+		"@_name": "zen_feedback_dislike"
+	},
+	{
+		"#text": "Меньше такого",
+		"@_name": "zen_feedback_less"
+	},
+	{
+		"#text": "Публикация скрыта. Теперь вы будете видеть меньше подобных публикаций",
+		"@_name": "zen_feedback_lessed"
+	},
+	{
+		"#text": "Нравится",
+		"@_name": "zen_feedback_like"
+	},
+	{
+		"#text": "Больше такого",
+		"@_name": "zen_feedback_more"
+	},
+	{
+		"#text": "Подписаться на канал",
+		"@_name": "zen_item_browser_subscribe"
+	},
+	{
+		"#text": "ru",
+		"@_name": "zen_language_code"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "zen_loading_button"
+	},
+	{
+		"#text": "Показывать изображения",
+		"@_name": "zen_menu_enable_images"
+	},
+	{
+		"#text": "Войти в Дзен",
+		"@_name": "zen_menu_login"
+	},
+	{
+		"#text": "Выйти",
+		"@_name": "zen_menu_logout"
+	},
+	{
+		"#text": "Открыть в фоне",
+		"@_name": "zen_menu_open_in_background"
+	},
+	{
+		"#text": "Открыть в новой вкладке",
+		"@_name": "zen_menu_open_in_new_tab"
+	},
+	{
+		"#text": "Открывать ссылки в Дзене",
+		"@_name": "zen_menu_open_links"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "zen_menu_title"
+	},
+	{
+		"#text": "Автозапуск видео",
+		"@_name": "zen_menu_video_autoplay"
+	},
+	{
+		"#text": "Новые публикации",
+		"@_name": "zen_more_button"
+	},
+	{
+		"#text": "Открыть в браузере",
+		"@_name": "zen_open_browser"
+	},
+	{
+		"#text": "Выбрать с помощью:",
+		"@_name": "zen_post_editor_attachment_chooser_title"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "zen_share"
+	},
+	{
+		"#text": "\"Отправлено из Яндекс Дзена %1$s\"",
+		"@_name": "zen_share_msg"
+	},
+	{
+		"#text": "Вам будет интересно",
+		"@_name": "zen_similar_header"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "zen_sponsored"
+	},
+	{
+		"#text": "Показать новые публикации",
+		"@_name": "zen_swipe_hint"
+	},
+	{
+		"#text": "Разблокировать",
+		"@_name": "zen_unblock"
+	},
+	{
+		"#text": "Отписаться",
+		"@_name": "zen_unsubscribe"
+	},
+	{
+		"#text": "Выключить звук",
+		"@_name": "zen_video_mute"
+	},
+	{
+		"#text": "Видео без звука",
+		"@_name": "zen_video_nosound"
+	},
+	{
+		"#text": "Включить звук",
+		"@_name": "zen_video_unmute"
+	},
+	{
+		"#text": "Не удалось загрузить контент",
+		"@_name": "zeninit_header_error"
+	},
+	{
+		"#text": "Нет соединения с интернетом",
+		"@_name": "zeninit_header_nonet"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "zeninit_welcome_error_retry"
+	},
+	{
+		"#text": "Ой! Что-то пошло не так",
+		"@_name": "zeninit_welcome_error_title"
+	},
+	{
+		"#text": "Войти",
+		"@_name": "zeninit_welcome_login"
+	},
+	{
+		"#text": "Статьи, новости и видео, на основе ваших интересов",
+		"@_name": "zeninit_welcome_main"
+	},
+	{
+		"#text": "Открыть настройки",
+		"@_name": "zeninit_welcome_nonet_settings"
+	},
+	{
+		"#text": "Нет доступа к интернету",
+		"@_name": "zeninit_welcome_nonet_title"
+	},
+	{
+		"#text": "Чем больше вы читаете, тем интереснее рекомендации предлагает Дзен",
+		"@_name": "zeninit_welcome_second"
+	},
+	{
+		"#text": "Попробовать",
+		"@_name": "zeninit_welcome_start"
+	},
+	{
+		"#text": "Ваша персональная лента",
+		"@_name": "zeninit_welcome_title"
+	},
+	{
+		"#text": "Для обновления новостей %1$s потяните вверх",
+		"@_name": "zi_xun_card_tips"
+	},
+	{
+		"#text": "Вверх для загрузки новостей",
+		"@_name": "zi_xun_card_tips_default"
+	},
+	{
+		"#text": "下载错误",
+		"@_name": "zi_xun_liu_ad_download_error"
+	},
+	{
+		"#text": "安装",
+		"@_name": "zi_xun_liu_ad_download_install"
+	},
+	{
+		"#text": "继续",
+		"@_name": "zi_xun_liu_ad_download_paused"
+	},
+	{
+		"#text": "下载中...",
+		"@_name": "zi_xun_liu_ad_downloading"
+	},
+	{
+		"#text": "打开",
+		"@_name": "zi_xun_liu_ad_install_complete"
+	},
+	{
+		"#text": "安装失败",
+		"@_name": "zi_xun_liu_ad_install_error"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "zi_xun_liu_ad_installing"
+	},
+	{
+		"#text": "广告",
+		"@_name": "zi_xun_liu_ad_label"
+	},
+	{
+		"#text": "%s评",
+		"@_name": "zi_xun_liu_article_comments"
+	},
+	{
+		"#text": "Новости Meizu",
+		"@_name": "zixun_card_simple_title"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "zixun_card_simple_title_more"
+	},
+	{
+		"#text": "Провести вверх",
+		"@_name": "zixun_guide_text"
+	},
+	{
+		"#text": "%d ч. назад",
+		"@_name": "zixun_item_time_hour"
+	},
+	{
+		"#text": "%d мин. назад",
+		"@_name": "zixun_item_time_minute"
+	},
+	{
+		"#text": "Сейчас",
+		"@_name": "zixun_item_time_now"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "zixunliu_ad_label"
+	}
+]

@@ -1,0 +1,310 @@
+[
+	{
+		"#text": "В настоящее время только 1-й слот поддерживает карту ChinaTelecom, если Вы вставляете карту ChinaTelecom во 2-й слот, она может быть неработоспособна, пожалуйста, вставьте карту ChinaTelecom заново в нужный слот.",
+		"@_name": "alert_ct_in_wrong_slot_message"
+	},
+	{
+		"#text": "Карта ChinaTelecom вставлена в неправильный слот",
+		"@_name": "alert_ct_in_wrong_slot_title"
+	},
+	{
+		"#text": "Звонки",
+		"@_name": "calls_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Мобильный интернет",
+		"@_name": "cellular_data_title"
+	},
+	{
+		"#text": "Оранжевый",
+		"@_name": "color_orange"
+	},
+	{
+		"#text": "Фиолетовый",
+		"@_name": "color_purple"
+	},
+	{
+		"#text": "Цвет",
+		"@_name": "color_title"
+	},
+	{
+		"#text": "Переключение SIM-карты может продолжаться минуту...",
+		"@_name": "data_switch_started"
+	},
+	{
+		"#text": "Не рекомендуется отключать передачу данных. Продолжить?",
+		"@_name": "data_switch_voice_calling_warning_text"
+	},
+	{
+		"#text": "Выберите данные на SIM%1$s",
+		"@_name": "data_switch_warning_title"
+	},
+	{
+		"#text": "Установить для мобильных данных выбранную SIM-карту после замены SIM-карты 4G/3G по умолчанию.",
+		"@_name": "lte_checkbox_text"
+	},
+	{
+		"#text": "Регистрация SIM-карты",
+		"@_name": "lte_recognition_title"
+	},
+	{
+		"#text": "Обнаружены две сим-карты, выберите основную SIM-карту:",
+		"@_name": "lte_recognize_summary_generic"
+	},
+	{
+		"#text": "The selected sim card will have 3G/4G services with Data subscription.",
+		"@_name": "lte_select_summary_generic"
+	},
+	{
+		"#text": "По умолчанию 4G/3G SIM-карта",
+		"@_name": "lte_select_title"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "lte_set"
+	},
+	{
+		"#text": "Установка SIM-карты 4G/3G по умолчанию",
+		"@_name": "lte_setting"
+	},
+	{
+		"#text": "Переключение для 4G/3G SIM-карты недоступно",
+		"@_name": "lte_switch_unavailable"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "no"
+	},
+	{
+		"#text": "OK",
+		"@_name": "okay"
+	},
+	{
+		"#text": "4G/3G по умолчанию",
+		"@_name": "primary_sub_select_title"
+	},
+	{
+		"#text": "Ошибка при регистрации",
+		"@_name": "reg_failed"
+	},
+	{
+		"#text": "4G/3G SIM-карта не зарегистрирована, %1$s будет установлена как 2G SIM-карта.",
+		"@_name": "reg_failed_msg"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "select_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "select_ok"
+	},
+	{
+		"#text": "Позвонить с",
+		"@_name": "select_sim_for_calls"
+	},
+	{
+		"#text": "Выбрать SIM-карту для моб. интернета",
+		"@_name": "select_sim_for_data"
+	},
+	{
+		"#text": "Перезванивать с SIM-карты по умолчанию",
+		"@_name": "sim_call_back_title"
+	},
+	{
+		"#text": "Всегда использовать для звонков",
+		"@_name": "sim_calls_always_use"
+	},
+	{
+		"#text": "Спрашивать каждый раз",
+		"@_name": "sim_calls_ask_first_prefs_title"
+	},
+	{
+		"#text": "SIM %1$d",
+		"@_name": "sim_card_number_title"
+	},
+	{
+		"#text": "Выбрать SIM-карту для SMS",
+		"@_name": "sim_card_select_title"
+	},
+	{
+		"#text": "SIM-карты заменены",
+		"@_name": "sim_cards_changed_message"
+	},
+	{
+		"#text": "Нажмите для установки действия",
+		"@_name": "sim_cards_changed_message_summary"
+	},
+	{
+		"#text": "Мобильный интернет недоступен",
+		"@_name": "sim_cellular_data_unavailable"
+	},
+	{
+		"#text": "Нажмите дял выбора SIM-карты",
+		"@_name": "sim_cellular_data_unavailable_summary"
+	},
+	{
+		"#text": "выкл.",
+		"@_name": "sim_disabled"
+	},
+	{
+		"#text": "Carrier",
+		"@_name": "sim_editor_carrier"
+	},
+	{
+		"#text": "Цвет SIM-карты",
+		"@_name": "sim_editor_color"
+	},
+	{
+		"#text": "Название SIM-карты",
+		"@_name": "sim_editor_name"
+	},
+	{
+		"#text": "Номер",
+		"@_name": "sim_editor_number"
+	},
+	{
+		"#text": "Слот для SIM карты: %1$d",
+		"@_name": "sim_editor_title"
+	},
+	{
+		"#text": "вкл.",
+		"@_name": "sim_enabled"
+	},
+	{
+		"#text": "Ошибка, включен Режим полёта!",
+		"@_name": "sim_enabler_airplane_on"
+	},
+	{
+		"#text": "\"Ошибка, нельзя отключить все SIM-карты\"",
+		"@_name": "sim_enabler_both_inactive"
+	},
+	{
+		"#text": "Деактивация...",
+		"@_name": "sim_enabler_disabling"
+	},
+	{
+		"#text": "Активация...",
+		"@_name": "sim_enabler_enabling"
+	},
+	{
+		"#text": "Ошибка, идёт звонок!",
+		"@_name": "sim_enabler_in_call"
+	},
+	{
+		"#text": "Деактивация SIM-карты, продолжить?",
+		"@_name": "sim_enabler_need_disable_sim"
+	},
+	{
+		"#text": "Активация SIM-карты, продолжить?",
+		"@_name": "sim_enabler_need_enable_sim"
+	},
+	{
+		"#text": "Уверены, что хотите переключиться на SIM%1$ для услуг передачи данных?",
+		"@_name": "sim_enabler_need_switch_data_service"
+	},
+	{
+		"#text": "\" %1$s\"",
+		"@_name": "sim_enabler_summary"
+	},
+	{
+		"#text": "Внимание",
+		"@_name": "sim_enabler_will_disable_sim_title"
+	},
+	{
+		"#text": "отсутствует или ошибка",
+		"@_name": "sim_missing"
+	},
+	{
+		"#text": "Введите название SIM-карты",
+		"@_name": "sim_name_hint"
+	},
+	{
+		"#text": "SIM-карта не вставлена",
+		"@_name": "sim_no_inserted_msg"
+	},
+	{
+		"#text": "Нажмите для настройки",
+		"@_name": "sim_notification_summary"
+	},
+	{
+		"#text": "SIM-карты заменены.",
+		"@_name": "sim_notification_title"
+	},
+	{
+		"#text": "Другие настройки вызовов",
+		"@_name": "sim_other_call_settings"
+	},
+	{
+		"#text": "SIM-карта дял исходящих звонков",
+		"@_name": "sim_outgoing_call_title"
+	},
+	{
+		"#text": "SIM-карта для",
+		"@_name": "sim_pref_divider"
+	},
+	{
+		"#text": "%1$s - единственная SIM-карта в устройстве. Вы хотите использовать эту SIM-карту для передачи данных, звонков и SMS-сообщений?",
+		"@_name": "sim_preferred_message"
+	},
+	{
+		"#text": "Обновить основную SIM-карту?",
+		"@_name": "sim_preferred_title"
+	},
+	{
+		"#text": "Выбор SIM-карты",
+		"@_name": "sim_select_card"
+	},
+	{
+		"#text": "Необходимо выбрать",
+		"@_name": "sim_selection_required_pref"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "sim_settings_summary"
+	},
+	{
+		"#text": "SIM-карты",
+		"@_name": "sim_settings_title"
+	},
+	{
+		"#text": "SIM-карты",
+		"@_name": "sim_setup_wizard_title"
+	},
+	{
+		"#text": "Нет SIM-карты",
+		"@_name": "sim_slot_empty"
+	},
+	{
+		"#text": "Статус SIM-карты",
+		"@_name": "sim_status_title"
+	},
+	{
+		"#text": "SMS сообщения",
+		"@_name": "sms_messages_title"
+	},
+	{
+		"#text": "Ошибка активации.",
+		"@_name": "sub_activate_failed"
+	},
+	{
+		"#text": "Успешно.",
+		"@_name": "sub_activate_success"
+	},
+	{
+		"#text": "Ошибка деактивации.",
+		"@_name": "sub_deactivate_failed"
+	},
+	{
+		"#text": "Умпешно.",
+		"@_name": "sub_deactivate_success"
+	},
+	{
+		"#text": "Да",
+		"@_name": "yes"
+	}
+]

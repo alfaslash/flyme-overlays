@@ -1,0 +1,186 @@
+[
+	{
+		"#text": "Allows the application to use the builtin fingerprint sensor to register users and authenticate them",
+		"@_name": "permdesc_ACCESS_FINGERPRINT_MANAGER"
+	},
+	{
+		"#text": "Camera failed to start",
+		"@_name": "camer_start_error"
+	},
+	{
+		"#text": "Starting the camera",
+		"@_name": "camer_start_starting"
+	},
+	{
+		"#text": "Camera started successfully",
+		"@_name": "camer_start_scuccess"
+	},
+	{
+		"#text": "Camera is off",
+		"@_name": "camer_close"
+	},
+	{
+		"#text": "No data in camera preview",
+		"@_name": "camer_perview_nodata"
+	},
+	{
+		"#text": "Face enrollment timed out. Try again",
+		"@_name": "camer_perview_timeout"
+	},
+	{
+		"#text": "Directly face the screen to unlock",
+		"@_name": "face_savefeature_scuccess"
+	},
+	{
+		"#text": "Checking",
+		"@_name": "face_failed_warning"
+	},
+	{
+		"#text": "Living attack",
+		"@_name": "face_liveness_warning"
+	},
+	{
+		"#text": "Face not detected",
+		"@_name": "face_liveness_failed"
+	},
+	{
+		"#text": "Move up to center",
+		"@_name": "face_failed_offset_bottom"
+	},
+	{
+		"#text": "Move right to center",
+		"@_name": "face_failed_offset_left"
+	},
+	{
+		"#text": "Move left to center",
+		"@_name": "face_failed_offset_right"
+	},
+	{
+		"#text": "Move down to center",
+		"@_name": "face_failed_offset_top"
+	},
+	{
+		"#text": "Full face not detected",
+		"@_name": "face_failed_quality"
+	},
+	{
+		"#text": "Hold phone farther",
+		"@_name": "face_failed_scale_too_large"
+	},
+	{
+		"#text": "Hold phone nearer",
+		"@_name": "face_failed_scale_too_small"
+	},
+	{
+		"#text": "Internal error - supplier problem",
+		"@_name": "face_failed_supplier_failed"
+	},
+	{
+		"#text": "Face not detected",
+		"@_name": "face_failed_not_found"
+	},
+	{
+		"#text": "Bright light is suggested",
+		"@_name": "face_failed_bad_light"
+	},
+	{
+		"#text": "Face angle: left",
+		"@_name": "face_failed_rotated_left"
+	},
+	{
+		"#text": "Face angle: right",
+		"@_name": "face_failed_rotated_right"
+	},
+	{
+		"#text": "Face angle: down",
+		"@_name": "face_failed_rotated_down"
+	},
+	{
+		"#text": "Face angle: up",
+		"@_name": "face_failed_rotated_top"
+	},
+	{
+		"#text": "Please do not move",
+		"@_name": "face_failed_camera_steady"
+	},
+	{
+		"#text": "The picture is too blurred",
+		"@_name": "face_failed_camera_attr_blur"
+	},
+	{
+		"#text": "Eyes were covered",
+		"@_name": "face_failed_attr_eye_occlusion"
+	},
+	{
+		"#text": "Please do not close your eyes",
+		"@_name": "face_failed_attr_eye_close"
+	},
+	{
+		"#text": "Please do not cover your mouth",
+		"@_name": "face_failed_attr_cover_mouth"
+	},
+	{
+		"#text": "Mouth was covered",
+		"@_name": "face_failed_attr_mouth_occlusion"
+	},
+	{
+		"#text": "Incoming parameter error",
+		"@_name": "face_failed_invalid_argument"
+	},
+	{
+		"#text": "Please do not move too fast",
+		"@_name": "face_failed_blur"
+	},
+	{
+		"#text": "Multiple faces",
+		"@_name": "face_failed_multi"
+	},
+	{
+		"#text": "Face scanned is incomplete",
+		"@_name": "face_failed_not_complete"
+	},
+	{
+		"#text": "Face in dim light",
+		"@_name": "face_failed_darklight_warning"
+	},
+	{
+		"#text": "Face in over bright light",
+		"@_name": "face_failed_highlight_warning"
+	},
+	{
+		"#text": "Face in dim light",
+		"@_name": "face_failed_half_shadow"
+	},
+	{
+		"#text": "Progress: %1$d%%",
+		"@_name": "face_savefeature_progress"
+	},
+	{
+		"#text": "Recognized successfully",
+		"@_name": "face_compare_scuccess"
+	},
+	{
+		"#text": "Not the same face, please try again",
+		"@_name": "face_not_sample_person_error"
+	},
+	{
+		"#text": "Please keep the whole face within the frame",
+		"@_name": "face_savefeature_update"
+	},
+	{
+		"#text": "Face unlocking was disabled. Please use the password or fingerprint to unlock",
+		"@_name": "face_compare_liveness_frozen"
+	},
+	{
+		"#text": "Face",
+		"@_name": "face_name_template"
+	},
+	{
+		"#text": "Face was covered",
+		"@_name": "face_failed_attr_face_occlusion"
+	},
+	{
+		"#text": "The face is not in the specified box",
+		"@_name": "face_failed_attr_not_in_roi"
+	}
+]

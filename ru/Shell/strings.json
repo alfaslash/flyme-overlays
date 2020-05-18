@@ -1,0 +1,90 @@
+[
+	{
+		"#text": "Shell",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "\"Не удалось добавить информацию об ошибке в zip-файл\"",
+		"@_name": "bugreport_add_details_to_zip_failed"
+	},
+	{
+		"#text": "\"Отчеты об ошибках содержат данные из различных лог-файлов системы, которые могут включать в себя данные, которые вы считаете конфиденциальными (такие как данные об использовании приложений и местоположении). Обменивайтесь сообщениями об ошибках только с людьми и приложениями, которым вы доверяете.\"",
+		"@_name": "bugreport_confirm"
+	},
+	{
+		"#text": "\"Больше не показывать\"",
+		"@_name": "bugreport_confirm_dont_repeat"
+	},
+	{
+		"#text": "Нажмите, чтобы поделиться сообщением об ошибке без скриншота или подождите, пока скриншот сохранится.",
+		"@_name": "bugreport_finished_pending_screenshot_text"
+	},
+	{
+		"#text": "Нажмите, чтобы поделиться сообщением об ошибке",
+		"@_name": "bugreport_finished_text"
+	},
+	{
+		"#text": "Bug report #%d captured",
+		"@_name": "bugreport_finished_title"
+	},
+	{
+		"#text": "Генерируется сообщение об ошибке: #%d",
+		"@_name": "bugreport_in_progress_title"
+	},
+	{
+		"#text": "Подробности",
+		"@_name": "bugreport_info_action"
+	},
+	{
+		"#text": "Информация об ошибке",
+		"@_name": "bugreport_info_description"
+	},
+	{
+		"#text": "Информация об ошибке: #%d",
+		"@_name": "bugreport_info_dialog_title"
+	},
+	{
+		"#text": "Название файла",
+		"@_name": "bugreport_info_name"
+	},
+	{
+		"#text": "Заголовок",
+		"@_name": "bugreport_info_title"
+	},
+	{
+		"#text": "Скриншот",
+		"@_name": "bugreport_screenshot_action"
+	},
+	{
+		"#text": "Ошибка при создании скриншота.",
+		"@_name": "bugreport_screenshot_failed"
+	},
+	{
+		"#text": "Скриншот успешно создан.",
+		"@_name": "bugreport_screenshot_taken"
+	},
+	{
+		"#text": "Отчёт об ошибках",
+		"@_name": "bugreport_storage_title"
+	},
+	{
+		"#text": "безымянный",
+		"@_name": "bugreport_unnamed"
+	},
+	{
+		"#text": "Файл отчёта об ошибке не может быть прочитан",
+		"@_name": "bugreport_unreadable_text"
+	},
+	{
+		"#text": "Добавление информации в сообщение об ошибке",
+		"@_name": "bugreport_updating_title"
+	},
+	{
+		"#text": "Подождите…",
+		"@_name": "bugreport_updating_wait"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "save"
+	}
+]

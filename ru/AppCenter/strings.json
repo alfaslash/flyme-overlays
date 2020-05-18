@@ -1,0 +1,3333 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "about"
+	},
+	{
+		"#text": "Веб-версия Магазина приложений",
+		"@_name": "about_subtitile1"
+	},
+	{
+		"#text": "Сообщество разработчиков",
+		"@_name": "about_subtitile2"
+	},
+	{
+		"#text": "Магазин приложений Meizu",
+		"@_name": "about_titile"
+	},
+	{
+		"#text": "Error obtaining account info",
+		"@_name": "access_account_info_error"
+	},
+	{
+		"#text": "Account login status has expired",
+		"@_name": "access_account_info_out_date"
+	},
+	{
+		"#text": "Error accessing server",
+		"@_name": "access_server_error"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Get high quality apps",
+		"@_name": "ad_slogen"
+	},
+	{
+		"#text": "Skip Ad %d",
+		"@_name": "ad_time_format"
+	},
+	{
+		"#text": "Excellent",
+		"@_name": "add_comment_fivestar_content"
+	},
+	{
+		"#text": "Great, highly recommended",
+		"@_name": "add_comment_fourstar_content"
+	},
+	{
+		"#text": "Input your feedback and suggestion",
+		"@_name": "add_comment_input_comment"
+	},
+	{
+		"#text": "Not recommended",
+		"@_name": "add_comment_onestar_content"
+	},
+	{
+		"#text": "Please delete sensitive words",
+		"@_name": "add_comment_sensitive_words_disable_input"
+	},
+	{
+		"#text": "Sensitive word",
+		"@_name": "add_comment_sensitive_words_remind"
+	},
+	{
+		"#text": "Server exception",
+		"@_name": "add_comment_server_error"
+	},
+	{
+		"#text": "Worth trying",
+		"@_name": "add_comment_threestar_content"
+	},
+	{
+		"#text": "Plenty space for improvement",
+		"@_name": "add_comment_twostar_content"
+	},
+	{
+		"#text": "Продолжить все",
+		"@_name": "all_continue"
+	},
+	{
+		"#text": "Другие ищут",
+		"@_name": "all_hot_search"
+	},
+	{
+		"#text": "Приостановить все",
+		"@_name": "all_pause"
+	},
+	{
+		"#text": "All %d replies",
+		"@_name": "all_reply"
+	},
+	{
+		"#text": "Запустить все",
+		"@_name": "all_start"
+	},
+	{
+		"#text": "Обновить все",
+		"@_name": "all_update"
+	},
+	{
+		"#text": "Просмотреть все разрешения",
+		"@_name": "allpermission"
+	},
+	{
+		"#text": "App already exists. Please uninstall it before reinstalling.",
+		"@_name": "already_exists"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "App source",
+		"@_name": "app_come_from"
+	},
+	{
+		"#text": "%d RMB",
+		"@_name": "app_detail_coupon_price"
+	},
+	{
+		"#text": "%d already claimed",
+		"@_name": "app_detail_coupon_receive_num"
+	},
+	{
+		"#text": "\\# %s",
+		"@_name": "app_detail_label_template"
+	},
+	{
+		"#text": "No news",
+		"@_name": "app_detail_news_empty"
+	},
+	{
+		"#text": "Скачать приложение",
+		"@_name": "app_download"
+	},
+	{
+		"#text": "Установка %d приложений",
+		"@_name": "app_download_format"
+	},
+	{
+		"#text": "Оценка приложения",
+		"@_name": "app_evaluating"
+	},
+	{
+		"#text": "Обратная связь",
+		"@_name": "app_feedback_enter"
+	},
+	{
+		"#text": "Безопасный",
+		"@_name": "app_green"
+	},
+	{
+		"#text": "Подробности",
+		"@_name": "app_info_desc_unfold"
+	},
+	{
+		"#text": "Обновление версии",
+		"@_name": "app_info_update_title"
+	},
+	{
+		"#text": "\\# %1$s",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Ручная проверка",
+		"@_name": "app_manual"
+	},
+	{
+		"#text": "Магазин приложений",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Приложение уже в продаже",
+		"@_name": "app_not_exist"
+	},
+	{
+		"#text": "Приложение было в продаже",
+		"@_name": "app_not_found"
+	},
+	{
+		"#text": "Permission details",
+		"@_name": "app_permission_details_fragment_title"
+	},
+	{
+		"#text": "%s  %s установок",
+		"@_name": "app_size_and_install_counts",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Источник:",
+		"@_name": "app_source"
+	},
+	{
+		"#text": "Совместимый",
+		"@_name": "app_stable"
+	},
+	{
+		"#text": "App updates",
+		"@_name": "app_update"
+	},
+	{
+		"#text": "Доступны обновления",
+		"@_name": "app_update_title"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "Информация",
+		"@_name": "appdetail_information"
+	},
+	{
+		"#text": "%s · %s",
+		"@_name": "appname_like",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Following contents can be accessed",
+		"@_name": "apppermission_followingcanaccess"
+	},
+	{
+		"#text": "1 App Update Available",
+		"@_name": "apps_update"
+	},
+	{
+		"#text": "「%s」,%s app updates available",
+		"@_name": "apps_update_formatted",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Обновление без данных>",
+		"@_name": "auto_downlad"
+	},
+	{
+		"#text": "Автоматическая загрузка обновлений через Wi-Fi",
+		"@_name": "auto_downlad_tip"
+	},
+	{
+		"#text": "Автоматическая установка обновлений без уведомлений",
+		"@_name": "auto_install"
+	},
+	{
+		"#text": "Автоматическая установка загруженных приложений",
+		"@_name": "auto_install_tips"
+	},
+	{
+		"#text": "Unable to parse app manifest file, please try reinstalling",
+		"@_name": "bad_manifest"
+	},
+	{
+		"#text": "Package name missing or in wrong format, please reinstall",
+		"@_name": "bad_package_name"
+	},
+	{
+		"#text": "Invalid process",
+		"@_name": "bad_shared_user_id"
+	},
+	{
+		"#text": "Network error. Try later",
+		"@_name": "book_fail"
+	},
+	{
+		"#text": "Order",
+		"@_name": "book_install"
+	},
+	{
+		"#text": "Booked. Stay tuned!",
+		"@_name": "book_success_tip"
+	},
+	{
+		"#text": "Ordered",
+		"@_name": "booked"
+	},
+	{
+		"#text": "The game you have booked is now available",
+		"@_name": "booked_game_available"
+	},
+	{
+		"#text": "Здесь мы находим больше функций",
+		"@_name": "bottom_bar_popup_tip"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "Align your face with the circular frame to complete the recognition",
+		"@_name": "camera_tips"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Удалить это задание",
+		"@_name": "cancel_current_task"
+	},
+	{
+		"#text": "Игнорировать",
+		"@_name": "cancel_the_ignore"
+	},
+	{
+		"#text": "Silent Installation failed",
+		"@_name": "cannot_silent_install"
+	},
+	{
+		"#text": "Switch categories",
+		"@_name": "category"
+	},
+	{
+		"#text": "Signature certificate coding exception, please reinstall",
+		"@_name": "certificate_encoding"
+	},
+	{
+		"#text": "Character limit exceeded %1$d of %2$d",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "Verifying device downloading permission failed",
+		"@_name": "check_devices_download_auth_failure"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "check_update"
+	},
+	{
+		"#text": "Checking for updates",
+		"@_name": "checking_update"
+	},
+	{
+		"#text": "Permission to externally trigger app store to check for updates",
+		"@_name": "checkupdate_permission_description"
+	},
+	{
+		"#text": "Select app",
+		"@_name": "chioce_app"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "clean_one_click"
+	},
+	{
+		"#text": "%s available, %s more required",
+		"@_name": "clean_size",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Очистить историю",
+		"@_name": "clear_history"
+	},
+	{
+		"#text": "Удалить историю обновлений",
+		"@_name": "clear_update_record"
+	},
+	{
+		"#text": "Clearing…",
+		"@_name": "clearing"
+	},
+	{
+		"#text": "Комментарии",
+		"@_name": "comment"
+	},
+	{
+		"#text": "Обзор после установки",
+		"@_name": "comment_after_install"
+	},
+	{
+		"#text": "Отзыв после входа",
+		"@_name": "comment_after_login"
+	},
+	{
+		"#text": "Обзор после обновления",
+		"@_name": "comment_after_update"
+	},
+	{
+		"#text": "Failed to delete comment",
+		"@_name": "comment_delete_fail"
+	},
+	{
+		"#text": "Delete comment?",
+		"@_name": "comment_delete_tip"
+	},
+	{
+		"#text": "Comment details",
+		"@_name": "comment_details"
+	},
+	{
+		"#text": "More",
+		"@_name": "comment_expand_text"
+	},
+	{
+		"#text": "Commented frequently. Retry later",
+		"@_name": "comment_frequently_msg"
+	},
+	{
+		"#text": "Firmware version is low. Please comment after update",
+		"@_name": "comment_low_version"
+	},
+	{
+		"#text": "No comments",
+		"@_name": "comment_no_body"
+	},
+	{
+		"#text": "Комментарий push",
+		"@_name": "comment_notify"
+	},
+	{
+		"#text": "%d new replies",
+		"@_name": "comment_notify_format"
+	},
+	{
+		"#text": "Нажмите комментарий ответить",
+		"@_name": "comment_notify_summary"
+	},
+	{
+		"#text": "New reply",
+		"@_name": "comment_one_notify"
+	},
+	{
+		"#text": "Комментарий push",
+		"@_name": "comment_reply"
+	},
+	{
+		"#text": "Comment deleted",
+		"@_name": "comment_reply_was_delete"
+	},
+	{
+		"#text": "Most helpful",
+		"@_name": "comment_sort_helpest_lable"
+	},
+	{
+		"#text": "Highest score",
+		"@_name": "comment_sort_highest_lable"
+	},
+	{
+		"#text": "Lowest score",
+		"@_name": "comment_sort_lowest_lable"
+	},
+	{
+		"#text": "Latest comment",
+		"@_name": "comment_sort_newest_lable"
+	},
+	{
+		"#text": "%1d star",
+		"@_name": "comment_star_format"
+	},
+	{
+		"#text": "%1d%%",
+		"@_name": "comment_star_precent_format"
+	},
+	{
+		"#text": "Reviewed",
+		"@_name": "comment_success"
+	},
+	{
+		"#text": "%d обзор(ы)",
+		"@_name": "comment_total_count"
+	},
+	{
+		"#text": "You have already reviewed this version",
+		"@_name": "commented_current_version"
+	},
+	{
+		"#text": "Обзоры приложений",
+		"@_name": "comments_fragment_actionbar_title"
+	},
+	{
+		"#text": "Coming",
+		"@_name": "comming"
+	},
+	{
+		"#text": "OK",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Ignore current update for %s?",
+		"@_name": "confirm_ignore_tips"
+	},
+	{
+		"#text": "Package conflicts. Please try reinstalling.",
+		"@_name": "conflicting_provider"
+	},
+	{
+		"#text": "Unable to access external storage, please try rebooting",
+		"@_name": "container_error"
+	},
+	{
+		"#text": "context is null",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "Continue"
+	},
+	{
+		"#text": "Продолжить загрузку",
+		"@_name": "continue_download_confirm"
+	},
+	{
+		"#text": "Удобно использовать",
+		"@_name": "convenient_to_use"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "copy"
+	},
+	{
+		"#text": "Orders",
+		"@_name": "count_of_booked_install"
+	},
+	{
+		"#text": "likes",
+		"@_name": "count_of_like"
+	},
+	{
+		"#text": "CPU ABI incompatible",
+		"@_name": "cpu_abi_incompatible"
+	},
+	{
+		"#text": "Generating order failed",
+		"@_name": "create_order_failure"
+	},
+	{
+		"#text": "\"Текущая версия: \"",
+		"@_name": "currentversion"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "Delete"
+	},
+	{
+		"#text": "Место хранения по умолчанию: %s",
+		"@_name": "delete_apk_subtitle"
+	},
+	{
+		"#text": "Удалить APK файлы после установки",
+		"@_name": "delete_apk_title"
+	},
+	{
+		"#text": "%1s · %2d likes",
+		"@_name": "detail_h5_ext_summary_format",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Top",
+		"@_name": "details_comment_hot_title_name"
+	},
+	{
+		"#text": "Latest",
+		"@_name": "details_comment_new_title_name"
+	},
+	{
+		"#text": "One like only",
+		"@_name": "details_comment_praise_reclick_remind"
+	},
+	{
+		"#text": "Description",
+		"@_name": "details_content_title_name"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "details_installing"
+	},
+	{
+		"#text": "Детали приложения",
+		"@_name": "details_title"
+	},
+	{
+		"#text": "\"Разработчик: \"",
+		"@_name": "developer"
+	},
+	{
+		"#text": "разработчик",
+		"@_name": "developer_label"
+	},
+	{
+		"#text": "Out of space, please free up space for installation",
+		"@_name": "dexopt"
+	},
+	{
+		"#text": "Insufficient storage",
+		"@_name": "disk_not_enough"
+	},
+	{
+		"#text": "…",
+		"@_name": "dots"
+	},
+	{
+		"#text": "Нет задач загрузки",
+		"@_name": "dowmload_manage_no_data_remind_text"
+	},
+	{
+		"#text": "Downgrade",
+		"@_name": "downgrade"
+	},
+	{
+		"#text": "Version %s already installed. Rolling it back to an earlier version will erase app data. Continue?",
+		"@_name": "downgrade_install_tips_message"
+	},
+	{
+		"#text": "Download",
+		"@_name": "download"
+	},
+	{
+		"#text": "Загрузка завершена",
+		"@_name": "download_complete"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "download_error"
+	},
+	{
+		"#text": "%s download failed",
+		"@_name": "download_error_formatted"
+	},
+	{
+		"#text": "Ошибка загрузки: %s",
+		"@_name": "download_error_formatted2"
+	},
+	{
+		"#text": "Ошибка загрузки: %s",
+		"@_name": "download_error_formatted3"
+	},
+	{
+		"#text": "Download manager",
+		"@_name": "download_manager"
+	},
+	{
+		"#text": "New version found. Tap to download",
+		"@_name": "download_new_version"
+	},
+	{
+		"#text": "Auto-download over WLAN",
+		"@_name": "download_over_wlan"
+	},
+	{
+		"#text": "Загрузка %d%%",
+		"@_name": "download_progress"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "downloading"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "drop_down_refresh"
+	},
+	{
+		"#text": "APK name already exists, please uninstall and then reinstall",
+		"@_name": "duplicate_package"
+	},
+	{
+		"#text": "Duplicate permission (signature certificate does not match)",
+		"@_name": "duplicate_permission"
+	},
+	{
+		"#text": "Enter",
+		"@_name": "enter"
+	},
+	{
+		"#text": "error is throwed while get token",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Основное приложение",
+		"@_name": "essential_app"
+	},
+	{
+		"#text": "Install WeChat first",
+		"@_name": "event_install_wechat"
+	},
+	{
+		"#text": "Share the activity, chance to win the lottery",
+		"@_name": "event_share"
+	},
+	{
+		"#text": "Fast forward",
+		"@_name": "exo_controls_fastforward_description"
+	},
+	{
+		"#text": "Fullscreen mode",
+		"@_name": "exo_controls_fullscreen_description"
+	},
+	{
+		"#text": "Next track",
+		"@_name": "exo_controls_next_description"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "exo_controls_pause_description"
+	},
+	{
+		"#text": "Play",
+		"@_name": "exo_controls_play_description"
+	},
+	{
+		"#text": "Previous track",
+		"@_name": "exo_controls_previous_description"
+	},
+	{
+		"#text": "Repeat all",
+		"@_name": "exo_controls_repeat_all_description"
+	},
+	{
+		"#text": "Repeat none",
+		"@_name": "exo_controls_repeat_off_description"
+	},
+	{
+		"#text": "Repeat one",
+		"@_name": "exo_controls_repeat_one_description"
+	},
+	{
+		"#text": "Rewind",
+		"@_name": "exo_controls_rewind_description"
+	},
+	{
+		"#text": "Shuffle",
+		"@_name": "exo_controls_shuffle_description"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "exo_controls_stop_description"
+	},
+	{
+		"#text": "Download completed",
+		"@_name": "exo_download_completed"
+	},
+	{
+		"#text": "Download",
+		"@_name": "exo_download_description"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "exo_download_downloading"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "exo_download_failed"
+	},
+	{
+		"#text": "Загрузки",
+		"@_name": "exo_download_notification_channel_name"
+	},
+	{
+		"#text": "Removing downloads",
+		"@_name": "exo_download_removing"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "exo_item_list"
+	},
+	{
+		"#text": "%1$.2f Mbps",
+		"@_name": "exo_track_bitrate"
+	},
+	{
+		"#text": "Mono",
+		"@_name": "exo_track_mono"
+	},
+	{
+		"#text": "%1$d × %2$d",
+		"@_name": "exo_track_resolution"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "exo_track_selection_auto"
+	},
+	{
+		"#text": "None",
+		"@_name": "exo_track_selection_none"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "exo_track_selection_title_audio"
+	},
+	{
+		"#text": "Text",
+		"@_name": "exo_track_selection_title_text"
+	},
+	{
+		"#text": "Video",
+		"@_name": "exo_track_selection_title_video"
+	},
+	{
+		"#text": "Stereo",
+		"@_name": "exo_track_stereo"
+	},
+	{
+		"#text": "Surround sound",
+		"@_name": "exo_track_surround"
+	},
+	{
+		"#text": "5.1 surround sound",
+		"@_name": "exo_track_surround_5_point_1"
+	},
+	{
+		"#text": "7.1 surround sound",
+		"@_name": "exo_track_surround_7_point_1"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "exo_track_unknown"
+	},
+	{
+		"#text": "\"Update package's target SDK is too old to support the permissions required for the app to run\"",
+		"@_name": "failed_permission_model_downgrade"
+	},
+	{
+		"#text": "Обратная связь",
+		"@_name": "feedback"
+	},
+	{
+		"#text": "Input your feedback and suggestion",
+		"@_name": "feedback_advertise"
+	},
+	{
+		"#text": "Помощь пользователя устарела. Отзыв после обновления",
+		"@_name": "feedback_low_version"
+	},
+	{
+		"#text": "Getting download address",
+		"@_name": "fetching_url"
+	},
+	{
+		"#text": "\"Couldn't write into the \\\"Downloaddirectory\"",
+		"@_name": "file_path_not_found"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "File permission error. Please try reinstalling",
+		"@_name": "file_still_open"
+	},
+	{
+		"#text": "\"Опубликовано: \"",
+		"@_name": "first_publish_time"
+	},
+	{
+		"#text": "Float Widget Entrance",
+		"@_name": "float_switcher_title"
+	},
+	{
+		"#text": "Forbid Reply %1s",
+		"@_name": "forbid_reply_msg"
+	},
+	{
+		"#text": "Сортировать по %s",
+		"@_name": "format_lable_sort"
+	},
+	{
+		"#text": "FrameAnimLib",
+		"@_name": "frame_anim_lib_name"
+	},
+	{
+		"#text": "「%s」and total %d app(s) updated",
+		"@_name": "free_update_tips",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "「%s」updated",
+		"@_name": "free_update_tips_one"
+	},
+	{
+		"#text": "Демо",
+		"@_name": "freetrail"
+	},
+	{
+		"#text": "invalid response",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "Game Download",
+		"@_name": "game_download"
+	},
+	{
+		"#text": "Загрузки",
+		"@_name": "game_download_manage"
+	},
+	{
+		"#text": "get token cancel",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "Receiving download link error",
+		"@_name": "get_download_url_failed"
+	},
+	{
+		"#text": "Get",
+		"@_name": "gift_draw_details_button"
+	},
+	{
+		"#text": "Go to Featured",
+		"@_name": "goto_special"
+	},
+	{
+		"#text": "Установлен",
+		"@_name": "had_install"
+	},
+	{
+		"#text": "Updated",
+		"@_name": "has_been_updated"
+	},
+	{
+		"#text": "Version history",
+		"@_name": "history_version"
+	},
+	{
+		"#text": "Latest version",
+		"@_name": "history_version_latest"
+	},
+	{
+		"#text": "MZ special edition",
+		"@_name": "history_version_mz"
+	},
+	{
+		"#text": "History Version is not found",
+		"@_name": "history_version_none"
+	},
+	{
+		"#text": "Previous Versions",
+		"@_name": "historyVersion"
+	},
+	{
+		"#text": "Hot searches",
+		"@_name": "hot_search"
+	},
+	{
+		"#text": "icon",
+		"@_name": "icon"
+	},
+	{
+		"#text": "Log in and authenticate",
+		"@_name": "identify_check_not_login_yes"
+	},
+	{
+		"#text": "\"Users are required to undergo authentication according to the Provisions on the Administration of Mobile Internet Applications Information Services of the People's Republic of China. We undertake that your personal information will be put under strict protection and disclosed to no third party.\"",
+		"@_name": "identity_check_message"
+	},
+	{
+		"#text": "\"Users are required to undergo authentication according to the Provisions on the Administration of Mobile Internet Applications Information Services of the People's Republic of China. Please log into your Meizu account and perform real-name authentication. We undertake that your personal information will be put under strict protection and disclosed to no third party.\"",
+		"@_name": "identity_check_not_login_message"
+	},
+	{
+		"#text": "Authenticate",
+		"@_name": "identity_check_yes"
+	},
+	{
+		"#text": "Игнорировать",
+		"@_name": "ignore_confirm"
+	},
+	{
+		"#text": "Игнорировать обновление текущей версии",
+		"@_name": "ignore_current_update"
+	},
+	{
+		"#text": "Сейчас игнорируются",
+		"@_name": "ignore_current_update_format"
+	},
+	{
+		"#text": "Игнорировать это обновление",
+		"@_name": "ignore_the_update"
+	},
+	{
+		"#text": "Игнорировать обновление",
+		"@_name": "ignore_update"
+	},
+	{
+		"#text": "Игнорировать это обновление приложения навсегда",
+		"@_name": "ignore_update_forever"
+	},
+	{
+		"#text": "Постоянно игнорировать",
+		"@_name": "ignore_update_forever_format"
+	},
+	{
+		"#text": "Игнорируемые обновления",
+		"@_name": "ignored_updates_format"
+	},
+	{
+		"#text": "\"Signature certificate doesn't match. Please uninstall the app and try again.\"",
+		"@_name": "inconsistent_certificates"
+	},
+	{
+		"#text": "Cannot %1s, please bind your phone and input other info",
+		"@_name": "info_not_complete_msg"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install"
+	},
+	{
+		"#text": "Install aborted",
+		"@_name": "install_aborted"
+	},
+	{
+		"#text": "users installed this app after searching",
+		"@_name": "install_after_search"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install_app"
+	},
+	{
+		"#text": "Установить (%d)",
+		"@_name": "install_apps"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install_at_once"
+	},
+	{
+		"#text": "%s установок",
+		"@_name": "install_counts_only"
+	},
+	{
+		"#text": "Установка не удалась",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Установка не удалась: %s",
+		"@_name": "install_error_formatted"
+	},
+	{
+		"#text": "Установка не удалась: %s",
+		"@_name": "install_error_formatted2"
+	},
+	{
+		"#text": "%s Установка не удалась",
+		"@_name": "install_error_formatted3"
+	},
+	{
+		"#text": "Feedback after installation",
+		"@_name": "install_feedback"
+	},
+	{
+		"#text": "Only show apps not installed yet. This can be changed in Settings",
+		"@_name": "install_filtered_tip"
+	},
+	{
+		"#text": "Show not installed apps only",
+		"@_name": "install_filtered_title"
+	},
+	{
+		"#text": "Управление установкой",
+		"@_name": "install_manage"
+	},
+	{
+		"#text": "New version downloaded. Tap to install",
+		"@_name": "install_new_version"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install_now"
+	},
+	{
+		"#text": "Installed a year ago",
+		"@_name": "install_over_year"
+	},
+	{
+		"#text": "История установки",
+		"@_name": "install_record"
+	},
+	{
+		"#text": "Установлен",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "%s Успешно установлен",
+		"@_name": "install_success_formatted"
+	},
+	{
+		"#text": "Успешно установлен: %s",
+		"@_name": "install_success_formatted2"
+	},
+	{
+		"#text": "Installation time is unknown",
+		"@_name": "install_time_unknown"
+	},
+	{
+		"#text": "Reply after installing",
+		"@_name": "install_to_reply"
+	},
+	{
+		"#text": "Установлен",
+		"@_name": "installed"
+	},
+	{
+		"#text": "Нет приложений",
+		"@_name": "installed_no_data_remind_text"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Установка %s",
+		"@_name": "installing_formatted"
+	},
+	{
+		"#text": "Reply after installing",
+		"@_name": "installing_reply"
+	},
+	{
+		"#text": "Another version of %s is installing. Please try again later.",
+		"@_name": "installing_tips_message"
+	},
+	{
+		"#text": "Out of space, please free up space to install",
+		"@_name": "insufficient_storage"
+	},
+	{
+		"#text": "intent need to be handled",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Interface does not exist",
+		"@_name": "interface_not_exist"
+	},
+	{
+		"#text": "Internal system error, please try rebooting",
+		"@_name": "internal_error"
+	},
+	{
+		"#text": "ПРОДОЛЖИТЬ",
+		"@_name": "international_continue"
+	},
+	{
+		"#text": "ВЫХОД",
+		"@_name": "international_exit"
+	},
+	{
+		"#text": "Only Chinese content is available now, more language will be coming soon.",
+		"@_name": "international_tips"
+	},
+	{
+		"#text": "Invalid APK file. Please reinstall.",
+		"@_name": "invalid_apk"
+	},
+	{
+		"#text": "Invalid installation path, please reinstall",
+		"@_name": "invalid_install_location"
+	},
+	{
+		"#text": "Invalid APK path, please reinstall",
+		"@_name": "invalid_uri"
+	},
+	{
+		"#text": "I/O Exception",
+		"@_name": "io_exception"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "about",
+		"@_name": "key_about"
+	},
+	{
+		"#text": "Order information is missing",
+		"@_name": "lack_order_info"
+	},
+	{
+		"#text": "Все версии приложений самые последние",
+		"@_name": "latest_version_tips"
+	},
+	{
+		"#text": "You can find WeChat, QQ, Taobao here",
+		"@_name": "launch_appcenter_notification_contenttext"
+	},
+	{
+		"#text": "Official App Store, Free and Secure",
+		"@_name": "launch_appcenter_notification_title"
+	},
+	{
+		"#text": "Less than 1,000",
+		"@_name": "less_than_one_thousand"
+	},
+	{
+		"#text": "Failed to like",
+		"@_name": "like_fail"
+	},
+	{
+		"#text": "Frequently like",
+		"@_name": "like_handler_too_often"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading_text"
+	},
+	{
+		"#text": "REJECT",
+		"@_name": "location_reject_button"
+	},
+	{
+		"#text": "Remember preferences",
+		"@_name": "location_remember_preferences"
+	},
+	{
+		"#text": "needs to use your location data",
+		"@_name": "location_request_message"
+	},
+	{
+		"#text": "SHARE_LOCATION",
+		"@_name": "location_share_button"
+	},
+	{
+		"#text": "Reply after login",
+		"@_name": "login_to_reply"
+	},
+	{
+		"#text": "No app manifest file found. Please try reinstalling.",
+		"@_name": "manifest_empty"
+	},
+	{
+		"#text": "App manifest file structure exception, please try reinstalling",
+		"@_name": "manifest_malformed"
+	},
+	{
+		"#text": "Может понравиться",
+		"@_name": "maybe_like"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Unable to access storage, please try rebooting",
+		"@_name": "media_unavailable"
+	},
+	{
+		"#text": "Operation failed",
+		"@_name": "method_invoke_failed"
+	},
+	{
+		"#text": "Me",
+		"@_name": "mine"
+	},
+	{
+		"#text": "Рынок монет",
+		"@_name": "mine_coin_market"
+	},
+	{
+		"#text": "Зарабатывать деньги",
+		"@_name": "mine_earn_coins"
+	},
+	{
+		"#text": "История сообщений",
+		"@_name": "mine_history_msg"
+	},
+	{
+		"#text": "Последнее сообщение",
+		"@_name": "mine_last_msg"
+	},
+	{
+		"#text": "Сообщение",
+		"@_name": "mine_message"
+	},
+	{
+		"#text": "Сообщение",
+		"@_name": "mine_msg"
+	},
+	{
+		"#text": "Нет сообщений",
+		"@_name": "mine_no_msg"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "mine_phone_clear"
+	},
+	{
+		"#text": "Мои счастливые деньги",
+		"@_name": "mine_red_packet"
+	},
+	{
+		"#text": "Меня:",
+		"@_name": "mine_reply_label"
+	},
+	{
+		"#text": "Подписать",
+		"@_name": "mine_sign"
+	},
+	{
+		"#text": "Подписанный",
+		"@_name": "mine_signed"
+	},
+	{
+		"#text": "APK contains features not supported by current system",
+		"@_name": "missing_feature"
+	},
+	{
+		"#text": "\"Can't go to App Store due to missing parameters\"",
+		"@_name": "missing_jump_param"
+	},
+	{
+		"#text": "Invalid dependent package, please try installing Google services",
+		"@_name": "missing_shared_library"
+	},
+	{
+		"#text": "It will cost %s mobile data",
+		"@_name": "mobile_network_download_tips_message"
+	},
+	{
+		"#text": "Без ограничений",
+		"@_name": "mobile_network_no_limit"
+	},
+	{
+		"#text": "Скачать по мобильному интернету",
+		"@_name": "mobile_network_setting"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more"
+	},
+	{
+		"#text": "Больше приложений",
+		"@_name": "more_apps"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_contents"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Удалить %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Uninstalling multiple apps, please wait",
+		"@_name": "mulit_app_delete_waitting"
+	},
+	{
+		"#text": "Please install QQ first before sharing it to QQ friends.",
+		"@_name": "must_install_qq"
+	},
+	{
+		"#text": "Install QZONE for sharing",
+		"@_name": "must_install_qqzone"
+	},
+	{
+		"#text": "Install WeChat for sharing",
+		"@_name": "must_install_wechat"
+	},
+	{
+		"#text": "Install Weibo for sharing",
+		"@_name": "must_install_weibo"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "must_intall_dialog_install"
+	},
+	{
+		"#text": "Me",
+		"@_name": "my_comment_nick_name"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s нужно %2$s %3$d разрешения",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Установка не удалась",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка на обновление",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверка на обновление",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Ошибка сети. Нажмите, чтобы повторить попытку",
+		"@_name": "network_error"
+	},
+	{
+		"#text": "Outdated installation package. Please install a later version of the app",
+		"@_name": "newer_sdk"
+	},
+	{
+		"#text": "Ваша текущая версия актуальна",
+		"@_name": "newest_version"
+	},
+	{
+		"#text": "News Detail",
+		"@_name": "news_detail"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "next"
+	},
+	{
+		"#text": "Signature certificate not found, please try reinstalling",
+		"@_name": "no_certificates"
+	},
+	{
+		"#text": "No matching native libraries in CPU framework",
+		"@_name": "no_matching_abis"
+	},
+	{
+		"#text": "No native libraries",
+		"@_name": "no_native_libraries"
+	},
+	{
+		"#text": "\"Can't find process-sharing apps. Please install related apps first.\"",
+		"@_name": "no_shared_user"
+	},
+	{
+		"#text": "All apps are up to date",
+		"@_name": "no_update_app"
+	},
+	{
+		"#text": "No updates description",
+		"@_name": "no_update_description"
+	},
+	{
+		"#text": "Нет истории обновлений",
+		"@_name": "no_update_record"
+	},
+	{
+		"#text": "No network connection. Tap to set",
+		"@_name": "nonetwork"
+	},
+	{
+		"#text": "Not an APK file. Please try reinstalling",
+		"@_name": "not_apk"
+	},
+	{
+		"#text": "Not recommend for",
+		"@_name": "not_recommend_reason"
+	},
+	{
+		"#text": "This operation is not supported",
+		"@_name": "not_support_operation"
+	},
+	{
+		"#text": "Извещения",
+		"@_name": "notice"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "notification"
+	},
+	{
+		"#text": "The「%s」you booked is installed successfully",
+		"@_name": "notification_booked_app_installed"
+	},
+	{
+		"#text": "The「%s」you booked is released",
+		"@_name": "notification_booked_app_on_sale_first"
+	},
+	{
+		"#text": "The game「%s」you booked is released. Go to install and win gift",
+		"@_name": "notification_booked_app_on_sale_goto_install_and_take_prize"
+	},
+	{
+		"#text": "The「%s」you booked is released. Go to install",
+		"@_name": "notification_booked_app_on_sale_second"
+	},
+	{
+		"#text": "Войдите, чтобы узнать больше удовольствия",
+		"@_name": "notlogin_desc"
+	},
+	{
+		"#text": "Obtaining Account",
+		"@_name": "obtaining_account"
+	},
+	{
+		"#text": "Outdated system version. Please update system before install the app",
+		"@_name": "older_sdk"
+	},
+	{
+		"#text": "Удалить сейчас",
+		"@_name": "one_key_uninstall"
+	},
+	{
+		"#text": "Удалить сейчас(%1$d app(s), %2$s in total)",
+		"@_name": "one_key_uninstall_format"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "open"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "open_app"
+	},
+	{
+		"#text": "Failed to open app without launcher",
+		"@_name": "open_app_failed"
+	},
+	{
+		"#text": "Opening app",
+		"@_name": "open_third_app_tip"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "other"
+	},
+	{
+		"#text": "APK changed. Please reinstall",
+		"@_name": "package_changed"
+	},
+	{
+		"#text": "Показать пароль",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "paused"
+	},
+	{
+		"#text": "Людям тоже нравится",
+		"@_name": "people_also_like"
+	},
+	{
+		"#text": "Максимально допустимая загрузка приложений",
+		"@_name": "per_app_limit_size"
+	},
+	{
+		"#text": "Права доступа",
+		"@_name": "permission"
+	},
+	{
+		"#text": "%s в целом",
+		"@_name": "permissions_total_counts"
+	},
+	{
+		"#text": "Input keyword to search",
+		"@_name": "please_input_search_keyword"
+	},
+	{
+		"#text": "Ждите…",
+		"@_name": "please_wait"
+	},
+	{
+		"#text": "OK",
+		"@_name": "pop_ok"
+	},
+	{
+		"#text": "Liked you",
+		"@_name": "praise_people_more_tip"
+	},
+	{
+		"#text": "Liked you",
+		"@_name": "praise_people_tip"
+	},
+	{
+		"#text": "Liked your comment",
+		"@_name": "praise_your_comment"
+	},
+	{
+		"#text": "Ожидание Wi-Fi",
+		"@_name": "pre_install_tips"
+	},
+	{
+		"#text": "\"\nWe will collect and use your personal information only for the purposes described in this statement:\n\n1.1 To maintain and improve services as well as to make the product stable when you enter the Meizu App Store to view, download, install, and manage apps, we need to collect the following information: device information (including device identifier, screen size, operating system, terminal model, networking mode, mobile country code, resolution, and system language), Meizu App Store client usage data (including app version number, app downloading channel, time when you open/close the app, data of in-app click, and data of visiting history), app information (including installed app list, apps downloaded, installation history, app uninstallation data, and app search history), IP address, and country/region.\n\nThis type of information is the basic information that must be collected in order to provide the services of downloading, installing, and managing by App Store. Your information below will be used for personalized display of app browsing: device identifiers, installed app list, apps downloaded and installation history, app search history. If you do not provide such information, you will not be able to use our services properly.\n\n1.2 When you log in to the Flyme account (once named Meizu account), you can use the following services: app reviews, paid-apps purchases, lucky draws, gifts, coupons, game subscriptions. Therefore we need to collect your Flyme account to identify your user identity. If you do not provide such information, you will not be able to use the services mentioned above properly. But it will not affect you using other services of the App Store. If you provide additional information such as avatar, nickname, etc., it will help us to provide you with better service and experience. If you do not provide such information, it will not affect you using other services of the App Store.\n\n1.3 When you write a review on an app, your review is stored on our servers because storage is necessary for writing a review. If you do not allow us to store such information, you will not be able to write a review on an app properly. But it will not affect you using other services of the App Store.\n\n1.4 When you purchase a paid app, you will fulfill the payment via MeizuPay Secure Payment. We need to collect your payment history for copyright protection. Payment history are personally sensitive. If you do not provide such information, you will not be able to purchase a paid app properly. But it will not affect you using other services of the App Store.\n\n1.5 When you participate in an event and receive physical prizes, we need to collect the following information: phone number, address, contacts. Among them, the phone number is personally sensitive information. The purpose of collecting such information is to contact you, and send you the prize you get. If you do not provide such information, you will not be able to receive the physical prizes. But it will not affect you using other services of the App Store.\n\n1.6 When you collect gifts and use the coupon, we need to collect your gift redeem code, coupon, mCoin, gift collecting record, and coupon usage record so that you can query and calculate your expenditure and balance. Among them, gift redeem code and mCoin are personally sensitive. If you do not provide such information, you will not be able to use the services mentioned above properly. But it will not affect you using other services of the App Store.\n\n1.7 When you subscribe a game, your subscription record is stored on our servers because storage is necessary for subscription. If you do not allow us to store such information, you will not be able to use the mentioned service properly, but it will not affect you using other services of the App Store.\n\nWhen we want to use the information for other purposes not mentioned by this statement, we will ask for your consent in advance.\n\nWhen we want to use information collected for a specific purpose for other purposes, we will ask for your consent in advance.\n\n2. Providing your personal information to third-party service providers\n\n2.1 The event prizes of this app are issued by Meizu or third-party partners and delivered by third-party logistics service providers. To do so, we need to provide your personal information to the third-party partners and the third-party logistics service providers to award prizes, including: address, phone number, contacts.\n\n2.2 When you share content in this app to WeChat, Weibo or other third-party app, we need to collect and provide your following information to WeChat, Weibo or other third-party app: device identifier.\n\n3. Your Data Subject Rights\n\nTo make it easier for you to access, correct and delete your personal information while using the Meizu App Store, and to protect your right to withdraw your license to use your personal information, we have provided you with appropriate settings when we design the product, which you can use with reference to the following instructions. If you have any questions, comments or suggestions regarding your data subject rights, please contact us through the contact information at the beginning of this statement and exercise your rights.\n\n3.1 Manage Personal Information\n\nYou can access and manage your personal information in the following ways:\n\n3.1.1 Access to your personal information\n(1) You have access to your personal information, except for exceptions specified in the laws and regulations. You can access your own personal information by:\nFlyme Account: if you want to access or edit personal profile information and payment information in your Flyme account, change your password, add security information, or close your account, you can do it through Account Management.\nInstallation history: you can view the history of your downloads and installed apps in the installation history.\nDownload Management: you can view, manage or clear your downloaded apps in this download management.\n(2) If you are unable to access such personal information through the above paths, you can contact Meizu Customer Service at any time. We will respond to your request within 30 days.\n(3) For other personal information that you may create during the use of our products or services, we will provide it to you at your request.\n3.1.2 Update, correct or supplement your personal information\nYou have the right to request us to update, correct or supplement your personal information when you find that we make it wrong about your personal information. You can apply for corrections or supplements as specified in 3.1.1 Access to Your Personal Information.\n\n3.1.3 Delete your personal information\n(1) You may delete some of your personal information by the way listed in 3.1.1 Access to your personal information.\n(2) In the following cases, you may request us to delete your personal information:\na) If we deal with personal information in violation of laws and regulations;\nb) If we collect and use your personal information without your express consent;\nc) If we deal with personal information in violation of the agreement between you and us;\nd) If you are no longer using our products or services, or you close your Flyme account on your own initiative;\ne)If we have permanently ceased to provide you with products or services.\n\n3.2 Message Prompt\n\nWhen you use the App Store service, you may receive messages such as activities, rewards, comments, etc., which you can turn off at Me > Settings > Notifications.\n\n3.3 App Update Notifications\n\nWhen there is a new version of the app on your device, we display the update information of the app in the notification bar. You can turn off App Update Notifications by going to Me > Settings > App Update Notifications.\n\n4. Data storage location and period\n\n4.1 Data storage location\n\nThe personal information we collect and generate under this service will be stored in the territory of the People's Republic of China.\n\n4.2 Data Storage Term\n\n We will only retain your personal information for the time necessary to achieve the purpose and will delete or anonymize your personal information after the following retention time unless otherwise required by laws and regulations.\n\nYour following information will be saved for 1 year: device information (including device identifier, screen size, operating system, terminal model, networking mode, mobile country code, resolution, system language), Meizu App Store client usage data (including app version number, app downloading channel, and time when you open/close the app), app information (including installed app list, apps downloaded, installation history, and app search history), and contact information (including phone number, address, contacts), gift redeem code, gift collecting record, coupon information, coupon usage record, subscription record, comments and country/region, your IP address, data of in-app click, data of visiting history, and app uninstallation data.\n\nYour Flyme account information, including the Flyme account, nickname, and avatar, will be saved until you delete your Flyme account.\n\nIn addition, in the event of a cessation of operation of our products or services, we will notify you by sending notices, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time.\n\n5. Updates to this Privacy Policy\n\nOur Privacy Policy may be changed.\n5.1 We do not restrict your rights under this Privacy Policy without your express consent. We will publish any changes to the Privacy Policy on a dedicated page (Setup > About > Privacy Policy).\n5.2 For major changes, we will also provide you with more noticeable notices (including notification of changes to be sent to you by means of a bullet box). Major changes referred to in this policy include but are not limited to:\n(1) Significant changes have taken place in our service model. Such as the purpose of personal information processing, the type of personal information processing, the use of personal information, etc.\n\n (2) Significant changes we have made in control and other aspects. E.G. Owner changes such as mergers and acquisitions, etc.;\n\n(3) When personal information security impact assessment report indicates that there is a high risk;\n\n(4) When your rights to participate in the processing of personal information and how they are exercised change significantly;\n\n(5) When the responsible department for handling the security of personal information, the contact information and complaint channels change.\n\nThis Agreement shall enter into effect on the date when it is updated.\n\nUpdated: April 2019\n\"",
+		"@_name": "privacy_content"
+	},
+	{
+		"#text": "Магазин приложений Meizu требует, чтобы вы согласились %s использовать",
+		"@_name": "privacy_dialog_message"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "privacy_dialog_negative"
+	},
+	{
+		"#text": "Согласен",
+		"@_name": "privacy_dialog_positive"
+	},
+	{
+		"#text": "Условия и декларации",
+		"@_name": "privacy_dialog_title"
+	},
+	{
+		"#text": "\"Meizu App Store (or App Store) Компания управляет компанией Meizu Technology Co., Ltd. (далее - Мы или Meizu) для загрузки, установки и управления продуктами (или услугами) сторонних приложений. Настоящая Политика конфиденциальности предназначена для того, чтобы помочь вам понять, какие данные мы будем собирать, почему они будут собираться, для чего они будут использоваться и как мы их защищаем. Понимание этого содержимого необходимо для осуществления ваших личных прав и защиты вашей личной информации. Пожалуйста, найдите время, чтобы внимательно прочитать эту политику, прежде чем использовать этот продукт (или услугу).\n\nЭтот продукт означает Meizu App Store Client.\n\nЛичная информация означает любую информацию, которая записывается в электронном или ином виде и которая может использоваться отдельно или в сочетании с другой информацией для идентификации конкретного физического лица или для отражения деятельности конкретного физического лица.\n\nЛичная конфиденциальная информация должна включать номер идентификационной карты, личную биометрическую информацию, номер банковского счета, информацию о собственности, местонахождение, информацию о транзакциях, личную информацию детей в возрасте до (или равных) 14 лет и т. Д.\n\nУдаление личной информации означает удаление личной информации в системе, участвующей в предоставлении ежедневных услуг, чтобы ее нельзя было получить или получить к ней доступ.\n\nПод дополнительной информацией подразумеваются значения сервера на вашем веб-сайте или в приложении, которые могут автоматически приниматься и записываться данным продуктом, когда вы используете этот продукт / услугу. Он включает, помимо прочего, ключевые слова, которые вы вводите, веб-страницу, к которой вы обращаетесь, и другие записи, рабочее состояние продукта или услуги, сетевое окружение, журналы исключений и другие основные записи, которые четко и объективно отражается на продукте или услуге сервера. Вышеупомянутые основные записи и другая информация, которая не может идентифицировать вашу личность, не является вашей личной информацией.\n\nПожалуйста, прочитайте и поймите эту Политику конфиденциальности Meizu App Store перед использованием наших продуктов / услуг.\n\nВы обещаете стать взрослым, когда начнете использовать этот продукт / услугу. Если вы несовершеннолетний, ваш опекун должен согласиться использовать это приложение и согласиться с условиями и положениями приложения.\n\nЕсли у вас есть какие-либо вопросы о настоящей Политике конфиденциальности или у вас есть какие-либо вопросы о нашем сборе, использовании, раскрытии, передаче или хранении вашей личной информации, пожалуйста, свяжитесь с нашим сотрудником по защите данных по электронной почте DPO@meizu.com.\n\nКак правило, мы ответим в течение 30 дней.\n\nЕсли вы не удовлетворены нашим ответом, особенно если наши действия по обработке личной информации подорвали ваши законные права и интересы, вы также можете разрешить его, возбудив дело в Народном суде компетентной юрисдикции, подав жалобу в отраслевую саморегулируемую ассоциацию или с соответствующей государственной администрацией.\nРазвернуть\nОтправить отзыв\nИстория\nСохранено\nСообщества\"",
+		"@_name": "privacy_explain"
+	},
+	{
+		"#text": "Политика конфеденциальности Meizu",
+		"@_name": "privacy_title"
+	},
+	{
+		"#text": "Как мы собираем и обрабатываем персональные данные",
+		"@_name": "privacy_title1"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "мин назад",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "%s Версия %s",
+		"@_name": "publish_date_version_format",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "- Сохранить уведомление за один месяц -",
+		"@_name": "push_history_footer"
+	},
+	{
+		"#text": "QQ friend",
+		"@_name": "qq_friend"
+	},
+	{
+		"#text": "QQZone",
+		"@_name": "qq_zone"
+	},
+	{
+		"#text": "Open",
+		"@_name": "quick_open"
+	},
+	{
+		"#text": "%s %%",
+		"@_name": "rcpb_downloaded"
+	},
+	{
+		"#text": "Game Center был удалён, установить заново?",
+		"@_name": "recall_game_center_tips"
+	},
+	{
+		"#text": "Likes received",
+		"@_name": "received_praise"
+	},
+	{
+		"#text": "Рейтинг:",
+		"@_name": "recommend_ratings"
+	},
+	{
+		"#text": "Получать push-сообщения",
+		"@_name": "recommendNotify"
+	},
+	{
+		"#text": "Получайте уведомления о популярных мероприятиях, подарках и другом контенте",
+		"@_name": "recommendNotify_tip"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "refresh"
+	},
+	{
+		"#text": "%s is incompatible with the update. Existing data has to be wiped to update the app. Continue?",
+		"@_name": "reinstall_tips_message"
+	},
+	{
+		"#text": "Related apps",
+		"@_name": "related_apps"
+	},
+	{
+		"#text": "Related content",
+		"@_name": "related_good_contents"
+	},
+	{
+		"#text": "Дата выпуска:",
+		"@_name": "release_time"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "release_to_refresh"
+	},
+	{
+		"#text": "\"Also clean up the app's remnants (%1$s)\"",
+		"@_name": "remove_apps_dialog_message"
+	},
+	{
+		"#text": "\"Also clean up the application's residual files\"",
+		"@_name": "remove_apps_dialog_message_without_size"
+	},
+	{
+		"#text": "Удалить %1$d app(s) like \\\"%2$s\\\"",
+		"@_name": "remove_apps_dialog_title_multi"
+	},
+	{
+		"#text": "Удалить \\\"%1$s\\\"",
+		"@_name": "remove_apps_dialog_title_single"
+	},
+	{
+		"#text": "Удалить %d app(s)",
+		"@_name": "remove_apps_tips"
+	},
+	{
+		"#text": "Remove %d record(s)",
+		"@_name": "remove_records_tips"
+	},
+	{
+		"#text": "%s Download Canceled",
+		"@_name": "removed_task"
+	},
+	{
+		"#text": "Dependent package missing, please try installing Google services",
+		"@_name": "replace_couldnt_delete"
+	},
+	{
+		"#text": "Reply after installing",
+		"@_name": "reply_after_install"
+	},
+	{
+		"#text": "Reply after login",
+		"@_name": "reply_after_login"
+	},
+	{
+		"#text": "Reply after upgrading",
+		"@_name": "reply_after_update"
+	},
+	{
+		"#text": "Your reply cannot be empty",
+		"@_name": "reply_empty"
+	},
+	{
+		"#text": "Replied frequently. Retry later",
+		"@_name": "reply_frequently_msg"
+	},
+	{
+		"#text": "History replies",
+		"@_name": "reply_history"
+	},
+	{
+		"#text": "Ответить",
+		"@_name": "reply_label"
+	},
+	{
+		"#text": "Last reply",
+		"@_name": "reply_last"
+	},
+	{
+		"#text": "Reply to thread starter",
+		"@_name": "reply_layer_master"
+	},
+	{
+		"#text": "Replied too frequently. Please retry later",
+		"@_name": "reply_only_ten_times_in_five_minutes"
+	},
+	{
+		"#text": "Reply Successful",
+		"@_name": "reply_success"
+	},
+	{
+		"#text": "Replied to you",
+		"@_name": "reply_your_comment"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "retry"
+	},
+	{
+		"#text": "Cannot %1s. Retry later",
+		"@_name": "rick_user_msg"
+	},
+	{
+		"#text": "Discovery details",
+		"@_name": "ripple_detail"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "roundbtn_update_downloaded"
+	},
+	{
+		"#text": "Runtime exception. Please try reinstalling",
+		"@_name": "runtime_exception"
+	},
+	{
+		"#text": "Настройки сохранения данных",
+		"@_name": "save_flow_setting"
+	},
+	{
+		"#text": "got null auth token for scope: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Disk",
+		"@_name": "sdcard_name"
+	},
+	{
+		"#text": "No more results",
+		"@_name": "search_list_bottom_tips"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "No Results Found",
+		"@_name": "search_none"
+	},
+	{
+		"#text": "Related searches:",
+		"@_name": "search_recommendbar_title"
+	},
+	{
+		"#text": "История версий",
+		"@_name": "see_history_version"
+	},
+	{
+		"#text": "Пользователи этого приложения также установили:",
+		"@_name": "selected_recommend_text"
+	},
+	{
+		"#text": "Невозможно получить доступ к адресу удаленного сервера",
+		"@_name": "server_disconnection"
+	},
+	{
+		"#text": "Ошибка при получении данных с сервера",
+		"@_name": "server_error"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share"
+	},
+	{
+		"#text": "\"%s, available on Meizu App Store \"",
+		"@_name": "share_to_others_content_appcenter"
+	},
+	{
+		"#text": "Подпись не совпадает с подписью общего процесса",
+		"@_name": "share_user_incompatible"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "sharesoftware_action"
+	},
+	{
+		"#text": "Please install %s first to view the content.",
+		"@_name": "show_after_installed"
+	},
+	{
+		"#text": "Просмотреть больше приложений",
+		"@_name": "show_all_app"
+	},
+	{
+		"#text": "День",
+		"@_name": "simplified_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "simplified_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "simplified_min"
+	},
+	{
+		"#text": "Размер:",
+		"@_name": "size"
+	},
+	{
+		"#text": "Пропускать",
+		"@_name": "skip2"
+	},
+	{
+		"#text": "Мои прил.",
+		"@_name": "smartbar_my"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "smartbar_search"
+	},
+	{
+		"#text": "Отсортировано по: %s",
+		"@_name": "sort_by"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Комментарии",
+		"@_name": "strip_comment"
+	},
+	{
+		"#text": "Подробно",
+		"@_name": "strip_detail"
+	},
+	{
+		"#text": "News",
+		"@_name": "strip_news"
+	},
+	{
+		"#text": "Рекомендую",
+		"@_name": "strip_recommend"
+	},
+	{
+		"#text": "Submit",
+		"@_name": "submit"
+	},
+	{
+		"#text": "Получайте призы за участие в мероприятиях",
+		"@_name": "switch_show_first_ad_tip"
+	},
+	{
+		"#text": "Разрешить рекламу",
+		"@_name": "switch_show_first_ad_title"
+	},
+	{
+		"#text": "sync get token time out",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Payment service unavailable temporarily",
+		"@_name": "system_pay_can_not_use"
+	},
+	{
+		"#text": "your active task go wrong!",
+		"@_name": "task_error_message"
+	},
+	{
+		"#text": "activity task is complete!",
+		"@_name": "task_finished_message"
+	},
+	{
+		"#text": "Unable to identify the task",
+		"@_name": "task_unrecognizable"
+	},
+	{
+		"#text": "For test only. Please install the official version",
+		"@_name": "test_only"
+	},
+	{
+		"#text": "Timeout",
+		"@_name": "timeout"
+	},
+	{
+		"#text": "Tip",
+		"@_name": "tip"
+	},
+	{
+		"#text": "%d установлено",
+		"@_name": "total_count"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "two_string_description_and_indicator",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Running process changed",
+		"@_name": "uid_changed"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "Unknown exception, please try reinstalling",
+		"@_name": "unexpected_exception"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "Не на устройстве",
+		"@_name": "uninstall_list"
+	},
+	{
+		"#text": "Неизвестная ошибка",
+		"@_name": "unknow_error_type"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "unknown error from sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "Не вошли",
+		"@_name": "unlogin"
+	},
+	{
+		"#text": "Account not logged in. Tap the screen to log in",
+		"@_name": "unlogin_tips_click_login"
+	},
+	{
+		"#text": "%1$d непрочитанные сообщения",
+		"@_name": "unread_message_format"
+	},
+	{
+		"#text": "Account entering function is not supported!",
+		"@_name": "unsupport_input_account_function"
+	},
+	{
+		"#text": "requests too frequently",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "%d дней бездействия",
+		"@_name": "unuse_day"
+	},
+	{
+		"#text": "Не используется более года",
+		"@_name": "unuse_over_year"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "update"
+	},
+	{
+		"#text": "Zero flow",
+		"@_name": "update_downloaded"
+	},
+	{
+		"#text": "App update management",
+		"@_name": "update_exclude_activity_title"
+	},
+	{
+		"#text": "Notify-to-update or auto-update disabled: %d app(s)",
+		"@_name": "update_exclude_title"
+	},
+	{
+		"#text": "1 App Update Available (Data-free)",
+		"@_name": "update_free_title"
+	},
+	{
+		"#text": "「%s」,%s app updates available (data-free)",
+		"@_name": "update_free_title_format",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Update package is incompatible. Please uninstall and then reinstall the app",
+		"@_name": "update_incompatible"
+	},
+	{
+		"#text": "Updates Downloaded via WLAN:",
+		"@_name": "update_notification_text"
+	},
+	{
+		"#text": "Update package is incompatible. Please update again",
+		"@_name": "update_pack_incompatible"
+	},
+	{
+		"#text": "История обновлений",
+		"@_name": "update_record"
+	},
+	{
+		"#text": "\"Обновленный: \"",
+		"@_name": "update_time"
+	},
+	{
+		"#text": "Reply after upgrading",
+		"@_name": "update_to_reply"
+	},
+	{
+		"#text": "Notify-to-update &amp; auto-update enabled: %d",
+		"@_name": "update_unexclude_title"
+	},
+	{
+		"#text": "Уведомления об обновлении приложения",
+		"@_name": "updateNotify"
+	},
+	{
+		"#text": "используется",
+		"@_name": "use"
+	},
+	{
+		"#text": "Редко используемый",
+		"@_name": "use_less"
+	},
+	{
+		"#text": "Скачать по мобильному интернету",
+		"@_name": "use_mobile_network_download"
+	},
+	{
+		"#text": "views",
+		"@_name": "user_browse"
+	},
+	{
+		"#text": "Установок",
+		"@_name": "user_downloaded"
+	},
+	{
+		"#text": "Insufficient permissions",
+		"@_name": "user_restricted"
+	},
+	{
+		"#text": "Ошибка проверки APK, пожалуйста, переустановите",
+		"@_name": "verification_failure"
+	},
+	{
+		"#text": "Тайм-аут проверки APK, пожалуйста, переустановите",
+		"@_name": "verification_timeout"
+	},
+	{
+		"#text": "Подробности о версии:",
+		"@_name": "version_details_title"
+	},
+	{
+		"#text": "Downgrade installation, please uninstall and then reinstall",
+		"@_name": "version_downgrade"
+	},
+	{
+		"#text": "Версия: %s",
+		"@_name": "version_format"
+	},
+	{
+		"#text": "%s версия",
+		"@_name": "version_format2"
+	},
+	{
+		"#text": "Версия:",
+		"@_name": "version_tip"
+	},
+	{
+		"#text": "Ошибка записи",
+		"@_name": "voice_error"
+	},
+	{
+		"#text": "\"Say 'Download QQ'\"",
+		"@_name": "voice_help_tips"
+	},
+	{
+		"#text": "The permission for recording is occupied",
+		"@_name": "voice_occupation"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "vp_app_install"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "vp_app_installing"
+	},
+	{
+		"#text": "VideoPlayerHelper",
+		"@_name": "vp_app_name"
+	},
+	{
+		"#text": "Auto-download and install over WLAN",
+		"@_name": "vp_auto_download"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "vp_cancel"
+	},
+	{
+		"#text": "Подробно",
+		"@_name": "vp_detail"
+	},
+	{
+		"#text": "%s Views",
+		"@_name": "vp_have_viewed"
+	},
+	{
+		"#text": "network unavailable",
+		"@_name": "vp_network_unavailable"
+	},
+	{
+		"#text": "No network connection, please check the network settings",
+		"@_name": "vp_network_unavailable_please_check"
+	},
+	{
+		"#text": "Playing video will consume data traffic in mobile networks,continue playing?",
+		"@_name": "vp_newwork_warning_text"
+	},
+	{
+		"#text": "Videos needs connecting to network and tracking your location to provide online videos.",
+		"@_name": "vp_permission_dialog_msg"
+	},
+	{
+		"#text": "Play",
+		"@_name": "vp_play"
+	},
+	{
+		"#text": "\"Can't rotate when gravity sensor is on\"",
+		"@_name": "vp_player_rotate_invalid"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "vp_pull_to_refresh"
+	},
+	{
+		"#text": "The content has been refreshed",
+		"@_name": "vp_refresh_notice"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "vp_release_to_refresh"
+	},
+	{
+		"#text": "Replay",
+		"@_name": "vp_replay"
+	},
+	{
+		"#text": "Tap to play via mobile network",
+		"@_name": "vp_use_mobile_clickplay"
+	},
+	{
+		"#text": "Using the mobile network to download  (%s)",
+		"@_name": "vp_use_mobile_download_game"
+	},
+	{
+		"#text": "Fail. Click to exit",
+		"@_name": "vp_video_error_click_to_exit"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "vp_video_loading_text"
+	},
+	{
+		"#text": "Tap to unlock",
+		"@_name": "vp_video_screen_click_to_unlock"
+	},
+	{
+		"#text": "Screen is locked",
+		"@_name": "vp_video_screen_lock"
+	},
+	{
+		"#text": "%1$d%%",
+		"@_name": "vp_volume_light_info"
+	},
+	{
+		"#text": "Пожалуйста, подождите…",
+		"@_name": "wait_dialog_remind"
+	},
+	{
+		"#text": "Ожидание загрузки",
+		"@_name": "waiting_download"
+	},
+	{
+		"#text": "Ожидаем продолжения",
+		"@_name": "waiting_for_resume"
+	},
+	{
+		"#text": "Awaiting installation",
+		"@_name": "waiting_install"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "WaitTip"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "web_extra_loading"
+	},
+	{
+		"#text": "Service exception, click on reload",
+		"@_name": "web_extra_need_reload"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "web_extra_no_network"
+	},
+	{
+		"#text": "WeChat Friend",
+		"@_name": "wechat_friend"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat moment",
+		"@_name": "wechat_moment"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Wechat",
+		"@_name": "weixin"
+	},
+	{
+		"#text": "%s  %s",
+		"@_name": "welfare_activity_date_description",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Using cellular data, %s in total",
+		"@_name": "wizard_mobile_tips"
+	},
+	{
+		"#text": "\"OMG, you are \\\"APPAHOLIC\\\"!\n\n You've got all our recommended apps already!\"",
+		"@_name": "wizard_noapp_text"
+	},
+	{
+		"#text": "Connected to WLAN. Download and install directly",
+		"@_name": "wizard_wifi_tips"
+	},
+	{
+		"#text": "Оставить отзыв",
+		"@_name": "write_comment_flow"
+	}
+]

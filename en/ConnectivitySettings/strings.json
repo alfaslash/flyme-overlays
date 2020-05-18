@@ -1,0 +1,6926 @@
+[
+	{
+		"#text": "Mobile network",
+		"@_name": "MobileNetwork_Category"
+	},
+	{
+		"#text": "Network locating request",
+		"@_name": "Network_Initiate"
+	},
+	{
+		"#text": "Allow network to access location",
+		"@_name": "Network_Initiate_Summary_on"
+	},
+	{
+		"#text": "Use A-GPS both under local and roaming network",
+		"@_name": "Network_Local_and_Roaming_Summary"
+	},
+	{
+		"#text": "Use A-GPS only under local network",
+		"@_name": "Network_Only_Local_Summary"
+	},
+	{
+		"#text": "Use A-GPS under roaming network may cause extra roaming fees.",
+		"@_name": "Network_Roaming_dialog_content"
+	},
+	{
+		"#text": "Attention",
+		"@_name": "Network_Roaming_dialog_title"
+	},
+	{
+		"#text": "Network used",
+		"@_name": "Network_Used"
+	},
+	{
+		"#text": "Examine WLAN networks",
+		"@_name": "Wifi_network_diagnostics_summary"
+	},
+	{
+		"#text": "WLAN Doctor",
+		"@_name": "Wifi_network_diagnostics_title"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Current Network Speed",
+		"@_name": "accessibility_current_network_speed_title"
+	},
+	{
+		"#text": "This feature is experimental and may affect performance.",
+		"@_name": "accessibility_display_daltonizer_preference_subtitle"
+	},
+	{
+		"#text": "Color correction",
+		"@_name": "accessibility_display_daltonizer_preference_title"
+	},
+	{
+		"#text": "Off",
+		"@_name": "accessibility_feature_state_off"
+	},
+	{
+		"#text": "On",
+		"@_name": "accessibility_feature_state_on"
+	},
+	{
+		"#text": "Less time.",
+		"@_name": "accessibility_manual_zen_less_time"
+	},
+	{
+		"#text": "More time.",
+		"@_name": "accessibility_manual_zen_more_time"
+	},
+	{
+		"#text": "WLAN disconnected.",
+		"@_name": "accessibility_no_wifi"
+	},
+	{
+		"#text": "Services",
+		"@_name": "accessibility_services_title"
+	},
+	{
+		"#text": "Tinted status bar",
+		"@_name": "accessibility_status_bar_tint_title"
+	},
+	{
+		"#text": "WLAN off.",
+		"@_name": "accessibility_wifi_off"
+	},
+	{
+		"#text": "WLAN one bar.",
+		"@_name": "accessibility_wifi_one_bar"
+	},
+	{
+		"#text": "Open network",
+		"@_name": "accessibility_wifi_security_type_none"
+	},
+	{
+		"#text": "Secure network",
+		"@_name": "accessibility_wifi_security_type_secured"
+	},
+	{
+		"#text": "WLAN signal full.",
+		"@_name": "accessibility_wifi_signal_full"
+	},
+	{
+		"#text": "WLAN three bars.",
+		"@_name": "accessibility_wifi_three_bars"
+	},
+	{
+		"#text": "WLAN two bars.",
+		"@_name": "accessibility_wifi_two_bars"
+	},
+	{
+		"#text": "Device administrator",
+		"@_name": "active_device_admin_msg"
+	},
+	{
+		"#text": "Active input methods",
+		"@_name": "active_input_method_subtypes"
+	},
+	{
+		"#text": "Revoke access to USB debugging from all computers you’ve previously authorized?",
+		"@_name": "adb_keys_warning_message"
+	},
+	{
+		"#text": "USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.",
+		"@_name": "adb_warning_message"
+	},
+	{
+		"#text": "Allow USB debugging?",
+		"@_name": "adb_warning_title"
+	},
+	{
+		"#text": "Add APN",
+		"@_name": "add_apn"
+	},
+	{
+		"#text": "Activate this device administrator",
+		"@_name": "add_device_admin"
+	},
+	{
+		"#text": "Activate device administrator?",
+		"@_name": "add_device_admin_msg"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "add_google_account_cancel"
+	},
+	{
+		"#text": "\"You don't have a Google account, add one\"",
+		"@_name": "add_google_account_msg"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add_google_account_ok"
+	},
+	{
+		"#text": "\"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.\n\nYour Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device's location information.\"",
+		"@_name": "adding_profile_owner_warning"
+	},
+	{
+		"#text": "\"Your administrator can monitor and manage apps and data associated with this device, including settings, permissions, corporate access, network activity, and the device's location information.\"",
+		"@_name": "admin_device_owner_message"
+	},
+	{
+		"#text": "Other options are disabled by your administrator.",
+		"@_name": "admin_disabled_other_options"
+	},
+	{
+		"#text": "More details",
+		"@_name": "admin_more_details"
+	},
+	{
+		"#text": "\"Your administrator can monitor and manage apps and data associated with your work profile, including settings, permissions, corporate access, network activity, and the device's location information.\"",
+		"@_name": "admin_profile_owner_message"
+	},
+	{
+		"#text": "\"Your administrator can monitor and manage apps and data associated with this user, including settings, permissions, corporate access, network activity, and the device's location information.\"",
+		"@_name": "admin_profile_owner_user_message"
+	},
+	{
+		"#text": "More details",
+		"@_name": "admin_support_more_info"
+	},
+	{
+		"#text": "Advanced settings",
+		"@_name": "advanced_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "agps_OK"
+	},
+	{
+		"#text": "Using A-GPS will cost mobile data, still enable A-GPS?",
+		"@_name": "agps_enable_confirm"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "agps_enable_confirm_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "agps_enable_confirm_deny"
+	},
+	{
+		"#text": "A-GPS enable confirmation",
+		"@_name": "agps_enable_confirm_title"
+	},
+	{
+		"#text": "A-GPS",
+		"@_name": "agps_settings_enable"
+	},
+	{
+		"#text": "GPS can access assisting data by network to speed up locating process",
+		"@_name": "agps_settings_enable_on"
+	},
+	{
+		"#text": "A-GPS settings",
+		"@_name": "agps_settings_eng_enable"
+	},
+	{
+		"#text": "Set up A-GPS settings",
+		"@_name": "agps_settings_eng_summary"
+	},
+	{
+		"#text": "A-GPS settings",
+		"@_name": "agps_settings_title"
+	},
+	{
+		"#text": "Airplane mode",
+		"@_name": "airplane_mode"
+	},
+	{
+		"#text": "at %1$s",
+		"@_name": "alarm_template"
+	},
+	{
+		"#text": "on %1$s",
+		"@_name": "alarm_template_far"
+	},
+	{
+		"#text": "China Telecom VoLTE HD call is not available in 3G network mode, and needs to switch to 4G priority.",
+		"@_name": "alert_ct_volte_3g"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "alert_ct_volte_ok"
+	},
+	{
+		"#text": "\"If SIM card didn't open VoLTE HD call before, normal call may be affected after opening. Please confirm this function to the carrier first.\"",
+		"@_name": "alert_ct_volte_unavailable"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "allow"
+	},
+	{
+		"#text": "Allow installing apps",
+		"@_name": "allow_install_app"
+	},
+	{
+		"#text": "Installing apps is limited to AppCenter",
+		"@_name": "allow_install_app_tips"
+	},
+	{
+		"#text": "Allow mock locations",
+		"@_name": "allow_mock_location"
+	},
+	{
+		"#text": "Allow mock locations",
+		"@_name": "allow_mock_location_summary"
+	},
+	{
+		"#text": "Allow notifications",
+		"@_name": "allow_notify"
+	},
+	{
+		"#text": "Allow SMS and outgoing calls",
+		"@_name": "allow_outgoing_call_and_sms"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "already_known"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Unavailable because NFC is turned off",
+		"@_name": "android_beam_disabled_summary"
+	},
+	{
+		"#text": "\"When this feature is turned on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam Browser pages, YouTube videos, People contacts, and more.\n\nJust bring the devices together (typically back to back) and then touch your screen. The app determines what gets beamed.\"",
+		"@_name": "android_beam_explained"
+	},
+	{
+		"#text": "Off",
+		"@_name": "android_beam_off_summary"
+	},
+	{
+		"#text": "Ready to transmit app content via NFC",
+		"@_name": "android_beam_on_summary"
+	},
+	{
+		"#text": "Android Beam",
+		"@_name": "android_beam_settings_title"
+	},
+	{
+		"#text": "Animator duration scale",
+		"@_name": "animator_duration_scale_title"
+	},
+	{
+		"#text": "APN",
+		"@_name": "apn_apn"
+	},
+	{
+		"#text": "Authentication type",
+		"@_name": "apn_auth_type"
+	},
+	{
+		"#text": "Edit access point",
+		"@_name": "apn_edit"
+	},
+	{
+		"#text": "Port",
+		"@_name": "apn_http_port"
+	},
+	{
+		"#text": "Proxy",
+		"@_name": "apn_http_proxy"
+	},
+	{
+		"#text": "APN List",
+		"@_name": "apn_list_category_title"
+	},
+	{
+		"#text": "MCC",
+		"@_name": "apn_mcc"
+	},
+	{
+		"#text": "MMS port",
+		"@_name": "apn_mms_port"
+	},
+	{
+		"#text": "MMS proxy",
+		"@_name": "apn_mms_proxy"
+	},
+	{
+		"#text": "MMSC",
+		"@_name": "apn_mmsc"
+	},
+	{
+		"#text": "MNC",
+		"@_name": "apn_mnc"
+	},
+	{
+		"#text": "Name",
+		"@_name": "apn_name"
+	},
+	{
+		"#text": "Not set",
+		"@_name": "apn_not_set"
+	},
+	{
+		"#text": "Password",
+		"@_name": "apn_password"
+	},
+	{
+		"#text": "APN protocol",
+		"@_name": "apn_protocol"
+	},
+	{
+		"#text": "RESET",
+		"@_name": "apn_reset"
+	},
+	{
+		"#text": "APN roaming protocol",
+		"@_name": "apn_roaming_protocol"
+	},
+	{
+		"#text": "Server",
+		"@_name": "apn_server"
+	},
+	{
+		"#text": "APNs",
+		"@_name": "apn_settings"
+	},
+	{
+		"#text": "Access Point Name settings are not available for this user",
+		"@_name": "apn_settings_not_available"
+	},
+	{
+		"#text": "APN type",
+		"@_name": "apn_type"
+	},
+	{
+		"#text": "Username",
+		"@_name": "apn_user"
+	},
+	{
+		"#text": "Memory use",
+		"@_name": "app_memory_use"
+	},
+	{
+		"#text": "KeepConfiguationContext",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Priority display",
+		"@_name": "app_notification_row_priority"
+	},
+	{
+		"#text": "Notifications management",
+		"@_name": "app_notifications_title"
+	},
+	{
+		"#text": "Background process limit",
+		"@_name": "app_process_limit_title"
+	},
+	{
+		"#text": "App info",
+		"@_name": "application_info_label"
+	},
+	{
+		"#text": "App Lock",
+		"@_name": "applock"
+	},
+	{
+		"#text": "Auto-brightness",
+		"@_name": "automatic_brightness"
+	},
+	{
+		"#text": "Available via %1$s",
+		"@_name": "available_via_carrier"
+	},
+	{
+		"#text": "Available via %1$s",
+		"@_name": "available_via_passpoint"
+	},
+	{
+		"#text": "Available networks",
+		"@_name": "avalible_networks"
+	},
+	{
+		"#text": "gsm.version.baseband",
+		"@_name": "baseband_prop_key"
+	},
+	{
+		"#text": "Details of power Consumption",
+		"@_name": "battery_consumption_category"
+	},
+	{
+		"#text": "Power mode",
+		"@_name": "battery_consumption_category_title"
+	},
+	{
+		"#text": "Power optimization",
+		"@_name": "battery_consumption_optimization_category"
+	},
+	{
+		"#text": "Power rankings",
+		"@_name": "battery_consumption_title"
+	},
+	{
+		"#text": "%1$dd %2$dh %3$dm %4$ds",
+		"@_name": "battery_history_days"
+	},
+	{
+		"#text": "%1$dd%2$dh%3$dm",
+		"@_name": "battery_history_days_no_seconds"
+	},
+	{
+		"#text": "%1$dh %2$dm %3$ds",
+		"@_name": "battery_history_hours"
+	},
+	{
+		"#text": "%1$dh %2$dm",
+		"@_name": "battery_history_hours_no_seconds"
+	},
+	{
+		"#text": "%1$dm %2$ds",
+		"@_name": "battery_history_minutes"
+	},
+	{
+		"#text": "%1$dm",
+		"@_name": "battery_history_minutes_no_seconds"
+	},
+	{
+		"#text": "%1$ds",
+		"@_name": "battery_history_seconds"
+	},
+	{
+		"#text": "Charging",
+		"@_name": "battery_info_status_charging"
+	},
+	{
+		"#text": "Charging on AC",
+		"@_name": "battery_info_status_charging_ac"
+	},
+	{
+		"#text": "charging",
+		"@_name": "battery_info_status_charging_lower"
+	},
+	{
+		"#text": "Charging over USB",
+		"@_name": "battery_info_status_charging_usb"
+	},
+	{
+		"#text": "Charging wirelessly",
+		"@_name": "battery_info_status_charging_wireless"
+	},
+	{
+		"#text": "Not charging",
+		"@_name": "battery_info_status_discharging"
+	},
+	{
+		"#text": "Full",
+		"@_name": "battery_info_status_full"
+	},
+	{
+		"#text": "Not charging",
+		"@_name": "battery_info_status_not_charging"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "battery_info_status_unknown"
+	},
+	{
+		"#text": "!",
+		"@_name": "battery_meter_very_low_overlay_symbol"
+	},
+	{
+		"#text": "Power optimization",
+		"@_name": "battery_optimization"
+	},
+	{
+		"#text": "Bearer",
+		"@_name": "bearer"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "Connected to media audio",
+		"@_name": "bluetooth_a2dp_profile_summary_connected"
+	},
+	{
+		"#text": "Use for media audio",
+		"@_name": "bluetooth_a2dp_profile_summary_use_for"
+	},
+	{
+		"#text": "Access contact and call history",
+		"@_name": "bluetooth_access_contact_call_history"
+	},
+	{
+		"#text": "Active, %1$s battery",
+		"@_name": "bluetooth_active_battery_level"
+	},
+	{
+		"#text": "Active (no media)",
+		"@_name": "bluetooth_active_no_a2dp"
+	},
+	{
+		"#text": "Active (no media), %1$s battery",
+		"@_name": "bluetooth_active_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Active",
+		"@_name": "bluetooth_active_no_battery_level"
+	},
+	{
+		"#text": "Active (no phone)",
+		"@_name": "bluetooth_active_no_headset"
+	},
+	{
+		"#text": "An app wants to make your phone visible to other Bluetooth devices for %1$d seconds.",
+		"@_name": "bluetooth_ask_discovery"
+	},
+	{
+		"#text": "This app requires Bluetooth support.",
+		"@_name": "bluetooth_ask_enablement"
+	},
+	{
+		"#text": "An app wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.",
+		"@_name": "bluetooth_ask_enablement_and_discovery"
+	},
+	{
+		"#text": "An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.",
+		"@_name": "bluetooth_ask_enablement_and_lasting_discovery"
+	},
+	{
+		"#text": "An app wants to make your phone visible to other Bluetooth devices. You can change this later in Bluetooth settings.",
+		"@_name": "bluetooth_ask_lasting_discovery"
+	},
+	{
+		"#text": "mAccessory",
+		"@_name": "bluetooth_auth"
+	},
+	{
+		"#text": "%1$s battery",
+		"@_name": "bluetooth_battery_level"
+	},
+	{
+		"#text": "Passkey: %1$s",
+		"@_name": "bluetooth_confirm_passkey_msg"
+	},
+	{
+		"#text": "Connected",
+		"@_name": "bluetooth_connected"
+	},
+	{
+		"#text": "Connected, battery %1$s%2$s",
+		"@_name": "bluetooth_connected_battery_level"
+	},
+	{
+		"#text": "Connected (no media)",
+		"@_name": "bluetooth_connected_no_a2dp"
+	},
+	{
+		"#text": "Connected (no media), battery %1$s%2$s",
+		"@_name": "bluetooth_connected_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Connected (no phone)",
+		"@_name": "bluetooth_connected_no_headset"
+	},
+	{
+		"#text": "Connected (no phone), battery %1$s%2$s",
+		"@_name": "bluetooth_connected_no_headset_battery_level"
+	},
+	{
+		"#text": "Connected (no phone or media)",
+		"@_name": "bluetooth_connected_no_headset_no_a2dp"
+	},
+	{
+		"#text": "Connected (no phone or media), battery %1$s%2$s",
+		"@_name": "bluetooth_connected_no_headset_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Connected (no message access)%1$s",
+		"@_name": "bluetooth_connected_no_map"
+	},
+	{
+		"#text": "Connecting...",
+		"@_name": "bluetooth_connecting"
+	},
+	{
+		"#text": "\"Couldn't connect to %1$s.\"",
+		"@_name": "bluetooth_connecting_error_message"
+	},
+	{
+		"#text": "Do you want to connect to %1$s?",
+		"@_name": "bluetooth_connection_dialog_text"
+	},
+	{
+		"#text": "Bluetooth connection request",
+		"@_name": "bluetooth_connection_permission_request"
+	},
+	{
+		"#text": "Unnamed Bluetooth device",
+		"@_name": "bluetooth_device"
+	},
+	{
+		"#text": "Configuration items",
+		"@_name": "bluetooth_device_advanced_profile_header_title"
+	},
+	{
+		"#text": "Rename",
+		"@_name": "bluetooth_device_advanced_rename_device"
+	},
+	{
+		"#text": "Paired Bluetooth device(s)",
+		"@_name": "bluetooth_device_advanced_title"
+	},
+	{
+		"#text": "Options...",
+		"@_name": "bluetooth_device_context_connect_advanced"
+	},
+	{
+		"#text": "Disconnect and unpair",
+		"@_name": "bluetooth_device_context_disconnect_unpair"
+	},
+	{
+		"#text": "Pair and connect",
+		"@_name": "bluetooth_device_context_pair_connect"
+	},
+	{
+		"#text": "Unpair",
+		"@_name": "bluetooth_device_context_unpair"
+	},
+	{
+		"#text": "Device settings",
+		"@_name": "bluetooth_device_details"
+	},
+	{
+		"#text": "Device: %1$s",
+		"@_name": "bluetooth_device_name"
+	},
+	{
+		"#text": "Disable absolute volume",
+		"@_name": "bluetooth_disable_absolute_volume"
+	},
+	{
+		"#text": "Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.",
+		"@_name": "bluetooth_disable_absolute_volume_summary"
+	},
+	{
+		"#text": "\"End bluetooth connection with below Device?\n%1$s\"",
+		"@_name": "bluetooth_disconnect_all_profiles"
+	},
+	{
+		"#text": "Disconnect from the following Bluetooth device?",
+		"@_name": "bluetooth_disconnect_title"
+	},
+	{
+		"#text": "Disconnected",
+		"@_name": "bluetooth_disconnected"
+	},
+	{
+		"#text": "Disconnecting...",
+		"@_name": "bluetooth_disconnecting"
+	},
+	{
+		"#text": "Please input the passkey %1$s then press enter key",
+		"@_name": "bluetooth_display_passkey_pin_msg"
+	},
+	{
+		"#text": "For music and media",
+		"@_name": "bluetooth_dock_settings_a2dp"
+	},
+	{
+		"#text": "As speaker phone",
+		"@_name": "bluetooth_dock_settings_headset"
+	},
+	{
+		"#text": "Remember settings",
+		"@_name": "bluetooth_dock_settings_remember"
+	},
+	{
+		"#text": "Use dock for audio",
+		"@_name": "bluetooth_dock_settings_title"
+	},
+	{
+		"#text": "Connected to Dun Server",
+		"@_name": "bluetooth_dun_profile_summary_connected"
+	},
+	{
+		"#text": "Use for Dial-up Network access",
+		"@_name": "bluetooth_dun_profile_summary_use_for"
+	},
+	{
+		"#text": "When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.",
+		"@_name": "bluetooth_empty_list_bluetooth_off"
+	},
+	{
+		"#text": "\"You don't have permission to change Bluetooth settings.\"",
+		"@_name": "bluetooth_empty_list_user_restricted"
+	},
+	{
+		"#text": "Type the passkey",
+		"@_name": "bluetooth_enter_passkey_msg"
+	},
+	{
+		"#text": "You may also need to enter this passkey on the other device.",
+		"@_name": "bluetooth_enter_passkey_other_device"
+	},
+	{
+		"#text": "Type the PIN",
+		"@_name": "bluetooth_enter_pin_msg"
+	},
+	{
+		"#text": "You may also need to enter this PIN on the other device.",
+		"@_name": "bluetooth_enter_pin_other_device"
+	},
+	{
+		"#text": "Device pairing fail",
+		"@_name": "bluetooth_error_title"
+	},
+	{
+		"#text": "Connected to phone audio",
+		"@_name": "bluetooth_headset_profile_summary_connected"
+	},
+	{
+		"#text": "Use for phone audio",
+		"@_name": "bluetooth_headset_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to Hearing Aid",
+		"@_name": "bluetooth_hearing_aid_profile_summary_connected"
+	},
+	{
+		"#text": "Use for Hearing Aid",
+		"@_name": "bluetooth_hearing_aid_profile_summary_use_for"
+	},
+	{
+		"#text": "Left - %1$s battery",
+		"@_name": "bluetooth_hearingaid_left_battery_level"
+	},
+	{
+		"#text": "Pairing left hearing aid…",
+		"@_name": "bluetooth_hearingaid_left_pairing_message"
+	},
+	{
+		"#text": "Right - %1$s battery",
+		"@_name": "bluetooth_hearingaid_right_battery_level"
+	},
+	{
+		"#text": "Pairing right hearing aid…",
+		"@_name": "bluetooth_hearingaid_right_pairing_message"
+	},
+	{
+		"#text": "Connected to input device",
+		"@_name": "bluetooth_hid_profile_summary_connected"
+	},
+	{
+		"#text": "Use for input",
+		"@_name": "bluetooth_hid_profile_summary_use_for"
+	},
+	{
+		"#text": "Pair with bluetooth device: %1$s",
+		"@_name": "bluetooth_incoming_pairing_msg"
+	},
+	{
+		"#text": "Visible to all nearby Bluetooth devices (%1$s)",
+		"@_name": "bluetooth_is_discoverable"
+	},
+	{
+		"#text": "Visible to all nearby Bluetooth devices",
+		"@_name": "bluetooth_is_discoverable_always"
+	},
+	{
+		"#text": "%1$s is discoverable to nearby devices while Bluetooth is enabled.",
+		"@_name": "bluetooth_is_visible_message"
+	},
+	{
+		"#text": "Bluetooth device %1$s needs to access your SMS for complete functionality.",
+		"@_name": "bluetooth_map_acceptance_dialog_text"
+	},
+	{
+		"#text": "Connected to map",
+		"@_name": "bluetooth_map_profile_summary_connected"
+	},
+	{
+		"#text": "Use for map",
+		"@_name": "bluetooth_map_profile_summary_use_for"
+	},
+	{
+		"#text": "Message access request",
+		"@_name": "bluetooth_map_request"
+	},
+	{
+		"#text": "Synchronize with media volume",
+		"@_name": "bluetooth_media_absolute_volume_sync_summary"
+	},
+	{
+		"#text": "Media Volume Sync",
+		"@_name": "bluetooth_media_absolute_volume_sync_title"
+	},
+	{
+		"#text": "No nearby Bluetooth devices were found.",
+		"@_name": "bluetooth_no_devices_found"
+	},
+	{
+		"#text": "Invisible to other Bluetooth devices",
+		"@_name": "bluetooth_not_visible_to_other_devices"
+	},
+	{
+		"#text": "Touch to pair with %1$s.",
+		"@_name": "bluetooth_notif_message"
+	},
+	{
+		"#text": "Bluetooth pairing request",
+		"@_name": "bluetooth_notif_ticker"
+	},
+	{
+		"#text": "Pairing request",
+		"@_name": "bluetooth_notif_title"
+	},
+	{
+		"#text": "Only visible to paired devices",
+		"@_name": "bluetooth_only_visible_to_paired_devices"
+	},
+	{
+		"#text": "Connected to file transfer server",
+		"@_name": "bluetooth_opp_profile_summary_connected"
+	},
+	{
+		"#text": "Not connected to file transfer server",
+		"@_name": "bluetooth_opp_profile_summary_not_connected"
+	},
+	{
+		"#text": "Use for file transfer",
+		"@_name": "bluetooth_opp_profile_summary_use_for"
+	},
+	{
+		"#text": "Pairing...",
+		"@_name": "bluetooth_pairing"
+	},
+	{
+		"#text": "Pair",
+		"@_name": "bluetooth_pairing_accept"
+	},
+	{
+		"#text": "PAIR",
+		"@_name": "bluetooth_pairing_accept_all_caps"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "bluetooth_pairing_decline"
+	},
+	{
+		"#text": "\"Can't communicate with %1$s.\"",
+		"@_name": "bluetooth_pairing_device_down_error_message"
+	},
+	{
+		"#text": "\"Couldn't pair with %1$s.\"",
+		"@_name": "bluetooth_pairing_error_message"
+	},
+	{
+		"#text": "Incorrect PIN or passkey, please try again",
+		"@_name": "bluetooth_pairing_pin_error_message"
+	},
+	{
+		"#text": "Pairing rejected by %1$s.",
+		"@_name": "bluetooth_pairing_rejected_error_message"
+	},
+	{
+		"#text": "Pair with bluetooth device",
+		"@_name": "bluetooth_pairing_request"
+	},
+	{
+		"#text": "Pairing grants access to your contacts and call history when connected.",
+		"@_name": "bluetooth_pairing_will_share_phonebook"
+	},
+	{
+		"#text": "Sharing local Internet connection with device",
+		"@_name": "bluetooth_pan_nap_profile_summary_connected"
+	},
+	{
+		"#text": "Use for Internet access",
+		"@_name": "bluetooth_pan_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to device for Internet access",
+		"@_name": "bluetooth_pan_user_profile_summary_connected"
+	},
+	{
+		"#text": "Bluetooth device %1$s needs to read your contacts and call logs for complete functionality.",
+		"@_name": "bluetooth_pb_acceptance_dialog_text"
+	},
+	{
+		"#text": "Bluetooth permission request",
+		"@_name": "bluetooth_permission_request"
+	},
+	{
+		"#text": "Phone book request",
+		"@_name": "bluetooth_phonebook_request"
+	},
+	{
+		"#text": "PIN usually 0000 or 1234",
+		"@_name": "bluetooth_pin_values_hint"
+	},
+	{
+		"#text": "Available devices",
+		"@_name": "bluetooth_preference_found_devices"
+	},
+	{
+		"#text": "Paired devices",
+		"@_name": "bluetooth_preference_paired_devices"
+	},
+	{
+		"#text": "Scan for devices",
+		"@_name": "bluetooth_preference_scan_title"
+	},
+	{
+		"#text": "Media audio",
+		"@_name": "bluetooth_profile_a2dp"
+	},
+	{
+		"#text": "HD audio: %1$s",
+		"@_name": "bluetooth_profile_a2dp_high_quality"
+	},
+	{
+		"#text": "HD audio",
+		"@_name": "bluetooth_profile_a2dp_high_quality_unknown_codec"
+	},
+	{
+		"#text": "Dial-up Network Access",
+		"@_name": "bluetooth_profile_dun"
+	},
+	{
+		"#text": "Phone audio",
+		"@_name": "bluetooth_profile_headset"
+	},
+	{
+		"#text": "Hearing Aid",
+		"@_name": "bluetooth_profile_hearing_aid"
+	},
+	{
+		"#text": "Input device",
+		"@_name": "bluetooth_profile_hid"
+	},
+	{
+		"#text": "Message Access",
+		"@_name": "bluetooth_profile_map"
+	},
+	{
+		"#text": "File transfer",
+		"@_name": "bluetooth_profile_opp"
+	},
+	{
+		"#text": "Visit internet",
+		"@_name": "bluetooth_profile_pan"
+	},
+	{
+		"#text": "Internet connection sharing",
+		"@_name": "bluetooth_profile_pan_nap"
+	},
+	{
+		"#text": "Contact sharing",
+		"@_name": "bluetooth_profile_pbap"
+	},
+	{
+		"#text": "Use for contact sharing",
+		"@_name": "bluetooth_profile_pbap_summary"
+	},
+	{
+		"#text": "SIM Access",
+		"@_name": "bluetooth_profile_sap"
+	},
+	{
+		"#text": "Rename",
+		"@_name": "bluetooth_rename_button"
+	},
+	{
+		"#text": "Bluetooth name",
+		"@_name": "bluetooth_rename_device"
+	},
+	{
+		"#text": "Connected to SAP",
+		"@_name": "bluetooth_sap_profile_summary_connected"
+	},
+	{
+		"#text": "Use for SIM access",
+		"@_name": "bluetooth_sap_profile_summary_use_for"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "bluetooth_search_for_devices"
+	},
+	{
+		"#text": "Searching...",
+		"@_name": "bluetooth_searching_for_devices"
+	},
+	{
+		"#text": "Bluetooth Audio Bits Per Sample",
+		"@_name": "bluetooth_select_a2dp_codec_bits_per_sample"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Bits Per Sample\"",
+		"@_name": "bluetooth_select_a2dp_codec_bits_per_sample_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio Channel Mode",
+		"@_name": "bluetooth_select_a2dp_codec_channel_mode"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Channel Mode\"",
+		"@_name": "bluetooth_select_a2dp_codec_channel_mode_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio LDAC Codec: Playback Quality",
+		"@_name": "bluetooth_select_a2dp_codec_ldac_playback_quality"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio LDAC\nCodec Selection: Playback Quality\"",
+		"@_name": "bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio Sample Rate",
+		"@_name": "bluetooth_select_a2dp_codec_sample_rate"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Sample Rate\"",
+		"@_name": "bluetooth_select_a2dp_codec_sample_rate_dialog_title"
+	},
+	{
+		"#text": "Streaming: %1$s",
+		"@_name": "bluetooth_select_a2dp_codec_streaming_label"
+	},
+	{
+		"#text": "Bluetooth Audio Codec",
+		"@_name": "bluetooth_select_a2dp_codec_type"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection\"",
+		"@_name": "bluetooth_select_a2dp_codec_type_dialog_title"
+	},
+	{
+		"#text": "Select Bluetooth AVRCP Version",
+		"@_name": "bluetooth_select_avrcp_version_dialog_title"
+	},
+	{
+		"#text": "Bluetooth AVRCP Version",
+		"@_name": "bluetooth_select_avrcp_version_string"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth_settings"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth_settings_title"
+	},
+	{
+		"#text": "Show Bluetooth devices without names",
+		"@_name": "bluetooth_show_devices_without_names"
+	},
+	{
+		"#text": "Bluetooth devices without names (MAC addresses only) will be displayed",
+		"@_name": "bluetooth_show_devices_without_names_summary"
+	},
+	{
+		"#text": "Received files",
+		"@_name": "bluetooth_show_received_files"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth_talkback_bluetooth"
+	},
+	{
+		"#text": "Computer",
+		"@_name": "bluetooth_talkback_computer"
+	},
+	{
+		"#text": "Headphone",
+		"@_name": "bluetooth_talkback_headphone"
+	},
+	{
+		"#text": "Headset",
+		"@_name": "bluetooth_talkback_headset"
+	},
+	{
+		"#text": "Imaging",
+		"@_name": "bluetooth_talkback_imaging"
+	},
+	{
+		"#text": "Input Peripheral",
+		"@_name": "bluetooth_talkback_input_peripheral"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "bluetooth_talkback_phone"
+	},
+	{
+		"#text": "Bluetooth tethering",
+		"@_name": "bluetooth_tether_checkbox_text"
+	},
+	{
+		"#text": "\"Sharing this phone's Internet connection\"",
+		"@_name": "bluetooth_tethering_available_subtext"
+	},
+	{
+		"#text": "\"Sharing this phone's Internet connection to 1 device\"",
+		"@_name": "bluetooth_tethering_device_connected_subtext"
+	},
+	{
+		"#text": "\"Sharing this phone's Internet connection to %1$d devices\"",
+		"@_name": "bluetooth_tethering_devices_connected_subtext"
+	},
+	{
+		"#text": "Not tethered",
+		"@_name": "bluetooth_tethering_errored_subtext"
+	},
+	{
+		"#text": "\"Share the phone's network connection via Bluetooth\"",
+		"@_name": "bluetooth_tethering_off_subtext"
+	},
+	{
+		"#text": "Turning off Bluetooth...",
+		"@_name": "bluetooth_turning_off"
+	},
+	{
+		"#text": "Turning on Bluetooth...",
+		"@_name": "bluetooth_turning_on"
+	},
+	{
+		"#text": "Bluetooth device unlock",
+		"@_name": "bluetooth_unlock"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "bluetooth_user_action_disconnect"
+	},
+	{
+		"#text": "Switch to use",
+		"@_name": "bluetooth_user_action_switch_to_using"
+	},
+	{
+		"#text": "Discoverable",
+		"@_name": "bluetooth_visibility"
+	},
+	{
+		"#text": "Visibility timeout",
+		"@_name": "bluetooth_visibility_timeout"
+	},
+	{
+		"#text": "Dynamic blurring",
+		"@_name": "blur_view_switch_title"
+	},
+	{
+		"#text": "Brightness",
+		"@_name": "brightness_category_title"
+	},
+	{
+		"#text": "This is not a Meizu accessory",
+		"@_name": "bt_auth_result_title"
+	},
+	{
+		"#text": "Enable Bluetooth HCI snoop log",
+		"@_name": "bt_hci_snoop_log"
+	},
+	{
+		"#text": "Capture all Bluetooth HCI packets in a file (Toggle Bluetooth after changing this setting)",
+		"@_name": "bt_hci_snoop_log_summary"
+	},
+	{
+		"#text": "Bug report shortcut",
+		"@_name": "bugreport_in_power"
+	},
+	{
+		"#text": "Show a button in the power menu for taking a bug report",
+		"@_name": "bugreport_in_power_summary"
+	},
+	{
+		"#text": "Wipe and convert…",
+		"@_name": "button_convert_fbe"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "calendar_sound_title"
+	},
+	{
+		"#text": "Calls",
+		"@_name": "calls_title"
+	},
+	{
+		"#text": "Camera shutter",
+		"@_name": "camera_click_sounds_enable_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "APN enable/disable",
+		"@_name": "carrier_enabled"
+	},
+	{
+		"#text": "Personal",
+		"@_name": "category_personal"
+	},
+	{
+		"#text": "Work",
+		"@_name": "category_work"
+	},
+	{
+		"#text": "Emergency broadcasts",
+		"@_name": "cell_broadcast_settings"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "cellular_data_title"
+	},
+	{
+		"#text": "Held by:",
+		"@_name": "cert_issued_to"
+	},
+	{
+		"#text": "SN:",
+		"@_name": "cert_serial"
+	},
+	{
+		"#text": "Valid from:",
+		"@_name": "cert_valid_from"
+	},
+	{
+		"#text": "Expires on:",
+		"@_name": "cert_valid_to"
+	},
+	{
+		"#text": "com.android.certinstaller",
+		"@_name": "certinstaller_package"
+	},
+	{
+		"#text": "SIM %d is disabled. Enable cellular data on SIM %d?",
+		"@_name": "change_data_conn_summary",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Change SIM Card for Data Usage",
+		"@_name": "change_data_conn_title"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "change_data_conn_yes"
+	},
+	{
+		"#text": "%1$s ago",
+		"@_name": "charge_length_format"
+	},
+	{
+		"#text": "。",
+		"@_name": "chinese_period"
+	},
+	{
+		"#text": "Choose Profile",
+		"@_name": "choose_profile"
+	},
+	{
+		"#text": "Options",
+		"@_name": "clean_options"
+	},
+	{
+		"#text": "Reset phone to factory default",
+		"@_name": "clean_userdata"
+	},
+	{
+		"#text": "Wipe user data including contacts, messages, accounts, etc.",
+		"@_name": "clean_userdata_summary"
+	},
+	{
+		"#text": "Revoke USB debugging authorizations",
+		"@_name": "clear_adb_keys"
+	},
+	{
+		"#text": "Black",
+		"@_name": "color_black"
+	},
+	{
+		"#text": "Blue",
+		"@_name": "color_blue"
+	},
+	{
+		"#text": "Cyan",
+		"@_name": "color_cyan"
+	},
+	{
+		"#text": "Green",
+		"@_name": "color_green"
+	},
+	{
+		"#text": "Magenta",
+		"@_name": "color_magenta"
+	},
+	{
+		"#text": "Red",
+		"@_name": "color_red"
+	},
+	{
+		"#text": "Color temperature",
+		"@_name": "color_temperature_title"
+	},
+	{
+		"#text": "Color",
+		"@_name": "color_title"
+	},
+	{
+		"#text": "Default",
+		"@_name": "color_unspecified"
+	},
+	{
+		"#text": "White",
+		"@_name": "color_white"
+	},
+	{
+		"#text": "Yellow",
+		"@_name": "color_yellow"
+	},
+	{
+		"#text": "Incoming call whitelist",
+		"@_name": "coming_call_white_list"
+	},
+	{
+		"#text": "Calls from these contacts will not be muted.",
+		"@_name": "coming_call_white_list_tips"
+	},
+	{
+		"#text": "com.meizu.connectivitysettings.overlay.FeatureFactoryImpl",
+		"@_name": "config_featureFactory"
+	},
+	{
+		"#text": "WARNING: Device protection features will not work on this device while this setting is turned on.",
+		"@_name": "confirm_enable_oem_unlock_text"
+	},
+	{
+		"#text": "Allow OEM unlocking?",
+		"@_name": "confirm_enable_oem_unlock_title"
+	},
+	{
+		"#text": "This is the Meizu certified free security network, can be used without password",
+		"@_name": "connect_free_wifi_prompt"
+	},
+	{
+		"#text": "\"Can't connect to this network. Try again later\"",
+		"@_name": "connect_later"
+	},
+	{
+		"#text": "Connected via %1$s",
+		"@_name": "connected_via_carrier"
+	},
+	{
+		"#text": "Automatically connected via %1$s",
+		"@_name": "connected_via_network_scorer"
+	},
+	{
+		"#text": "Automatically connected via network rating provider",
+		"@_name": "connected_via_network_scorer_default"
+	},
+	{
+		"#text": "Connected via %1$s",
+		"@_name": "connected_via_passpoint"
+	},
+	{
+		"#text": "Connected via WLAN assistant",
+		"@_name": "connected_via_wfa"
+	},
+	{
+		"#text": "More",
+		"@_name": "connectivity_others"
+	},
+	{
+		"#text": "Connectivity settings",
+		"@_name": "connectivity_settings_label"
+	},
+	{
+		"#text": "Menu",
+		"@_name": "content_description_menu_button"
+	},
+	{
+		"#text": "\"Convert data partition to file based encryption.\n !!Warning!! This will erase all your data.\n This feature is alpha, and may not work correctly.\n Press 'Wipe and convert…' to continue.\"",
+		"@_name": "convert_to_fbe_warning"
+	},
+	{
+		"#text": "Convert to file encryption",
+		"@_name": "convert_to_file_encryption"
+	},
+	{
+		"#text": "File already encrypted",
+		"@_name": "convert_to_file_encryption_done"
+	},
+	{
+		"#text": "Convert…",
+		"@_name": "convert_to_file_encryption_enabled"
+	},
+	{
+		"#text": "Storage type",
+		"@_name": "credential_storage_type"
+	},
+	{
+		"#text": "Administrators &amp; credentials",
+		"@_name": "credentials_and_admin_title"
+	},
+	{
+		"#text": "You need to set a lock screen PIN or password before you can use credential storage.",
+		"@_name": "credentials_configure_lock_screen_hint"
+	},
+	{
+		"#text": "Install from storage",
+		"@_name": "credentials_install"
+	},
+	{
+		"#text": "Install certificates from storage",
+		"@_name": "credentials_install_summary"
+	},
+	{
+		"#text": "8 characters min.",
+		"@_name": "credentials_password_too_short"
+	},
+	{
+		"#text": "Clear credentials",
+		"@_name": "credentials_reset"
+	},
+	{
+		"#text": "Remove all certificates",
+		"@_name": "credentials_reset_summary"
+	},
+	{
+		"#text": "Credential storage",
+		"@_name": "credentials_title"
+	},
+	{
+		"#text": "Encrypt phone",
+		"@_name": "crypt_keeper_encrypt_title"
+	},
+	{
+		"#text": "Encrypted",
+		"@_name": "crypt_keeper_encrypted_summary"
+	},
+	{
+		"#text": "Encryption",
+		"@_name": "crypt_keeper_settings_title"
+	},
+	{
+		"#text": "Custom settings",
+		"@_name": "custom_setting"
+	},
+	{
+		"#text": "Deuteranomaly (red-green)",
+		"@_name": "daltonizer_mode_deuteranomaly"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "daltonizer_mode_disabled"
+	},
+	{
+		"#text": "Monochromacy",
+		"@_name": "daltonizer_mode_monochromacy"
+	},
+	{
+		"#text": "Protanomaly (red-green)",
+		"@_name": "daltonizer_mode_protanomaly"
+	},
+	{
+		"#text": "Tritanomaly (blue-yellow)",
+		"@_name": "daltonizer_mode_tritanomaly"
+	},
+	{
+		"#text": "Overridden by %1$s",
+		"@_name": "daltonizer_type_overridden"
+	},
+	{
+		"#text": "Join User Experience Program",
+		"@_name": "data_collection_title"
+	},
+	{
+		"#text": "Data Connection",
+		"@_name": "data_conn_category_title"
+	},
+	{
+		"#text": "Current SIM is Disabled, Data can not be used",
+		"@_name": "data_enable_forbidden"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "data_enabled"
+	},
+	{
+		"#text": "Cellular Data",
+		"@_name": "data_enabler_summary"
+	},
+	{
+		"#text": "Data Connection",
+		"@_name": "data_enabler_title"
+	},
+	{
+		"#text": "Please wait…",
+		"@_name": "data_enabler_waiting_message"
+	},
+	{
+		"#text": "Data only",
+		"@_name": "data_only"
+	},
+	{
+		"#text": "None",
+		"@_name": "data_sim_default_name"
+	},
+	{
+		"#text": "Preferred SIM for mobile data",
+		"@_name": "data_sim_title"
+	},
+	{
+		"#text": "Push and cloud services will use data",
+		"@_name": "data_suggest"
+	},
+	{
+		"#text": "Switching",
+		"@_name": "data_switch_started"
+	},
+	{
+		"#text": "Removed apps",
+		"@_name": "data_usage_uninstalled_apps"
+	},
+	{
+		"#text": "Removed apps and users",
+		"@_name": "data_usage_uninstalled_apps_users"
+	},
+	{
+		"#text": "Date &amp; time",
+		"@_name": "date_and_time"
+	},
+	{
+		"#text": "24-hour time",
+		"@_name": "date_time_24hour"
+	},
+	{
+		"#text": "Automatic",
+		"@_name": "date_time_auto"
+	},
+	{
+		"#text": "Use network-provided time",
+		"@_name": "date_time_auto_summaryOff"
+	},
+	{
+		"#text": "Use network-provided time",
+		"@_name": "date_time_auto_summaryOn"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Date",
+		"@_name": "date_time_set_date"
+	},
+	{
+		"#text": "Time",
+		"@_name": "date_time_set_time"
+	},
+	{
+		"#text": "Time zone",
+		"@_name": "date_time_set_timezone"
+	},
+	{
+		"#text": "Select debug app",
+		"@_name": "debug_app"
+	},
+	{
+		"#text": "No debug application set",
+		"@_name": "debug_app_not_set"
+	},
+	{
+		"#text": "Debugging application: %1$s",
+		"@_name": "debug_app_set"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "debug_applications_category"
+	},
+	{
+		"#text": "Debugging",
+		"@_name": "debug_debugging_category"
+	},
+	{
+		"#text": "Drawing",
+		"@_name": "debug_drawing_category"
+	},
+	{
+		"#text": "Hardware accelerated rendering",
+		"@_name": "debug_hw_drawing_category"
+	},
+	{
+		"#text": "Debug GPU overdraw",
+		"@_name": "debug_hw_overdraw"
+	},
+	{
+		"#text": "Input",
+		"@_name": "debug_input_category"
+	},
+	{
+		"#text": "Show layout bounds",
+		"@_name": "debug_layout"
+	},
+	{
+		"#text": "Show clip bounds, margins, etc.",
+		"@_name": "debug_layout_summary"
+	},
+	{
+		"#text": "Monitoring",
+		"@_name": "debug_monitoring_category"
+	},
+	{
+		"#text": "Networking",
+		"@_name": "debug_networking_category"
+	},
+	{
+		"#text": "Enable view attribute inspection",
+		"@_name": "debug_view_attributes"
+	},
+	{
+		"#text": "\"This action is disabled. Contact your organization's administrator to learn more.\"",
+		"@_name": "default_admin_support_msg"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Delete APN?",
+		"@_name": "delete_apn"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "deny"
+	},
+	{
+		"#text": "When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.",
+		"@_name": "dev_logpersist_clear_warning_message"
+	},
+	{
+		"#text": "Clear logger persistent storage?",
+		"@_name": "dev_logpersist_clear_warning_title"
+	},
+	{
+		"#text": "These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.",
+		"@_name": "dev_settings_warning_message"
+	},
+	{
+		"#text": "Allow development settings?",
+		"@_name": "dev_settings_warning_title"
+	},
+	{
+		"#text": "Enable developer options",
+		"@_name": "development_settings_enable"
+	},
+	{
+		"#text": "Developer options are not available for this user",
+		"@_name": "development_settings_not_available"
+	},
+	{
+		"#text": "Set options for app development",
+		"@_name": "development_settings_summary"
+	},
+	{
+		"#text": "Developer options",
+		"@_name": "development_settings_title"
+	},
+	{
+		"#text": "Device administration settings",
+		"@_name": "device_admin_settings_title"
+	},
+	{
+		"#text": "This administrator is active and allows the app %1$s to perform the following operations:",
+		"@_name": "device_admin_status"
+	},
+	{
+		"#text": "Device administration",
+		"@_name": "device_admin_title"
+	},
+	{
+		"#text": "Activating this administrator will allow the app %1$s to perform the following operations:",
+		"@_name": "device_admin_warning"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "device_info_default"
+	},
+	{
+		"#text": "Not available",
+		"@_name": "device_info_not_available"
+	},
+	{
+		"#text": "Choose Bluetooth device",
+		"@_name": "device_picker"
+	},
+	{
+		"#text": "Status",
+		"@_name": "device_status_activity_title"
+	},
+	{
+		"#text": "\"Note: After a reboot, this app can't start until you unlock your phone\"",
+		"@_name": "direct_boot_unaware_dialog_message"
+	},
+	{
+		"#text": "Disable HW overlays",
+		"@_name": "disable_overlays"
+	},
+	{
+		"#text": "Always use GPU for screen compositing",
+		"@_name": "disable_overlays_summary"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "disabled"
+	},
+	{
+		"#text": "Disabled by administrator",
+		"@_name": "disabled_by_admin"
+	},
+	{
+		"#text": "Controlled by admin",
+		"@_name": "disabled_by_admin_summary_text"
+	},
+	{
+		"#text": "Action not allowed",
+		"@_name": "disabled_by_policy_title"
+	},
+	{
+		"#text": "Display",
+		"@_name": "display_settings"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dlg_ok"
+	},
+	{
+		"#text": "Enable manually",
+		"@_name": "do_not_disturb_enable_mannully"
+	},
+	{
+		"#text": "End",
+		"@_name": "do_not_disturb_end_time"
+	},
+	{
+		"#text": "Custom settings",
+		"@_name": "do_not_disturb_options"
+	},
+	{
+		"#text": "Start",
+		"@_name": "do_not_disturb_start_time"
+	},
+	{
+		"#text": "Scheduled",
+		"@_name": "do_not_disturb_time_switch_title"
+	},
+	{
+		"#text": "DND mode will turn off sound and vibration for calls and messages.",
+		"@_name": "do_not_disturb_tips"
+	},
+	{
+		"#text": "Auto-play music",
+		"@_name": "drive_mode_autoplay_music"
+	},
+	{
+		"#text": "Bluetooth device",
+		"@_name": "drive_mode_bluetooth_devices"
+	},
+	{
+		"#text": "Bluetooth trigger",
+		"@_name": "drive_mode_bluetooth_trigger_category"
+	},
+	{
+		"#text": "Enable when paired with specific device",
+		"@_name": "drive_mode_bluetooth_trigger_title"
+	},
+	{
+		"#text": "Driving now, not convenient to answer your call",
+		"@_name": "drive_mode_msg_reply_content"
+	},
+	{
+		"#text": "Decline call with message",
+		"@_name": "drive_mode_msg_reply_title"
+	},
+	{
+		"#text": "Remind with voice recordings when call or SMS arrives",
+		"@_name": "drive_mode_tips"
+	},
+	{
+		"#text": "Drive mode",
+		"@_name": "drive_mode_title"
+	},
+	{
+		"#text": "Dialpad tones",
+		"@_name": "dtmf_tone_enable_title"
+	},
+	{
+		"#text": "SIMs &amp; networks",
+		"@_name": "dual_sim_network_settings_title"
+	},
+	{
+		"#text": "Calibrate earphone control",
+		"@_name": "earpod_adjust"
+	},
+	{
+		"#text": "No networks",
+		"@_name": "empty_networks_list"
+	},
+	{
+		"#text": "USB debugging",
+		"@_name": "enable_adb"
+	},
+	{
+		"#text": "Debug mode when USB is connected",
+		"@_name": "enable_adb_summary"
+	},
+	{
+		"#text": "Enable freeform windows",
+		"@_name": "enable_freeform_support"
+	},
+	{
+		"#text": "Enable support for experimental freeform windows.",
+		"@_name": "enable_freeform_support_summary"
+	},
+	{
+		"#text": "Enable GPU debug layers",
+		"@_name": "enable_gpu_debug_layers"
+	},
+	{
+		"#text": "Allow loading GPU debug layers for debug apps",
+		"@_name": "enable_gpu_debug_layers_summary"
+	},
+	{
+		"#text": "Enable OpenGL traces",
+		"@_name": "enable_opengl_traces_title"
+	},
+	{
+		"#text": "Enable terminal app that offers local shell access",
+		"@_name": "enable_terminal_summary"
+	},
+	{
+		"#text": "Local terminal",
+		"@_name": "enable_terminal_title"
+	},
+	{
+		"#text": "Enabled by administrator",
+		"@_name": "enabled_by_admin"
+	},
+	{
+		"#text": "Before enabling, please confirm that the carrier has turned on this function for you, or normal calls may be affected",
+		"@_name": "enhanced_4g_lte_mode_summary"
+	},
+	{
+		"#text": "VoLTE HD voice call",
+		"@_name": "enhanced_4g_lte_mode_title"
+	},
+	{
+		"#text": "\"The APN can't be empty\"",
+		"@_name": "error_apn_empty"
+	},
+	{
+		"#text": "MCC field must be 3 digits",
+		"@_name": "error_mcc_not3"
+	},
+	{
+		"#text": "MNC field must be 2 or 3 digits",
+		"@_name": "error_mnc_not23"
+	},
+	{
+		"#text": "\"The Name field can't be empty\"",
+		"@_name": "error_name_empty"
+	},
+	{
+		"@_name": "error_title"
+	},
+	{
+		"#text": "Advanced",
+		"@_name": "expand_button_title"
+	},
+	{
+		"#text": "SD card storage",
+		"@_name": "external_sdcard_storage"
+	},
+	{
+		"#text": "Allowed",
+		"@_name": "external_source_trusted"
+	},
+	{
+		"#text": "Not allowed",
+		"@_name": "external_source_untrusted"
+	},
+	{
+		"#text": "\"Can't switch SIM cards while in call\"",
+		"@_name": "failed_sim_switch"
+	},
+	{
+		"#text": "Failed to open settings for %1$s",
+		"@_name": "failed_to_open_app_settings_toast"
+	},
+	{
+		"#text": "Vault",
+		"@_name": "file_manager_lock"
+	},
+	{
+		"#text": "Display new notifications in pop-ups at the top of the screen",
+		"@_name": "float_notification_summary"
+	},
+	{
+		"#text": "Heads-up notifications",
+		"@_name": "float_notification_title"
+	},
+	{
+		"#text": "Using mobile network will incur data charges",
+		"@_name": "flyme_button_open_warning"
+	},
+	{
+		"#text": "If you disable Push, you cannot use Findphone, multi-device synchronization, Flyme message and other functions.",
+		"@_name": "flyme_push_dialog_content"
+	},
+	{
+		"#text": "Disable Push?",
+		"@_name": "flyme_push_dialog_title"
+	},
+	{
+		"#text": "Push",
+		"@_name": "flyme_push_title"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Font",
+		"@_name": "font_title"
+	},
+	{
+		"#text": "Force allow apps on external",
+		"@_name": "force_allow_on_external"
+	},
+	{
+		"#text": "Makes any app eligible to be written to external storage, regardless of manifest values",
+		"@_name": "force_allow_on_external_summary"
+	},
+	{
+		"#text": "Force GPU rendering",
+		"@_name": "force_hw_ui"
+	},
+	{
+		"#text": "Force use of GPU for 2d drawing",
+		"@_name": "force_hw_ui_summary"
+	},
+	{
+		"#text": "Force 4x MSAA",
+		"@_name": "force_msaa"
+	},
+	{
+		"#text": "Enable 4x MSAA in OpenGL ES 2.0 apps",
+		"@_name": "force_msaa_summary"
+	},
+	{
+		"#text": "Force activities to be resizable",
+		"@_name": "force_resizable_activities"
+	},
+	{
+		"#text": "Make all activities resizable for multi-window, regardless of manifest values.",
+		"@_name": "force_resizable_activities_summary"
+	},
+	{
+		"#text": "Force RTL layout direction",
+		"@_name": "force_rtl_layout_all_locales"
+	},
+	{
+		"#text": "Force screen layout direction to RTL for all locales",
+		"@_name": "force_rtl_layout_all_locales_summary"
+	},
+	{
+		"#text": "FORGET",
+		"@_name": "forget"
+	},
+	{
+		"#text": "Format SD card",
+		"@_name": "format_sdcard"
+	},
+	{
+		"#text": "Clear all data in the SD card",
+		"@_name": "format_sdcard_summary"
+	},
+	{
+		"#text": "Business information",
+		"@_name": "free_wifi_description_title"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "free_wifi_disconnect"
+	},
+	{
+		"#text": "Display MEIZU certified WLAN nearby",
+		"@_name": "free_wifi_enabler_summary"
+	},
+	{
+		"#text": "Free Secure networks",
+		"@_name": "free_wifi_enabler_title"
+	},
+	{
+		"#text": "Network authentication failed",
+		"@_name": "free_wifi_login_failed"
+	},
+	{
+		"#text": "Network authenticating…",
+		"@_name": "free_wifi_logining"
+	},
+	{
+		"#text": "Safe free networks related logos and icons:",
+		"@_name": "free_wifi_note"
+	},
+	{
+		"#text": "MEIZU",
+		"@_name": "free_wifi_note_ssid"
+	},
+	{
+		"#text": "Free Secure WLAN Service (hereinafter referred to as “Service”) is a service developed by Zhuhai Meizu Technology Co., Ltd. (hereinafter referred to as “Meizu”, “we”, “us”, or “our”). To use this Service, you shall read and comply with this Free Secure WLAN User Agreement (hereinafter referred to as “Agreement”). Please read these terms and conditions carefully and make sure that you fully understand all of them. If you do not agree to or cannot understand any of these terms and conditions, please do not proceed further.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>1. About This Service&lt;/font>&lt;br/> &lt;br/> 1.1 Service contents&lt;br/> This Service means the service and license of WLAN Assist, WLAN Security Scan, Free Secure WLAN and other functions provided to users by Meizu and installed on mobile phones. &lt;br/> &lt;br/> 1.2 Service license scope&lt;br/> 1.2.1 Meizu hereby grants to you a personal, non-transferable, and non-exclusive license to use this Service. You may use, display, and operate this Service on a single terminal device for non-commercial purposes.&lt;br/> &lt;br/> 1.2.2 All other rights not explicitly authorized in this article or the other provisions of this Agreement are reserved by Meizu. You shall obtain an additional written consent from Meizu prior to exercising such rights. Provided that Meizu does not exercise any of the aforesaid rights, this shall not constitute a waiver of such rights.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium> 2. Service Update&lt;/font>&lt;br/> &lt;br/> 2.1 In order to improve user experience and service contents, Meizu will make continuous efforts to develop new services and provide Service updates for you from time to time. (Such updates may take various forms, including service replacement, modification, functionality enhancement, version update, and others.)&lt;br/> &lt;br/> 2.2 To optimize user experience and ensure service security and functional consistency, Meizu has the right to update this Service or partially alter or restrict the functionality of this Service without special notice.&lt;br/> &lt;br/> 2.3 After an update for this Service is released, earlier versions may cease to function properly. Meizu does not guarantee the continued availability of earlier versions of this Service or relevant customer service.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>3. Users’ Personal Data&lt;/font>&lt;br/> &lt;br/> 3.1 The protection of users’ personal data is a fundamental principle for Meizu. Meizu will take rational measures to safeguard users’ personal data, and will not disclose or reveal any user’s personal data to any third party without the user’s permission, except in the cases and under the conditions provided by law. Meizu will utilize professional encryption methods to store and transfer relevant information so as to ensure the security of users’ personal data.&lt;br/> &lt;br/> 3.2 Meizu will employ various security technologies and programs to establish a sound management system for protecting your personal data and preventing unauthorized access, use, or disclosure.&lt;br/> &lt;br/> 3.3 During your use of this Service, it may need to use some necessary information. For example, to help you find available WLAN networks that may exist nearby, this Service may identify your geographic location, analyze the WLAN network list screenshot in the system, or read the WLAN networks detected by your mobile device; when you start a speed test, this Service will identify your network carrier and read your network speed; to perform WLAN security scan, this Service will read the detailed information about the WLAN network you are connected to, such as its IP address.&lt;br/> &lt;br/> In cases specifically provided for in national laws, regulations, or policies, you may need to provide your real identity information. If you do not provide such information, or the information you provide is not complete, you will be unable to use this Service, or your use of this Service will be restricted.&lt;br/> &lt;br/> 3.4 In general, you may view or edit the information you submitted at any time, but for security and identity recognition (such as for account recovery) reasons, you may be unable to modify the initial registration information you provided for signup and other verification information.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>4. Principal Rights and Obligations&lt;/font>&lt;br/> &lt;br/> 4.1 User considerations&lt;br/> 4.1.1 You hereby understand and agree that to serve you more effectively, this Service may utilize your mobile phone’s processor, network connection and other resources. Using this Service may lead to cellular data charges, for which you need to consult your carrier on rates and policies and bear all related expenses on your own.&lt;br/> &lt;br/> 4.1.2 You understand and agree that: some functions of this Service may make users’ information known to third parties. For instance, when you share your speed test result, other users may get to know your carrier, network speed and other relevant information.&lt;br/> &lt;br/> 4.1.3 When you use a specific function of this Service, the function may have a separate agreement or relevant terms of service (hereinafter referred to as “Separate Agreement”). Please read and agree to the Separate Agreement prior to using the function.&lt;br/> &lt;br/> 4.1.4 You understand and agree that Meizu will use commercially reasonable endeavors to ensure the security of you and your data storage in this Service. However, Meizu does not provide any absolute guarantee hereof, including but not limited to the following circumstances:&lt;br/> &lt;br/> 4.1.4.1 Meizu shall not be responsible for any deletion or storage failure of related data during your use of this Service.&lt;br/> &lt;br/> 4.1.4.2 Meizu has the right, in its sole discretion, to determine the maximum storage period of a single user’s data in this Service and allocate maximum storage space for such data on the server based on the actual circumstances. You may back up this Service and the related data in this Service by yourself and based on your own needs.&lt;br/> &lt;br/> 4.1.4.3 If you cease to use this Service or this Service is terminated or canceled, Meizu has the right to permanently delete your data from the server. When this Service is ended, terminated, or canceled, Meizu is not obliged to return any data to you.&lt;br/> &lt;br/> 4.1.5 You fully understand and agree that you shall be solely responsible for all of your behavior outside the scope of this Agreement and all exceptions caused by force majeure factors. You shall make your own judgment about the contents of this Service, and solely bear all risks arising from contents beyond Meizu’s control, including but not limited to:&lt;br/> &lt;br/> 4.1.5.1 Possible loss or disclosure of personal data incurred by force majeure factors;&lt;br/> &lt;br/> 4.1.5.2 Possible risks caused by a third-party product and/or relevant content when you visit the third-party product using this Service;&lt;br/> &lt;br/> 4.1.5.3 Possible risks or liabilities caused by transmission of user-published content when such content is reposted or shared by others.&lt;br/> &lt;br/> 4.1.5.4 Login failure, incomplete data synchronization, slow page loading, and other issues caused by unstable WLAN connection, low WLAN bandwidth, or other reasons.&lt;br/> &lt;br/> 4.1.6 You fully understand and agree that this Service offers WLAN connection assistance and management services, and that all the information about the WLAN networks this Service helps users connect to is provided by Meizu’s business partners. For greater user experience, Meizu will endeavor to improve the effect of WLAN connection assistance, but does not provide any absolute guarantee thereof due to technical conditions and other restrictions. The information about the WLAN networks recognized by this Service is for users’ reference only. Meizu does not undertake any legal responsibility for the authenticity, accuracy, effectiveness, or security of such WLAN networks. Provided that any organization or individual thinks a WLAN recognition result is incorrect, please directly inform Meizu and provide proof of ownership, a situation statement, and other verification materials for us to handle pursuant to the law.&lt;br/> &lt;br/> 4.2 Third-party products and services&lt;br/> 4.2.1 When you use products or services provided by third parties in this Service, you shall also comply with such third parties’ terms of use apart from this Agreement. In the event of any possible dispute arising therefrom, Meizu and the third parties shall assume their respective responsibilities within the scope stipulated by law and as agreed.&lt;br/> &lt;br/> 4.2.2 When you use this Service or require Meizu to provide specific service, this Service may call a third-party system or support your use or access through a third party. In such cases, the results you use or access are provided by the third-party, and Meizu makes no warranties as to the security, accuracy, or effectiveness of any service or content provided by the third party or the outcome of its support. Neither does Meizu guarantee that there are no other uncertain risks therein. Meizu is irrelevant to and undertakes no responsibilities for any dispute or damage arising therefrom.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>5. User Code of Conduct&lt;/font>&lt;br/> &lt;br/> 5.1 Regulations on information content&lt;br/> You agree that when using this Service, you will not engage in any improper act, including but not limited to the following:&lt;br/> &lt;br/> 5.1.1 Publishing, sending, transmitting, or storing any content that violates national laws, endangers national security and unity, harms social stability, offends public order, decency or morality, or is abusive, defamatory, obscene, or violent;&lt;br/> &lt;br/> 5.1.2 Publishing, sending, transmitting, or storing any content that infringes the rights of reputation, publicity or intellectual property, trade secrets, or any other lawful right of others.&lt;br/> &lt;br/> 5.1.3 Fabricating lies or hiding the truth to mislead or deceive others;&lt;br/> &lt;br/> 5.1.4 Publishing, sending, or transmitting spam or advertising messages;&lt;br/> &lt;br/> 5.1.5 Engaging in any other act that is against laws, regulations, policies, public order and decency, or social morality.&lt;br/> &lt;br/> 5.2 Service use regulations&lt;br/> Unless otherwise allowed by law or with written permission from Meizu, you shall not engage in any of the following acts:&lt;br/> &lt;br/> 5.2.1 Deleting the information about copyright on this Service or its copies;&lt;br/> &lt;br/> 5.2.2 Decompiling, reverse engineering, or disassembling this Service, or attempting to find the source code of this Service in any other method;&lt;br/> &lt;br/> 5.2.3 Using, leasing, lending, copying, modifying, linking, reposting, compiling, posting, publishing, or creating mirror sites of any content to which Meizu owns intellectual property rights;&lt;br/> &lt;br/> 5.2.4 Copying, modifying, adding, deleting, running a bot on, or creating any derivative work based on this Service, the data released into any terminal memory or the interaction data between the client and the server during the running of this Service, or the system data required for this Service to run, in any form, including but not limited to accessing this Service or a related systems using plugins, bots, or third-party tools or services that haven’t been authorized by Meizu.&lt;br/> &lt;br/> 5.2.5 Adding, reducing, or altering the functions or running performance of this Service by modifying or forging the commands or data during the running of this Service, or operating or publicizing services or methods that can be utilized for the aforesaid uses, whether such acts are for commercial purposes or not.&lt;br/> &lt;br/> 5.2.6 Logging in to or using this Service through any third-party service, plugin, bot, or system that is neither developed nor authorized by Meizu, or making, publishing, or transmitting such tools;&lt;br/> &lt;br/> 5.2.7 Interfering with this Service or its components, modules, or data, or authorizing another person or a third party to do so;&lt;br/> &lt;br/> 5.2.8 Any other conduct that has not been explicitly authorized by Meizu;&lt;br/> &lt;br/> 5.2.9 Any other act that violates laws, regulations, or policies.&lt;br/> &lt;br/> 5.3 Responsibility for your acts&lt;br/> You fully understand and agree that you shall take responsibility for all of your acts when using this Service. Meizu makes no warranties as to the security, correctness, timeliness, integrity, or practicability of any query result during your use of this Service. You shall make your own judgment about the content or query results in this Service during your use, and bear all risks caused by using such content and/or query results. Meizu cannot and shall not be liable for any loss or damage incurred by such risks.&lt;br/> &lt;br/> 5.4 Breach of agreement&lt;br/> 5.4.1 You understand and agree that Meizu has the right, according to reasonable judgments, to penalize violations of applicable laws and regulations or the provisions in this Agreement, take appropriate legal actions against any breaching user, and keep related information and report such information to relevant authorities in compliance with laws and regulations. All legal responsibilities arising therefrom shall be solely borne by the breaching user.&lt;br/> &lt;br/> 5.4.2 You understand and agree that you shall be solely liable for any indemnity, demand, or damage claimed by a third party that is caused by or results from your breach of this Agreement or relevant terms of service, and shall indemnify Meizu for all loss incurred thereby.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>6. Intellectual Property Rights Statement&lt;/font>&lt;br/> &lt;br/> 6.1 Meizu is the intellectual property rights holder of this Service. All copyrights, trademarks, patents, trade secrets, and other intellectual property rights for this Service, as well as all information contents (including but not limited to texts, images, audio, video, diagrams, UI designs, layout frameworks, relevant data, and electronic documents) related to this Service are protected by the laws and regulations of the People’s Republic of China and relevant international treaties. Meizu owns all the aforesaid intellectual property rights, except the rights belonging to relevant right holders in accordance with the law.&lt;br/> &lt;br/> 6.2 Without written permission from Meizu or relevant right holders, you shall not practice, utilize, or transfer the aforesaid intellectual property rights or allow any third party to do so for any commercial or non-commercial purpose.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>7. Terminal Security Responsibility&lt;/font>&lt;br/> &lt;br/> 7.1 You understand and agree that, like most internet-based services, this Service may be impacted by various factors (including but not limited to user factors, network service quality, and social environment), and disturbed by diversified security issues (including but not limited to: real-life harassment by others that illegally utilize user data; and viruses, Trojan horse programs, or other malware possibly contained in other services you download or install or other website you visit, which may threaten the security of your mobile terminal device and your data, and influence the proper functioning of this Service). Therefore, you should enhance your awareness of information security and personal data protection and mind your password safety, so as to prevent potential loss or damages.&lt;br/> &lt;br/> 7.2 You shall not make, publish, use, or transmit any malware for stealing others’ personal data or property.&lt;br/> &lt;br/> 7.3 It’s a shared responsibility for you and Meizu to maintain the security and proper functioning of this Service. Meizu will take necessary technical measures rationally and prudently according to industrial standards to protect the information and data of your mobile terminal device, yet you acknowledge and agree that Meizu cannot make any warranties thereto.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>8. Third-Party Services or Technologies&lt;/font>&lt;br/> &lt;br/> 8.1 This Service may use third-party services or technologies (including open-source code and public-domain code this Service may use; similarly hereinafter). Such uses have been lawfully authorized.&lt;br/> &lt;br/> 8.2 Provided that this Service uses third-party services or technologies, Meizu will, in accordance with relevant laws and regulations or as agreed, display related agreements or other documents, possibly by annexing them to this Agreement, packaging them into the installation file of this Service in a specific folder, or taking other methods. They may be expressed in the form of “Terms of Service”, “Authorization Agreement”, or “Open-source Code License”, among others. All the aforesaid related agreements or other documents displayed in various forms are an integral part of and have the same legal effect as this Agreement. You shall comply with all such requirements; otherwise, the relevant third party or the supervising authority may bring proceedings, impose fines, or take other sanctions against you, and may demand Meizu to provide assistance. In such cases, you shall solely assume all legal responsibilities.&lt;br/> &lt;br/> 8.3 Any dispute arising from a third-party service or technology used by this Service shall be settled by the third party, and Meizu shall not bear any liability. Meizu does not provide customer service regarding any third-party service or technology. Please contact the third party if you need support.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>9. Other Articles&lt;/font>&lt;br/> &lt;br/> 9.1 Once you use this Service, it will be deemed that you have read and agree to be bound by this Agreement. Meizu has the right to amend this Agreement when necessary. You can view the provisions of this Agreement in the latest version of this Service. When articles of this Agreement are amended, by continuing using this Service you accept the amended Agreement. Provided that you do not accept the amended Agreement, you shall stop using this Service immediately.&lt;br/> &lt;br/> 9.2 The conclusion, effectiveness, performance, and interpretation of this Agreement and the settlement of disputes are governed by the laws of the mainland of the People’s Republic of China (without regards to its conflicts of law provisions).&lt;br/> &lt;br/> 9.3 Any dispute or controversy between you and Meizu shall be settled through friendly consultations. In case such consultations fail, you agree that the dispute or controversy can be submitted to the court in the area where Meizu is located for settlement.&lt;br/> &lt;br/> 9.4 Article headings in this Agreement are included for convenience only and shall not be used in construing or interpreting this Agreement.&lt;br/> &lt;br/> 9.5 If any part of this Agreement is held to be invalid or unenforceable for any reason, the remainder of this Agreement shall remain in full force and bind upon both parties. (THE END)&lt;br/> &lt;br/> &lt;br/> ©2017 Meizu&lt;br/>",
+		"@_name": "free_wifi_protocol_content"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "free_wifi_tips_button_str"
+	},
+	{
+		"#text": "Safe free networks is usually distributed in various public places, certified by MEIZU and can be used without password",
+		"@_name": "free_wifi_tips_sub"
+	},
+	{
+		"#text": "If you do not want to display such a network, you can disable it in the advanced settings",
+		"@_name": "free_wifi_tips_summry"
+	},
+	{
+		"#text": "Free Secure networks",
+		"@_name": "free_wifi_tips_title"
+	},
+	{
+		"#text": "Full screen access",
+		"@_name": "full_scrren_quick_access"
+	},
+	{
+		"#text": "Access notifications and task manager",
+		"@_name": "full_scrren_quick_access_summary"
+	},
+	{
+		"#text": "Gallery",
+		"@_name": "gallery_wallpaper"
+	},
+	{
+		"#text": "Phone number",
+		"@_name": "gemini_sim_info_editor_number"
+	},
+	{
+		"#text": "Select SIM card",
+		"@_name": "gemini_sim_select_title"
+	},
+	{
+		"#text": "This setting applies for all users on this phone.",
+		"@_name": "global_change_warning"
+	},
+	{
+		"#text": "Get reliable internet access when travelling abroad",
+		"@_name": "global_data_summary"
+	},
+	{
+		"#text": "International data",
+		"@_name": "global_data_title"
+	},
+	{
+		"#text": "GPS settings",
+		"@_name": "gps_settings_title"
+	},
+	{
+		"#text": "Guest Mode",
+		"@_name": "guest_mode"
+	},
+	{
+		"#text": "Permissions",
+		"@_name": "guest_mode_permission_settings"
+	},
+	{
+		"#text": "Guest password",
+		"@_name": "guest_password"
+	},
+	{
+		"#text": "Vibration intensity",
+		"@_name": "hapic_feedback_type"
+	},
+	{
+		"#text": "Haptic feedback",
+		"@_name": "haptic_feedback_enable_title"
+	},
+	{
+		"#text": "Set HDCP checking behavior",
+		"@_name": "hdcp_checking_dialog_title"
+	},
+	{
+		"#text": "HDCP checking",
+		"@_name": "hdcp_checking_title"
+	},
+	{
+		"#text": "Help &amp; feedback",
+		"@_name": "help_feedback_label"
+	},
+	{
+		"#text": "Help and feedback",
+		"@_name": "help_label"
+	},
+	{
+		"@_name": "help_uri_private_dns"
+	},
+	{
+		"@_name": "help_url_bluetooth"
+	},
+	{
+		"@_name": "help_url_location_access"
+	},
+	{
+		"@_name": "help_url_more_networks"
+	},
+	{
+		"@_name": "help_url_nfc_payment"
+	},
+	{
+		"@_name": "help_url_remote_display"
+	},
+	{
+		"@_name": "help_url_tether"
+	},
+	{
+		"@_name": "help_url_vpn"
+	},
+	{
+		"@_name": "help_url_wifi"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "hifi_auto"
+	},
+	{
+		"#text": "Intelligent match",
+		"@_name": "hifi_auto_summary"
+	},
+	{
+		"#text": "High gain",
+		"@_name": "hifi_high_gain"
+	},
+	{
+		"#text": "Headset",
+		"@_name": "hifi_high_gain_summary"
+	},
+	{
+		"#text": "Line out",
+		"@_name": "hifi_line_out"
+	},
+	{
+		"#text": "External amplifier",
+		"@_name": "hifi_line_out_summary"
+	},
+	{
+		"#text": "Low gain",
+		"@_name": "hifi_low_gain"
+	},
+	{
+		"#text": "Earbud, in-ear headset",
+		"@_name": "hifi_low_gain_summary"
+	},
+	{
+		"#text": "Hi-Fi Sound",
+		"@_name": "hifi_sound_effects_title"
+	},
+	{
+		"#text": "Come into effect with earphone plugged in",
+		"@_name": "hifi_valide_with_headset_pluged"
+	},
+	{
+		"#text": "Set Home screen",
+		"@_name": "home"
+	},
+	{
+		"#text": "Domestic data service without SIM card",
+		"@_name": "home_data_summary"
+	},
+	{
+		"#text": "mLiteSIM for data service",
+		"@_name": "home_data_title"
+	},
+	{
+		"#text": "Hold Home button",
+		"@_name": "home_key_behavior"
+	},
+	{
+		"#text": "This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?",
+		"@_name": "ime_security_warning"
+	},
+	{
+		"#text": "Don’t keep activities",
+		"@_name": "immediately_destroy_activities"
+	},
+	{
+		"#text": "Destroy every activity as soon as the user leaves",
+		"@_name": "immediately_destroy_activities_summary"
+	},
+	{
+		"#text": "Not registered",
+		"@_name": "ims_reg_status_not_registered"
+	},
+	{
+		"#text": "Registered",
+		"@_name": "ims_reg_status_registered"
+	},
+	{
+		"#text": "IMS registration state",
+		"@_name": "ims_reg_title"
+	},
+	{
+		"#text": "Active. Tap to toggle.",
+		"@_name": "inactive_app_active_summary"
+	},
+	{
+		"#text": "Inactive. Tap to toggle.",
+		"@_name": "inactive_app_inactive_summary"
+	},
+	{
+		"#text": "Standby apps",
+		"@_name": "inactive_apps_title"
+	},
+	{
+		"#text": "Always hide",
+		"@_name": "input_method_selector_always_hide_title"
+	},
+	{
+		"#text": 2,
+		"@_name": "input_method_selector_always_hide_value"
+	},
+	{
+		"#text": "Always show",
+		"@_name": "input_method_selector_always_show_title"
+	},
+	{
+		"#text": 1,
+		"@_name": "input_method_selector_always_show_value"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "input_method_selector_show_automatically_title"
+	},
+	{
+		"#text": 0,
+		"@_name": "input_method_selector_show_automatically_value"
+	},
+	{
+		"#text": 0,
+		"@_name": "input_method_selector_visibility_default_value"
+	},
+	{
+		"#text": "Install unknown apps",
+		"@_name": "install_other_apps"
+	},
+	{
+		"#text": "Install apps from unknown sources",
+		"@_name": "install_unknown_applications"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "join_two_unrelated_items"
+	},
+	{
+		"#text": "Stay awake",
+		"@_name": "keep_screen_on"
+	},
+	{
+		"#text": "Screen will never sleep while charging",
+		"@_name": "keep_screen_on_summary"
+	},
+	{
+		"#text": "Keyboard",
+		"@_name": "key_sounds_enable_title"
+	},
+	{
+		"#text": "Keyboard &amp; input methods",
+		"@_name": "keyboard_settings_category"
+	},
+	{
+		"#text": "project",
+		"@_name": "keywords_display_cast_screen"
+	},
+	{
+		"#text": "nearby location history reporting",
+		"@_name": "keywords_location"
+	},
+	{
+		"#text": "accuracy",
+		"@_name": "keywords_location_mode"
+	},
+	{
+		"#text": "text message texting messages messaging",
+		"@_name": "keywords_more_default_sms_app"
+	},
+	{
+		"#text": "cellular cell carrier wireless data 4g 3g 2g lte",
+		"@_name": "keywords_more_mobile_networks"
+	},
+	{
+		"#text": "WLAN network connection",
+		"@_name": "keywords_wifi"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "known_btn"
+	},
+	{
+		"#text": "Available networks",
+		"@_name": "label_available"
+	},
+	{
+		"#text": "Roaming Settings",
+		"@_name": "label_global_roaming_settings"
+	},
+	{
+		"#text": "Language and input method",
+		"@_name": "language_keyboard_settings_title"
+	},
+	{
+		"#text": "No defaults set",
+		"@_name": "launch_defaults_none"
+	},
+	{
+		"#text": "Some defaults set",
+		"@_name": "launch_defaults_some"
+	},
+	{
+		"#text": "Home LED",
+		"@_name": "light_feedback_enable_title"
+	},
+	{
+		"#text": "%1$d Mbps",
+		"@_name": "link_speed"
+	},
+	{
+		"#text": "Searching",
+		"@_name": "load_networks_progress"
+	},
+	{
+		"#text": "Tap to change or remove the password for desktop full backups",
+		"@_name": "local_backup_password_summary_change"
+	},
+	{
+		"#text": "Desktop full backups aren’t currently protected",
+		"@_name": "local_backup_password_summary_none"
+	},
+	{
+		"#text": "Desktop backup password",
+		"@_name": "local_backup_password_title"
+	},
+	{
+		"#text": "New password and confirmation don’t match",
+		"@_name": "local_backup_password_toast_confirmation_mismatch"
+	},
+	{
+		"#text": "New backup password set",
+		"@_name": "local_backup_password_toast_success"
+	},
+	{
+		"#text": "Failure setting backup password",
+		"@_name": "local_backup_password_toast_validation_failure"
+	},
+	{
+		"#text": "Location services",
+		"@_name": "location_category_location_services"
+	},
+	{
+		"#text": "Recent location requests",
+		"@_name": "location_category_recent_location_requests"
+	},
+	{
+		"#text": "High power consumption",
+		"@_name": "location_high_battery_use"
+	},
+	{
+		"#text": "Low power consumption",
+		"@_name": "location_low_battery_use"
+	},
+	{
+		"#text": "Scanning",
+		"@_name": "location_menu_scanning"
+	},
+	{
+		"#text": "Low accuracy and power usage",
+		"@_name": "location_mode_battery_saving_description"
+	},
+	{
+		"#text": "Use networks only",
+		"@_name": "location_mode_battery_saving_title"
+	},
+	{
+		"#text": "High accuracy and power usage",
+		"@_name": "location_mode_high_accuracy_description"
+	},
+	{
+		"#text": "Use both networks and GPS",
+		"@_name": "location_mode_high_accuracy_title"
+	},
+	{
+		"#text": "Allow authorized apps use your location info",
+		"@_name": "location_mode_location_off_title"
+	},
+	{
+		"#text": "Location mode",
+		"@_name": "location_mode_screen_title"
+	},
+	{
+		"#text": "Balanced accuracy and power usage",
+		"@_name": "location_mode_sensors_only_description"
+	},
+	{
+		"#text": "Use GPS only",
+		"@_name": "location_mode_sensors_only_title"
+	},
+	{
+		"#text": "Location mode",
+		"@_name": "location_mode_title"
+	},
+	{
+		"#text": "No apps have requested location recently",
+		"@_name": "location_no_recent_apps"
+	},
+	{
+		"#text": "Location access",
+		"@_name": "location_permission"
+	},
+	{
+		"#text": "Improve location by allowing system apps and services to detect Bluetooth devices at any time.",
+		"@_name": "location_scanning_bluetooth_always_scanning_description"
+	},
+	{
+		"#text": "Bluetooth scanning",
+		"@_name": "location_scanning_bluetooth_always_scanning_title"
+	},
+	{
+		"#text": "Scanning",
+		"@_name": "location_scanning_screen_title"
+	},
+	{
+		"#text": "Improve location by allowing system apps and services to detect WLAN networks at any time.",
+		"@_name": "location_scanning_wifi_always_scanning_description"
+	},
+	{
+		"#text": "WLAN scanning",
+		"@_name": "location_scanning_wifi_always_scanning_title"
+	},
+	{
+		"#text": "Location services",
+		"@_name": "location_settings_title"
+	},
+	{
+		"#text": "Screen security",
+		"@_name": "lock_settings_title"
+	},
+	{
+		"#text": "Screen lock sound",
+		"@_name": "lock_sounds_enable_title"
+	},
+	{
+		"#text": "Enable 4G",
+		"@_name": "lte_4g_settings_title"
+	},
+	{
+		"#text": "The phone will change from 3G/2G to 4G, some active task may be stopped",
+		"@_name": "lte_4g_switch_prompt"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mail_sound_title"
+	},
+	{
+		"#text": "Device administrators",
+		"@_name": "manage_device_admin"
+	},
+	{
+		"#text": "View or deactivate device administrators",
+		"@_name": "manage_device_admin_summary"
+	},
+	{
+		"#text": "Phone plan",
+		"@_name": "manage_mobile_plan_title"
+	},
+	{
+		"#text": "Notification access",
+		"@_name": "manage_notification_access_title"
+	},
+	{
+		"#text": "Work profile",
+		"@_name": "managed_profile_location_category"
+	},
+	{
+		"#text": "Turned off by your company",
+		"@_name": "managed_profile_location_switch_lockdown"
+	},
+	{
+		"#text": "Location for work profile",
+		"@_name": "managed_profile_location_switch_title"
+	},
+	{
+		"#text": "All work apps",
+		"@_name": "managed_user_title"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Media",
+		"@_name": "media_category"
+	},
+	{
+		"#text": "Media",
+		"@_name": "media_volume_option_title"
+	},
+	{
+		"#text": "mLiteSIM",
+		"@_name": "meizu_card"
+	},
+	{
+		"#text": "Delete APN",
+		"@_name": "menu_delete"
+	},
+	{
+		"#text": "New APN",
+		"@_name": "menu_new"
+	},
+	{
+		"#text": "Reset to default",
+		"@_name": "menu_restore"
+	},
+	{
+		"#text": "Save",
+		"@_name": "menu_save"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "menu_stats_refresh"
+	},
+	{
+		"#text": "MMS",
+		"@_name": "mms"
+	},
+	{
+		"#text": "Message",
+		"@_name": "mms_sound_title"
+	},
+	{
+		"#text": "Please connect to the internet",
+		"@_name": "mobile_connect_to_internet"
+	},
+	{
+		"#text": "Cellular data always active",
+		"@_name": "mobile_data_always_on"
+	},
+	{
+		"#text": "Always keep mobile data active, even when WLAN is active (for fast network switching).",
+		"@_name": "mobile_data_always_on_summary"
+	},
+	{
+		"#text": "Please insert SIM card and restart",
+		"@_name": "mobile_insert_sim_card"
+	},
+	{
+		"#text": "%1$s has no known config website",
+		"@_name": "mobile_no_provisioning_url"
+	},
+	{
+		"#text": "Mobile settings",
+		"@_name": "mobile_settings"
+	},
+	{
+		"#text": "Unknown SIM operator",
+		"@_name": "mobile_unknown_sim_operator"
+	},
+	{
+		"#text": "Select mock location app",
+		"@_name": "mock_location_app"
+	},
+	{
+		"#text": "No mock location app set",
+		"@_name": "mock_location_app_not_set"
+	},
+	{
+		"#text": "Mock location app: %1$s",
+		"@_name": "mock_location_app_set"
+	},
+	{
+		"#text": "Bluetooth Settings",
+		"@_name": "monkey_bluetooth_settings"
+	},
+	{
+		"#text": "Mobile Settings",
+		"@_name": "monkey_mobile_settings"
+	},
+	{
+		"#text": "Tether Settings",
+		"@_name": "monkey_tether_settings"
+	},
+	{
+		"#text": "Wifi Settings",
+		"@_name": "monkey_wifi_settings"
+	},
+	{
+		"#text": "Wireless Settings",
+		"@_name": "monkey_wireless_settings"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "gsm.version.baseband.2",
+		"@_name": "multi_baseband_one_prop_key"
+	},
+	{
+		"#text": "cdma.version.baseband",
+		"@_name": "multi_baseband_two_prop_key"
+	},
+	{
+		"#text": "MVNO value",
+		"@_name": "mvno_match_data"
+	},
+	{
+		"#text": "MVNO type",
+		"@_name": "mvno_type"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Fingerprint identification",
+		"@_name": "mz_fp_category_title"
+	},
+	{
+		"#text": "Pay by fingerprint",
+		"@_name": "mz_fp_for_flyme_pay_title"
+	},
+	{
+		"#text": "Use to unlock screen",
+		"@_name": "mz_fp_for_unlock_title"
+	},
+	{
+		"#text": "Fingerprint management",
+		"@_name": "mz_fp_management_title"
+	},
+	{
+		"#text": "Use the fingerprint sensor at the bottom of the phone to unlock the screen and secure apps and files.",
+		"@_name": "mz_fp_summary"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Network search error",
+		"@_name": "network_query_error"
+	},
+	{
+		"#text": "Network reset is not available for this user",
+		"@_name": "network_reset_not_available"
+	},
+	{
+		"#text": "Cellular networks",
+		"@_name": "network_settings_title"
+	},
+	{
+		"#text": "Available",
+		"@_name": "network_state_available"
+	},
+	{
+		"#text": "Current",
+		"@_name": "network_state_current"
+	},
+	{
+		"#text": "Forbidden",
+		"@_name": "network_state_forbidden"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "network_state_unknow"
+	},
+	{
+		"#text": "Network carrier",
+		"@_name": "networks"
+	},
+	{
+		"#text": "Foreground app prioritized",
+		"@_name": "nfc_payment_favor_foreground"
+	},
+	{
+		"#text": "Learn more",
+		"@_name": "nfc_payment_learn_more"
+	},
+	{
+		"#text": "Find apps",
+		"@_name": "nfc_payment_menu_item_add_service"
+	},
+	{
+		"#text": "Pay with just a tap",
+		"@_name": "nfc_payment_no_apps"
+	},
+	{
+		"#text": "Always use %1$s when tap to pay?",
+		"@_name": "nfc_payment_set_default"
+	},
+	{
+		"#text": "Always use %1$s instead of %2$s when tap to pay?",
+		"@_name": "nfc_payment_set_default_instead_of"
+	},
+	{
+		"#text": "Set as your preference?",
+		"@_name": "nfc_payment_set_default_label"
+	},
+	{
+		"#text": "Touch to Pay",
+		"@_name": "nfc_payment_settings_title"
+	},
+	{
+		"#text": "Allow data exchange when the phone touches another device",
+		"@_name": "nfc_quick_toggle_summary"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "nfc_quick_toggle_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "no"
+	},
+	{
+		"#text": "Nothing",
+		"@_name": "no_application"
+	},
+	{
+		"#text": "No Results Found",
+		"@_name": "no_search_result"
+	},
+	{
+		"#text": "Absent",
+		"@_name": "no_sim_card"
+	},
+	{
+		"#text": "Absent",
+		"@_name": "no_uim_card"
+	},
+	{
+		"#text": "\"Don't show this again\"",
+		"@_name": "not_ask_next_time"
+	},
+	{
+		"#text": "Connect to hotspot by scanning with Flyme camera",
+		"@_name": "notice_view"
+	},
+	{
+		"#text": "Display new notifications at the top of the notification list",
+		"@_name": "notification_priority_summary"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "notification_section_header"
+	},
+	{
+		"#text": "Default notification sound",
+		"@_name": "notification_sound_dialog_title"
+	},
+	{
+		"#text": "System and notification",
+		"@_name": "notification_volume_option_title"
+	},
+	{
+		"#text": "Notify when there is a safe free networks",
+		"@_name": "notify_free_wifi_summary"
+	},
+	{
+		"#text": "Free secure networks notification",
+		"@_name": "notify_free_wifi_title"
+	},
+	{
+		"#text": "Allow apps on other devices to discover apps on this device",
+		"@_name": "nsd_quick_toggle_summary"
+	},
+	{
+		"#text": "Network service discovery",
+		"@_name": "nsd_quick_toggle_title"
+	},
+	{
+		"#text": "Obtainning device info...",
+		"@_name": "obtain_device_info_txt"
+	},
+	{
+		"@_name": "oem_preferred_feedback_reporter"
+	},
+	{
+		"#text": "OEM unlocking",
+		"@_name": "oem_unlock_enable"
+	},
+	{
+		"#text": "Allow the bootloader to be unlocked",
+		"@_name": "oem_unlock_enable_summary"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "OK",
+		"@_name": "okay"
+	},
+	{
+		"#text": "Online wallpapers",
+		"@_name": "online_wallpaper"
+	},
+	{
+		"#text": "Root permission",
+		"@_name": "open_root_permission_title"
+	},
+	{
+		"#text": "Carrier",
+		"@_name": "operator"
+	},
+	{
+		"#text": "Other notification",
+		"@_name": "other_sound_title"
+	},
+	{
+		"#text": "Simulate secondary displays",
+		"@_name": "overlay_display_devices_title"
+	},
+	{
+		"@_name": "owner_info_settings_summary"
+	},
+	{
+		"#text": "Owner info",
+		"@_name": "owner_info_settings_title"
+	},
+	{
+		"#text": "%1$s credentials",
+		"@_name": "passpoint_content"
+	},
+	{
+		"#text": "Saved via",
+		"@_name": "passpoint_label"
+	},
+	{
+		"#text": "Language",
+		"@_name": "phone_language"
+	},
+	{
+		"#text": "Picture color mode",
+		"@_name": "picture_color_mode"
+	},
+	{
+		"#text": "Use sRGB",
+		"@_name": "picture_color_mode_desc"
+	},
+	{
+		"#text": "Phase 2 authentication",
+		"@_name": "please_select_phase2"
+	},
+	{
+		"#text": "Pointer location",
+		"@_name": "pointer_location"
+	},
+	{
+		"#text": "Screen overlay showing current touch data",
+		"@_name": "pointer_location_summary"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "power_charging"
+	},
+	{
+		"#text": "%1$s - %2$s until fully charged",
+		"@_name": "power_charging_duration"
+	},
+	{
+		"#text": "Should last until about %1$s (%2$s)",
+		"@_name": "power_discharge_by"
+	},
+	{
+		"#text": "Should last until about %1$s based on your usage (%2$s)",
+		"@_name": "power_discharge_by_enhanced"
+	},
+	{
+		"#text": "Should last until about %1$s",
+		"@_name": "power_discharge_by_only"
+	},
+	{
+		"#text": "Should last until about %1$s based on your usage",
+		"@_name": "power_discharge_by_only_enhanced"
+	},
+	{
+		"#text": "About %1$s left (%2$s)",
+		"@_name": "power_discharging_duration"
+	},
+	{
+		"#text": "About %1$s left based on your usage (%2$s)",
+		"@_name": "power_discharging_duration_enhanced"
+	},
+	{
+		"#text": "%1$s left until fully charged",
+		"@_name": "power_remaining_charging_duration_only"
+	},
+	{
+		"#text": "About %1$s left",
+		"@_name": "power_remaining_duration_only"
+	},
+	{
+		"#text": "About %1$s left based on your usage",
+		"@_name": "power_remaining_duration_only_enhanced"
+	},
+	{
+		"#text": "%1$s left",
+		"@_name": "power_remaining_duration_only_short"
+	},
+	{
+		"#text": "Phone may shutdown soon",
+		"@_name": "power_remaining_duration_only_shutdown_imminent"
+	},
+	{
+		"#text": "Phone may shutdown soon (%1$s)",
+		"@_name": "power_remaining_duration_shutdown_imminent"
+	},
+	{
+		"#text": "Less than %1$s remaining (%2$s)",
+		"@_name": "power_remaining_less_than_duration"
+	},
+	{
+		"#text": "Less than %1$s remaining",
+		"@_name": "power_remaining_less_than_duration_only"
+	},
+	{
+		"#text": "More than %1$s remaining (%2$s)",
+		"@_name": "power_remaining_more_than_subtext"
+	},
+	{
+		"#text": "More than %1$s remaining",
+		"@_name": "power_remaining_only_more_than_subtext"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "power_remaining_settings_home_page"
+	},
+	{
+		"#text": "Battery Manager",
+		"@_name": "power_usage_summary_title"
+	},
+	{
+		"#text": "Prompt password",
+		"@_name": "ppp_dialing"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "pppoe_btn_cancel"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "pppoe_btn_connect"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "pppoe_btn_disconnect"
+	},
+	{
+		"#text": "Password",
+		"@_name": "pppoe_password"
+	},
+	{
+		"#text": "Remember password",
+		"@_name": "pppoe_save_password"
+	},
+	{
+		"#text": "PPPoE dial-up",
+		"@_name": "pppoe_setting_title"
+	},
+	{
+		"#text": "Connected",
+		"@_name": "pppoe_status_connected"
+	},
+	{
+		"#text": "Connecting...",
+		"@_name": "pppoe_status_connecting"
+	},
+	{
+		"#text": "Disconnected",
+		"@_name": "pppoe_status_disconnected"
+	},
+	{
+		"#text": "DNS",
+		"@_name": "pppoe_status_dns"
+	},
+	{
+		"#text": "Gateway",
+		"@_name": "pppoe_status_gateway"
+	},
+	{
+		"#text": "IP address",
+		"@_name": "pppoe_status_ip"
+	},
+	{
+		"#text": "Server IP",
+		"@_name": "pppoe_status_server_ip"
+	},
+	{
+		"#text": "PPPoE status",
+		"@_name": "pppoe_status_title"
+	},
+	{
+		"#text": "Disconnect from PPPoE?",
+		"@_name": "pppoe_sure_to_disconnect"
+	},
+	{
+		"#text": "Username",
+		"@_name": "pppoe_username"
+	},
+	{
+		"#text": "WLAN is not connected, PPPoE is unavailable",
+		"@_name": "pppoe_wifi_not_connected"
+	},
+	{
+		"#text": "%1$s / %2$s",
+		"@_name": "preference_summary_default_combination"
+	},
+	{
+		"#text": "Enable 4G data only",
+		"@_name": "preferred_lte"
+	},
+	{
+		"#text": "When 4G Data Only is enabled, voice calls and SMS will be unavailable.",
+		"@_name": "preferred_lte_summary"
+	},
+	{
+		"#text": "Preferred network mode",
+		"@_name": "preferred_network_mode_dialogtitle"
+	},
+	{
+		"#text": "Network mode",
+		"@_name": "preferred_network_mode_title"
+	},
+	{
+		"#text": "about Private DNS features",
+		"@_name": "private_dns_help_message",
+		"annotation": {
+			"#text": "Learn more",
+			"@_id": "url"
+		}
+	},
+	{
+		"#text": "Off",
+		"@_name": "private_dns_mode_off"
+	},
+	{
+		"#text": "Automatic",
+		"@_name": "private_dns_mode_opportunistic"
+	},
+	{
+		"#text": "Private DNS provider hostname",
+		"@_name": "private_dns_mode_provider"
+	},
+	{
+		"#text": "\"Couldn't connect\"",
+		"@_name": "private_dns_mode_provider_failure"
+	},
+	{
+		"#text": "Enter hostname of DNS provider",
+		"@_name": "private_dns_mode_provider_hostname_hint"
+	},
+	{
+		"#text": "Android OS",
+		"@_name": "process_kernel_label"
+	},
+	{
+		"#text": "Profile info",
+		"@_name": "profile_info_settings_title"
+	},
+	{
+		"#text": "Activate Profile Manager?",
+		"@_name": "profile_owner_add_title"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "progress_scanning"
+	},
+	{
+		"#text": "Done",
+		"@_name": "proxy_action_text"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "proxy_clear_text"
+	},
+	{
+		"#text": "Restore defaults",
+		"@_name": "proxy_defaultView_text"
+	},
+	{
+		"#text": "Attention",
+		"@_name": "proxy_error"
+	},
+	{
+		"#text": "OK",
+		"@_name": "proxy_error_dismiss"
+	},
+	{
+		"#text": "The port field must be empty if the host field is empty.",
+		"@_name": "proxy_error_empty_host_set_port"
+	},
+	{
+		"#text": "You need to complete the port field.",
+		"@_name": "proxy_error_empty_port"
+	},
+	{
+		"#text": "\"The exclusion list you typed isn't properly formatted. Type a comma-separated list of excluded domains.\"",
+		"@_name": "proxy_error_invalid_exclusion_list"
+	},
+	{
+		"#text": "\"The hostname you typed isn't valid.\"",
+		"@_name": "proxy_error_invalid_host"
+	},
+	{
+		"#text": "\"The port you typed isn't valid.\"",
+		"@_name": "proxy_error_invalid_port"
+	},
+	{
+		"#text": "example.com,mycomp.test.com,localhost",
+		"@_name": "proxy_exclusionlist_hint"
+	},
+	{
+		"#text": "Bypass proxy for",
+		"@_name": "proxy_exclusionlist_label"
+	},
+	{
+		"#text": "proxy.example.com",
+		"@_name": "proxy_hostname_hint"
+	},
+	{
+		"#text": "Proxy hostname",
+		"@_name": "proxy_hostname_label"
+	},
+	{
+		"#text": "PAC URL",
+		"@_name": "proxy_pac_label"
+	},
+	{
+		"#text": 8080,
+		"@_name": "proxy_port_hint"
+	},
+	{
+		"#text": "Proxy port",
+		"@_name": "proxy_port_label"
+	},
+	{
+		"#text": "Proxy",
+		"@_name": "proxy_settings_title"
+	},
+	{
+		"#text": "https://www.example.com/proxy.pac",
+		"@_name": "proxy_url_hint"
+	},
+	{
+		"#text": "\"PAC URL: \"",
+		"@_name": "proxy_url_title"
+	},
+	{
+		"#text": "The HTTP proxy is used by the browser but may not be used by other apps.",
+		"@_name": "proxy_warning_limited_support"
+	},
+	{
+		"#text": "Base Station Guard",
+		"@_name": "pseudo_base_station"
+	},
+	{
+		"#text": "Authenticate base station to block scam SMS",
+		"@_name": "pseudo_base_station_summary"
+	},
+	{
+		"#text": "Please scan the QR code with Flyme camera to connect",
+		"@_name": "qr_code_share_notice"
+	},
+	{
+		"#text": "Use gestures to wake the phone or open apps when the screen is off",
+		"@_name": "quick_wakeup_tips"
+	},
+	{
+		"#text": "Gesture wakeup",
+		"@_name": "quick_wakeup_title"
+	},
+	{
+		"#text": "Connected",
+		"@_name": "radioInfo_data_connected"
+	},
+	{
+		"#text": "More",
+		"@_name": "radio_controls_title"
+	},
+	{
+		"#text": "Server exception",
+		"@_name": "rd_notify_appserver_error_endfix"
+	},
+	{
+		"#text": "Please check firewall settings of your router",
+		"@_name": "rd_notify_gateway_firewall_settings"
+	},
+	{
+		"#text": "External network error",
+		"@_name": "rd_notify_internet_error"
+	},
+	{
+		"#text": "Local network exception",
+		"@_name": "rd_notify_local_error"
+	},
+	{
+		"#text": "Network access is restricted",
+		"@_name": "rd_notify_local_firewall_settings_endfix"
+	},
+	{
+		"#text": "Please check",
+		"@_name": "rd_notify_local_firewall_settings_prefix"
+	},
+	{
+		"#text": "Access to external network is restricted",
+		"@_name": "rd_notify_outnet_firewall_settings"
+	},
+	{
+		"#text": "No cellular network available",
+		"@_name": "rd_notify_title_mobile"
+	},
+	{
+		"#text": "No WLAN Network Available",
+		"@_name": "rd_notify_title_wifi"
+	},
+	{
+		"#text": "Auto register",
+		"@_name": "register_automatically"
+	},
+	{
+		"#text": "Registering",
+		"@_name": "register_network"
+	},
+	{
+		"#text": "Registering on %s",
+		"@_name": "register_on_network"
+	},
+	{
+		"#text": "Registered on network",
+		"@_name": "registration_done"
+	},
+	{
+		"#text": "%1$s left",
+		"@_name": "remaining_length_format"
+	},
+	{
+		"#text": "Deactivate and Uninstall",
+		"@_name": "remove_and_uninstall_device_admin"
+	},
+	{
+		"#text": "Deactivate this device administrator",
+		"@_name": "remove_device_admin"
+	},
+	{
+		"#text": "Remove work profile",
+		"@_name": "remove_managed_profile_label"
+	},
+	{
+		"#text": "Repeated call alert",
+		"@_name": "repeat_coming_call_notify"
+	},
+	{
+		"#text": "A second call from the same contact within 5 minutes will not be muted.",
+		"@_name": "repeat_coming_call_notify_tips"
+	},
+	{
+		"#text": "Repeat",
+		"@_name": "repeat_weekday"
+	},
+	{
+		"#text": "Reset settings",
+		"@_name": "reset_network_button_text"
+	},
+	{
+		"#text": "Network settings have been reset",
+		"@_name": "reset_network_complete_toast"
+	},
+	{
+		"#text": "Reset?",
+		"@_name": "reset_network_confirm_title"
+	},
+	{
+		"#text": "\"This will reset all network settings, including:\n\n\"\"\n\"\"\n\"",
+		"@_name": "reset_network_desc",
+		"li": [
+			"Wi‑Fi",
+			"Cellular data",
+			"Bluetooth"
+		]
+	},
+	{
+		"#text": "Reset settings",
+		"@_name": "reset_network_final_button_text"
+	},
+	{
+		"#text": "Reset all network settings? You can’t undo this action!",
+		"@_name": "reset_network_final_desc"
+	},
+	{
+		"#text": "Network settings reset",
+		"@_name": "reset_network_title"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "reset_password"
+	},
+	{
+		"#text": "Resetting",
+		"@_name": "restore_default_apn"
+	},
+	{
+		"#text": "Reset completed.",
+		"@_name": "restore_default_apn_completed"
+	},
+	{
+		"#text": "Enter administrator PIN",
+		"@_name": "restr_pin_enter_admin_pin"
+	},
+	{
+		"#text": "Enter password to perform factory reset in demo mode",
+		"@_name": "retail_demo_reset_message"
+	},
+	{
+		"#text": "Next",
+		"@_name": "retail_demo_reset_next"
+	},
+	{
+		"#text": "Password required",
+		"@_name": "retail_demo_reset_title"
+	},
+	{
+		"#text": "Fade-in",
+		"@_name": "ring_up_title"
+	},
+	{
+		"#text": "Ringtone",
+		"@_name": "ring_volume_option_title"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "ringtone_custom_tip"
+	},
+	{
+		"#text": "Local music",
+		"@_name": "ringtone_local_dir"
+	},
+	{
+		"#text": "Online ringtones",
+		"@_name": "ringtone_online_dir"
+	},
+	{
+		"@_name": "ringtone_summary"
+	},
+	{
+		"#text": "Phone ringtone",
+		"@_name": "ringtone_title"
+	},
+	{
+		"#text": "Data roaming",
+		"@_name": "roaming"
+	},
+	{
+		"#text": "Significant roaming charges may apply if data roaming enabled",
+		"@_name": "roaming_warning"
+	},
+	{
+		"#text": "User: %1$s",
+		"@_name": "running_process_item_user_label"
+	},
+	{
+		"#text": "View and control currently running services",
+		"@_name": "runningservices_settings_summary"
+	},
+	{
+		"#text": "Running services",
+		"@_name": "runningservices_settings_title"
+	},
+	{
+		"#text": "Saved by %1$s",
+		"@_name": "saved_network"
+	},
+	{
+		"#text": "Scheduled off",
+		"@_name": "scheduled_power_off"
+	},
+	{
+		"#text": "Power off time",
+		"@_name": "scheduled_power_off_time"
+	},
+	{
+		"#text": "Scheduled on",
+		"@_name": "scheduled_power_on"
+	},
+	{
+		"#text": "Power-on time",
+		"@_name": "scheduled_power_on_time"
+	},
+	{
+		"#text": "Scheduled on and off",
+		"@_name": "scheduled_power_onandoff_title"
+	},
+	{
+		"#text": "Screen password",
+		"@_name": "screen_lock"
+	},
+	{
+		"#text": "Auto-lock",
+		"@_name": "screen_timeout"
+	},
+	{
+		"#text": "After %1$s",
+		"@_name": "screen_timeout_summary"
+	},
+	{
+		"#text": "Custom (%d)",
+		"@_name": "screen_zoom_summary_custom"
+	},
+	{
+		"#text": "Default",
+		"@_name": "screen_zoom_summary_default"
+	},
+	{
+		"#text": "Largest",
+		"@_name": "screen_zoom_summary_extremely_large"
+	},
+	{
+		"#text": "Large",
+		"@_name": "screen_zoom_summary_large"
+	},
+	{
+		"#text": "Small",
+		"@_name": "screen_zoom_summary_small"
+	},
+	{
+		"#text": "Larger",
+		"@_name": "screen_zoom_summary_very_large"
+	},
+	{
+		"#text": "Format internal storage",
+		"@_name": "sd_format"
+	},
+	{
+		"#text": "Erase all data on internal storage including photos and videos",
+		"@_name": "sd_format_summary"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Search for networks",
+		"@_name": "search_networks"
+	},
+	{
+		"#text": "Search for time zone",
+		"@_name": "search_settings"
+	},
+	{
+		"#text": "Password protect",
+		"@_name": "security_items_title"
+	},
+	{
+		"#text": "Security",
+		"@_name": "security_settings_title"
+	},
+	{
+		"#text": "Select application",
+		"@_name": "select_application"
+	},
+	{
+		"#text": "Auto",
+		"@_name": "select_automatically"
+	},
+	{
+		"#text": "Select Logger sizes per log buffer",
+		"@_name": "select_logd_size_dialog_title"
+	},
+	{
+		"#text": "Logger buffer sizes",
+		"@_name": "select_logd_size_title"
+	},
+	{
+		"#text": "Select log buffers to store persistently on device",
+		"@_name": "select_logpersist_dialog_title"
+	},
+	{
+		"#text": "Store logger data persistently on device",
+		"@_name": "select_logpersist_title"
+	},
+	{
+		"#text": "Select Private DNS Mode",
+		"@_name": "select_private_dns_configuration_dialog_title"
+	},
+	{
+		"#text": "Private DNS",
+		"@_name": "select_private_dns_configuration_title"
+	},
+	{
+		"#text": "Call with",
+		"@_name": "select_sim_for_calls"
+	},
+	{
+		"#text": "Select a SIM for data",
+		"@_name": "select_sim_for_data"
+	},
+	{
+		"#text": "Select USB Configuration",
+		"@_name": "select_usb_configuration_dialog_title"
+	},
+	{
+		"#text": "Select USB Configuration",
+		"@_name": "select_usb_configuration_title"
+	},
+	{
+		"#text": "Set WebView implementation",
+		"@_name": "select_webview_provider_dialog_title"
+	},
+	{
+		"#text": "WebView implementation",
+		"@_name": "select_webview_provider_title"
+	},
+	{
+		"#text": "This choice is no longer valid. Try again.",
+		"@_name": "select_webview_provider_toast_text"
+	},
+	{
+		"#text": "Enabling this function will consume data of Card%d. Set plan limit to remind you and avoid additional charges.",
+		"@_name": "set_data_usage_summary"
+	},
+	{
+		"#text": "Set plan limit of Card%d",
+		"@_name": "set_data_usage_title"
+	},
+	{
+		"#text": "Password lock",
+		"@_name": "set_screen_lock"
+	},
+	{
+		"#text": "Legal statement",
+		"@_name": "settings_copyright_activity_title"
+	},
+	{
+		"#text": "Connectivity Settings",
+		"@_name": "settings_label"
+	},
+	{
+		"#text": "Connectivity Settings",
+		"@_name": "settings_label_launcher"
+	},
+	{
+		"#text": "Open source licenses",
+		"@_name": "settings_license_activity_title"
+	},
+	{
+		"#text": "com.android.settings",
+		"@_name": "settings_package"
+	},
+	{
+		"#text": "Back",
+		"@_name": "setup_wizard_back_button_label"
+	},
+	{
+		"#text": "Next",
+		"@_name": "setup_wizard_next_button_label"
+	},
+	{
+		"#text": "Show background ANRs",
+		"@_name": "show_all_anrs"
+	},
+	{
+		"#text": "Show App Not Responding dialog for background apps",
+		"@_name": "show_all_anrs_summary"
+	},
+	{
+		"#text": "Show hardware layers updates",
+		"@_name": "show_hw_layers_updates"
+	},
+	{
+		"#text": "Flash hardware layers green when they update",
+		"@_name": "show_hw_layers_updates_summary"
+	},
+	{
+		"#text": "Show GPU view updates",
+		"@_name": "show_hw_screen_updates"
+	},
+	{
+		"#text": "Flash views inside windows when drawn with the GPU",
+		"@_name": "show_hw_screen_updates_summary"
+	},
+	{
+		"#text": "Debug non-rectangular clip operations",
+		"@_name": "show_non_rect_clip"
+	},
+	{
+		"#text": "Show notification channel warnings",
+		"@_name": "show_notification_channel_warnings"
+	},
+	{
+		"#text": "Displays on-screen warning when an app posts a notification without a valid channel",
+		"@_name": "show_notification_channel_warnings_summary"
+	},
+	{
+		"#text": "Show content of notifications",
+		"@_name": "show_notification_content"
+	},
+	{
+		"#text": "Show content of notifications on lock screen",
+		"@_name": "show_notification_content_summary"
+	},
+	{
+		"#text": "Show notifications on lock screen",
+		"@_name": "show_notification_on_lockscreen"
+	},
+	{
+		"#text": "Show surface updates",
+		"@_name": "show_screen_updates"
+	},
+	{
+		"#text": "Flash entire window surfaces when they update",
+		"@_name": "show_screen_updates_summary"
+	},
+	{
+		"#text": "Show taps",
+		"@_name": "show_touches"
+	},
+	{
+		"#text": "Show visual feedback for taps",
+		"@_name": "show_touches_summary"
+	},
+	{
+		"#text": "Verify password when shutdown the phone",
+		"@_name": "shutdown_verify_password"
+	},
+	{
+		"#text": "Silent mode",
+		"@_name": "silent_mode_title"
+	},
+	{
+		"#text": "SIM1 -",
+		"@_name": "sim_1"
+	},
+	{
+		"#text": "SIM2 -",
+		"@_name": "sim_2"
+	},
+	{
+		"#text": "Ask every time",
+		"@_name": "sim_calls_ask_first_prefs_title"
+	},
+	{
+		"#text": "Select SIM card",
+		"@_name": "sim_card_select_title"
+	},
+	{
+		"#text": "Not enabled",
+		"@_name": "sim_disable"
+	},
+	{
+		"#text": "The card is unusable when VoLTE is off",
+		"@_name": "sim_disabled_volteoff"
+	},
+	{
+		"#text": "Carrier",
+		"@_name": "sim_editor_carrier"
+	},
+	{
+		"#text": "SIM name",
+		"@_name": "sim_editor_name"
+	},
+	{
+		"#text": "Number",
+		"@_name": "sim_editor_number"
+	},
+	{
+		"#text": "SIM slot %1$d",
+		"@_name": "sim_editor_title"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "sim_enabled"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "sim_enter_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "sim_enter_ok"
+	},
+	{
+		"#text": "SIM card name",
+		"@_name": "sim_info_editor_name"
+	},
+	{
+		"#text": "Require PIN to use phone",
+		"@_name": "sim_lock_off"
+	},
+	{
+		"#text": "Require PIN to use phone",
+		"@_name": "sim_lock_on"
+	},
+	{
+		"#text": "SIM card lock settings",
+		"@_name": "sim_lock_settings"
+	},
+	{
+		"#text": "SIM card lock",
+		"@_name": "sim_lock_settings_category"
+	},
+	{
+		"#text": "SIM cards",
+		"@_name": "sim_management"
+	},
+	{
+		"#text": "Enter SIM name",
+		"@_name": "sim_name_hint"
+	},
+	{
+		"#text": "Switch SIM for data service",
+		"@_name": "sim_notification"
+	},
+	{
+		"#text": "Touch to set up",
+		"@_name": "sim_notification_summary"
+	},
+	{
+		"#text": "You are using SIM %d for cellular data, switch now?",
+		"@_name": "sim_notification_text"
+	},
+	{
+		"#text": "SIM cards changed.",
+		"@_name": "sim_notification_title"
+	},
+	{
+		"#text": "Change SIM PIN",
+		"@_name": "sim_pin_change"
+	},
+	{
+		"#text": "Lock SIM card",
+		"@_name": "sim_pin_toggle"
+	},
+	{
+		"#text": "Preferred SIM for",
+		"@_name": "sim_pref_divider"
+	},
+	{
+		"#text": "%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?",
+		"@_name": "sim_preferred_message"
+	},
+	{
+		"#text": "Update preferred SIM card?",
+		"@_name": "sim_preferred_title"
+	},
+	{
+		"#text": "Selection required",
+		"@_name": "sim_selection_required_pref"
+	},
+	{
+		"#text": "SIM cards",
+		"@_name": "sim_settings_title"
+	},
+	{
+		"#text": "SIM card slot",
+		"@_name": "sim_slot"
+	},
+	{
+		"#text": "SIM empty",
+		"@_name": "sim_slot_empty"
+	},
+	{
+		"#text": "SIM status",
+		"@_name": "sim_status_title"
+	},
+	{
+		"#text": "Switch Now",
+		"@_name": "sim_switch_button"
+	},
+	{
+		"#text": "Simulate color space",
+		"@_name": "simulate_color_space"
+	},
+	{
+		"#text": "MainCard Smart Switch",
+		"@_name": "smart_switch_enabled"
+	},
+	{
+		"#text": "Auto maintain 4G internet access. Card%d switches to Card%d when 4G unavailable, and that may consume Card%dsome data",
+		"@_name": "smart_switch_summary",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Supports back, pull down screen, and other custom actions",
+		"@_name": "smart_touch_tips"
+	},
+	{
+		"#text": "SmartTouch",
+		"@_name": "smart_touch_title"
+	},
+	{
+		"#text": "Smart Voice wakeup",
+		"@_name": "smart_voice_wakeup"
+	},
+	{
+		"#text": "Use voice commands to activate Smart Voice when the screen is off",
+		"@_name": "smart_voice_wakeup_tips"
+	},
+	{
+		"#text": "Allow automatic switch to a better WLAN netowrk",
+		"@_name": "smart_wifi_selection_sum"
+	},
+	{
+		"#text": "Smart WLAN network switch",
+		"@_name": "smart_wifi_selection_title"
+	},
+	{
+		"#text": "Default SMS app",
+		"@_name": "sms_application_title"
+	},
+	{
+		"#text": "SMS messages",
+		"@_name": "sms_messages_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "softap_have_no_security_dialog_cancel"
+	},
+	{
+		"#text": "Set password",
+		"@_name": "softap_have_no_security_dialog_ok"
+	},
+	{
+		"#text": "WLAN AP have no password, please set a password",
+		"@_name": "softap_have_no_security_msg"
+	},
+	{
+		"#text": "Sound and vibrate",
+		"@_name": "sound_and_vibrate_title"
+	},
+	{
+		"#text": "Ringtones &amp; alerts",
+		"@_name": "sound_category_calls_and_notification_title"
+	},
+	{
+		"#text": "Touch sound",
+		"@_name": "sound_effects_enable_title"
+	},
+	{
+		"#text": "System sound",
+		"@_name": "sound_system_tips"
+	},
+	{
+		"#text": "System sound",
+		"@_name": "sound_system_title"
+	},
+	{
+		"#text": "Fast",
+		"@_name": "speed_label_fast"
+	},
+	{
+		"#text": "Medium",
+		"@_name": "speed_label_medium"
+	},
+	{
+		"#text": "OK",
+		"@_name": "speed_label_okay"
+	},
+	{
+		"#text": "Slow",
+		"@_name": "speed_label_slow"
+	},
+	{
+		"#text": "Very Fast",
+		"@_name": "speed_label_very_fast"
+	},
+	{
+		"#text": "Very Slow",
+		"@_name": "speed_label_very_slow"
+	},
+	{
+		"#text": "App standby state: %s",
+		"@_name": "standby_bucket_summary"
+	},
+	{
+		"#text": "Off",
+		"@_name": "state_off"
+	},
+	{
+		"#text": "Enabled",
+		"@_name": "state_on"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Mobile network state",
+		"@_name": "status_data_state"
+	},
+	{
+		"#text": "Cellular network type",
+		"@_name": "status_network_type"
+	},
+	{
+		"#text": "My phone number",
+		"@_name": "status_number"
+	},
+	{
+		"#text": "Networks",
+		"@_name": "status_operator"
+	},
+	{
+		"#text": "Roaming",
+		"@_name": "status_roaming"
+	},
+	{
+		"#text": "Service state",
+		"@_name": "status_service_state"
+	},
+	{
+		"#text": "Signal strength",
+		"@_name": "status_signal_strength"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "status_unavailable"
+	},
+	{
+		"#text": "Status bar",
+		"@_name": "statusbar"
+	},
+	{
+		"#text": "Battery percentage",
+		"@_name": "statusbar_power_percent"
+	},
+	{
+		"#text": "USB computer connection",
+		"@_name": "storage_title_usb"
+	},
+	{
+		"#text": "Strict mode enabled",
+		"@_name": "strict_mode"
+	},
+	{
+		"#text": "Flash screen when apps do long operations on main thread",
+		"@_name": "strict_mode_summary"
+	},
+	{
+		"#text": "Search for all available networks",
+		"@_name": "sum_search_networks"
+	},
+	{
+		"#text": "Auto choose preferred network",
+		"@_name": "sum_select_automatically"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "summary_collapsed_preference_list"
+	},
+	{
+		"@_name": "summary_empty"
+	},
+	{
+		"#text": "Off",
+		"@_name": "switch_off_text"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "switch_on_text"
+	},
+	{
+		"#text": "System",
+		"@_name": "system_category_title"
+	},
+	{
+		"#text": "System",
+		"@_name": "system_ringtone"
+	},
+	{
+		"#text": "System wallpaper",
+		"@_name": "system_wallpaper"
+	},
+	{
+		"#text": "Terms and conditions",
+		"@_name": "terms_title"
+	},
+	{
+		"#text": "Plase input a valid number",
+		"@_name": "tether_data_usage_customize_notice"
+	},
+	{
+		"#text": "%1$s used",
+		"@_name": "tether_data_usage_per_device"
+	},
+	{
+		"#text": "Can share WLAN &amp; cellular network",
+		"@_name": "tether_enabler_disabled"
+	},
+	{
+		"#text": "Sharing cellular network",
+		"@_name": "tether_enabler_enabled_mobile"
+	},
+	{
+		"#text": "Sharing WLAN",
+		"@_name": "tether_enabler_enabled_wlan"
+	},
+	{
+		"#text": "No device connected",
+		"@_name": "tether_manage_device_summary_none"
+	},
+	{
+		"#text": "Manage connected devices",
+		"@_name": "tether_manage_device_title"
+	},
+	{
+		"#text": "Other sharing options",
+		"@_name": "tether_method_others"
+	},
+	{
+		"#text": "Customize",
+		"@_name": "tether_mobile_data_limit_customize"
+	},
+	{
+		"#text": "Mobile data limit",
+		"@_name": "tether_mobile_data_limit_dialog_title"
+	},
+	{
+		"#text": "No limit",
+		"@_name": "tether_mobile_data_limit_none"
+	},
+	{
+		"#text": "Mobile data limit",
+		"@_name": "tether_mobile_data_limit_title"
+	},
+	{
+		"#text": "MB",
+		"@_name": "tether_mobile_data_limit_unit"
+	},
+	{
+		"#text": "1 to 9999MB",
+		"@_name": "tether_mobile_data_limit_value_hint"
+	},
+	{
+		"#text": "Hotspot will be turned off if no device connected in 10 minutes",
+		"@_name": "tether_power_save_notice_txt"
+	},
+	{
+		"#text": "Portable hotspot",
+		"@_name": "tether_settings_title_all"
+	},
+	{
+		"#text": "Bluetooth tethering",
+		"@_name": "tether_settings_title_bluetooth"
+	},
+	{
+		"#text": "USB tethering",
+		"@_name": "tether_settings_title_usb"
+	},
+	{
+		"#text": "Tethering",
+		"@_name": "tether_settings_title_usb_bluetooth"
+	},
+	{
+		"#text": "Portable hotspot",
+		"@_name": "tether_settings_title_wifi"
+	},
+	{
+		"#text": "WPS connect",
+		"@_name": "tether_wps_connect_title"
+	},
+	{
+		"#text": "Portable hotspot is disabled",
+		"@_name": "tethered_Disabled_notification_title"
+	},
+	{
+		"#text": "Exceeded traffic limit",
+		"@_name": "tethered_Disabled_reason_message"
+	},
+	{
+		"#text": "Connected devices",
+		"@_name": "tethered_device_list_title"
+	},
+	{
+		"#text": "Tethering hardware acceleration",
+		"@_name": "tethering_hardware_offload"
+	},
+	{
+		"#text": "Use tethering hardware acceleration if available",
+		"@_name": "tethering_hardware_offload_summary"
+	},
+	{
+		"#text": "Tethering settings are not available for this user",
+		"@_name": "tethering_settings_not_available"
+	},
+	{
+		"#text": "输入内容",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Theme",
+		"@_name": "theme"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "time_unit_just_now"
+	},
+	{
+		"#text": "Converting to file based encryption",
+		"@_name": "title_convert_fbe"
+	},
+	{
+		"#text": "Font size",
+		"@_name": "title_font_size"
+	},
+	{
+		"#text": "Profile GPU rendering",
+		"@_name": "track_frame_time"
+	},
+	{
+		"#text": "Transition animation scale",
+		"@_name": "transition_animation_scale_title"
+	},
+	{
+		"#text": "Sets the language-specific voice for the spoken text",
+		"@_name": "tts_default_lang_summary"
+	},
+	{
+		"#text": "Language",
+		"@_name": "tts_default_lang_title"
+	},
+	{
+		"#text": "Affects the tone of the synthesized speech",
+		"@_name": "tts_default_pitch_summary"
+	},
+	{
+		"#text": "Pitch",
+		"@_name": "tts_default_pitch_title"
+	},
+	{
+		"#text": "Speed at which the text is spoken",
+		"@_name": "tts_default_rate_summary"
+	},
+	{
+		"#text": "Speech rate",
+		"@_name": "tts_default_rate_title"
+	},
+	{
+		"#text": "This is an example of speech synthesis",
+		"@_name": "tts_default_sample_string"
+	},
+	{
+		"#text": "This language requires a working network connection for text-to-speech output.",
+		"@_name": "tts_engine_network_required"
+	},
+	{
+		"#text": "Preferred engine",
+		"@_name": "tts_engine_preference_section_title"
+	},
+	{
+		"#text": "This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?",
+		"@_name": "tts_engine_security_warning"
+	},
+	{
+		"#text": "Launch engine settings",
+		"@_name": "tts_engine_settings_button"
+	},
+	{
+		"#text": "Settings for %s",
+		"@_name": "tts_engine_settings_title"
+	},
+	{
+		"#text": "General",
+		"@_name": "tts_general_section_title"
+	},
+	{
+		"#text": "Install the voice data required for speech synthesis",
+		"@_name": "tts_install_data_summary"
+	},
+	{
+		"#text": "Install voice data",
+		"@_name": "tts_install_data_title"
+	},
+	{
+		"#text": "Language not selected",
+		"@_name": "tts_lang_not_selected"
+	},
+	{
+		"#text": "Use system language",
+		"@_name": "tts_lang_use_system"
+	},
+	{
+		"#text": "Play a short demonstration of speech synthesis",
+		"@_name": "tts_play_example_summary"
+	},
+	{
+		"#text": "Listen to an example",
+		"@_name": "tts_play_example_title"
+	},
+	{
+		"#text": "Reset the pitch at which the text is spoken to default.",
+		"@_name": "tts_reset_speech_pitch_summary"
+	},
+	{
+		"#text": "Reset speech pitch",
+		"@_name": "tts_reset_speech_pitch_title"
+	},
+	{
+		"#text": "Text-to-speech settings",
+		"@_name": "tts_settings"
+	},
+	{
+		"#text": "Text-to-speech output",
+		"@_name": "tts_settings_title"
+	},
+	{
+		"#text": "Checking…",
+		"@_name": "tts_status_checking"
+	},
+	{
+		"#text": "%1$s is not supported",
+		"@_name": "tts_status_not_supported"
+	},
+	{
+		"#text": "%1$s is fully supported",
+		"@_name": "tts_status_ok"
+	},
+	{
+		"#text": "%1$s requires network connection",
+		"@_name": "tts_status_requires_network"
+	},
+	{
+		"#text": "Default language status",
+		"@_name": "tts_status_title"
+	},
+	{
+		"#text": "Currently only one CDMA card can be registered for network. Please set this card as the default one if you need network connection",
+		"@_name": "two_cdma_dialog_msg"
+	},
+	{
+		"#text": "UIM card name",
+		"@_name": "uim_info_editor_name"
+	},
+	{
+		"#text": "Phone number",
+		"@_name": "uim_info_editor_number"
+	},
+	{
+		"#text": "Dual card management",
+		"@_name": "uim_management"
+	},
+	{
+		"#text": "Invalid characters are not allowed|\\\\/:*?\\\"&lt;>",
+		"@_name": "unacceptable_char"
+	},
+	{
+		"#text": "Uninstall app",
+		"@_name": "uninstall_device_admin"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "Screen lock",
+		"@_name": "unlock_set_unlock_launch_picker_title"
+	},
+	{
+		"#text": "Swipe",
+		"@_name": "unlock_set_unlock_mode_none"
+	},
+	{
+		"#text": "Unmount SD card",
+		"@_name": "unmount_sdcard"
+	},
+	{
+		"#text": "Tap to unmount SD card before removing it safely",
+		"@_name": "unmount_sdcard_summay"
+	},
+	{
+		"#text": "Untitled",
+		"@_name": "untitled_apn"
+	},
+	{
+		"#text": "Update APN Online",
+		"@_name": "update_apn"
+	},
+	{
+		"#text": "APN update complete",
+		"@_name": "update_apn_completed"
+	},
+	{
+		"#text": "Network connection failed",
+		"@_name": "update_apn_failed"
+	},
+	{
+		"#text": "Disable USB audio routing",
+		"@_name": "usb_audio_disable_routing"
+	},
+	{
+		"#text": "Disable automatic routing to USB audio peripherals",
+		"@_name": "usb_audio_disable_routing_summary"
+	},
+	{
+		"#text": "Connect as",
+		"@_name": "usb_connection_category"
+	},
+	{
+		"#text": "Transfer media files on PC",
+		"@_name": "usb_mtp_summary"
+	},
+	{
+		"#text": "Media device (MTP)",
+		"@_name": "usb_mtp_title"
+	},
+	{
+		"#text": "Transfer photos via PC",
+		"@_name": "usb_ptp_summary"
+	},
+	{
+		"#text": "Camera (PTP)",
+		"@_name": "usb_ptp_title"
+	},
+	{
+		"#text": "Tethered",
+		"@_name": "usb_tethering_active_subtext"
+	},
+	{
+		"#text": "\"Share the phone's network connection via USB\"",
+		"@_name": "usb_tethering_available_subtext"
+	},
+	{
+		"#text": "USB tethering",
+		"@_name": "usb_tethering_button_text"
+	},
+	{
+		"#text": "USB tethering error",
+		"@_name": "usb_tethering_errored_subtext"
+	},
+	{
+		"#text": "\"Can't tether when USB storage is in use\"",
+		"@_name": "usb_tethering_storage_active_subtext"
+	},
+	{
+		"#text": "USB not connected",
+		"@_name": "usb_tethering_unavailable_subtext"
+	},
+	{
+		"#text": "Flyme style icons",
+		"@_name": "use_flyme_icon_title"
+	},
+	{
+		"#text": "Use system languages",
+		"@_name": "use_system_language_to_select_input_method_subtypes"
+	},
+	{
+		"#text": "All apps and data will be deleted.",
+		"@_name": "user_confirm_remove_message"
+	},
+	{
+		"#text": "You will lose your space and data. It cannot be undone.",
+		"@_name": "user_confirm_remove_self_message"
+	},
+	{
+		"#text": "Delete yourself?",
+		"@_name": "user_confirm_remove_self_title"
+	},
+	{
+		"#text": "Remove this user?",
+		"@_name": "user_confirm_remove_title"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "user_delete_button"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "user_dict_settings_context_menu_edit_title"
+	},
+	{
+		"#text": "Guest",
+		"@_name": "user_guest"
+	},
+	{
+		"#text": "User info",
+		"@_name": "user_info_settings_title"
+	},
+	{
+		"#text": "All apps and data will be deleted.",
+		"@_name": "user_profile_confirm_remove_message"
+	},
+	{
+		"#text": "Remove this profile?",
+		"@_name": "user_profile_confirm_remove_title"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "v7_preference_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "v7_preference_on"
+	},
+	{
+		"#text": "Check apps installed via ADB/ADT for harmful behavior.",
+		"@_name": "verify_apps_over_usb_summary"
+	},
+	{
+		"#text": "Verify apps over USB",
+		"@_name": "verify_apps_over_usb_title"
+	},
+	{
+		"#text": "Vibrate on ringing",
+		"@_name": "vibrate_when_ringing_title"
+	},
+	{
+		"#text": "Domestic and foreign traffic data is available without SIM card",
+		"@_name": "virtual_data_summary"
+	},
+	{
+		"#text": "mLiteSIM",
+		"@_name": "virtual_data_title"
+	},
+	{
+		"#text": "Volume",
+		"@_name": "volume_adjustment_title"
+	},
+	{
+		"#text": "Add VPN",
+		"@_name": "vpn_add"
+	},
+	{
+		"#text": "Stay connected to VPN at all times",
+		"@_name": "vpn_always_on_summary"
+	},
+	{
+		"#text": "Always-on active",
+		"@_name": "vpn_always_on_summary_active"
+	},
+	{
+		"#text": "Not supported by this app",
+		"@_name": "vpn_always_on_summary_not_supported"
+	},
+	{
+		"#text": "More configuration options are set up in \\\"%1$s\\\"",
+		"@_name": "vpn_app_tips_str"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "vpn_cancel"
+	},
+	{
+		"#text": "\"This app doesn't support always-on VPN\"",
+		"@_name": "vpn_cant_connect_message"
+	},
+	{
+		"#text": "\"Can't connect to%1$s\"",
+		"@_name": "vpn_cant_connect_title"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "vpn_connect"
+	},
+	{
+		"#text": "Connect to %s",
+		"@_name": "vpn_connect_to"
+	},
+	{
+		"#text": "Add VPN connection",
+		"@_name": "vpn_create"
+	},
+	{
+		"@_name": "vpn_create_prefix"
+	},
+	{
+		"@_name": "vpn_create_suffix"
+	},
+	{
+		"#text": "Delete VPN?",
+		"@_name": "vpn_delete_conformi_msg"
+	},
+	{
+		"#text": "Delete VPN",
+		"@_name": "vpn_delete_title"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "vpn_disconnect"
+	},
+	{
+		"#text": "Disconnect this VPN?",
+		"@_name": "vpn_disconnect_confirm"
+	},
+	{
+		"#text": "8.8.8.8",
+		"@_name": "vpn_dns_hint"
+	},
+	{
+		"#text": "DNS servers",
+		"@_name": "vpn_dns_servers"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "vpn_done"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "vpn_enable_network_cancel"
+	},
+	{
+		"#text": "Enable cellular data",
+		"@_name": "vpn_enable_network_mobile"
+	},
+	{
+		"#text": "Network connection needed for VPN",
+		"@_name": "vpn_enable_network_title"
+	},
+	{
+		"#text": "Enable WLAN",
+		"@_name": "vpn_enable_network_wifi"
+	},
+	{
+		"#text": "\"By turning on this setting, you won't have an Internet connection until the VPN successfully connects\"",
+		"@_name": "vpn_first_always_on_vpn_message"
+	},
+	{
+		"#text": "OK",
+		"@_name": "vpn_forget"
+	},
+	{
+		"#text": "Delete VPN",
+		"@_name": "vpn_forget_long"
+	},
+	{
+		"#text": "IPSec CA certificate",
+		"@_name": "vpn_ipsec_ca_cert"
+	},
+	{
+		"#text": "IPSec identifier",
+		"@_name": "vpn_ipsec_identifier"
+	},
+	{
+		"#text": "IPSec pre-shared key",
+		"@_name": "vpn_ipsec_secret"
+	},
+	{
+		"#text": "IPSec server certificate",
+		"@_name": "vpn_ipsec_server_cert"
+	},
+	{
+		"#text": "IPSec user certificate",
+		"@_name": "vpn_ipsec_user_cert"
+	},
+	{
+		"#text": "L2TP secret",
+		"@_name": "vpn_l2tp_secret"
+	},
+	{
+		"#text": "Always-on VPN",
+		"@_name": "vpn_menu_lockdown"
+	},
+	{
+		"#text": "PPP encryption (MPPE)",
+		"@_name": "vpn_mppe"
+	},
+	{
+		"#text": "Name",
+		"@_name": "vpn_name"
+	},
+	{
+		"#text": "VPN list",
+		"@_name": "vpn_network_title"
+	},
+	{
+		"#text": "\"Don't verify server\"",
+		"@_name": "vpn_no_ca_cert"
+	},
+	{
+		"#text": "Add",
+		"@_name": "vpn_no_default_key_add"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "vpn_no_default_key_cancel"
+	},
+	{
+		"#text": "No VPN network has been added. Do you want to add?",
+		"@_name": "vpn_no_default_key_message"
+	},
+	{
+		"#text": "There is no network connection. Please try again later",
+		"@_name": "vpn_no_network"
+	},
+	{
+		"#text": "From server",
+		"@_name": "vpn_no_server_cert"
+	},
+	{
+		"#text": "Not used",
+		"@_name": "vpn_not_used"
+	},
+	{
+		"#text": "Password",
+		"@_name": "vpn_password"
+	},
+	{
+		"#text": "Ask every time",
+		"@_name": "vpn_password_ask_every_time"
+	},
+	{
+		"#text": "Save and reconnect VPN",
+		"@_name": "vpn_reconnect_msg"
+	},
+	{
+		"#text": "Replace",
+		"@_name": "vpn_replace"
+	},
+	{
+		"#text": "\"You're already connected to an always-on VPN. If you connect to a different one, your existing VPN will be replaced, and always-on mode will turn off.\"",
+		"@_name": "vpn_replace_always_on_vpn_disable_message"
+	},
+	{
+		"#text": "\"Your existing VPN will be replaced, and you won't have an Internet connection until the VPN successfully connects\"",
+		"@_name": "vpn_replace_always_on_vpn_enable_message"
+	},
+	{
+		"#text": "\"You're already connected to a VPN. If you connect to a different one, your existing VPN will be replaced.\"",
+		"@_name": "vpn_replace_vpn_message"
+	},
+	{
+		"#text": "Replace existing VPN?",
+		"@_name": "vpn_replace_vpn_title"
+	},
+	{
+		"#text": "Block connections without VPN",
+		"@_name": "vpn_require_connection"
+	},
+	{
+		"#text": "Require VPN connection?",
+		"@_name": "vpn_require_connection_title"
+	},
+	{
+		"#text": "10.0.0.0/8",
+		"@_name": "vpn_route_hint"
+	},
+	{
+		"#text": "Forward routes",
+		"@_name": "vpn_routes"
+	},
+	{
+		"#text": "Remember password",
+		"@_name": "vpn_save_password"
+	},
+	{
+		"#text": "DNS search domains",
+		"@_name": "vpn_search_domains"
+	},
+	{
+		"#text": "Server address",
+		"@_name": "vpn_server"
+	},
+	{
+		"#text": "Set always-on VPN?",
+		"@_name": "vpn_set_vpn_title"
+	},
+	{
+		"#text": "VPN settings are not available for this user",
+		"@_name": "vpn_settings_not_available"
+	},
+	{
+		"#text": "VPN",
+		"@_name": "vpn_settings_title"
+	},
+	{
+		"#text": "Show toggle in notification shade",
+		"@_name": "vpn_statusbar_checkbox_text"
+	},
+	{
+		"#text": "VPN",
+		"@_name": "vpn_title"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "vpn_turn_on"
+	},
+	{
+		"#text": "Type",
+		"@_name": "vpn_type"
+	},
+	{
+		"#text": "Username",
+		"@_name": "vpn_username"
+	},
+	{
+		"#text": "Version %s",
+		"@_name": "vpn_version"
+	},
+	{
+		"#text": "Wait for debugger",
+		"@_name": "wait_for_debugger"
+	},
+	{
+		"#text": "Debugged application waits for debugger to attach before executing",
+		"@_name": "wait_for_debugger_summary"
+	},
+	{
+		"#text": "Flash alert on new message",
+		"@_name": "wakeup_breathing_light"
+	},
+	{
+		"#text": "Phone in non-pocket mode will wake if notifications are received",
+		"@_name": "wakeup_screen_on_notification_summary"
+	},
+	{
+		"#text": "Wake on notifications",
+		"@_name": "wakeup_screen_on_notification_title"
+	},
+	{
+		"#text": "Choose wallpaper from",
+		"@_name": "wallpaper_settings_fragment_title"
+	},
+	{
+		"#text": "WAPI certificate management",
+		"@_name": "wapi_cert_manager_title"
+	},
+	{
+		"#text": "WLAN networks",
+		"@_name": "wifi_access_points"
+	},
+	{
+		"#text": "Add network",
+		"@_name": "wifi_add_network"
+	},
+	{
+		"#text": "IP address",
+		"@_name": "wifi_advanced_ip_address_title"
+	},
+	{
+		"#text": "MAC address",
+		"@_name": "wifi_advanced_mac_address_title"
+	},
+	{
+		"#text": "IP settings",
+		"@_name": "wifi_advanced_settings_label"
+	},
+	{
+		"#text": "Advanced settings",
+		"@_name": "wifi_advanced_titlebar"
+	},
+	{
+		"#text": "Hide network",
+		"@_name": "wifi_ap_hide_ssid_txt"
+	},
+	{
+		"#text": "2.4GHz",
+		"@_name": "wifi_ap_settings_channel_2_4_GHZ"
+	},
+	{
+		"#text": "5GHz",
+		"@_name": "wifi_ap_settings_channel_5_GHZ"
+	},
+	{
+		"#text": "Select AP frequency band",
+		"@_name": "wifi_ap_settings_channel_dialog_title"
+	},
+	{
+		"#text": "AP frequency band",
+		"@_name": "wifi_ap_settings_channel_title"
+	},
+	{
+		"#text": "Access point temporarily full",
+		"@_name": "wifi_ap_unable_to_handle_new_sta"
+	},
+	{
+		"#text": "Auto connect",
+		"@_name": "wifi_auto_join_title"
+	},
+	{
+		"#text": "Let a WLAN assistant automatically connect to open networks evaluated as high quality",
+		"@_name": "wifi_automatically_connect_summary"
+	},
+	{
+		"#text": "Use open WLAN automatically",
+		"@_name": "wifi_automatically_connect_title"
+	},
+	{
+		"#text": "2.4GHz",
+		"@_name": "wifi_band_24ghz"
+	},
+	{
+		"#text": "5GHz",
+		"@_name": "wifi_band_5ghz"
+	},
+	{
+		"#text": "Name: %s",
+		"@_name": "wifi_bridge_info_name"
+	},
+	{
+		"#text": "Password: %s",
+		"@_name": "wifi_bridge_info_password"
+	},
+	{
+		"#text": "Password",
+		"@_name": "wifi_bridge_settings_network_password"
+	},
+	{
+		"#text": "\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`¬!£$%^*()~=#{}[];':,./?/*-_+&lt;>@&amp;\"",
+		"@_name": "wifi_bridge_settings_password_digit"
+	},
+	{
+		"#text": "Name",
+		"@_name": "wifi_bridge_settings_ssid"
+	},
+	{
+		"#text": "Set hotspot",
+		"@_name": "wifi_bridge_settings_title"
+	},
+	{
+		"#text": "Not connected to WLAN",
+		"@_name": "wifi_bridge_state_disabled"
+	},
+	{
+		"#text": "Share network \\\"%s\\\"",
+		"@_name": "wifi_bridge_state_ready"
+	},
+	{
+		"#text": "Sharing \\\"%s\\\"",
+		"@_name": "wifi_bridge_state_started"
+	},
+	{
+		"#text": "Enabling...",
+		"@_name": "wifi_bridge_state_starting"
+	},
+	{
+		"#text": "WLAN sharing",
+		"@_name": "wifi_bridge_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "wifi_cancel"
+	},
+	{
+		"#text": "\"Can't connect\"",
+		"@_name": "wifi_cant_connect"
+	},
+	{
+		"#text": "\"Can't connect to '%1$s'\"",
+		"@_name": "wifi_cant_connect_to_ap"
+	},
+	{
+		"#text": "Install or view certificate",
+		"@_name": "wifi_certinstall"
+	},
+	{
+		"#text": "Install certificate",
+		"@_name": "wifi_certinstall_ins"
+	},
+	{
+		"#text": "View certificate",
+		"@_name": "wifi_certinstall_view"
+	},
+	{
+		"#text": "Check password and try again",
+		"@_name": "wifi_check_password_try_again"
+	},
+	{
+		"#text": "Choose network",
+		"@_name": "wifi_choose_network"
+	},
+	{
+		"#text": "Tap to test",
+		"@_name": "wifi_click_speed_test"
+	},
+	{
+		"#text": "Connected to China Mobile WLAN, continue to use will generate WLAN fees",
+		"@_name": "wifi_cmcc_connect_prompt"
+	},
+	{
+		"#text": "Prompt",
+		"@_name": "wifi_cmcc_connect_prompt_title"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "wifi_connect"
+	},
+	{
+		"#text": "Connected MAC Randomization",
+		"@_name": "wifi_connected_mac_randomization"
+	},
+	{
+		"#text": "Randomize MAC address when connecting to WLAN networks",
+		"@_name": "wifi_connected_mac_randomization_summary"
+	},
+	{
+		"#text": "Connected, no Internet",
+		"@_name": "wifi_connected_no_internet"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "wifi_connected_state_disconnected"
+	},
+	{
+		"#text": "Enable Wi‑Fi Coverage Extend Feature",
+		"@_name": "wifi_coverage_extend"
+	},
+	{
+		"#text": "Enable extending Wi‑Fi coverage using Hotspot",
+		"@_name": "wifi_coverage_extend_summary"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "wifi_deleted_wapicert"
+	},
+	{
+		"#text": "Connecting",
+		"@_name": "wifi_detect_connecting"
+	},
+	{
+		"#text": "Detecting",
+		"@_name": "wifi_detect_scanning"
+	},
+	{
+		"#text": "Dangerous",
+		"@_name": "wifi_detect_states_dangerous"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "wifi_detect_states_disconnected"
+	},
+	{
+		"#text": "Unencrypted",
+		"@_name": "wifi_detect_states_risk"
+	},
+	{
+		"#text": "Safe",
+		"@_name": "wifi_detect_states_safe"
+	},
+	{
+		"#text": "Not connected due to low quality network",
+		"@_name": "wifi_disabled_by_recommendation_provider"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "wifi_disabled_generic"
+	},
+	{
+		"#text": "IP Configuration Failure",
+		"@_name": "wifi_disabled_network_failure"
+	},
+	{
+		"#text": "Authentication problem",
+		"@_name": "wifi_disabled_password_failure"
+	},
+	{
+		"#text": "WLAN Connection Failure",
+		"@_name": "wifi_disabled_wifi_failure"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "wifi_disconnect"
+	},
+	{
+		"#text": "Enable autonomous GO",
+		"@_name": "wifi_display_autonomous_go"
+	},
+	{
+		"#text": "Wireless display certification",
+		"@_name": "wifi_display_certification"
+	},
+	{
+		"#text": "Certification",
+		"@_name": "wifi_display_certification_heading"
+	},
+	{
+		"#text": "Show options for wireless display certification",
+		"@_name": "wifi_display_certification_summary"
+	},
+	{
+		"#text": "No nearby device available",
+		"@_name": "wifi_display_device_not_found"
+	},
+	{
+		"#text": "Listen channel",
+		"@_name": "wifi_display_listen_channel"
+	},
+	{
+		"#text": "Enable listen mode",
+		"@_name": "wifi_display_listen_mode"
+	},
+	{
+		"#text": "To use wireless display, please enable WLAN first.",
+		"@_name": "wifi_display_need_wifi"
+	},
+	{
+		"#text": "No nearby devices were found.",
+		"@_name": "wifi_display_no_devices_found"
+	},
+	{
+		"#text": "Operating channel",
+		"@_name": "wifi_display_operating_channel"
+	},
+	{
+		"#text": "Done",
+		"@_name": "wifi_display_options_done"
+	},
+	{
+		"#text": "Not to save",
+		"@_name": "wifi_display_options_forget"
+	},
+	{
+		"#text": "Name",
+		"@_name": "wifi_display_options_name"
+	},
+	{
+		"#text": "Wireless display options",
+		"@_name": "wifi_display_options_title"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "wifi_display_pause"
+	},
+	{
+		"#text": "Resume",
+		"@_name": "wifi_display_resume"
+	},
+	{
+		"#text": "Session info",
+		"@_name": "wifi_display_session_info"
+	},
+	{
+		"#text": "Cast screen",
+		"@_name": "wifi_display_settings_title"
+	},
+	{
+		"#text": "\"Connected to \"",
+		"@_name": "wifi_display_status_connected"
+	},
+	{
+		"#text": "Connecting",
+		"@_name": "wifi_display_status_connecting"
+	},
+	{
+		"#text": "In use",
+		"@_name": "wifi_display_status_in_use"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "wifi_display_status_not_available"
+	},
+	{
+		"#text": "WPS configuration",
+		"@_name": "wifi_display_wps_config"
+	},
+	{
+		"#text": "DNS 1",
+		"@_name": "wifi_dns1"
+	},
+	{
+		"#text": "8.8.8.8",
+		"@_name": "wifi_dns1_hint"
+	},
+	{
+		"#text": "DNS 2",
+		"@_name": "wifi_dns2"
+	},
+	{
+		"#text": "8.8.4.4",
+		"@_name": "wifi_dns2_hint"
+	},
+	{
+		"#text": "Anonymous identity",
+		"@_name": "wifi_eap_anonymous"
+	},
+	{
+		"#text": "CA certificate",
+		"@_name": "wifi_eap_ca_cert"
+	},
+	{
+		"#text": "Identity",
+		"@_name": "wifi_eap_identity"
+	},
+	{
+		"#text": "EAP method",
+		"@_name": "wifi_eap_method"
+	},
+	{
+		"#text": "User certificate",
+		"@_name": "wifi_eap_user_cert"
+	},
+	{
+		"#text": "\"You don't have permission to change the WLAN network.\"",
+		"@_name": "wifi_empty_list_user_restricted"
+	},
+	{
+		"#text": "Turn WLAN on to see available networks",
+		"@_name": "wifi_empty_list_wifi_off"
+	},
+	{
+		"#text": "Error",
+		"@_name": "wifi_error"
+	},
+	{
+		"#text": "\"Can't scan for networks\"",
+		"@_name": "wifi_fail_to_scan"
+	},
+	{
+		"#text": "Failed to Save Network",
+		"@_name": "wifi_failed_save_message"
+	},
+	{
+		"#text": "Forget",
+		"@_name": "wifi_forget"
+	},
+	{
+		"#text": "Forget network",
+		"@_name": "wifi_forget_network_title"
+	},
+	{
+		"#text": "Frequency",
+		"@_name": "wifi_frequency"
+	},
+	{
+		"#text": "Gateway",
+		"@_name": "wifi_gateway"
+	},
+	{
+		"#text": "192.168.1.1",
+		"@_name": "wifi_gateway_hint"
+	},
+	{
+		"#text": "Select Network",
+		"@_name": "wifi_gprs_selector_title"
+	},
+	{
+		"#text": "Incorrect username or password",
+		"@_name": "wifi_identity_password_error_hint"
+	},
+	{
+		"#text": "In Airplane mode",
+		"@_name": "wifi_in_airplane_mode"
+	},
+	{
+		"#text": "Install certificates",
+		"@_name": "wifi_install_credentials"
+	},
+	{
+		"#text": "IP address",
+		"@_name": "wifi_ip_address"
+	},
+	{
+		"#text": "192.168.1.128",
+		"@_name": "wifi_ip_address_hint"
+	},
+	{
+		"#text": "IP settings",
+		"@_name": "wifi_ip_settings"
+	},
+	{
+		"#text": "Type a valid DNS address.",
+		"@_name": "wifi_ip_settings_invalid_dns"
+	},
+	{
+		"#text": "Type a valid gateway address.",
+		"@_name": "wifi_ip_settings_invalid_gateway"
+	},
+	{
+		"#text": "Type a valid IP address.",
+		"@_name": "wifi_ip_settings_invalid_ip_address"
+	},
+	{
+		"#text": "Type a network prefix of between 0 and 32 digits.",
+		"@_name": "wifi_ip_settings_invalid_network_prefix_length"
+	},
+	{
+		"#text": "MAC address",
+		"@_name": "wifi_mac"
+	},
+	{
+		"#text": "Advanced",
+		"@_name": "wifi_menu_advanced"
+	},
+	{
+		"#text": "Connect to network",
+		"@_name": "wifi_menu_connect"
+	},
+	{
+		"#text": "Forget network",
+		"@_name": "wifi_menu_forget"
+	},
+	{
+		"#text": "Modify password",
+		"@_name": "wifi_menu_modify"
+	},
+	{
+		"#text": "Modify password",
+		"@_name": "wifi_menu_modify_password"
+	},
+	{
+		"#text": "P2P",
+		"@_name": "wifi_menu_p2p"
+	},
+	{
+		"#text": "Scan",
+		"@_name": "wifi_menu_scan"
+	},
+	{
+		"#text": "Use WPS",
+		"@_name": "wifi_menu_wps_pbc"
+	},
+	{
+		"#text": "Use WPS PIN",
+		"@_name": "wifi_menu_wps_pin"
+	},
+	{
+		"#text": "Write to NFC tag",
+		"@_name": "wifi_menu_write_to_nfc"
+	},
+	{
+		"#text": "Metered",
+		"@_name": "wifi_metered_label"
+	},
+	{
+		"#text": "Modify password",
+		"@_name": "wifi_modify_network_title"
+	},
+	{
+		"#text": "Latency",
+		"@_name": "wifi_net_delay"
+	},
+	{
+		"#text": "Network status",
+		"@_name": "wifi_net_environment"
+	},
+	{
+		"#text": "Netmask",
+		"@_name": "wifi_netmask"
+	},
+	{
+		"#text": "Network Info",
+		"@_name": "wifi_network_connected_info"
+	},
+	{
+		"#text": "WLAN Doctor",
+		"@_name": "wifi_network_diagn"
+	},
+	{
+		"#text": "Network prefix length",
+		"@_name": "wifi_network_prefix_length"
+	},
+	{
+		"#text": 24,
+		"@_name": "wifi_network_prefix_length_hint"
+	},
+	{
+		"#text": "\"Can't access the internet\"",
+		"@_name": "wifi_no_internet"
+	},
+	{
+		"#text": "\"Won't automatically connect\"",
+		"@_name": "wifi_no_internet_no_reconnect"
+	},
+	{
+		"#text": "No saved networks",
+		"@_name": "wifi_no_saved_network_notice"
+	},
+	{
+		"#text": "Certificate not installed",
+		"@_name": "wifi_noinstall_cert"
+	},
+	{
+		"#text": "Not in range",
+		"@_name": "wifi_not_in_range"
+	},
+	{
+		"#text": "Open Network notifications",
+		"@_name": "wifi_notify_open_networks"
+	},
+	{
+		"#text": "Notify me when an open network is available",
+		"@_name": "wifi_notify_open_networks_summary"
+	},
+	{
+		"#text": "Do you want to cancel the request to connect with %1$s?",
+		"@_name": "wifi_p2p_cancel_connect_message"
+	},
+	{
+		"#text": "Cancel invitation?",
+		"@_name": "wifi_p2p_cancel_connect_title"
+	},
+	{
+		"#text": "Do not save the group?",
+		"@_name": "wifi_p2p_delete_group_message"
+	},
+	{
+		"#text": "\"Break off the connection with the following device?\n%1$s\"",
+		"@_name": "wifi_p2p_disconnect_message"
+	},
+	{
+		"#text": "If you disconnect, your connection with %1$s and %2$s other devices will end.",
+		"@_name": "wifi_p2p_disconnect_multiple_message"
+	},
+	{
+		"#text": "Disconnect?",
+		"@_name": "wifi_p2p_disconnect_title"
+	},
+	{
+		"#text": "Failed to rename device.",
+		"@_name": "wifi_p2p_failed_rename_message"
+	},
+	{
+		"#text": "Rename device",
+		"@_name": "wifi_p2p_menu_rename"
+	},
+	{
+		"#text": "Search for devices",
+		"@_name": "wifi_p2p_menu_search"
+	},
+	{
+		"#text": "Searching...",
+		"@_name": "wifi_p2p_menu_searching"
+	},
+	{
+		"#text": "Peer devices",
+		"@_name": "wifi_p2p_peer_devices"
+	},
+	{
+		"#text": "Remembered groups",
+		"@_name": "wifi_p2p_remembered_groups"
+	},
+	{
+		"#text": "P2P",
+		"@_name": "wifi_p2p_settings_title"
+	},
+	{
+		"#text": "Password",
+		"@_name": "wifi_password"
+	},
+	{
+		"#text": "Password incorrect",
+		"@_name": "wifi_password_error_hint"
+	},
+	{
+		"#text": "Prefer this connection",
+		"@_name": "wifi_priority_settings_title"
+	},
+	{
+		"#text": "Server",
+		"@_name": "wifi_proxy_ip"
+	},
+	{
+		"#text": "0.0.0.0",
+		"@_name": "wifi_proxy_ip_hint"
+	},
+	{
+		"#text": "Manual",
+		"@_name": "wifi_proxy_manual"
+	},
+	{
+		"#text": "Port",
+		"@_name": "wifi_proxy_port"
+	},
+	{
+		"#text": 80,
+		"@_name": "wifi_proxy_port_hint"
+	},
+	{
+		"#text": "Proxy settings",
+		"@_name": "wifi_proxy_setting"
+	},
+	{
+		"#text": "Proxy settings",
+		"@_name": "wifi_proxy_settings_title"
+	},
+	{
+		"#text": "Proxy server",
+		"@_name": "wifi_proxy_switch"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "wifi_quick_toggle_summary"
+	},
+	{
+		"#text": "Remembered",
+		"@_name": "wifi_remembered"
+	},
+	{
+		"#text": "5 GHz band not available in this country",
+		"@_name": "wifi_sap_no_channel_error"
+	},
+	{
+		"#text": "OK",
+		"@_name": "wifi_save"
+	},
+	{
+		"#text": "Saved networks",
+		"@_name": "wifi_saved_access_points_label"
+	},
+	{
+		"#text": "Saved networks",
+		"@_name": "wifi_saved_access_points_titlebar"
+	},
+	{
+		"#text": "Scan always available",
+		"@_name": "wifi_scan_always_available"
+	},
+	{
+		"#text": "When WLAN is off, allow Google location services and other apps to scan for networks",
+		"@_name": "wifi_scan_always_available_summary"
+	},
+	{
+		"#text": "\"Don't show again\"",
+		"@_name": "wifi_scan_notify_remember_choice"
+	},
+	{
+		"#text": "\"Apps may scan for nearby networks even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available.\"",
+		"@_name": "wifi_scan_notify_text_location_off"
+	},
+	{
+		"#text": "\"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available.\"",
+		"@_name": "wifi_scan_notify_text_location_on"
+	},
+	{
+		"#text": "Security",
+		"@_name": "wifi_security"
+	},
+	{
+		"#text": "Detecting",
+		"@_name": "wifi_security_detecting"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_dpp"
+	},
+	{
+		"#text": "802.1x EAP",
+		"@_name": "wifi_security_eap"
+	},
+	{
+		"#text": "Open",
+		"@_name": "wifi_security_none"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_owe"
+	},
+	{
+		"#text": "Passpoint",
+		"@_name": "wifi_security_passpoint"
+	},
+	{
+		"#text": "@string/wifi_security_wpa_wpa2",
+		"@_name": "wifi_security_psk_generic"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_sae"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_short_dpp"
+	},
+	{
+		"#text": "802.1x",
+		"@_name": "wifi_security_short_eap"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_short_owe"
+	},
+	{
+		"#text": "@string/wifi_security_short_wpa_wpa2",
+		"@_name": "wifi_security_short_psk_generic"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_short_sae"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_short_wep"
+	},
+	{
+		"#text": "WPA",
+		"@_name": "wifi_security_short_wpa"
+	},
+	{
+		"#text": "WPA2",
+		"@_name": "wifi_security_short_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2",
+		"@_name": "wifi_security_short_wpa_wpa2"
+	},
+	{
+		"#text": "WAPI CERT",
+		"@_name": "wifi_security_wapi_cert"
+	},
+	{
+		"#text": "WAPI Certificate",
+		"@_name": "wifi_security_wapi_certificate"
+	},
+	{
+		"#text": "WAPI PSK",
+		"@_name": "wifi_security_wapi_psk"
+	},
+	{
+		"#text": "WAPI PSK ASCII",
+		"@_name": "wifi_security_wapi_psk_ascii"
+	},
+	{
+		"#text": "WAPI PSK hexadecimal",
+		"@_name": "wifi_security_wapi_psk_hexadecimal"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_wep"
+	},
+	{
+		"#text": "WPA PSK",
+		"@_name": "wifi_security_wpa"
+	},
+	{
+		"#text": "WPA2 PSK",
+		"@_name": "wifi_security_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2 PSK",
+		"@_name": "wifi_security_wpa_wpa2"
+	},
+	{
+		"#text": "Choose assistant",
+		"@_name": "wifi_select_assistant_dialog_title"
+	},
+	{
+		"#text": "Choose WLAN",
+		"@_name": "wifi_select_network"
+	},
+	{
+		"#text": "There was a problem setting the frequency band.",
+		"@_name": "wifi_setting_frequency_band_error"
+	},
+	{
+		"#text": "Specify the frequency range of operation",
+		"@_name": "wifi_setting_frequency_band_summary"
+	},
+	{
+		"#text": "WLAN frequency band",
+		"@_name": "wifi_setting_frequency_band_title"
+	},
+	{
+		"#text": "There was a problem changing the setting",
+		"@_name": "wifi_setting_sleep_policy_error"
+	},
+	{
+		"#text": "To reduce power consumption",
+		"@_name": "wifi_setting_sleep_policy_sum"
+	},
+	{
+		"#text": "Lock-screen dormant",
+		"@_name": "wifi_setting_sleep_policy_title"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "wifi_settings"
+	},
+	{
+		"#text": "Verify",
+		"@_name": "wifi_settings_access_point_free_wifi_tips"
+	},
+	{
+		"#text": "WLAN settings",
+		"@_name": "wifi_settings_category"
+	},
+	{
+		"#text": "\"I agree to \"",
+		"@_name": "wifi_settings_free_wifi_dialog_checkbox_agree"
+	},
+	{
+		"#text": "Free Secure WLAN User Agreement",
+		"@_name": "wifi_settings_free_wifi_dialog_checkbox_protocol"
+	},
+	{
+		"#text": "Accessible in various public areas, these Meizu-authenticated WLAN networks allow connections without a password, and are free of charge.",
+		"@_name": "wifi_settings_free_wifi_dialog_message"
+	},
+	{
+		"#text": "Get Started",
+		"@_name": "wifi_settings_free_wifi_dialog_start"
+	},
+	{
+		"#text": "Welcome to Meizu Free Secure WLAN",
+		"@_name": "wifi_settings_free_wifi_dialog_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "wifi_settings_free_wifi_enable_dialog_button_negative"
+	},
+	{
+		"#text": "Enable Now",
+		"@_name": "wifi_settings_free_wifi_enable_dialog_button_positive"
+	},
+	{
+		"#text": "Free networks nearby will be displayed if you enable Free Secure WLAN. You can connect to the internet and no password is required.",
+		"@_name": "wifi_settings_free_wifi_enable_dialog_message"
+	},
+	{
+		"#text": "Enable Free Secure WLAN?",
+		"@_name": "wifi_settings_free_wifi_enable_dialog_title"
+	},
+	{
+		"#text": "Free Secure WLAN User Agreement",
+		"@_name": "wifi_settings_free_wifi_protocol_title"
+	},
+	{
+		"#text": "\"You can't configure an EAP WLAN connection during setup. After setup, you can do that in Settings > Wireless and networks.\"",
+		"@_name": "wifi_setup_eap_not_supported"
+	},
+	{
+		"#text": "Not connected",
+		"@_name": "wifi_setup_not_connected"
+	},
+	{
+		"#text": "Auto setting (WPS)",
+		"@_name": "wifi_setup_wps"
+	},
+	{
+		"#text": "Share network with QR code",
+		"@_name": "wifi_share_network_title"
+	},
+	{
+		"#text": "Share network",
+		"@_name": "wifi_share_network_title_new"
+	},
+	{
+		"#text": "Advanced options",
+		"@_name": "wifi_show_advanced"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "wifi_show_password"
+	},
+	{
+		"#text": "Signal strength",
+		"@_name": "wifi_signal"
+	},
+	{
+		"#text": "Smart network switch",
+		"@_name": "wifi_smart_network"
+	},
+	{
+		"#text": "Switch between WLAN and data",
+		"@_name": "wifi_smart_network_switch"
+	},
+	{
+		"#text": "Automatically switch to cellular network when WLAN connection is unstable. Additional usage charges may apply",
+		"@_name": "wifi_smart_network_switch_summary"
+	},
+	{
+		"#text": "Speed",
+		"@_name": "wifi_speed"
+	},
+	{
+		"#text": "Pending detection",
+		"@_name": "wifi_speed_pending"
+	},
+	{
+		"#text": "Speed Test",
+		"@_name": "wifi_speed_test"
+	},
+	{
+		"#text": "Name",
+		"@_name": "wifi_ssid"
+	},
+	{
+		"#text": "Please input",
+		"@_name": "wifi_ssid_hint"
+	},
+	{
+		"#text": "Please type a valid name",
+		"@_name": "wifi_ssid_is_empty"
+	},
+	{
+		"#text": "\"The name cann't be more than 32 characters\"",
+		"@_name": "wifi_ssid_length_invalidate"
+	},
+	{
+		"#text": "Turning on WLAN…",
+		"@_name": "wifi_starting"
+	},
+	{
+		"#text": "Status",
+		"@_name": "wifi_status"
+	},
+	{
+		"#text": "MAC is randomized",
+		"@_name": "wifi_status_mac_randomized"
+	},
+	{
+		"#text": "\"Can't access the internet\"",
+		"@_name": "wifi_status_no_internet"
+	},
+	{
+		"#text": "Sign in required",
+		"@_name": "wifi_status_sign_in_required"
+	},
+	{
+		"#text": "Turning off WLAN…",
+		"@_name": "wifi_stopping"
+	},
+	{
+		"#text": "Minimize battery usage when WLAN is on",
+		"@_name": "wifi_suspend_optimizations_summary"
+	},
+	{
+		"#text": "Mobile hotspot",
+		"@_name": "wifi_tether"
+	},
+	{
+		"#text": "Portable hotspot",
+		"@_name": "wifi_tether_checkbox_text"
+	},
+	{
+		"#text": "Set hotspot",
+		"@_name": "wifi_tether_configure_ap_text"
+	},
+	{
+		"#text": "AndroidHotspot",
+		"@_name": "wifi_tether_configure_ssid_default"
+	},
+	{
+		"#text": "%1$s %2$s portable WLAN hotspot",
+		"@_name": "wifi_tether_configure_subtext"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "wifi_tether_disconnect_btn_txt"
+	},
+	{
+		"#text": "Block device",
+		"@_name": "wifi_tether_disconnect_device"
+	},
+	{
+		"#text": "Block following device to connect to my hotspot: %1$s",
+		"@_name": "wifi_tether_disconnect_device_message"
+	},
+	{
+		"#text": "Block device?",
+		"@_name": "wifi_tether_disconnect_device_title"
+	},
+	{
+		"#text": "Enabled hotspot %1$s",
+		"@_name": "wifi_tether_enabled_subtext"
+	},
+	{
+		"#text": "Turning on hotspot…",
+		"@_name": "wifi_tether_starting"
+	},
+	{
+		"#text": "\"'Share mobile network' is turned off\"",
+		"@_name": "wifi_tether_status_disabled"
+	},
+	{
+		"#text": "Turning hotspot off…",
+		"@_name": "wifi_tether_stopping"
+	},
+	{
+		"#text": "%1$s encrypt",
+		"@_name": "wifi_tether_subtext"
+	},
+	{
+		"#text": "Error",
+		"@_name": "wifi_tether_wps_error"
+	},
+	{
+		"#text": "Setting up…",
+		"@_name": "wifi_tether_wps_in_progress"
+	},
+	{
+		"#text": "New password",
+		"@_name": "wifi_unchanged"
+	},
+	{
+		"#text": "Unmetered",
+		"@_name": "wifi_unmetered_label"
+	},
+	{
+		"#text": "Unspecified",
+		"@_name": "wifi_unspecified"
+	},
+	{
+		"#text": "Static IP",
+		"@_name": "wifi_use_static_ip"
+	},
+	{
+		"#text": "Enable WLAN Verbose Logging",
+		"@_name": "wifi_verbose_logging"
+	},
+	{
+		"#text": "Increase WLAN logging level, show per SSID RSSI in WLAN Picker",
+		"@_name": "wifi_verbose_logging_summary"
+	},
+	{
+		"#text": "OK",
+		"@_name": "wifi_wapi_ok"
+	},
+	{
+		"#text": "Password type",
+		"@_name": "wifi_wapi_psk_type"
+	},
+	{
+		"#text": "Certificate installation",
+		"@_name": "wifi_wapicertmanager"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "wifi_wps_btn_cancel"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "wifi_wps_btn_retry"
+	},
+	{
+		"#text": "WPS launched successfully. Connecting to network…",
+		"@_name": "wifi_wps_complete"
+	},
+	{
+		"#text": "Connected to WLAN network “%s”",
+		"@_name": "wifi_wps_connected"
+	},
+	{
+		"#text": "WPS failed. Please try again in a few minutes.",
+		"@_name": "wifi_wps_failed_generic"
+	},
+	{
+		"#text": "Another WPS session was detected. Please try again in a few minutes.",
+		"@_name": "wifi_wps_failed_overlap"
+	},
+	{
+		"#text": "The wireless router security setting (TKIP) is not supported",
+		"@_name": "wifi_wps_failed_tkip"
+	},
+	{
+		"#text": "The wireless router security setting (WEP) is not supported",
+		"@_name": "wifi_wps_failed_wep"
+	},
+	{
+		"#text": "Setting WPS, this may take up to 2 minutes...",
+		"@_name": "wifi_wps_in_progress"
+	},
+	{
+		"#text": "Enter pin on your WLAN router%1$s",
+		"@_name": "wifi_wps_message_pin_title"
+	},
+	{
+		"#text": "Connection timed out. Please try again.",
+		"@_name": "wifi_wps_message_timeout"
+	},
+	{
+		"#text": "\"Please press the \\\"WPS\\\" button \n on your router\"",
+		"@_name": "wifi_wps_message_title"
+	},
+	{
+		"#text": "\"Waiting for connection: \"",
+		"@_name": "wifi_wps_message_wait"
+	},
+	{
+		"#text": "Press the WLAN Protected Setup button on your router. It may be called \\\"WPS\\\" or contain this symbol:",
+		"@_name": "wifi_wps_onstart_pbc"
+	},
+	{
+		"#text": "Enter pin %1$s on your WLAN router. The setup can take up to two minutes to complete.",
+		"@_name": "wifi_wps_onstart_pin"
+	},
+	{
+		"#text": "Enabling WPS…",
+		"@_name": "wifi_wps_setup_msg"
+	},
+	{
+		"#text": "4G",
+		"@_name": "wimax_settings"
+	},
+	{
+		"#text": "Window animation scale",
+		"@_name": "window_animation_scale_title"
+	},
+	{
+		"#text": "Wireless and network",
+		"@_name": "wireless_networks_settings_title"
+	},
+	{
+		"#text": "An open hotspot. A password suggested.",
+		"@_name": "wlan_tether_no_encypt"
+	},
+	{
+		"#text": "All apps and data in this profile will be deleted.",
+		"@_name": "work_profile_confirm_remove_message"
+	},
+	{
+		"#text": "Remove work profile?",
+		"@_name": "work_profile_confirm_remove_title"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "yes"
+	},
+	{
+		"#text": "YunOS legal statement",
+		"@_name": "yunos_settings_copyright_title"
+	},
+	{
+		"#text": "\"You won't hear your next alarm %1$s\"",
+		"@_name": "zen_alarm_warning"
+	},
+	{
+		"#text": "\"You won't hear your next alarm %1$s unless you turn this off before then\"",
+		"@_name": "zen_alarm_warning_indef"
+	},
+	{
+		"#text": "Priority only",
+		"@_name": "zen_interruption_level_priority"
+	},
+	{
+		"#text": "%1$s. %2$s",
+		"@_name": "zen_mode_and_condition"
+	},
+	{
+		"#text": "Ask every time",
+		"@_name": "zen_mode_duration_always_prompt_title"
+	},
+	{
+		"#text": "Duration",
+		"@_name": "zen_mode_duration_settings_title"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "zen_mode_enable_dialog_turn_on"
+	},
+	{
+		"#text": "Never",
+		"@_name": "zen_mode_settings_summary_off"
+	},
+	{
+		"#text": "Turn on Do Not Disturb",
+		"@_name": "zen_mode_settings_turn_on_dialog_title"
+	}
+]

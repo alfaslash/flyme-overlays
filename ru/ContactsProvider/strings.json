@@ -1,0 +1,330 @@
+[
+	{
+		"#text": "Хранилище контактов",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Вам нужно: 1) сделать копию вашей базы данных, которая включает в себя всю информацию о контактах и все журналы звонков, во внутреннюю память, и 2) отправить ее по электронной почте. Не забудьте удалить копию сразу после того, как передали ее с устройства или отправили по электронной почте.",
+		"@_name": "debug_dump_database_message"
+	},
+	{
+		"#text": "Удалить сейчас",
+		"@_name": "debug_dump_delete_button"
+	},
+	{
+		"#text": "К ней прилагается моя база данных контактов со всеми моими контактными данными. Будьте осторожны при обращении с ней!",
+		"@_name": "debug_dump_email_body"
+	},
+	{
+		"#text": "Выберите приложение для отправки файла",
+		"@_name": "debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "База контактов",
+		"@_name": "debug_dump_email_subject"
+	},
+	{
+		"#text": "Старт",
+		"@_name": "debug_dump_start_button"
+	},
+	{
+		"#text": "Копирование базы контактов",
+		"@_name": "debug_dump_title"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "default_directory"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "local_invisible_directory"
+	},
+	{
+		"#text": "Местный номер",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "珠海市唐家湾科技创新海岸魅族科技楼",
+		"@_name": "meizu_address"
+	},
+	{
+		"#text": "魅族科技",
+		"@_name": "meizu_company"
+	},
+	{
+		"#text": "客服助手",
+		"@_name": "meizu_custom_service"
+	},
+	{
+		"#text": "MZ_KF@meizu.com",
+		"@_name": "meizu_email"
+	},
+	{
+		"#text": 4007883333,
+		"@_name": "meizu_phone"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "provider_label"
+	},
+	{
+		"#text": "Разрешить приложению хранить или осуществлять поиск всех доступных голосовых сообщений на данном устройстве.",
+		"@_name": "read_write_all_voicemail_description"
+	},
+	{
+		"#text": "Доступ ко всем голосовым сообщениям",
+		"@_name": "read_write_all_voicemail_label"
+	},
+	{
+		"#text": "Связанные контакты",
+		"@_name": "sharedUserLabel"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "Имущественное страхование Китая Лтд",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "Национальное правительство",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Telecom",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "Промышленно-коммерческий банк Китая",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "Everbright Bank (Китай)",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "Горячая линия Службы экологического надзора",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "Горячая линия антимонапольной службы",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "Медицинское Страхование Китая Лтд",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Unicom",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "Горячая линия для клиентов Meizu",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "Сельскохозяйственный банк Китая",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "Миншэн Life Insurance Co., Ltd.",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "Горячая линия судебной службы",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "Страхование Жизни Лтд",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "Прогноз погоды",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Railcom",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "Горячая линия Ассоциации потребителей",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Mobile",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "Голосовая почта от",
+		"@_name": "voicemail_from_column"
+	}
+]

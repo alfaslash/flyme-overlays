@@ -1,0 +1,41 @@
+[
+	{
+		"@_name": "apn_source_service"
+	},
+	{
+		"#text": "Phone and Message Storage",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "com.android.mms",
+		"@_name": "ownerPackage"
+	},
+	{
+		"#text": "Copy SMS remote database",
+		"@_name": "mzc_debug_dump_title"
+	},
+	{
+		"#text": "\"You need to: 1) make a copy of your SMS remote database to the internal storage, and 2) email it. Remember to delete the copy after you have copied it from the device or the email is received. \n\n Please wait one minute after you tapped start\"",
+		"@_name": "mzc_debug_dump_database_message"
+	},
+	{
+		"#text": "Start",
+		"@_name": "mzc_debug_dump_start_button"
+	},
+	{
+		"#text": "Delete now",
+		"@_name": "mzc_debug_dump_delete_button"
+	},
+	{
+		"#text": "SMS remote database attached",
+		"@_name": "mzc_debug_dump_email_subject"
+	},
+	{
+		"#text": "Attached is my SMS remote database. Be careful when processing it!",
+		"@_name": "mzc_debug_dump_email_body"
+	},
+	{
+		"#text": "Choose a program to send your file",
+		"@_name": "mzc_debug_dump_email_sender_picker"
+	}
+]

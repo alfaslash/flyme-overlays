@@ -1,0 +1,54 @@
+[
+	{
+		"#text": "library",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Improper parameter",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "Canceled by user",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "Authorization failed, please check network or system time and try again",
+		"@_name": "get_token_failed"
+	},
+	{
+		"#text": "Please process the return value",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Authorization failed. Error getting info about %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Request timeout. Please retry.",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "Your request is too frequent",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Aicy Engine",
+		"@_name": "aicy_app_name"
+	}
+]

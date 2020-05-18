@@ -1,0 +1,62 @@
+[
+	{
+		"#text": "Calendar Storage",
+		"@_name": "calendar_storage"
+	},
+	{
+		"#text": "Default Calendar",
+		"@_name": "calendar_default_name"
+	},
+	{
+		"#text": "Calendar info",
+		"@_name": "calendar_info"
+	},
+	{
+		"#text": "Error",
+		"@_name": "calendar_info_error"
+	},
+	{
+		"#text": "No calendar",
+		"@_name": "calendar_info_no_calendars"
+	},
+	{
+		"#text": "Events: %1$d",
+		"@_name": "calendar_info_events"
+	},
+	{
+		"#text": "Events: %1$d. Unsaved events: %2$d",
+		"@_name": "calendar_info_events_dirty"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "provider_label"
+	},
+	{
+		"#text": "Delete now",
+		"@_name": "debug_tool_delete_button"
+	},
+	{
+		"#text": "Start",
+		"@_name": "debug_tool_start_button"
+	},
+	{
+		"#text": "You need to: 1) make a copy of your calendar database to the SD card/USB storage accessible to any app, and 2) email it. Remember to delete the copy asap after you have copied it from the device or the email is received.",
+		"@_name": "debug_tool_message"
+	},
+	{
+		"#text": "Choose a program to send your file",
+		"@_name": "debug_tool_email_sender_picker"
+	},
+	{
+		"#text": "Calendar debugging tool attached",
+		"@_name": "debug_tool_email_subject"
+	},
+	{
+		"#text": "Attached is my calendar database with all my appointments and personal information. Be careful when handling it!",
+		"@_name": "debug_tool_email_body"
+	},
+	{
+		"#text": "com.android.calendar",
+		"@_name": "ownerPackage"
+	}
+]

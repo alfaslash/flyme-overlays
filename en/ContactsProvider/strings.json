@@ -1,0 +1,337 @@
+[
+	{
+		"#text": "中国电信客服热线",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "中国联通客服热线",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "中国铁通客服热线",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中国移动客服热线",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "天气预报",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "消费者协会服务热线",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "司法服务热线",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "价格监督服务热线",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "环保监督服务热线",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国工商银行",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "太平人寿保险有限公司",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "中国大地财产保险股份有限公司",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "中国人民健康保险股份有限公司",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国光大银行",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "民生人寿保险股份有限公司",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "国家电力公司",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "中国农业银行",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "魅族客服热线",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "Local number",
+		"@_name": "local_number"
+	},
+	{
+		"@_name": "metadata_sync_pacakge"
+	},
+	{
+		"#text": "客服助手",
+		"@_name": "meizu_custom_service"
+	},
+	{
+		"#text": 4007883333,
+		"@_name": "meizu_phone"
+	},
+	{
+		"#text": "MZ_KF@meizu.com",
+		"@_name": "meizu_email"
+	},
+	{
+		"#text": "魅族科技",
+		"@_name": "meizu_company"
+	},
+	{
+		"#text": "珠海市唐家湾科技创新海岸魅族科技楼",
+		"@_name": "meizu_address"
+	},
+	{
+		"#text": "Contacts related",
+		"@_name": "sharedUserLabel"
+	},
+	{
+		"#text": "Contact Storage",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "provider_label"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "default_directory"
+	},
+	{
+		"#text": "Other",
+		"@_name": "local_invisible_directory"
+	},
+	{
+		"#text": "Voicemail from",
+		"@_name": "voicemail_from_column"
+	},
+	{
+		"#text": "Copy contacts database",
+		"@_name": "debug_dump_title"
+	},
+	{
+		"#text": "You need to: 1) make a copy of your database which includes all contact information and all call logs to the internal storage, and 2) email it. Remember to delete the copy asap after you have copied it from the device or the email is received.",
+		"@_name": "debug_dump_database_message"
+	},
+	{
+		"#text": "Delete now",
+		"@_name": "debug_dump_delete_button"
+	},
+	{
+		"#text": "Start",
+		"@_name": "debug_dump_start_button"
+	},
+	{
+		"#text": "Choose a program to send your file",
+		"@_name": "debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "Contacts database attached",
+		"@_name": "debug_dump_email_subject"
+	},
+	{
+		"#text": "Attached is my contacts database with all my contact information. Be careful when handling it!",
+		"@_name": "debug_dump_email_body"
+	},
+	{
+		"#text": "com.android.dialer",
+		"@_name": "ownerPackage"
+	},
+	{
+		"#text": "Allow the app to store or search all accessible voice mails on this device",
+		"@_name": "read_write_all_voicemail_description"
+	},
+	{
+		"#text": "Access all voice mails",
+		"@_name": "read_write_all_voicemail_label"
+	}
+]

@@ -1,0 +1,2093 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "a"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "b"
+	},
+	{
+		"#text": "More options",
+		"@_name": "c"
+	},
+	{
+		"#text": "Done",
+		"@_name": "d"
+	},
+	{
+		"#text": "See all",
+		"@_name": "e"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "f"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "g"
+	},
+	{
+		"#text": "ON",
+		"@_name": "h"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "i"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "j"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "k"
+	},
+	{
+		"#text": "Search",
+		"@_name": "l"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "m"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "n"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "o"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "p"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "q"
+	},
+	{
+		"#text": "Search",
+		"@_name": "r"
+	},
+	{
+		"#text": "999+",
+		"@_name": "s"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "t"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "u"
+	},
+	{
+		"#text": "Set",
+		"@_name": "v"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "w"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "x"
+	},
+	{
+		"#text": "OK",
+		"@_name": "y"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "z"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "a0"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "a1"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "a2"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "a3"
+	},
+	{
+		"#text": "Update",
+		"@_name": "a4"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "a5"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "a6"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "a7"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "a8"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "a9"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "a_"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "aa"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "ab"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "ac"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "ad"
+	},
+	{
+		"#text": "Today",
+		"@_name": "ae"
+	},
+	{
+		"#text": "d",
+		"@_name": "af"
+	},
+	{
+		"#text": "h",
+		"@_name": "ag"
+	},
+	{
+		"#text": "m",
+		"@_name": "ah"
+	},
+	{
+		"#text": "m",
+		"@_name": "ai"
+	},
+	{
+		"#text": "s",
+		"@_name": "aj"
+	},
+	{
+		"#text": "Set",
+		"@_name": "ak"
+	},
+	{
+		"#text": "y",
+		"@_name": "al"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "am"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "an"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "ao"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "ap"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "aq"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "ar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "as"
+	},
+	{
+		"#text": "FR",
+		"@_name": "at"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "au"
+	},
+	{
+		"#text": "h",
+		"@_name": "av"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "aw"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ax"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "ay"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "az"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "b0"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "b1"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "b2"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "b3"
+	},
+	{
+		"#text": "m",
+		"@_name": "b4"
+	},
+	{
+		"#text": "MO",
+		"@_name": "b5"
+	},
+	{
+		"#text": "Once",
+		"@_name": "b6"
+	},
+	{
+		"#text": "Today",
+		"@_name": "b7"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "b8"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "b9"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "b_"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ba"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "bb"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bc"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "bd"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "be"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "bf"
+	},
+	{
+		"#text": "Close",
+		"@_name": "bg"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "bh"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "bi"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "bj"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bk"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "bl"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "bm"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "bn"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "bo"
+	},
+	{
+		"#text": "Block",
+		"@_name": "bp"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "bq"
+	},
+	{
+		"#text": "Open",
+		"@_name": "br"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "bs"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "bt"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "bu"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "bv"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "bw"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "bx"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "by"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "bz"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "c0"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "c1"
+	},
+	{
+		"#text": "Like",
+		"@_name": "c2"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "c3"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "c4"
+	},
+	{
+		"#text": "SA",
+		"@_name": "c5"
+	},
+	{
+		"#text": "Search",
+		"@_name": "c6"
+	},
+	{
+		"#text": "Search",
+		"@_name": "c7"
+	},
+	{
+		"#text": "Search",
+		"@_name": "c8"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "c9"
+	},
+	{
+		"#text": "Search",
+		"@_name": "c_"
+	},
+	{
+		"#text": "s",
+		"@_name": "ca"
+	},
+	{
+		"#text": "SU",
+		"@_name": "cb"
+	},
+	{
+		"#text": "TH",
+		"@_name": "cc"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "cd"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "ce"
+	},
+	{
+		"#text": "TU",
+		"@_name": "cf"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "cg"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "ch"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "ci"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "cj"
+	},
+	{
+		"#text": "WE",
+		"@_name": "ck"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "cl"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "cm"
+	},
+	{
+		"#text": "OK",
+		"@_name": "cn"
+	},
+	{
+		"#text": "More",
+		"@_name": "co"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cp"
+	},
+	{
+		"#text": "All",
+		"@_name": "cq"
+	},
+	{
+		"#text": "None",
+		"@_name": "cr"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "cs"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ct"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "cu"
+	},
+	{
+		"#text": "d",
+		"@_name": "cv"
+	},
+	{
+		"#text": "h",
+		"@_name": "cw"
+	},
+	{
+		"#text": "m",
+		"@_name": "cx"
+	},
+	{
+		"#text": "m",
+		"@_name": "cy"
+	},
+	{
+		"#text": "s",
+		"@_name": "cz"
+	},
+	{
+		"#text": "y",
+		"@_name": "d0"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "d1"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "d2"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "d3"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "d4"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "d5"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "d6"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "d7"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "d8"
+	},
+	{
+		"#text": "To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)",
+		"@_name": "d9"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "d_"
+	},
+	{
+		"#text": "Permissions and statements",
+		"@_name": "da"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "db"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "dc"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "dd"
+	},
+	{
+		"#text": "Other",
+		"@_name": "de"
+	},
+	{
+		"#text": "OK",
+		"@_name": "df"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "dg"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "dh"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "di"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "dj"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "dk"
+	},
+	{
+		"#text": "Off",
+		"@_name": "dl"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "dm"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "dn"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "do"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dp"
+	},
+	{
+		"#text": "Location",
+		"@_name": "dq"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "dr"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "ds"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "dt"
+	},
+	{
+		"#text": "Block",
+		"@_name": "du"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "dv"
+	},
+	{
+		"#text": "On",
+		"@_name": "dw"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "dx"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "dy"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "dz"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "e0"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "e1"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "e2"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "e3"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "e4"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "e5"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "e6"
+	},
+	{
+		"#text": "Meizu Privacy Policy",
+		"@_name": "e7"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "e8"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "e9"
+	},
+	{
+		"#text": "Share",
+		"@_name": "e_"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "ea"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "eb"
+	},
+	{
+		"#text": "User Agreement",
+		"@_name": "ec"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "ed"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "ee"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "ef"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "eg"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "eh"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "ei"
+	},
+	{
+		"#text": "Download",
+		"@_name": "ej"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "ek"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "el"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "em",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "en",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "eo"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "ep"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "eq"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "er"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "es"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "et"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "eu"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "ev"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "ew"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "ex"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "ey"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "ez"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "f0"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "f1"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "f2"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "f3"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "f4"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "f5"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "f6"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "f7"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "f8"
+	},
+	{
+		"#text": "%s",
+		"@_name": "f9"
+	},
+	{
+		"#text": "OK",
+		"@_name": "f_"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "fa"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "fb"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "fc"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "fd"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "fe"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "ff"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "fg"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "fh"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "fi"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "fj"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "fk",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "fl",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "fm"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "fn"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "fo"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "fp"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "fq"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "fr"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "fs"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "ft"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "fu"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "fv"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "fw",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "fx",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "fy",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "fz",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "g0",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "g1",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "g2",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "g3",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "g4",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "g5"
+	},
+	{
+		"#text": "OK",
+		"@_name": "g6"
+	},
+	{
+		"#text": "Download app",
+		"@_name": "g7"
+	},
+	{
+		"#text": "Search",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Local apps",
+		"@_name": "g8"
+	},
+	{
+		"#text": "Loading...",
+		"@_name": "g9"
+	},
+	{
+		"#text": "Hot News",
+		"@_name": "g_"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "ga"
+	},
+	{
+		"#text": "Drive",
+		"@_name": "gb"
+	},
+	{
+		"#text": "\"By way of \"",
+		"@_name": "gc"
+	},
+	{
+		"#text": "1 min",
+		"@_name": "gd"
+	},
+	{
+		"#text": "%1$s hr",
+		"@_name": "ge"
+	},
+	{
+		"#text": "%1$s hr %2$s min",
+		"@_name": "gf"
+	},
+	{
+		"#text": "%1$s min",
+		"@_name": "gg"
+	},
+	{
+		"#text": "more than %1$s hr",
+		"@_name": "gh"
+	},
+	{
+		"#text": "Public transit",
+		"@_name": "gi"
+	},
+	{
+		"#text": "Walk",
+		"@_name": "gj"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "gk"
+	},
+	{
+		"#text": "Name: %1$s",
+		"@_name": "gl"
+	},
+	{
+		"#text": "Size: %1$s",
+		"@_name": "gm"
+	},
+	{
+		"#text": "Network exception, please try again later",
+		"@_name": "gn"
+	},
+	{
+		"#text": "Download Notification",
+		"@_name": "go"
+	},
+	{
+		"#text": "Loading error, tap to reload",
+		"@_name": "gp"
+	},
+	{
+		"#text": "File",
+		"@_name": "gq"
+	},
+	{
+		"#text": "Network connection error, tap to reload",
+		"@_name": "gr"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "gs"
+	},
+	{
+		"#text": "Maps not found. Please install the Maps app first.",
+		"@_name": "gt"
+	},
+	{
+		"#text": "Hot searches in Weather widget",
+		"@_name": "gu"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "gv"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "gw",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "gx",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Open in browser",
+		"@_name": "gy"
+	},
+	{
+		"#text": "Share",
+		"@_name": "gz"
+	},
+	{
+		"#text": "Messages",
+		"@_name": "h0"
+	},
+	{
+		"#text": "Most Used",
+		"@_name": "h1"
+	},
+	{
+		"#text": "No network connection, please check network settings",
+		"@_name": "h2"
+	},
+	{
+		"#text": "Agree",
+		"@_name": "h3"
+	},
+	{
+		"#text": "Disagree",
+		"@_name": "h4"
+	},
+	{
+		"#text": "To provide basic services, this app needs to access the following permissions",
+		"@_name": "h5"
+	},
+	{
+		"#text": "Online apps",
+		"@_name": "h6"
+	},
+	{
+		"#text": "Online themes",
+		"@_name": "h7"
+	},
+	{
+		"#text": "Online videos",
+		"@_name": "h8"
+	},
+	{
+		"#text": "Notice",
+		"@_name": "h9"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "h_"
+	},
+	{
+		"#text": "Search",
+		"@_name": "ha"
+	},
+	{
+		"#text": "Baidu",
+		"@_name": "hb"
+	},
+	{
+		"#text": "Shenma",
+		"@_name": "hc"
+	},
+	{
+		"#text": "Clear search history",
+		"@_name": "hd"
+	},
+	{
+		"#text": "Information Center",
+		"@_name": "he"
+	},
+	{
+		"#text": "Search",
+		"@_name": "hf"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "hg"
+	},
+	{
+		"#text": "Set home and work addresses",
+		"@_name": "hh"
+	},
+	{
+		"#text": "Edit trip",
+		"@_name": "hi"
+	},
+	{
+		"#text": "No matching address",
+		"@_name": "hj"
+	},
+	{
+		"#text": "Search engine",
+		"@_name": "hk"
+	},
+	{
+		"#text": "Slide up on Home screen to enter",
+		"@_name": "hl"
+	},
+	{
+		"#text": "Search",
+		"@_name": "hm"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "hn"
+	},
+	{
+		"#text": "Messaging",
+		"@_name": "ho"
+	},
+	{
+		"#text": "Cast",
+		"@_name": "hp"
+	},
+	{
+		"#text": "Recommend",
+		"@_name": "hq"
+	},
+	{
+		"#text": "Add",
+		"@_name": "hr"
+	},
+	{
+		"#text": "Add to Home Screen",
+		"@_name": "hs"
+	},
+	{
+		"#text": "Add Search to Home Screen",
+		"@_name": "ht"
+	},
+	{
+		"#text": "App Store",
+		"@_name": "hu"
+	},
+	{
+		"#text": "App Ad",
+		"@_name": "hv"
+	},
+	{
+		"#text": "Recently used",
+		"@_name": "hw"
+	},
+	{
+		"#text": "All",
+		"@_name": "hx"
+	},
+	{
+		"#text": "Delete all",
+		"@_name": "hy"
+	},
+	{
+		"#text": "Long press to delete search history",
+		"@_name": "hz"
+	},
+	{
+		"#text": "Introduction",
+		"@_name": "i0"
+	},
+	{
+		"#text": "Done",
+		"@_name": "i1"
+	},
+	{
+		"#text": "Expand more",
+		"@_name": "i2"
+	},
+	{
+		"#text": "Expand other cards",
+		"@_name": "i3"
+	},
+	{
+		"#text": "User Support",
+		"@_name": "i4"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "i5"
+	},
+	{
+		"#text": "More",
+		"@_name": "i6"
+	},
+	{
+		"#text": "View in Reader",
+		"@_name": "i7"
+	},
+	{
+		"#text": "Music",
+		"@_name": "i8"
+	},
+	{
+		"#text": "No network connection. Please check your network settings",
+		"@_name": "i9"
+	},
+	{
+		"#text": "apps, video, news, etc.",
+		"@_name": "i_"
+	},
+	{
+		"#text": "Featured",
+		"@_name": "ia"
+	},
+	{
+		"#text": "Play now",
+		"@_name": "ib"
+	},
+	{
+		"#text": "Featured Content Push",
+		"@_name": "ic"
+	},
+	{
+		"#text": "QQ Music",
+		"@_name": "id"
+	},
+	{
+		"#text": "Quick App",
+		"@_name": "ie"
+	},
+	{
+		"#text": "Read",
+		"@_name": "if"
+	},
+	{
+		"#text": "Search for apps",
+		"@_name": "ig"
+	},
+	{
+		"#text": "Web search",
+		"@_name": "ih"
+	},
+	{
+		"#text": "Search web, settings, apps, video...",
+		"@_name": "ii"
+	},
+	{
+		"#text": "Search History",
+		"@_name": "ij"
+	},
+	{
+		"#text": "Search in app store",
+		"@_name": "ik"
+	},
+	{
+		"#text": "Search in User Support",
+		"@_name": "il"
+	},
+	{
+		"#text": "Search in Music",
+		"@_name": "im"
+	},
+	{
+		"#text": "View %1$d Local Results",
+		"@_name": "in"
+	},
+	{
+		"#text": "View more",
+		"@_name": "io"
+	},
+	{
+		"#text": "Search for web",
+		"@_name": "ip"
+	},
+	{
+		"#text": "Search Settings",
+		"@_name": "iq"
+	},
+	{
+		"#text": "Search for video",
+		"@_name": "ir"
+	},
+	{
+		"#text": "Loading failed. Tap to retry",
+		"@_name": "is"
+	},
+	{
+		"#text": "Network settings",
+		"@_name": "it"
+	},
+	{
+		"#text": "App Function",
+		"@_name": "iu"
+	},
+	{
+		"#text": "Apps not installed",
+		"@_name": "iv"
+	},
+	{
+		"#text": "Download app",
+		"@_name": "iw"
+	},
+	{
+		"#text": "Installed apps",
+		"@_name": "ix"
+	},
+	{
+		"#text": "Name of contact",
+		"@_name": "iy"
+	},
+	{
+		"#text": "Names of the documents, pictures, videos, music, etc.",
+		"@_name": "iz"
+	},
+	{
+		"#text": "Home Card",
+		"@_name": "j0"
+	},
+	{
+		"#text": "Text in Message",
+		"@_name": "j1"
+	},
+	{
+		"#text": "Quick-launch apps",
+		"@_name": "j2"
+	},
+	{
+		"#text": "\"Item's name\"",
+		"@_name": "j3"
+	},
+	{
+		"#text": "Subfunctions of installed apps",
+		"@_name": "j4"
+	},
+	{
+		"#text": "Sync search history",
+		"@_name": "j5"
+	},
+	{
+		"#text": "Drag icons to sort",
+		"@_name": "j6"
+	},
+	{
+		"#text": "Custom Category",
+		"@_name": "j7"
+	},
+	{
+		"#text": "Headlines",
+		"@_name": "j8"
+	},
+	{
+		"#text": "Type",
+		"@_name": "j9"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "j_"
+	},
+	{
+		"#text": "Preference",
+		"@_name": "ja"
+	},
+	{
+		"#text": "Enter",
+		"@_name": "jb"
+	},
+	{
+		"#text": "Local apps",
+		"@_name": "jc"
+	},
+	{
+		"#text": "Your Maps version is outdated. Please update it.",
+		"@_name": "jd"
+	},
+	{
+		"#text": "No title",
+		"@_name": "je"
+	},
+	{
+		"#text": "I am sharing this article from Meizu Information Center. Check it out!",
+		"@_name": "jf"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "jg"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "jh"
+	},
+	{
+		"#text": "WeChat friends",
+		"@_name": "ji"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jj"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "jk"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "jl"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jm"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jn"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jo"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jp"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "jq"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jr"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "js"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "jt"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "ju"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "jv"
+	},
+	{
+		"#text": "取消",
+		"@_name": "appdownloader_button_cancel_download"
+	},
+	{
+		"#text": "排队",
+		"@_name": "appdownloader_button_queue_for_wifi"
+	},
+	{
+		"#text": "立即开始",
+		"@_name": "appdownloader_button_start_now"
+	},
+	{
+		"#text": "%1$d%%",
+		"@_name": "appdownloader_download_percent"
+	},
+	{
+		"#text": "剩余时间：%1$s",
+		"@_name": "appdownloader_download_remaining"
+	},
+	{
+		"#text": "&lt;未命名>",
+		"@_name": "appdownloader_download_unknown_title"
+	},
+	{
+		"#text": "%1$d 小时",
+		"@_name": "appdownloader_duration_hours"
+	},
+	{
+		"#text": "%1$d 分钟",
+		"@_name": "appdownloader_duration_minutes"
+	},
+	{
+		"#text": "%1$d 秒",
+		"@_name": "appdownloader_duration_seconds"
+	},
+	{
+		"#text": "取消",
+		"@_name": "appdownloader_label_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "appdownloader_label_ok"
+	},
+	{
+		"#text": "下载",
+		"@_name": "appdownloader_notification_download"
+	},
+	{
+		"#text": "下载完成，点击打开。",
+		"@_name": "appdownloader_notification_download_complete_open"
+	},
+	{
+		"#text": "下载完成，点击安装。",
+		"@_name": "appdownloader_notification_download_complete_with_install"
+	},
+	{
+		"#text": "下载完成",
+		"@_name": "appdownloader_notification_download_complete_without_install"
+	},
+	{
+		"#text": "确认要删除%1$s的下载任务吗？",
+		"@_name": "appdownloader_notification_download_delete"
+	},
+	{
+		"#text": "下载失败。",
+		"@_name": "appdownloader_notification_download_failed"
+	},
+	{
+		"#text": "安装",
+		"@_name": "appdownloader_notification_download_install"
+	},
+	{
+		"#text": "打开",
+		"@_name": "appdownloader_notification_download_open"
+	},
+	{
+		"#text": "暂停",
+		"@_name": "appdownloader_notification_download_pause"
+	},
+	{
+		"#text": "重新下载",
+		"@_name": "appdownloader_notification_download_restart"
+	},
+	{
+		"#text": "继续",
+		"@_name": "appdownloader_notification_download_resume"
+	},
+	{
+		"#text": "SdCard空间不足, 下载失败。",
+		"@_name": "appdownloader_notification_download_space_failed"
+	},
+	{
+		"#text": "正在下载",
+		"@_name": "appdownloader_notification_downloading"
+	},
+	{
+		"#text": "文件过大，需要通过 WLAN 下载。",
+		"@_name": "appdownloader_notification_need_wifi_for_size"
+	},
+	{
+		"#text": "已在后台暂停。",
+		"@_name": "appdownloader_notification_paused_in_background"
+	},
+	{
+		"#text": "准备中",
+		"@_name": "appdownloader_notification_prepare"
+	},
+	{
+		"#text": "立即下载",
+		"@_name": "appdownloader_notification_request_btn_no"
+	},
+	{
+		"#text": "去设置",
+		"@_name": "appdownloader_notification_request_btn_yes"
+	},
+	{
+		"#text": "为了您能在方便地在通知栏控制下载任务，请到设置中开启通知，如果不需要可直接下载",
+		"@_name": "appdownloader_notification_request_message"
+	},
+	{
+		"#text": "设置",
+		"@_name": "appdownloader_notification_request_title"
+	},
+	{
+		"#text": "提示",
+		"@_name": "appdownloader_tip"
+	},
+	{
+		"#text": "\"立即开始下载此内容 (%1$s ) 可能会缩短电池的使用时间并/或导致过量使用移动数据连接流量（这可能导致移动运营商向您收费，具体取决于您的流量套餐）。\n\n触摸“%2$s”可在下次连接到 WLAN 网络时开始下载此内容。\"",
+		"@_name": "appdownloader_wifi_recommended_body"
+	},
+	{
+		"#text": "稍后再加入下载队列吗？",
+		"@_name": "appdownloader_wifi_recommended_title"
+	},
+	{
+		"#text": "\"您必须使用 WLAN 完成此内容 (%1$s ) 的下载。\n\n触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。\"",
+		"@_name": "appdownloader_wifi_required_body"
+	},
+	{
+		"#text": "文件太大，不适于通过运营商网络下载",
+		"@_name": "appdownloader_wifi_required_title"
+	},
+	{
+		"#text": "Application",
+		"@_name": "jw"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "jx"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "jy"
+	},
+	{
+		"#text": "安装",
+		"@_name": "jz"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "k0"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "k1"
+	},
+	{
+		"#text": "打开",
+		"@_name": "k2"
+	},
+	{
+		"#text": "安装",
+		"@_name": "k3"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "k4"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "k5"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "k6"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "k7"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "k8",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "k9"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "k_",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "ka"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "kb"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "kc"
+	},
+	{
+		"#text": "All",
+		"@_name": "kd"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "ke",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "kf",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "网络异常，请稍后重试",
+		"@_name": "kg"
+	},
+	{
+		"#text": "无网络连接，请检查网络设置",
+		"@_name": "kh"
+	},
+	{
+		"#text": "取消",
+		"@_name": "ki"
+	},
+	{
+		"#text": "换一换",
+		"@_name": "kj"
+	},
+	{
+		"#text": "确定",
+		"@_name": "kk"
+	},
+	{
+		"#text": "不感兴趣",
+		"@_name": "kl"
+	},
+	{
+		"#text": "这条内容我不喜欢",
+		"@_name": "km"
+	},
+	{
+		"#text": "网络异常, 点击重试",
+		"@_name": "kn"
+	},
+	{
+		"#text": "无更多内容",
+		"@_name": "ko"
+	},
+	{
+		"#text": "提交",
+		"@_name": "kp"
+	},
+	{
+		"#text": "刚刚",
+		"@_name": "kq"
+	},
+	{
+		"#text": "精彩小视频",
+		"@_name": "kr"
+	},
+	{
+		"#text": "查看更多",
+		"@_name": "ks"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "kt"
+	},
+	{
+		"#text": "更多热点",
+		"@_name": "ku"
+	},
+	{
+		"#text": "网络异常, 请稍后重试",
+		"@_name": "kv"
+	},
+	{
+		"#text": "%s次播放",
+		"@_name": "kw"
+	},
+	{
+		"#text": "将减少类似内容推荐",
+		"@_name": "kx"
+	},
+	{
+		"#text": "举报垃圾内容",
+		"@_name": "ky"
+	},
+	{
+		"#text": "内容低俗、标题夸张等",
+		"@_name": "kz"
+	},
+	{
+		"#text": "上滑加载",
+		"@_name": "l0"
+	},
+	{
+		"#text": "新闻资讯版本太低，播放失败",
+		"@_name": "l1"
+	},
+	{
+		"#text": "无网络连接, 请检查网络设置",
+		"@_name": "l2"
+	},
+	{
+		"#text": "立即更新",
+		"@_name": "l3"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "l4"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "l5"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "l6"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "l7"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "l8"
+	},
+	{
+		"#text": "重试",
+		"@_name": "l9"
+	},
+	{
+		"#text": "设置网络",
+		"@_name": "l_"
+	},
+	{
+		"#text": "00:00",
+		"@_name": "tt_00_00"
+	},
+	{
+		"#text": "Ad",
+		"@_name": "tt_ad"
+	},
+	{
+		"#text": "广告",
+		"@_name": "tt_ad_logo_txt"
+	},
+	{
+		"#text": "tt_open_ad_sdk",
+		"@_name": "tt_app_name"
+	},
+	{
+		"#text": "取消",
+		"@_name": "tt_auto_play_cancel_text"
+	},
+	{
+		"#text": "取消",
+		"@_name": "tt_cancel"
+	},
+	{
+		"#text": "%1$s个评分",
+		"@_name": "tt_comment_num"
+	},
+	{
+		"#text": "(%1$s个评论)",
+		"@_name": "tt_comment_num_backup"
+	},
+	{
+		"#text": "评价",
+		"@_name": "tt_comment_score"
+	},
+	{
+		"#text": "正在使用非Wifi网络，确认要进行下载吗？",
+		"@_name": "tt_confirm_download"
+	},
+	{
+		"#text": "准备下载%s应用",
+		"@_name": "tt_confirm_download_have_app_name"
+	},
+	{
+		"#text": "返回",
+		"@_name": "tt_dislike_header_tv_back"
+	},
+	{
+		"#text": "选择",
+		"@_name": "tt_dislike_header_tv_title"
+	},
+	{
+		"#text": "5s后可跳过",
+		"@_name": "tt_full_screen_skip_tx"
+	},
+	{
+		"#text": "取消",
+		"@_name": "tt_label_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "tt_label_ok"
+	},
+	{
+		"#text": "无网络，请稍后再试",
+		"@_name": "tt_no_network"
+	},
+	{
+		"#text": "您已禁止授权操作，请授权",
+		"@_name": "tt_permission_denied"
+	},
+	{
+		"#text": "存储",
+		"@_name": "tt_request_permission_descript_external_storage"
+	},
+	{
+		"#text": "位置信息",
+		"@_name": "tt_request_permission_descript_location"
+	},
+	{
+		"#text": "拨打电话",
+		"@_name": "tt_request_permission_descript_read_phone_state"
+	},
+	{
+		"#text": "反馈",
+		"@_name": "la"
+	},
+	{
+		"#text": "跳过",
+		"@_name": "tt_reward_screen_skip_tx"
+	},
+	{
+		"#text": "3s | 跳过",
+		"@_name": "tt_splash_skip_tv_text"
+	},
+	{
+		"#text": "提示",
+		"@_name": "tt_tip"
+	},
+	{
+		"#text": "不感兴趣",
+		"@_name": "tt_unlike"
+	},
+	{
+		"#text": "流量",
+		"@_name": "tt_video_bytesize"
+	},
+	{
+		"#text": "M",
+		"@_name": "tt_video_bytesize_M"
+	},
+	{
+		"#text": "MB",
+		"@_name": "tt_video_bytesize_MB"
+	},
+	{
+		"#text": "继续播放",
+		"@_name": "tt_video_continue_play"
+	},
+	{
+		"#text": "立即拨打",
+		"@_name": "tt_video_dial_phone"
+	},
+	{
+		"#text": "立即下载",
+		"@_name": "tt_video_download_apk"
+	},
+	{
+		"#text": "查看详情",
+		"@_name": "tt_video_mobile_go_detail"
+	},
+	{
+		"#text": "加载失败，点击重试",
+		"@_name": "tt_video_retry_des_txt"
+	},
+	{
+		"#text": "播放将消耗",
+		"@_name": "tt_video_without_wifi_tips"
+	},
+	{
+		"#text": "广告",
+		"@_name": "tt_web_title_default"
+	},
+	{
+		"#text": "即将播放",
+		"@_name": "tt_will_play"
+	}
+]

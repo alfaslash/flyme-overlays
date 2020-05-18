@@ -1,0 +1,46 @@
+[
+	{
+		"#text": "More Ringtones ...",
+		"@_name": "Add_More_Ringtones"
+	},
+	{
+		"#text": "Media Service",
+		"@_name": "uid_label"
+	},
+	{
+		"#text": "Media Storage",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Upgrading Media database.",
+		"@_name": "upgrade_msg"
+	},
+	{
+		"#text": "Artist",
+		"@_name": "artist_label"
+	},
+	{
+		"#text": "Default ringtone",
+		"@_name": "ringtone_default"
+	},
+	{
+		"#text": "Default notification sound",
+		"@_name": "notification_sound_default"
+	},
+	{
+		"#text": "Default alarm sound",
+		"@_name": "alarm_sound_default"
+	},
+	{
+		"#text": "Images",
+		"@_name": "root_images"
+	},
+	{
+		"#text": "Videos",
+		"@_name": "root_videos"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "root_audio"
+	}
+]

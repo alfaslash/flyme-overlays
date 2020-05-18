@@ -1,0 +1,1233 @@
+[
+	{
+		"#text": "Перейти на главный экран",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению \\\"%s\\\"",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Программы",
+		"@_name": "app_manager"
+	},
+	{
+		"#text": "Некоторые приложения по умолчанию отключают ночной режим из-за проблем с совместимостью и не отображаются в списке ниже",
+		"@_name": "app_manager_list_tips"
+	},
+	{
+		"#text": "Некоторые приложения по умолчанию отключают темный режим из-за проблем с совместимостью, поэтому они не отображаются в списке ниже.",
+		"@_name": "app_manager_list_tips_dark"
+	},
+	{
+		"#text": "Системные компоненты",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "btn_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "btn_confirm"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "btn_exit"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "btn_set_network"
+	},
+	{
+		"#text": "контекст не определен",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Интервал должен составлять не менее 1 мин.",
+		"@_name": "do_not_disturb_time_interval_error_tips"
+	},
+	{
+		"#text": "error is throwed while get token",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "invalid response",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "get token cancel",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "intent need to be handled",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "know_the"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Переключение Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-сообщения",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Переключение NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "пузырь",
+		"@_name": "mz_wallpaper_category_bubble"
+	},
+	{
+		"#text": "видео",
+		"@_name": "mz_wallpaper_category_video"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Разрешить или отключить ночной режим для определённых приложений",
+		"@_name": "night_mode_app_manager_summary"
+	},
+	{
+		"#text": "Разрешить или отключить темный режим для определённых приложений",
+		"@_name": "night_mode_app_manager_summary_dark"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "night_mode_notification_recommend_action_ignore_close"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "night_mode_notification_recommend_action_ignore_open"
+	},
+	{
+		"#text": "Ночной режим не обязателен в это время. Отключить сейчас?",
+		"@_name": "night_mode_notification_recommend_content_close"
+	},
+	{
+		"#text": "Ночной режим не обязателен в это время. Отключить сейчас?",
+		"@_name": "night_mode_notification_recommend_content_close_dark"
+	},
+	{
+		"#text": "Рекомендуется ночной режим. Включить сейчас?",
+		"@_name": "night_mode_notification_recommend_content_open"
+	},
+	{
+		"#text": "Рекомендуется ночной режим. Включить сейчас?",
+		"@_name": "night_mode_notification_recommend_content_open_dark"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "night_mode_notification_schedule_immeditely_close"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "night_mode_notification_schedule_immeditely_open"
+	},
+	{
+		"#text": "Темный",
+		"@_name": "night_mode_on_off_dark"
+	},
+	{
+		"#text": "По умолчанию",
+		"@_name": "night_mode_on_off_light"
+	},
+	{
+		"#text": "Ночной",
+		"@_name": "night_mode_on_off_night"
+	},
+	{
+		"#text": "Выключение ночного режима...",
+		"@_name": "night_mode_switch_anim_close"
+	},
+	{
+		"#text": "Выключение темного режима...",
+		"@_name": "night_mode_switch_anim_close_dark"
+	},
+	{
+		"#text": "Включение ночного режима...",
+		"@_name": "night_mode_switch_anim_open"
+	},
+	{
+		"#text": "Включение темного режима...",
+		"@_name": "night_mode_switch_anim_open_dark"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "night_mode_time_config_close"
+	},
+	{
+		"#text": "При наступлении заданного времени",
+		"@_name": "night_mode_time_config_dialog_title"
+	},
+	{
+		"#text": "Ночной режим по расписанию",
+		"@_name": "night_mode_time_config_title"
+	},
+	{
+		"#text": "Регулярное включение темного режима",
+		"@_name": "night_mode_time_config_title_dark"
+	},
+	{
+		"#text": "От заката до рассвета",
+		"@_name": "night_mode_time_config_twilight"
+	},
+	{
+		"#text": "Настроить расписание",
+		"@_name": "night_mode_time_config_user"
+	},
+	{
+		"#text": "Нет данных",
+		"@_name": "no_data"
+	},
+	{
+		"#text": "Окончание",
+		"@_name": "pref_title_night_mode_end_time"
+	},
+	{
+		"#text": "Начало",
+		"@_name": "pref_title_night_mode_start_time"
+	},
+	{
+		"#text": "got null auth token for scope: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Нет сетевого подключения. Проверьте настройки сети.",
+		"@_name": "status_no_network"
+	},
+	{
+		"#text": "sync get token time out",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Ночной режим",
+		"@_name": "title_activity_dark_mode_settings"
+	},
+	{
+		"#text": "Ночной режим",
+		"@_name": "title_activity_night_mode_settings"
+	},
+	{
+		"#text": "Перевод",
+		"@_name": "translation"
+	},
+	{
+		"#text": "Арабский",
+		"@_name": "translation_baidu_language_ara"
+	},
+	{
+		"#text": "Болгарский",
+		"@_name": "translation_baidu_language_bul"
+	},
+	{
+		"#text": "Традиционный китайский",
+		"@_name": "translation_baidu_language_cht"
+	},
+	{
+		"#text": "Чешский",
+		"@_name": "translation_baidu_language_cs"
+	},
+	{
+		"#text": "Датский",
+		"@_name": "translation_baidu_language_dan"
+	},
+	{
+		"#text": "Немецкий",
+		"@_name": "translation_baidu_language_de"
+	},
+	{
+		"#text": "Греческий",
+		"@_name": "translation_baidu_language_el"
+	},
+	{
+		"#text": "Английский",
+		"@_name": "translation_baidu_language_en"
+	},
+	{
+		"#text": "Эстонский",
+		"@_name": "translation_baidu_language_est"
+	},
+	{
+		"#text": "Финский",
+		"@_name": "translation_baidu_language_fin"
+	},
+	{
+		"#text": "Французский",
+		"@_name": "translation_baidu_language_fra"
+	},
+	{
+		"#text": "Венгерский",
+		"@_name": "translation_baidu_language_hu"
+	},
+	{
+		"#text": "Итальянский",
+		"@_name": "translation_baidu_language_it"
+	},
+	{
+		"#text": "Японский",
+		"@_name": "translation_baidu_language_jp"
+	},
+	{
+		"#text": "Корейский",
+		"@_name": "translation_baidu_language_kor"
+	},
+	{
+		"#text": "Голландский",
+		"@_name": "translation_baidu_language_nl"
+	},
+	{
+		"#text": "Польский",
+		"@_name": "translation_baidu_language_pl"
+	},
+	{
+		"#text": "Португальский",
+		"@_name": "translation_baidu_language_pt"
+	},
+	{
+		"#text": "Румынский",
+		"@_name": "translation_baidu_language_rom"
+	},
+	{
+		"#text": "Русский",
+		"@_name": "translation_baidu_language_ru"
+	},
+	{
+		"#text": "Словенский",
+		"@_name": "translation_baidu_language_slo"
+	},
+	{
+		"#text": "Испанский",
+		"@_name": "translation_baidu_language_spa"
+	},
+	{
+		"#text": "Шведский",
+		"@_name": "translation_baidu_language_swe"
+	},
+	{
+		"#text": "Тайский",
+		"@_name": "translation_baidu_language_th"
+	},
+	{
+		"#text": "Классический китайский",
+		"@_name": "translation_baidu_language_wyw"
+	},
+	{
+		"#text": "Кантонский",
+		"@_name": "translation_baidu_language_yue"
+	},
+	{
+		"#text": "Упрощённый китайский",
+		"@_name": "translation_baidu_language_zh"
+	},
+	{
+		"#text": "Копирование перевода",
+		"@_name": "translation_copy"
+	},
+	{
+		"#text": "Скопировано",
+		"@_name": "translation_copy_successed"
+	},
+	{
+		"#text": "Толкование",
+		"@_name": "translation_detail"
+	},
+	{
+		"#text": "Не удалось перевести. Пожалуйста, повторите попытку позже",
+		"@_name": "translation_disable_text"
+	},
+	{
+		"#text": "Этот язык не поддерживается",
+		"@_name": "translation_language_not_supported"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "translation_loading_text"
+	},
+	{
+		"#text": "Источник",
+		"@_name": "translation_original_text"
+	},
+	{
+		"#text": "Автообнаружение: %s",
+		"@_name": "translation_original_title_tip"
+	},
+	{
+		"#text": "Ошибка сети. Попробуй позже",
+		"@_name": "translation_request_error"
+	},
+	{
+		"#text": "Представлено Baidu Translate",
+		"@_name": "translation_source"
+	},
+	{
+		"#text": "Перевод",
+		"@_name": "translation_translation"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "unknown error from sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "requests too frequently",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Лимонад Рамунэ",
+		"@_name": "user_aware_wallpaper_bubble"
+	},
+	{
+		"#text": "Лимонад Рамунэ",
+		"@_name": "user_aware_wallpaper_bubble_description"
+	},
+	{
+		"#text": "Кофе с газировкой",
+		"@_name": "user_aware_wallpaper_bubble_description_v2"
+	},
+	{
+		"#text": "Зеленый чай",
+		"@_name": "user_aware_wallpaper_bubble_description_v3"
+	},
+	{
+		"#text": "Персик улун",
+		"@_name": "user_aware_wallpaper_bubble_description_v4"
+	},
+	{
+		"#text": "Газировка с голубикой",
+		"@_name": "user_aware_wallpaper_bubble_description_v5"
+	},
+	{
+		"#text": "Кофе с газировкой",
+		"@_name": "user_aware_wallpaper_bubble_v2"
+	},
+	{
+		"#text": "Зеленый чай",
+		"@_name": "user_aware_wallpaper_bubble_v3"
+	},
+	{
+		"#text": "Персик улун",
+		"@_name": "user_aware_wallpaper_bubble_v4"
+	},
+	{
+		"#text": "Газировка с голубикой",
+		"@_name": "user_aware_wallpaper_bubble_v5"
+	},
+	{
+		"#text": "Волна",
+		"@_name": "user_aware_wallpaper_video_description_v1"
+	},
+	{
+		"#text": "Глубокое погружение",
+		"@_name": "user_aware_wallpaper_video_description_v2"
+	},
+	{
+		"#text": "Пульсация",
+		"@_name": "user_aware_wallpaper_video_description_v3"
+	},
+	{
+		"#text": "Волна",
+		"@_name": "user_aware_wallpaper_video_v1"
+	},
+	{
+		"#text": "Глубокое погружение",
+		"@_name": "user_aware_wallpaper_video_v2"
+	},
+	{
+		"#text": "Пульсация",
+		"@_name": "user_aware_wallpaper_video_v3"
+	}
+]

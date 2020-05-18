@@ -1,0 +1,2077 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "accessibility_all_apps_button"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "accessibility_delete_button"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "accessibility_search_button"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "accessibility_voice_search_button"
+	},
+	{
+		"#text": "Приложение не установлено",
+		"@_name": "activity_not_found"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "add_item_btn_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "add_item_btn_ok"
+	},
+	{
+		"#text": "Создать ярлыки на рабочем столе",
+		"@_name": "add_item_title"
+	},
+	{
+		"#text": "Aicy dynamically updates app suggestions here",
+		"@_name": "aicy_appguess_tip"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "all_apps_button_label"
+	},
+	{
+		"#text": "Чтобы добавить приложение на главный экран, нажмите на значок и удерживайте его",
+		"@_name": "all_apps_cling_add_item"
+	},
+	{
+		"#text": "Выберите приложения",
+		"@_name": "all_apps_cling_title"
+	},
+	{
+		"#text": "Главный экран",
+		"@_name": "all_apps_home_button_label"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "%1$s выбрано",
+		"@_name": "announce_selection"
+	},
+	{
+		"#text": "ForceTouch",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "app_search_cling_btn"
+	},
+	{
+		"#text": "Слайд по краю рабочего стола, пока ваш палец не достигнет нужного приложения, которое вы сможете затем быстро открыть",
+		"@_name": "app_search_cling_msg"
+	},
+	{
+		"#text": "Быстрое открытие приложения",
+		"@_name": "app_search_cling_title"
+	},
+	{
+		"#text": "Приложение предложение",
+		"@_name": "app_suggestion"
+	},
+	{
+		"#text": "Системный лаунчер",
+		"@_name": "application_name"
+	},
+	{
+		"#text": "Приложения: стр. %1$d из %2$d",
+		"@_name": "apps_customize_apps_scroll_format"
+	},
+	{
+		"#text": "Виджеты: стр. %1$d из %2$d",
+		"@_name": "apps_customize_widgets_scroll_format"
+	},
+	{
+		"#text": "Выровнять снизу",
+		"@_name": "bottom_alignment"
+	},
+	{
+		"#text": "Выбрано 1 приложение",
+		"@_name": "cab_app_selection_text"
+	},
+	{
+		"#text": "Выбрана 1 папка",
+		"@_name": "cab_folder_selection_text"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "cab_menu_app_info"
+	},
+	{
+		"#text": "Удалить приложение",
+		"@_name": "cab_menu_delete_app"
+	},
+	{
+		"#text": "Выбран 1 ярлык",
+		"@_name": "cab_shortcut_selection_text"
+	},
+	{
+		"#text": "Выбран 1 виджет",
+		"@_name": "cab_widget_selection_text"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel_action"
+	},
+	{
+		"#text": "Recommended",
+		"@_name": "choiceness"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "cling_dismiss"
+	},
+	{
+		"#text": "Сделайте щипок двумя пальцами, чтобы перемещать значки, менять обои и добавлять виджеты",
+		"@_name": "cling_overview_gathering"
+	},
+	{
+		"#text": "Нажмите и удерживайте пустую область на главном экране, чтобы перемещать значки, менять обои и добавлять виджеты",
+		"@_name": "cling_overview_longpress"
+	},
+	{
+		"#text": "Проведите пальцем вверх, чтобы открыть окно поиска",
+		"@_name": "cling_search_fling"
+	},
+	{
+		"#text": "На главных экранах все занято.",
+		"@_name": "completely_out_of_space"
+	},
+	{
+		"#text": "Обратный отсчет %1$s дней %2$s - %3$s минут %4$s секунд",
+		"@_name": "count_down_days_hours_minutes_seconds"
+	},
+	{
+		"#text": "Объединить в папку",
+		"@_name": "create_folder_button"
+	},
+	{
+		"#text": "Обрезать обои",
+		"@_name": "crop_wallpaper"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "* HPROF",
+		"@_name": "debug_memory_activity"
+	},
+	{
+		"#text": "Папка",
+		"@_name": "default_folder_name"
+	},
+	{
+		"#text": "Стр. %1$d из %2$d",
+		"@_name": "default_scroll_format"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_target_label"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_target_uninstall_label"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_zone_label_all_apps"
+	},
+	{
+		"#text": "Удалить обновление",
+		"@_name": "delete_zone_label_all_apps_system_app"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_zone_label_workspace"
+	},
+	{
+		"#text": "Лаунчер Rocket",
+		"@_name": "dream_name"
+	},
+	{
+		"#text": "Ошибка: пользовательский макет рабочего пространства передан, но не был перезаписан",
+		"@_name": "dummy_custom_cling_error_message"
+	},
+	{
+		"#text": "",
+		"@_name": "e002"
+	},
+	{
+		"#text": "",
+		"@_name": "e004"
+	},
+	{
+		"#text": "",
+		"@_name": "e005"
+	},
+	{
+		"#text": "",
+		"@_name": "e006"
+	},
+	{
+		"#text": "",
+		"@_name": "e007"
+	},
+	{
+		"#text": "",
+		"@_name": "e008"
+	},
+	{
+		"#text": "",
+		"@_name": "e00c"
+	},
+	{
+		"#text": "",
+		"@_name": "e00d"
+	},
+	{
+		"#text": "",
+		"@_name": "e00e"
+	},
+	{
+		"#text": "",
+		"@_name": "e010"
+	},
+	{
+		"#text": "",
+		"@_name": "e012"
+	},
+	{
+		"#text": "",
+		"@_name": "e013"
+	},
+	{
+		"#text": "",
+		"@_name": "e014"
+	},
+	{
+		"#text": "",
+		"@_name": "e017"
+	},
+	{
+		"#text": "",
+		"@_name": "e018"
+	},
+	{
+		"#text": "",
+		"@_name": "e01a"
+	},
+	{
+		"#text": "",
+		"@_name": "e01b"
+	},
+	{
+		"#text": "",
+		"@_name": "e01e"
+	},
+	{
+		"#text": "",
+		"@_name": "e020"
+	},
+	{
+		"#text": "",
+		"@_name": "e021"
+	},
+	{
+		"#text": "",
+		"@_name": "e022"
+	},
+	{
+		"#text": "",
+		"@_name": "e024"
+	},
+	{
+		"#text": "",
+		"@_name": "e025"
+	},
+	{
+		"#text": "",
+		"@_name": "e026"
+	},
+	{
+		"#text": "",
+		"@_name": "e028"
+	},
+	{
+		"#text": "",
+		"@_name": "e02b"
+	},
+	{
+		"#text": "",
+		"@_name": "e02e"
+	},
+	{
+		"#text": "",
+		"@_name": "e030"
+	},
+	{
+		"#text": "",
+		"@_name": "e031"
+	},
+	{
+		"#text": "",
+		"@_name": "e032"
+	},
+	{
+		"#text": "",
+		"@_name": "e050"
+	},
+	{
+		"#text": "",
+		"@_name": "e051"
+	},
+	{
+		"#text": "",
+		"@_name": "e052"
+	},
+	{
+		"#text": "",
+		"@_name": "e053"
+	},
+	{
+		"#text": "",
+		"@_name": "e054"
+	},
+	{
+		"#text": "",
+		"@_name": "e055"
+	},
+	{
+		"#text": "",
+		"@_name": "e056"
+	},
+	{
+		"#text": "",
+		"@_name": "e057"
+	},
+	{
+		"#text": "",
+		"@_name": "e058"
+	},
+	{
+		"#text": "",
+		"@_name": "e059"
+	},
+	{
+		"#text": "",
+		"@_name": "e05a"
+	},
+	{
+		"#text": "",
+		"@_name": "e05b"
+	},
+	{
+		"#text": "",
+		"@_name": "e05c"
+	},
+	{
+		"#text": "",
+		"@_name": "e05d"
+	},
+	{
+		"#text": "",
+		"@_name": "e05e"
+	},
+	{
+		"#text": "",
+		"@_name": "e05f"
+	},
+	{
+		"#text": "",
+		"@_name": "e060"
+	},
+	{
+		"#text": "",
+		"@_name": "e062"
+	},
+	{
+		"#text": "",
+		"@_name": "e063"
+	},
+	{
+		"#text": "",
+		"@_name": "e066"
+	},
+	{
+		"#text": "",
+		"@_name": "e067"
+	},
+	{
+		"#text": "",
+		"@_name": "e06a"
+	},
+	{
+		"#text": "",
+		"@_name": "e06e"
+	},
+	{
+		"#text": "",
+		"@_name": "e070"
+	},
+	{
+		"#text": "",
+		"@_name": "e071"
+	},
+	{
+		"#text": "",
+		"@_name": "e072"
+	},
+	{
+		"#text": "",
+		"@_name": "e07b"
+	},
+	{
+		"#text": "",
+		"@_name": "e07c"
+	},
+	{
+		"#text": "",
+		"@_name": "e07d"
+	},
+	{
+		"#text": "",
+		"@_name": "e07e"
+	},
+	{
+		"#text": "",
+		"@_name": "e085"
+	},
+	{
+		"#text": "",
+		"@_name": "e088"
+	},
+	{
+		"#text": "",
+		"@_name": "e089"
+	},
+	{
+		"#text": "",
+		"@_name": "e08a"
+	},
+	{
+		"#text": "",
+		"@_name": "e08b"
+	},
+	{
+		"#text": "",
+		"@_name": "e08c"
+	},
+	{
+		"#text": "",
+		"@_name": "e08d"
+	},
+	{
+		"#text": "",
+		"@_name": "e08e"
+	},
+	{
+		"#text": "",
+		"@_name": "e08f"
+	},
+	{
+		"#text": "",
+		"@_name": "e090"
+	},
+	{
+		"#text": "",
+		"@_name": "e092"
+	},
+	{
+		"#text": "",
+		"@_name": "e093"
+	},
+	{
+		"#text": "",
+		"@_name": "e094"
+	},
+	{
+		"#text": "",
+		"@_name": "e095"
+	},
+	{
+		"#text": "",
+		"@_name": "e096"
+	},
+	{
+		"#text": "",
+		"@_name": "e097"
+	},
+	{
+		"#text": "",
+		"@_name": "e098"
+	},
+	{
+		"#text": "",
+		"@_name": "e099"
+	},
+	{
+		"#text": "",
+		"@_name": "e09a"
+	},
+	{
+		"#text": "",
+		"@_name": "e09b"
+	},
+	{
+		"#text": "",
+		"@_name": "e09c"
+	},
+	{
+		"#text": "",
+		"@_name": "e09d"
+	},
+	{
+		"#text": "",
+		"@_name": "e09e"
+	},
+	{
+		"#text": "",
+		"@_name": "e09f"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a0"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a1"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a2"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a3"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a4"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a5"
+	},
+	{
+		"#text": "",
+		"@_name": "e0aa"
+	},
+	{
+		"#text": "",
+		"@_name": "e0ab"
+	},
+	{
+		"#text": "",
+		"@_name": "e0ac"
+	},
+	{
+		"#text": "",
+		"@_name": "e0d8"
+	},
+	{
+		"#text": "",
+		"@_name": "e0da"
+	},
+	{
+		"#text": "",
+		"@_name": "e0db"
+	},
+	{
+		"#text": "Образование",
+		"@_name": "education_folder"
+	},
+	{
+		"#text": "",
+		"@_name": "efe0"
+	},
+	{
+		"#text": "",
+		"@_name": "efe1"
+	},
+	{
+		"#text": "\"Не удалось добавить элемент на главный экран.\"",
+		"@_name": "external_drop_widget_error"
+	},
+	{
+		"#text": "%1$s (%2$d × %3$d)",
+		"@_name": "external_drop_widget_pick_format"
+	},
+	{
+		"#text": "Выберите виджет",
+		"@_name": "external_drop_widget_pick_title"
+	},
+	{
+		"#text": "",
+		"@_name": "f02f"
+	},
+	{
+		"#text": "",
+		"@_name": "f030"
+	},
+	{
+		"#text": "Рекомендуемые",
+		"@_name": "featured_plug"
+	},
+	{
+		"#text": "Финансы",
+		"@_name": "finance_folder"
+	},
+	{
+		"#text": "Двойной щелчек по кнопке питания",
+		"@_name": "first_double_click_name"
+	},
+	{
+		"#text": "Быстрый запуск приложений",
+		"@_name": "first_double_click_tips_1"
+	},
+	{
+		"#text": "Двойной щелчек",
+		"@_name": "first_double_click_tv_left_tips"
+	},
+	{
+		"#text": "Питание",
+		"@_name": "first_double_click_tv_right_tips"
+	},
+	{
+		"#text": "Создать больше экранов для приложений и папок",
+		"@_name": "first_run_cling_create_screens_hint"
+	},
+	{
+		"#text": "Создайте собственный экран",
+		"@_name": "first_run_cling_description"
+	},
+	{
+		"#text": "Добро пожаловать!",
+		"@_name": "first_run_cling_title"
+	},
+	{
+		"#text": "Ярлык Flyme",
+		"@_name": "flyme_shortcut"
+	},
+	{
+		"#text": "Чтобы создать папку, нажмите и удерживайте значок приложения, а затем перетащите его на другой значок.",
+		"@_name": "folder_cling_create_folder"
+	},
+	{
+		"#text": "Это папка",
+		"@_name": "folder_cling_title"
+	},
+	{
+		"#text": "Папка закрыта",
+		"@_name": "folder_closed"
+	},
+	{
+		"#text": "Папка без имени",
+		"@_name": "folder_hint_text"
+	},
+	{
+		"#text": "Папка: %1$s",
+		"@_name": "folder_name_format"
+	},
+	{
+		"#text": "Папка открыта, размер: %1$d x %2$d",
+		"@_name": "folder_opened"
+	},
+	{
+		"#text": "Папка переименована в %1$s",
+		"@_name": "folder_renamed"
+	},
+	{
+		"#text": "Нажать для закрытия папки",
+		"@_name": "folder_tap_to_close"
+	},
+	{
+		"#text": "Нажать для переименования",
+		"@_name": "folder_tap_to_rename"
+	},
+	{
+		"#text": "Ошибка загрузки виджета",
+		"@_name": "gadget_error_text"
+	},
+	{
+		"#text": "Игры",
+		"@_name": "game_folder"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "group_applications"
+	},
+	{
+		"#text": "Ярлыки",
+		"@_name": "group_shortcuts"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "group_wallpapers"
+	},
+	{
+		"#text": "Виджеты",
+		"@_name": "group_widgets"
+	},
+	{
+		"#text": "Отмечено как прочитанное",
+		"@_name": "has_mark_read"
+	},
+	{
+		"#text": "Отмечено как непрочитанное",
+		"@_name": "has_mark_unread"
+	},
+	{
+		"#text": "Здоровье",
+		"@_name": "health_folder"
+	},
+	{
+		"#text": "Главный экран",
+		"@_name": "home"
+	},
+	{
+		"#text": "Внизу всё занято",
+		"@_name": "hotseat_out_of_space"
+	},
+	{
+		"#text": "Встряхните телефон, чтобы выровнять значки",
+		"@_name": "iconarrange_alignment_tips"
+	},
+	{
+		"#text": "Нажмите на значок приложения",
+		"@_name": "iconarrange_click_tips"
+	},
+	{
+		"#text": "Нельзя выбрать больше",
+		"@_name": "iconarrange_drag_overcount"
+	},
+	{
+		"#text": "Перетащите к нужному эскизу экрана",
+		"@_name": "iconarrange_drag_tips"
+	},
+	{
+		"#text": "Нажмите для выбора приложения",
+		"@_name": "iconarrange_tips"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "info_target_label"
+	},
+	{
+		"#text": "Виджет слишком велик для этой области",
+		"@_name": "invalid_hotseat_item"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Услуги",
+		"@_name": "life_folder"
+	},
+	{
+		"#text": "Что-то не так? попробуйте еще раз ~~",
+		"@_name": "lifecenter_load_error"
+	},
+	{
+		"#text": "обновить",
+		"@_name": "lifecenter_reload"
+	},
+	{
+		"#text": "Центр услуг обновлен, перезагрузить?",
+		"@_name": "lifecenter_update_msg"
+	},
+	{
+		"#text": "Сетевое исключение, нажмите повторить",
+		"@_name": "load_fail"
+	},
+	{
+		"#text": "загрузка",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Галерея",
+		"@_name": "local_gallery"
+	},
+	{
+		"#text": "Нажмите и удерживайте для захвата виджета.",
+		"@_name": "long_press_widget_to_add"
+	},
+	{
+		"#text": "Магазин",
+		"@_name": "market"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Привет Мир!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Добавить на главный экран",
+		"@_name": "menu_item_add_item"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Ещё обои",
+		"@_name": "more_wallpaper"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Запрос следующих разрешений",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная Сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Необходимо %s моб. данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезагрузить для обновления",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Навигация",
+		"@_name": "navigation_folder"
+	},
+	{
+		"#text": "Нажмите для выбора или отмены выбора приложений, которые вы ходите передать",
+		"@_name": "nfc_share"
+	},
+	{
+		"#text": "Передать приложения через NFC",
+		"@_name": "nfc_share_title"
+	},
+	{
+		"#text": "Загрузка искулючения, нажмите повторить",
+		"@_name": "no_ad"
+	},
+	{
+		"#text": "Онлайн-обои",
+		"@_name": "online_gallery"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "other_folder"
+	},
+	{
+		"#text": "На этом экране все занято.",
+		"@_name": "out_of_space"
+	},
+	{
+		"#text": "На экране нет больше места",
+		"@_name": "out_of_widget_space"
+	},
+	{
+		"#text": "0.97f",
+		"@_name": "overview_icon_scale_x"
+	},
+	{
+		"#text": "0.97f",
+		"@_name": "overview_icon_scale_y"
+	},
+	{
+		"#text": "Приложение сможет самостоятельно добавлять ярлыки",
+		"@_name": "permdesc_install_shortcut"
+	},
+	{
+		"#text": "Приложение получит доступ к данным о настройках и ярлыках на главном экране.",
+		"@_name": "permdesc_read_settings"
+	},
+	{
+		"#text": "Приложение сможет самостоятельно удалять ярлыки.",
+		"@_name": "permdesc_uninstall_shortcut"
+	},
+	{
+		"#text": "Приложение сможет изменять настройки и ярлыки на главном экране.",
+		"@_name": "permdesc_write_settings"
+	},
+	{
+		"#text": "Создание ярлыков",
+		"@_name": "permlab_install_shortcut"
+	},
+	{
+		"#text": "Доступ к настройкам и ярлыкам главного экрана",
+		"@_name": "permlab_read_settings"
+	},
+	{
+		"#text": "Удаление ярлыков",
+		"@_name": "permlab_uninstall_shortcut"
+	},
+	{
+		"#text": "Изменение настроек и ярлыков главного экрана",
+		"@_name": "permlab_write_settings"
+	},
+	{
+		"#text": "Выбрать изображение",
+		"@_name": "pick_image"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "pick_wallpaper"
+	},
+	{
+		"#text": "Частое",
+		"@_name": "popular_folder"
+	},
+	{
+		"#text": "\"Нельзя добавить виджет на личный экран\"",
+		"@_name": "privacy_text"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "productivity_folder"
+	},
+	{
+		"#text": "Потянуть вниз для отметки прочитанным",
+		"@_name": "pull_to_mark_read"
+	},
+	{
+		"#text": "Потянуть вниз для отметки непрочитанным",
+		"@_name": "pull_to_mark_unread"
+	},
+	{
+		"#text": "Чтение",
+		"@_name": "read_folder"
+	},
+	{
+		"#text": "Приложения для связи",
+		"@_name": "recommend"
+	},
+	{
+		"#text": "Отдых",
+		"@_name": "recreation_folder"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "rename_action"
+	},
+	{
+		"#text": "Имя папки",
+		"@_name": "rename_folder_label"
+	},
+	{
+		"#text": "Переименовать папку",
+		"@_name": "rename_folder_title"
+	},
+	{
+		"#text": "\"Иконки не могут быть перемещены\"",
+		"@_name": "restor_text"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "restore_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Нажмите на изображение для установки его на обои",
+		"@_name": "set_wallpaper"
+	},
+	{
+		"#text": "Выровнять",
+		"@_name": "settings_button_text"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share"
+	},
+	{
+		"#text": "Шоппинг",
+		"@_name": "shopping_folder"
+	},
+	{
+		"#text": "%s ярлык уже существует.",
+		"@_name": "shortcut_duplicate"
+	},
+	{
+		"#text": "Ярлык %s создан.",
+		"@_name": "shortcut_installed"
+	},
+	{
+		"#text": "Ярлык %s удален.",
+		"@_name": "shortcut_uninstalled"
+	},
+	{
+		"#text": "Социальная сеть",
+		"@_name": "social_network_folder"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "OK",
+		"@_name": "sure"
+	},
+	{
+		"#text": "Системное ПО",
+		"@_name": "system_tools"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "title_select_application"
+	},
+	{
+		"#text": "Выбрать ярлыки",
+		"@_name": "title_select_shortcut"
+	},
+	{
+		"#text": "Одно приложение не может быть в папке",
+		"@_name": "toast_unenable_create_folder1"
+	},
+	{
+		"#text": "Недостаточно места для создания папки",
+		"@_name": "toast_unenable_create_folder2"
+	},
+	{
+		"#text": "Системные приложения и ярлыки не могут быть установлены как приватные приложения",
+		"@_name": "toast_unenable_create_folder3"
+	},
+	{
+		"#text": "Показать память",
+		"@_name": "toggle_weight_watcher"
+	},
+	{
+		"#text": "Разное",
+		"@_name": "tools_folder"
+	},
+	{
+		"#text": "Выровнять сверху",
+		"@_name": "top_alignment"
+	},
+	{
+		"#text": "Основные приложения Android",
+		"@_name": "uid_name"
+	},
+	{
+		"#text": 1,
+		"@_name": "unicom_phone"
+	},
+	{
+		"#text": 1.4,
+		"@_name": "unicom_usim"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "Удаление исходного приложения приведёт к удалению его клонов.",
+		"@_name": "uninstall_exist_cloneapp"
+	},
+	{
+		"#text": "Автоочистка кэша после удаления ПО",
+		"@_name": "uninstall_notice"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "uninstall_ok"
+	},
+	{
+		"#text": "Системное приложение нельзя удалить",
+		"@_name": "uninstall_system_app_text"
+	},
+	{
+		"#text": "Удалить приложение",
+		"@_name": "uninstall_title"
+	},
+	{
+		"#text": "Очистка кэша",
+		"@_name": "uninstallcache"
+	},
+	{
+		"#text": "Обои %1$d из %2$d",
+		"@_name": "wallpaper_accessibility_name"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "wallpaper_button_text"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "wallpaper_delete"
+	},
+	{
+		"#text": "Установка обоев",
+		"@_name": "wallpaper_instructions"
+	},
+	{
+		"#text": "Виджеты",
+		"@_name": "widget_adder"
+	},
+	{
+		"#text": "Виджеты",
+		"@_name": "widget_button_text"
+	},
+	{
+		"#text": "%1$d × %2$d",
+		"@_name": "widget_dims_format"
+	},
+	{
+		"#text": "Добавить виджет",
+		"@_name": "widgets_tab_label"
+	},
+	{
+		"#text": "Нажмите для добавления виджета",
+		"@_name": "widgets_tab_label_click"
+	},
+	{
+		"#text": "Чтобы перейти к управлению обоями, виджетами и настройками, нажмите на удерживайте фон.",
+		"@_name": "workspace_cling_move_item"
+	},
+	{
+		"#text": "Организация памяти",
+		"@_name": "workspace_cling_title"
+	},
+	{
+		"#text": "Главный экран %1$d",
+		"@_name": "workspace_description_format"
+	},
+	{
+		"#text": "Главный экран: %1$d из %2$d",
+		"@_name": "workspace_scroll_format"
+	},
+	{
+		"#text": "Выровнять",
+		"@_name": "zhengli"
+	}
+]

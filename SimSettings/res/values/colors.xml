@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="sim_noitification">@android:color/background_cache_hint_selector_material_dark</color>
-</resources>

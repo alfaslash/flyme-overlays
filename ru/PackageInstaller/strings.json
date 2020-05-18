@@ -1,0 +1,4922 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Эта функция является экспериментальной и может повлиять на производительность.",
+		"@_name": "accessibility_display_daltonizer_preference_subtitle"
+	},
+	{
+		"#text": "Цветокоррекция",
+		"@_name": "accessibility_display_daltonizer_preference_title"
+	},
+	{
+		"#text": "Less time.",
+		"@_name": "accessibility_manual_zen_less_time"
+	},
+	{
+		"#text": "More time.",
+		"@_name": "accessibility_manual_zen_more_time"
+	},
+	{
+		"#text": "Wi-Fi отключен",
+		"@_name": "accessibility_no_wifi"
+	},
+	{
+		"#text": "Wi-Fi отключен",
+		"@_name": "accessibility_wifi_off"
+	},
+	{
+		"#text": "Сигнал Wi-Fi: одно деление",
+		"@_name": "accessibility_wifi_one_bar"
+	},
+	{
+		"#text": "Открытая сеть",
+		"@_name": "accessibility_wifi_security_type_none"
+	},
+	{
+		"#text": "Безопасная сеть",
+		"@_name": "accessibility_wifi_security_type_secured"
+	},
+	{
+		"#text": "Сигнал Wi-Fi: полный сигнал",
+		"@_name": "accessibility_wifi_signal_full"
+	},
+	{
+		"#text": "Сигнал Wi-Fi: три деления",
+		"@_name": "accessibility_wifi_three_bars"
+	},
+	{
+		"#text": "Сигнал Wi-Fi: два деления",
+		"@_name": "accessibility_wifi_two_bars"
+	},
+	{
+		"#text": "Чтение аккаунта приложения",
+		"@_name": "account"
+	},
+	{
+		"#text": "Чтение учетной записи пользователя установленного приложения",
+		"@_name": "account_des"
+	},
+	{
+		"#text": "Expand/collapse button",
+		"@_name": "action_bar_expand_collapse_button"
+	},
+	{
+		"#text": "Активные методы ввода",
+		"@_name": "active_input_method_subtypes"
+	},
+	{
+		"#text": "Другим пользователям также нравится",
+		"@_name": "ad_des"
+	},
+	{
+		"#text": "Отменить разрешение для USB-отладки для всех компьютеров, которые вы ранее авторизовали?",
+		"@_name": "adb_keys_warning_message"
+	},
+	{
+		"#text": "Отладка по USB предназначена только для разработчиков. Используйте её для копирования данных между компьютером и устройством, установки приложений на устройство без уведомлений, а также для чтения логов.",
+		"@_name": "adb_warning_message"
+	},
+	{
+		"#text": "Разрешить отладку по USB?",
+		"@_name": "adb_warning_title"
+	},
+	{
+		"#text": "Дополнительные разрешения",
+		"@_name": "additional_permissions"
+	},
+	{
+		"#text": "at %1$s",
+		"@_name": "alarm_template"
+	},
+	{
+		"#text": "on %1$s",
+		"@_name": "alarm_template_far"
+	},
+	{
+		"#text": "Все разрешения",
+		"@_name": "all_permissions"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "allow"
+	},
+	{
+		"#text": "Фиктивные местоположения",
+		"@_name": "allow_mock_location"
+	},
+	{
+		"#text": "Разрешить использование фиктивных местоположений",
+		"@_name": "allow_mock_location_summary"
+	},
+	{
+		"#text": "Все",
+		"@_name": "allPerms"
+	},
+	{
+		"#text": "A",
+		"@_name": "alpha_jump_placeholder_text"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Длительность анимации",
+		"@_name": "animator_duration_scale_title"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "anonymous_source_continue"
+	},
+	{
+		"#text": "Ваше устройство и личные данные станут уязвимы для угроз от неизвестного ПО. Устанавливая данное приложение, вы подтверждаете что несете отвественность за любой ущерб нанесенный вашему устройству и личным данным.",
+		"@_name": "anonymous_source_warning"
+	},
+	{
+		"#text": "Этот пользователь не может изменять настройки точки доступа",
+		"@_name": "apn_settings_not_available"
+	},
+	{
+		"#text": "%1$d прил.",
+		"@_name": "app_count"
+	},
+	{
+		"#text": "Установщик пакетов",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "app_name_unknown"
+	},
+	{
+		"#text": "Приложение не найдено в списке установленных.",
+		"@_name": "app_not_found_dlg_text"
+	},
+	{
+		"#text": "Приложение не найдено",
+		"@_name": "app_not_found_dlg_title"
+	},
+	{
+		"#text": "Разрешения приложений",
+		"@_name": "app_permission_manager"
+	},
+	{
+		"#text": "Разрешения приложений",
+		"@_name": "app_permissions"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "app_permissions_breadcrumb"
+	},
+	{
+		"#text": "Разрешено: %1$d из %2$d прил.",
+		"@_name": "app_permissions_group_summary"
+	},
+	{
+		"#text": "Open app info",
+		"@_name": "app_permissions_info_button_label"
+	},
+	{
+		"#text": "Лимит фоновых процессов",
+		"@_name": "app_process_limit_title"
+	},
+	{
+		"#text": "Список приложений",
+		"@_name": "application_list"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "application_managerment"
+	},
+	{
+		"#text": "Разрешить все",
+		"@_name": "appsec_allowall"
+	},
+	{
+		"#text": "Запретить все",
+		"@_name": "appsec_rejall"
+	},
+	{
+		"#text": "Приложению «%1$s» требуется доступ к сети",
+		"@_name": "ask_perm_message"
+	},
+	{
+		"#text": "Запуск при включении устройства",
+		"@_name": "autorun"
+	},
+	{
+		"#text": "Доступно через %1$s",
+		"@_name": "available_via_carrier"
+	},
+	{
+		"#text": "Доступно через «%1$s»",
+		"@_name": "available_via_passpoint"
+	},
+	{
+		"#text": "Установка в фоне",
+		"@_name": "background_install"
+	},
+	{
+		"#text": "Идет зарядка",
+		"@_name": "battery_info_status_charging"
+	},
+	{
+		"#text": "зарядка",
+		"@_name": "battery_info_status_charging_lower"
+	},
+	{
+		"#text": "Не заряжается",
+		"@_name": "battery_info_status_discharging"
+	},
+	{
+		"#text": "Батарея заряжена",
+		"@_name": "battery_info_status_full"
+	},
+	{
+		"#text": "Не заряжается",
+		"@_name": "battery_info_status_not_charging"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "battery_info_status_unknown"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "Подключено к мультимедийному аудиоустройству",
+		"@_name": "bluetooth_a2dp_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для мультимедийного аудиоустройства",
+		"@_name": "bluetooth_a2dp_profile_summary_use_for"
+	},
+	{
+		"#text": "Доступ к истории контактов и звонков",
+		"@_name": "bluetooth_access_contact_call_history"
+	},
+	{
+		"#text": "Active, %1$s battery",
+		"@_name": "bluetooth_active_battery_level"
+	},
+	{
+		"#text": "Active (no media)",
+		"@_name": "bluetooth_active_no_a2dp"
+	},
+	{
+		"#text": "Active (no media), %1$s battery",
+		"@_name": "bluetooth_active_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Active",
+		"@_name": "bluetooth_active_no_battery_level"
+	},
+	{
+		"#text": "Active (no phone)",
+		"@_name": "bluetooth_active_no_headset"
+	},
+	{
+		"#text": "%1$s battery",
+		"@_name": "bluetooth_battery_level"
+	},
+	{
+		"#text": "Подключено",
+		"@_name": "bluetooth_connected"
+	},
+	{
+		"#text": "Соединено, батарея %1$s",
+		"@_name": "bluetooth_connected_battery_level"
+	},
+	{
+		"#text": "Подключено (кроме A2DP)",
+		"@_name": "bluetooth_connected_no_a2dp"
+	},
+	{
+		"#text": "Подключено (нет носителя), батарея %1$s",
+		"@_name": "bluetooth_connected_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Подключено (кроме HSP/HFP)",
+		"@_name": "bluetooth_connected_no_headset"
+	},
+	{
+		"#text": "Подключено (нет телефона), батарея %1$s",
+		"@_name": "bluetooth_connected_no_headset_battery_level"
+	},
+	{
+		"#text": "Подключено (кроме HSP/HFP/A2DP)",
+		"@_name": "bluetooth_connected_no_headset_no_a2dp"
+	},
+	{
+		"#text": "Подключено (нет телефона или медиа), батарея %1$s",
+		"@_name": "bluetooth_connected_no_headset_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Подключено (нет доступа к сообщениям)",
+		"@_name": "bluetooth_connected_no_map"
+	},
+	{
+		"#text": "Подключение…",
+		"@_name": "bluetooth_connecting"
+	},
+	{
+		"#text": "Отключить абсолютный уровень громкости",
+		"@_name": "bluetooth_disable_absolute_volume"
+	},
+	{
+		"#text": "Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку.",
+		"@_name": "bluetooth_disable_absolute_volume_summary"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "bluetooth_disconnected"
+	},
+	{
+		"#text": "Отключение…",
+		"@_name": "bluetooth_disconnecting"
+	},
+	{
+		"#text": "Подключено к Dun Server",
+		"@_name": "bluetooth_dun_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для доступа к коммутированной сети",
+		"@_name": "bluetooth_dun_profile_summary_use_for"
+	},
+	{
+		"#text": "Включить звонок в диапазоне",
+		"@_name": "bluetooth_enable_inband_ringing"
+	},
+	{
+		"#text": "Разрешить воспроизведение мелодий звонка на телефоне на гарнитурах Bluetooth",
+		"@_name": "bluetooth_enable_inband_ringing_summary"
+	},
+	{
+		"#text": "Подключено к аудиоустройству телефона",
+		"@_name": "bluetooth_headset_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для аудиоустройства телефона",
+		"@_name": "bluetooth_headset_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to Hearing Aid",
+		"@_name": "bluetooth_hearing_aid_profile_summary_connected"
+	},
+	{
+		"#text": "Use for Hearing Aid",
+		"@_name": "bluetooth_hearing_aid_profile_summary_use_for"
+	},
+	{
+		"#text": "Left - %1$s battery",
+		"@_name": "bluetooth_hearingaid_left_battery_level"
+	},
+	{
+		"#text": "Pairing left hearing aid…",
+		"@_name": "bluetooth_hearingaid_left_pairing_message"
+	},
+	{
+		"#text": "Right - %1$s battery",
+		"@_name": "bluetooth_hearingaid_right_battery_level"
+	},
+	{
+		"#text": "Pairing right hearing aid…",
+		"@_name": "bluetooth_hearingaid_right_pairing_message"
+	},
+	{
+		"#text": "Подключено к устройству ввода",
+		"@_name": "bluetooth_hid_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для ввода",
+		"@_name": "bluetooth_hid_profile_summary_use_for"
+	},
+	{
+		"#text": "Доступ к сообщениям",
+		"@_name": "bluetooth_map_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для доступа к сообщениям",
+		"@_name": "bluetooth_map_profile_summary_use_for"
+	},
+	{
+		"#text": "Установлено подключение к серверу передачи файлов",
+		"@_name": "bluetooth_opp_profile_summary_connected"
+	},
+	{
+		"#text": "Нет подключения к серверу передачи файлов",
+		"@_name": "bluetooth_opp_profile_summary_not_connected"
+	},
+	{
+		"#text": "Используется для передачи файлов",
+		"@_name": "bluetooth_opp_profile_summary_use_for"
+	},
+	{
+		"#text": "Сопряжение…",
+		"@_name": "bluetooth_pairing"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bluetooth_pairing_accept"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bluetooth_pairing_accept_all_caps"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "bluetooth_pairing_decline"
+	},
+	{
+		"#text": "Не удается установить соединение с устройством «%1$s»",
+		"@_name": "bluetooth_pairing_device_down_error_message"
+	},
+	{
+		"#text": "Не удалось подключиться к устройству «%1$s».",
+		"@_name": "bluetooth_pairing_error_message"
+	},
+	{
+		"#text": "Не удалось подключиться к устройству «%1$s», так как введен неверный PIN-код или пароль.",
+		"@_name": "bluetooth_pairing_pin_error_message"
+	},
+	{
+		"#text": "Сопряжение отклонено устройством «%1$s»",
+		"@_name": "bluetooth_pairing_rejected_error_message"
+	},
+	{
+		"#text": "Сопряжение обеспечивает доступ к вашим контактам и журналу звонков при подключении.",
+		"@_name": "bluetooth_pairing_will_share_phonebook"
+	},
+	{
+		"#text": "Устройство работает в режиме модема",
+		"@_name": "bluetooth_pan_nap_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для доступа в Интернет",
+		"@_name": "bluetooth_pan_profile_summary_use_for"
+	},
+	{
+		"#text": "Используется интернет-подключение другого устройства",
+		"@_name": "bluetooth_pan_user_profile_summary_connected"
+	},
+	{
+		"#text": "Профиль A2DP",
+		"@_name": "bluetooth_profile_a2dp"
+	},
+	{
+		"#text": "HD audio: %1$s",
+		"@_name": "bluetooth_profile_a2dp_high_quality"
+	},
+	{
+		"#text": "HD аудио",
+		"@_name": "bluetooth_profile_a2dp_high_quality_unknown_codec"
+	},
+	{
+		"#text": "Сеть PPPoE",
+		"@_name": "bluetooth_profile_dun"
+	},
+	{
+		"#text": "Использовать для сети PPPoE",
+		"@_name": "bluetooth_profile_dun_summary"
+	},
+	{
+		"#text": "Профиль HSP/HFP",
+		"@_name": "bluetooth_profile_headset"
+	},
+	{
+		"#text": "Hearing Aid",
+		"@_name": "bluetooth_profile_hearing_aid"
+	},
+	{
+		"#text": "Профиль HID",
+		"@_name": "bluetooth_profile_hid"
+	},
+	{
+		"#text": "Доступ к сообщениям",
+		"@_name": "bluetooth_profile_map"
+	},
+	{
+		"#text": "Профиль OPP",
+		"@_name": "bluetooth_profile_opp"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "bluetooth_profile_pan"
+	},
+	{
+		"#text": "Профиль PAN",
+		"@_name": "bluetooth_profile_pan_nap"
+	},
+	{
+		"#text": "Обмен контактами",
+		"@_name": "bluetooth_profile_pbap"
+	},
+	{
+		"#text": "Использовать для обмена контактами",
+		"@_name": "bluetooth_profile_pbap_summary"
+	},
+	{
+		"#text": "Доступ к SIM-карте",
+		"@_name": "bluetooth_profile_sap"
+	},
+	{
+		"#text": "Подключено к точке доступа",
+		"@_name": "bluetooth_sap_profile_summary_connected"
+	},
+	{
+		"#text": "Использовать для доступа к SIM-карте",
+		"@_name": "bluetooth_sap_profile_summary_use_for"
+	},
+	{
+		"#text": "Bluetooth Audio Bits Per Sample",
+		"@_name": "bluetooth_select_a2dp_codec_bits_per_sample"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Bits Per Sample\"",
+		"@_name": "bluetooth_select_a2dp_codec_bits_per_sample_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio Channel Mode",
+		"@_name": "bluetooth_select_a2dp_codec_channel_mode"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Channel Mode\"",
+		"@_name": "bluetooth_select_a2dp_codec_channel_mode_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio LDAC Codec : Качество воспроизведения",
+		"@_name": "bluetooth_select_a2dp_codec_ldac_playback_quality"
+	},
+	{
+		"#text": "Выберите кодек Bluetooth Audio LDAC: Качество воспроизведения",
+		"@_name": "bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio Sample Rate",
+		"@_name": "bluetooth_select_a2dp_codec_sample_rate"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Sample Rate\"",
+		"@_name": "bluetooth_select_a2dp_codec_sample_rate_dialog_title"
+	},
+	{
+		"#text": "Потоковая передача: %1$s",
+		"@_name": "bluetooth_select_a2dp_codec_streaming_label"
+	},
+	{
+		"#text": "Bluetooth Audio Codec",
+		"@_name": "bluetooth_select_a2dp_codec_type"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection\"",
+		"@_name": "bluetooth_select_a2dp_codec_type_dialog_title"
+	},
+	{
+		"#text": "Select Bluetooth AVRCP Version",
+		"@_name": "bluetooth_select_avrcp_version_dialog_title"
+	},
+	{
+		"#text": "Bluetooth AVRCP Version",
+		"@_name": "bluetooth_select_avrcp_version_string"
+	},
+	{
+		"#text": "Показать устройства Bluetooth без имен",
+		"@_name": "bluetooth_show_devices_without_names"
+	},
+	{
+		"#text": "На дисплее появятся устройства Bluetooth без имен (лишь MAC- адреса)",
+		"@_name": "bluetooth_show_devices_without_names_summary"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth_talkback_bluetooth"
+	},
+	{
+		"#text": "Computer",
+		"@_name": "bluetooth_talkback_computer"
+	},
+	{
+		"#text": "Headphone",
+		"@_name": "bluetooth_talkback_headphone"
+	},
+	{
+		"#text": "Headset",
+		"@_name": "bluetooth_talkback_headset"
+	},
+	{
+		"#text": "Imaging",
+		"@_name": "bluetooth_talkback_imaging"
+	},
+	{
+		"#text": "Input Peripheral",
+		"@_name": "bluetooth_talkback_input_peripheral"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "bluetooth_talkback_phone"
+	},
+	{
+		"#text": "Доступ к сенсору",
+		"@_name": "body_sensors"
+	},
+	{
+		"#text": "Чтение данных нательных датчиков",
+		"@_name": "body_sensors_des"
+	},
+	{
+		"#text": "Это не аксессуар Meizu",
+		"@_name": "bt_auth_result_title"
+	},
+	{
+		"#text": "Журнал операций HCI Bluetooth",
+		"@_name": "bt_hci_snoop_log"
+	},
+	{
+		"#text": "Сохранять все пакеты HCI Bluetooth в файле",
+		"@_name": "bt_hci_snoop_log_summary"
+	},
+	{
+		"#text": "Удалить установочные файлы",
+		"@_name": "btn_delete_apk_file"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "btn_goto_mstore"
+	},
+	{
+		"#text": "Перейти в App Store",
+		"@_name": "btn_goto_mz_store"
+	},
+	{
+		"#text": "Установить всё равно?",
+		"@_name": "btn_install_confirm"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "btn_next_step"
+	},
+	{
+		"#text": "Ярлык «Отчет об ошибках»",
+		"@_name": "bugreport_in_power"
+	},
+	{
+		"#text": "Показывать в меню кнопку для отправки отчета об ошибке",
+		"@_name": "bugreport_in_power_summary"
+	},
+	{
+		"#text": "Очистка и конвертирование…",
+		"@_name": "button_convert_fbe"
+	},
+	{
+		"#text": "Чтение/запись данных календаря",
+		"@_name": "calendar_g_des"
+	},
+	{
+		"#text": "Совершение телефонных вызовов",
+		"@_name": "call"
+	},
+	{
+		"#text": "Может вызвать дополнительные расходы",
+		"@_name": "call_des"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "call_log"
+	},
+	{
+		"#text": "Просмотр журнала вызовов",
+		"@_name": "call_log_des"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "camera"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Закрыть панель",
+		"@_name": "car_drawer_close"
+	},
+	{
+		"#text": "Открыть панель",
+		"@_name": "car_drawer_open"
+	},
+	{
+		"#text": "Личное",
+		"@_name": "category_personal"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "category_work"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "change_ad"
+	},
+	{
+		"#text": "%1$d/%2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "%1$s назад",
+		"@_name": "charge_length_format"
+	},
+	{
+		"#text": "Это приложение не может быть установлен в данном режиме",
+		"@_name": "child_mode_install_restricts_dlg_text"
+	},
+	{
+		"#text": "Выберите профиль",
+		"@_name": "choose_profile"
+	},
+	{
+		"#text": "Запретить доступ для USB-отладки",
+		"@_name": "clear_adb_keys"
+	},
+	{
+		"#text": "Подключения",
+		"@_name": "communication"
+	},
+	{
+		"#text": "OK",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.",
+		"@_name": "confirm_enable_oem_unlock_text"
+	},
+	{
+		"#text": "Разрешить заводскую разблокировку?",
+		"@_name": "confirm_enable_oem_unlock_title"
+	},
+	{
+		"#text": "Подключено через «%1$s»",
+		"@_name": "connected_via_carrier"
+	},
+	{
+		"#text": "Подключено автоматически через «%1$s»",
+		"@_name": "connected_via_network_scorer"
+	},
+	{
+		"#text": "Подключено автоматически через провайдера оценки сетей",
+		"@_name": "connected_via_network_scorer_default"
+	},
+	{
+		"#text": "Подключено через «%1$s»",
+		"@_name": "connected_via_passpoint"
+	},
+	{
+		"#text": "Подключить",
+		"@_name": "connection"
+	},
+	{
+		"#text": "Чтение списка контактов",
+		"@_name": "contacts"
+	},
+	{
+		"#text": "Чтение информации о контактах",
+		"@_name": "contacts_des"
+	},
+	{
+		"#text": "Чтение/запись информации о контактах",
+		"@_name": "contacts_g_des"
+	},
+	{
+		"#text": "Меню",
+		"@_name": "content_description_menu_button"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "continue_confirm"
+	},
+	{
+		"#text": "\"Перейти к шифрованию отдельных файлов. Внимание! Все ваши данные будут удалены. Это альфа-версия функции. Возможны ошибки. Нажмите «Очистка и конвертирование» чтобы продолжить\"",
+		"@_name": "convert_to_fbe_warning"
+	},
+	{
+		"#text": "Переход к шифрованию файлов",
+		"@_name": "convert_to_file_encryption"
+	},
+	{
+		"#text": "Шифрование файлов уже включено",
+		"@_name": "convert_to_file_encryption_done"
+	},
+	{
+		"#text": "Конвертирование…",
+		"@_name": "convert_to_file_encryption_enabled"
+	},
+	{
+		"#text": "%1$s из %2$s",
+		"@_name": "current_permission_template"
+	},
+	{
+		"#text": "Текущие разрешения",
+		"@_name": "current_permissions_category"
+	},
+	{
+		"#text": "Удаление SMS/MMS",
+		"@_name": "d_sms_mms"
+	},
+	{
+		"#text": "Дейтераномалия (красный/зелёный)",
+		"@_name": "daltonizer_mode_deuteranomaly"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "daltonizer_mode_disabled"
+	},
+	{
+		"#text": "Монохромный режим",
+		"@_name": "daltonizer_mode_monochromacy"
+	},
+	{
+		"#text": "Протаномалия (красный/зелёный)",
+		"@_name": "daltonizer_mode_protanomaly"
+	},
+	{
+		"#text": "Тританомалия (синий/жёлтый)",
+		"@_name": "daltonizer_mode_tritanomaly"
+	},
+	{
+		"#text": "Новая настройка: %1$s",
+		"@_name": "daltonizer_type_overridden"
+	},
+	{
+		"#text": "Удаленные приложения",
+		"@_name": "data_usage_uninstalled_apps"
+	},
+	{
+		"#text": "Удалённые приложения и пользователи",
+		"@_name": "data_usage_uninstalled_apps_users"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Выбрать приложение для отладки",
+		"@_name": "debug_app"
+	},
+	{
+		"#text": "Приложение для отладки не задано",
+		"@_name": "debug_app_not_set"
+	},
+	{
+		"#text": "Приложение для отладки: «%1$s»",
+		"@_name": "debug_app_set"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "debug_applications_category"
+	},
+	{
+		"#text": "Отладка",
+		"@_name": "debug_debugging_category"
+	},
+	{
+		"#text": "Отображение",
+		"@_name": "debug_drawing_category"
+	},
+	{
+		"#text": "Аппаратное ускорение визуализации",
+		"@_name": "debug_hw_drawing_category"
+	},
+	{
+		"#text": "Отладка наложения",
+		"@_name": "debug_hw_overdraw"
+	},
+	{
+		"#text": "Установить GPU Renderer",
+		"@_name": "debug_hw_renderer"
+	},
+	{
+		"#text": "Ввод текста",
+		"@_name": "debug_input_category"
+	},
+	{
+		"#text": "Показывать границы элементов",
+		"@_name": "debug_layout"
+	},
+	{
+		"#text": "Показывать границы клипа, поля и т. д.",
+		"@_name": "debug_layout_summary"
+	},
+	{
+		"#text": "Мониторинг",
+		"@_name": "debug_monitoring_category"
+	},
+	{
+		"#text": "Сети",
+		"@_name": "debug_networking_category"
+	},
+	{
+		"#text": "Включить проверку атрибутов",
+		"@_name": "debug_view_attributes"
+	},
+	{
+		"#text": "выполняется неизвестное действие",
+		"@_name": "default_permission_description"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "deny"
+	},
+	{
+		"#text": "Когда мы больше не проводим мониторинг с помощью стойкого регистратора, мы обязаны стереть данные, которые остались на вашем устройстве.",
+		"@_name": "dev_logpersist_clear_warning_message"
+	},
+	{
+		"#text": "Очистить хранение журнала логов?",
+		"@_name": "dev_logpersist_clear_warning_title"
+	},
+	{
+		"#text": "Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений",
+		"@_name": "dev_settings_warning_message"
+	},
+	{
+		"#text": "Включить настройки разработчика?",
+		"@_name": "dev_settings_warning_title"
+	},
+	{
+		"#text": "Включить параметры для разработчиков",
+		"@_name": "development_settings_enable"
+	},
+	{
+		"#text": "Параметры для разработчиков недоступны для данного пользователя",
+		"@_name": "development_settings_not_available"
+	},
+	{
+		"#text": "Настройка параметров для разработчиков",
+		"@_name": "development_settings_summary"
+	},
+	{
+		"#text": "Для разработчиков",
+		"@_name": "development_settings_title"
+	},
+	{
+		"#text": "Доступ к устройству",
+		"@_name": "devicePerms"
+	},
+	{
+		"#text": "Примечание: после перезагрузки это приложение не может запуститься, пока вы не разблокируете свой телефон",
+		"@_name": "direct_boot_unaware_dialog_message"
+	},
+	{
+		"#text": "Данное приложение может отключить блокировку экрана",
+		"@_name": "disable_keyguard_warning_message"
+	},
+	{
+		"#text": "Предупреждение безопасности",
+		"@_name": "disable_keyguard_warning_title"
+	},
+	{
+		"#text": "Откл. аппарат. наложения",
+		"@_name": "disable_overlays"
+	},
+	{
+		"#text": "Всегда использовать GPU для отрисовки экрана",
+		"@_name": "disable_overlays_summary"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "disabled"
+	},
+	{
+		"#text": "Отключено администратором",
+		"@_name": "disabled_by_admin"
+	},
+	{
+		"#text": "Контролируется администратором",
+		"@_name": "disabled_by_admin_summary_text"
+	},
+	{
+		"#text": "\"Данное приложение заменит другую программу. Все пользовательские данные будут сохранены\"",
+		"@_name": "dlg_app_replacement_statement"
+	},
+	{
+		"#text": "Заменить приложение?",
+		"@_name": "dlg_app_replacement_title"
+	},
+	{
+		"#text": "%s запрашивает разрешение на %s.",
+		"@_name": "dlg_check_app_message_on",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dlg_ok"
+	},
+	{
+		"#text": "\"Это системное приложение. Все пользовательские данные будут сохранены\"",
+		"@_name": "dlg_sys_app_replacement_statement"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "done"
+	},
+	{
+		"#text": "Добавлено",
+		"@_name": "download_inqueue"
+	},
+	{
+		"#text": "Рекомендуемое ПО",
+		"@_name": "download_recommendation"
+	},
+	{
+		"#text": "…",
+		"@_name": "ellipsis"
+	},
+	{
+		"#text": "Нет доступных сетей",
+		"@_name": "empty_networks_list"
+	},
+	{
+		"#text": "Отладка по USB",
+		"@_name": "enable_adb"
+	},
+	{
+		"#text": "Включить режим отладки при подключении к компьютеру по USB",
+		"@_name": "enable_adb_summary"
+	},
+	{
+		"#text": "Разрешить создание окон произвольной формы",
+		"@_name": "enable_freeform_support"
+	},
+	{
+		"#text": "Включить экспериментальную функцию создания окон произвольной формы",
+		"@_name": "enable_freeform_support_summary"
+	},
+	{
+		"#text": "Вкл. слои отладки ГП",
+		"@_name": "enable_gpu_debug_layers"
+	},
+	{
+		"#text": "Разрешить загрузку слоев отладки ГП для приложений-отладчиков",
+		"@_name": "enable_gpu_debug_layers_summary"
+	},
+	{
+		"#text": "Вкл. трассировку OpenGL",
+		"@_name": "enable_opengl_traces_title"
+	},
+	{
+		"#text": "Разрешить терминальный доступ к локальной оболочке",
+		"@_name": "enable_terminal_summary"
+	},
+	{
+		"#text": "Локальный терминальный доступ",
+		"@_name": "enable_terminal_title"
+	},
+	{
+		"#text": "Многопроцессорный WebView",
+		"@_name": "enable_webview_multiprocess"
+	},
+	{
+		"#text": "Выполнять обработчики WebView отдельно",
+		"@_name": "enable_webview_multiprocess_desc"
+	},
+	{
+		"#text": "Включено администратором",
+		"@_name": "enabled_by_admin"
+	},
+	{
+		"#text": "Выйти",
+		"@_name": "exit"
+	},
+	{
+		"#text": "Дополнительно",
+		"@_name": "expand_button_title"
+	},
+	{
+		"#text": "Разрешено",
+		"@_name": "external_source_trusted"
+	},
+	{
+		"#text": "Запрещено",
+		"@_name": "external_source_untrusted"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "external_sources_settings"
+	},
+	{
+		"#text": "Не удалось открыть настройки приложения «%1$s»",
+		"@_name": "failed_to_open_app_settings_toast"
+	},
+	{
+		"#text": "Приложение не установлено. Пакет поврежден",
+		"@_name": "flyme_install_failed_invalid_apk"
+	},
+	{
+		"#text": "Разрешить сохранение на внешние накопители",
+		"@_name": "force_allow_on_external"
+	},
+	{
+		"#text": "Разрешает сохранение приложений на внешних накопителях независимо от значений манифеста",
+		"@_name": "force_allow_on_external_summary"
+	},
+	{
+		"#text": "GPU-ускорение",
+		"@_name": "force_hw_ui"
+	},
+	{
+		"#text": "Всегда использовать GPU для двухмерного рисования",
+		"@_name": "force_hw_ui_summary"
+	},
+	{
+		"#text": "Включить 4x MSAA",
+		"@_name": "force_msaa"
+	},
+	{
+		"#text": "Включить 4x MSAA в приложениях OpenGL ES 2.0",
+		"@_name": "force_msaa_summary"
+	},
+	{
+		"#text": "Изменение размера в многооконном режиме",
+		"@_name": "force_resizable_activities"
+	},
+	{
+		"#text": "Разрешить изменение размера в многооконном режиме (независимо от значений манифеста)",
+		"@_name": "force_resizable_activities_summary"
+	},
+	{
+		"#text": "Написание справа налево",
+		"@_name": "force_rtl_layout_all_locales"
+	},
+	{
+		"#text": "Включить написание справа налево для всех языков",
+		"@_name": "force_rtl_layout_all_locales_summary"
+	},
+	{
+		"#text": "ЗАБЫТЬ",
+		"@_name": "forget"
+	},
+	{
+		"#text": "Ошибка аутентификации",
+		"@_name": "free_wifi_login_failed"
+	},
+	{
+		"#text": "Аутентификация сети…",
+		"@_name": "free_wifi_logining"
+	},
+	{
+		"#text": "Приложение не может быть удалено",
+		"@_name": "generic_error_dlg_text"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "generic_error_dlg_title"
+	},
+	{
+		"#text": "Предоставить следующие разрешения? Будет получен доступ:",
+		"@_name": "grant_confirm_question"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "grant_dialog_button_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "grant_dialog_button_deny"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "grant_dialog_button_deny_anyway"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "grant_dialog_button_more_info"
+	},
+	{
+		"#text": "Порядок проверки HDCP",
+		"@_name": "hdcp_checking_dialog_title"
+	},
+	{
+		"#text": "Проверка HDCP",
+		"@_name": "hdcp_checking_title"
+	},
+	{
+		"#text": "Справка и отзывы",
+		"@_name": "help_feedback_label"
+	},
+	{
+		"#text": "Для настройки перейдите в меню «Настройки > Приложения»",
+		"@_name": "help_message"
+	},
+	{
+		"#text": "Выбрать лаунчер",
+		"@_name": "home"
+	},
+	{
+		"#text": "сотни",
+		"@_name": "hundred"
+	},
+	{
+		"#text": "Этот метод ввода может собирать весь введенный вами текст, включая личные данные, такие как пароли и номера кредитных карт. Источник: %1$s. Использовать этот метод ввода?",
+		"@_name": "ime_security_warning"
+	},
+	{
+		"#text": "Не сохранять действия",
+		"@_name": "immediately_destroy_activities"
+	},
+	{
+		"#text": "Удалять сводку действий после их завершения",
+		"@_name": "immediately_destroy_activities_summary"
+	},
+	{
+		"#text": "Не зарегистрировано",
+		"@_name": "ims_reg_status_not_registered"
+	},
+	{
+		"#text": "Зарегистрировано",
+		"@_name": "ims_reg_status_registered"
+	},
+	{
+		"#text": "Состояние регистрации IMS",
+		"@_name": "ims_reg_title"
+	},
+	{
+		"#text": "Включено. Нажмите, чтобы отключить",
+		"@_name": "inactive_app_active_summary"
+	},
+	{
+		"#text": "Выключено. Нажмите, чтобы включить",
+		"@_name": "inactive_app_inactive_summary"
+	},
+	{
+		"#text": "Неактивные приложения",
+		"@_name": "inactive_apps_title"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install"
+	},
+	{
+		"#text": "Этому пользователю запрещено устанавливать приложения",
+		"@_name": "install_apps_user_restriction_dlg_text"
+	},
+	{
+		"#text": "Вы хотите установить это приложение? Будет получен доступ:",
+		"@_name": "install_confirm_question"
+	},
+	{
+		"#text": "Это приложение не требует специальных разрешений. Установить его?",
+		"@_name": "install_confirm_question_no_perms"
+	},
+	{
+		"#text": "Обновить установленное приложение? Текущие данные будут сохранены. Приложение получит доступ:",
+		"@_name": "install_confirm_question_update"
+	},
+	{
+		"#text": "Обновить установленное приложение? Текущие данные будут сохранены. Специальные разрешения не требуются",
+		"@_name": "install_confirm_question_update_no_perms"
+	},
+	{
+		"#text": "Обновить встроенное приложение? Текущие данные будут сохранены. Приложение получит доступ:",
+		"@_name": "install_confirm_question_update_system"
+	},
+	{
+		"#text": "Обновить встроенное приложение? Текущие данные будут сохранены. Специальные разрешения не требуются",
+		"@_name": "install_confirm_question_update_system_no_perms"
+	},
+	{
+		"#text": "Приложение установлено",
+		"@_name": "install_done"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Это приложение можно установить из App Store",
+		"@_name": "install_error_statement"
+	},
+	{
+		"#text": "Приложение не установлено",
+		"@_name": "install_failed"
+	},
+	{
+		"#text": "Установка пакета заблокирована",
+		"@_name": "install_failed_blocked"
+	},
+	{
+		"#text": "Пакет конфликтует с существующим пакетом с тем же именем",
+		"@_name": "install_failed_conflict"
+	},
+	{
+		"#text": "Приложение несовместимо с телефоном",
+		"@_name": "install_failed_incompatible"
+	},
+	{
+		"#text": "Приложение не установлено. Установочный пакет повреждён",
+		"@_name": "install_failed_invalid_apk"
+	},
+	{
+		"#text": "Приложение «%1$s» не может быть установлено на ваш телефон",
+		"@_name": "install_failed_msg"
+	},
+	{
+		"#text": "Память заполнена. Очистите больше места и повторите попытку",
+		"@_name": "install_failed_storage"
+	},
+	{
+		"#text": "Установка неизвестного ПО",
+		"@_name": "install_other_apps"
+	},
+	{
+		"#text": "OK",
+		"@_name": "install_replace_confirm"
+	},
+	{
+		"#text": "Существующая версия приложения «%1$s» будет заменена",
+		"@_name": "install_replace_message"
+	},
+	{
+		"#text": "Обновить приложение «%1$s» до версии %2$s?",
+		"@_name": "install_replace_message2"
+	},
+	{
+		"#text": "Успешно установлено",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "\"Это приложение не из Meizu App Store. Meizu не несет ответственности за какие-либо последствия, вызванные установкой этого приложения\"",
+		"@_name": "install_warning_default"
+	},
+	{
+		"#text": "Устанавливайте ПО из App Store с легкостью",
+		"@_name": "install_warning_default_summry"
+	},
+	{
+		"#text": "\"Обнаружена угроза, в целях безопасности установка отменена\"",
+		"@_name": "install_warning_virus"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Установка «%1$s»…",
+		"@_name": "installing_app"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Подсветка при зарядке",
+		"@_name": "keep_screen_on"
+	},
+	{
+		"#text": "Во время зарядки экран будет всегда включён",
+		"@_name": "keep_screen_on_summary"
+	},
+	{
+		"#text": "OK",
+		"@_name": "known_btn"
+	},
+	{
+		"#text": "Доступные сети",
+		"@_name": "label_available"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "launch"
+	},
+	{
+		"#text": "Открыть приложение",
+		"@_name": "launch_app"
+	},
+	{
+		"#text": "Настройки по умолчанию не установлены",
+		"@_name": "launch_defaults_none"
+	},
+	{
+		"#text": "Установлены некоторые настройки по умолчанию",
+		"@_name": "launch_defaults_some"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "lb_control_display_fast_forward_multiplier"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "lb_control_display_rewind_multiplier"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "lb_guidedaction_continue_title"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "lb_guidedaction_finish_title"
+	},
+	{
+		"#text": "Ошибка воспроизведения. Код ошибки: %1$d, дополнительно: %2$d",
+		"@_name": "lb_media_player_error"
+	},
+	{
+		"#text": "Меню навигации",
+		"@_name": "lb_navigation_menu_contentDescription"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "lb_onboarding_accessibility_next"
+	},
+	{
+		"#text": "НАЧАТЬ",
+		"@_name": "lb_onboarding_get_started"
+	},
+	{
+		"#text": "Отключить субтитры",
+		"@_name": "lb_playback_controls_closed_captioning_disable"
+	},
+	{
+		"#text": "Включить субтитры",
+		"@_name": "lb_playback_controls_closed_captioning_enable"
+	},
+	{
+		"#text": "Перемотка вперед",
+		"@_name": "lb_playback_controls_fast_forward"
+	},
+	{
+		"#text": "Перемотка вперед на %1$d",
+		"@_name": "lb_playback_controls_fast_forward_multiplier"
+	},
+	{
+		"#text": "Кнопки управления мультимедиа скрыты. Нажмите на джойстик, чтобы показать",
+		"@_name": "lb_playback_controls_hidden"
+	},
+	{
+		"#text": "Отключить высокое качество",
+		"@_name": "lb_playback_controls_high_quality_disable"
+	},
+	{
+		"#text": "Включить высокое качество",
+		"@_name": "lb_playback_controls_high_quality_enable"
+	},
+	{
+		"#text": "Другие действия",
+		"@_name": "lb_playback_controls_more_actions"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "lb_playback_controls_pause"
+	},
+	{
+		"#text": "Включить режим «Картинка в картинке»",
+		"@_name": "lb_playback_controls_picture_in_picture"
+	},
+	{
+		"#text": "Воспроизвести",
+		"@_name": "lb_playback_controls_play"
+	},
+	{
+		"#text": "Повторять все",
+		"@_name": "lb_playback_controls_repeat_all"
+	},
+	{
+		"#text": "Не повторять",
+		"@_name": "lb_playback_controls_repeat_none"
+	},
+	{
+		"#text": "Повторять один элемент",
+		"@_name": "lb_playback_controls_repeat_one"
+	},
+	{
+		"#text": "Перемотать назад",
+		"@_name": "lb_playback_controls_rewind"
+	},
+	{
+		"#text": "Перемотать назад на %1$d",
+		"@_name": "lb_playback_controls_rewind_multiplier"
+	},
+	{
+		"#text": "Кнопки управления мультимедиа отображены",
+		"@_name": "lb_playback_controls_shown"
+	},
+	{
+		"#text": "Отключить перемешивание",
+		"@_name": "lb_playback_controls_shuffle_disable"
+	},
+	{
+		"#text": "Включить перемешивание",
+		"@_name": "lb_playback_controls_shuffle_enable"
+	},
+	{
+		"#text": "Перейти к следующему элементу.",
+		"@_name": "lb_playback_controls_skip_next"
+	},
+	{
+		"#text": "Перейти к предыдущему элементу.",
+		"@_name": "lb_playback_controls_skip_previous"
+	},
+	{
+		"#text": "Убрать отметку Не нравится.",
+		"@_name": "lb_playback_controls_thumb_down"
+	},
+	{
+		"#text": "Поставить отметку Не нравится.",
+		"@_name": "lb_playback_controls_thumb_down_outline"
+	},
+	{
+		"#text": "Убрать отметку Нравится.",
+		"@_name": "lb_playback_controls_thumb_up"
+	},
+	{
+		"#text": "Поставить отметку Нравится.",
+		"@_name": "lb_playback_controls_thumb_up_outline"
+	},
+	{
+		"#text": "/",
+		"@_name": "lb_playback_time_separator"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "lb_search_bar_hint"
+	},
+	{
+		"#text": "Произнесите запрос",
+		"@_name": "lb_search_bar_hint_speech"
+	},
+	{
+		"#text": "Поиск здесь: %1$s",
+		"@_name": "lb_search_bar_hint_with_title"
+	},
+	{
+		"#text": "Скажите, что вы хотите найти – %1$s",
+		"@_name": "lb_search_bar_hint_with_title_speech"
+	},
+	{
+		"#text": "Использовать клиент DHCP из Lollipop вместо нового клиента Android DHCP",
+		"@_name": "legacy_dhcp_client_summary"
+	},
+	{
+		"#text": "%1$d Мбит/с",
+		"@_name": "link_speed"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования",
+		"@_name": "local_backup_password_summary_change"
+	},
+	{
+		"#text": "Полные резервные копии в настоящее время не защищены",
+		"@_name": "local_backup_password_summary_none"
+	},
+	{
+		"#text": "Пароль для резервного копирования",
+		"@_name": "local_backup_password_title"
+	},
+	{
+		"#text": "Пароли не совпадают",
+		"@_name": "local_backup_password_toast_confirmation_mismatch"
+	},
+	{
+		"#text": "Установлен новый пароль",
+		"@_name": "local_backup_password_toast_success"
+	},
+	{
+		"#text": "Ошибка установки пароля",
+		"@_name": "local_backup_password_toast_validation_failure"
+	},
+	{
+		"#text": "Определение местоположения через gps или моб. сеть",
+		"@_name": "location"
+	},
+	{
+		"#text": "Доступ к местоположению телефона",
+		"@_name": "location_des"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "location_settings"
+	},
+	{
+		"#text": "Приложение «%1$s» является поставщиком служб геолокации для данного устройства. Доступ к геоданным можно изменить в настройках местоположения",
+		"@_name": "location_warning"
+	},
+	{
+		"#text": "Управление ПО",
+		"@_name": "manage_applications"
+	},
+	{
+		"#text": "Управление администраторами",
+		"@_name": "manage_device_administrators"
+	},
+	{
+		"#text": "Управление пользователями",
+		"@_name": "manage_users"
+	},
+	{
+		"#text": "Все рабочие приложения",
+		"@_name": "managed_user_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дн. спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дн. назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 дн. спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 дн. назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_hour_minute_12"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_month_day"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_month_day_hour_minute"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_month_day_hour_minute_12"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_week_hour_minute_12"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_week_month_day_hour_minute"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_year_month"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_year_month_day"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_year_month_day_hour_minute"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_formatted": "false",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_formatted": "false",
+		"@_name": "mc_simple_pattern_month_day"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_formatted": "false",
+		"@_name": "mc_simple_pattern_year_month_day"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Мультимедиа",
+		"@_name": "media"
+	},
+	{
+		"#text": "Мультимедиа",
+		"@_name": "media_category"
+	},
+	{
+		"#text": "Скрыть системное ПО",
+		"@_name": "menu_hide_system"
+	},
+	{
+		"#text": "Показать системное ПО",
+		"@_name": "menu_show_system"
+	},
+	{
+		"#text": "Подключение приложения…",
+		"@_name": "message_staging"
+	},
+	{
+		"#text": "Не отключать передачу данных",
+		"@_name": "mobile_data_always_on"
+	},
+	{
+		"#text": "Не отключать мобильный интернет даже при активном подключении к сети Wi-Fi (для быстрого переключения между сетями)",
+		"@_name": "mobile_data_always_on_summary"
+	},
+	{
+		"#text": "ПО для фиктивных местоположений",
+		"@_name": "mock_location_app"
+	},
+	{
+		"#text": "Нет приложения для фиктивных местоположений",
+		"@_name": "mock_location_app_not_set"
+	},
+	{
+		"#text": "Приложение для создания фиктивных местоположений: «%1$s»",
+		"@_name": "mock_location_app_set"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отключить всплывающие уведомления для всех приложений?",
+		"@_name": "msg_reject_all_heads_up_notify"
+	},
+	{
+		"#text": "Отключить уведомления для всех приложений?",
+		"@_name": "msg_reject_all_notify"
+	},
+	{
+		"#text": "Установите официальную и проверенную версию приложения",
+		"@_name": "mstore_notify_text"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Снять",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Больше не спрашивать",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "Приложение «%1$s» запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s need %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" требуются разрешения\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые подключения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Meizu App Store – официальный канал загрузки",
+		"@_name": "mz_store_statement"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Загрузить",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Не удалось загрузить",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите, чтобы установить",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s загрузка завершена",
+		"@_formatted": "false",
+		"@_name": "mzuc_download_finish_s"
+	},
+	{
+		"#text": "Загрузка %s %s",
+		"@_formatted": "false",
+		"@_name": "mzuc_download_progress_desc_s"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет использовано %s сетевых данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Инсталляция",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновлений",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия приложения %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Не удалось загрузить",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найденная новая версия. Коснитесь, чтобы обновить",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Не удалось установить",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Файл обновления загружен. Выберите его для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия последняя",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновление",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить для обновления",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повторить попытку",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Игнорировать",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если вы пропустите эту версию, вам больше не будет предложено ее установить",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено к последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в роуми. (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s освобождено",
+		"@_formatted": "false",
+		"@_name": "mzuc_update_title_s"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Моб. интернет",
+		"@_name": "network"
+	},
+	{
+		"#text": "Не спрашивать снова",
+		"@_name": "never_ask_again"
+	},
+	{
+		"#text": "Новые разрешения",
+		"@_name": "new_permissions_category"
+	},
+	{
+		"#text": "Новое",
+		"@_name": "newPerms"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "next"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "no"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "no_application"
+	},
+	{
+		"#text": "Нет приложений",
+		"@_name": "no_apps"
+	},
+	{
+		"#text": "Установка этого обновления не требует специальных разрешений.",
+		"@_name": "no_new_perms"
+	},
+	{
+		"#text": "Нет разрешений",
+		"@_name": "no_permissions"
+	},
+	{
+		"#text": "Нет разрешений",
+		"@_name": "no_permissions_manage"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "notify_msg"
+	},
+	{
+		"#text": "Заводская разблокировка",
+		"@_name": "oem_unlock_enable"
+	},
+	{
+		"#text": "Разрешить разблокировку загрузчика",
+		"@_name": "oem_unlock_enable_summary"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "okay"
+	},
+	{
+		"#text": "Это приложение было разработано для более старой версии Android. Отмена разрешения может привести к неработоспособности ПО.",
+		"@_name": "old_sdk_deny_warning"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "only_one"
+	},
+	{
+		"#text": "Использование камеры",
+		"@_name": "op_camera"
+	},
+	{
+		"#text": "Фото и видео",
+		"@_name": "op_camera_des"
+	},
+	{
+		"#text": "Чтение списка установленных приложений",
+		"@_name": "op_getinstallpkg"
+	},
+	{
+		"#text": "Чтение списка установленных приложений",
+		"@_name": "op_getinstallpkg_des"
+	},
+	{
+		"#text": "Получение идентификатора устройства",
+		"@_name": "op_imei"
+	},
+	{
+		"#text": "Чтение IMEI, SN и другой информации об устройстве",
+		"@_name": "op_imei_des"
+	},
+	{
+		"#text": "Использование микрофона",
+		"@_name": "op_record_audio"
+	},
+	{
+		"#text": "Запись аудио",
+		"@_name": "op_record_audio_des"
+	},
+	{
+		"#text": "Изменение системных настроек",
+		"@_name": "op_setting"
+	},
+	{
+		"#text": "Изменение настроек системы",
+		"@_name": "op_setting_des"
+	},
+	{
+		"#text": "Создание ярлыков",
+		"@_name": "op_shortcut"
+	},
+	{
+		"#text": "Добавление на главный экран",
+		"@_name": "op_shortcut_des"
+	},
+	{
+		"#text": "Отображение на экране блокировки",
+		"@_name": "op_show_activity_on_locked_screen"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "orb_search_action"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "other"
+	},
+	{
+		"#text": "Другие функции",
+		"@_name": "other_permissions"
+	},
+	{
+		"#text": "%1$s невозможно установить. Освободите место и повторите попытку.",
+		"@_name": "out_of_space_dlg_text"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "out_of_space_dlg_title"
+	},
+	{
+		"#text": "Эмуляция доп. экранов",
+		"@_name": "overlay_display_devices_title"
+	},
+	{
+		"#text": "Ошибка разбора пакета",
+		"@_name": "Parse_error_dlg_text"
+	},
+	{
+		"#text": "Учетные данные (%1$s)",
+		"@_name": "passpoint_content"
+	},
+	{
+		"#text": "Сохранено:",
+		"@_name": "passpoint_label"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "Отображение на экране блокировки",
+		"@_name": "perm_activity_on_locked_screen"
+	},
+	{
+		"#text": "Отображение на экране блокировки",
+		"@_name": "perm_activity_on_locked_screen_des"
+	},
+	{
+		"#text": "Всплывающие окна",
+		"@_name": "perm_alert"
+	},
+	{
+		"#text": "Отображение поверх других приложений",
+		"@_name": "perm_alert_des"
+	},
+	{
+		"#text": "Автозагрузка",
+		"@_name": "perm_aotulunch"
+	},
+	{
+		"#text": "Автозапуск",
+		"@_name": "perm_autostart"
+	},
+	{
+		"#text": "Возможны расходы",
+		"@_name": "perm_costs_money"
+	},
+	{
+		"#text": "Оповещение",
+		"@_name": "perm_dialog"
+	},
+	{
+		"#text": "Удалять журналы вызовов",
+		"@_name": "PERM_ID_DELETE_CALLLOG"
+	},
+	{
+		"#text": "Удалять контакты",
+		"@_name": "PERM_ID_DELETE_CONTACT"
+	},
+	{
+		"#text": "Удалять MMS",
+		"@_name": "PERM_ID_DELETE_MMSDB"
+	},
+	{
+		"#text": "Удалять SMS",
+		"@_name": "PERM_ID_DELETE_SMSDB"
+	},
+	{
+		"#text": "Изменять журналы вызовов",
+		"@_name": "PERM_ID_WRITE_CALLLOG"
+	},
+	{
+		"#text": "Правка контактов",
+		"@_name": "PERM_ID_WRITE_CONTACT"
+	},
+	{
+		"#text": "Изменять MMS",
+		"@_name": "PERM_ID_WRITE_MMSDB"
+	},
+	{
+		"#text": "Изменять SMS",
+		"@_name": "PERM_ID_WRITE_SMSDB"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "perm_notification"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "perm_notity"
+	},
+	{
+		"#text": "Другие разрешения",
+		"@_name": "perm_other"
+	},
+	{
+		"#text": "Разрешить приложению использовать интерфейс для управления разрешениями. Это разрешение не требуется обысным приложениям.",
+		"@_name": "permdesc_togglePermissions"
+	},
+	{
+		"#text": "Управление разрешениями",
+		"@_name": "permission_configure"
+	},
+	{
+		"#text": "Управление разрешениями",
+		"@_name": "permission_configure_title"
+	},
+	{
+		"#text": "Установить это приложение? Оно может получить следующие разрешения:",
+		"@_name": "permission_confirm_statement"
+	},
+	{
+		"#text": "разрешен.",
+		"@_name": "permission_count"
+	},
+	{
+		"#text": "Просмотреть разрешения",
+		"@_name": "permission_list"
+	},
+	{
+		"#text": "Запрошенные разрешения",
+		"@_name": "permission_list_title"
+	},
+	{
+		"#text": "Разрешение запрошено",
+		"@_name": "permission_request_title"
+	},
+	{
+		"#text": "Выберите какие разрешения нужно предоставить приложению «%1$s»",
+		"@_name": "permission_review_title_template_install"
+	},
+	{
+		"#text": "Приложение «%1$s» было обновлено. Выберите какие разрешения нужно предоставить этому приложению.",
+		"@_name": "permission_review_title_template_update"
+	},
+	{
+		"#text": "Приложение «%1$s» было обновлено. Предоставить приложению «%1$s» доступ к следующим разрешениям?",
+		"@_name": "permission_review_warning_title_template_update"
+	},
+	{
+		"#text": "Все отключено",
+		"@_name": "permission_revoked_all"
+	},
+	{
+		"#text": "%1$d отключено",
+		"@_name": "permission_revoked_count"
+	},
+	{
+		"#text": "Включено",
+		"@_name": "permission_revoked_none"
+	},
+	{
+		"#text": "Установлено политикой",
+		"@_name": "permission_summary_enforced_by_policy"
+	},
+	{
+		"#text": "Разрешения: %1$s",
+		"@_name": "permission_title"
+	},
+	{
+		"#text": "Разрешить%2$s?",
+		"@_name": "permission_warning_template",
+		"b": "%1$s"
+	},
+	{
+		"#text": "Перенаправление исходящих вызовов",
+		"@_name": "permlab_processOutgoingCalls"
+	},
+	{
+		"#text": "Управление разрешениями",
+		"@_name": "permlab_togglePermissions"
+	},
+	{
+		"#text": "Новое",
+		"@_name": "perms_new_perm_prefix"
+	},
+	{
+		"#text": "Вызовы, чтение/запись журналов вызовов",
+		"@_name": "phone_g_des"
+	},
+	{
+		"#text": "Цветовой режим",
+		"@_name": "picture_color_mode"
+	},
+	{
+		"#text": "Использовать sRGB",
+		"@_name": "picture_color_mode_desc"
+	},
+	{
+		"#text": "2-й этап аутентификации",
+		"@_name": "please_select_phase2"
+	},
+	{
+		"#text": "Отображать касания",
+		"@_name": "pointer_location"
+	},
+	{
+		"#text": "Визуализировать на экране нажатия и жесты",
+		"@_name": "pointer_location_summary"
+	},
+	{
+		"#text": "Всплыв. уведомления",
+		"@_name": "pop_notice"
+	},
+	{
+		"#text": "%1$s – %2$s",
+		"@_name": "power_charging"
+	},
+	{
+		"#text": "%1$s – %2$s до полной зарядки",
+		"@_name": "power_charging_duration"
+	},
+	{
+		"#text": "Should last until about %1$s (%2$s)",
+		"@_name": "power_discharge_by"
+	},
+	{
+		"#text": "Should last until about %1$s based on your usage (%2$s)",
+		"@_name": "power_discharge_by_enhanced"
+	},
+	{
+		"#text": "Should last until about %1$s",
+		"@_name": "power_discharge_by_only"
+	},
+	{
+		"#text": "Should last until about %1$s based on your usage",
+		"@_name": "power_discharge_by_only_enhanced"
+	},
+	{
+		"#text": "%1$s – осталось около %2$s",
+		"@_name": "power_discharging_duration"
+	},
+	{
+		"#text": "^1 - приблизительно ^2 осталось в зависимости от вашего использования",
+		"@_name": "power_discharging_duration_enhanced"
+	},
+	{
+		"#text": "%1$s, осталось: %2$s",
+		"@_name": "power_discharging_duration_short"
+	},
+	{
+		"#text": "%1$s left until fully charged",
+		"@_name": "power_remaining_charging_duration_only"
+	},
+	{
+		"#text": "Осталось примерно %1$s",
+		"@_name": "power_remaining_duration_only"
+	},
+	{
+		"#text": "About %1$s left based on your usage",
+		"@_name": "power_remaining_duration_only_enhanced"
+	},
+	{
+		"#text": "Осталось: %1$s",
+		"@_name": "power_remaining_duration_only_short"
+	},
+	{
+		"#text": "Phone may shutdown soon",
+		"@_name": "power_remaining_duration_only_shutdown_imminent"
+	},
+	{
+		"#text": "Phone may shutdown soon (%1$s)",
+		"@_name": "power_remaining_duration_shutdown_imminent"
+	},
+	{
+		"#text": "Less than %1$s remaining (%2$s)",
+		"@_name": "power_remaining_less_than_duration"
+	},
+	{
+		"#text": "Less than %1$s remaining",
+		"@_name": "power_remaining_less_than_duration_only"
+	},
+	{
+		"#text": "More than %1$s remaining (%2$s)",
+		"@_name": "power_remaining_more_than_subtext"
+	},
+	{
+		"#text": "More than %1$s remaining",
+		"@_name": "power_remaining_only_more_than_subtext"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "power_remaining_settings_home_page"
+	},
+	{
+		"#text": "%1$s / %2$s",
+		"@_name": "preference_summary_default_combination"
+	},
+	{
+		"#text": "Конфиденциальность",
+		"@_name": "privacy"
+	},
+	{
+		"#text": "Конфиденциальность",
+		"@_name": "privacyPerms"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "private_dns_mode_off"
+	},
+	{
+		"#text": "Automatic",
+		"@_name": "private_dns_mode_opportunistic"
+	},
+	{
+		"#text": "Private DNS provider hostname",
+		"@_name": "private_dns_mode_provider"
+	},
+	{
+		"#text": "\"Couldn't connect\"",
+		"@_name": "private_dns_mode_provider_failure"
+	},
+	{
+		"#text": "Enter hostname of DNS provider",
+		"@_name": "private_dns_mode_provider_hostname_hint"
+	},
+	{
+		"#text": "ОС Android",
+		"@_name": "process_kernel_label"
+	},
+	{
+		"#text": "example.com,mycomp.test.com,localhost",
+		"@_name": "proxy_exclusionlist_hint"
+	},
+	{
+		"#text": "proxy.example.com",
+		"@_name": "proxy_hostname_hint"
+	},
+	{
+		"#text": 8080,
+		"@_name": "proxy_port_hint"
+	},
+	{
+		"#text": "Просмотр календаря",
+		"@_name": "r_calendar"
+	},
+	{
+		"#text": "Чтение журанала MMS",
+		"@_name": "r_mms"
+	},
+	{
+		"#text": "Чтение SMS и MMS",
+		"@_name": "r_sms"
+	},
+	{
+		"#text": "Чтение SMS и MMS",
+		"@_name": "r_sms_mms"
+	},
+	{
+		"#text": "Просмотр SMS и MMS",
+		"@_name": "r_sms_mms_des"
+	},
+	{
+		"#text": "Установлено: %1$s",
+		"@_name": "rec_app_install_count"
+	},
+	{
+		"#text": "Рекомендации",
+		"@_name": "recommendations"
+	},
+	{
+		"#text": "Доступ к микрофону",
+		"@_name": "recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "recordaudio_phone"
+	},
+	{
+		"#text": "Осталось: %1$s",
+		"@_name": "remaining_length_format"
+	},
+	{
+		"#text": "Приложение «%1$s» было удалено, хотите установить?",
+		"@_name": "restore_dialog_text"
+	},
+	{
+		"#text": "Введите пароль для сброса к заводским настройкам в демонстрационном режиме",
+		"@_name": "retail_demo_reset_message"
+	},
+	{
+		"#text": "Дальше",
+		"@_name": "retail_demo_reset_next"
+	},
+	{
+		"#text": "Нужен пароль",
+		"@_name": "retail_demo_reset_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "review_button_cancel"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "review_button_continue"
+	},
+	{
+		"#text": "Пользователь: «%1$s»",
+		"@_name": "running_process_item_user_label"
+	},
+	{
+		"#text": "Просмотр и управление работающими приложениями",
+		"@_name": "runningservices_settings_summary"
+	},
+	{
+		"#text": "В работе",
+		"@_name": "runningservices_settings_title"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "s_mms"
+	},
+	{
+		"#text": "Может вызвать дополнительные расходы",
+		"@_name": "s_mms_des"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "s_sms"
+	},
+	{
+		"#text": "Может вызвать дополнительные расходы",
+		"@_name": "s_sms_des"
+	},
+	{
+		"#text": "Сохранено: «%1$s»",
+		"@_name": "saved_network"
+	},
+	{
+		"#text": "Открыть настройки",
+		"@_name": "screen_overlay_button"
+	},
+	{
+		"#text": "Чтобы изменить параметр, необходимо выключить наложение экрана в меню «Настройки > Приложения»",
+		"@_name": "screen_overlay_message"
+	},
+	{
+		"#text": "Обнаружено наложение экрана",
+		"@_name": "screen_overlay_title"
+	},
+	{
+		"#text": "Другой (%d)",
+		"@_name": "screen_zoom_summary_custom"
+	},
+	{
+		"#text": "По умолчанию",
+		"@_name": "screen_zoom_summary_default"
+	},
+	{
+		"#text": "Максимальный",
+		"@_name": "screen_zoom_summary_extremely_large"
+	},
+	{
+		"#text": "Крупный",
+		"@_name": "screen_zoom_summary_large"
+	},
+	{
+		"#text": "Мелкий",
+		"@_name": "screen_zoom_summary_small"
+	},
+	{
+		"#text": "Очень крупный",
+		"@_name": "screen_zoom_summary_very_large"
+	},
+	{
+		"#text": "Поиск в App Store",
+		"@_name": "search_app_store"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Проверка безопасности",
+		"@_name": "security_detecting"
+	},
+	{
+		"#text": "Разрешения",
+		"@_name": "security_privacy"
+	},
+	{
+		"#text": "Список разрешений:",
+		"@_name": "security_settings_desc"
+	},
+	{
+		"#text": "Выберите приложение",
+		"@_name": "select_application"
+	},
+	{
+		"#text": "Выберите размер буфера журнала",
+		"@_name": "select_logd_size_dialog_title"
+	},
+	{
+		"#text": "Размер буфера журнала",
+		"@_name": "select_logd_size_title"
+	},
+	{
+		"#text": "Выберите буферы журналов, чтобы постоянно хранить их на устройстве",
+		"@_name": "select_logpersist_dialog_title"
+	},
+	{
+		"#text": "Хранить данные регистратора постоянно на устройстве",
+		"@_name": "select_logpersist_title"
+	},
+	{
+		"#text": "Select Private DNS Mode",
+		"@_name": "select_private_dns_configuration_dialog_title"
+	},
+	{
+		"#text": "Private DNS",
+		"@_name": "select_private_dns_configuration_title"
+	},
+	{
+		"#text": "Конфигурация USB",
+		"@_name": "select_usb_configuration_dialog_title"
+	},
+	{
+		"#text": "Конфигурация USB",
+		"@_name": "select_usb_configuration_title"
+	},
+	{
+		"#text": "Настройки сервиса WebView",
+		"@_name": "select_webview_provider_dialog_title"
+	},
+	{
+		"#text": "Сервис WebView",
+		"@_name": "select_webview_provider_title"
+	},
+	{
+		"#text": "Вариант недействителен. Повторите попытку.",
+		"@_name": "select_webview_provider_toast_text"
+	},
+	{
+		"#text": "Отправка SMS/MMS",
+		"@_name": "send_sms_mms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "set_bluetooth_on"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "set_bluetooth_on_des"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "set_wifi_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "set_wifi_on_des"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Настройка",
+		"@_name": "settings_ad"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "settings_dialog"
+	},
+	{
+		"#text": "Показывать ANR",
+		"@_name": "show_all_anrs"
+	},
+	{
+		"#text": "Уведомлять о том, что приложение не отвечает",
+		"@_name": "show_all_anrs_summary"
+	},
+	{
+		"#text": "Показывать загрузку ЦП",
+		"@_name": "show_cpu_usage"
+	},
+	{
+		"#text": "Экран, показывающий текущую загрузку ЦП",
+		"@_name": "show_cpu_usage_summary"
+	},
+	{
+		"#text": "Показ. аппаратные обновл.",
+		"@_name": "show_hw_layers_updates"
+	},
+	{
+		"#text": "Выделять аппаратные уровни зеленым цветом при обновлении",
+		"@_name": "show_hw_layers_updates_summary"
+	},
+	{
+		"#text": "Показывать обнов. экрана",
+		"@_name": "show_hw_screen_updates"
+	},
+	{
+		"#text": "Подсвечивать области экрана при отрисовке с GPU",
+		"@_name": "show_hw_screen_updates_summary"
+	},
+	{
+		"#text": "Отладить операции непрямоугольного усечения",
+		"@_name": "show_non_rect_clip"
+	},
+	{
+		"#text": "Показывать предупреждения канала уведомлений",
+		"@_name": "show_notification_channel_warnings"
+	},
+	{
+		"#text": "Отображает предупреждение на экране, когда приложение публикует уведомление без действительного канала",
+		"@_name": "show_notification_channel_warnings_summary"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "show_password"
+	},
+	{
+		"#text": "Показ. обнов. поверхности",
+		"@_name": "show_screen_updates"
+	},
+	{
+		"#text": "Подсвечивать окна полностью при их обновлении",
+		"@_name": "show_screen_updates_summary"
+	},
+	{
+		"#text": "Визуальный отклик",
+		"@_name": "show_touches"
+	},
+	{
+		"#text": "Показывать места нажатия на экране",
+		"@_name": "show_touches_summary"
+	},
+	{
+		"#text": "Слот SIM-карты",
+		"@_name": "sim_slot"
+	},
+	{
+		"#text": "Имитировать цвет",
+		"@_name": "simulate_color_space"
+	},
+	{
+		"#text": "Смарт-Фон (рекомендуется)",
+		"@_name": "smart_bg_mode0"
+	},
+	{
+		"#text": "Разрешить работу в фоне",
+		"@_name": "smart_bg_mode1"
+	},
+	{
+		"#text": "Запретить работу в фоне",
+		"@_name": "smart_bg_mode2"
+	},
+	{
+		"#text": "Запуск в фоне",
+		"@_name": "smart_bg_title"
+	},
+	{
+		"#text": "Просмотр, создание, и отправка SMS и MMS",
+		"@_name": "sms_g_des"
+	},
+	{
+		"#text": "СМС",
+		"@_name": "sms_lable"
+	},
+	{
+		"#text": "сеть",
+		"@_name": "source_network"
+	},
+	{
+		"#text": "Специальные разрешения",
+		"@_name": "special_permission"
+	},
+	{
+		"#text": "Focus on the road",
+		"@_name": "speed_bump_lockout_message"
+	},
+	{
+		"#text": "Быстро",
+		"@_name": "speed_label_fast"
+	},
+	{
+		"#text": "Средне",
+		"@_name": "speed_label_medium"
+	},
+	{
+		"#text": "OK",
+		"@_name": "speed_label_okay"
+	},
+	{
+		"#text": "Медленно",
+		"@_name": "speed_label_slow"
+	},
+	{
+		"#text": "Очень быстро",
+		"@_name": "speed_label_very_fast"
+	},
+	{
+		"#text": "Очень Медленно",
+		"@_name": "speed_label_very_slow"
+	},
+	{
+		"#text": "App standby state: %s",
+		"@_name": "standby_bucket_summary"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "status_unavailable"
+	},
+	{
+		"#text": "Не отключать экран",
+		"@_name": "strict_mode"
+	},
+	{
+		"#text": "Подсвечивать экран во время длительных операций",
+		"@_name": "strict_mode_summary"
+	},
+	{
+		"#text": "Удалять ваши журналы вызовов",
+		"@_name": "SUM_PERM_ID_DELETE_CALLLOG"
+	},
+	{
+		"#text": "Удалять список контактов",
+		"@_name": "SUM_PERM_ID_DELETE_CONTACT"
+	},
+	{
+		"#text": "Удалять входящие MMS",
+		"@_name": "SUM_PERM_ID_DELETE_MMSDB"
+	},
+	{
+		"#text": "Удалять входящие SMS",
+		"@_name": "SUM_PERM_ID_DELETE_SMSDB"
+	},
+	{
+		"#text": "Изменять журналы вызовов",
+		"@_name": "SUM_PERM_ID_WRITE_CALLLOG"
+	},
+	{
+		"#text": "Изменять список контактов",
+		"@_name": "SUM_PERM_ID_WRITE_CONTACT"
+	},
+	{
+		"#text": "Изменять входящие MMS",
+		"@_name": "SUM_PERM_ID_WRITE_MMSDB"
+	},
+	{
+		"#text": "Изменять входящие SMS",
+		"@_name": "SUM_PERM_ID_WRITE_SMSDB"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "summary_collapsed_preference_list"
+	},
+	{
+		"#text": "Если вы отклоните это разрешение, основные функции устройства могут не работать должным образом.",
+		"@_name": "system_warning"
+	},
+	{
+		"#text": "Монитор телефонии",
+		"@_name": "telephony_monitor_switch"
+	},
+	{
+		"#text": "TelephonyMonitor будет собирать журналы, при выявлении проблемы с функциональностью телефонии / модема и сообщит пользователю об ошибке",
+		"@_name": "telephony_monitor_switch_summary"
+	},
+	{
+		"#text": "дес.",
+		"@_name": "ten"
+	},
+	{
+		"#text": "десять тысяч",
+		"@_name": "ten_thousand"
+	},
+	{
+		"#text": "Режим модема",
+		"@_name": "tether_settings_title_all"
+	},
+	{
+		"#text": "Bluetooth-модем",
+		"@_name": "tether_settings_title_bluetooth"
+	},
+	{
+		"#text": "USB-модем",
+		"@_name": "tether_settings_title_usb"
+	},
+	{
+		"#text": "Режим модема",
+		"@_name": "tether_settings_title_usb_bluetooth"
+	},
+	{
+		"#text": "Точка доступа",
+		"@_name": "tether_settings_title_wifi"
+	},
+	{
+		"#text": "Связывание аппаратного ускорения",
+		"@_name": "tethering_hardware_offload"
+	},
+	{
+		"#text": "Использовать привязку аппаратного ускорения, если это возможно",
+		"@_name": "tethering_hardware_offload_summary"
+	},
+	{
+		"#text": "Этот пользователь не может изменять настройки режима модема",
+		"@_name": "tethering_settings_not_available"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "text_accept"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "text_btn_del"
+	},
+	{
+		"#text": "Заменить",
+		"@_name": "text_btn_replace"
+	},
+	{
+		"#text": "Продолжить установку",
+		"@_name": "text_btn_still_install"
+	},
+	{
+		"#text": "Установлено",
+		"@_name": "text_install_done"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "text_installing"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "text_loading"
+	},
+	{
+		"#text": "Нет приложений для настройки",
+		"@_name": "text_no_app"
+	},
+	{
+		"#text": "По запросу",
+		"@_name": "text_prompt"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "text_reject"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "text_safe"
+	},
+	{
+		"#text": "Пиратское приложение",
+		"@_name": "text_scan_done_fake_replace"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "text_scan_done_safe"
+	},
+	{
+		"#text": "Вирус",
+		"@_name": "text_scan_done_virus"
+	},
+	{
+		"#text": "Вирус",
+		"@_name": "text_scan_done_virus_replace"
+	},
+	{
+		"#text": "\"Версия: \"",
+		"@_name": "text_version"
+	},
+	{
+		"#text": "Вирус",
+		"@_name": "text_virus"
+	},
+	{
+		"#text": "Обнаружен вирус, продолжить установку?",
+		"@_name": "text_virus_install_confirm"
+	},
+	{
+		"#text": "Советы",
+		"@_name": "text_virus_install_confirm_tips"
+	},
+	{
+		"#text": "тыс.",
+		"@_name": "thousand"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "time_unit_just_now"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "title_activity_app_sec"
+	},
+	{
+		"#text": "Разрешен доступ к %1$s: %2$s",
+		"@_name": "title_allow_item"
+	},
+	{
+		"#text": "Переход к шифрованию отдельных файлов",
+		"@_name": "title_convert_fbe"
+	},
+	{
+		"#text": "Приложению «%1$s» требуется доступ: %2$s",
+		"@_name": "title_prompt_item"
+	},
+	{
+		"#text": "Запрещён доступ к %1$s: %2$s",
+		"@_name": "title_reject_item"
+	},
+	{
+		"#text": "Запись времени работы GPU",
+		"@_name": "track_frame_time"
+	},
+	{
+		"#text": "Анимация переходов",
+		"@_name": "transition_animation_scale_title"
+	},
+	{
+		"#text": "Выбор языка для чтения текста",
+		"@_name": "tts_default_lang_summary"
+	},
+	{
+		"#text": "Язык",
+		"@_name": "tts_default_lang_title"
+	},
+	{
+		"#text": "Влияет на высоту синтезированной речи",
+		"@_name": "tts_default_pitch_summary"
+	},
+	{
+		"#text": "Тон",
+		"@_name": "tts_default_pitch_title"
+	},
+	{
+		"#text": "Скорость чтения текста",
+		"@_name": "tts_default_rate_summary"
+	},
+	{
+		"#text": "Скорость речи",
+		"@_name": "tts_default_rate_title"
+	},
+	{
+		"#text": "Это пример синтеза речи",
+		"@_name": "tts_default_sample_string"
+	},
+	{
+		"#text": "Чтобы включить синтезатор речи для этого языка, необходимо подключение к Интернету.",
+		"@_name": "tts_engine_network_required"
+	},
+	{
+		"#text": "Система по умолчанию",
+		"@_name": "tts_engine_preference_section_title"
+	},
+	{
+		"#text": "Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?",
+		"@_name": "tts_engine_security_warning"
+	},
+	{
+		"#text": "Настройки синтеза речи",
+		"@_name": "tts_engine_settings_button"
+	},
+	{
+		"#text": "%s",
+		"@_name": "tts_engine_settings_title"
+	},
+	{
+		"#text": "Общие",
+		"@_name": "tts_general_section_title"
+	},
+	{
+		"#text": "Установить голосовые данные, необходимые для синтеза речи",
+		"@_name": "tts_install_data_summary"
+	},
+	{
+		"#text": "Установка голосовых данных",
+		"@_name": "tts_install_data_title"
+	},
+	{
+		"#text": "Язык не выбран",
+		"@_name": "tts_lang_not_selected"
+	},
+	{
+		"#text": "Язык системы",
+		"@_name": "tts_lang_use_system"
+	},
+	{
+		"#text": "Воспроизвести краткую демонстрацию синтезированной речи",
+		"@_name": "tts_play_example_summary"
+	},
+	{
+		"#text": "Прослушать пример",
+		"@_name": "tts_play_example_title"
+	},
+	{
+		"#text": "Установить стандартный тон при озвучивании текста.",
+		"@_name": "tts_reset_speech_pitch_summary"
+	},
+	{
+		"#text": "Тон по умолчанию",
+		"@_name": "tts_reset_speech_pitch_title"
+	},
+	{
+		"#text": "Настройки синтеза речи",
+		"@_name": "tts_settings"
+	},
+	{
+		"#text": "Синтез речи",
+		"@_name": "tts_settings_title"
+	},
+	{
+		"#text": "Проверка…",
+		"@_name": "tts_status_checking"
+	},
+	{
+		"#text": "«%1$s» не поддерживается",
+		"@_name": "tts_status_not_supported"
+	},
+	{
+		"#text": "«%1$s» полностью поддерживается",
+		"@_name": "tts_status_ok"
+	},
+	{
+		"#text": "«%1$s» поддерживается только при подключении к сети",
+		"@_name": "tts_status_requires_network"
+	},
+	{
+		"#text": "Язык по умолчанию",
+		"@_name": "tts_status_title"
+	},
+	{
+		"#text": "Неизвестная ошибка. Повторите установку.",
+		"@_name": "unexpected_exception"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "%1$s является частью приложения:",
+		"@_name": "uninstall_activity_text"
+	},
+	{
+		"#text": "Это приложение необходимо для некоторых пользователей или профилей и было удалено для других пользователей",
+		"@_name": "uninstall_all_blocked_profile_owner"
+	},
+	{
+		"#text": "Удалить приложение?",
+		"@_name": "uninstall_application_text"
+	},
+	{
+		"#text": "Удалить это приложение дляпользователей? После этогопользователь устройства не будет иметь доступа к приложению и связанным с ним данным.",
+		"@_name": "uninstall_application_text_all_users",
+		"b": [
+			"всех",
+			"ни один"
+		]
+	},
+	{
+		"#text": "Удалить это приложение для пользователя %1$s?",
+		"@_name": "uninstall_application_text_user"
+	},
+	{
+		"#text": "Удалить приложение",
+		"@_name": "uninstall_application_title"
+	},
+	{
+		"#text": "Удалить приложение и его копию",
+		"@_name": "uninstall_application_title_sub"
+	},
+	{
+		"#text": "Это приложение требуется администратору устройства и не может быть удалено",
+		"@_name": "uninstall_blocked_device_owner"
+	},
+	{
+		"#text": "Это приложение необходимо для вашего рабочего профиля и не может быть удалено",
+		"@_name": "uninstall_blocked_profile_owner"
+	},
+	{
+		"#text": "Удаление завершено",
+		"@_name": "uninstall_done"
+	},
+	{
+		"#text": "Приложение «%1$s» удалено",
+		"@_name": "uninstall_done_app"
+	},
+	{
+		"#text": "Удаление не выполнено",
+		"@_name": "uninstall_failed"
+	},
+	{
+		"#text": "Приложение «%1$s» не удалено",
+		"@_name": "uninstall_failed_app"
+	},
+	{
+		"#text": "Невозможно удалить, так как пакет является администратором устройства",
+		"@_name": "uninstall_failed_device_policy_manager"
+	},
+	{
+		"#text": "Невозможно удалить, так как пакет является администратором устройства для пользователя %1$s",
+		"@_name": "uninstall_failed_device_policy_manager_of_user"
+	},
+	{
+		"#text": "Не удалось удалить приложение «%1$s»",
+		"@_name": "uninstall_failed_msg"
+	},
+	{
+		"#text": "Ошибки удаления",
+		"@_name": "uninstall_failure_notification_channel"
+	},
+	{
+		"#text": "Автоочистка кэша после удаления ПО",
+		"@_name": "uninstall_notice"
+	},
+	{
+		"#text": "Очистить кэшир. файлы для обоих приложений",
+		"@_name": "uninstall_notice_sub"
+	},
+	{
+		"#text": "Если вы удалите это приложение, другие приложения могут не работать",
+		"@_name": "uninstall_summary_default"
+	},
+	{
+		"#text": "Установить исходную версию приложения? Все данные будут удалены.",
+		"@_name": "uninstall_update_text"
+	},
+	{
+		"#text": "Установить исходную версию приложения? Все данные будут удалены. Это затрагивает всех пользователей этого устройства, включая тех, у кого есть рабочие профили.",
+		"@_name": "uninstall_update_text_multiuser"
+	},
+	{
+		"#text": "Удалить обновление",
+		"@_name": "uninstall_update_title"
+	},
+	{
+		"#text": "Удаление…",
+		"@_name": "uninstalling"
+	},
+	{
+		"#text": "Удаление %1$s…",
+		"@_name": "uninstalling_app"
+	},
+	{
+		"#text": "Процессы удаления",
+		"@_name": "uninstalling_notification_channel"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "Администратор запретил установку приложений из неизвестных источников.",
+		"@_name": "unknown_apps_admin_dlg_text"
+	},
+	{
+		"#text": "В целях безопасности на телефоне заблокирована установка приложений из неизвестных источников.",
+		"@_name": "unknown_apps_dlg_text"
+	},
+	{
+		"#text": "Установка заблокирована",
+		"@_name": "unknown_apps_dlg_title"
+	},
+	{
+		"#text": "Установка приложений из неизвестных источников запрещена для данного пользователя",
+		"@_name": "unknown_apps_user_restriction_dlg_text"
+	},
+	{
+		"#text": "В целях безопасности, на вашем устройстве запрещена установка неизвестных приложений из этого источника.",
+		"@_name": "untrusted_external_source_warning"
+	},
+	{
+		"#text": "Откл. передачу аудио (USB)",
+		"@_name": "usb_audio_disable_routing"
+	},
+	{
+		"#text": "Откл. автом. маршрутизацию на внеш. USB-устройства",
+		"@_name": "usb_audio_disable_routing_summary"
+	},
+	{
+		"#text": "Использование памяти телефона",
+		"@_name": "use_storage"
+	},
+	{
+		"#text": "Просмотр/создание фото, файлов и другого контента",
+		"@_name": "use_storage_des"
+	},
+	{
+		"#text": "Использовать системные языки",
+		"@_name": "use_system_language_to_select_input_method_subtypes"
+	},
+	{
+		"#text": "Гость",
+		"@_name": "user_guest"
+	},
+	{
+		"#text": "Данному пользователю запрещено удалять это приложение.",
+		"@_name": "user_is_not_allowed_dlg_text"
+	},
+	{
+		"#text": "Запрещено",
+		"@_name": "user_is_not_allowed_dlg_title"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "v7_preference_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "v7_preference_on"
+	},
+	{
+		"#text": "Проверять, насколько безопасны приложения, устанавливаемые через ADB/ADT",
+		"@_name": "verify_apps_over_usb_summary"
+	},
+	{
+		"#text": "Проверка приложений по USB",
+		"@_name": "verify_apps_over_usb_title"
+	},
+	{
+		"#text": "Версия: %1$s",
+		"@_name": "version_text"
+	},
+	{
+		"#text": "Приложение «%s» %s будет заменено на %s",
+		"@_formatted": "false",
+		"@_name": "version_text_message"
+	},
+	{
+		"#text": "ПО из неизвестного источника. Проверка…",
+		"@_name": "virus_scanning_text"
+	},
+	{
+		"#text": "Этот пользователь не может изменять настройки VPN",
+		"@_name": "vpn_settings_not_available"
+	},
+	{
+		"#text": "Создание SMS/MMS",
+		"@_name": "w_sms_mms"
+	},
+	{
+		"#text": "Ожидание отладчика",
+		"@_name": "wait_for_debugger"
+	},
+	{
+		"#text": "Приложение будет ожидать соединения с отладчиком перед запуском",
+		"@_name": "wait_for_debugger_summary"
+	},
+	{
+		"#text": "Обнаружен риск",
+		"@_name": "warning_title_unsafe"
+	},
+	{
+		"#text": "Чтение/запись событий календаря",
+		"@_name": "wd_calendar"
+	},
+	{
+		"#text": "Запись/удаление журналов вызовов",
+		"@_name": "wd_call_log"
+	},
+	{
+		"#text": "Управление входящими и исходящими вызовами",
+		"@_name": "wd_call_log_des"
+	},
+	{
+		"#text": "Запись/удаление контактов",
+		"@_name": "wd_contacts"
+	},
+	{
+		"#text": "Запись/удаление информации о контактах",
+		"@_name": "wd_contacts_des"
+	},
+	{
+		"#text": "Создание/удаление SMS/MMS",
+		"@_name": "wd_sms_mms"
+	},
+	{
+		"#text": "Создание/удаление SMS и MMS",
+		"@_name": "wd_sms_mms_des"
+	},
+	{
+		"#text": "Установка/удаление приложений Android Wear",
+		"@_name": "wear_app_channel"
+	},
+	{
+		"#text": "Операции установки/удаления не поддерживаются Android Wear.",
+		"@_name": "wear_not_allowed_dlg_text"
+	},
+	{
+		"#text": "Android Wear",
+		"@_name": "wear_not_allowed_dlg_title"
+	},
+	{
+		"#text": "Сети Wi-Fi",
+		"@_name": "wifi_access_points"
+	},
+	{
+		"#text": "Добавить сеть",
+		"@_name": "wifi_add_network"
+	},
+	{
+		"#text": "IP-адрес",
+		"@_name": "wifi_advanced_ip_address_title"
+	},
+	{
+		"#text": "MAC-адрес",
+		"@_name": "wifi_advanced_mac_address_title"
+	},
+	{
+		"#text": "Настройки IP-адреса",
+		"@_name": "wifi_advanced_settings_label"
+	},
+	{
+		"#text": "Расширенные настройки",
+		"@_name": "wifi_advanced_titlebar"
+	},
+	{
+		"#text": "Переключаться на мобильную сеть",
+		"@_name": "wifi_aggressive_handover"
+	},
+	{
+		"#text": "Принудительно переключаться на мобильную сеть, если сигнал Wi-Fi слабый",
+		"@_name": "wifi_aggressive_handover_summary"
+	},
+	{
+		"#text": "Всегда включать поиск сетей Wi-Fi",
+		"@_name": "wifi_allow_scan_with_traffic"
+	},
+	{
+		"#text": "Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика",
+		"@_name": "wifi_allow_scan_with_traffic_summary"
+	},
+	{
+		"#text": "Точка доступа временно заполнена",
+		"@_name": "wifi_ap_unable_to_handle_new_sta"
+	},
+	{
+		"#text": "Пароль может быть неправильным",
+		"@_name": "wifi_auth_password_wrong"
+	},
+	{
+		"#text": "Разрешить Ассистенту Wi-Fi автоматически подключаться к открытым сетям Wi-Fi с качественным подключением к Интернет",
+		"@_name": "wifi_automatically_connect_summary"
+	},
+	{
+		"#text": "Подключаться к открытым сетям Wi-Fi автоматически",
+		"@_name": "wifi_automatically_connect_title"
+	},
+	{
+		"#text": "2,4 ГГц",
+		"@_name": "wifi_band_24ghz"
+	},
+	{
+		"#text": "5 ГГц",
+		"@_name": "wifi_band_5ghz"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "wifi_cancel"
+	},
+	{
+		"#text": "Невозможно подключить",
+		"@_name": "wifi_cant_connect"
+	},
+	{
+		"#text": "Не могу соединиться из \"%1$s\"",
+		"@_name": "wifi_cant_connect_to_ap"
+	},
+	{
+		"#text": "Установка или просмотр сертификатов",
+		"@_name": "wifi_certinstall"
+	},
+	{
+		"#text": "Проверьте пароль и повторите попытку",
+		"@_name": "wifi_check_password_try_again"
+	},
+	{
+		"#text": "Соединить",
+		"@_name": "wifi_connect"
+	},
+	{
+		"#text": "Connected MAC Randomization",
+		"@_name": "wifi_connected_mac_randomization"
+	},
+	{
+		"#text": "Randomize MAC address when connecting to WLAN networks",
+		"@_name": "wifi_connected_mac_randomization_summary"
+	},
+	{
+		"#text": "Подключено, без доступа в Интернет",
+		"@_name": "wifi_connected_no_internet"
+	},
+	{
+		"#text": "Enable Wi‑Fi Coverage Extend Feature",
+		"@_name": "wifi_coverage_extend"
+	},
+	{
+		"#text": "Enable extending Wi‑Fi coverage using Hotspot",
+		"@_name": "wifi_coverage_extend_summary"
+	},
+	{
+		"#text": "Не подключено из-за низкого качества сети",
+		"@_name": "wifi_disabled_by_recommendation_provider"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "wifi_disabled_generic"
+	},
+	{
+		"#text": "Ошибка IP-конфигурации",
+		"@_name": "wifi_disabled_network_failure"
+	},
+	{
+		"#text": "Ошибка аутентификации",
+		"@_name": "wifi_disabled_password_failure"
+	},
+	{
+		"#text": "Ошибка подключения Wi-Fi",
+		"@_name": "wifi_disabled_wifi_failure"
+	},
+	{
+		"#text": "Включить автономный режим",
+		"@_name": "wifi_display_autonomous_go"
+	},
+	{
+		"#text": "Серт. беспроводн. мониторов",
+		"@_name": "wifi_display_certification"
+	},
+	{
+		"#text": "Сертификация",
+		"@_name": "wifi_display_certification_heading"
+	},
+	{
+		"#text": "Показывать параметры сертификации беспроводных мониторов",
+		"@_name": "wifi_display_certification_summary"
+	},
+	{
+		"#text": "Прослушать канал",
+		"@_name": "wifi_display_listen_channel"
+	},
+	{
+		"#text": "Включить режим приема",
+		"@_name": "wifi_display_listen_mode"
+	},
+	{
+		"#text": "Нет доступных устройств поблизости.",
+		"@_name": "wifi_display_no_devices_found"
+	},
+	{
+		"#text": "Канал передачи",
+		"@_name": "wifi_display_operating_channel"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "wifi_display_options_done"
+	},
+	{
+		"#text": "Не сохранять",
+		"@_name": "wifi_display_options_forget"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "wifi_display_options_name"
+	},
+	{
+		"#text": "Настройки беспроводного дисплея",
+		"@_name": "wifi_display_options_title"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "wifi_display_pause"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "wifi_display_resume"
+	},
+	{
+		"#text": "Информация о сессии",
+		"@_name": "wifi_display_session_info"
+	},
+	{
+		"#text": "Беспроводной дисплей",
+		"@_name": "wifi_display_settings_title"
+	},
+	{
+		"#text": "\"Подключено к \"",
+		"@_name": "wifi_display_status_connected"
+	},
+	{
+		"#text": "Подключение",
+		"@_name": "wifi_display_status_connecting"
+	},
+	{
+		"#text": "Используется",
+		"@_name": "wifi_display_status_in_use"
+	},
+	{
+		"#text": "Недоступно",
+		"@_name": "wifi_display_status_not_available"
+	},
+	{
+		"#text": "Конфигурация WPS",
+		"@_name": "wifi_display_wps_config"
+	},
+	{
+		"#text": "8.8.8.8",
+		"@_name": "wifi_dns1_hint"
+	},
+	{
+		"#text": "8.8.4.4",
+		"@_name": "wifi_dns2_hint"
+	},
+	{
+		"#text": "Анонимно",
+		"@_name": "wifi_eap_anonymous"
+	},
+	{
+		"#text": "Сертификат ЦС",
+		"@_name": "wifi_eap_ca_cert"
+	},
+	{
+		"#text": "Пользователь",
+		"@_name": "wifi_eap_identity"
+	},
+	{
+		"#text": "Метод EAP",
+		"@_name": "wifi_eap_method"
+	},
+	{
+		"#text": "Сертификат пользователя",
+		"@_name": "wifi_eap_user_cert"
+	},
+	{
+		"#text": "У вас нет прав на изменение сети Wi-Fi.",
+		"@_name": "wifi_empty_list_user_restricted"
+	},
+	{
+		"#text": "Включите Wi-Fi для просмотра доступных сетей",
+		"@_name": "wifi_empty_list_wifi_off"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "wifi_error"
+	},
+	{
+		"#text": "Не удалось начать поиск сетей.",
+		"@_name": "wifi_fail_to_scan"
+	},
+	{
+		"#text": "Ошибка сохранения сети",
+		"@_name": "wifi_failed_save_message"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "wifi_forget"
+	},
+	{
+		"#text": "Частота",
+		"@_name": "wifi_frequency"
+	},
+	{
+		"#text": "Шлюз",
+		"@_name": "wifi_gateway"
+	},
+	{
+		"#text": "192.168.1.1",
+		"@_name": "wifi_gateway_hint"
+	},
+	{
+		"#text": "Режим полета",
+		"@_name": "wifi_in_airplane_mode"
+	},
+	{
+		"#text": "Установка сертификатов",
+		"@_name": "wifi_install_credentials"
+	},
+	{
+		"#text": "IP-адрес",
+		"@_name": "wifi_ip_address"
+	},
+	{
+		"#text": "192.168.1.128",
+		"@_name": "wifi_ip_address_hint"
+	},
+	{
+		"#text": "Настройки IP-адреса",
+		"@_name": "wifi_ip_settings"
+	},
+	{
+		"#text": "Введите действительный DNS-адрес.",
+		"@_name": "wifi_ip_settings_invalid_dns"
+	},
+	{
+		"#text": "Введите действительный адрес шлюза.",
+		"@_name": "wifi_ip_settings_invalid_gateway"
+	},
+	{
+		"#text": "Введите действительный IP-адрес.",
+		"@_name": "wifi_ip_settings_invalid_ip_address"
+	},
+	{
+		"#text": "Укажите длину префикса сети (от 0 до 32 цифр).",
+		"@_name": "wifi_ip_settings_invalid_network_prefix_length"
+	},
+	{
+		"#text": "Расширенные",
+		"@_name": "wifi_menu_advanced"
+	},
+	{
+		"#text": "Подключиться к сети",
+		"@_name": "wifi_menu_connect"
+	},
+	{
+		"#text": "Удалить эту сеть",
+		"@_name": "wifi_menu_forget"
+	},
+	{
+		"#text": "Изменить пароль",
+		"@_name": "wifi_menu_modify"
+	},
+	{
+		"#text": "P2P",
+		"@_name": "wifi_menu_p2p"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "wifi_menu_scan"
+	},
+	{
+		"#text": "Использовать WPS",
+		"@_name": "wifi_menu_wps_pbc"
+	},
+	{
+		"#text": "Ввод PIN-кода WPS",
+		"@_name": "wifi_menu_wps_pin"
+	},
+	{
+		"#text": "Запись NFC-меток",
+		"@_name": "wifi_menu_write_to_nfc"
+	},
+	{
+		"#text": "Metered",
+		"@_name": "wifi_metered_label"
+	},
+	{
+		"#text": "Длина префикса сети",
+		"@_name": "wifi_network_prefix_length"
+	},
+	{
+		"#text": 24,
+		"@_name": "wifi_network_prefix_length_hint"
+	},
+	{
+		"#text": "Подключение к Интернету отсутствует и не будет восстановлено автоматически.",
+		"@_name": "wifi_no_internet"
+	},
+	{
+		"#text": "Не подключится автоматически",
+		"@_name": "wifi_no_internet_no_reconnect"
+	},
+	{
+		"#text": "Недоступно",
+		"@_name": "wifi_not_in_range"
+	},
+	{
+		"#text": "Уведомления о сетях",
+		"@_name": "wifi_notify_open_networks"
+	},
+	{
+		"#text": "Оповещать при обнаружении открытой сети",
+		"@_name": "wifi_notify_open_networks_summary"
+	},
+	{
+		"#text": "Вы хотите отклонить запрос на сопряжение с устройством «%1$s»?",
+		"@_name": "wifi_p2p_cancel_connect_message"
+	},
+	{
+		"#text": "Отклонить запрос?",
+		"@_name": "wifi_p2p_cancel_connect_title"
+	},
+	{
+		"#text": "Удалить эту группу?",
+		"@_name": "wifi_p2p_delete_group_message"
+	},
+	{
+		"#text": "При отключении, ваше соединение с устройством «%1$s» будет разорвано.",
+		"@_name": "wifi_p2p_disconnect_message"
+	},
+	{
+		"#text": "После отключения, ваше соединение с устройством «%1$s» и другими устройствами (%2$s) будет разорвано.",
+		"@_name": "wifi_p2p_disconnect_multiple_message"
+	},
+	{
+		"#text": "Отключить?",
+		"@_name": "wifi_p2p_disconnect_title"
+	},
+	{
+		"#text": "Не удалось переименовать устройство.",
+		"@_name": "wifi_p2p_failed_rename_message"
+	},
+	{
+		"#text": "Переименовать устройство",
+		"@_name": "wifi_p2p_menu_rename"
+	},
+	{
+		"#text": "Поиск устройств",
+		"@_name": "wifi_p2p_menu_search"
+	},
+	{
+		"#text": "Поиск…",
+		"@_name": "wifi_p2p_menu_searching"
+	},
+	{
+		"#text": "Обнаруженные устройства",
+		"@_name": "wifi_p2p_peer_devices"
+	},
+	{
+		"#text": "Сохраненные группы",
+		"@_name": "wifi_p2p_remembered_groups"
+	},
+	{
+		"#text": "P2P",
+		"@_name": "wifi_p2p_settings_title"
+	},
+	{
+		"#text": "Пароль",
+		"@_name": "wifi_password"
+	},
+	{
+		"#text": "Неверный пароль",
+		"@_name": "wifi_password_error_hint"
+	},
+	{
+		"#text": "Включить Wi-Fi",
+		"@_name": "wifi_quick_toggle_summary"
+	},
+	{
+		"#text": "Сохранено",
+		"@_name": "wifi_remembered"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "wifi_save"
+	},
+	{
+		"#text": "Сохраненные сети",
+		"@_name": "wifi_saved_access_points_label"
+	},
+	{
+		"#text": "Сохраненные сети",
+		"@_name": "wifi_saved_access_points_titlebar"
+	},
+	{
+		"#text": "Поиск сетей всегда включен",
+		"@_name": "wifi_scan_always_available"
+	},
+	{
+		"#text": "Разрешить службам геолокации Google и другим приложениям выполнять поиск сетей, даже когда модуль Wi-Fi отключен",
+		"@_name": "wifi_scan_always_available_summary"
+	},
+	{
+		"#text": "Приложения могут выполнять поиск сетей поблизости, даже когда модуль Wi-Fi отключен. Чтобы изменить эти настройки, перейдите в меню «Расширенные > Поиск сетей всегда включен».",
+		"@_name": "wifi_scan_notify_text_location_off"
+	},
+	{
+		"#text": "Чтобы точнее определять местоположение, а также и в других целях, службы Google и другие приложения могут выполнять поиск доступных сетей, даже когда модуль Wi-Fi отключен. Изменить настройки можно в меню «Расширенные > Поиск сетей всегда включен».",
+		"@_name": "wifi_scan_notify_text_location_on"
+	},
+	{
+		"#text": "Безопасность",
+		"@_name": "wifi_security"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_dpp"
+	},
+	{
+		"#text": "802.1x EAP",
+		"@_name": "wifi_security_eap"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "wifi_security_none"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_owe"
+	},
+	{
+		"#text": "Пропускной пункт",
+		"@_name": "wifi_security_passpoint"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_sae"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_short_dpp"
+	},
+	{
+		"#text": "802.1x",
+		"@_name": "wifi_security_short_eap"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_short_owe"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_short_sae"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_short_wep"
+	},
+	{
+		"#text": "WPA",
+		"@_name": "wifi_security_short_wpa"
+	},
+	{
+		"#text": "WPA2",
+		"@_name": "wifi_security_short_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2",
+		"@_name": "wifi_security_short_wpa_wpa2"
+	},
+	{
+		"#text": "WAPI CERT",
+		"@_name": "wifi_security_wapi_cert"
+	},
+	{
+		"#text": "Сертификат WAPI",
+		"@_name": "wifi_security_wapi_certificate"
+	},
+	{
+		"#text": "WAPI PSK",
+		"@_name": "wifi_security_wapi_psk"
+	},
+	{
+		"#text": "WAPI PSK ASCII",
+		"@_name": "wifi_security_wapi_psk_ascii"
+	},
+	{
+		"#text": "WAPI PSK (шестнадцатерич.)",
+		"@_name": "wifi_security_wapi_psk_hexadecimal"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_wep"
+	},
+	{
+		"#text": "WPA PSK",
+		"@_name": "wifi_security_wpa"
+	},
+	{
+		"#text": "WPA2 PSK",
+		"@_name": "wifi_security_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2 PSK",
+		"@_name": "wifi_security_wpa_wpa2"
+	},
+	{
+		"#text": "Выбор ассистента",
+		"@_name": "wifi_select_assistant_dialog_title"
+	},
+	{
+		"#text": "Выбор сети Wi-Fi",
+		"@_name": "wifi_select_network"
+	},
+	{
+		"#text": "При настройке полосы частот возникла неполадка.",
+		"@_name": "wifi_setting_frequency_band_error"
+	},
+	{
+		"#text": "Укажите рабочий диапазон частот",
+		"@_name": "wifi_setting_frequency_band_summary"
+	},
+	{
+		"#text": "Диапазон частот Wi-Fi",
+		"@_name": "wifi_setting_frequency_band_title"
+	},
+	{
+		"#text": "Не удалось изменить этот параметр",
+		"@_name": "wifi_setting_sleep_policy_error"
+	},
+	{
+		"#text": "Отключение Wi-Fi при блокировке экрана",
+		"@_name": "wifi_setting_sleep_policy_title"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "wifi_settings"
+	},
+	{
+		"#text": "Настройки Wi-Fi",
+		"@_name": "wifi_settings_category"
+	},
+	{
+		"#text": "Автонастройка (WPS)",
+		"@_name": "wifi_setup_wps"
+	},
+	{
+		"#text": "Расширенные настройки",
+		"@_name": "wifi_show_advanced"
+	},
+	{
+		"#text": "Показать пароль",
+		"@_name": "wifi_show_password"
+	},
+	{
+		"#text": "Уровень сигнала",
+		"@_name": "wifi_signal"
+	},
+	{
+		"#text": "Скорость сети",
+		"@_name": "wifi_speed"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "wifi_ssid"
+	},
+	{
+		"#text": "Введите имя сети (SSID)",
+		"@_name": "wifi_ssid_hint"
+	},
+	{
+		"#text": "Включение Wi-Fi…",
+		"@_name": "wifi_starting"
+	},
+	{
+		"#text": "Статус сети",
+		"@_name": "wifi_status"
+	},
+	{
+		"#text": "MAC is randomized",
+		"@_name": "wifi_status_mac_randomized"
+	},
+	{
+		"#text": "\"Can't access the internet\"",
+		"@_name": "wifi_status_no_internet"
+	},
+	{
+		"#text": "Sign in required",
+		"@_name": "wifi_status_sign_in_required"
+	},
+	{
+		"#text": "Отключение Wi-Fi…",
+		"@_name": "wifi_stopping"
+	},
+	{
+		"#text": "Уменьшить энергопотребление при использовании Wi-Fi",
+		"@_name": "wifi_suspend_optimizations_summary"
+	},
+	{
+		"#text": "Общий доступ к мобильной сети",
+		"@_name": "wifi_tether_checkbox_text"
+	},
+	{
+		"#text": "Настроить точку доступа Wi-Fi",
+		"@_name": "wifi_tether_configure_ap_text"
+	},
+	{
+		"#text": "Хот-спот Android",
+		"@_name": "wifi_tether_configure_ssid_default"
+	},
+	{
+		"#text": "%1$s %2$s точка доступа Wi-Fi",
+		"@_name": "wifi_tether_configure_subtext"
+	},
+	{
+		"#text": "Точка доступа (%1$s) активна",
+		"@_name": "wifi_tether_enabled_subtext"
+	},
+	{
+		"#text": "Включение точки доступа…",
+		"@_name": "wifi_tether_starting"
+	},
+	{
+		"#text": "Отключение точки доступа…",
+		"@_name": "wifi_tether_stopping"
+	},
+	{
+		"#text": "Не изменено",
+		"@_name": "wifi_unchanged"
+	},
+	{
+		"#text": "Unmetered",
+		"@_name": "wifi_unmetered_label"
+	},
+	{
+		"#text": "Не указано",
+		"@_name": "wifi_unspecified"
+	},
+	{
+		"#text": "Подробный журнал Wi-Fi",
+		"@_name": "wifi_verbose_logging"
+	},
+	{
+		"#text": "Увеличьте уровень ведения журнала Wi-Fi, показывая SSID RSSI в Wi-Fi Picker",
+		"@_name": "wifi_verbose_logging_summary"
+	},
+	{
+		"#text": "Тип пароля",
+		"@_name": "wifi_wapi_psk_type"
+	},
+	{
+		"#text": "Установка сертификата",
+		"@_name": "wifi_wapicertmanager"
+	},
+	{
+		"#text": "WPS включен. Подключение к сети…",
+		"@_name": "wifi_wps_complete"
+	},
+	{
+		"#text": "Подключено к сети Wi-Fi (%s)",
+		"@_name": "wifi_wps_connected"
+	},
+	{
+		"#text": "Ошибка активации WPS. Пожалуйста, повторите попытку через несколько минут.",
+		"@_name": "wifi_wps_failed_generic"
+	},
+	{
+		"#text": "Обнаружен другой сеанс WPS. Пожалуйста, повторите попытку через несколько минут.",
+		"@_name": "wifi_wps_failed_overlap"
+	},
+	{
+		"#text": "Безопасная настройка беспроводного маршрутизатора (TKIP) не поддерживается",
+		"@_name": "wifi_wps_failed_tkip"
+	},
+	{
+		"#text": "Безопасная настройка беспроводного маршрутизатора (WEP) не поддерживается",
+		"@_name": "wifi_wps_failed_wep"
+	},
+	{
+		"#text": "Выполняется настройка WPS. Для завершения потребуется не более двух минут.",
+		"@_name": "wifi_wps_in_progress"
+	},
+	{
+		"#text": "Нажмите кнопку безопасной настройки Wi-Fi на маршрутизаторе. Она может называться «WPS» или быть обозначена следующим символом:",
+		"@_name": "wifi_wps_onstart_pbc"
+	},
+	{
+		"#text": "Введите PIN-код (%1$s) на вашем Wi-Fi роутере. Завершение настройки займет не более двух минут.",
+		"@_name": "wifi_wps_onstart_pin"
+	},
+	{
+		"#text": "Запуск WPS…",
+		"@_name": "wifi_wps_setup_msg"
+	},
+	{
+		"#text": "Анимация окон",
+		"@_name": "window_animation_scale_title"
+	},
+	{
+		"#text": "Сеть Wi-Fi",
+		"@_name": "wlan"
+	},
+	{
+		"#text": "Да",
+		"@_name": "yes"
+	},
+	{
+		"#text": "\"You won't hear your next alarm %1$s\"",
+		"@_name": "zen_alarm_warning"
+	},
+	{
+		"#text": "\"You won't hear your next alarm %1$s unless you turn this off before then\"",
+		"@_name": "zen_alarm_warning_indef"
+	},
+	{
+		"#text": "Priority only",
+		"@_name": "zen_interruption_level_priority"
+	},
+	{
+		"#text": "%1$s. %2$s",
+		"@_name": "zen_mode_and_condition"
+	},
+	{
+		"#text": "Ask every time",
+		"@_name": "zen_mode_duration_always_prompt_title"
+	},
+	{
+		"#text": "Duration",
+		"@_name": "zen_mode_duration_settings_title"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "zen_mode_enable_dialog_turn_on"
+	},
+	{
+		"#text": "Never",
+		"@_name": "zen_mode_settings_summary_off"
+	},
+	{
+		"#text": "Turn on Do Not Disturb",
+		"@_name": "zen_mode_settings_turn_on_dialog_title"
+	}
+]

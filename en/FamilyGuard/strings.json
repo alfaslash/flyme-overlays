@@ -1,0 +1,2645 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "KeepConfiguationContext",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "Character limit exceeded %1$d of %2$d",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Advanced",
+		"@_name": "expand_button_title"
+	},
+	{
+		"#text": "android.support.design.transformation.FabTransformationScrimBehavior",
+		"@_name": "fab_transformation_scrim_behavior"
+	},
+	{
+		"#text": "android.support.design.transformation.FabTransformationSheetBehavior",
+		"@_name": "fab_transformation_sheet_behavior"
+	},
+	{
+		"#text": "About Family Guard",
+		"@_name": "fg_about"
+	},
+	{
+		"#text": "\"Preventing spam calls/SMS, resolving phone issues, and tracking your families' position to avoid getting lost\"",
+		"@_name": "fg_ad_sub_title"
+	},
+	{
+		"#text": "@string/fg_app_name",
+		"@_name": "fg_ad_title"
+	},
+	{
+		"#text": "Family Guard",
+		"@_name": "fg_app_name"
+	},
+	{
+		"#text": "%1$s Time out",
+		"@_name": "fg_app_usage_timeout"
+	},
+	{
+		"#text": "Mon",
+		"@_name": "fg_common_1"
+	},
+	{
+		"#text": "Tues",
+		"@_name": "fg_common_2"
+	},
+	{
+		"#text": "Wed",
+		"@_name": "fg_common_3"
+	},
+	{
+		"#text": "Thur",
+		"@_name": "fg_common_4"
+	},
+	{
+		"#text": "Fri",
+		"@_name": "fg_common_5"
+	},
+	{
+		"#text": "Add",
+		"@_name": "fg_common_add"
+	},
+	{
+		"#text": "@android:string/cancel",
+		"@_name": "fg_common_cancel"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "fg_common_continue"
+	},
+	{
+		"@_name": "fg_common_count"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "fg_common_delete"
+	},
+	{
+		"#text": "Enter",
+		"@_name": "fg_common_enter"
+	},
+	{
+		"#text": "Guarded",
+		"@_name": "fg_common_guarded"
+	},
+	{
+		"#text": "He",
+		"@_name": "fg_common_he"
+	},
+	{
+		"#text": "She",
+		"@_name": "fg_common_her"
+	},
+	{
+		"#text": "She",
+		"@_name": "fg_common_her2"
+	},
+	{
+		"#text": "He",
+		"@_name": "fg_common_him"
+	},
+	{
+		"#text": "He",
+		"@_name": "fg_common_his"
+	},
+	{
+		"#text": "Ignore all",
+		"@_name": "fg_common_ignore_all"
+	},
+	{
+		"#text": "Connecting, please wait...",
+		"@_name": "fg_common_loading"
+	},
+	{
+		"#text": "Network error. Try later",
+		"@_name": "fg_common_network_exception"
+	},
+	{
+		"#text": "@android:string/ok",
+		"@_name": "fg_common_ok"
+	},
+	{
+		"#text": "Enter Family Guard",
+		"@_name": "fg_common_open_app"
+	},
+	{
+		"#text": "Save",
+		"@_name": "fg_common_save"
+	},
+	{
+		"#text": "She",
+		"@_name": "fg_common_she"
+	},
+	{
+		"#text": "Family Guard needs to access the internet and your location, take photos and videos, read your contacts, and send/receive SMS to help families identify spam calls/SMS, share location, get remote support and use anti-addiction",
+		"@_name": "fg_cta_message"
+	},
+	{
+		"#text": "%d sec",
+		"@_name": "fg_duration_format1"
+	},
+	{
+		"#text": "%d min %d sec",
+		"@_name": "fg_duration_format2",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%d h %d m %d s",
+		"@_name": "fg_duration_format3",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%d h %d m",
+		"@_name": "fg_duration_format_h_m",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%d min",
+		"@_name": "fg_duration_format_m"
+	},
+	{
+		"#text": "Too frequently to get code",
+		"@_name": "fg_error_login_code_frequently"
+	},
+	{
+		"#text": "Invalid verification code",
+		"@_name": "fg_error_login_code_invalid"
+	},
+	{
+		"#text": "Wrong format of phone number",
+		"@_name": "fg_error_phone_format_invalid"
+	},
+	{
+		"#text": "Unknown error",
+		"@_name": "fg_error_unknown"
+	},
+	{
+		"#text": "User does not exist",
+		"@_name": "fg_error_user_not_exist"
+	},
+	{
+		"#text": "Flyme 8 guardian function updating",
+		"@_name": "fg_function_updating"
+	},
+	{
+		"#text": "Open Family Guard of the protected one > Select Family Guard Me",
+		"@_name": "fg_guard_summary"
+	},
+	{
+		"#text": "Scan QR code of the protected",
+		"@_name": "fg_guard_title"
+	},
+	{
+		"#text": "Remote Support",
+		"@_name": "fg_header_remote"
+	},
+	{
+		"#text": "You can help %s to resolve phone issues remotely",
+		"@_name": "fg_header_watch_data_master_desc"
+	},
+	{
+		"#text": "If any problem, you can ask %s remotely",
+		"@_name": "fg_header_watch_data_salve_desc"
+	},
+	{
+		"#text": "%s starts to guard you remotely",
+		"@_name": "fg_header_watch_date_salve_one"
+	},
+	{
+		"#text": "%s has guarded you for %d days",
+		"@_name": "fg_header_watch_date_salve_other",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "You have been guarded by other family members. If you want to establish a new guard relationship, please dissolve the existing relationship and accept the guard request",
+		"@_name": "fg_invite_error1"
+	},
+	{
+		"#text": "You are already a guardian. If you want to be guarded by the other party, please dissolve the existing relationship and accept the request",
+		"@_name": "fg_invite_error2"
+	},
+	{
+		"#text": "%1$s is already in a Family Guard. If you want to guard %1$s, please ask %2$s to dissolve the existing guard relationship and re-accept your request",
+		"@_name": "fg_invite_error3"
+	},
+	{
+		"#text": "You can enter Family Guard and send request to your family",
+		"@_name": "fg_invite_error4"
+	},
+	{
+		"#text": "You have guarded the maximum number of family members, so you cannot protect more",
+		"@_name": "fg_invite_error5"
+	},
+	{
+		"#text": "The invitee has guarded the maximum number of family members, so you cannot join in. Please choose another family member to guard you",
+		"@_name": "fg_invite_error6"
+	},
+	{
+		"#text": "Unable to accept request",
+		"@_name": "fg_invite_error_title_1"
+	},
+	{
+		"#text": "@string/fg_invite_error_title_1",
+		"@_name": "fg_invite_error_title_2"
+	},
+	{
+		"#text": "Request failed",
+		"@_name": "fg_invite_error_title_3"
+	},
+	{
+		"#text": "Request expired",
+		"@_name": "fg_invite_error_title_4"
+	},
+	{
+		"#text": "@string/fg_invite_error_title_3",
+		"@_name": "fg_invite_error_title_5"
+	},
+	{
+		"#text": "@string/fg_invite_error_title_3",
+		"@_name": "fg_invite_error_title_6"
+	},
+	{
+		"#text": "Sure to delete the secure zone?",
+		"@_name": "fg_location_geofence_delete"
+	},
+	{
+		"#text": "\"Set the area around your home/school as secure zone, \nTo remind you when your families enter and exit the secure zones\"",
+		"@_name": "fg_location_geofence_details"
+	},
+	{
+		"#text": "Edit secure zone",
+		"@_name": "fg_location_geofence_edit"
+	},
+	{
+		"#text": "Within the secure zone",
+		"@_name": "fg_location_geofence_enter"
+	},
+	{
+		"#text": "Outside the secure zone",
+		"@_name": "fg_location_geofence_exit"
+	},
+	{
+		"#text": "Secure zone",
+		"@_name": "fg_location_geofence_list_title"
+	},
+	{
+		"#text": "%d meters",
+		"@_name": "fg_location_geofence_meter"
+	},
+	{
+		"#text": "Company",
+		"@_name": "fg_location_geofence_name_company"
+	},
+	{
+		"#text": "Secure zone %s",
+		"@_name": "fg_location_geofence_name_generate"
+	},
+	{
+		"#text": "Name",
+		"@_name": "fg_location_geofence_name_hint"
+	},
+	{
+		"#text": "Home",
+		"@_name": "fg_location_geofence_name_home"
+	},
+	{
+		"#text": "Park",
+		"@_name": "fg_location_geofence_name_park"
+	},
+	{
+		"#text": "School",
+		"@_name": "fg_location_geofence_name_school"
+	},
+	{
+		"#text": "Secure zone name",
+		"@_name": "fg_location_geofence_name_title"
+	},
+	{
+		"#text": "Center",
+		"@_name": "fg_location_geofence_position"
+	},
+	{
+		"#text": "Center:",
+		"@_name": "fg_location_geofence_position_colon"
+	},
+	{
+		"#text": "Safety radius",
+		"@_name": "fg_location_geofence_radius"
+	},
+	{
+		"#text": "Safety radius:",
+		"@_name": "fg_location_geofence_radius_colon"
+	},
+	{
+		"#text": "Add secure zone",
+		"@_name": "fg_location_geofence_title"
+	},
+	{
+		"#text": "Locating, please wait...",
+		"@_name": "fg_location_loading"
+	},
+	{
+		"#text": "No apps available",
+		"@_name": "fg_location_map_no_found"
+	},
+	{
+		"#text": "No location information",
+		"@_name": "fg_location_no_address"
+	},
+	{
+		"#text": "No location, you can manually update it",
+		"@_name": "fg_location_none"
+	},
+	{
+		"#text": "No location",
+		"@_name": "fg_location_poi_empty"
+	},
+	{
+		"#text": "Navigate to",
+		"@_name": "fg_location_route"
+	},
+	{
+		"#text": "Share address",
+		"@_name": "fg_location_share"
+	},
+	{
+		"#text": "%s current location: %s",
+		"@_name": "fg_location_share_subtitle",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Family Guard > View Location Details",
+		"@_name": "fg_location_share_title"
+	},
+	{
+		"#text": "Location access successful",
+		"@_name": "fg_location_success"
+	},
+	{
+		"#text": "Requests too frequent. Please wait...",
+		"@_name": "fg_location_too_frequently"
+	},
+	{
+		"#text": "Track",
+		"@_name": "fg_location_trace"
+	},
+	{
+		"#text": "\"After turning it on, you can view the other party's activity of the last 24 hours, but it will increase battery consumption of the other party's phone.\"",
+		"@_name": "fg_location_trace_dialog"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "fg_location_trace_open"
+	},
+	{
+		"#text": "Update",
+		"@_name": "fg_location_update"
+	},
+	{
+		"#text": "Login",
+		"@_name": "fg_login"
+	},
+	{
+		"#text": "Enter the verification code",
+		"@_name": "fg_login_code_hint"
+	},
+	{
+		"#text": "Get verification code",
+		"@_name": "fg_login_get_code"
+	},
+	{
+		"#text": "Enter new phone number",
+		"@_name": "fg_login_input_new_phone_hint"
+	},
+	{
+		"#text": "Enter your phone number",
+		"@_name": "fg_login_input_phone_hint"
+	},
+	{
+		"#text": "Reacquire",
+		"@_name": "fg_login_regain_code"
+	},
+	{
+		"#text": "Instantly informed when your family get spam calls/SMS",
+		"@_name": "fg_login_sub_title"
+	},
+	{
+		"#text": "Login with phone number",
+		"@_name": "fg_login_title"
+	},
+	{
+		"#text": "Change phone number",
+		"@_name": "fg_login_title_modify"
+	},
+	{
+		"#text": "Digital health",
+		"@_name": "fg_master_health"
+	},
+	{
+		"#text": "Anti-addiction",
+		"@_name": "fg_master_health_anti_manage"
+	},
+	{
+		"#text": "Digital health management",
+		"@_name": "fg_master_health_manage"
+	},
+	{
+		"#text": "Apply for management permissions",
+		"@_name": "fg_master_health_permission"
+	},
+	{
+		"#text": "Apply for management permissions again",
+		"@_name": "fg_master_health_permission_again"
+	},
+	{
+		"#text": "\"Get Digital Health management permissions to remotely manage and control the protected one's phone\"",
+		"@_name": "fg_master_health_permission_dialog"
+	},
+	{
+		"#text": "Apply for management permissions again (%s sec)",
+		"@_name": "fg_master_health_permission_sending"
+	},
+	{
+		"#text": "Remaining battery",
+		"@_name": "fg_master_us_battery"
+	},
+	{
+		"#text": "Data error",
+		"@_name": "fg_master_us_getting_fail"
+	},
+	{
+		"#text": "Accessing data...",
+		"@_name": "fg_master_us_loading"
+	},
+	{
+		"#text": "Pickup times",
+		"@_name": "fg_master_us_pickup"
+	},
+	{
+		"#text": "App daily usage",
+		"@_name": "fg_master_us_summary_title"
+	},
+	{
+		"#text": "Apps unused today",
+		"@_name": "fg_master_us_summary_title_empty"
+	},
+	{
+		"#text": "Usage Time",
+		"@_name": "fg_master_us_time"
+	},
+	{
+		"#text": "Network error. Try later",
+		"@_name": "fg_network_exception"
+	},
+	{
+		"#text": "Guide family to use the phone",
+		"@_name": "fg_new_feature_anti_sub_title"
+	},
+	{
+		"#text": "Upgrade anti-addiction",
+		"@_name": "fg_new_feature_anti_title"
+	},
+	{
+		"#text": "Set secure zones to prevent families from getting lost",
+		"@_name": "fg_new_feature_geo_sub_title"
+	},
+	{
+		"#text": "Add secure zone",
+		"@_name": "fg_new_feature_geo_title"
+	},
+	{
+		"#text": "Do not miss any security alert",
+		"@_name": "fg_new_feature_timeline_sub_title"
+	},
+	{
+		"#text": "Upgrade Security Tips",
+		"@_name": "fg_new_feature_timeline_title"
+	},
+	{
+		"#text": "Welcome to Family Guard",
+		"@_name": "fg_new_feature_title"
+	},
+	{
+		"#text": "\"SIM card is required for verification\nand phone number for emergency\"",
+		"@_name": "fg_no_sim_card_description"
+	},
+	{
+		"#text": "Please insert SIM card",
+		"@_name": "fg_no_sim_card_title"
+	},
+	{
+		"#text": "Ignore this time",
+		"@_name": "fg_notify_action_ignore"
+	},
+	{
+		"#text": "View location",
+		"@_name": "fg_notify_action_location"
+	},
+	{
+		"#text": "Open the app",
+		"@_name": "fg_notify_action_open_app"
+	},
+	{
+		"#text": "Apply again",
+		"@_name": "fg_notify_action_request_again"
+	},
+	{
+		"#text": "View details",
+		"@_name": "fg_notify_action_view_Details"
+	},
+	{
+		"#text": "%s arrived at %s",
+		"@_name": "fg_notify_geofence_enter",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s left %s",
+		"@_name": "fg_notify_geofence_exit",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s has successfully established a guard relationship with you",
+		"@_name": "fg_notify_qrcode_success"
+	},
+	{
+		"#text": "If any phone issues, you can ask %s remotely",
+		"@_name": "fg_notify_qrcode_success_desc"
+	},
+	{
+		"#text": "Please contact %s to learn more",
+		"@_name": "fg_notify_quite_ask"
+	},
+	{
+		"#text": "You have successfully established a guard relationship with %s",
+		"@_name": "fg_notify_relation_invite_agree"
+	},
+	{
+		"#text": "\"View %s's phone usage\"",
+		"@_name": "fg_notify_relation_invite_agree_des"
+	},
+	{
+		"#text": "%s denied joining my Family Guard",
+		"@_name": "fg_notify_relation_invite_reject"
+	},
+	{
+		"#text": "%s exited Family Guard",
+		"@_name": "fg_notify_relation_quite_master"
+	},
+	{
+		"#text": "%s removed you from Family Guard",
+		"@_name": "fg_notify_relation_quite_salve"
+	},
+	{
+		"#text": "Start",
+		"@_name": "fg_relation_inviting_begin"
+	},
+	{
+		"#text": "Please fill in the relationship between %s and you",
+		"@_name": "fg_relation_inviting_custom_sub_title"
+	},
+	{
+		"#text": "Guard my other families",
+		"@_name": "fg_relation_inviting_custom_title"
+	},
+	{
+		"#text": "Faraway",
+		"@_name": "fg_relation_inviting_main_faraway"
+	},
+	{
+		"#text": "Nearby",
+		"@_name": "fg_relation_inviting_main_nearby"
+	},
+	{
+		"#text": "\"It's required that the other party use a Meizu phone\"",
+		"@_name": "fg_relation_inviting_main_sub_title"
+	},
+	{
+		"#text": "Buy",
+		"@_name": "fg_relation_inviting_main_sub_title2"
+	},
+	{
+		"#text": "Is the family to be guarded around?",
+		"@_name": "fg_relation_inviting_main_title"
+	},
+	{
+		"#text": "My role",
+		"@_name": "fg_relation_inviting_master_name"
+	},
+	{
+		"#text": "Who are you to him? E.g. Grandson",
+		"@_name": "fg_relation_inviting_master_name_hint"
+	},
+	{
+		"#text": "Who are you to her? E.g. Granddaughter",
+		"@_name": "fg_relation_inviting_master_name_hint2"
+	},
+	{
+		"#text": "Define your role",
+		"@_name": "fg_relation_inviting_master_sub_title"
+	},
+	{
+		"#text": "You want to guard %s, I am?",
+		"@_name": "fg_relation_inviting_master_title"
+	},
+	{
+		"#text": "Next",
+		"@_name": "fg_relation_inviting_next"
+	},
+	{
+		"#text": "Please input the number of %s",
+		"@_name": "fg_relation_inviting_phone_sub_title"
+	},
+	{
+		"#text": "I am %1$s, I want to guard %2$s",
+		"@_name": "fg_relation_inviting_phone_title"
+	},
+	{
+		"#text": "I want to guard %s",
+		"@_name": "fg_relation_inviting_phone_title_lover"
+	},
+	{
+		"#text": "Tap Guard My Family &amp;gt; Select Nearby &amp;gt; Scan",
+		"@_name": "fg_relation_inviting_salve_add_master_sub_title"
+	},
+	{
+		"#text": "Ask family to scan Family Guard code",
+		"@_name": "fg_relation_inviting_salve_add_master_title"
+	},
+	{
+		"#text": "Ask families to protect me via WeChat",
+		"@_name": "fg_relation_inviting_salve_add_master_wechart"
+	},
+	{
+		"#text": "Cannot be modified after selected",
+		"@_name": "fg_relation_inviting_salver_sub_title"
+	},
+	{
+		"#text": "Who you want to guard?",
+		"@_name": "fg_relation_inviting_salver_title"
+	},
+	{
+		"#text": "Send request",
+		"@_name": "fg_relation_inviting_send"
+	},
+	{
+		"#text": "%s addressed by",
+		"@_name": "fg_relation_inviting_srole_name"
+	},
+	{
+		"#text": "Who is he to you? E.g. Grandpa",
+		"@_name": "fg_relation_inviting_srole_name_hint"
+	},
+	{
+		"#text": "Who is she to you? E.g. Grandma",
+		"@_name": "fg_relation_inviting_srole_name_hint2"
+	},
+	{
+		"#text": "Scan",
+		"@_name": "fg_relation_inviting_via_qrcode"
+	},
+	{
+		"#text": "SMS request",
+		"@_name": "fg_relation_inviting_via_sms"
+	},
+	{
+		"#text": "Ask you to guard me, prevent me from spam calls/SMS and getting lost, and remotely resolve my phone issues",
+		"@_name": "fg_relation_inviting_wx_title"
+	},
+	{
+		"#text": "Me",
+		"@_name": "fg_relation_manager"
+	},
+	{
+		"#text": "Tap to edit number",
+		"@_name": "fg_relation_manager_account_sub_title"
+	},
+	{
+		"#text": "Dissolve",
+		"@_name": "fg_relation_manager_delete"
+	},
+	{
+		"#text": "Unable to remotely guard %s after dissolving the relationship. Continue?",
+		"@_name": "fg_relation_manager_delete_dialog_title"
+	},
+	{
+		"#text": "Family info",
+		"@_name": "fg_relation_manager_detail"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "fg_relation_manager_logout"
+	},
+	{
+		"#text": "You will not receive family security alerts after you exit",
+		"@_name": "fg_relation_manager_logout_dialog_msg"
+	},
+	{
+		"#text": "Exit the Family Guard?",
+		"@_name": "fg_relation_manager_logout_dialog_title"
+	},
+	{
+		"#text": "Dissolved successfully",
+		"@_name": "fg_relation_master_delete_success"
+	},
+	{
+		"#text": "Modified successfully",
+		"@_name": "fg_relation_master_update_success"
+	},
+	{
+		"#text": "To dissolve the relationship, you need to send a request to the guardian. Continue?",
+		"@_name": "fg_relation_salve_child_delete"
+	},
+	{
+		"#text": "Succeeded",
+		"@_name": "fg_relation_salve_child_delete_success"
+	},
+	{
+		"#text": "%s cannot protect you from spam calls/SMS or remotely resolve phone issues after you exit Family Guard.",
+		"@_name": "fg_relation_salve_delete"
+	},
+	{
+		"#text": "Exited successfully",
+		"@_name": "fg_relation_salve_delete_success"
+	},
+	{
+		"#text": "Guarded for %d days",
+		"@_name": "fg_relation_watch_days"
+	},
+	{
+		"#text": "Ask %s for remote support?",
+		"@_name": "fg_remote_master_launch"
+	},
+	{
+		"#text": "Resolve now",
+		"@_name": "fg_remote_notify_master_action"
+	},
+	{
+		"#text": "\"The other party asked you to control %1$s's phone to help %2$s resolve phone issues\"",
+		"@_name": "fg_remote_notify_master_sub_title"
+	},
+	{
+		"#text": "%s request remote support",
+		"@_name": "fg_remote_notify_master_title"
+	},
+	{
+		"#text": "Agree now",
+		"@_name": "fg_remote_notify_salve_action"
+	},
+	{
+		"#text": "The other party requested to control your phone for solving problems",
+		"@_name": "fg_remote_notify_salve_sub_title"
+	},
+	{
+		"#text": "%s asked for remote support",
+		"@_name": "fg_remote_notify_salve_title"
+	},
+	{
+		"#text": "Ask %s to resolve my phone issues?",
+		"@_name": "fg_remote_salve_launch"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "fg_retry"
+	},
+	{
+		"#text": "Daughter",
+		"@_name": "fg_role_daughter"
+	},
+	{
+		"#text": "Family",
+		"@_name": "fg_role_family"
+	},
+	{
+		"#text": "Dad",
+		"@_name": "fg_role_father"
+	},
+	{
+		"#text": "\"Husband's dad\"",
+		"@_name": "fg_role_father_of_husband"
+	},
+	{
+		"#text": "\"Wife's dad\"",
+		"@_name": "fg_role_father_of_wife"
+	},
+	{
+		"#text": "Husband",
+		"@_name": "fg_role_husband"
+	},
+	{
+		"#text": "Maternal grandpa",
+		"@_name": "fg_role_maternal_grandfather"
+	},
+	{
+		"#text": "Maternal grandma",
+		"@_name": "fg_role_maternal_grandmother"
+	},
+	{
+		"#text": "Mom",
+		"@_name": "fg_role_mother"
+	},
+	{
+		"#text": "\"Husband's mom\"",
+		"@_name": "fg_role_mother_of_husband"
+	},
+	{
+		"#text": "\"Wife's mom\"",
+		"@_name": "fg_role_mother_of_wife"
+	},
+	{
+		"#text": "Other",
+		"@_name": "fg_role_other_female"
+	},
+	{
+		"#text": "Other",
+		"@_name": "fg_role_other_male"
+	},
+	{
+		"#text": "Grandpa",
+		"@_name": "fg_role_paternal_grandfather"
+	},
+	{
+		"#text": "Grandma",
+		"@_name": "fg_role_paternal_grandmother"
+	},
+	{
+		"#text": "\"Daughter's 360 watch\"",
+		"@_name": "fg_role_qihoo_daughter"
+	},
+	{
+		"#text": "\"Son's 360 watch\"",
+		"@_name": "fg_role_qihoo_son"
+	},
+	{
+		"#text": "Son",
+		"@_name": "fg_role_son"
+	},
+	{
+		"#text": "Wife",
+		"@_name": "fg_role_wife"
+	},
+	{
+		"#text": "%s apply to get phone management permissions",
+		"@_name": "fg_salve_timeline_limit_permission"
+	},
+	{
+		"#text": "%s agreed on your phone management permission request",
+		"@_name": "fg_salve_timeline_limit_permission_acept"
+	},
+	{
+		"#text": "After authorization, you will not be able to set your own app usage time limit",
+		"@_name": "fg_salve_timeline_limit_permission_desc"
+	},
+	{
+		"#text": "%s denied your management permissions request",
+		"@_name": "fg_salve_timeline_limit_permission_refuse"
+	},
+	{
+		"#text": "You can apply for management permissions again",
+		"@_name": "fg_salve_timeline_limit_permission_refuse_desc"
+	},
+	{
+		"#text": "%s viewed your current location",
+		"@_name": "fg_salve_timeline_location"
+	},
+	{
+		"#text": "%s and you have established a family guard relationship",
+		"@_name": "fg_salve_timeline_relation_build_up"
+	},
+	{
+		"#text": "If any problem, you can ask %s remotely",
+		"@_name": "fg_salve_timeline_relation_build_up_desc"
+	},
+	{
+		"#text": "\"Do the following steps on the other party's phone\nOpen Family Guard > Family guard me > Ask family to scan\"",
+		"@_name": "fg_scan_result_pic_summary"
+	},
+	{
+		"#text": "Show the correct QR code",
+		"@_name": "fg_scan_result_pic_title"
+	},
+	{
+		"#text": "Both SIM cards have a family guard relationship",
+		"@_name": "fg_sim_account_select_sub_title"
+	},
+	{
+		"#text": "Select a SIM card",
+		"@_name": "fg_sim_account_select_title"
+	},
+	{
+		"#text": "Guard every family member",
+		"@_name": "fg_tail_desc"
+	},
+	{
+		"#text": "Meizu Family Guard",
+		"@_name": "fg_tail_title"
+	},
+	{
+		"#text": "Guarding",
+		"@_name": "fg_timeline"
+	},
+	{
+		"#text": "Agree",
+		"@_name": "fg_timeline_accept"
+	},
+	{
+		"#text": "Agreed",
+		"@_name": "fg_timeline_accepted"
+	},
+	{
+		"#text": "%1$s接听了%2$s",
+		"@_name": "fg_timeline_answer"
+	},
+	{
+		"#text": "%1$s，通话时长为 %2$s",
+		"@_name": "fg_timeline_answer2"
+	},
+	{
+		"#text": "Modify anti-addiction settings",
+		"@_name": "fg_timeline_anti_change_time_usage"
+	},
+	{
+		"#text": "You exited Family Guard",
+		"@_name": "fg_timeline_anti_quit_accept"
+	},
+	{
+		"#text": "%s agreed on your application",
+		"@_name": "fg_timeline_anti_quit_accept_summary"
+	},
+	{
+		"#text": "%s denied your application",
+		"@_name": "fg_timeline_anti_quit_refuse"
+	},
+	{
+		"#text": "%s applied to exit Family Guard",
+		"@_name": "fg_timeline_anti_quit_title"
+	},
+	{
+		"#text": "Block",
+		"@_name": "fg_timeline_blacklist"
+	},
+	{
+		"#text": "This number will be blocked for you and the protected family",
+		"@_name": "fg_timeline_blacklist_confirm"
+	},
+	{
+		"#text": "%1$s拨打了%2$s",
+		"@_name": "fg_timeline_call"
+	},
+	{
+		"#text": "%1$s，通话时长为 %2$s",
+		"@_name": "fg_timeline_call2"
+	},
+	{
+		"#text": "以及",
+		"@_name": "fg_timeline_connection_word"
+	},
+	{
+		"#text": "、",
+		"@_name": "fg_timeline_dayton"
+	},
+	{
+		"#text": "No records",
+		"@_name": "fg_timeline_empty"
+	},
+	{
+		"#text": "\"High risk  \"",
+		"@_name": "fg_timeline_high_risk"
+	},
+	{
+		"#text": "Location warning",
+		"@_name": "fg_timeline_location"
+	},
+	{
+		"@_name": "fg_timeline_location_count"
+	},
+	{
+		"#text": "View location details",
+		"@_name": "fg_timeline_location_details"
+	},
+	{
+		"#text": "Set secure zone",
+		"@_name": "fg_timeline_location_geofence"
+	},
+	{
+		"#text": "Locating...",
+		"@_name": "fg_timeline_location_getting"
+	},
+	{
+		"#text": "Location access failed",
+		"@_name": "fg_timeline_location_getting_fail"
+	},
+	{
+		"#text": "Updated on %s",
+		"@_name": "fg_timeline_location_getting_time"
+	},
+	{
+		"#text": "Current location",
+		"@_name": "fg_timeline_location_title"
+	},
+	{
+		"#text": "存在",
+		"@_name": "fg_timeline_mms_template_had"
+	},
+	{
+		"#text": "View history",
+		"@_name": "fg_timeline_more"
+	},
+	{
+		"#text": "View history (%d)",
+		"@_name": "fg_timeline_more_num"
+	},
+	{
+		"#text": "%s收到一条%2$s的短信",
+		"@_name": "fg_timeline_receive_sms",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "fg_timeline_refuse"
+	},
+	{
+		"#text": "Denied",
+		"@_name": "fg_timeline_refused"
+	},
+	{
+		"#text": "Unblock",
+		"@_name": "fg_timeline_restore_blacklist"
+	},
+	{
+		"#text": "Unblocked",
+		"@_name": "fg_timeline_restore_blacklist_success"
+	},
+	{
+		"#text": "Risk warning",
+		"@_name": "fg_timeline_risk"
+	},
+	{
+		"@_name": "fg_timeline_risk_count"
+	},
+	{
+		"#text": "Guardian record",
+		"@_name": "fg_timeline_salve"
+	},
+	{
+		"#text": "%s发送了一条%2$s的短信",
+		"@_name": "fg_timeline_send_sms",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "电话",
+		"@_name": "fg_timeline_tag_dialer"
+	},
+	{
+		"#text": "@string/fg_timeline",
+		"@_name": "fg_timeline_title"
+	},
+	{
+		"#text": "Modify",
+		"@_name": "fg_ui_edit"
+	},
+	{
+		"#text": "Family guard me",
+		"@_name": "fg_ui_family_guard_me"
+	},
+	{
+		"#text": "Guard my family",
+		"@_name": "fg_ui_guard_my_family"
+	},
+	{
+		"#text": "%s addressed by",
+		"@_name": "fg_ui_his_name"
+	},
+	{
+		"#text": "\"%s's phone number\"",
+		"@_name": "fg_ui_his_phone"
+	},
+	{
+		"#text": "\"%s's role\"",
+		"@_name": "fg_ui_his_role_type"
+	},
+	{
+		"#text": "\"Keep your family away from spam calls/SMS, getting lost and phone addiction\nRemotely resolve phone issues\"",
+		"@_name": "fg_ui_init_subtitle"
+	},
+	{
+		"#text": "Learn more",
+		"@_name": "fg_ui_init_subtitle2"
+	},
+	{
+		"#text": "Please input",
+		"@_name": "fg_ui_input"
+	},
+	{
+		"#text": "Optional",
+		"@_name": "fg_ui_input_optional"
+	},
+	{
+		"#text": "Please input",
+		"@_name": "fg_ui_input_required"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "fg_ui_loading"
+	},
+	{
+		"#text": "Families I guard",
+		"@_name": "fg_ui_my_family"
+	},
+	{
+		"#text": "My phone number",
+		"@_name": "fg_ui_my_phone"
+	},
+	{
+		"#text": "My role",
+		"@_name": "fg_ui_my_role_type"
+	},
+	{
+		"#text": "Please choose",
+		"@_name": "fg_ui_select"
+	},
+	{
+		"#text": "Cancel request",
+		"@_name": "fg_un_confirm_btn_delete"
+	},
+	{
+		"#text": "After canceling the request, you will not be able to remotely guard %s. Continue?",
+		"@_name": "fg_un_confirm_btn_delete_dialog_title"
+	},
+	{
+		"#text": "Request again",
+		"@_name": "fg_un_confirm_btn_re_invite"
+	},
+	{
+		"#text": "Request again (%s sec)",
+		"@_name": "fg_un_confirm_btn_re_invite_with_time"
+	},
+	{
+		"#text": "The other party cannot receive the message?",
+		"@_name": "fg_un_confirm_btn_sms_fail"
+	},
+	{
+		"#text": "Open Family Guard &amp;gt; Tap Family guard me &amp;gt; Ask families to protect me via WeChat &amp;gt; Select you to send",
+		"@_name": "fg_un_confirm_btn_sms_fail_dialog_sub_title"
+	},
+	{
+		"#text": "Ask the other party to do the following",
+		"@_name": "fg_un_confirm_btn_sms_fail_dialog_title"
+	},
+	{
+		"#text": "1. Open the Family Guard SMS request you sent in Messages",
+		"@_name": "fg_un_confirm_content_sub_tittle1"
+	},
+	{
+		"#text": "2. Tap Accept Request in the request SMS",
+		"@_name": "fg_un_confirm_content_sub_tittle2"
+	},
+	{
+		"#text": "Accept request",
+		"@_name": "fg_un_confirm_content_title"
+	},
+	{
+		"#text": "Call",
+		"@_name": "fg_un_confirm_header_call"
+	},
+	{
+		"#text": "Request sent. Please notify the other party",
+		"@_name": "fg_un_confirm_header_call_sub_title"
+	},
+	{
+		"#text": "Awaiting acceptance",
+		"@_name": "fg_un_confirm_header_call_title"
+	},
+	{
+		"#text": "if uninstall this app can not use digital health",
+		"@_name": "fg_uninstall_message"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "跳过",
+		"@_name": "guide_view__text_skip"
+	},
+	{
+		"#text": "立即开启",
+		"@_name": "guide_view_btn_cancel_text"
+	},
+	{
+		"#text": "android.support.design.behavior.HideBottomViewOnScrollBehavior",
+		"@_name": "hide_bottom_view_on_scroll_behavior"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Remove %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "summary_collapsed_preference_list"
+	},
+	{
+		"#text": "Anti-addiction",
+		"@_name": "us_addiction_prevention"
+	},
+	{
+		"#text": "Usage time is restricted after enabled",
+		"@_name": "us_addiction_prevention_des"
+	},
+	{
+		"#text": "You have delegated management permissions to %1$s, please contact %2$s to set",
+		"@_name": "us_admin_info"
+	},
+	{
+		"#text": "can set type 、 single app limit, please reset,try more function",
+		"@_name": "us_anti_addiction_salve_updated_message"
+	},
+	{
+		"#text": "Anti-addiction guardian has updated",
+		"@_name": "us_anti_addiction_salve_updated_title"
+	},
+	{
+		"#text": "Older version settings cannot be migrated, please reset",
+		"@_name": "us_anti_addiction_updated_message"
+	},
+	{
+		"#text": "Anti-addiction upgraded",
+		"@_name": "us_anti_addiction_updated_title"
+	},
+	{
+		"#text": "Anti-addiction management, you can use new function after target updated to Flyme 8",
+		"@_name": "us_anti_updated_des"
+	},
+	{
+		"#text": "App unavailable",
+		"@_name": "us_app_cant_use"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "us_app_count"
+	},
+	{
+		"#text": "%1$s usage time limit reached. Please use it tomorrow",
+		"@_name": "us_app_overtime_limit_dialog_message"
+	},
+	{
+		"#text": "%1$s%2$s is restricted from using",
+		"@_name": "us_app_total_limit_dialog_message"
+	},
+	{
+		"#text": "%1$s canceled your %2$s%3$s app daily usage time limit",
+		"@_name": "us_cancel_limit_title"
+	},
+	{
+		"#text": "%1$s usage time limit reached. Please use it tomorrow",
+		"@_name": "us_category_overtime_limit_dialog_message"
+	},
+	{
+		"#text": "%1$s app %2$s is restricted from using",
+		"@_name": "us_category_total_limit_dialog_message"
+	},
+	{
+		"#text": "\" d\"",
+		"@_name": "us_day"
+	},
+	{
+		"#text": "Most Notifications: %2$d on %1$s",
+		"@_name": "us_days_most_notifications"
+	},
+	{
+		"#text": "Expand",
+		"@_name": "us_expand"
+	},
+	{
+		"#text": "Financing",
+		"@_name": "us_financing"
+	},
+	{
+		"#text": "will be forced to close",
+		"@_name": "us_force_close"
+	},
+	{
+		"#text": "Fri",
+		"@_name": "us_fri"
+	},
+	{
+		"#text": "Game &amp; video",
+		"@_name": "us_game_and_video"
+	},
+	{
+		"#text": "h",
+		"@_name": "us_hour"
+	},
+	{
+		"#text": "Apps included",
+		"@_name": "us_include_app"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "us_known"
+	},
+	{
+		"#text": "Last 7 days",
+		"@_name": "us_last_7_days"
+	},
+	{
+		"#text": "Life",
+		"@_name": "us_life"
+	},
+	{
+		"#text": "Restricted",
+		"@_name": "us_limit"
+	},
+	{
+		"#text": "category_limit_admin_info",
+		"@_name": "us_limit_admin_info_key"
+	},
+	{
+		"#text": "limit_enable",
+		"@_name": "us_limit_enable_key"
+	},
+	{
+		"#text": "After timeout",
+		"@_name": "us_limit_over"
+	},
+	{
+		"#text": "limit_over_key",
+		"@_name": "us_limit_over_key"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "us_loading"
+	},
+	{
+		"#text": "Most Used: %1$s",
+		"@_name": "us_longest_used"
+	},
+	{
+		"#text": "Most used in a single day: %1$s",
+		"@_name": "us_longest_used_in_single_day"
+	},
+	{
+		"#text": "min",
+		"@_name": "us_minute"
+	},
+	{
+		"#text": "min",
+		"@_name": "us_minute_s"
+	},
+	{
+		"#text": "Mon",
+		"@_name": "us_mon"
+	},
+	{
+		"#text": "Most Frequently Used",
+		"@_name": "us_most_frequently_used"
+	},
+	{
+		"#text": "App",
+		"@_name": "us_most_frequently_used_app"
+	},
+	{
+		"#text": "App category",
+		"@_name": "us_most_frequently_used_category"
+	},
+	{
+		"#text": "h:00 a",
+		"@_name": "us_n_clock_12"
+	},
+	{
+		"#text": "H:00",
+		"@_name": "us_n_clock_24"
+	},
+	{
+		"#text": "News",
+		"@_name": "us_news"
+	},
+	{
+		"#text": "Unrestricted",
+		"@_name": "us_no_limit"
+	},
+	{
+		"#text": "About %1$d per day",
+		"@_name": "us_notification_day_average"
+	},
+	{
+		"#text": "About %1$d per hour",
+		"@_name": "us_notification_hour_average"
+	},
+	{
+		"#text": "app",
+		"@_name": "us_notify_category"
+	},
+	{
+		"#text": "%1$s limited to use today",
+		"@_name": "us_notify_close_message"
+	},
+	{
+		"#text": "%1$s%2$s will be closed in %3$s",
+		"@_name": "us_notify_close_title"
+	},
+	{
+		"#text": "Take a break",
+		"@_name": "us_notify_tib_message"
+	},
+	{
+		"#text": "%1$s%2$s has used %3$s",
+		"@_name": "us_notify_tib_title"
+	},
+	{
+		"#text": "will notify you",
+		"@_name": "us_notify_you"
+	},
+	{
+		"#text": "Rest day",
+		"@_name": "us_off_day"
+	},
+	{
+		"#text": "off_day_limit_key",
+		"@_name": "us_off_day_limit_key"
+	},
+	{
+		"#text": "Office",
+		"@_name": "us_office"
+	},
+	{
+		"#text": "Other",
+		"@_name": "us_other"
+	},
+	{
+		"#text": "About %1$d per day",
+		"@_name": "us_pick_up_day_average"
+	},
+	{
+		"#text": "About %1$d per hour",
+		"@_name": "us_pick_up_hour_average"
+	},
+	{
+		"#text": "Notification received",
+		"@_name": "us_receive_notification"
+	},
+	{
+		"#text": "Remaining",
+		"@_name": "us_remaining"
+	},
+	{
+		"#text": "Sat",
+		"@_name": "us_sat"
+	},
+	{
+		"#text": "School day",
+		"@_name": "us_school_day"
+	},
+	{
+		"#text": "s",
+		"@_name": "us_second"
+	},
+	{
+		"#text": "%1$s%2$s, %3$s%4$s, %5$s when timed out",
+		"@_name": "us_set_limit_content"
+	},
+	{
+		"#text": "app",
+		"@_name": "us_set_limit_content_category"
+	},
+	{
+		"#text": "App",
+		"@_name": "us_set_limit_content_package"
+	},
+	{
+		"#text": "%1$s sets your %2$s%3$s app daily usage time limit",
+		"@_name": "us_set_limit_title"
+	},
+	{
+		"#text": "Online Shopping",
+		"@_name": "us_shopping"
+	},
+	{
+		"#text": "Social networking",
+		"@_name": "us_social"
+	},
+	{
+		"#text": "Sports",
+		"@_name": "us_sport"
+	},
+	{
+		"#text": "Education",
+		"@_name": "us_study"
+	},
+	{
+		"#text": "Sun",
+		"@_name": "us_sun"
+	},
+	{
+		"#text": "This function only support Flyme 8,you can use new function after target updated",
+		"@_name": "us_support_flyme8_only_des"
+	},
+	{
+		"#text": "This function only support Flyme 8,you can use new function after target updated",
+		"@_name": "us_support_flyme8_only_des_q"
+	},
+	{
+		"#text": "This feature is available in Flyme 8 only. Please ask the other party to upgrade the system",
+		"@_name": "us_support_flyme8_only_title"
+	},
+	{
+		"#text": "System apps",
+		"@_name": "us_system_app"
+	},
+	{
+		"#text": "Tools",
+		"@_name": "us_system_tools"
+	},
+	{
+		"#text": "Pickup phone",
+		"@_name": "us_take_up_phone"
+	},
+	{
+		"#text": "com.meizu.flyme.usageStatistics",
+		"@_name": "us_task_affinity"
+	},
+	{
+		"#text": "Thur",
+		"@_name": "us_thur"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "us_times"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "us_times_t"
+	},
+	{
+		"#text": "-",
+		"@_name": "us_to"
+	},
+	{
+		"#text": "Target app version is too low,tell target to update app",
+		"@_name": "us_to_update_app"
+	},
+	{
+		"#text": "Today",
+		"@_name": "us_today"
+	},
+	{
+		"#text": "totally disabled",
+		"@_name": "us_total_limit"
+	},
+	{
+		"#text": "Tues",
+		"@_name": "us_tues"
+	},
+	{
+		"#text": "Until %s",
+		"@_name": "us_until"
+	},
+	{
+		"#text": "About %1$s per day",
+		"@_name": "us_usage_day_average"
+	},
+	{
+		"#text": "About %1$s per hour",
+		"@_name": "us_usage_hour_average"
+	},
+	{
+		"#text": "Cyber safety",
+		"@_name": "us_usage_statistics"
+	},
+	{
+		"#text": "Usage Time",
+		"@_name": "us_usage_time"
+	},
+	{
+		"#text": "Wed",
+		"@_name": "us_wed"
+	},
+	{
+		"#text": "Week",
+		"@_name": "us_week"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "us_week_total"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "us_work_day"
+	},
+	{
+		"#text": "work_day_limit_key",
+		"@_name": "us_work_day_limit_key"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "v7_preference_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "v7_preference_on"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	}
+]

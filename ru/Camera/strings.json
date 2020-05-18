@@ -1,0 +1,3445 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Alt +",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl +",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "Ввод",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Fn +",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta +",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift +",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "Пробел",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym +",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Меню +",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "SD-карта недоступна",
+		"@_name": "access_sd_fail"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "accessibility_review_cancel"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "accessibility_review_ok"
+	},
+	{
+		"#text": "Переснять",
+		"@_name": "accessibility_review_retake"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Авто",
+		"@_name": "auto"
+	},
+	{
+		"#text": "Вспышка",
+		"@_name": "auto_flash_on_hint"
+	},
+	{
+		"#text": "Камера отключена в соответствии с политикой безопасности",
+		"@_name": "camera_disabled"
+	},
+	{
+		"#text": "Ошибка камеры",
+		"@_name": "camera_error_title"
+	},
+	{
+		"#text": "Камера занята. Попробуйте позже",
+		"@_name": "cannot_connect_camera"
+	},
+	{
+		"#text": "Камера занята. Перезагрузите телефон и повторите попытку.",
+		"@_name": "cannot_connect_camera_anyway"
+	},
+	{
+		"#text": "Ошибка камеры. Повторите попытку позже или перезагрузите телефон.",
+		"@_name": "cannot_connect_camera_v2"
+	},
+	{
+		"#text": "Не удаётся загрузить изображение",
+		"@_name": "cannot_load_image"
+	},
+	{
+		"#text": "Превышен лимит символов: %1$d из %2$d",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "close"
+	},
+	{
+		"#text": "Создать круговую панораму",
+		"@_name": "create_tiny_planet"
+	},
+	{
+		"#text": "Обрезать",
+		"@_name": "crop_action"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "crop_save"
+	},
+	{
+		"#text": "Изображение после обрезки было сохранено в «%s»",
+		"@_name": "crop_saved"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "descp_accessibility_review_ok"
+	},
+	{
+		"#text": "Retake",
+		"@_name": "descp_accessibility_review_retake"
+	},
+	{
+		"#text": "Снимок",
+		"@_name": "descp_capture"
+	},
+	{
+		"#text": "10 с.",
+		"@_name": "descp_countdown_10s"
+	},
+	{
+		"#text": "3 с.",
+		"@_name": "descp_countdown_3s"
+	},
+	{
+		"#text": "5 с.",
+		"@_name": "descp_countdown_5s"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "descp_countdown_close"
+	},
+	{
+		"#text": "Текущий режим %1s",
+		"@_name": "descp_current_mode"
+	},
+	{
+		"#text": "Выйти из фильтра",
+		"@_name": "descp_filter_close"
+	},
+	{
+		"#text": "Показать",
+		"@_name": "descp_gif_play"
+	},
+	{
+		"#text": "Режим",
+		"@_name": "descp_mode"
+	},
+	{
+		"#text": "Выйти из выбора режимов",
+		"@_name": "descp_mode_close"
+	},
+	{
+		"#text": "Отмена записи",
+		"@_name": "descp_record_cancel"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "descp_record_pause"
+	},
+	{
+		"#text": "Возобновить",
+		"@_name": "descp_record_resume"
+	},
+	{
+		"#text": "Снять",
+		"@_name": "descp_record_shutter"
+	},
+	{
+		"#text": "Начать запись",
+		"@_name": "descp_record_start"
+	},
+	{
+		"#text": "Остановка записи",
+		"@_name": "descp_record_stop"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "descp_setting_back"
+	},
+	{
+		"#text": "20м",
+		"@_name": "descp_smb_20m"
+	},
+	{
+		"#text": "Тыловая камера",
+		"@_name": "descp_smb_back"
+	},
+	{
+		"#text": "Портрет",
+		"@_name": "descp_smb_fb"
+	},
+	{
+		"#text": "Фильтр",
+		"@_name": "descp_smb_filter"
+	},
+	{
+		"#text": "Вспышка",
+		"@_name": "descp_smb_flash"
+	},
+	{
+		"#text": "Фронтальная камера",
+		"@_name": "descp_smb_front"
+	},
+	{
+		"#text": "HDR",
+		"@_name": "descp_smb_hdr"
+	},
+	{
+		"#text": "Зеркало",
+		"@_name": "descp_smb_mirror"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "descp_smb_setting"
+	},
+	{
+		"#text": "Двойная камера",
+		"@_name": "descp_smb_shuangshe"
+	},
+	{
+		"#text": "Обратный отсчёт",
+		"@_name": "descp_smb_timer"
+	},
+	{
+		"#text": "Тыловая камера",
+		"@_name": "descp_switched_back"
+	},
+	{
+		"#text": "Фронтальная камера",
+		"@_name": "descp_switched_front"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "descp_take_picture"
+	},
+	{
+		"#text": "Эскиз",
+		"@_name": "descp_thumbnail"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "dialog_ok"
+	},
+	{
+		"#text": "Выбрано файлов %1$s, всего %2$sМб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Этот сайт содержит вредоносное ПО. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_COCKHORSE"
+	},
+	{
+		"#text": "На этом веб-сайте могут попытаться украсть вашу личную и конфиденциальную информацию, что может вызвать компрометацию конфиденциальности, финансовые потери и иной вред. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_DEFAULT_CHEAT"
+	},
+	{
+		"#text": "Этот сайт содержит игрового бота. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_GAMES_HANG"
+	},
+	{
+		"#text": "На этом сайте содержится обманчивая информация о том, как зарабатывать деньги в Интернете. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MAKE_MONEY"
+	},
+	{
+		"#text": "Этот веб-сайт был вовлечён в мошенничество с призами или денежными переводами. Мошенники могут обманом попросить вас предоставить коды подтверждения и оплатить денежные переводы. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MONEY_CHEAT"
+	},
+	{
+		"#text": "Этот веб-сайт является подозрительным блогом. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MSG_BLOG"
+	},
+	{
+		"#text": "Этот веб-сайт содержит вредоносную информацию, политически неправильные мнения и другое нежелательное содержимое. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MSG_REACTIONARY"
+	},
+	{
+		"#text": "Этот веб-сайт может перенаправлять на подозрительный сайт. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MSG_SHADINESS"
+	},
+	{
+		"#text": "Этот сайт находится на частном игровом сервере. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_PRIVATE_SERVER"
+	},
+	{
+		"#text": "Угроз нет",
+		"@_name": "harm_url_desc_HARM_REGULAR"
+	},
+	{
+		"#text": "Этот сайт содержит порнографические материалы. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_SEX"
+	},
+	{
+		"#text": "Этот веб-сайт был вовлечён во вредоносную или обманную услугу связи с добавленной стоимостью. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_SP_SERVICE"
+	},
+	{
+		"#text": "Этот сайт был вовлечён в фишинг и взлом аккаунта. Атакующие могут украсть данные входа в мессенджеры и другие учётные записи. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_STEAL_ACCOUNT"
+	},
+	{
+		"#text": "Этот сайт был вовлечён в мошенничество с призами. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_TIPS_CHEAT"
+	},
+	{
+		"#text": "Этот сайт содержит ссылки на другой вредоносный сайт. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_TIPS_DEFAULT"
+	},
+	{
+		"#text": "Этот сайт может содержать потенциально опасный контент. Система безопасности рекомендует вам НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_UNKNOWN"
+	},
+	{
+		"#text": "Мошенничество в социальной сфере",
+		"@_name": "harm_url_type_EVIL_CHEAT1"
+	},
+	{
+		"#text": "Мошенничество",
+		"@_name": "harm_url_type_EVIL_CHEAT2"
+	},
+	{
+		"#text": "Поддельная торговая площадка",
+		"@_name": "harm_url_type_EVIL_FAULTSALES"
+	},
+	{
+		"#text": "Незаконный контент",
+		"@_name": "harm_url_type_EVIL_ILLEGALCONTENT"
+	},
+	{
+		"#text": "Сайт азартных игр",
+		"@_name": "harm_url_type_EVIL_LOTTERYWEB"
+	},
+	{
+		"#text": "Вредоносный файл",
+		"@_name": "harm_url_type_EVIL_MALICEFILE"
+	},
+	{
+		"#text": "Безопасный сайт",
+		"@_name": "harm_url_type_EVIL_NOEVIL"
+	},
+	{
+		"#text": "Небезопасный веб-сайт",
+		"@_name": "harm_url_type_EVIL_RISKWEB"
+	},
+	{
+		"#text": "Порно-сайт",
+		"@_name": "harm_url_type_EVIL_SEXYWEB"
+	},
+	{
+		"#text": "\"'P'yMMdd-HHmmss\"",
+		"@_name": "image_file_name_format"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Авто",
+		"@_name": "manual_auto_for_special"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Remove %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "mz_address"
+	},
+	{
+		"#text": "Адрес",
+		"@_name": "mz_address_info_addr"
+	},
+	{
+		"#text": "День рождения",
+		"@_name": "mz_address_info_birthday"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "mz_address_info_mail"
+	},
+	{
+		"#text": "Заметки",
+		"@_name": "mz_address_info_note"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "mz_address_info_phone"
+	},
+	{
+		"#text": "Название",
+		"@_name": "mz_address_info_title"
+	},
+	{
+		"#text": "Веб-сайт",
+		"@_name": "mz_address_info_url"
+	},
+	{
+		"#text": "Aicy Камера",
+		"@_name": "mz_aicy_action_bar_title"
+	},
+	{
+		"#text": "Включите параметр Камера > Настойки > Интел. распознание сюжета. Служба Aicy автоматически распознает портреты, ночные сюжеты, чистое небо, еду и другие сюжеты перед каждым нажатием затвора, выбирая лучший режим съемки за вас",
+		"@_name": "mz_aicy_asd_content"
+	},
+	{
+		"#text": "Интел. распознание сюжета 2.0",
+		"@_name": "mz_aicy_asd_title"
+	},
+	{
+		"#text": "Включите параметр Камера > Beauty, и служба Aicy автоматически улучшит изображение вашего лица согласно вашему полу, возрасту, типу и цвету кожи. Настраивать параметры не нужно, ваши селфи-снимки и так будут четкими и естественными",
+		"@_name": "mz_aicy_beauty_content"
+	},
+	{
+		"#text": "AI Beauty 2.0",
+		"@_name": "mz_aicy_beauty_title"
+	},
+	{
+		"#text": "Активируйте параметр Камера > Еще > Коррекция документа, совместите рамку видоискателя с документом, слайдами, документами и т.п. и нажмите затвор. Aicy распознает область документа и выполнит его автоматическую коррекцию для создания сканированной копии",
+		"@_name": "mz_aicy_document_content"
+	},
+	{
+		"#text": "Коррекция документа",
+		"@_name": "mz_aicy_document_title"
+	},
+	{
+		"#text": "Проведите вверх во время просмотра изображения для просмотра людей, объектов, мест и др., которых связывает с этим изображением Aicy Оживите воспоминания, связанные с каждым изображением",
+		"@_name": "mz_aicy_search_photo_content"
+	},
+	{
+		"#text": "Поиск изображения",
+		"@_name": "mz_aicy_search_photo_title"
+	},
+	{
+		"#text": "Включите параметр Камера > Еще > Супер-ночь и делайте потрясающие ночные снимки. Показ деталей в темноте путем слияния нескольких кадров. Сделать хороший снимок ночью несложно",
+		"@_name": "mz_aicy_super_night_content"
+	},
+	{
+		"#text": "Супер-ночь 2.0",
+		"@_name": "mz_aicy_super_night_title"
+	},
+	{
+		"#text": "Активируйте параметр Галерея > Страница альбома, и Aicy рассортирует все ваши фотографии, будь то фото друзей, животных или еды.",
+		"@_name": "mz_aicy_things_clues_content"
+	},
+	{
+		"#text": "Альбомы Люди и Ключи",
+		"@_name": "mz_aicy_things_clues_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "mz_app_center_download"
+	},
+	{
+		"#text": "Коснитесь модели для взаимодействия с ней.",
+		"@_name": "mz_ar_guide_interact"
+	},
+	{
+		"#text": "Чтобы переместить модель, коснитесь и удерживайте одним пальцем",
+		"@_name": "mz_ar_guide_move"
+	},
+	{
+		"#text": "Проведите по экрану горизонтально двумя пальцами для вращения модели",
+		"@_name": "mz_ar_guide_rotate"
+	},
+	{
+		"#text": "Разводите/сводите два пальца, чтобы изменить масштаб модели",
+		"@_name": "mz_ar_guide_scale"
+	},
+	{
+		"#text": "Поддержка дополненной реальности ИИ Baidu",
+		"@_name": "mz_ar_info_desc"
+	},
+	{
+		"#text": "Скопировано",
+		"@_name": "mz_bar_code_copy"
+	},
+	{
+		"#text": "Коснитесь, чтобы включить",
+		"@_name": "mz_bar_code_flash_tip"
+	},
+	{
+		"#text": "Наведите на штрих-код для сканирования",
+		"@_name": "mz_bar_code_hint"
+	},
+	{
+		"#text": "Сканирование выполнено, идёт обработка",
+		"@_name": "mz_bar_code_hint_success"
+	},
+	{
+		"#text": "￥",
+		"@_name": "mz_bar_code_renminbi"
+	},
+	{
+		"#text": "Просмотреть QR-код контакта",
+		"@_name": "mz_barcode_auto_address_book_result_hint"
+	},
+	{
+		"#text": "Открыть ссылку Alipay",
+		"@_name": "mz_barcode_auto_alipay_result_hint"
+	},
+	{
+		"#text": "Jinri Toutiao",
+		"@_name": "mz_barcode_auto_app_name_article_news"
+	},
+	{
+		"#text": "Watermelon video",
+		"@_name": "mz_barcode_auto_app_name_article_video"
+	},
+	{
+		"#text": "Bilibili",
+		"@_name": "mz_barcode_auto_app_name_bili"
+	},
+	{
+		"#text": "NetEase Music",
+		"@_name": "mz_barcode_auto_app_name_cloud_music"
+	},
+	{
+		"#text": "DingTalk",
+		"@_name": "mz_barcode_auto_app_name_dingtalk"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "mz_barcode_auto_app_name_qq"
+	},
+	{
+		"#text": "Tencent Reading",
+		"@_name": "mz_barcode_auto_app_name_reading"
+	},
+	{
+		"#text": "Taobao",
+		"@_name": "mz_barcode_auto_app_name_taobao"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "mz_barcode_auto_app_name_weibo"
+	},
+	{
+		"#text": "Weibo Lite",
+		"@_name": "mz_barcode_auto_app_name_weibolite"
+	},
+	{
+		"#text": "Zhihu",
+		"@_name": "mz_barcode_auto_app_name_zhihu"
+	},
+	{
+		"#text": "Ссылка",
+		"@_name": "mz_barcode_auto_app_result_hint_end"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mz_barcode_auto_app_result_hint_start"
+	},
+	{
+		"#text": "Просмотр QR-кода календаря",
+		"@_name": "mz_barcode_auto_calendar_result_hint"
+	},
+	{
+		"#text": "Посмотреть QR-код Wi-Fi",
+		"@_name": "mz_barcode_auto_email_result_hint"
+	},
+	{
+		"#text": "Посмотреть шрих-код доставки",
+		"@_name": "mz_barcode_auto_express_result_hint"
+	},
+	{
+		"#text": "Посмотреть QR-код местоположения",
+		"@_name": "mz_barcode_auto_geo_result_hint"
+	},
+	{
+		"#text": "Посмотреть штрих-код книги",
+		"@_name": "mz_barcode_auto_isbn_result_hint"
+	},
+	{
+		"#text": "Посмотреть штрих-код продукта",
+		"@_name": "mz_barcode_auto_product_result_hint"
+	},
+	{
+		"#text": "Посмотреть SMS QR-код",
+		"@_name": "mz_barcode_auto_sms_result_hint"
+	},
+	{
+		"#text": "Посмотреть QR-код телефона",
+		"@_name": "mz_barcode_auto_tel_result_hint"
+	},
+	{
+		"#text": "Посмотреть текстовый QR-код",
+		"@_name": "mz_barcode_auto_text_result_hint"
+	},
+	{
+		"#text": "Окрыть ссылку",
+		"@_name": "mz_barcode_auto_url_result_hint"
+	},
+	{
+		"#text": "Открыть WeChat ссылку",
+		"@_name": "mz_barcode_auto_wechat_result_hint"
+	},
+	{
+		"#text": "Посмотреть QR-код Wi-Fi",
+		"@_name": "mz_barcode_auto_wifi_result_hint"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "mz_barcode_detail"
+	},
+	{
+		"#text": "Не удаётся запустить требуемое приложение",
+		"@_name": "mz_barcode_intent_failed"
+	},
+	{
+		"#text": "Источник данных: Smart Snap (kuaipai.cn)",
+		"@_name": "mz_barcode_lingdong"
+	},
+	{
+		"#text": "Не подключено",
+		"@_name": "mz_barcode_no_network"
+	},
+	{
+		"#text": "Продукт не найден",
+		"@_name": "mz_barcode_no_response"
+	},
+	{
+		"#text": "Добавить в календарь",
+		"@_name": "mz_barcode_save_calendar"
+	},
+	{
+		"#text": "Сохранить контакт",
+		"@_name": "mz_barcode_save_contact"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "mz_barcode_send"
+	},
+	{
+		"#text": "yyyy-MM-dd-HH-mm-ss",
+		"@_name": "mz_burst_folder_name_format"
+	},
+	{
+		"#text": "Обработка…",
+		"@_name": "mz_burst_process"
+	},
+	{
+		"#text": "Повестка дня",
+		"@_name": "mz_calendar"
+	},
+	{
+		"#text": "Описание",
+		"@_name": "mz_calendar_description"
+	},
+	{
+		"#text": "Время окончания",
+		"@_name": "mz_calendar_end"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_calendar_location"
+	},
+	{
+		"#text": "Время начала",
+		"@_name": "mz_calendar_start"
+	},
+	{
+		"#text": "Название",
+		"@_name": "mz_calendar_summary"
+	},
+	{
+		"#text": "Можно добавить как событие календаря",
+		"@_name": "mz_calendar_title"
+	},
+	{
+		"#text": "AmazingAR",
+		"@_name": "mz_cam_mode_amazing"
+	},
+	{
+		"#text": "AR Fun",
+		"@_name": "mz_cam_mode_ar"
+	},
+	{
+		"#text": "Авто",
+		"@_name": "mz_cam_mode_auto"
+	},
+	{
+		"#text": "Селфи с подсветкой",
+		"@_name": "mz_cam_mode_back_lighting"
+	},
+	{
+		"#text": "Ретроспектива",
+		"@_name": "mz_cam_mode_back_trace"
+	},
+	{
+		"#text": "Сканер",
+		"@_name": "mz_cam_mode_bar_code"
+	},
+	{
+		"#text": "Документы",
+		"@_name": "mz_cam_mode_document"
+	},
+	{
+		"#text": "Портрет",
+		"@_name": "mz_cam_mode_facebeauty"
+	},
+	{
+		"#text": "Забавный кадр",
+		"@_name": "mz_cam_mode_funny_snap"
+	},
+	{
+		"#text": "Нажмите для загрузки программное обеспечение",
+		"@_name": "mz_cam_mode_funny_snap_faceu_desc"
+	},
+	{
+		"#text": "FaceU AR Сэлфи",
+		"@_name": "mz_cam_mode_funny_snap_faceu_title"
+	},
+	{
+		"#text": "Невозможно распознать лица",
+		"@_name": "mz_cam_mode_funny_snap_no_face"
+	},
+	{
+		"#text": "Открыть наклейки",
+		"@_name": "mz_cam_mode_funny_snap_open_sticker"
+	},
+	{
+		"#text": "GIF",
+		"@_name": "mz_cam_mode_gif"
+	},
+	{
+		"#text": "Макро",
+		"@_name": "mz_cam_mode_macro"
+	},
+	{
+		"#text": "Мейкап",
+		"@_name": "mz_cam_mode_makeup"
+	},
+	{
+		"#text": "Вручную",
+		"@_name": "mz_cam_mode_manual"
+	},
+	{
+		"#text": "Ночь",
+		"@_name": "mz_cam_mode_night"
+	},
+	{
+		"#text": "Панорама",
+		"@_name": "mz_cam_mode_pano"
+	},
+	{
+		"#text": "Портрет",
+		"@_name": "mz_cam_mode_portrait"
+	},
+	{
+		"#text": "Размытие",
+		"@_name": "mz_cam_mode_portrait_pro7"
+	},
+	{
+		"#text": "Ре-фокус",
+		"@_name": "mz_cam_mode_refocus"
+	},
+	{
+		"#text": "Замедл. съёмка",
+		"@_name": "mz_cam_mode_slowmotion"
+	},
+	{
+		"#text": "Квадрат",
+		"@_name": "mz_cam_mode_square"
+	},
+	{
+		"#text": "Супер Ночь",
+		"@_name": "mz_cam_mode_super_night"
+	},
+	{
+		"#text": "Покадрово",
+		"@_name": "mz_cam_mode_timelapse"
+	},
+	{
+		"#text": "Выбор режима",
+		"@_name": "mz_cam_mode_title"
+	},
+	{
+		"#text": "Ч/б",
+		"@_name": "mz_cam_mode_white_black"
+	},
+	{
+		"#text": "10 с.",
+		"@_name": "mz_countdown_10s"
+	},
+	{
+		"#text": "3 с.",
+		"@_name": "mz_countdown_3s"
+	},
+	{
+		"#text": "5 с.",
+		"@_name": "mz_countdown_5s"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_countdown_close"
+	},
+	{
+		"#text": "Диагностирована высокая температура. Скорость обработки будет снижена для защиты телефона.",
+		"@_name": "mz_cpu_fm_inefficient_toast"
+	},
+	{
+		"#text": "Получать звук при записи",
+		"@_name": "mz_cta_permission_audio"
+	},
+	{
+		"#text": "Чтобы записать место, получите точные данные о местоположении",
+		"@_name": "mz_cta_permission_loc"
+	},
+	{
+		"#text": "Камере требуется доступ к Интернету, местоположению и микрофону для записи места и записи видео.",
+		"@_name": "mz_cta_permission_msg"
+	},
+	{
+		"#text": "Получайте забавные стикеры и снимки с дополненной реальностью",
+		"@_name": "mz_cta_permission_net"
+	},
+	{
+		"#text": "По вашему нику",
+		"@_name": "mz_custom_device_mark_defalut_hint"
+	},
+	{
+		"#text": "Невозможно ввести эмодзи",
+		"@_name": "mz_custom_device_mark_dialog_error_hint_emoji"
+	},
+	{
+		"#text": "Допустимо не более 20 символов",
+		"@_name": "mz_custom_device_mark_dialog_error_hint_length"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_custom_device_mark_dialog_negative"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "mz_custom_device_mark_dialog_positive"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Перевести документ в режим предпросмотра",
+		"@_name": "mz_document_hint"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mz_download"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "mz_email"
+	},
+	{
+		"#text": "Кому:",
+		"@_name": "mz_email_sendto_pre"
+	},
+	{
+		"#text": "Экспресс",
+		"@_name": "mz_express"
+	},
+	{
+		"#text": "Глаза",
+		"@_name": "mz_fb_eye"
+	},
+	{
+		"#text": "Расширен.",
+		"@_name": "mz_fb_manual"
+	},
+	{
+		"#text": "Подтяжка",
+		"@_name": "mz_fb_slime"
+	},
+	{
+		"#text": "Смарт",
+		"@_name": "mz_fb_smart"
+	},
+	{
+		"#text": "Depth smart",
+		"@_name": "mz_fb_smart_depth"
+	},
+	{
+		"#text": "Mile smart",
+		"@_name": "mz_fb_smart_mile"
+	},
+	{
+		"#text": "Сглаживание",
+		"@_name": "mz_fb_smooth"
+	},
+	{
+		"#text": "Отбеливание",
+		"@_name": "mz_fb_tone"
+	},
+	{
+		"#text": "DawnFilter",
+		"@_name": "mz_filter_10_key"
+	},
+	{
+		"#text": "Рассвет",
+		"@_name": "mz_filter_10_title"
+	},
+	{
+		"#text": "DreamyFilter",
+		"@_name": "mz_filter_14_key"
+	},
+	{
+		"#text": "Мягко",
+		"@_name": "mz_filter_14_title"
+	},
+	{
+		"#text": "BWFilter",
+		"@_name": "mz_filter_16_key"
+	},
+	{
+		"#text": "Ч/Б",
+		"@_name": "mz_filter_16_title"
+	},
+	{
+		"#text": "ClayBankFilter",
+		"@_name": "mz_filter_17_key"
+	},
+	{
+		"#text": "Загар",
+		"@_name": "mz_filter_17_title"
+	},
+	{
+		"#text": "SunnyFilter",
+		"@_name": "mz_filter_18_key"
+	},
+	{
+		"#text": "Солнечно",
+		"@_name": "mz_filter_18_title"
+	},
+	{
+		"#text": "PinkFilter",
+		"@_name": "mz_filter_1_key"
+	},
+	{
+		"#text": "Розовый",
+		"@_name": "mz_filter_1_title"
+	},
+	{
+		"#text": "SakuraFilter",
+		"@_name": "mz_filter_2_key"
+	},
+	{
+		"#text": "Сакура",
+		"@_name": "mz_filter_2_title"
+	},
+	{
+		"#text": "BlueFilter",
+		"@_name": "mz_filter_3_key"
+	},
+	{
+		"#text": "Синий",
+		"@_name": "mz_filter_3_title"
+	},
+	{
+		"#text": "FilmFilter",
+		"@_name": "mz_filter_4_key"
+	},
+	{
+		"#text": "Окисление",
+		"@_name": "mz_filter_4_title"
+	},
+	{
+		"#text": "LivelyFilter",
+		"@_name": "mz_filter_5_key"
+	},
+	{
+		"#text": "Живость",
+		"@_name": "mz_filter_5_title"
+	},
+	{
+		"#text": "NaturalFilter",
+		"@_name": "mz_filter_6_key"
+	},
+	{
+		"#text": "Естеств.",
+		"@_name": "mz_filter_6_title"
+	},
+	{
+		"#text": "QU2",
+		"@_name": "mz_filter_7_key"
+	},
+	{
+		"#text": "qu2",
+		"@_name": "mz_filter_7_title"
+	},
+	{
+		"#text": "mz_qu2",
+		"@_name": "mz_filter_7_value"
+	},
+	{
+		"#text": "MoonlightFilter",
+		"@_name": "mz_filter_8_key"
+	},
+	{
+		"#text": "Лун. свет",
+		"@_name": "mz_filter_8_title"
+	},
+	{
+		"#text": "BrightFilter",
+		"@_name": "mz_filter_9_key"
+	},
+	{
+		"#text": "Ярко",
+		"@_name": "mz_filter_9_title"
+	},
+	{
+		"#text": "NoneFilter",
+		"@_name": "mz_filter_none_key"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_filter_none_title"
+	},
+	{
+		"#text": "none",
+		"@_name": "mz_filter_none_value"
+	},
+	{
+		"#text": "Серийная съёмка не поддерживается в режиме фильтров",
+		"@_name": "mz_filter_not_support_burst"
+	},
+	{
+		"#text": "Зеркало",
+		"@_name": "mz_forcetouch_item_mirror"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "mz_forcetouch_item_video"
+	},
+	{
+		"#text": "Автосмена выкл.",
+		"@_name": "mz_front_mirror_off"
+	},
+	{
+		"#text": "Автосмена вкл.",
+		"@_name": "mz_front_mirror_on"
+	},
+	{
+		"#text": "Опробуйте новую функцию AR Fun",
+		"@_name": "mz_funny_cam_ar_intro_desc"
+	},
+	{
+		"#text": "Загрузить через передачу данных?",
+		"@_name": "mz_funny_cam_download_with_mobile_network"
+	},
+	{
+		"#text": "Долгое нажатие для записи видео",
+		"@_name": "mz_funny_cam_guide_desc"
+	},
+	{
+		"#text": "Не удалось загрузить наклейки. Проверьте сеть и повторите попытку.",
+		"@_name": "mz_funny_cam_no_network"
+	},
+	{
+		"#text": "Лучшее",
+		"@_name": "mz_funny_cam_sticker_category_hot"
+	},
+	{
+		"#text": "Моё",
+		"@_name": "mz_funny_cam_sticker_category_my"
+	},
+	{
+		"#text": "Утончённое лицо и большие глаза: %d%%",
+		"@_name": "mz_funny_cam_thin_face_hint"
+	},
+	{
+		"#text": "Гладкая кожа: %d%%",
+		"@_name": "mz_funny_cam_whiten_skin_hint"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_geo"
+	},
+	{
+		"#text": "Высота:",
+		"@_name": "mz_geo_altitude"
+	},
+	{
+		"#text": "Широта:",
+		"@_name": "mz_geo_latitude"
+	},
+	{
+		"#text": "Долгота:",
+		"@_name": "mz_geo_longitude"
+	},
+	{
+		"#text": "Обрезать",
+		"@_name": "mz_gif_crop_title"
+	},
+	{
+		"#text": "Нажмите на затвор для записи",
+		"@_name": "mz_gif_hint"
+	},
+	{
+		"#text": "Обработка…",
+		"@_name": "mz_gif_hint_handling"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "mz_gif_ok"
+	},
+	{
+		"#text": "Переснять",
+		"@_name": "mz_gif_recapture"
+	},
+	{
+		"#text": "Убедитесь, что камера не заблокирована",
+		"@_name": "mz_handle_camera_blocked_hint"
+	},
+	{
+		"#text": "Оптимальное расстояние фокусировки: до 1,5 м.",
+		"@_name": "mz_handle_focus_distance_hint"
+	},
+	{
+		"#text": "Оптимальное расстояние фокусировки: около 2 м.",
+		"@_name": "mz_handle_integer_focus_distance_hint"
+	},
+	{
+		"#text": "Улучшение ночной съёмки",
+		"@_name": "mz_handle_low_night_hint"
+	},
+	{
+		"#text": "Обработка %d фото…",
+		"@_name": "mz_handle_picture_hint"
+	},
+	{
+		"#text": "Требуется больше света",
+		"@_name": "mz_handle_realtime_bokeh_dark_hint"
+	},
+	{
+		"#text": "Боке",
+		"@_name": "mz_handle_realtime_bokeh_normal_hint"
+	},
+	{
+		"#text": "Окружение слишком тёмное",
+		"@_name": "mz_handle_surrounding_dark_hint"
+	},
+	{
+		"#text": "Режим Супер-широкий/супер-макро отключен",
+		"@_name": "mz_hint_close_wideangle"
+	},
+	{
+		"#text": "Активен режим телеобъектива",
+		"@_name": "mz_hint_open_telephoto"
+	},
+	{
+		"#text": "Режим Супер-широкий/супер-макро включен",
+		"@_name": "mz_hint_open_wideangle"
+	},
+	{
+		"#text": "Нажмите, чтобы попробовать «Супер Ночь»",
+		"@_name": "mz_hint_supernight_desc"
+	},
+	{
+		"#text": "Коснитесь для расширения поля зрения и приближения",
+		"@_name": "mz_hint_wideangle_desc"
+	},
+	{
+		"#text": "\"Размытие: \"",
+		"@_name": "mz_hint_xuhua"
+	},
+	{
+		"#text": "ISBN",
+		"@_name": "mz_isbn"
+	},
+	{
+		"#text": "Автор:",
+		"@_name": "mz_isbn_author"
+	},
+	{
+		"#text": "Цена:",
+		"@_name": "mz_isbn_info_price"
+	},
+	{
+		"#text": "Издатель:",
+		"@_name": "mz_isbn_info_publish"
+	},
+	{
+		"#text": "\"Описание: \"",
+		"@_name": "mz_isbn_info_summary"
+	},
+	{
+		"#text": "Информация о книге",
+		"@_name": "mz_isbn_info_title"
+	},
+	{
+		"#text": "Обратная связь",
+		"@_name": "mz_lab_setting_advice"
+	},
+	{
+		"#text": "Вы можете выбрать кадр, создать портрет и выбрать лучшее выражение лица для каждого человека на одной живой фотографии, чтобы получить идеальный вариант.",
+		"@_name": "mz_lab_setting_back_trace_desc"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "mz_lab_setting_enter"
+	},
+	{
+		"#text": "Оптимальное расстояние фокусировки: около 3см",
+		"@_name": "mz_macro_focus_distance_hint"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_makeup_effect_title_0"
+	},
+	{
+		"#text": "Восторг",
+		"@_name": "mz_makeup_effect_title_1"
+	},
+	{
+		"#text": "Природный",
+		"@_name": "mz_makeup_effect_title_2"
+	},
+	{
+		"#text": "Лолита",
+		"@_name": "mz_makeup_effect_title_3"
+	},
+	{
+		"#text": "Свежесть",
+		"@_name": "mz_makeup_effect_title_4"
+	},
+	{
+		"#text": "Очарование",
+		"@_name": "mz_makeup_effect_title_5"
+	},
+	{
+		"#text": "original",
+		"@_name": "mz_makeup_effect_value_0"
+	},
+	{
+		"#text": "enthusiasm",
+		"@_name": "mz_makeup_effect_value_1"
+	},
+	{
+		"#text": "intellectuality",
+		"@_name": "mz_makeup_effect_value_2"
+	},
+	{
+		"#text": "innocent",
+		"@_name": "mz_makeup_effect_value_3"
+	},
+	{
+		"#text": "fresh",
+		"@_name": "mz_makeup_effect_value_4"
+	},
+	{
+		"#text": "addict",
+		"@_name": "mz_makeup_effect_value_5"
+	},
+	{
+		"#text": "Контраст",
+		"@_name": "mz_manual_contrast_title"
+	},
+	{
+		"#text": "EV",
+		"@_name": "mz_manual_exposure_title"
+	},
+	{
+		"#text": "Бесконечный",
+		"@_name": "mz_manual_focus_infinite"
+	},
+	{
+		"#text": "Макро",
+		"@_name": "mz_manual_focus_marco"
+	},
+	{
+		"#text": "Обычный",
+		"@_name": "mz_manual_focus_standard"
+	},
+	{
+		"#text": "AF/MF",
+		"@_name": "mz_manual_focus_title"
+	},
+	{
+		"#text": "∞",
+		"@_name": "mz_manual_infinite"
+	},
+	{
+		"#text": "ISO",
+		"@_name": "mz_manual_iso_title"
+	},
+	{
+		"#text": "Сильно",
+		"@_name": "mz_manual_item_high"
+	},
+	{
+		"#text": "Слабо",
+		"@_name": "mz_manual_item_low"
+	},
+	{
+		"#text": "Средне",
+		"@_name": "mz_manual_item_middle"
+	},
+	{
+		"#text": "Макро",
+		"@_name": "mz_manual_macro"
+	},
+	{
+		"#text": "Насыщенность",
+		"@_name": "mz_manual_saturation_title"
+	},
+	{
+		"#text": "Режим съёмки",
+		"@_name": "mz_manual_scene_title"
+	},
+	{
+		"#text": "Спорт",
+		"@_name": "mz_manual_scenemode_label_action"
+	},
+	{
+		"#text": "Ландшафт",
+		"@_name": "mz_manual_scenemode_label_landscape"
+	},
+	{
+		"#text": "Ночь",
+		"@_name": "mz_manual_scenemode_label_night"
+	},
+	{
+		"#text": "Обычный",
+		"@_name": "mz_manual_scenemode_label_normal"
+	},
+	{
+		"#text": "Вечеринка",
+		"@_name": "mz_manual_scenemode_label_party"
+	},
+	{
+		"#text": "Вертикальная ориентация",
+		"@_name": "mz_manual_scenemode_label_portrait"
+	},
+	{
+		"#text": "Закат",
+		"@_name": "mz_manual_scenemode_label_sunset"
+	},
+	{
+		"#text": "S",
+		"@_name": "mz_manual_shutter_speed_title"
+	},
+	{
+		"#text": "Держите камеру неподвижно, осуществляется съёмка",
+		"@_name": "mz_manual_shutter_speed_toast"
+	},
+	{
+		"#text": "WB",
+		"@_name": "mz_manual_wb_title"
+	},
+	{
+		"#text": "Авто",
+		"@_name": "mz_manual_whitebalance_label_auto"
+	},
+	{
+		"#text": "Облачно",
+		"@_name": "mz_manual_whitebalance_label_cloudy"
+	},
+	{
+		"#text": "Солнечно",
+		"@_name": "mz_manual_whitebalance_label_daylight"
+	},
+	{
+		"#text": "Люминесцент",
+		"@_name": "mz_manual_whitebalance_label_fluorescent"
+	},
+	{
+		"#text": "Лампа накал.",
+		"@_name": "mz_manual_whitebalance_label_incandescent"
+	},
+	{
+		"#text": "Ручной замер экспозиции",
+		"@_name": "mz_meter_separate_title"
+	},
+	{
+		"#text": "Камера была удалённо выключена",
+		"@_name": "mz_military_disable_camera"
+	},
+	{
+		"#text": "Серийная съёмка не поддерживается фронтальной камерой",
+		"@_name": "mz_mirror_not_support_burst"
+	},
+	{
+		"#text": "Попробовать сейчас",
+		"@_name": "mz_mode_guide_enter"
+	},
+	{
+		"#text": "Светопись",
+		"@_name": "mz_mode_guide_title_night"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mz_mode_move_btn_edit"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "mz_mode_move_btn_finish"
+	},
+	{
+		"#text": "Невозможно отобразить на главной странице",
+		"@_name": "mz_mode_move_disable_in_slide_menu_hint"
+	},
+	{
+		"#text": "Перетащите сюда иконку, чтобы она отображалась на главной странице.",
+		"@_name": "mz_mode_move_show_in_slide_menu_hint"
+	},
+	{
+		"#text": "Вспышка",
+		"@_name": "mz_mx3_filter_10_title"
+	},
+	{
+		"#text": "Печать",
+		"@_name": "mz_mx3_filter_11_title"
+	},
+	{
+		"#text": "Ч/Б",
+		"@_name": "mz_mx3_filter_12_title"
+	},
+	{
+		"#text": "Тень",
+		"@_name": "mz_mx3_filter_13_title"
+	},
+	{
+		"#text": "Ломо",
+		"@_name": "mz_mx3_filter_1_title"
+	},
+	{
+		"#text": "Ярко",
+		"@_name": "mz_mx3_filter_2_title"
+	},
+	{
+		"#text": "Оранжерея",
+		"@_name": "mz_mx3_filter_3_title"
+	},
+	{
+		"#text": "Былое",
+		"@_name": "mz_mx3_filter_4_title"
+	},
+	{
+		"#text": "Скучаю",
+		"@_name": "mz_mx3_filter_5_title"
+	},
+	{
+		"#text": "Лун. свет",
+		"@_name": "mz_mx3_filter_6_title"
+	},
+	{
+		"#text": "Игрушка",
+		"@_name": "mz_mx3_filter_7_title"
+	},
+	{
+		"#text": "Позитив",
+		"@_name": "mz_mx3_filter_8_title"
+	},
+	{
+		"#text": "Солнечно",
+		"@_name": "mz_mx3_filter_9_title"
+	},
+	{
+		"#text": "NoneFilter",
+		"@_name": "mz_mx3_filter_none_key"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_mx3_filter_none_title"
+	},
+	{
+		"#text": "Настройка сети",
+		"@_name": "mz_network_setting"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Руководство",
+		"@_name": "mz_night_mode_coach_button"
+	},
+	{
+		"#text": "Держите камеру неподвижно или используйте штатив",
+		"@_name": "mz_night_mode_hint"
+	},
+	{
+		"#text": "Переключить в режим 480P",
+		"@_name": "mz_no_support_video_filter_480P"
+	},
+	{
+		"#text": "Переключить в режим 720P",
+		"@_name": "mz_no_support_video_filter_720P"
+	},
+	{
+		"#text": "Закрыть AmazingAR?",
+		"@_name": "mz_online_amazing_ar_close_title"
+	},
+	{
+		"#text": "Выключение этого режима прекратит загрузку наклеек",
+		"@_name": "mz_online_funny_close_download_title"
+	},
+	{
+		"#text": "Этот режим больше не будет отображаться в камере после закрытия",
+		"@_name": "mz_online_funny_close_msg"
+	},
+	{
+		"#text": "Выключить режим забавного кадра?",
+		"@_name": "mz_online_funny_close_title"
+	},
+	{
+		"#text": "Управление функциями",
+		"@_name": "mz_online_setting_title"
+	},
+	{
+		"#text": "Версия: %s",
+		"@_name": "mz_online_version"
+	},
+	{
+		"#text": "Сохранить по этому направлению",
+		"@_name": "mz_orientation_hint"
+	},
+	{
+		"#text": "Нажмите затвор и двигайте камеру по горизонтали",
+		"@_name": "mz_pano_hint"
+	},
+	{
+		"#text": "Камера двигается не по горизонтали",
+		"@_name": "mz_pano_hint_off_center"
+	},
+	{
+		"#text": "Сохранение",
+		"@_name": "mz_pano_hint_saving"
+	},
+	{
+		"#text": "Держите стрелку на горизонтальной линии",
+		"@_name": "mz_pano_hint_start_panning"
+	},
+	{
+		"#text": "Слишком быстро",
+		"@_name": "mz_pano_hint_too_fast"
+	},
+	{
+		"#text": "Согласен",
+		"@_name": "mz_permission_agree"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "Не согласен",
+		"@_name": "mz_permission_disagree"
+	},
+	{
+		"#text": "Для полноценного функционирования, приложение должно иметь доступ к следующим разрешениям",
+		"@_name": "mz_permission_inform"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)",
+		"@_name": "mz_permission_policy_description"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Разрешения и заявления",
+		"@_name": "mz_permission_title_terms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "auto",
+		"@_name": "mz_pref_camera_iso_default"
+	},
+	{
+		"#text": "auto",
+		"@_name": "mz_pref_camera_shutter_speed_default"
+	},
+	{
+		"#text": "Политика конфиденциальности Meizu",
+		"@_name": "mz_privacy_policy"
+	},
+	{
+		"#text": "Продукт",
+		"@_name": "mz_product"
+	},
+	{
+		"#text": "Компания:",
+		"@_name": "mz_product_info_factory"
+	},
+	{
+		"#text": "Происхождение:",
+		"@_name": "mz_product_info_origin"
+	},
+	{
+		"#text": "Справочная цена:",
+		"@_name": "mz_product_info_price"
+	},
+	{
+		"#text": "Индикативная цена",
+		"@_name": "mz_product_info_price_new"
+	},
+	{
+		"#text": "Информация о продукте",
+		"@_name": "mz_product_info_title"
+	},
+	{
+		"#text": "Характеристики:",
+		"@_name": "mz_product_specification"
+	},
+	{
+		"#text": "Розничная цена:",
+		"@_name": "mz_product_stores_title"
+	},
+	{
+		"#text": "Сначала закройте Диктофон",
+		"@_name": "mz_record_device_occupied"
+	},
+	{
+		"#text": "Video portrait turned off",
+		"@_name": "mz_record_portrait_hint_close"
+	},
+	{
+		"#text": "Video portrait turned on",
+		"@_name": "mz_record_portrait_hint_open"
+	},
+	{
+		"#text": "Сохранение",
+		"@_name": "mz_recording_save"
+	},
+	{
+		"#text": "Держите камеру неподвижно",
+		"@_name": "mz_refocus_hint"
+	},
+	{
+		"#text": "Оптимальное расстояние: до 3 м",
+		"@_name": "mz_refocus_hint_effect_better"
+	},
+	{
+		"#text": "Обработка…",
+		"@_name": "mz_refocus_hint_handling"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Интеллектуальное распознавание сцены для оптимизации результатов визуализации",
+		"@_name": "mz_setting_asd_switch_label"
+	},
+	{
+		"#text": "AI-распознавание сцены",
+		"@_name": "mz_setting_asd_switch_title"
+	},
+	{
+		"#text": "Тыловая камера",
+		"@_name": "mz_setting_backcamera"
+	},
+	{
+		"#text": "Камера автоматически распознает QR-код/штрих-код",
+		"@_name": "mz_setting_barcode_auto_label"
+	},
+	{
+		"#text": "Сканировать",
+		"@_name": "mz_setting_barcode_auto_switch_title"
+	},
+	{
+		"#text": "Выбрать размер фото",
+		"@_name": "mz_setting_choose_picsize"
+	},
+	{
+		"#text": "Выбрать размер видео",
+		"@_name": "mz_setting_choose_vidsize"
+	},
+	{
+		"#text": "Обратный отсчёт",
+		"@_name": "mz_setting_countdown_title"
+	},
+	{
+		"#text": ", защита от тряски",
+		"@_name": "mz_setting_des_antishake"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_setting_des_devicemark_close"
+	},
+	{
+		"#text": "Свой",
+		"@_name": "mz_setting_des_devicemark_custom"
+	},
+	{
+		"#text": "По умолчанию",
+		"@_name": "mz_setting_des_devicemark_default"
+	},
+	{
+		"#text": "Водяной знак",
+		"@_name": "mz_setting_devicemark_title"
+	},
+	{
+		"#text": "Когда включено, потребуется больше времени для обработки",
+		"@_name": "mz_setting_fb_high_picturesize_label"
+	},
+	{
+		"#text": "Качество с высоким разрешением",
+		"@_name": "mz_setting_fb_high_picturesize_title"
+	},
+	{
+		"#text": "Фронтальная камера",
+		"@_name": "mz_setting_frontcamera"
+	},
+	{
+		"#text": "Высокое разрешение",
+		"@_name": "mz_setting_funnycam_hd"
+	},
+	{
+		"#text": "Водяной знак Meizu",
+		"@_name": "mz_setting_funnycam_mark_title"
+	},
+	{
+		"#text": "HDR",
+		"@_name": "mz_setting_hdr_title"
+	},
+	{
+		"#text": "Уровень",
+		"@_name": "mz_setting_level_title"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_setting_location_title"
+	},
+	{
+		"#text": "Manual 20M",
+		"@_name": "mz_setting_manual_20m_title"
+	},
+	{
+		"#text": "Manual 48M",
+		"@_name": "mz_setting_manual_48m_title"
+	},
+	{
+		"#text": "Manual 64M",
+		"@_name": "mz_setting_manual_64m_title"
+	},
+	{
+		"#text": "Сетка",
+		"@_name": "mz_setting_meshline_title"
+	},
+	{
+		"#text": "Автоматическое снижение шума при низких уровнях освещённости",
+		"@_name": "mz_setting_mfll_lable"
+	},
+	{
+		"#text": "Улучшение мультикадра",
+		"@_name": "mz_setting_mfll_title"
+	},
+	{
+		"#text": "Сохранение фотографий предпросмотра",
+		"@_name": "mz_setting_mirror_label"
+	},
+	{
+		"#text": "Зеркало",
+		"@_name": "mz_setting_mirror_title"
+	},
+	{
+		"#text": "Соотношение сторон фото",
+		"@_name": "mz_setting_picture_size_proportion"
+	},
+	{
+		"#text": "Размер фото",
+		"@_name": "mz_setting_picturesize_title"
+	},
+	{
+		"#text": "Размер видео",
+		"@_name": "mz_setting_recordsize_title"
+	},
+	{
+		"#text": "Приоритет SD-карты",
+		"@_name": "mz_setting_storage_title"
+	},
+	{
+		"#text": "Дата на снимке",
+		"@_name": "mz_setting_timemark_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mz_setting_title"
+	},
+	{
+		"#text": "Свой водяной знак",
+		"@_name": "mz_setting_title_devicemark_custom"
+	},
+	{
+		"#text": "Tripod",
+		"@_name": "mz_setting_tripod_title"
+	},
+	{
+		"#text": "В этом размере длина записи до 10 минут",
+		"@_name": "mz_setting_video_4k_60fps_limit"
+	},
+	{
+		"#text": "Размер видео",
+		"@_name": "mz_setting_video_size_proportion"
+	},
+	{
+		"#text": "Скажите \\\"Снимаю\\\" или \\\"Сыр\\\"",
+		"@_name": "mz_setting_voice_action_label"
+	},
+	{
+		"#text": "Голосовое управление",
+		"@_name": "mz_setting_voice_action_title"
+	},
+	{
+		"#text": "Нажмите на второй экран для снимка",
+		"@_name": "mz_setting_watch_capture_title"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "120fps, 1080P",
+		"@_name": "mz_slow_motion_desc_120fps"
+	},
+	{
+		"#text": "240fps, 1080P",
+		"@_name": "mz_slow_motion_desc_240fps"
+	},
+	{
+		"#text": "480fps, 720P",
+		"@_name": "mz_slow_motion_desc_480fps"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "mz_sms"
+	},
+	{
+		"#text": "Кому:",
+		"@_name": "mz_sms_sendto_pre"
+	},
+	{
+		"#text": "Недостаточно памяти",
+		"@_name": "mz_space_is_low"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Дважды нажмите для выхода из квадратного режима",
+		"@_name": "mz_square_mode_tip"
+	},
+	{
+		"#text": "Низкий заряд батареи, видеозапись приостановлена",
+		"@_name": "mz_system_battery_level_low_close_record"
+	},
+	{
+		"#text": "Низкий заряд, двойной объектив приостановлен",
+		"@_name": "mz_system_battery_level_low_close_stereo"
+	},
+	{
+		"#text": "Диагностирована высокая температура. Яркость вспышки будет уменьшена.",
+		"@_name": "mz_system_temperature_adjust_flash"
+	},
+	{
+		"#text": "Диагностирована высокая температура, приложение будет закрыто",
+		"@_name": "mz_system_temperature_close_camera"
+	},
+	{
+		"#text": "Диагностирована высокая температура, вспышка будет отключена",
+		"@_name": "mz_system_temperature_close_flash"
+	},
+	{
+		"#text": "Телефон перегревается. Остановка записи…",
+		"@_name": "mz_system_temperature_close_record"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "mz_tel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_temperature_dialog_know"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_temperature_exit_dialog_btn"
+	},
+	{
+		"#text": "Телефон перегревается. Сделайте паузу в использовании.",
+		"@_name": "mz_temperature_recommend_exit_dialog_msg"
+	},
+	{
+		"#text": "Текст",
+		"@_name": "mz_text"
+	},
+	{
+		"#text": "От 120 сек до 1 сек",
+		"@_name": "mz_time_lapse_desc_120s"
+	},
+	{
+		"#text": "От 15 сек до 1 сек",
+		"@_name": "mz_time_lapse_desc_15s"
+	},
+	{
+		"#text": "От 240 сек до 1 сек",
+		"@_name": "mz_time_lapse_desc_240s"
+	},
+	{
+		"#text": "От 30 сек до 1 сек",
+		"@_name": "mz_time_lapse_desc_30s"
+	},
+	{
+		"#text": "От 60 сек до 1 сек",
+		"@_name": "mz_time_lapse_desc_60s"
+	},
+	{
+		"#text": "Отключить HD-разрешение",
+		"@_name": "mz_toggle_hint_20m_close"
+	},
+	{
+		"#text": "Включить HD-разрешение",
+		"@_name": "mz_toggle_hint_20m_open"
+	},
+	{
+		"#text": "Выкл. 48М",
+		"@_name": "mz_toggle_hint_48m_close"
+	},
+	{
+		"#text": "во время съемки не двигайте телефон",
+		"@_name": "mz_toggle_hint_48m_notify"
+	},
+	{
+		"#text": "48M пригодно для съемки в условиях сильной освещенности",
+		"@_name": "mz_toggle_hint_48m_notify2"
+	},
+	{
+		"#text": "Вкл. 48М",
+		"@_name": "mz_toggle_hint_48m_open"
+	},
+	{
+		"#text": "Обратный отсчёт - 10 секунд",
+		"@_name": "mz_toggle_hint_countdown_10s"
+	},
+	{
+		"#text": "Обратный отсчёт - 3 секунды",
+		"@_name": "mz_toggle_hint_countdown_3s"
+	},
+	{
+		"#text": "Обратный отсчёт выключен",
+		"@_name": "mz_toggle_hint_countdown_off"
+	},
+	{
+		"#text": "Мейкап отключён",
+		"@_name": "mz_toggle_hint_fb_close"
+	},
+	{
+		"#text": "Сильно приукрашено",
+		"@_name": "mz_toggle_hint_fb_depth_beauty"
+	},
+	{
+		"#text": "Слегка приукрашено",
+		"@_name": "mz_toggle_hint_fb_mild_beauty"
+	},
+	{
+		"#text": "Хорошо приукрашено",
+		"@_name": "mz_toggle_hint_fb_smart_beauty"
+	},
+	{
+		"#text": "В кадре распознан ребёнок. Съёмка со вспышкой не рекомендуется.",
+		"@_name": "mz_toggle_hint_flash_asd_infant"
+	},
+	{
+		"#text": "Автовспышка включена",
+		"@_name": "mz_toggle_hint_flash_auto"
+	},
+	{
+		"#text": "Вспышка отключена",
+		"@_name": "mz_toggle_hint_flash_close"
+	},
+	{
+		"#text": "Ребёнок распознаётся и вспышка выключена",
+		"@_name": "mz_toggle_hint_flash_close_infant"
+	},
+	{
+		"#text": "Вспышка включена",
+		"@_name": "mz_toggle_hint_flash_open"
+	},
+	{
+		"#text": "Вспышка всегда включена",
+		"@_name": "mz_toggle_hint_flash_torch"
+	},
+	{
+		"#text": "Авто HDR",
+		"@_name": "mz_toggle_hint_front_hdr_auto"
+	},
+	{
+		"#text": "Подсветка HDR",
+		"@_name": "mz_toggle_hint_front_hdr_auto_hint"
+	},
+	{
+		"#text": "Подсветка HDR выключена",
+		"@_name": "mz_toggle_hint_front_hdr_close"
+	},
+	{
+		"#text": "Подсветка HDR включена",
+		"@_name": "mz_toggle_hint_front_hdr_open"
+	},
+	{
+		"#text": "Авто-HDR включён",
+		"@_name": "mz_toggle_hint_hdr_auto"
+	},
+	{
+		"#text": "HDR выключен",
+		"@_name": "mz_toggle_hint_hdr_close"
+	},
+	{
+		"#text": "HDR включён",
+		"@_name": "mz_toggle_hint_hdr_open"
+	},
+	{
+		"#text": "Подходит для съемки в ярких условиях: %1$dM",
+		"@_name": "mz_toggle_hint_high_size_notify2"
+	},
+	{
+		"#text": "Включить режим штатива",
+		"@_name": "mz_toggle_hint_tripod_close"
+	},
+	{
+		"#text": "Отключить режим штатива",
+		"@_name": "mz_toggle_hint_tripod_open"
+	},
+	{
+		"#text": "Эффект размытия двойной линзы отключён",
+		"@_name": "mz_toggle_hint_xuhua_close"
+	},
+	{
+		"#text": "Эффект размытия включён",
+		"@_name": "mz_toggle_hint_xuhua_open"
+	},
+	{
+		"#text": "Ссылка",
+		"@_name": "mz_uri"
+	},
+	{
+		"#text": "Нажмите для открытия ссылки",
+		"@_name": "mz_uri_hint"
+	},
+	{
+		"#text": "Вспышка недоступна во время зарядки",
+		"@_name": "mz_usb_charge_forbid_use_flash"
+	},
+	{
+		"#text": "Пользовательское соглашение",
+		"@_name": "mz_user_agreement"
+	},
+	{
+		"#text": "Проведите вниз для отображения всех режимов",
+		"@_name": "mz_user_guide"
+	},
+	{
+		"#text": "Степень улучшения %1$d",
+		"@_name": "mz_watch_beauty_level"
+	},
+	{
+		"#text": "Камера используется на втором экране. Повторите попытку позже.",
+		"@_name": "mz_watch_cannot_connect_camera"
+	},
+	{
+		"#text": "Сначала откройте камеру главного экрана",
+		"@_name": "mz_watch_cta_permission_msg"
+	},
+	{
+		"#text": "Камера используется. Повторите попытку позже.",
+		"@_name": "mz_watch_main_camera_occupied"
+	},
+	{
+		"#text": "Пожалуйста, оперируйте на основном экране",
+		"@_name": "mz_watch_mapping_operate_hint"
+	},
+	{
+		"#text": "Оригинал",
+		"@_name": "mz_watch_mode_auto"
+	},
+	{
+		"#text": "Красота",
+		"@_name": "mz_watch_mode_facebeauty"
+	},
+	{
+		"#text": "Размытие",
+		"@_name": "mz_watch_mode_stereo"
+	},
+	{
+		"#text": "\"Не поддерживается\n в этом режиме\"",
+		"@_name": "mz_watch_not_support_mapping"
+	},
+	{
+		"#text": "Сдвиньте вверх или вниз для выхода",
+		"@_name": "mz_watch_slide_hint"
+	},
+	{
+		"#text": "Не удаётся запустить камеру из-за недостаточного свободного места в памяти устройства",
+		"@_name": "mz_watch_spaceIsLow_content"
+	},
+	{
+		"#text": "Температура телефона достигла предельного уровня. Камера будет закрыта.",
+		"@_name": "mz_watch_system_temperature_close_camera"
+	},
+	{
+		"#text": "Второй экран выключен",
+		"@_name": "mz_watch_turn_off"
+	},
+	{
+		"#text": "Второй экран включён",
+		"@_name": "mz_watch_turn_on"
+	},
+	{
+		"#text": "\"Подождите, пока\nкамера основного экрана\n будет готова\"",
+		"@_name": "mz_watch_waiting_settings"
+	},
+	{
+		"#text": "Обработка фото",
+		"@_name": "mz_watch_waiting_take_photo"
+	},
+	{
+		"#text": "Серийная съемка не поддерживается в режиме Супер-широкий/супер-макро",
+		"@_name": "mz_wide_angle_not_support_burst"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Точка доступа Wi-Fi",
+		"@_name": "mz_wifi"
+	},
+	{
+		"#text": "Запрос сетевого подключения …",
+		"@_name": "mz_wifi_changing_network"
+	},
+	{
+		"#text": "Подключить",
+		"@_name": "mz_wifi_connet"
+	},
+	{
+		"#text": "Ошибка подключения",
+		"@_name": "mz_wifi_connet_fail"
+	},
+	{
+		"#text": "Подключено",
+		"@_name": "mz_wifi_conneted"
+	},
+	{
+		"#text": "Подключение…",
+		"@_name": "mz_wifi_conneting"
+	},
+	{
+		"#text": "Видеозапись приостановлена из-за режима проектора",
+		"@_name": "mz_wifi_display_close_record"
+	},
+	{
+		"#text": "Тип шифрования:",
+		"@_name": "mz_wifi_encription"
+	},
+	{
+		"#text": "Пароль:",
+		"@_name": "mz_wifi_password_pre"
+	},
+	{
+		"#text": "Имя точки доступа",
+		"@_name": "mz_wifi_title"
+	},
+	{
+		"#text": "1x",
+		"@_name": "mz_zoom_indicator_1x"
+	},
+	{
+		"#text": "2x",
+		"@_name": "mz_zoom_indicator_2x"
+	},
+	{
+		"#text": "3x",
+		"@_name": "mz_zoom_indicator_3x"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "\"Установить\nсейчас\"",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "\"Установить\nпозже\"",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Чтобы использовать камеру, вставьте SD-карту",
+		"@_name": "no_storage"
+	},
+	{
+		"#text": "Нельзя выбрать в сюжетном режиме.",
+		"@_name": "not_selectable_in_scene_mode"
+	},
+	{
+		"#text": "Показать пароль",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "off",
+		"@_name": "pref_camera_flashmode_default"
+	},
+	{
+		"#text": "После",
+		"@_name": "pref_camera_flashmode_entry_after_capture"
+	},
+	{
+		"#text": "Авто",
+		"@_name": "pref_camera_flashmode_entry_auto"
+	},
+	{
+		"#text": "До",
+		"@_name": "pref_camera_flashmode_entry_before_capture"
+	},
+	{
+		"#text": "Вручную",
+		"@_name": "pref_camera_flashmode_entry_manual"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "pref_camera_flashmode_entry_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "pref_camera_flashmode_entry_on"
+	},
+	{
+		"#text": "Фонарик",
+		"@_name": "pref_camera_flashmode_entry_torch"
+	},
+	{
+		"#text": "Режим вспышки",
+		"@_name": "pref_camera_flashmode_label"
+	},
+	{
+		"#text": "Режим вспышки",
+		"@_name": "pref_camera_flashmode_title"
+	},
+	{
+		"#text": "Авто",
+		"@_name": "pref_camera_hdr_entry_auto"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "pref_camera_hdr_entry_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "pref_camera_hdr_entry_on"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "pref_camera_manual_20m_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "pref_camera_manual_20m_on"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "pref_camera_manual_48m_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "pref_camera_manual_48m_on"
+	},
+	{
+		"#text": "auto",
+		"@_name": "pref_camera_scenemode_default"
+	},
+	{
+		"#text": "Настройки камеры",
+		"@_name": "pref_camera_settings_category"
+	},
+	{
+		"#text": "0.5s",
+		"@_name": "pref_camera_timelapse_default"
+	},
+	{
+		"#text": "0.5с",
+		"@_name": "pref_camera_timelapse_entry_0.5s"
+	},
+	{
+		"#text": "1с",
+		"@_name": "pref_camera_timelapse_entry_1s"
+	},
+	{
+		"#text": "2с",
+		"@_name": "pref_camera_timelapse_entry_2s"
+	},
+	{
+		"#text": "4с",
+		"@_name": "pref_camera_timelapse_entry_4s"
+	},
+	{
+		"#text": "8с",
+		"@_name": "pref_camera_timelapse_entry_8s"
+	},
+	{
+		"#text": "Интервальная съёмка",
+		"@_name": "pref_camera_timelapse_title"
+	},
+	{
+		"#text": "вкл.",
+		"@_name": "pref_camera_timer_sound_default"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "pref_camera_toggle_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "pref_camera_toggle_on"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "pref_camera_tripod_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "pref_camera_tripod_on"
+	},
+	{
+		"#text": "авто",
+		"@_name": "pref_camera_whitebalance_default"
+	},
+	{
+		"#text": "выкл.",
+		"@_name": "pref_night_flashmode_default"
+	},
+	{
+		"#text": "выкл.",
+		"@_name": "pref_video_flashmode_default"
+	},
+	{
+		"#text": 3,
+		"@_name": "pref_watch_camera_timer_default"
+	},
+	{
+		"#text": "Подготовка SD-карты…",
+		"@_name": "preparing_sd"
+	},
+	{
+		"#text": "Всё-равно продолжить",
+		"@_name": "qr_code_result_insist_access"
+	},
+	{
+		"#text": "Защищённый сайт",
+		"@_name": "qr_code_result_security_title"
+	},
+	{
+		"#text": "Работает на Tencent",
+		"@_name": "qr_code_result_supporter"
+	},
+	{
+		"#text": "Система безопасности не может идентифицировать этот сайт, потому что телефон отключён от Интернета. Рекомендуется проверить достоверность этого сайта.",
+		"@_name": "qr_code_result_unknown_cause_net_desc"
+	},
+	{
+		"#text": "Безопасность этого веб-сайта неизвестна. Предлагается проверить достоверность этого сайта.",
+		"@_name": "qr_code_result_unknown_desc"
+	},
+	{
+		"#text": "Безопасность неизвестна",
+		"@_name": "qr_code_result_unknown_title"
+	},
+	{
+		"#text": "Сохранение круговой панорамы…",
+		"@_name": "saving_tiny_planet"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Выберите изображение",
+		"@_name": "select_image"
+	},
+	{
+		"#text": "авто",
+		"@_name": "setting_auto_value"
+	},
+	{
+		"#text": "пользоват.",
+		"@_name": "setting_custom_value"
+	},
+	{
+		"#text": "выкл.",
+		"@_name": "setting_off_value"
+	},
+	{
+		"#text": "вкл.",
+		"@_name": "setting_on_value"
+	},
+	{
+		"#text": "sdcard",
+		"@_name": "setting_storage_value"
+	},
+	{
+		"#text": "Установка обоев",
+		"@_name": "setting_wallpaper"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share"
+	},
+	{
+		"#text": "Невозможно запустить Камеру, так как недостаточно места на SD-карте или в памяти",
+		"@_name": "spaceIsLow_content"
+	},
+	{
+		"#text": "Память заполнена. Назначить SD-карту для сохранения фото?",
+		"@_name": "spaceIsLow_use_sdcard"
+	},
+	{
+		"#text": "Если карта памяти заполнена, то данные будут сохраняться в памяти телефона",
+		"@_name": "spaceIsLow_use_storage"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Ошибка памяти. Пожалуйста, попробуйте позже",
+		"@_name": "storage_unmounted"
+	},
+	{
+		"#text": "Введите название",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Покадровая съёмка",
+		"@_name": "time_lapse_title"
+	},
+	{
+		"#text": "Поворот",
+		"@_name": "tiny_planet_rotate"
+	},
+	{
+		"#text": "Масштаб",
+		"@_name": "tiny_planet_zoom"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "video_camera_label"
+	},
+	{
+		"#text": "Невозможно воспроизвести видео",
+		"@_name": "video_err"
+	},
+	{
+		"#text": "\"'V'yMMdd-HHmmss\"",
+		"@_name": "video_file_name_format"
+	},
+	{
+		"#text": "Достигнут максимальный размер",
+		"@_name": "video_reach_size_limit"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	}
+]

@@ -1,0 +1,5836 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Alt +",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl +",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "Ввод",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Fn +",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta +",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift +",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "Пробел",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym +",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Меню +",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Сведения",
+		"@_name": "about_card_title"
+	},
+	{
+		"#text": "Только телефон, без синхронизации",
+		"@_name": "account_phone"
+	},
+	{
+		"#text": "%1$s контакт",
+		"@_name": "account_type_format"
+	},
+	{
+		"#text": "добавить контакт",
+		"@_name": "action_menu_add_new_contact_button"
+	},
+	{
+		"#text": "прекратить поиск",
+		"@_name": "action_menu_back_from_search"
+	},
+	{
+		"#text": "История вызовов",
+		"@_name": "action_menu_call_history_description"
+	},
+	{
+		"#text": "панель набора",
+		"@_name": "action_menu_dialpad_button"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "action_menu_overflow_description"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Входящие вызовы",
+		"@_name": "actionIncomingCall"
+	},
+	{
+		"#text": "На устройстве нет подходящего приложения",
+		"@_name": "activity_not_available"
+	},
+	{
+		"#text": "Добавить в контакт",
+		"@_name": "activity_title_confirm_add_detail"
+	},
+	{
+		"#text": "Фильтр контактов",
+		"@_name": "activity_title_contacts_filter"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "activity_title_settings"
+	},
+	{
+		"#text": "Добавить двухсекундную паузу",
+		"@_name": "add_2sec_pause"
+	},
+	{
+		"#text": "Добавить аккаунт",
+		"@_name": "add_account"
+	},
+	{
+		"#text": "Добавить соцсеть",
+		"@_name": "add_connection_button"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "add_contact"
+	},
+	{
+		"#text": "Добавить в контакты «%s»?",
+		"@_name": "add_contact_dlg_message_fmt"
+	},
+	{
+		"#text": "Нет приложения для работы с контактами",
+		"@_name": "add_contact_not_available"
+	},
+	{
+		"#text": "Добавить аккаунт",
+		"@_name": "add_new_account"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add_new_entry_for_section"
+	},
+	{
+		"#text": "Добавить организацию",
+		"@_name": "add_organization"
+	},
+	{
+		"#text": "Добавить в \\\"Мои контакты\\\"",
+		"@_name": "add_to_my_contacts"
+	},
+	{
+		"#text": "Добавить паузу",
+		"@_name": "add_wait"
+	},
+	{
+		"#text": "Чтобы добавить участников, измените группу.",
+		"@_name": "addPeopleToGroup"
+	},
+	{
+		"#text": "Переключиться на редактирование выбранного контакта? Введённая информация будет скопирована.",
+		"@_name": "aggregation_suggestion_edit_dialog_message"
+	},
+	{
+		"#text": "Объединить текущий контакт с выбранным контактом?",
+		"@_name": "aggregation_suggestion_join_dialog_message"
+	},
+	{
+		"#text": "Нет контактов",
+		"@_name": "all_contacts_empty"
+	},
+	{
+		"#text": "Все контакты",
+		"@_name": "all_contacts_tab_label"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Контакты SIM-карты",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "app_name_contact"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "applicationLabel"
+	},
+	{
+		"#text": "Фото контакта",
+		"@_name": "attach_photo_dialog_title"
+	},
+	{
+		"#text": "Голосовой чат",
+		"@_name": "audio_chat"
+	},
+	{
+		"#text": "Выберите контакт для объединения с %s:",
+		"@_name": "blurbJoinContactDataWith"
+	},
+	{
+		"#text": "Выполняется кэширование файлов vCard в локальное временное хранилище, после чего начнётся импорт.",
+		"@_name": "caching_vcard_message"
+	},
+	{
+		"#text": "Кэширование",
+		"@_name": "caching_vcard_title"
+	},
+	{
+		"#text": "Вызов %s",
+		"@_name": "call_assistant"
+	},
+	{
+		"#text": "Обратный вызов",
+		"@_name": "call_callback"
+	},
+	{
+		"#text": "Телефон в машине",
+		"@_name": "call_car"
+	},
+	{
+		"#text": "Телефон офиса",
+		"@_name": "call_company_main"
+	},
+	{
+		"#text": "Вызов %s",
+		"@_name": "call_custom"
+	},
+	{
+		"#text": "Список вызовов",
+		"@_name": "call_detail_list_header"
+	},
+	{
+		"#text": "Выбрать номер",
+		"@_name": "call_disambig_title"
+	},
+	{
+		"#text": "Домашний факс",
+		"@_name": "call_fax_home"
+	},
+	{
+		"#text": "Рабочий факс",
+		"@_name": "call_fax_work"
+	},
+	{
+		"#text": "Домашний",
+		"@_name": "call_home"
+	},
+	{
+		"#text": "Номер ISDN",
+		"@_name": "call_isdn"
+	},
+	{
+		"#text": "ПОЗВОНИТЬ",
+		"@_name": "call_log_action_call"
+	},
+	{
+		"#text": "ПЕРЕЗВОНИТЬ",
+		"@_name": "call_log_action_call_back"
+	},
+	{
+		"#text": "ДЕТАЛИ",
+		"@_name": "call_log_action_details"
+	},
+	{
+		"#text": "ПОВТОР НОМЕРА",
+		"@_name": "call_log_action_redial"
+	},
+	{
+		"#text": "СООБЩИТЬ ОБ ОШИБКЕ",
+		"@_name": "call_log_action_report"
+	},
+	{
+		"#text": "ВИДЕОВЫЗОВ",
+		"@_name": "call_log_action_video_call"
+	},
+	{
+		"#text": "ПРОСЛУШАТЬ",
+		"@_name": "call_log_action_voicemail"
+	},
+	{
+		"#text": "История",
+		"@_name": "call_log_activity_title"
+	},
+	{
+		"#text": "Все",
+		"@_name": "call_log_all_title"
+	},
+	{
+		"#text": "Ранее",
+		"@_name": "call_log_header_other"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "call_log_header_today"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "call_log_header_yesterday"
+	},
+	{
+		"#text": "Только входящие звонки",
+		"@_name": "call_log_incoming_header"
+	},
+	{
+		"#text": "(%1$d) %2$s",
+		"@_name": "call_log_item_count_and_date"
+	},
+	{
+		"#text": "Только пропущенные звонки",
+		"@_name": "call_log_missed_header"
+	},
+	{
+		"#text": "Пропущенный",
+		"@_name": "call_log_missed_title"
+	},
+	{
+		"#text": "Только исходящие звонки",
+		"@_name": "call_log_outgoing_header"
+	},
+	{
+		"#text": "Только звонки с голосовой почтой",
+		"@_name": "call_log_voicemail_header"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "call_log_voicemail_title"
+	},
+	{
+		"#text": "Основной телефон",
+		"@_name": "call_main"
+	},
+	{
+		"#text": "Номер MMS",
+		"@_name": "call_mms"
+	},
+	{
+		"#text": "Мобильный",
+		"@_name": "call_mobile"
+	},
+	{
+		"#text": "Нельзя совершать телефонные звонки, поскольку приложение \\\"Телефон\\\" отключено.",
+		"@_name": "call_not_available"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "call_other"
+	},
+	{
+		"#text": "Факс",
+		"@_name": "call_other_fax"
+	},
+	{
+		"#text": "Пейджер",
+		"@_name": "call_pager"
+	},
+	{
+		"#text": "Радиотелефон",
+		"@_name": "call_radio"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "call_settings_label"
+	},
+	{
+		"#text": "Телекс",
+		"@_name": "call_telex"
+	},
+	{
+		"#text": "Телетайп",
+		"@_name": "call_tty_tdd"
+	},
+	{
+		"#text": "%1$s %2$s",
+		"@_name": "call_type_and_date"
+	},
+	{
+		"#text": "Рабочий",
+		"@_name": "call_work"
+	},
+	{
+		"#text": "Рабочий мобильный",
+		"@_name": "call_work_mobile"
+	},
+	{
+		"#text": "Рабочий пейджер",
+		"@_name": "call_work_pager"
+	},
+	{
+		"#text": "Позвонить снова",
+		"@_name": "callAgain"
+	},
+	{
+		"#text": "Перезвонить",
+		"@_name": "callBack"
+	},
+	{
+		"#text": "%s м. %s с.",
+		"@_name": "callDetailsDurationFormat",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сведения о вызове",
+		"@_name": "callDetailTitle"
+	},
+	{
+		"#text": "Выберите номер для вызова",
+		"@_name": "callShortcutActivityTitle"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Отменить изменения?",
+		"@_name": "cancel_confirmation_dialog_message"
+	},
+	{
+		"#text": "Отменить экспорт %s?",
+		"@_name": "cancel_export_confirmation_message"
+	},
+	{
+		"#text": "Отменить импорт %s?",
+		"@_name": "cancel_import_confirmation_message"
+	},
+	{
+		"#text": "Не удалось отменить импорт/экспорт vCard",
+		"@_name": "cancel_vcard_import_or_export_failed"
+	},
+	{
+		"#text": "\" - %s\"",
+		"@_name": "card_name"
+	},
+	{
+		"#text": "Нет SIM-карты",
+		"@_name": "card_name_no_sim"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "change_photo"
+	},
+	{
+		"#text": "Превышен лимит символов (%1$d из %2$d)",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "Чат",
+		"@_name": "chat"
+	},
+	{
+		"#text": "Чат через AIM",
+		"@_name": "chat_aim"
+	},
+	{
+		"#text": "Чат через Google Talk",
+		"@_name": "chat_gtalk"
+	},
+	{
+		"#text": "Чат через ICQ",
+		"@_name": "chat_icq"
+	},
+	{
+		"#text": "Чат через Jabber",
+		"@_name": "chat_jabber"
+	},
+	{
+		"#text": "Чат через Windows Live",
+		"@_name": "chat_msn"
+	},
+	{
+		"#text": "Чат через QQ",
+		"@_name": "chat_qq"
+	},
+	{
+		"#text": "Чат через Skype",
+		"@_name": "chat_skype"
+	},
+	{
+		"#text": "Чат через Yahoo",
+		"@_name": "chat_yahoo"
+	},
+	{
+		"#text": "Удалить настройки по умолчанию",
+		"@_name": "clear_default"
+	},
+	{
+		"#text": "История звонков будет удалена",
+		"@_name": "clearCallLogConfirmation"
+	},
+	{
+		"#text": "Очистить историю вызовов?",
+		"@_name": "clearCallLogConfirmation_title"
+	},
+	{
+		"#text": "Очистка истории вызовов…",
+		"@_name": "clearCallLogProgress_title"
+	},
+	{
+		"#text": "Список популярных контактов в приложениях \\\"Контакты\\\" и \\\"Телефон\\\" будет очищен, и почтовые приложения начнут заносить в него данные заново.",
+		"@_name": "clearFrequentsConfirmation"
+	},
+	{
+		"#text": "Очистить избранные контакты?",
+		"@_name": "clearFrequentsConfirmation_title"
+	},
+	{
+		"#text": "Очистка избранных контактов…",
+		"@_name": "clearFrequentsProgress_title"
+	},
+	{
+		"#text": "База данных недоступна",
+		"@_name": "composer_failed_to_get_database_infomation"
+	},
+	{
+		"#text": "Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.",
+		"@_name": "composer_has_no_exportable_contact"
+	},
+	{
+		"#text": "Сбой при запуске редактора vCard",
+		"@_name": "composer_not_initialized"
+	},
+	{
+		"#text": "vcf",
+		"@_name": "config_export_file_extension"
+	},
+	{
+		"#text": "по умолчанию",
+		"@_name": "config_export_vcard_type"
+	},
+	{
+		"#text": "по умолчанию",
+		"@_name": "config_import_vcard_type"
+	},
+	{
+		"#text": "Список контактов будет экспортирован в файл: %s",
+		"@_name": "confirm_export_message"
+	},
+	{
+		"#text": "Экспортировать контакты?",
+		"@_name": "confirm_export_title"
+	},
+	{
+		"#text": "Соцсети",
+		"@_name": "connections"
+	},
+	{
+		"#text": "Папка %1$s",
+		"@_name": "contact_directory_description"
+	},
+	{
+		"#text": "Отображение контактов",
+		"@_name": "contact_display_options_category_title"
+	},
+	{
+		"#text": "Чтобы обеспечить надёжную работу Hangouts, указывайте вместо адреса электронной почты или номера телефона идентификатор пользователя в Hangouts.",
+		"@_name": "contact_editor_hangouts_im_alert"
+	},
+	{
+		"#text": "Выберите аккаунт, в который следует добавить новый контакт.",
+		"@_name": "contact_editor_prompt_multiple_accounts"
+	},
+	{
+		"#text": "Контакт будет синхронизирован с аккаунтом %1$s.",
+		"@_name": "contact_editor_prompt_one_account"
+	},
+	{
+		"#text": "Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?",
+		"@_name": "contact_editor_prompt_zero_accounts"
+	},
+	{
+		"#text": "Изменить контакт",
+		"@_name": "contact_editor_title_existing_contact"
+	},
+	{
+		"#text": "Добавить контакт",
+		"@_name": "contact_editor_title_new_contact"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "contact_list_loading"
+	},
+	{
+		"#text": "Здесь доступно только для чтения.",
+		"@_name": "contact_read_only"
+	},
+	{
+		"#text": "в %1$s",
+		"@_name": "contact_status_update_attribution"
+	},
+	{
+		"#text": "%1$s в %2$s",
+		"@_name": "contact_status_update_attribution_with_date"
+	},
+	{
+		"#text": "Коснитесь изображения, чтобы увидеть все номера, или нажмите и удерживайте, чтобы изменить порядок",
+		"@_name": "contact_tooltip"
+	},
+	{
+		"#text": "Сведения",
+		"@_name": "contactDetailAbout"
+	},
+	{
+		"#text": "Обновления",
+		"@_name": "contactDetailUpdates"
+	},
+	{
+		"#text": "Добавить в контакт",
+		"@_name": "contactInsertOrEditActivityTitle"
+	},
+	{
+		"#text": "Выбор контакта",
+		"@_name": "contactPickerActivityTitle"
+	},
+	{
+		"#text": "Войти в аккаунт",
+		"@_name": "contacts_unavailable_add_account"
+	},
+	{
+		"#text": "Создать новый контакт",
+		"@_name": "contacts_unavailable_create_contact"
+	},
+	{
+		"#text": "Импорт контактов",
+		"@_name": "contacts_unavailable_import_contacts"
+	},
+	{
+		"#text": "Не удалось сохранить изменения.",
+		"@_name": "contactSavedErrorToast"
+	},
+	{
+		"#text": "Контакт сохранён.",
+		"@_name": "contactSavedToast"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "contactsFavoritesLabel"
+	},
+	{
+		"#text": "Контакты объединены",
+		"@_name": "contactsJoinedMessage"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "contactsList"
+	},
+	{
+		"#text": "Нажмите, чтобы свернуть редактор контактов.",
+		"@_name": "content_description_collapse_editor"
+	},
+	{
+		"#text": "Маршруты",
+		"@_name": "content_description_directions"
+	},
+	{
+		"#text": "Нажмите, чтобы развернуть редактор контактов.",
+		"@_name": "content_description_expand_editor"
+	},
+	{
+		"#text": "Недавний вызов. %s. %s. %s. Нажмите, чтобы перезвонить",
+		"@_name": "content_description_recent_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "входящий",
+		"@_name": "content_description_recent_call_type_incoming"
+	},
+	{
+		"#text": "пропущенный",
+		"@_name": "content_description_recent_call_type_missed"
+	},
+	{
+		"#text": "исходящий",
+		"@_name": "content_description_recent_call_type_outgoing"
+	},
+	{
+		"#text": "Недавнее SMS-сообщение. %s. %s. %s. Нажмите для ответа",
+		"@_name": "content_description_recent_sms",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Копировать в буфер обмена",
+		"@_name": "copy_text"
+	},
+	{
+		"#text": "Создать группу",
+		"@_name": "create_group_dialog_title"
+	},
+	{
+		"#text": "Создать группу",
+		"@_name": "create_group_item_label"
+	},
+	{
+		"#text": "Виджет \\\"Контакты\\\" добавлен на главный экран.",
+		"@_name": "createContactShortcutSuccessful"
+	},
+	{
+		"#text": "Настроить пользовательское представление",
+		"@_name": "custom_list_filter"
+	},
+	{
+		"#text": "Название",
+		"@_name": "customLabelPickerTitle"
+	},
+	{
+		"#text": "%s, %s",
+		"@_name": "date_time_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Указать год",
+		"@_name": "date_year_toggle"
+	},
+	{
+		"#text": "Действительно удалить группу \\\"%1$s\\\"? (Контакты не будут удалены.)",
+		"@_name": "delete_group_dialog_message"
+	},
+	{
+		"#text": "Этот контакт будет удалён.",
+		"@_name": "deleteConfirmation"
+	},
+	{
+		"#text": "Добавлено в избранное",
+		"@_name": "description_action_menu_add_star"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "description_action_menu_remove_star"
+	},
+	{
+		"#text": "Вызов %1$s",
+		"@_name": "description_call"
+	},
+	{
+		"#text": "Перезвонить ^1",
+		"@_name": "description_call_back_action"
+	},
+	{
+		"#text": "Прослушать голосовую почту",
+		"@_name": "description_call_log_play_button"
+	},
+	{
+		"#text": "Непрослушанные сообщения голосовой почты",
+		"@_name": "description_call_log_unheard_voicemail"
+	},
+	{
+		"#text": "Очистить поиск",
+		"@_name": "description_clear_search"
+	},
+	{
+		"#text": "Сведения о контакте %1$s",
+		"@_name": "description_contact_details"
+	},
+	{
+		"#text": "фото контакта",
+		"@_name": "description_contact_photo"
+	},
+	{
+		"#text": "Сведения о вызове ^1",
+		"@_name": "description_details_action"
+	},
+	{
+		"#text": "набор",
+		"@_name": "description_dial_button"
+	},
+	{
+		"#text": "набираемый номер",
+		"@_name": "description_digits_edittext"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "description_dismiss"
+	},
+	{
+		"#text": "Принят вызов от контакта ^1, ^2, ^3, ^4.",
+		"@_name": "description_incoming_answered_call"
+	},
+	{
+		"#text": "Пропущен вызов от контакта ^1, ^2, ^3, ^4.",
+		"@_name": "description_incoming_missed_call"
+	},
+	{
+		"#text": "удалить",
+		"@_name": "description_minus_button"
+	},
+	{
+		"#text": "Новое голосовое сообщение.",
+		"@_name": "description_new_voicemail"
+	},
+	{
+		"#text": "%1$s вызовов.",
+		"@_name": "description_num_calls"
+	},
+	{
+		"#text": "Вызов ^1, ^2, ^3, ^4.",
+		"@_name": "description_outgoing_call"
+	},
+	{
+		"#text": "на ^1",
+		"@_name": "description_phone_account"
+	},
+	{
+		"#text": "Выбрать позицию для воспроизведения",
+		"@_name": "description_playback_seek"
+	},
+	{
+		"#text": "Включить или отключить громкую связь",
+		"@_name": "description_playback_speakerphone"
+	},
+	{
+		"#text": "Начать или остановить воспроизведение",
+		"@_name": "description_playback_start_stop"
+	},
+	{
+		"#text": "плюс",
+		"@_name": "description_plus_button"
+	},
+	{
+		"#text": "Быстрый контакт для %1$s",
+		"@_name": "description_quick_contact_for"
+	},
+	{
+		"#text": "Уменьшить скорость воспроизведения",
+		"@_name": "description_rate_decrease"
+	},
+	{
+		"#text": "Увеличить скорость воспроизведения",
+		"@_name": "description_rate_increase"
+	},
+	{
+		"#text": "поиск",
+		"@_name": "description_search_button"
+	},
+	{
+		"#text": "Отправить SMS пользователю %1$s",
+		"@_name": "description_send_text_message"
+	},
+	{
+		"#text": "избранное",
+		"@_name": "description_star"
+	},
+	{
+		"#text": "Начать голосовой поиск",
+		"@_name": "description_start_voice_search"
+	},
+	{
+		"#text": "Видеовызов",
+		"@_name": "description_video_call"
+	},
+	{
+		"#text": "Видеовызов ^1.",
+		"@_name": "description_video_call_action"
+	},
+	{
+		"#text": "Просмотреть контакт %1$s",
+		"@_name": "description_view_contact"
+	},
+	{
+		"#text": "Просмотреть контакт",
+		"@_name": "description_view_contact_detail"
+	},
+	{
+		"#text": "Прослушать голосовое сообщение от ^1",
+		"@_name": "description_voicemail_action"
+	},
+	{
+		"#text": "Добавить вызов",
+		"@_name": "dialer_addAnotherCall"
+	},
+	{
+		"#text": "Введите имя или номер телефона",
+		"@_name": "dialer_hint_find_contact"
+	},
+	{
+		"#text": "Вернуться к ожидающему вызову",
+		"@_name": "dialer_returnToInCallScreen"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "dialer_settings_label"
+	},
+	{
+		"#text": "Использовать тональный набор",
+		"@_name": "dialer_useDtmfDialpad"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "dialerIconLabel"
+	},
+	{
+		"#text": "Импорт контактов",
+		"@_name": "dialog_import"
+	},
+	{
+		"#text": "Импорт/экспорт контактов",
+		"@_name": "dialog_import_export"
+	},
+	{
+		"#text": "Создать контакт в аккаунте",
+		"@_name": "dialog_new_contact_account"
+	},
+	{
+		"#text": "Создать группу в аккаунте",
+		"@_name": "dialog_new_group_account"
+	},
+	{
+		"#text": "На этот номер нельзя позвонить",
+		"@_name": "dialog_phone_call_prohibited_message"
+	},
+	{
+		"#text": "Добавить группу синхронизации",
+		"@_name": "dialog_sync_add"
+	},
+	{
+		"#text": "Перед использованием голосовой почты отключите \\\"Режим полета\\\".",
+		"@_name": "dialog_voicemail_airplane_mode_message"
+	},
+	{
+		"#text": "Для настройки голосовой почты откройте Меню > Настройки.",
+		"@_name": "dialog_voicemail_not_ready_message"
+	},
+	{
+		"#text": "Папка",
+		"@_name": "directory_search_label"
+	},
+	{
+		"#text": "Все контакты",
+		"@_name": "display_all_contacts"
+	},
+	{
+		"#text": "Другие группы…",
+		"@_name": "display_more_groups"
+	},
+	{
+		"#text": "Фамилия",
+		"@_name": "display_options_sort_by_family_name"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "display_options_sort_by_given_name"
+	},
+	{
+		"#text": "Сортировать",
+		"@_name": "display_options_sort_list_by"
+	},
+	{
+		"#text": "Сначала фамилия",
+		"@_name": "display_options_view_family_name_first"
+	},
+	{
+		"#text": "Сначала имя",
+		"@_name": "display_options_view_given_name_first"
+	},
+	{
+		"#text": "Формат имени",
+		"@_name": "display_options_view_names_as"
+	},
+	{
+		"#text": "Остальные контакты",
+		"@_name": "display_ungrouped"
+	},
+	{
+		"#text": "Исключение из синхронизации группы «%s» приведёт к исключению из синхронизации всех контактов, не относящихся к какой-либо группе.",
+		"@_name": "display_warn_remove_ungrouped"
+	},
+	{
+		"#text": "Набор номера",
+		"@_name": "dtmf_tone_enable_title"
+	},
+	{
+		"#text": "Изменить контакт",
+		"@_name": "edit_contact"
+	},
+	{
+		"#text": "Изменить контакт",
+		"@_name": "editContactDescription"
+	},
+	{
+		"#text": "Изменить группу",
+		"@_name": "editGroupDescription"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "email"
+	},
+	{
+		"#text": "Эл. почта %s",
+		"@_name": "email_custom"
+	},
+	{
+		"#text": "Написать на личный адрес",
+		"@_name": "email_home"
+	},
+	{
+		"#text": "Написать на мобильную эл. почту",
+		"@_name": "email_mobile"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "email_other"
+	},
+	{
+		"#text": "Написать на рабочий адрес",
+		"@_name": "email_work"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "emailLabelsGroup"
+	},
+	{
+		"#text": "Здесь пока никого нет.",
+		"@_name": "emptyGroup"
+	},
+	{
+		"#text": "Имя контакта",
+		"@_name": "enter_contact_name"
+	},
+	{
+		"#text": "Контакты экспортированы на SIM-карту",
+		"@_name": "error_import_done_title"
+	},
+	{
+		"#text": "Причина: недопустимые символы либо слишком длинный номер",
+		"@_name": "error_import_failure_reason"
+	},
+	{
+		"#text": "SIM-карта занята. Попробуйте позже.",
+		"@_name": "error_sim_busy"
+	},
+	{
+		"#text": "SIM-карта заполнена",
+		"@_name": "error_sim_memory_full"
+	},
+	{
+		"#text": "Детали: %s успешно, %s неудачно",
+		"@_name": "error_success_missing_count",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Дата",
+		"@_name": "event_edit_field_hint_text"
+	},
+	{
+		"#text": "Значимые даты",
+		"@_name": "eventLabelsGroup"
+	},
+	{
+		"#text": "День рождения по лунному календарю",
+		"@_name": "eventTypeLunarBirthday"
+	},
+	{
+		"#text": "Показать/скрыть дополнительные поля",
+		"@_name": "expand_collapse_name_fields_description"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "expanding_entry_card_view_see_all"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "expanding_entry_card_view_see_less"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "expanding_entry_card_view_see_more"
+	},
+	{
+		"#text": "Экспорт на накопитель",
+		"@_name": "export_to_sdcard"
+	},
+	{
+		"#text": "\"Данные контакта не экспортированы.\nПричина: «%s»\"",
+		"@_name": "exporting_contact_failed_message"
+	},
+	{
+		"#text": "Ошибка экспорта",
+		"@_name": "exporting_contact_failed_title"
+	},
+	{
+		"#text": "Данные экспортируются в файл: %s",
+		"@_name": "exporting_contact_list_message"
+	},
+	{
+		"#text": "%s из %s контактов",
+		"@_name": "exporting_contact_list_progress",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Экспорт данных контакта",
+		"@_name": "exporting_contact_list_title"
+	},
+	{
+		"#text": "Экспорт %s отменён",
+		"@_name": "exporting_vcard_canceled_title"
+	},
+	{
+		"#text": "Экспорт завершён в %s",
+		"@_name": "exporting_vcard_finished_title"
+	},
+	{
+		"#text": "Мой профиль %1$s",
+		"@_name": "external_profile_title"
+	},
+	{
+		"#text": "\"\nВозможная причина ошибки:\n1. SIM-карта заполнена\n2. Ошибка формата имени или номера\"",
+		"@_name": "fail_reason"
+	},
+	{
+		"#text": "Не удалось запустить средство экспорта: «%s»",
+		"@_name": "fail_reason_could_not_initialize_exporter"
+	},
+	{
+		"#text": "Не удалось открыть «%s»: %s",
+		"@_name": "fail_reason_could_not_open_file",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Ошибка экспорта: «%s»",
+		"@_name": "fail_reason_error_occurred_during_export"
+	},
+	{
+		"#text": "Не удалось собрать метаданные файлов vCard.",
+		"@_name": "fail_reason_failed_to_collect_vcard_meta_info"
+	},
+	{
+		"#text": "Не удалось импортировать один или несколько файлов (%s)",
+		"@_name": "fail_reason_failed_to_read_files"
+	},
+	{
+		"#text": "Ошибка ввода-вывода",
+		"@_name": "fail_reason_io_error"
+	},
+	{
+		"#text": "Недостаточно памяти. Возможно, файл слишком большой.",
+		"@_name": "fail_reason_low_memory_during_import"
+	},
+	{
+		"#text": "Нет контактов для экспорта",
+		"@_name": "fail_reason_no_exportable_contact"
+	},
+	{
+		"#text": "Формат не поддерживается",
+		"@_name": "fail_reason_not_supported"
+	},
+	{
+		"#text": "Слишком длинное имя файла («%s»)",
+		"@_name": "fail_reason_too_long_filename"
+	},
+	{
+		"#text": "Слишком много файлов vCard на SD-карте",
+		"@_name": "fail_reason_too_many_vcard"
+	},
+	{
+		"#text": "Неизвестная ошибка",
+		"@_name": "fail_reason_unknown"
+	},
+	{
+		"#text": "Не удалось выполнить синтаксический анализ файла vCard",
+		"@_name": "fail_reason_vcard_parse_error"
+	},
+	{
+		"#text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ#",
+		"@_name": "fast_scroll_alphabet_simc"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "favorite_hidden"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "favorite_hidden_undo"
+	},
+	{
+		"#text": "ВСЕ КОНТАКТЫ",
+		"@_name": "favorites_menu_all_contacts"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "favorites_tab_label"
+	},
+	{
+		"#text": "Часто вызываемые",
+		"@_name": "favoritesFrequentCalled"
+	},
+	{
+		"#text": "Часто набираемые",
+		"@_name": "favoritesFrequentContacted"
+	},
+	{
+		"#text": "Выбрано файлов: %1$s. Всего: %2$s Мб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Найдено более %d",
+		"@_name": "foundTooManyContacts"
+	},
+	{
+		"#text": "Частые",
+		"@_name": "frequentList"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "from_account_format"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "full_name"
+	},
+	{
+		"#text": "Общие",
+		"@_name": "general_settings_label"
+	},
+	{
+		"#text": "Можно потерять телефон, но не контакты… если хранить их в Интернете.",
+		"@_name": "generic_no_account_prompt"
+	},
+	{
+		"#text": "Добавьте аккаунт",
+		"@_name": "generic_no_account_prompt_title"
+	},
+	{
+		"#text": "Компания",
+		"@_name": "ghostData_company"
+	},
+	{
+		"#text": "Название",
+		"@_name": "ghostData_title"
+	},
+	{
+		"#text": "Имя группы",
+		"@_name": "group_edit_field_hint_text"
+	},
+	{
+		"#text": "Название группы",
+		"@_name": "group_name_hint"
+	},
+	{
+		"#text": "Здесь доступно только для чтения.",
+		"@_name": "group_read_only"
+	},
+	{
+		"#text": "Не удалось сохранить изменения.",
+		"@_name": "groupSavedErrorToast"
+	},
+	{
+		"#text": "Группа сохранена.",
+		"@_name": "groupSavedToast"
+	},
+	{
+		"#text": "Группы",
+		"@_name": "groupsLabel"
+	},
+	{
+		"#text": "Аккаунт",
+		"@_name": "header_account_entry"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "header_email_entry"
+	},
+	{
+		"#text": "Создать новый контакт",
+		"@_name": "header_entry_contact_list_adapter_header_title"
+	},
+	{
+		"#text": "Событие",
+		"@_name": "header_event_entry"
+	},
+	{
+		"#text": "Мессенджер",
+		"@_name": "header_im_entry"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "header_name_entry"
+	},
+	{
+		"#text": "Псевдоним",
+		"@_name": "header_nickname_entry"
+	},
+	{
+		"#text": "Заметка",
+		"@_name": "header_note_entry"
+	},
+	{
+		"#text": "Организация",
+		"@_name": "header_organization_entry"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "header_phone_entry"
+	},
+	{
+		"#text": "Фото",
+		"@_name": "header_photo_entry"
+	},
+	{
+		"#text": "Отношение",
+		"@_name": "header_relation_entry"
+	},
+	{
+		"#text": "Веб-сайт",
+		"@_name": "header_website_entry"
+	},
+	{
+		"#text": "Поиск контактов",
+		"@_name": "hint_findContacts"
+	},
+	{
+		"#text": "SIM 2",
+		"@_name": "home"
+	},
+	{
+		"#text": "Аппаратная версия",
+		"@_name": "hw_version"
+	},
+	{
+		"#text": "IMEI",
+		"@_name": "imei"
+	},
+	{
+		"#text": "Мессенджер",
+		"@_name": "imLabelsGroup"
+	},
+	{
+		"#text": "Импорт всех файлов vCard",
+		"@_name": "import_all_vcard_string"
+	},
+	{
+		"#text": "На SD-карте нет файлов vCard",
+		"@_name": "import_failure_no_vcard_file"
+	},
+	{
+		"#text": "Импорт с накопителя",
+		"@_name": "import_from_sdcard"
+	},
+	{
+		"#text": "Импорт с SIM-карты",
+		"@_name": "import_from_sim"
+	},
+	{
+		"#text": "Импорт с SIM-карты ^1 - ^2",
+		"@_name": "import_from_sim_summary"
+	},
+	{
+		"#text": "Импорт с SIM-карты %1$s",
+		"@_name": "import_from_sim_summary_no_number"
+	},
+	{
+		"#text": "Импортирование",
+		"@_name": "import_in_progress"
+	},
+	{
+		"#text": "Импорт нескольких файлов vCard",
+		"@_name": "import_multiple_vcard_string"
+	},
+	{
+		"#text": "Импорт одного файла vCard",
+		"@_name": "import_one_vcard_string"
+	},
+	{
+		"#text": "Экспорт в",
+		"@_name": "import_to"
+	},
+	{
+		"#text": "Импорт %s отменён",
+		"@_name": "importing_vcard_canceled_title"
+	},
+	{
+		"#text": "Импортирование %s",
+		"@_name": "importing_vcard_description"
+	},
+	{
+		"#text": "Завершён импорт vCard %s",
+		"@_name": "importing_vcard_finished_title"
+	},
+	{
+		"#text": "Инициализация…",
+		"@_name": "initializing_message"
+	},
+	{
+		"#text": "Создать контакт",
+		"@_name": "insertContactDescription"
+	},
+	{
+		"#text": "Создание группы",
+		"@_name": "insertGroupDescription"
+	},
+	{
+		"#text": "Экспорт на телефон",
+		"@_name": "intent_confirm_button_text_export"
+	},
+	{
+		"#text": "Импорт контактов на SIM-карту",
+		"@_name": "intent_window_title"
+	},
+	{
+		"#text": "Нет такого контакта.",
+		"@_name": "invalidContactMessage"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Сохранить локально",
+		"@_name": "keep_local"
+	},
+	{
+		"#text": "Заметки",
+		"@_name": "label_notes"
+	},
+	{
+		"#text": "SIP",
+		"@_name": "label_sip_address"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "labelSimcBtnCreateContact"
+	},
+	{
+		"#text": "Без имени",
+		"@_name": "lable_no_name"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "lableBtnDeleteSelected"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "launcherActivityLabel"
+	},
+	{
+		"#text": "Все контакты",
+		"@_name": "list_filter_all_accounts"
+	},
+	{
+		"#text": "Помеченные",
+		"@_name": "list_filter_all_starred"
+	},
+	{
+		"#text": "Настройка пользователя",
+		"@_name": "list_filter_custom"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "list_filter_customize"
+	},
+	{
+		"#text": "Контакты с номерами телефонов",
+		"@_name": "list_filter_phones"
+	},
+	{
+		"#text": "Контакт",
+		"@_name": "list_filter_single"
+	},
+	{
+		"#text": "Контакты аккаунта %s",
+		"@_name": "listAllContactsInAccount"
+	},
+	{
+		"#text": "Контакты в пользовательском представлении",
+		"@_name": "listCustomView"
+	},
+	{
+		"#text": "Нет контактов",
+		"@_name": "listFoundAllContactsZero"
+	},
+	{
+		"#text": "Один контакт",
+		"@_name": "listSingleContact"
+	},
+	{
+		"#text": "Нет контактов",
+		"@_name": "listTotalAllContactsZero"
+	},
+	{
+		"#text": "Нет видимых контактов",
+		"@_name": "listTotalAllContactsZeroCustom"
+	},
+	{
+		"#text": "Нет контактов в группе %s",
+		"@_name": "listTotalAllContactsZeroGroup"
+	},
+	{
+		"#text": "Нет избранного",
+		"@_name": "listTotalAllContactsZeroStarred"
+	},
+	{
+		"#text": "Нет контактов с номерами телефонов",
+		"@_name": "listTotalPhoneContactsZero"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "local_invisible_directory"
+	},
+	{
+		"#text": "Местный номер",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "Мой локальный профиль",
+		"@_name": "local_profile_title"
+	},
+	{
+		"#text": "Все контакты",
+		"@_name": "local_search_label"
+	},
+	{
+		"#text": "Список контактов обновляется после смены языка интерфейса.",
+		"@_name": "locale_change_in_progress"
+	},
+	{
+		"#text": "Запомнить выбор",
+		"@_name": "make_primary"
+	},
+	{
+		"#text": "Посмотреть адрес %s",
+		"@_name": "map_custom"
+	},
+	{
+		"#text": "Посмотреть домашний адрес",
+		"@_name": "map_home"
+	},
+	{
+		"#text": "Посмотреть адрес",
+		"@_name": "map_other"
+	},
+	{
+		"#text": "Посмотреть рабочий адрес",
+		"@_name": "map_work"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дн. спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дн. назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Привет Мир!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "MEID",
+		"@_name": "meid"
+	},
+	{
+		"#text": "Аккаунты",
+		"@_name": "menu_accounts"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "menu_add_contact"
+	},
+	{
+		"#text": "В избранное",
+		"@_name": "menu_addStar"
+	},
+	{
+		"#text": "Все контакты",
+		"@_name": "menu_allContacts"
+	},
+	{
+		"#text": "Позвонить",
+		"@_name": "menu_call"
+	},
+	{
+		"#text": "Вызов %s",
+		"@_name": "menu_callNumber"
+	},
+	{
+		"#text": "Очистить избранные контакты",
+		"@_name": "menu_clear_frequents"
+	},
+	{
+		"#text": "Фильтр контактов",
+		"@_name": "menu_contacts_filter"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "menu_copy"
+	},
+	{
+		"#text": "Копировать в \\\"Мои контакты\\\"",
+		"@_name": "menu_copyContact"
+	},
+	{
+		"#text": "Поместить на главный экран",
+		"@_name": "menu_create_contact_shortcut"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "menu_deleteContact"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "menu_deleteGroup"
+	},
+	{
+		"#text": "Отменить изменения",
+		"@_name": "menu_discard"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "menu_display_all"
+	},
+	{
+		"#text": "Показать выбранные",
+		"@_name": "menu_display_selected"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "menu_done"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "menu_doNotSave"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "menu_editContact"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "menu_editGroup"
+	},
+	{
+		"#text": "Экспорт файлов базы данных",
+		"@_name": "menu_export_database"
+	},
+	{
+		"#text": "Справка",
+		"@_name": "menu_help"
+	},
+	{
+		"#text": "Импорт/экспорт",
+		"@_name": "menu_import_export"
+	},
+	{
+		"#text": "Объединить",
+		"@_name": "menu_joinAggregate"
+	},
+	{
+		"#text": "Добавить контакт",
+		"@_name": "menu_new_contact_action_bar"
+	},
+	{
+		"#text": "Добавить группу",
+		"@_name": "menu_new_group_action_bar"
+	},
+	{
+		"#text": "Добавить контакт",
+		"@_name": "menu_newContact"
+	},
+	{
+		"#text": "Все вызовы на голосовую почту",
+		"@_name": "menu_redirect_calls_to_vm"
+	},
+	{
+		"#text": "Удалить из избранных",
+		"@_name": "menu_removeStar"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "menu_search"
+	},
+	{
+		"#text": "Выбрать все",
+		"@_name": "menu_select_all"
+	},
+	{
+		"#text": "Снять",
+		"@_name": "menu_select_none"
+	},
+	{
+		"#text": "Выберите SIM-карту",
+		"@_name": "menu_select_sim"
+	},
+	{
+		"#text": "Отправить SMS",
+		"@_name": "menu_sendSMS"
+	},
+	{
+		"#text": "Отправить SMS",
+		"@_name": "menu_sendTextMessage"
+	},
+	{
+		"#text": "Задать рингтон",
+		"@_name": "menu_set_ring_tone"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "menu_settings"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "menu_share"
+	},
+	{
+		"#text": "Все вызовы",
+		"@_name": "menu_show_all_calls"
+	},
+	{
+		"#text": "Только входящие",
+		"@_name": "menu_show_incoming_only"
+	},
+	{
+		"#text": "Только пропущенные",
+		"@_name": "menu_show_missed_only"
+	},
+	{
+		"#text": "Только исходящие",
+		"@_name": "menu_show_outgoing_only"
+	},
+	{
+		"#text": "Только голосовые сообщения",
+		"@_name": "menu_show_voicemails_only"
+	},
+	{
+		"#text": "Разделить",
+		"@_name": "menu_splitAggregate"
+	},
+	{
+		"#text": "Удалить группу синхронизации",
+		"@_name": "menu_sync_remove"
+	},
+	{
+		"#text": "Просмотреть контакт",
+		"@_name": "menu_viewContact"
+	},
+	{
+		"#text": "Вы: %s",
+		"@_name": "message_from_you_prefix"
+	},
+	{
+		"#text": "Этот аккаунт не поддерживает веб-вызов",
+		"@_name": "message_sip_address"
+	},
+	{
+		"#text": "Выбрать номер для отправки сообщения",
+		"@_name": "messageShortcutActivityTitle"
+	},
+	{
+		"#text": "Действие не поддерживается ни в одном приложении.",
+		"@_name": "missing_app"
+	},
+	{
+		"#text": "(без имени)",
+		"@_name": "missing_name"
+	},
+	{
+		"#text": "Модель",
+		"@_name": "model_name"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Удалить %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Удаление этого контакта приведёт к потере данных из нескольких аккаунтов.",
+		"@_name": "multipleContactDeleteConfirmation"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Снять",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Больше не спрашивать",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "Приложение «%1$s» запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "Приложение «%1$s» требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" требуются разрешения\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная Сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые подключения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "SIM",
+		"@_name": "mzc_account_name_base"
+	},
+	{
+		"#text": "SIM 2",
+		"@_name": "mzc_account_name_home"
+	},
+	{
+		"#text": "SIM 1",
+		"@_name": "mzc_account_name_work"
+	},
+	{
+		"#text": "Контакты: %s",
+		"@_name": "mzc_account_type_lable"
+	},
+	{
+		"#text": "Локально",
+		"@_name": "mzc_account_type_lable_device_only"
+	},
+	{
+		"#text": "Gmail",
+		"@_name": "mzc_account_type_lable_eas_gmail"
+	},
+	{
+		"#text": "Meizu",
+		"@_name": "mzc_account_type_lable_eas_meizu"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "mzc_account_type_lable_eas_qq"
+	},
+	{
+		"#text": "Flyme",
+		"@_name": "mzc_account_type_lable_flyme"
+	},
+	{
+		"#text": "Жёлтые страницы онлайн",
+		"@_name": "mzc_account_type_lable_net_contact"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "mzc_add_contact"
+	},
+	{
+		"#text": "Добавить информацию",
+		"@_name": "mzc_add_field"
+	},
+	{
+		"#text": "Добавить метку",
+		"@_name": "mzc_add_mark"
+	},
+	{
+		"#text": "Блокировать",
+		"@_name": "mzc_add_spam"
+	},
+	{
+		"#text": "В существующий контакт",
+		"@_name": "mzc_add_to_exist_contact"
+	},
+	{
+		"#text": "Объединение",
+		"@_name": "mzc_aggregating"
+	},
+	{
+		"#text": "Соединить",
+		"@_name": "mzc_aggregating_join_button"
+	},
+	{
+		"#text": "Контакты с тем же именем или номером",
+		"@_name": "mzc_aggregation_banner_title"
+	},
+	{
+		"#text": "Объединить дубликаты контактов",
+		"@_name": "mzc_aggregation_contact_title"
+	},
+	{
+		"#text": "Нет дубликатов контактов",
+		"@_name": "mzc_aggregation_empty"
+	},
+	{
+		"#text": "Объединить",
+		"@_name": "mzc_aggregation_menu"
+	},
+	{
+		"#text": "Контактов объединено: %s",
+		"@_name": "mzc_aggregation_notify_complete_content"
+	},
+	{
+		"#text": "Контактов объединено: %s, неудачно: %s",
+		"@_name": "mzc_aggregation_notify_complete_content1",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Объединение завершено",
+		"@_name": "mzc_aggregation_notify_complete_title"
+	},
+	{
+		"#text": "Добавить текущие данные в одно и то же имя контакта для редактирования?",
+		"@_name": "mzc_aggregation_suggestion_edit_dialog_message"
+	},
+	{
+		"#text": "Выбрать контакты",
+		"@_name": "mzc_aggregation_title"
+	},
+	{
+		"#text": "Оплатить",
+		"@_name": "mzc_ali_payment_dilog_title"
+	},
+	{
+		"#text": "Alipay",
+		"@_name": "mzc_alipay"
+	},
+	{
+		"#text": "Перевод Alipay",
+		"@_name": "mzc_alipay_transfer"
+	},
+	{
+		"#text": "Все вызовы",
+		"@_name": "mzc_all_call_log"
+	},
+	{
+		"#text": "Установить аккаунтом по умолчанию",
+		"@_name": "mzc_as_default_account"
+	},
+	{
+		"#text": "Объединение идентичных контактов",
+		"@_name": "mzc_auto_sync_account_tip_sub_title"
+	},
+	{
+		"#text": "Автосинхронизация",
+		"@_name": "mzc_auto_sync_account_tip_title"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "mzc_call_detail_all_entries_delete_call"
+	},
+	{
+		"#text": "Набор IP-номера",
+		"@_name": "mzc_call_ip_number"
+	},
+	{
+		"#text": "Журнал вызовов",
+		"@_name": "mzc_call_log"
+	},
+	{
+		"#text": "%s . %s",
+		"@_name": "mzc_call_log_date_format",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Удаление записей: %s",
+		"@_name": "mzc_call_log_delete_dialog_ok_text"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "mzc_call_log_deleting"
+	},
+	{
+		"#text": "Выберите вызовы",
+		"@_name": "mzc_call_log_no_choiced_title"
+	},
+	{
+		"#text": "Один гудок",
+		"@_name": "mzc_call_missed_ring_one_time"
+	},
+	{
+		"#text": "%s м. %s с.",
+		"@_name": "mzc_callDetailsDurationFormat",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Гудков: %s",
+		"@_name": "mzc_callDetailsDurationFormat3"
+	},
+	{
+		"#text": "%s с.",
+		"@_name": "mzc_callDetailsDurationFormatSecond"
+	},
+	{
+		"#text": "%s ч. %s м. %s с.",
+		"@_name": "mzc_callDetailsDurationFormatWithHour",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Отменить изменения?",
+		"@_name": "mzc_cancel_confirmation_dialog_message"
+	},
+	{
+		"#text": "Отменить копирование контактов?",
+		"@_name": "mzc_cancel_copy_confirmation_message"
+	},
+	{
+		"#text": "Изменить ярлык",
+		"@_name": "mzc_change_label"
+	},
+	{
+		"#text": "Очистить журнал вызовов",
+		"@_name": "mzc_clear_call_log"
+	},
+	{
+		"#text": "/sdcard",
+		"@_name": "mzc_config_export_dir"
+	},
+	{
+		"#text": "sd",
+		"@_name": "mzc_config_export_sd_file_suffix"
+	},
+	{
+		"#text": "Создать и вставить",
+		"@_name": "mzc_contact_edit_create_insert_group"
+	},
+	{
+		"#text": "Свой",
+		"@_name": "mzc_contact_edit_custom_label"
+	},
+	{
+		"#text": "Да",
+		"@_name": "mzc_contact_edit_discard"
+	},
+	{
+		"#text": "Введён неподдерживаемый символ",
+		"@_name": "mzc_contact_edit_filter_info"
+	},
+	{
+		"#text": "Этот номер существует: %1$s",
+		"@_name": "mzc_contact_edit_has_same_phone"
+	},
+	{
+		"#text": "Вставить группы",
+		"@_name": "mzc_contact_edit_insert_group"
+	},
+	{
+		"#text": "Контакт будет сохранён в %1$s",
+		"@_name": "mzc_contact_edit_save_in_account"
+	},
+	{
+		"#text": "Изменить контакт",
+		"@_name": "mzc_contact_editor_title_editor_contact"
+	},
+	{
+		"#text": "Новый контакт",
+		"@_name": "mzc_contact_editor_title_new_contact"
+	},
+	{
+		"#text": "Изменить фото",
+		"@_name": "mzc_contact_editor_update_photo"
+	},
+	{
+		"#text": "фото",
+		"@_name": "mzc_contact_photo"
+	},
+	{
+		"#text": "Сортировка",
+		"@_name": "mzc_contact_sort_description"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "mzc_contacts_delete_progress"
+	},
+	{
+		"#text": "Импорт контактов",
+		"@_name": "mzc_contacts_from_other"
+	},
+	{
+		"#text": "1. Включите Bluetooth на другом устройстве",
+		"@_name": "mzc_contacts_from_other_bluetooth_one"
+	},
+	{
+		"#text": "• Android-устройства, как правило, содержат опцию включения \\\"Bluetooth\\\" в Настройки > Беспроводные сети",
+		"@_name": "mzc_contacts_from_other_bluetooth_one_first"
+	},
+	{
+		"#text": "• В iOS-устройствах старой версии \\\"Bluetooth\\\" находится в разделе Настройки > Общее",
+		"@_name": "mzc_contacts_from_other_bluetooth_one_second"
+	},
+	{
+		"#text": "Пожалуйста, держите как можно ближе устройства во время передачи файлов во избежание разрыва соединения.",
+		"@_name": "mzc_contacts_from_other_bluetooth_tibs"
+	},
+	{
+		"#text": "2. Разрешить другим устройствам обнаруживать телефон",
+		"@_name": "mzc_contacts_from_other_bluetooth_two"
+	},
+	{
+		"#text": "• На разных устройствах это может называться \\\"Видимость\\\" или \\\"Обнаружение\\\"",
+		"@_name": "mzc_contacts_from_other_bluetooth_two_first"
+	},
+	{
+		"#text": "• На iOS-устройствах можно пропустить этот шаг",
+		"@_name": "mzc_contacts_from_other_bluetooth_two_second"
+	},
+	{
+		"#text": "Вставьте SIM-карту",
+		"@_name": "mzc_contacts_from_other_fail_no_sim"
+	},
+	{
+		"#text": "Ошибка импорта контактов через Bluetooth",
+		"@_name": "mzc_contacts_from_other_fail_one"
+	},
+	{
+		"#text": "вы можете попробовать",
+		"@_name": "mzc_contacts_from_other_fail_two"
+	},
+	{
+		"#text": "\" импорт с SIM-карты\"",
+		"@_name": "mzc_contacts_from_other_fail_two_click"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "mzc_contacts_from_other_menu_next"
+	},
+	{
+		"#text": "Повторите попытку",
+		"@_name": "mzc_contacts_from_other_menu_retry"
+	},
+	{
+		"#text": "Остановить передачу",
+		"@_name": "mzc_contacts_from_other_menu_stop_trans"
+	},
+	{
+		"#text": "Повторное чтение контактов",
+		"@_name": "mzc_contacts_from_other_open_bluetooth"
+	},
+	{
+		"#text": "Получение контактов: %1$s",
+		"@_name": "mzc_contacts_from_other_receive_contact"
+	},
+	{
+		"#text": "%",
+		"@_name": "mzc_contacts_from_other_receive_percent"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mzc_contacts_from_other_receive_reading"
+	},
+	{
+		"#text": "Остановить получение контактов?",
+		"@_name": "mzc_contacts_from_other_receive_stop_dialog"
+	},
+	{
+		"#text": "Ошибка сохранения",
+		"@_name": "mzc_contactSavedErrorToast"
+	},
+	{
+		"#text": "недавний вызов. %s. %s. %s",
+		"@_name": "mzc_content_description_recent_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzc_context_menu_batch_edit"
+	},
+	{
+		"#text": "Корпоративный веб-вызов",
+		"@_name": "mzc_context_menu_enterprise_call"
+	},
+	{
+		"#text": "Обычный вызов",
+		"@_name": "mzc_context_menu_normal_call"
+	},
+	{
+		"#text": "\" - Обычный вызорв\"",
+		"@_name": "mzc_context_menu_normal_call_suffix"
+	},
+	{
+		"#text": "Вызов по спец. линии",
+		"@_name": "mzc_context_menu_private_call"
+	},
+	{
+		"#text": "\" - Вызов по спец. линии\"",
+		"@_name": "mzc_context_menu_private_call_suffix"
+	},
+	{
+		"#text": "Интернет-звонок",
+		"@_name": "mzc_context_menu_sip_call"
+	},
+	{
+		"#text": "\" - Веб-вызов\"",
+		"@_name": "mzc_context_menu_sip_call_suffix"
+	},
+	{
+		"#text": "Видеовызов",
+		"@_name": "mzc_context_menu_video_call"
+	},
+	{
+		"#text": "Копирование",
+		"@_name": "mzc_copying"
+	},
+	{
+		"#text": "Копирование отменено",
+		"@_name": "mzc_copying_canceled_title"
+	},
+	{
+		"#text": "Копирование контактов завершено",
+		"@_name": "mzc_copying_contact_finished_title"
+	},
+	{
+		"#text": "Копирование контактов отменено",
+		"@_name": "mzc_copying_contacts_canceled_title"
+	},
+	{
+		"#text": "Контакты скопированы в %s",
+		"@_name": "mzc_copying_contacts_notifier_title"
+	},
+	{
+		"#text": "Система занята. Повторите попытку позже.",
+		"@_name": "mzc_copying_request_rejected_message"
+	},
+	{
+		"#text": "Аккаунт Flyme",
+		"@_name": "mzc_copying_target_flyme_account"
+	},
+	{
+		"#text": "Приложение должно иметь доступ к сети и местоположению, чтобы идентифицировать номера",
+		"@_name": "mzc_cta_dialog_message"
+	},
+	{
+		"#text": "Рингтон",
+		"@_name": "mzc_custom_ringtone"
+	},
+	{
+		"#text": "Вы должны скопировать свою базу данных, содержащую все контакты и журналы вызовов, во внутреннюю память устройства и отправить её по электронной почте. Не забудьте удалить копию после того, как она будет перенесена с устройства или получена по электронной почте.",
+		"@_name": "mzc_debug_dump_database_message"
+	},
+	{
+		"#text": "Удалить сейчас",
+		"@_name": "mzc_debug_dump_delete_button"
+	},
+	{
+		"#text": "Во вложении база данных вызовов со всей контактной информацией. Будьте осторожны при обращении с этими данными!",
+		"@_name": "mzc_debug_dump_email_body"
+	},
+	{
+		"#text": "Выберите приложение для отправки файла",
+		"@_name": "mzc_debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "Вложение базы данных вызовов",
+		"@_name": "mzc_debug_dump_email_subject"
+	},
+	{
+		"#text": "Запустить",
+		"@_name": "mzc_debug_dump_start_button"
+	},
+	{
+		"#text": "Копия базы данных вызовов",
+		"@_name": "mzc_debug_dump_title"
+	},
+	{
+		"#text": "Аккаунт по умолчанию",
+		"@_name": "mzc_default_account"
+	},
+	{
+		"#text": "Контакт будет сохранён в аккаунте по умолчанию",
+		"@_name": "mzc_default_account_tip_text"
+	},
+	{
+		"#text": "Рекомендовано",
+		"@_name": "mzc_default_recommend_flyme_account"
+	},
+	{
+		"#text": "Рингтон по умолчанию",
+		"@_name": "mzc_default_ringtone"
+	},
+	{
+		"#text": "Удалить контакт",
+		"@_name": "mzc_delete_contact"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzc_delete_vcard"
+	},
+	{
+		"#text": "Этот контакт будет удалён",
+		"@_name": "mzc_deleteContactConfirmation"
+	},
+	{
+		"#text": "Детали %1$s",
+		"@_name": "mzc_description_detail_of"
+	},
+	{
+		"#text": "Backspace",
+		"@_name": "mzc_description_dialpad_delete_button"
+	},
+	{
+		"#text": "Вызов с SIM1",
+		"@_name": "mzc_description_dialpad_dial_button1"
+	},
+	{
+		"#text": "Вызов с SIM2",
+		"@_name": "mzc_description_dialpad_dial_button2"
+	},
+	{
+		"#text": "Скрыть панель набора",
+		"@_name": "mzc_description_dialpad_hide_button"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "mzc_description_search_clear"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "mzc_detail"
+	},
+	{
+		"#text": "Информация контакта",
+		"@_name": "mzc_detail_contact_info"
+	},
+	{
+		"#text": "Ошибка набора",
+		"@_name": "mzc_dialer_invalid_dialing"
+	},
+	{
+		"#text": "Установите SIM-карту",
+		"@_name": "mzc_dialog_voicemail_no_sim_message"
+	},
+	{
+		"#text": "Введите инициалы контакта",
+		"@_name": "mzc_driver_input_hint"
+	},
+	{
+		"#text": "Режим вождения",
+		"@_name": "mzc_driver_title"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mzc_easy_mode_edit_contact"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mzc_easy_mode_is_not_starred"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mzc_easy_mode_share_contact"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mzc_easymode_call"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mzc_edit_contact"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mzc_editor"
+	},
+	{
+		"#text": "Сохранить контакт без имени?",
+		"@_name": "mzc_editor_contacts_no_name"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "mzc_editor_contacts_save"
+	},
+	{
+		"#text": "Компания",
+		"@_name": "mzc_emailTypeWork"
+	},
+	{
+		"#text": "Веб-вызов в службу поддержки",
+		"@_name": "mzc_enterprise_call"
+	},
+	{
+		"#text": "Веб-вызов компании",
+		"@_name": "mzc_enterprise_call_label"
+	},
+	{
+		"#text": "Визуальное меню",
+		"@_name": "mzc_enterprise_call_message"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mzc_error_correction"
+	},
+	{
+		"#text": "Подробности: %d успешно, %d неудачно",
+		"@_name": "mzc_error_success_missing_count",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Дата",
+		"@_name": "mzc_eventLabelsGroup"
+	},
+	{
+		"#text": "Юбилей",
+		"@_name": "mzc_eventTypeAnniversary"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mzc_export_to_item_bluetooth"
+	},
+	{
+		"#text": "Подготовка vCard",
+		"@_name": "mzc_export_to_prepare_vcard"
+	},
+	{
+		"#text": "Экспорт контактов",
+		"@_name": "mzc_export_vcard_activity_title"
+	},
+	{
+		"#text": "Экспорт завершён",
+		"@_name": "mzc_exporting_contact_finished_title"
+	},
+	{
+		"#text": "Экспорт контактов",
+		"@_name": "mzc_exporting_contact_list_message"
+	},
+	{
+		"#text": "Экспорт контактов",
+		"@_name": "mzc_exporting_contacts"
+	},
+	{
+		"#text": "Файл экспорта контактов: %1$s",
+		"@_name": "mzc_exporting_file_finish_sub_title"
+	},
+	{
+		"#text": "\"\nВозможная причина ошибки:\n1. SIM-карта заполнена\n2. Неверный формат имени или номера\"",
+		"@_name": "mzc_fail_reason"
+	},
+	{
+		"#text": "Невозможно запустить средство экспорта: %s",
+		"@_name": "mzc_fail_reason_could_not_initialize_exporter"
+	},
+	{
+		"#text": "Невозможно открыть %s: %s",
+		"@_name": "mzc_fail_reason_could_not_open_file",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Ошибка экспорта: %s",
+		"@_name": "mzc_fail_reason_error_occurred_during_export"
+	},
+	{
+		"#text": "Не удалось собрать метаданные файлов vCard",
+		"@_name": "mzc_fail_reason_failed_to_collect_vcard_meta_info"
+	},
+	{
+		"#text": "Невозможно импортировать один или несколько файлов (%s)",
+		"@_name": "mzc_fail_reason_failed_to_read_files"
+	},
+	{
+		"#text": "Ошибка ввода-вывода",
+		"@_name": "mzc_fail_reason_io_error"
+	},
+	{
+		"#text": "Недостаточно памяти. Возможно, файл слишком большой.",
+		"@_name": "mzc_fail_reason_low_memory_during_import"
+	},
+	{
+		"#text": "Нет контактов для экспорта",
+		"@_name": "mzc_fail_reason_no_exportable_contact"
+	},
+	{
+		"#text": "Нет файлов для импорта",
+		"@_name": "mzc_fail_reason_no_importable_file"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "mzc_fail_reason_no_space"
+	},
+	{
+		"#text": "Неподдерживаемый формат",
+		"@_name": "mzc_fail_reason_not_supported"
+	},
+	{
+		"#text": "Имя файла слишком длинное (%s)",
+		"@_name": "mzc_fail_reason_too_long_filename"
+	},
+	{
+		"#text": "Слишком много файлов vCard в памяти",
+		"@_name": "mzc_fail_reason_too_many_vcard"
+	},
+	{
+		"#text": "Неизвестная ошибка",
+		"@_name": "mzc_fail_reason_unknown"
+	},
+	{
+		"#text": "Не удалось открыть vCard",
+		"@_name": "mzc_fail_reason_vcard_can_not_parse_error"
+	},
+	{
+		"#text": "Не удалось выполнить синтаксический анализ файла vCard",
+		"@_name": "mzc_fail_reason_vcard_parse_error"
+	},
+	{
+		"#text": "Веб-вызов сделан",
+		"@_name": "mzc_flyme_sip_call"
+	},
+	{
+		"#text": "Веб-сообщение отправлено для",
+		"@_name": "mzc_flyme_sip_mms"
+	},
+	{
+		"#text": "Импорт контактов",
+		"@_name": "mzc_footer_import"
+	},
+	{
+		"#text": "Контакты компании: %s",
+		"@_name": "mzc_gal_lable"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "mzc_ghostData_company"
+	},
+	{
+		"#text": "Группы",
+		"@_name": "mzc_group_manager"
+	},
+	{
+		"#text": "Добавить контакты",
+		"@_name": "mzc_group_manager_add_contacts"
+	},
+	{
+		"#text": "Добавление контактов",
+		"@_name": "mzc_group_manager_adding_contacts_message"
+	},
+	{
+		"#text": "Создать группу",
+		"@_name": "mzc_group_manager_create_new_group"
+	},
+	{
+		"#text": "Удалить группу",
+		"@_name": "mzc_group_manager_delete"
+	},
+	{
+		"#text": "Удаление группы не удалит контакты",
+		"@_name": "mzc_group_manager_delete_group_sub_title"
+	},
+	{
+		"#text": "Удалить группу",
+		"@_name": "mzc_group_manager_delete_group_title"
+	},
+	{
+		"#text": "Группа только для чтения не удаляется",
+		"@_name": "mzc_group_manager_delete_readonly"
+	},
+	{
+		"#text": "Имя группы существует",
+		"@_name": "mzc_group_manager_input_same_tip"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "mzc_group_manager_menu_insert"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzc_group_manager_menu_remove"
+	},
+	{
+		"#text": "Изменить название",
+		"@_name": "mzc_group_manager_modify"
+	},
+	{
+		"#text": "Введите название группы",
+		"@_name": "mzc_group_manager_new_group_hint_text"
+	},
+	{
+		"#text": "Удаление члена не приведёт к удалению контакта",
+		"@_name": "mzc_group_manager_remove_contacts_from_item_tips"
+	},
+	{
+		"#text": "Удаление контактов",
+		"@_name": "mzc_group_manager_removing_contacts_from_tag"
+	},
+	{
+		"#text": "Контакты: %1$s",
+		"@_name": "mzc_group_manager_total_people"
+	},
+	{
+		"#text": "Контакты Weibo",
+		"@_name": "mzc_group_title_weibo_contacts"
+	},
+	{
+		"#text": "Синхронизация выкл.",
+		"@_name": "mzc_has_not_open_auto_sync"
+	},
+	{
+		"#text": "Синхронизация вкл.",
+		"@_name": "mzc_has_open_auto_sync"
+	},
+	{
+		"#text": "Час",
+		"@_name": "mzc_hour"
+	},
+	{
+		"#text": "Мессенджер",
+		"@_name": "mzc_imLabelsGroup"
+	},
+	{
+		"#text": "Импорт в телефон",
+		"@_name": "mzc_import_contact"
+	},
+	{
+		"#text": "Импорт в",
+		"@_name": "mzc_import_contact_to"
+	},
+	{
+		"#text": "Импорт",
+		"@_name": "mzc_import_vcard"
+	},
+	{
+		"#text": "Импорт из внутренней памяти",
+		"@_name": "mzc_import_vcard_activity_title"
+	},
+	{
+		"#text": "Импортирование",
+		"@_name": "mzc_importing"
+	},
+	{
+		"#text": "Импорт контактов",
+		"@_name": "mzc_importing_contacts"
+	},
+	{
+		"#text": "Импортировано контактов: %1$s",
+		"@_name": "mzc_importing_finish_sub_title"
+	},
+	{
+		"#text": "Импорт завершён",
+		"@_name": "mzc_importing_vcard_finished_title"
+	},
+	{
+		"#text": "Глобальный поиск контактов",
+		"@_name": "mzc_international_search_exchange_directory"
+	},
+	{
+		"#text": "Удалить контакты без имени/номера",
+		"@_name": "mzc_invalid_contacts_banner_title"
+	},
+	{
+		"#text": "Удалено",
+		"@_name": "mzc_invalid_contacts_done"
+	},
+	{
+		"#text": "Без имени",
+		"@_name": "mzc_invalid_contacts_no_name"
+	},
+	{
+		"#text": "Без номера",
+		"@_name": "mzc_invalid_contacts_no_number"
+	},
+	{
+		"#text": "Нет недействительных контактов",
+		"@_name": "mzc_invalid_contacts_none"
+	},
+	{
+		"#text": "Удалить недействительный контакт",
+		"@_name": "mzc_invalid_contacts_title"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mzc_is_not_starred"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mzc_is_starred"
+	},
+	{
+		"#text": "Это действие не поддерживается в текущем режиме",
+		"@_name": "mzc_is_supper_power_mode_warning"
+	},
+	{
+		"#text": "Изменить перед набором",
+		"@_name": "mzc_item_call_edit"
+	},
+	{
+		"#text": "Копировать номер",
+		"@_name": "mzc_item_copy_phone_number"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "mzc_item_copy_text"
+	},
+	{
+		"#text": "+ %s",
+		"@_name": "mzc_item_default_sim_ip_call"
+	},
+	{
+		"#text": "SIM%s + %s",
+		"@_name": "mzc_item_sim_card_ip_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Скрыть",
+		"@_name": "mzc_less"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mzc_loading"
+	},
+	{
+		"#text": "Мой профиль",
+		"@_name": "mzc_local_profile_title"
+	},
+	{
+		"#text": "Управление",
+		"@_name": "mzc_manager_menu"
+	},
+	{
+		"#text": "Максимум записей: %1$s",
+		"@_name": "mzc_max_limit"
+	},
+	{
+		"#text": "Zhuhai, Tangjiawan Technology Innovation Coast, Meizu Technology Building",
+		"@_name": "mzc_meizu_address"
+	},
+	{
+		"#text": "Meizu Technology Ltd.",
+		"@_name": "mzc_meizu_company"
+	},
+	{
+		"#text": "Записи вызовов",
+		"@_name": "mzc_menu_call_recording"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzc_menu_delete"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzc_menu_delete_text"
+	},
+	{
+		"#text": "Экспорт в %s",
+		"@_name": "mzc_menu_export_to"
+	},
+	{
+		"#text": "Экспорт во внутреннюю память",
+		"@_name": "mzc_menu_export_to_disk"
+	},
+	{
+		"#text": "Импорт",
+		"@_name": "mzc_menu_import"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mzc_menu_share"
+	},
+	{
+		"#text": "Другой телефон не поддерживает сеть",
+		"@_name": "mzc_message_sip_address"
+	},
+	{
+		"#text": "Без имени",
+		"@_name": "mzc_missing_name"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mzc_missing_name_index"
+	},
+	{
+		"#text": "Изменить тег",
+		"@_name": "mzc_modify_mark"
+	},
+	{
+		"#text": "Все данные",
+		"@_name": "mzc_more"
+	},
+	{
+		"#text": "Добавление",
+		"@_name": "mzc_mspace_add_message"
+	},
+	{
+		"#text": "В личное",
+		"@_name": "mzc_mspace_add_privacy"
+	},
+	{
+		"#text": "Добавить личные контакты",
+		"@_name": "mzc_mspace_add_privacy_contacts"
+	},
+	{
+		"#text": "Вы можете добавить не более 100 личных контактов",
+		"@_name": "mzc_mspace_add_privacy_error"
+	},
+	{
+		"#text": "Убрать из личного",
+		"@_name": "mzc_mspace_cancel"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzc_mspace_cancel_message"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mzc_mspace_change_message"
+	},
+	{
+		"#text": "Возврат %s к основным контактам и восстановление журнала вызовов и сообщений",
+		"@_name": "mzc_mspace_delete_contacts_message"
+	},
+	{
+		"#text": "Возврат %s контактов, включая %s к основным контактам и восстановление журнала вызовов и сообщений",
+		"@_name": "mzc_mspace_delete_contacts_message_more_than_tree",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "mzc_mspace_delete_message"
+	},
+	{
+		"#text": "Нет личных контактов",
+		"@_name": "mzc_mspace_no_privacy_contacts"
+	},
+	{
+		"#text": "Личные контакты",
+		"@_name": "mzc_mspace_title"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "mzc_net_contact_app_label"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mzc_net_type_wlan"
+	},
+	{
+		"#text": "Веб-связь",
+		"@_name": "mzc_network_communications"
+	},
+	{
+		"#text": "Новый",
+		"@_name": "mzc_new"
+	},
+	{
+		"#text": "Создать в",
+		"@_name": "mzc_new_contact_in"
+	},
+	{
+		"#text": "Чтение завершено, контакт сохранен",
+		"@_name": "mzc_nfc_vcard_save_successed"
+	},
+	{
+		"#text": "Нет контактов",
+		"@_name": "mzc_no_contacts"
+	},
+	{
+		"#text": "Нет SD-карты",
+		"@_name": "mzc_no_sdcard_title"
+	},
+	{
+		"#text": "Нет результатов поиска",
+		"@_name": "mzc_no_search_result"
+	},
+	{
+		"#text": "Неделю назад",
+		"@_name": "mzc_one_week_ago"
+	},
+	{
+		"#text": "Другие действия",
+		"@_name": "mzc_other"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mzc_phone_call"
+	},
+	{
+		"#text": "Обычный вызов",
+		"@_name": "mzc_phone_normal_call"
+	},
+	{
+		"#text": "SIM %s – обычный вызов",
+		"@_name": "mzc_phone_normal_slot_call"
+	},
+	{
+		"#text": "Вызов с SIM %s",
+		"@_name": "mzc_phone_slot_call"
+	},
+	{
+		"#text": "Видеовызов",
+		"@_name": "mzc_phone_video_call"
+	},
+	{
+		"#text": "SIM %s - Видеовызов",
+		"@_name": "mzc_phone_video_call_slot_call"
+	},
+	{
+		"#text": "Факс",
+		"@_name": "mzc_phoneTypeFaxWork"
+	},
+	{
+		"#text": "Работа",
+		"@_name": "mzc_phoneTypeWork"
+	},
+	{
+		"#text": "Восстановить аватар по умолчанию?",
+		"@_name": "mzc_photo_restore_message"
+	},
+	{
+		"#text": "Выбрать контакты",
+		"@_name": "mzc_pick_contacts_title"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "mzc_pick_menu_add"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mzc_pick_share_contact"
+	},
+	{
+		"#text": "Выбрать vCard",
+		"@_name": "mzc_pick_vcard_title"
+	},
+	{
+		"#text": "Компания",
+		"@_name": "mzc_postalTypeWork"
+	},
+	{
+		"#text": "Установка аккаунта по умолчанию для нового контакта",
+		"@_name": "mzc_preference_account_dialog_subtitle"
+	},
+	{
+		"#text": "Управление аккаунтом",
+		"@_name": "mzc_preference_account_manager_title"
+	},
+	{
+		"#text": "Объединение дубликатов",
+		"@_name": "mzc_preference_aggregation"
+	},
+	{
+		"#text": "Аккаунт по умолчанию",
+		"@_name": "mzc_preference_default_account_title"
+	},
+	{
+		"#text": "Экспорт контактов",
+		"@_name": "mzc_preference_export_contacts_title"
+	},
+	{
+		"#text": "Импорт с другого телефона",
+		"@_name": "mzc_preference_import_contacts_from_otherphone_title"
+	},
+	{
+		"#text": "Импорт с SIM-карты",
+		"@_name": "mzc_preference_import_contacts_from_sim_title"
+	},
+	{
+		"#text": "Импорт из внутренней памяти",
+		"@_name": "mzc_preference_import_contacts_from_storagedisk_title"
+	},
+	{
+		"#text": "Удалить недействующие контакты",
+		"@_name": "mzc_preference_invalid_contacts_title"
+	},
+	{
+		"#text": "Выбор отображаемых аккаунтов",
+		"@_name": "mzc_preference_show_account_summary"
+	},
+	{
+		"#text": "Видимые аккаунты",
+		"@_name": "mzc_preference_show_account_title"
+	},
+	{
+		"#text": "Контакты SIM-карты",
+		"@_name": "mzc_preference_sim_contacts_title"
+	},
+	{
+		"#text": "Сохранять идентичные контакты в аккаунтах",
+		"@_name": "mzc_preference_sync_account_summary"
+	},
+	{
+		"#text": "Перекрёстная синхронизация",
+		"@_name": "mzc_preference_sync_account_title"
+	},
+	{
+		"#text": "Управление контактами",
+		"@_name": "mzc_preference_title"
+	},
+	{
+		"#text": "Добавить аватар",
+		"@_name": "mzc_preset_head_add"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "mzc_preset_head_finish"
+	},
+	{
+		"#text": "Изменение фото",
+		"@_name": "mzc_preset_head_replace"
+	},
+	{
+		"#text": "Выбрать",
+		"@_name": "mzc_preset_head_select"
+	},
+	{
+		"#text": "Опция не доступна, обновите прошивку",
+		"@_name": "mzc_preset_select_empty"
+	},
+	{
+		"#text": "\" - SIM 1\"",
+		"@_name": "mzc_private_call_suffix_one"
+	},
+	{
+		"#text": "\" - SIM 2\"",
+		"@_name": "mzc_private_call_suffix_two"
+	},
+	{
+		"#text": "Копирование контактов",
+		"@_name": "mzc_progress_copying_notifier_message"
+	},
+	{
+		"#text": "Импортирование %1$s/%2$s: %3$s",
+		"@_name": "mzc_progress_notifier_message"
+	},
+	{
+		"#text": "%1$s/%2$s %3$s%%",
+		"@_name": "mzc_progress_number"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mzc_qr_code_action_bar_control_title"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "mzc_quick_contact_all_call_log"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzc_quick_contact_delete_contact"
+	},
+	{
+		"#text": "%s данные из %s",
+		"@_name": "mzc_quick_cp_source_from",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Данные из %s",
+		"@_name": "mzc_quick_cp_source_from_without_marker"
+	},
+	{
+		"#text": "Только для чтения",
+		"@_name": "mzc_read_only_contact"
+	},
+	{
+		"#text": "Нельзя экспортировать контакты только для чтения",
+		"@_name": "mzc_read_only_contacts_export_failed"
+	},
+	{
+		"#text": "Недавние",
+		"@_name": "mzc_recent"
+	},
+	{
+		"#text": "Вызовов нет",
+		"@_name": "mzc_recentMissed_empty"
+	},
+	{
+		"#text": "Удалить из чёрного списка",
+		"@_name": "mzc_remove_spam"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "mzc_save_to"
+	},
+	{
+		"#text": "Не удалось просканировать карту памяти",
+		"@_name": "mzc_scanning_sdcard_failed_title"
+	},
+	{
+		"#text": "Поиск контактов",
+		"@_name": "mzc_search_contacts"
+	},
+	{
+		"#text": "Поиск контактов компании",
+		"@_name": "mzc_search_exchange_directory"
+	},
+	{
+		"#text": "Другая сторона не имеет номер для вызова",
+		"@_name": "mzc_search_result_dial_message"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "mzc_search_shortcut_add_to_contacts"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mzc_searching_vcard_message"
+	},
+	{
+		"#text": "Копирование контактов",
+		"@_name": "mzc_select_contacts_copying_message"
+	},
+	{
+		"#text": "Копировать выбранные контакты позже",
+		"@_name": "mzc_select_contacts_will_copy_message"
+	},
+	{
+		"#text": "Галерея",
+		"@_name": "mzc_select_photo_gallery"
+	},
+	{
+		"#text": "По умолчанию",
+		"@_name": "mzc_select_photo_restore"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "mzc_select_photo_shot"
+	},
+	{
+		"#text": "Выбранные контакты будут импортированы позже",
+		"@_name": "mzc_select_vcard_import_will_start_message"
+	},
+	{
+		"#text": "Отправить SMS",
+		"@_name": "mzc_send_sms"
+	},
+	{
+		"#text": "Установить как номер по умолчанию",
+		"@_name": "mzc_set_default_phone_number"
+	},
+	{
+		"#text": "Добавить в чёрный список",
+		"@_name": "mzc_set_spam"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mzc_share_contact"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mzc_share_contact_to"
+	},
+	{
+		"#text": "Ошибка передачи",
+		"@_name": "mzc_share_error"
+	},
+	{
+		"#text": "Отображать контакты для данного аккаунта",
+		"@_name": "mzc_show_account_contacts"
+	},
+	{
+		"#text": "Попробуйте бесплатные веб-звонки прямо сейчас!",
+		"@_name": "mzc_show_flyme_internet_telephony_message"
+	},
+	{
+		"#text": "Об интернет-телефонии",
+		"@_name": "mzc_show_Understanding_internet_telephony"
+	},
+	{
+		"#text": "Совершить веб-вызов",
+		"@_name": "mzc_sip_call"
+	},
+	{
+		"#text": "Веб-вызов",
+		"@_name": "mzc_sip_call_label"
+	},
+	{
+		"#text": "Веб-вызов",
+		"@_name": "mzc_sip_label"
+	},
+	{
+		"#text": "Отправить веб-сообщение",
+		"@_name": "mzc_sip_mms"
+	},
+	{
+		"#text": "Добавить контакты (%1$d/%2$d)",
+		"@_name": "mzc_sos_add_contacts"
+	},
+	{
+		"#text": "Можно добавить до %d контактов",
+		"@_name": "mzc_sos_add_contacts_max"
+	},
+	{
+		"#text": "Автоматический вызов",
+		"@_name": "mzc_sos_auto_call"
+	},
+	{
+		"#text": "Помощь при тревоге",
+		"@_name": "mzc_sos_auto_call_assist"
+	},
+	{
+		"#text": "Автоматически отправлять местоположение в полицию при наборе номера 110/119/120/122",
+		"@_name": "mzc_sos_auto_call_assist_desc"
+	},
+	{
+		"#text": "Автоматический набор %1$s после вызова экстренной помощи (SOS)",
+		"@_name": "mzc_sos_auto_call_des"
+	},
+	{
+		"#text": "Автоотправка сообщения о местоположении",
+		"@_name": "mzc_sos_auto_send_position"
+	},
+	{
+		"#text": "Сообщение о местоположении будет автоматически отправлено всем экстренным контактам.",
+		"@_name": "mzc_sos_auto_send_position_des"
+	},
+	{
+		"#text": "Когда вы вводите экстренную помощь SOS, она автоматически отправляет сообщение о местонахождении экстренному контактному лицу.",
+		"@_name": "mzc_sos_auto_send_position_des2"
+	},
+	{
+		"#text": "Автоотправка сообщения о местоположении всем экстренным контактам каждые %d мин.",
+		"@_name": "mzc_sos_auto_send_service_text"
+	},
+	{
+		"#text": "Автоотправка сообщения о местоположении включена",
+		"@_name": "mzc_sos_auto_send_service_title"
+	},
+	{
+		"#text": "Остановка автоматической отправки",
+		"@_name": "mzc_sos_auto_send_stop"
+	},
+	{
+		"#text": "Телефонная карта экстренной помощи",
+		"@_name": "mzc_sos_auto_sim"
+	},
+	{
+		"#text": "Вызов скорой",
+		"@_name": "mzc_sos_call_ambulance"
+	},
+	{
+		"#text": "Экстренный вызов",
+		"@_name": "mzc_sos_call_emergency"
+	},
+	{
+		"#text": "Вызов пожарных",
+		"@_name": "mzc_sos_call_fire"
+	},
+	{
+		"#text": "Вызов полиции",
+		"@_name": "mzc_sos_call_police"
+	},
+	{
+		"#text": "Вызов полиции",
+		"@_name": "mzc_sos_emergency"
+	},
+	{
+		"#text": "Экстренные контакты",
+		"@_name": "mzc_sos_emergency_contacts"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mzc_sos_exit"
+	},
+	{
+		"#text": "Семейная безопасность",
+		"@_name": "mzc_sos_family_guard"
+	},
+	{
+		"#text": "Круглосуточная защита членов семьи",
+		"@_name": "mzc_sos_family_guard_description"
+	},
+	{
+		"#text": "Описание",
+		"@_name": "mzc_sos_help"
+	},
+	{
+		"#text": "\"Экстренный вызов\n%s, помоги мне! Это моё текущее местоположение, пожалуйста, позвони в полицию!\"",
+		"@_name": "mzc_sos_message"
+	},
+	{
+		"#text": "Я назначил вам экстренный контакт и когда я в опасности, вы получите текстовое сообщение с указанием моего мобильного телефона. Пожалуйста, проверьте мой таргетинг, чтобы предоставить мне необходимую помощь.",
+		"@_name": "mzc_sos_message_content"
+	},
+	{
+		"#text": "Рекомендуется отправить текстовое сообщение экстренному контакту, чтобы сообщить вам, что он был добавлен в качестве экстренного контакта, чтобы другая сторона могла ответить и оказать помощь в случае экстренной помощи SOS.",
+		"@_name": "mzc_sos_message_dialog"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "mzc_sos_message_dialog_ok"
+	},
+	{
+		"#text": "Автоотправка сообщения о местоположении включена",
+		"@_name": "mzc_sos_mode"
+	},
+	{
+		"#text": "Остановка автоматической отправки",
+		"@_name": "mzc_sos_mode_cancel"
+	},
+	{
+		"#text": "Автоотправка сообщения о местоположении всем экстренным контактам каждые %d мин.",
+		"@_name": "mzc_sos_mode_des"
+	},
+	{
+		"#text": "Нажмите для переключения телефонной карты экстренной помощи",
+		"@_name": "mzc_sos_notify_sim_chanaged_desc"
+	},
+	{
+		"#text": "%s был установлен в качестве телефонной карты экстренной помощи",
+		"@_name": "mzc_sos_notify_sim_chanaged_title"
+	},
+	{
+		"#text": "Общественная безопасность",
+		"@_name": "mzc_sos_public_security"
+	},
+	{
+		"#text": "Удалить %s из экстренных контактов",
+		"@_name": "mzc_sos_remove_contacts"
+	},
+	{
+		"#text": "Сообщение о местоположении",
+		"@_name": "mzc_sos_send_position"
+	},
+	{
+		"#text": "SMS о местоположении %ss",
+		"@_name": "mzc_sos_send_position_count"
+	},
+	{
+		"#text": "Сообщение о местоположении отправлено",
+		"@_name": "mzc_sos_send_position_disable"
+	},
+	{
+		"#text": "%s с.",
+		"@_name": "mzc_sos_send_position_disable_count_down"
+	},
+	{
+		"#text": "Экстренные контакты не добавлены! Это можно сделать в системных настройках или настройках диалера. Автоматическая отправка сообщения о местоположении полезна в случае возникновения чрезвычайной ситуации",
+		"@_name": "mzc_sos_send_position_empty"
+	},
+	{
+		"#text": "Автоотправка каждые %d м.",
+		"@_name": "mzc_sos_send_position_other"
+	},
+	{
+		"#text": "Нажмите кнопку питания 5 раз, чтобы вызвать экстренную помощь",
+		"@_name": "mzc_sos_settings_guid"
+	},
+	{
+		"#text": "Нажмите 5 раз",
+		"@_name": "mzc_sos_settings_guid_press"
+	},
+	{
+		"#text": "Настройки экстр. вызова",
+		"@_name": "mzc_sos_settings_title"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "mzc_sos_stop"
+	},
+	{
+		"#text": "Об экстренном вызове",
+		"@_name": "mzc_sos_tibs"
+	},
+	{
+		"#text": "Экстренный вызов",
+		"@_name": "mzc_sos_title"
+	},
+	{
+		"#text": "Автонабор номера %ss",
+		"@_name": "mzc_sos_title_for_call"
+	},
+	{
+		"#text": "Бесплатно",
+		"@_name": "mzc_status_available"
+	},
+	{
+		"#text": "Выбрано аккаунтов: %1$s",
+		"@_name": "mzc_sync_account_has_select_text"
+	},
+	{
+		"#text": "Выберите аккаунты для синхронизации",
+		"@_name": "mzc_sync_account_no_select_text"
+	},
+	{
+		"#text": "Синхронизация аккаунтов для слияния контактов",
+		"@_name": "mzc_sync_account_tip"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "mzc_sync_finish"
+	},
+	{
+		"#text": "Синхронизация",
+		"@_name": "mzc_sync_loading"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzc_sync_retry"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "mzc_sync_start"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "mzc_tab_call_log"
+	},
+	{
+		"#text": "Клавиатура",
+		"@_name": "mzc_tab_dialpad"
+	},
+	{
+		"#text": "Жёлтые страницы",
+		"@_name": "mzc_tab_net_contacts"
+	},
+	{
+		"#text": "Входящий",
+		"@_name": "mzc_type_incoming"
+	},
+	{
+		"#text": "Отклонённый",
+		"@_name": "mzc_type_incoming_reject"
+	},
+	{
+		"#text": "Пропущенный",
+		"@_name": "mzc_type_missed"
+	},
+	{
+		"#text": "Исходящий",
+		"@_name": "mzc_type_outgoing"
+	},
+	{
+		"#text": "Отменено",
+		"@_name": "mzc_type_outgoing_cancelled"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "mzc_type_outgoing_failed"
+	},
+	{
+		"#text": "Не подключено",
+		"@_name": "mzc_type_outgoing_not_connected"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "mzc_type_voicemail"
+	},
+	{
+		"#text": "Нет голосовых сообщений",
+		"@_name": "mzc_type_voicemail_fail"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "mzc_unknown"
+	},
+	{
+		"#text": "Предпросмотр vCard",
+		"@_name": "mzc_vcard_detail_info"
+	},
+	{
+		"#text": "Нет vCard",
+		"@_name": "mzc_vcard_empty"
+	},
+	{
+		"#text": "Ошибка экспорта",
+		"@_name": "mzc_vcard_export_failed"
+	},
+	{
+		"#text": "Анализ",
+		"@_name": "mzc_vcard_file_parse"
+	},
+	{
+		"#text": "Ошибка импорта",
+		"@_name": "mzc_vcard_import_failed"
+	},
+	{
+		"#text": "Невозможно импортировать vCard",
+		"@_name": "mzc_vcard_import_failed_notification"
+	},
+	{
+		"#text": "Запрос на импорт данных vCard отклонен. Повторите попытку позже.",
+		"@_name": "mzc_vcard_import_request_rejected_message"
+	},
+	{
+		"#text": "Просмотреть визитку",
+		"@_name": "mzc_view_electronic_business_cards"
+	},
+	{
+		"#text": "Только для чтения",
+		"@_name": "mzc_visible_account_only_read_text"
+	},
+	{
+		"#text": "При включении контакты аккаунта будут видны",
+		"@_name": "mzc_visible_account_tip_text"
+	},
+	{
+		"#text": "Контакты аккаунта устройства всегда видны",
+		"@_name": "mzc_visible_device_account_visible_tip"
+	},
+	{
+		"#text": "При выключении контакты аккаунта не будут видны",
+		"@_name": "mzc_visible_hide_account_tip"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mzc_visible_hide_alert_dialog_ok"
+	},
+	{
+		"#text": "Выберите номер, который вы хотите набрать",
+		"@_name": "mzc_voice_choose"
+	},
+	{
+		"#text": "%s не найдено в Контактах",
+		"@_name": "mzc_voice_contact_not_found"
+	},
+	{
+		"#text": "Удерживайте для голосового набора номера",
+		"@_name": "mzc_voice_guide_dialpad"
+	},
+	{
+		"#text": "Например, набрать Ивана Петрова",
+		"@_name": "mzc_voice_hint"
+	},
+	{
+		"#text": "Отпустите палец для набора",
+		"@_name": "mzc_voice_hint_call"
+	},
+	{
+		"#text": "Не удалось распознать голос",
+		"@_name": "mzc_voice_not_recognize"
+	},
+	{
+		"#text": "Голосовой набор",
+		"@_name": "mzc_voice_text"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "mzc_voicemail"
+	},
+	{
+		"#text": "Контакты: %d",
+		"@_name": "mzs_contact_list_count"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzs_contact_viewer_split_bottom_delete"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mzs_contact_viewer_split_bottom_edit"
+	},
+	{
+		"#text": "Сохранить в телефон",
+		"@_name": "mzs_contact_viewer_split_bottom_import"
+	},
+	{
+		"#text": "Ошибка удаления",
+		"@_name": "mzs_detail_delete_fail"
+	},
+	{
+		"#text": "Личная информация",
+		"@_name": "mzs_detail_head"
+	},
+	{
+		"#text": "Импорт завершён",
+		"@_name": "mzs_detail_import_success"
+	},
+	{
+		"#text": "Удалить контакт",
+		"@_name": "mzs_detail_menu_delete"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "mzs_detail_menu_edit"
+	},
+	{
+		"#text": "Сохранить в телефон",
+		"@_name": "mzs_detail_menu_import"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mzs_detail_other"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "mzs_detail_title"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "mzs_edit_hint_email"
+	},
+	{
+		"#text": "Номер телефона",
+		"@_name": "mzs_edit_hint_phone"
+	},
+	{
+		"#text": "Эл. почта",
+		"@_name": "mzs_edit_label_email"
+	},
+	{
+		"#text": "Номер",
+		"@_name": "mzs_edit_label_phone"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzs_edit_menu_cancle"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "mzs_edit_menu_done"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "mzs_edit_name"
+	},
+	{
+		"#text": "Импорт с другого телефона",
+		"@_name": "mzs_from_otherphone_title"
+	},
+	{
+		"#text": "Нет контактов",
+		"@_name": "mzs_guide_head"
+	},
+	{
+		"#text": "Повторите попытку",
+		"@_name": "mzs_guide_retry"
+	},
+	{
+		"#text": "• Копировать контакты на SIM-карту - обычно можно найти в настройках контактов",
+		"@_name": "mzs_guide_text_first"
+	},
+	{
+		"#text": "• Убедитесь, что установлена действующая SIM-карта",
+		"@_name": "mzs_guide_text_second"
+	},
+	{
+		"#text": "SIM-карта может быть извлечена и установлена в другое устройство для копирования контактов",
+		"@_name": "mzs_guide_title"
+	},
+	{
+		"#text": "Изменить перед набором",
+		"@_name": "mzs_item_call_edit"
+	},
+	{
+		"#text": "Копировать номер",
+		"@_name": "mzs_item_copy_phone_text"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "mzs_item_copy_text"
+	},
+	{
+		"#text": "+ набор %s",
+		"@_name": "mzs_item_default_sim_ip_call"
+	},
+	{
+		"#text": "Использовать SIM %s для вызова",
+		"@_name": "mzs_item_sim_card_call"
+	},
+	{
+		"#text": "Использовать SIM %s + %s для вызова",
+		"@_name": "mzs_item_sim_card_ip_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Не удалось импортировать: %s",
+		"@_name": "mzs_more_contacts_import_fail"
+	},
+	{
+		"#text": "Ошибка импорта",
+		"@_name": "mzs_one_contact_import_fail"
+	},
+	{
+		"#text": "Выбрать контакты",
+		"@_name": "mzs_pick_contacts"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Не сейчас",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Установлена актуальная версия",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Фамилия",
+		"@_name": "name_family"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "name_given"
+	},
+	{
+		"#text": "Отчество",
+		"@_name": "name_middle"
+	},
+	{
+		"#text": "Имя (транскрипция)",
+		"@_name": "name_phonetic"
+	},
+	{
+		"#text": "Транскрипция фамилии",
+		"@_name": "name_phonetic_family"
+	},
+	{
+		"#text": "Транскрипция имени",
+		"@_name": "name_phonetic_given"
+	},
+	{
+		"#text": "Транскрипция отчества",
+		"@_name": "name_phonetic_middle"
+	},
+	{
+		"#text": "Префикс имени",
+		"@_name": "name_prefix"
+	},
+	{
+		"#text": "Суффикс имени",
+		"@_name": "name_suffix"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "nameLabelsGroup"
+	},
+	{
+		"#text": "Контакт получен по NFC",
+		"@_name": "nfc_vcard_file_name"
+	},
+	{
+		"#text": "Псевдоним",
+		"@_name": "nicknameLabelsGroup"
+	},
+	{
+		"#text": "\"Подключите Контакты к аккаунту Google, чтобы:\n\n• Всегда иметь под рукой обновлённые данные – на любом устройстве.\n• Синхронизировать все контакты – вы никогда не потеряете их.\"",
+		"@_name": "no_account_prompt"
+	},
+	{
+		"#text": "Карта памяти не обнаружена",
+		"@_name": "no_sdcard_message"
+	},
+	{
+		"#text": "Для создания групп нужен аккаунт.",
+		"@_name": "noAccounts"
+	},
+	{
+		"#text": "Нет контактов",
+		"@_name": "noContacts"
+	},
+	{
+		"#text": "Нет групп",
+		"@_name": "noGroups"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "non_phone_add_to_contacts"
+	},
+	{
+		"#text": "Номер телефона",
+		"@_name": "non_phone_caption"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "non_phone_close"
+	},
+	{
+		"#text": "Воспроизвести",
+		"@_name": "notification_action_voicemail_play"
+	},
+	{
+		"#text": "Новое голосовое сообщение от %1$s",
+		"@_name": "notification_new_voicemail_ticker"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "notification_voicemail_callers_list"
+	},
+	{
+		"#text": "Новых пропущенных: %s",
+		"@_name": "num_missed_calls"
+	},
+	{
+		"#text": "%2$s, %1$s",
+		"@_name": "organization_company_and_title"
+	},
+	{
+		"#text": "Организация",
+		"@_name": "organizationLabelsGroup"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "other_settings_title"
+	},
+	{
+		"#text": "Видимость пароля",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "Телефон-автомат",
+		"@_name": "payphone"
+	},
+	{
+		"#text": "%s%%",
+		"@_name": "percentage"
+	},
+	{
+		"#text": "Аккаунты для звонков",
+		"@_name": "phone_account_settings_label"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "phoneLabelsGroup"
+	},
+	{
+		"#text": "В телефоне нет изображений",
+		"@_name": "photoPickerNotFoundText"
+	},
+	{
+		"#text": "Выбрать другое фото",
+		"@_name": "pick_new_photo"
+	},
+	{
+		"#text": "Выбрать фото",
+		"@_name": "pick_photo"
+	},
+	{
+		"#text": "Создать новый контакт",
+		"@_name": "pickerNewContactHeader"
+	},
+	{
+		"#text": "Создать новый контакт",
+		"@_name": "pickerNewContactText"
+	},
+	{
+		"#text": "Адрес",
+		"@_name": "postal_address"
+	},
+	{
+		"#text": "Город",
+		"@_name": "postal_city"
+	},
+	{
+		"#text": "Страна",
+		"@_name": "postal_country"
+	},
+	{
+		"#text": "Район",
+		"@_name": "postal_neighborhood"
+	},
+	{
+		"#text": "Абонентский ящик",
+		"@_name": "postal_pobox"
+	},
+	{
+		"#text": "Почтовый индекс",
+		"@_name": "postal_postcode"
+	},
+	{
+		"#text": "Штат",
+		"@_name": "postal_region"
+	},
+	{
+		"#text": "Улица",
+		"@_name": "postal_street"
+	},
+	{
+		"#text": "Адрес",
+		"@_name": "postalLabelsGroup"
+	},
+	{
+		"#text": "Варианты отображения",
+		"@_name": "preference_displayOptions"
+	},
+	{
+		"#text": "Предуст. аватар",
+		"@_name": "preset_head_label"
+	},
+	{
+		"#text": "Основное фото",
+		"@_name": "primary_photo"
+	},
+	{
+		"#text": "Скрытый номер",
+		"@_name": "private_num"
+	},
+	{
+		"#text": "Версия PRL",
+		"@_name": "prl_version"
+	},
+	{
+		"#text": "Настроить профиль",
+		"@_name": "profile_display_name"
+	},
+	{
+		"#text": "Импортирование %s/%s: %s",
+		"@_name": "progress_notifier_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Удалить контакт",
+		"@_name": "promptDeleteSelectedContactConfirm"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "promptDeletingSimContact"
+	},
+	{
+		"#text": "Экспорт контактов на SIM-карту",
+		"@_name": "promptImportingContactToSim"
+	},
+	{
+		"#text": "Экспортирование",
+		"@_name": "promptImportingSimContact"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "promptQuerySimContacts"
+	},
+	{
+		"#text": "Ошибка сохранения: слишком длинная или недопустимая запись",
+		"@_name": "promptSaveFailed"
+	},
+	{
+		"#text": "Сохранение контакта",
+		"@_name": "promptSavingSimContact"
+	},
+	{
+		"#text": "SIM-карта заполнена",
+		"@_name": "promptSimFull"
+	},
+	{
+		"#text": "Добавить адрес электронной почты",
+		"@_name": "quickcontact_add_email"
+	},
+	{
+		"#text": "Добавить номер телефона",
+		"@_name": "quickcontact_add_phone_number"
+	},
+	{
+		"#text": "Действие не поддерживается ни в одном приложении.",
+		"@_name": "quickcontact_missing_app"
+	},
+	{
+		"#text": "Нажмите, чтобы вернуться на предыдущую страницу",
+		"@_name": "quickcontact_transparent_view_description"
+	},
+	{
+		"#text": "Чтение данных vCard отменено",
+		"@_name": "reading_vcard_canceled_title"
+	},
+	{
+		"#text": "Данные файла vCard не прочитаны",
+		"@_name": "reading_vcard_failed_title"
+	},
+	{
+		"#text": "Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.",
+		"@_name": "readOnlyContactDeleteConfirmation"
+	},
+	{
+		"#text": "Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.",
+		"@_name": "readOnlyContactWarning"
+	},
+	{
+		"#text": "Недавние",
+		"@_name": "recent"
+	},
+	{
+		"#text": "Недавние",
+		"@_name": "recent_card_title"
+	},
+	{
+		"#text": "Недавние обновления",
+		"@_name": "recent_updates"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "recentCalls_addToContact"
+	},
+	{
+		"#text": "Вызов %s",
+		"@_name": "recentCalls_callNumber"
+	},
+	{
+		"#text": "Очистить историю вызовов",
+		"@_name": "recentCalls_deleteAll"
+	},
+	{
+		"#text": "Изменить номер и вызвать",
+		"@_name": "recentCalls_editNumberBeforeCall"
+	},
+	{
+		"#text": "Вызовов нет",
+		"@_name": "recentCalls_empty"
+	},
+	{
+		"#text": "Удалить из истории вызовов",
+		"@_name": "recentCalls_removeFromRecentList"
+	},
+	{
+		"#text": "Передать голосовое сообщение",
+		"@_name": "recentCalls_shareVoicemail"
+	},
+	{
+		"#text": "Удалить голосовое сообщение",
+		"@_name": "recentCalls_trashVoicemail"
+	},
+	{
+		"#text": "История вызовов",
+		"@_name": "recentCallsIconLabel"
+	},
+	{
+		"#text": "Вызовов нет",
+		"@_name": "recentMissed_empty"
+	},
+	{
+		"#text": "Посмотреть всю историю вызовов",
+		"@_name": "recents_footer_text"
+	},
+	{
+		"#text": "Нет голосовых сообщений",
+		"@_name": "recentVoicemails_empty"
+	},
+	{
+		"#text": "Связи",
+		"@_name": "relationLabelsGroup"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "remove_contact"
+	},
+	{
+		"#text": "Удалить фото",
+		"@_name": "removePhoto"
+	},
+	{
+		"#text": "Быстрые ответы",
+		"@_name": "respond_via_sms_setting_title"
+	},
+	{
+		"#text": "Восстановление контактов",
+		"@_name": "restore_contacts"
+	},
+	{
+		"#text": "Вы хотите восстановить контакты до даты %1$s ?",
+		"@_name": "restore_contacts_dialog_msg"
+	},
+	{
+		"#text": "Перезвонить",
+		"@_name": "returnCall"
+	},
+	{
+		"#text": "Рингтон",
+		"@_name": "ringtone_title"
+	},
+	{
+		"#text": "Сохранить в",
+		"@_name": "save_to"
+	},
+	{
+		"#text": "Сохранение контактаu2026",
+		"@_name": "savingContact"
+	},
+	{
+		"#text": "Сохранение параметров…",
+		"@_name": "savingDisplayGroups"
+	},
+	{
+		"#text": "Невозможно сканирование SD-карты. (Причина: «%s»)",
+		"@_name": "scanning_sdcard_failed_message"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "search_font_family"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Поиск…",
+		"@_name": "search_results_searching"
+	},
+	{
+		"#text": "Имена контактов",
+		"@_name": "search_settings_description"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "search_shortcut_add_to_contacts"
+	},
+	{
+		"#text": "Вызов %s",
+		"@_name": "search_shortcut_call_number"
+	},
+	{
+		"#text": "Совершить видеовызов",
+		"@_name": "search_shortcut_make_video_call"
+	},
+	{
+		"#text": "Поиск контактов",
+		"@_name": "searchHint"
+	},
+	{
+		"#text": "Поиск данных vCard на SD-карте…",
+		"@_name": "searching_vcard_message"
+	},
+	{
+		"#text": "Аккаунт",
+		"@_name": "select_account_dialog_title"
+	},
+	{
+		"#text": "Вызов с",
+		"@_name": "select_phone_account_for_calls"
+	},
+	{
+		"#text": "Выберите файл vCard",
+		"@_name": "select_vcard_title"
+	},
+	{
+		"#text": "Отправить SMS",
+		"@_name": "send_message"
+	},
+	{
+		"#text": "Направлять вызовы в голосовую почту",
+		"@_name": "send_to_voicemail_checkbox"
+	},
+	{
+		"#text": "Все контакты",
+		"@_name": "separatorJoinAggregateAll"
+	},
+	{
+		"#text": "Предлагаемые контакты",
+		"@_name": "separatorJoinAggregateSuggestions"
+	},
+	{
+		"#text": "Установить по умолчанию",
+		"@_name": "set_default"
+	},
+	{
+		"#text": "Всегда использовать для звонков",
+		"@_name": "set_default_account"
+	},
+	{
+		"#text": "Отображение контактов",
+		"@_name": "settings_contact_display_options_title"
+	},
+	{
+		"#text": "Невозможно передать контакт",
+		"@_name": "share_error"
+	},
+	{
+		"#text": "Способ отправки",
+		"@_name": "share_via"
+	},
+	{
+		"#text": "Передать видимые контакты",
+		"@_name": "share_visible_contacts"
+	},
+	{
+		"#text": "Выбрать контакт для быстрого вызова",
+		"@_name": "shortcutActivityTitle"
+	},
+	{
+		"#text": "Контакт",
+		"@_name": "shortcutContact"
+	},
+	{
+		"#text": "Быстрый звонок",
+		"@_name": "shortcutDialContact"
+	},
+	{
+		"#text": "Быстрое SMS",
+		"@_name": "shortcutMessageContact"
+	},
+	{
+		"#text": "Только избранные",
+		"@_name": "show_favorites_only"
+	},
+	{
+		"#text": "Показать все контакты",
+		"@_name": "showAllContactsJoinItem"
+	},
+	{
+		"#text": "SIM-карта недоступна",
+		"@_name": "sim_not_available"
+	},
+	{
+		"#text": "Контакты на SIM 2",
+		"@_name": "sim_one_title"
+	},
+	{
+		"#text": "Контакты на SIM 2",
+		"@_name": "sim_two_title"
+	},
+	{
+		"#text": "Загрузка с SIM-карты…",
+		"@_name": "simContacts_emptyLoading"
+	},
+	{
+		"#text": "Контакты SIM-карты",
+		"@_name": "simContacts_title"
+	},
+	{
+		"#text": "Текстовое сообщение",
+		"@_name": "sms"
+	},
+	{
+		"#text": "SMS: %s",
+		"@_name": "sms_assistant"
+	},
+	{
+		"#text": "SMS: номер обратного вызова",
+		"@_name": "sms_callback"
+	},
+	{
+		"#text": "SMS: телефон в машине",
+		"@_name": "sms_car"
+	},
+	{
+		"#text": "SMS: телефон офиса",
+		"@_name": "sms_company_main"
+	},
+	{
+		"#text": "SMS: %s",
+		"@_name": "sms_custom"
+	},
+	{
+		"#text": "Выбрать номер",
+		"@_name": "sms_disambig_title"
+	},
+	{
+		"#text": "SMS: домашний факс",
+		"@_name": "sms_fax_home"
+	},
+	{
+		"#text": "SMS: рабочий факс",
+		"@_name": "sms_fax_work"
+	},
+	{
+		"#text": "SMS: домашний",
+		"@_name": "sms_home"
+	},
+	{
+		"#text": "SMS: номер ISDN",
+		"@_name": "sms_isdn"
+	},
+	{
+		"#text": "SMS: основной номер",
+		"@_name": "sms_main"
+	},
+	{
+		"#text": "SMS: номер MMS",
+		"@_name": "sms_mms"
+	},
+	{
+		"#text": "SMS: мобильный",
+		"@_name": "sms_mobile"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "sms_other"
+	},
+	{
+		"#text": "SMS: факс",
+		"@_name": "sms_other_fax"
+	},
+	{
+		"#text": "SMS: пейджер",
+		"@_name": "sms_pager"
+	},
+	{
+		"#text": "SMS: радиотелефон",
+		"@_name": "sms_radio"
+	},
+	{
+		"#text": "SMS: телекс",
+		"@_name": "sms_telex"
+	},
+	{
+		"#text": "SMS: телетайп",
+		"@_name": "sms_tty_tdd"
+	},
+	{
+		"#text": "SMS: рабочий",
+		"@_name": "sms_work"
+	},
+	{
+		"#text": "SMS: рабочий мобильный",
+		"@_name": "sms_work_mobile"
+	},
+	{
+		"#text": "SMS: рабочий пейджер",
+		"@_name": "sms_work_pager"
+	},
+	{
+		"#text": "Контакт",
+		"@_name": "social_widget_label"
+	},
+	{
+		"#text": "Загрузка…",
+		"@_name": "social_widget_loading"
+	},
+	{
+		"#text": "Пользовательский",
+		"@_name": "socialProfileTypeCustom"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "socialProfileTypeOther"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "socialProfileTypeSinaWeibo"
+	},
+	{
+		"#text": "Звук и вибросигнал",
+		"@_name": "sounds_and_vibrate_category_title"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "Имущественное страхование Китая Лтд",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "Национальное правительство",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Telecom",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "Промышленно-коммерческий банк Китая",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "Everbright Bank (Китай)",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "Горячая линия Службы экологического надзора",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "Горячая линия антимонапольной службы",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "Медицинское Страхование Китая Лтд",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Unicom",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "Горячая линия для клиентов Meizu",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "Сельскохозяйственный банк Китая",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "Миншэн Life Insurance Co., Ltd.",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "Горячая линия судебной службы",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "Страхование Жизни Лтд",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "Прогноз погоды",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Railcom",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "Горячая линия Ассоциации потребителей",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Mobile",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "Настройте быстрый набор, чтобы вам было удобнее звонить на часто используемые номера.",
+		"@_name": "speed_dial_empty"
+	},
+	{
+		"#text": "Этот контакт будет разделён на несколько.",
+		"@_name": "splitConfirmation"
+	},
+	{
+		"#text": "Разделить контакт?",
+		"@_name": "splitConfirmation_title"
+	},
+	{
+		"#text": "Помеченные",
+		"@_name": "starredList"
+	},
+	{
+		"#text": "Доступно",
+		"@_name": "status_available"
+	},
+	{
+		"#text": "Нет на месте",
+		"@_name": "status_away"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Не беспокоить",
+		"@_name": "status_busy"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "strequentList"
+	},
+	{
+		"#text": "Версия ПО",
+		"@_name": "sw_version"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "tab_all_contacts"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "tab_font_family"
+	},
+	{
+		"#text": "Недавние",
+		"@_name": "tab_recents"
+	},
+	{
+		"#text": "Быстрый набор",
+		"@_name": "tab_speed_dial"
+	},
+	{
+		"#text": "Сфотографировать",
+		"@_name": "take_new_photo"
+	},
+	{
+		"#text": "Сделать снимок",
+		"@_name": "take_photo"
+	},
+	{
+		"#text": "Входной контент",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Выбрать контакты",
+		"@_name": "title_pick_contacts"
+	},
+	{
+		"#text": "Объединить контакты",
+		"@_name": "titleJoinContactDataWith"
+	},
+	{
+		"#text": "Новый контакт SIM",
+		"@_name": "titleSimContactCreate"
+	},
+	{
+		"#text": "Изменить контакт",
+		"@_name": "titleSimContactEdit"
+	},
+	{
+		"#text": "Контакты SIM-карты",
+		"@_name": "titleSimContacts"
+	},
+	{
+		"#text": "Данные недоступны",
+		"@_name": "toast_call_detail_error"
+	},
+	{
+		"#text": "Жалоба отправлена в Google",
+		"@_name": "toast_caller_id_reported"
+	},
+	{
+		"#text": "Отображаются все контакты",
+		"@_name": "toast_displaying_all_contacts"
+	},
+	{
+		"#text": "Удалено из истории вызовов",
+		"@_name": "toast_entry_removed"
+	},
+	{
+		"#text": "Укажите имя контакта, который хотите объединить.",
+		"@_name": "toast_join_with_empty_contact"
+	},
+	{
+		"#text": "Создание персональной копии…",
+		"@_name": "toast_making_personal_copy"
+	},
+	{
+		"#text": "Текст скопирован",
+		"@_name": "toast_text_copied"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "today"
+	},
+	{
+		"#text": "Сегодня в %s",
+		"@_name": "today_at_time_fmt"
+	},
+	{
+		"#text": "Завтра",
+		"@_name": "tomorrow"
+	},
+	{
+		"#text": "Завтра в %s",
+		"@_name": "tomorrow_at_time_fmt"
+	},
+	{
+		"#text": "Входящий вызов",
+		"@_name": "type_incoming"
+	},
+	{
+		"#text": "Входящий видеовызов",
+		"@_name": "type_incoming_video"
+	},
+	{
+		"#text": "Пропущенный вызов",
+		"@_name": "type_missed"
+	},
+	{
+		"#text": "Пропущенный видеовызов",
+		"@_name": "type_missed_video"
+	},
+	{
+		"#text": "Исходящий вызов",
+		"@_name": "type_outgoing"
+	},
+	{
+		"#text": "Исходящий видеовызов",
+		"@_name": "type_outgoing_video"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "type_voicemail"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "unknow"
+	},
+	{
+		"#text": "Неизвестно",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "(Событие без названия)",
+		"@_name": "untitled_event"
+	},
+	{
+		"#text": "Список контактов обновляется.",
+		"@_name": "upgrade_in_progress"
+	},
+	{
+		"#text": "\"Контакты обновляются.\n\nДля этого требуется около %s Мб внутренней памяти.\n\nВыберите подходящую опцию:\"",
+		"@_name": "upgrade_out_of_memory"
+	},
+	{
+		"#text": "Повторить попытку обновления",
+		"@_name": "upgrade_out_of_memory_retry"
+	},
+	{
+		"#text": "Удалить некоторые приложения",
+		"@_name": "upgrade_out_of_memory_uninstall"
+	},
+	{
+		"#text": "Я",
+		"@_name": "user_profile_contacts_list_header"
+	},
+	{
+		"#text": "Запрос на экспорт данных vCard отклонён. Повторите попытку позже.",
+		"@_name": "vcard_export_request_rejected_message"
+	},
+	{
+		"#text": "Скоро начнется экспорт %s",
+		"@_name": "vcard_export_will_start_message"
+	},
+	{
+		"#text": "Невозможно импортировать vCard",
+		"@_name": "vcard_import_failed"
+	},
+	{
+		"#text": "Запрос на импорт данных vCard отклонён. Повторите попытку позже.",
+		"@_name": "vcard_import_request_rejected_message"
+	},
+	{
+		"#text": "Скоро начнется импорт %s",
+		"@_name": "vcard_import_will_start_message"
+	},
+	{
+		"#text": "Скоро начнется импорт файла",
+		"@_name": "vcard_import_will_start_message_with_default_name"
+	},
+	{
+		"#text": "контакт",
+		"@_name": "vcard_unknown_filename"
+	},
+	{
+		"#text": "Версия",
+		"@_name": "version"
+	},
+	{
+		"#text": "Вибросигнал при вызове",
+		"@_name": "vibrate_on_ring_title"
+	},
+	{
+		"#text": "Видеочат",
+		"@_name": "video_chat"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "view_full_call_history_font_family"
+	},
+	{
+		"#text": "Просмотреть обновления",
+		"@_name": "view_updates_from_group"
+	},
+	{
+		"#text": "Сведения о контакте",
+		"@_name": "viewContactTitle"
+	},
+	{
+		"#text": "Голосовой поиск недоступен",
+		"@_name": "voice_search_not_available"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "voicemail"
+	},
+	{
+		"#text": "Буферизация…",
+		"@_name": "voicemail_buffering"
+	},
+	{
+		"#text": "Загрузка сообщений…",
+		"@_name": "voicemail_fetching_content"
+	},
+	{
+		"#text": "Не удалось загрузить голосовую почту",
+		"@_name": "voicemail_fetching_timout"
+	},
+	{
+		"#text": "Увеличить скорость воспроизведения.",
+		"@_name": "voicemail_play_faster"
+	},
+	{
+		"#text": "Уменьшить скорость воспроизведения.",
+		"@_name": "voicemail_play_slower"
+	},
+	{
+		"#text": "Начать или приостановить воспроизведение.",
+		"@_name": "voicemail_play_start_pause"
+	},
+	{
+		"#text": "Не удалось воспроизвести сообщение",
+		"@_name": "voicemail_playback_error"
+	},
+	{
+		"#text": "Выключить динамик.",
+		"@_name": "voicemail_speaker_off"
+	},
+	{
+		"#text": "Включить динамик.",
+		"@_name": "voicemail_speaker_on"
+	},
+	{
+		"#text": "Высокая скорость",
+		"@_name": "voicemail_speed_faster"
+	},
+	{
+		"#text": "Максимальная скорость",
+		"@_name": "voicemail_speed_fastest"
+	},
+	{
+		"#text": "Средняя скорость",
+		"@_name": "voicemail_speed_normal"
+	},
+	{
+		"#text": "Низкая скорость",
+		"@_name": "voicemail_speed_slower"
+	},
+	{
+		"#text": "Минимальная скорость",
+		"@_name": "voicemail_speed_slowest"
+	},
+	{
+		"#text": "Получить почту",
+		"@_name": "voicemail_status_action_call_server"
+	},
+	{
+		"#text": "Настройка",
+		"@_name": "voicemail_status_action_configure"
+	},
+	{
+		"#text": "Аудио недоступно",
+		"@_name": "voicemail_status_audio_not_available"
+	},
+	{
+		"#text": "Настройте голосовую почту",
+		"@_name": "voicemail_status_configure_voicemail"
+	},
+	{
+		"#text": "Новое голосовое сообщение. Невозможно загрузить сейчас.",
+		"@_name": "voicemail_status_messages_waiting"
+	},
+	{
+		"#text": "Не удаётся загрузить данные голосовой почты",
+		"@_name": "voicemail_status_voicemail_not_available"
+	},
+	{
+		"#text": "Веб-сайт",
+		"@_name": "websiteLabelsGroup"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "%1$s (%2$s)",
+		"@_name": "widget_name_and_phonetic"
+	},
+	{
+		"#text": "SIM 1",
+		"@_name": "work"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "yesterday"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "yp_dialog_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "yp_dialog_confirm"
+	},
+	{
+		"#text": "Нажмите для установки Flyme Yellow Page",
+		"@_name": "yp_dialog_not_install_msg"
+	}
+]

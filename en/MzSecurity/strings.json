@@ -1,0 +1,7281 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)",
+		"@_name": "mz_permission_policy_description"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Permissions and statements",
+		"@_name": "mz_permission_title_terms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Meizu Privacy Policy",
+		"@_name": "mz_privacy_policy"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "User Agreement",
+		"@_name": "mz_user_agreement"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "just now",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "seconds ago",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Background picture",
+		"@_name": "BG_Description"
+	},
+	{
+		"#text": "Day",
+		"@_name": "Day"
+	},
+	{
+		"#text": "Today",
+		"@_name": "DayUsed"
+	},
+	{
+		"#text": "Free data used",
+		"@_name": "FreeUsed"
+	},
+	{
+		"#text": "Used this month",
+		"@_name": "MouthUsed"
+	},
+	{
+		"#text": "Delete call logs",
+		"@_name": "PERM_ID_DELETE_CALLLOG"
+	},
+	{
+		"#text": "Delete contacts",
+		"@_name": "PERM_ID_DELETE_CONTACT"
+	},
+	{
+		"#text": "Delete MMS",
+		"@_name": "PERM_ID_DELETE_MMSDB"
+	},
+	{
+		"#text": "Delete SMS",
+		"@_name": "PERM_ID_DELETE_SMSDB"
+	},
+	{
+		"#text": "Write call logs",
+		"@_name": "PERM_ID_WRITE_CALLLOG"
+	},
+	{
+		"#text": "Write contacts logs",
+		"@_name": "PERM_ID_WRITE_CONTACT"
+	},
+	{
+		"#text": "Write MMS logs",
+		"@_name": "PERM_ID_WRITE_MMSDB"
+	},
+	{
+		"#text": "Write SMS logs",
+		"@_name": "PERM_ID_WRITE_SMSDB"
+	},
+	{
+		"#text": "Advanced settings",
+		"@_name": "Senior"
+	},
+	{
+		"#text": "One",
+		"@_name": "SummaryUItempText"
+	},
+	{
+		"#text": "Monthly data used on",
+		"@_name": "TraffciManagerTitle"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "TrafficDialogNegativeButton"
+	},
+	{
+		"#text": "OK",
+		"@_name": "TrafficDialogPositiveButton"
+	},
+	{
+		"#text": "Free up memory to speed up your phone",
+		"@_name": "acceleration_summary"
+	},
+	{
+		"#text": "Accelerator",
+		"@_name": "acceleration_title"
+	},
+	{
+		"#text": "Skip %d",
+		"@_name": "ad_close_tip"
+	},
+	{
+		"#text": "Learn your preferences and recommend secure apps",
+		"@_name": "ad_download_desc_text"
+	},
+	{
+		"#text": "Add Number",
+		"@_name": "add_black"
+	},
+	{
+		"#text": "Mark",
+		"@_name": "add_phone_num_tag"
+	},
+	{
+		"#text": "Add keywords",
+		"@_name": "add_sms_key_word"
+	},
+	{
+		"#text": "Add Number",
+		"@_name": "add_spam_number"
+	},
+	{
+		"#text": "Add to whitelist",
+		"@_name": "add_to_whitelist"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add_trust_app_switch"
+	},
+	{
+		"#text": "Add apps",
+		"@_name": "add_trust_apps"
+	},
+	{
+		"#text": "Trusted apps will not be scanned",
+		"@_name": "add_trust_apps_summary"
+	},
+	{
+		"#text": "Add Number",
+		"@_name": "add_white"
+	},
+	{
+		"#text": "Add Number",
+		"@_name": "add_white_list"
+	},
+	{
+		"#text": "AI Detect",
+		"@_name": "ai_detect"
+	},
+	{
+		"#text": "Under AI protection",
+		"@_name": "ai_detect_support"
+	},
+	{
+		"#text": "Real-time monitoring apps to detect virus",
+		"@_name": "ai_detect_switch_summary"
+	},
+	{
+		"#text": "AI virus scanning engine",
+		"@_name": "ai_detect_switch_title"
+	},
+	{
+		"#text": "Monthly",
+		"@_name": "allow_mobile_data_usage"
+	},
+	{
+		"#text": "Cleaned %1$s of redundant APK files",
+		"@_name": "already_clean_apk"
+	},
+	{
+		"#text": "Cleaned %1$s of system and app caches",
+		"@_name": "already_clean_app_cache"
+	},
+	{
+		"#text": "%1$s of file(s) cleaned",
+		"@_name": "already_clean_rubbish_files"
+	},
+	{
+		"#text": "Cleaned %1$s of uninstallation remnants",
+		"@_name": "already_clean_uninstall"
+	},
+	{
+		"#text": "Backup",
+		"@_name": "apk_type_backup"
+	},
+	{
+		"#text": "Damaged",
+		"@_name": "apk_type_damged"
+	},
+	{
+		"#text": "Update package",
+		"@_name": "apk_type_update"
+	},
+	{
+		"#text": "Installation package: %1$s",
+		"@_name": "apk_white_count"
+	},
+	{
+		"#text": "App cache: %1$s",
+		"@_name": "app_cache_white_count"
+	},
+	{
+		"#text": "app(s)",
+		"@_name": "app_count"
+	},
+	{
+		"#text": "Auto-scan during charging and filter out uncommonly used apps, making it easier and faster to manage your phone",
+		"@_name": "app_desc_text"
+	},
+	{
+		"#text": "Security",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "App permissions",
+		"@_name": "app_permission_manager"
+	},
+	{
+		"#text": "Linked to %1$s app(s)",
+		"@_name": "app_waken_allowed_from_cnt"
+	},
+	{
+		"#text": "No linked launching history",
+		"@_name": "app_waken_details_empty_txt"
+	},
+	{
+		"#text": "Tried to start %1$s time(s), %2$s sec ago",
+		"@_name": "app_waken_details_info1_0"
+	},
+	{
+		"#text": "Tried to start %1$s time(s), %2$s min ago",
+		"@_name": "app_waken_details_info1_1"
+	},
+	{
+		"#text": "Tried to start %1$s time(s), %2$s hr ago",
+		"@_name": "app_waken_details_info1_2"
+	},
+	{
+		"#text": "Tried to start %1$s time(s), %2$s day(s) ago",
+		"@_name": "app_waken_details_info1_3"
+	},
+	{
+		"#text": "Disallowed to be started by the following apps: %1$s",
+		"@_name": "app_waken_details_list_title"
+	},
+	{
+		"#text": "\"Can't be launched by other apps\"",
+		"@_name": "app_waken_details_list_title_empty"
+	},
+	{
+		"#text": "allows to start the applications",
+		"@_name": "app_waken_details_list_title_empty_off"
+	},
+	{
+		"#text": "Allowed to be started by the following apps:%1$s",
+		"@_name": "app_waken_details_list_title_off"
+	},
+	{
+		"#text": "App details",
+		"@_name": "app_waken_details_title"
+	},
+	{
+		"#text": "Unlinked from %1$s app(s)",
+		"@_name": "app_waken_from_cnt"
+	},
+	{
+		"#text": "Linked launching disabled",
+		"@_name": "app_waken_from_empty"
+	},
+	{
+		"#text": "%1$s sec ago",
+		"@_name": "app_waken_item_time0"
+	},
+	{
+		"#text": "%1$s min ago",
+		"@_name": "app_waken_item_time1"
+	},
+	{
+		"#text": "%1$s hr ago",
+		"@_name": "app_waken_item_time2"
+	},
+	{
+		"#text": "%1$s day(s) ago",
+		"@_name": "app_waken_item_time3"
+	},
+	{
+		"#text": "Allowed in linked launch: %1$s",
+		"@_name": "app_waken_list_title_allow"
+	},
+	{
+		"#text": "Disabled from linked launch: %1$s",
+		"@_name": "app_waken_list_title_forbid"
+	},
+	{
+		"#text": "Disable linked launching of apps",
+		"@_name": "app_waken_setting_switch"
+	},
+	{
+		"#text": "Other files",
+		"@_name": "appcache_uninstalled_trash_other"
+	},
+	{
+		"#text": "App list",
+		"@_name": "application_list"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "application_managerment"
+	},
+	{
+		"#text": "Allow all",
+		"@_name": "appsec_allowall"
+	},
+	{
+		"#text": "Always ask",
+		"@_name": "appsec_prompt"
+	},
+	{
+		"#text": "Deny all",
+		"@_name": "appsec_rejall"
+	},
+	{
+		"#text": "Stop blocking this number",
+		"@_name": "ask_cancel_block"
+	},
+	{
+		"#text": "Record audio",
+		"@_name": "audio_permission_summary"
+	},
+	{
+		"#text": "Recording",
+		"@_name": "audio_permission_title"
+	},
+	{
+		"#text": "Auto correct",
+		"@_name": "autoCheck"
+	},
+	{
+		"#text": "Calibrate traffic statistics regularly",
+		"@_name": "autoCheckTitle"
+	},
+	{
+		"#text": "Scan frequency",
+		"@_name": "auto_clean_frequency"
+	},
+	{
+		"#text": "Auto-calibration is not only free, but also synchronizes traffic details with carriers to prevent over-subscription",
+		"@_name": "automatically_correct_flow_msg"
+	},
+	{
+		"#text": "Auto-starts",
+		"@_name": "autorun_managerment"
+	},
+	{
+		"#text": "All messages and calls from the whitelist are considered safe",
+		"@_name": "ba_whitelist_set_pfs_summary"
+	},
+	{
+		"#text": "Whitelist",
+		"@_name": "ba_whitelist_set_pfs_title"
+	},
+	{
+		"#text": "Background start",
+		"@_name": "backgroundstart"
+	},
+	{
+		"#text": "Can be cleaned out",
+		"@_name": "be_thin"
+	},
+	{
+		"#text": "Auto-scan during charging and filter out uncommonly used big files, making it easier and faster to manage your phone",
+		"@_name": "bigfile_desc_text"
+	},
+	{
+		"#text": "Block all",
+		"@_name": "block_choice_block_all"
+	},
+	{
+		"#text": "Block if marked by over %1$d people",
+		"@_name": "block_choice_block_count"
+	},
+	{
+		"#text": "Not block",
+		"@_name": "block_choice_unblock"
+	},
+	{
+		"#text": "Blacklist numbers",
+		"@_name": "block_reason_blacklist"
+	},
+	{
+		"#text": "Smart filtering",
+		"@_name": "block_reason_smart"
+	},
+	{
+		"#text": "Strange number",
+		"@_name": "block_reason_stranger_number"
+	},
+	{
+		"#text": "SMS such as \\\"reply TD to unsubscribe\\\"",
+		"@_name": "block_sms_unsubscribe_pref_summary"
+	},
+	{
+		"#text": "Block SMS unsubscribe supported",
+		"@_name": "block_sms_unsubscribe_pref_title"
+	},
+	{
+		"#text": "Blacklist",
+		"@_name": "block_tag_black"
+	},
+	{
+		"#text": "Keywords",
+		"@_name": "block_tag_keyword"
+	},
+	{
+		"#text": "Stranger",
+		"@_name": "block_tag_stranger"
+	},
+	{
+		"#text": "Unsubscribe supported",
+		"@_name": "block_tag_subscribe"
+	},
+	{
+		"#text": "Use body sensor",
+		"@_name": "body_sensors"
+	},
+	{
+		"#text": "Brand",
+		"@_name": "brands"
+	},
+	{
+		"#text": "Add to blacklist",
+		"@_name": "bs_add_black_list_dialog_title"
+	},
+	{
+		"#text": "Delete all call logs",
+		"@_name": "bs_add_blacklist_dialog_summary_line2_text"
+	},
+	{
+		"#text": "%1$s will be added to blacklist.",
+		"@_name": "bs_add_blacklist_dialog_text"
+	},
+	{
+		"#text": "%1$s and the others will be added to blacklist.",
+		"@_name": "bs_add_blacklists_dialog_text"
+	},
+	{
+		"#text": "Messages and calls from the blacklist will be blocked",
+		"@_name": "bs_blacklist_set_pfs_summary"
+	},
+	{
+		"#text": "Blacklist",
+		"@_name": "bs_blacklist_set_pfs_title"
+	},
+	{
+		"#text": "Blacklist filtering",
+		"@_name": "bs_blacklist_spam_spfs_title"
+	},
+	{
+		"#text": "%1$s marked",
+		"@_name": "bs_block_call_tag_count"
+	},
+	{
+		"#text": "Delete %1$s Blacklisted Number(s)",
+		"@_name": "bs_confirm_delete_black"
+	},
+	{
+		"#text": "Delete %1$s record(s)",
+		"@_name": "bs_confirm_delete_record"
+	},
+	{
+		"#text": "Delete %1$s Whitelisted Number(s)",
+		"@_name": "bs_confirm_delete_white"
+	},
+	{
+		"#text": "Downloading via mobile network will consume your data. Continue?",
+		"@_name": "bs_data_update_confirm"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "bs_data_update_continue"
+	},
+	{
+		"#text": "Data updated",
+		"@_name": "bs_data_update_finish"
+	},
+	{
+		"#text": "Not updated yet",
+		"@_name": "bs_data_update_never"
+	},
+	{
+		"#text": "Database update",
+		"@_name": "bs_data_update_title"
+	},
+	{
+		"#text": "List management",
+		"@_name": "bs_list_manager_pfc_title"
+	},
+	{
+		"#text": "Choose from blocked SMS",
+		"@_name": "bs_multiChoice_no_options_title1"
+	},
+	{
+		"#text": "Choose from blocked calls",
+		"@_name": "bs_multiChoice_no_options_title2"
+	},
+	{
+		"#text": "Choose blacklist",
+		"@_name": "bs_multiChoice_no_options_title3"
+	},
+	{
+		"#text": "Choose whitelist",
+		"@_name": "bs_multiChoice_no_options_title4"
+	},
+	{
+		"#text": "No Numbers on Whitelist",
+		"@_name": "bs_no_white_list_empty_summary"
+	},
+	{
+		"#text": "Call filtering",
+		"@_name": "bs_phone"
+	},
+	{
+		"#text": "Block unknown numbers",
+		"@_name": "bs_private_number_spam_pfs_title"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "bs_remind_spam_pfc_title"
+	},
+	{
+		"#text": "Get notified of blocked items",
+		"@_name": "bs_remind_spam_pfs_title"
+	},
+	{
+		"#text": "Remove from blacklist",
+		"@_name": "bs_remove_black_list_dialog_title"
+	},
+	{
+		"#text": "%1$s will be removed from blacklist.",
+		"@_name": "bs_remove_blacklist_dialog_text"
+	},
+	{
+		"#text": "%1$s and the others will be removed from blacklist.",
+		"@_name": "bs_remove_blacklists_dialog_text"
+	},
+	{
+		"#text": "About",
+		"@_name": "bs_settings_about"
+	},
+	{
+		"#text": "SMS blocking",
+		"@_name": "bs_sms"
+	},
+	{
+		"#text": "Calls",
+		"@_name": "bs_spam_phone_tab_text"
+	},
+	{
+		"#text": "Messages",
+		"@_name": "bs_spam_sms_tab_text"
+	},
+	{
+		"#text": "Block calls from strangers",
+		"@_name": "bs_stranger_spam_phone_pfs_title"
+	},
+	{
+		"#text": "Block SMS from strangers",
+		"@_name": "bs_stranger_spam_sms_pfs_title"
+	},
+	{
+		"#text": "Clean",
+		"@_name": "btn_clear"
+	},
+	{
+		"#text": "Done",
+		"@_name": "btn_done"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "btn_open"
+	},
+	{
+		"#text": "Enable +%1$d",
+		"@_name": "btn_open_param"
+	},
+	{
+		"#text": "Manage",
+		"@_name": "btn_opt_permission"
+	},
+	{
+		"#text": "Update +%1$d",
+		"@_name": "btn_sys_update"
+	},
+	{
+		"#text": "Scan +%1$d",
+		"@_name": "btn_virus_scan"
+	},
+	{
+		"#text": "B",
+		"@_name": "byteShort"
+	},
+	{
+		"#text": "Access phone",
+		"@_name": "call"
+	},
+	{
+		"#text": "make phone calls",
+		"@_name": "call_c"
+	},
+	{
+		"#text": "Advertisement",
+		"@_name": "call_cate_adv"
+	},
+	{
+		"#text": "Estate agent",
+		"@_name": "call_cate_agent"
+	},
+	{
+		"#text": "Insurance &amp; finance",
+		"@_name": "call_cate_fiance"
+	},
+	{
+		"#text": "Spam call",
+		"@_name": "call_cate_fraud"
+	},
+	{
+		"#text": "Harassing call",
+		"@_name": "call_cate_harass"
+	},
+	{
+		"#text": "Call charges",
+		"@_name": "call_charges"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "call_log"
+	},
+	{
+		"#text": "read your call logs",
+		"@_name": "call_log_c"
+	},
+	{
+		"#text": "Use Camera",
+		"@_name": "camera_permission_summary"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "camera_permission_title"
+	},
+	{
+		"#text": "No SIM card detected",
+		"@_name": "canNotSetupTips"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "cancel_compress"
+	},
+	{
+		"#text": "Compression will start from zero next time. Sure to stop compression?",
+		"@_name": "cancel_compress_confirm_message"
+	},
+	{
+		"#text": "Card sample",
+		"@_name": "card_sample"
+	},
+	{
+		"#text": "Clean with caution",
+		"@_name": "carefully_remove"
+	},
+	{
+		"#text": "Check for content",
+		"@_name": "checkContent"
+	},
+	{
+		"#text": "Check for data usage",
+		"@_name": "checkTraffic"
+	},
+	{
+		"#text": "No App Center installed to download DirectService",
+		"@_name": "check_appcenter_failure"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "check_for_restore_message_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "check_for_restore_message_ok"
+	},
+	{
+		"#text": "Check for data usage",
+		"@_name": "check_traffic_button_text"
+	},
+	{
+		"#text": "Checking for data usage will send a free SMS to carrier",
+		"@_name": "check_traffic_title"
+	},
+	{
+		"#text": "China Mobile",
+		"@_name": "china_mobile"
+	},
+	{
+		"#text": "City",
+		"@_name": "citys"
+	},
+	{
+		"#text": "Clean Now",
+		"@_name": "clean"
+	},
+	{
+		"#text": "Cleaned",
+		"@_name": "clean_done"
+	},
+	{
+		"#text": "%s freed up",
+		"@_name": "clean_result"
+	},
+	{
+		"#text": "Clean",
+		"@_name": "clean_short"
+	},
+	{
+		"#text": "Cleaned %1$s of Junk",
+		"@_name": "cleaned_junk_files"
+	},
+	{
+		"#text": "Can be deleted:",
+		"@_name": "cleaner_all_can_be_deleted"
+	},
+	{
+		"#text": "APK",
+		"@_name": "cleaner_apk"
+	},
+	{
+		"#text": "App data",
+		"@_name": "cleaner_app_data"
+	},
+	{
+		"#text": "App uninstall",
+		"@_name": "cleaner_app_uninstall"
+	},
+	{
+		"#text": "Frequently-used apps",
+		"@_name": "cleaner_app_uninstall_frequent"
+	},
+	{
+		"#text": "Seldom-used apps",
+		"@_name": "cleaner_app_uninstall_not_frequent"
+	},
+	{
+		"#text": "Once cleaned, the apps and clone apps will be uninstalled",
+		"@_name": "cleaner_app_uninstall_warning_dialog_title"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "cleaner_audio"
+	},
+	{
+		"#text": "Auto clean junk",
+		"@_name": "cleaner_auto_clean"
+	},
+	{
+		"#text": "%1$s of file(s) cleaned",
+		"@_name": "cleaner_auto_clean_all_cleaned_size"
+	},
+	{
+		"#text": "%1$s of junk files cleaned",
+		"@_name": "cleaner_auto_clean_notify_clean_title"
+	},
+	{
+		"#text": "Tap to view details",
+		"@_name": "cleaner_auto_clean_notify_content_text"
+	},
+	{
+		"#text": "Storage under %1$s may affect performance",
+		"@_name": "cleaner_auto_clean_notify_no_enough_space_title"
+	},
+	{
+		"#text": "%1$s junk files. Clean for good",
+		"@_name": "cleaner_auto_clean_notify_scan_title"
+	},
+	{
+		"#text": "Tap to clean",
+		"@_name": "cleaner_auto_clean_notify_to_clean_content_text"
+	},
+	{
+		"#text": "%1$s junk files. Clean for better",
+		"@_name": "cleaner_auto_clean_notify_to_cleaner_title"
+	},
+	{
+		"#text": "Big files",
+		"@_name": "cleaner_big_file"
+	},
+	{
+		"#text": "Recent",
+		"@_name": "cleaner_big_file_frequent"
+	},
+	{
+		"#text": "Infrequent",
+		"@_name": "cleaner_big_file_not_frequent"
+	},
+	{
+		"#text": "Junk caches",
+		"@_name": "cleaner_cache"
+	},
+	{
+		"#text": "Spam Ads",
+		"@_name": "cleaner_cache_ad_plugin"
+	},
+	{
+		"#text": "Apks not installed",
+		"@_name": "cleaner_cache_apk_file_not_install"
+	},
+	{
+		"#text": "Newly released or not installed",
+		"@_name": "cleaner_cache_apk_file_not_install_desc"
+	},
+	{
+		"#text": "Redundant Apks",
+		"@_name": "cleaner_cache_apk_file_redundant"
+	},
+	{
+		"#text": "Previously released or not installed",
+		"@_name": "cleaner_cache_apk_file_redundant_desc"
+	},
+	{
+		"#text": "App caches",
+		"@_name": "cleaner_cache_app_cache"
+	},
+	{
+		"#text": "App junk files",
+		"@_name": "cleaner_cache_app_trash"
+	},
+	{
+		"#text": "Storage trash",
+		"@_name": "cleaner_cache_background_app"
+	},
+	{
+		"#text": "Clean to make your phone smooth",
+		"@_name": "cleaner_cache_background_app_desc"
+	},
+	{
+		"#text": "Trash cache",
+		"@_name": "cleaner_cache_trash"
+	},
+	{
+		"#text": "Uninstall remnants",
+		"@_name": "cleaner_cache_uninstall_remain"
+	},
+	{
+		"#text": "Deletable",
+		"@_name": "cleaner_can_be_deleted"
+	},
+	{
+		"#text": "All %1$s",
+		"@_name": "cleaner_category_select_all"
+	},
+	{
+		"#text": "Selected %1$s",
+		"@_name": "cleaner_category_select_part"
+	},
+	{
+		"#text": "%1$s total",
+		"@_name": "cleaner_category_total"
+	},
+	{
+		"#text": "All",
+		"@_name": "cleaner_check_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "cleaner_check_none"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "cleaner_checked_text"
+	},
+	{
+		"#text": "Clean",
+		"@_name": "cleaner_clean_now"
+	},
+	{
+		"#text": "Cleaned junk up to",
+		"@_name": "cleaner_cleaned_up_trash_total"
+	},
+	{
+		"#text": "Deep clean",
+		"@_name": "cleaner_deep_clean"
+	},
+	{
+		"#text": "Can be re-downloaded online",
+		"@_name": "cleaner_desc_can_be_downloaded"
+	},
+	{
+		"#text": "Cleanup do not affect chat history",
+		"@_name": "cleaner_desc_chat_delete_safely"
+	},
+	{
+		"#text": "\"Can't be recovered once cleaned up\"",
+		"@_name": "cleaner_desc_delete_carefully"
+	},
+	{
+		"#text": "Cleanup will not affect normal use",
+		"@_name": "cleaner_desc_delete_safely"
+	},
+	{
+		"#text": "Can be re-downloaded online",
+		"@_name": "cleaner_desc_image_no_preview"
+	},
+	{
+		"#text": "Clean to make your phone smooth",
+		"@_name": "cleaner_desc_phone_fast"
+	},
+	{
+		"#text": "Modified",
+		"@_name": "cleaner_detail_dialog_modify"
+	},
+	{
+		"#text": "File path",
+		"@_name": "cleaner_detail_dialog_path"
+	},
+	{
+		"#text": "Source",
+		"@_name": "cleaner_detail_dialog_source"
+	},
+	{
+		"#text": "More gifts are coming! Stay tuned!",
+		"@_name": "cleaner_entrance_app_store_summary"
+	},
+	{
+		"#text": "Explore apps",
+		"@_name": "cleaner_entrance_app_store_title"
+	},
+	{
+		"#text": "Update now. More secure",
+		"@_name": "cleaner_entrance_app_update_summary"
+	},
+	{
+		"#text": "Update now to save %1$s of traffic data",
+		"@_name": "cleaner_entrance_app_update_summary_x"
+	},
+	{
+		"#text": "%1$s apps need to be updated",
+		"@_name": "cleaner_entrance_app_update_title"
+	},
+	{
+		"#text": "Greatly save space with high fidelity compression",
+		"@_name": "cleaner_entrance_photo_compress_desc"
+	},
+	{
+		"#text": "Compress photo",
+		"@_name": "cleaner_entrance_photo_compress_title"
+	},
+	{
+		"#text": "Clean videos, audios, and files",
+		"@_name": "cleaner_entrance_qq_desc"
+	},
+	{
+		"#text": "QQ cleaner",
+		"@_name": "cleaner_entrance_qq_title"
+	},
+	{
+		"#text": "3 compression modes",
+		"@_name": "cleaner_entrance_video_compress_desc"
+	},
+	{
+		"#text": "Compress video",
+		"@_name": "cleaner_entrance_video_compress_title"
+	},
+	{
+		"#text": "Clean images, videos, and files",
+		"@_name": "cleaner_entrance_we_chat_desc"
+	},
+	{
+		"#text": "WeChat Cleaner",
+		"@_name": "cleaner_entrance_we_chat_title"
+	},
+	{
+		"@_name": "cleaner_item_checked_text"
+	},
+	{
+		"#text": "\"Can't preview\"",
+		"@_name": "cleaner_item_no_preview_toast"
+	},
+	{
+		"#text": "Extremely low storage",
+		"@_name": "cleaner_low_storage_notify_1g_title"
+	},
+	{
+		"#text": "Insufficient storage",
+		"@_name": "cleaner_low_storage_notify_5g_title"
+	},
+	{
+		"#text": "Tap to clean now",
+		"@_name": "cleaner_low_storage_notify_content_text"
+	},
+	{
+		"#text": "No Items to Clean",
+		"@_name": "cleaner_no_trash_item"
+	},
+	{
+		"#text": "Big files infrequently used",
+		"@_name": "cleaner_not_frequent_big_file"
+	},
+	{
+		"#text": "Photos",
+		"@_name": "cleaner_photo_model"
+	},
+	{
+		"#text": "Photos",
+		"@_name": "cleaner_pic"
+	},
+	{
+		"#text": "QQ cleaner",
+		"@_name": "cleaner_qq"
+	},
+	{
+		"#text": "Images in chats",
+		"@_name": "cleaner_qq_chat_pic"
+	},
+	{
+		"#text": "Videos in chats",
+		"@_name": "cleaner_qq_chat_video"
+	},
+	{
+		"#text": "Cewebrity videos",
+		"@_name": "cleaner_qq_chat_video_ai"
+	},
+	{
+		"#text": "Chat voices",
+		"@_name": "cleaner_qq_chat_voice"
+	},
+	{
+		"#text": "Chat voices are encrypted. Play them in QQ",
+		"@_name": "cleaner_qq_chat_voice_dialog_title"
+	},
+	{
+		"#text": "Custom stickers",
+		"@_name": "cleaner_qq_expression_custom"
+	},
+	{
+		"#text": "QQ stickers do not support to preview",
+		"@_name": "cleaner_qq_expression_dialog_title"
+	},
+	{
+		"#text": "Downloaded stickers",
+		"@_name": "cleaner_qq_expression_download"
+	},
+	{
+		"#text": "Friend avatars",
+		"@_name": "cleaner_qq_friend_portrait"
+	},
+	{
+		"#text": "Files received",
+		"@_name": "cleaner_qq_receive_file"
+	},
+	{
+		"#text": "Images saved",
+		"@_name": "cleaner_qq_save_pic"
+	},
+	{
+		"#text": "Junk files",
+		"@_name": "cleaner_qq_trash_file"
+	},
+	{
+		"#text": "Zone caches",
+		"@_name": "cleaner_qq_zone_cache"
+	},
+	{
+		"#text": "Cleanup",
+		"@_name": "cleaner_recommend_clean"
+	},
+	{
+		"#text": "Scanning",
+		"@_name": "cleaner_scanning"
+	},
+	{
+		"#text": "Auto-select",
+		"@_name": "cleaner_similar_photo_auto_check"
+	},
+	{
+		"#text": "Deselect",
+		"@_name": "cleaner_similar_photo_cancel_check"
+	},
+	{
+		"#text": "HD",
+		"@_name": "cleaner_similar_photo_clearest"
+	},
+	{
+		"#text": "From album",
+		"@_name": "cleaner_similar_photo_source_tip"
+	},
+	{
+		"#text": "Sufficient space",
+		"@_name": "cleaner_space_ample"
+	},
+	{
+		"#text": "Remaining",
+		"@_name": "cleaner_space_usable_tip"
+	},
+	{
+		"#text": "Used",
+		"@_name": "cleaner_space_used_tip"
+	},
+	{
+		"#text": "Cleanup suggested",
+		"@_name": "cleaner_suggest_clean"
+	},
+	{
+		"#text": "System cache",
+		"@_name": "cleaner_system_cache"
+	},
+	{
+		"#text": "Freed up memory",
+		"@_name": "cleaner_toast_free_memory"
+	},
+	{
+		"#text": "Used",
+		"@_name": "cleaner_used"
+	},
+	{
+		"#text": "Video",
+		"@_name": "cleaner_video"
+	},
+	{
+		"#text": "Compressible",
+		"@_name": "cleaner_video_can_trim"
+	},
+	{
+		"#text": "Can release %1$s",
+		"@_name": "cleaner_video_can_trim_x"
+	},
+	{
+		"#text": "Greatly save space",
+		"@_name": "cleaner_video_header_summary"
+	},
+	{
+		"#text": "Compress video",
+		"@_name": "cleaner_video_header_title"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "cleaner_video_stop_trim_dialog_continue"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "cleaner_video_stop_trim_dialog_stop"
+	},
+	{
+		"#text": "Compression will start from zero next time. Sure to stop compression?",
+		"@_name": "cleaner_video_stop_trim_dialog_title"
+	},
+	{
+		"#text": "Compress video",
+		"@_name": "cleaner_video_trim"
+	},
+	{
+		"#text": "Auto-clean original video after compressed",
+		"@_name": "cleaner_video_trim_dialog_auto_delete_summary"
+	},
+	{
+		"#text": "Compress",
+		"@_name": "cleaner_video_trim_dialog_button"
+	},
+	{
+		"#text": "Normal compression",
+		"@_name": "cleaner_video_trim_dialog_normal_title"
+	},
+	{
+		"#text": "Quality preferred",
+		"@_name": "cleaner_video_trim_dialog_quality_title"
+	},
+	{
+		"#text": "Speed preferred",
+		"@_name": "cleaner_video_trim_dialog_quick_title"
+	},
+	{
+		"#text": "Time required: %1$s. Can free up %2$s",
+		"@_name": "cleaner_video_trim_dialog_summary"
+	},
+	{
+		"#text": "%1$s video(s) selected",
+		"@_name": "cleaner_video_trim_dialog_title"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "cleaner_video_trim_dialog_trimed_button"
+	},
+	{
+		"#text": "%1$s video(s) compressed in the same mode",
+		"@_name": "cleaner_video_trim_dialog_trimed_title"
+	},
+	{
+		"#text": "Empty",
+		"@_name": "cleaner_video_trim_empty_view_tip"
+	},
+	{
+		"#text": "%1$s video(s) failed to compress",
+		"@_name": "cleaner_video_trim_finish_fail_tip"
+	},
+	{
+		"#text": "%1$s video(s) compressed successfully",
+		"@_name": "cleaner_video_trim_finish_success_tip"
+	},
+	{
+		"#text": "Tap to see details",
+		"@_name": "cleaner_video_trim_notify_content"
+	},
+	{
+		"#text": "%1$s video(s) failed to compress",
+		"@_name": "cleaner_video_trim_notify_title_fail"
+	},
+	{
+		"#text": "%1$s video(s) compressed successfully. %2$s video(s) failed to compress",
+		"@_name": "cleaner_video_trim_notify_title_part"
+	},
+	{
+		"#text": "%1$s video(s) compressed successfully",
+		"@_name": "cleaner_video_trim_notify_title_success"
+	},
+	{
+		"#text": "Compressing video %1$s%%",
+		"@_name": "cleaner_video_trim_notify_title_trimming"
+	},
+	{
+		"#text": "Compress",
+		"@_name": "cleaner_video_trim_now"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "cleaner_video_trim_tip_normal"
+	},
+	{
+		"#text": "Quality",
+		"@_name": "cleaner_video_trim_tip_quality"
+	},
+	{
+		"#text": "Speed",
+		"@_name": "cleaner_video_trim_tip_quick"
+	},
+	{
+		"#text": "Compressed",
+		"@_name": "cleaner_video_trimed"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cleaner_warning_dialog_cancel"
+	},
+	{
+		"#text": "Clean",
+		"@_name": "cleaner_warning_dialog_delete"
+	},
+	{
+		"#text": "\"Once cleaned, the selected data can't be recovered or need to download again\"",
+		"@_name": "cleaner_warning_dialog_title"
+	},
+	{
+		"#text": "\"Once cleaned, the selected data can't be recovered or need to download again. The apps and clone apps will be uninstalled\"",
+		"@_name": "cleaner_warning_dialog_title_clone_app"
+	},
+	{
+		"#text": "WeChat cleaner",
+		"@_name": "cleaner_we_chat"
+	},
+	{
+		"#text": "WeChat stickers",
+		"@_name": "cleaner_we_chat_chat_expression"
+	},
+	{
+		"#text": "Stickers browsed",
+		"@_name": "cleaner_we_chat_chat_expression_browser"
+	},
+	{
+		"#text": "Stickers favorited",
+		"@_name": "cleaner_we_chat_chat_expression_collect"
+	},
+	{
+		"#text": "WeChat stickers do not support to preview",
+		"@_name": "cleaner_we_chat_chat_expression_dialog_title"
+	},
+	{
+		"#text": "Images in chats",
+		"@_name": "cleaner_we_chat_chat_original_pic"
+	},
+	{
+		"#text": "Thumbnails in chats",
+		"@_name": "cleaner_we_chat_chat_thumbnail_pic"
+	},
+	{
+		"#text": "Videos in chats",
+		"@_name": "cleaner_we_chat_chat_video"
+	},
+	{
+		"#text": "Cewebrity videos",
+		"@_name": "cleaner_we_chat_chat_video_ai"
+	},
+	{
+		"#text": "Chat voices",
+		"@_name": "cleaner_we_chat_chat_voice"
+	},
+	{
+		"#text": "Chat voices are encrypted. Play them in WeChat",
+		"@_name": "cleaner_we_chat_chat_voice_dialog_title"
+	},
+	{
+		"#text": "Files downloaded",
+		"@_name": "cleaner_we_chat_download_file"
+	},
+	{
+		"#text": "Favorite caches",
+		"@_name": "cleaner_we_chat_favorite_cache"
+	},
+	{
+		"#text": "Caches in Moments",
+		"@_name": "cleaner_we_chat_friend_cache"
+	},
+	{
+		"#text": "Images in moments",
+		"@_name": "cleaner_we_chat_friend_pic"
+	},
+	{
+		"#text": "Videos in moments",
+		"@_name": "cleaner_we_chat_friend_video"
+	},
+	{
+		"#text": "Game installer",
+		"@_name": "cleaner_we_chat_game_apk_cache"
+	},
+	{
+		"#text": "Mini programs caches",
+		"@_name": "cleaner_we_chat_mini_app_cache"
+	},
+	{
+		"#text": "Avatars caches",
+		"@_name": "cleaner_we_chat_portrait_cache"
+	},
+	{
+		"#text": "Red packet images",
+		"@_name": "cleaner_we_chat_red_packet_pic"
+	},
+	{
+		"#text": "Images saved",
+		"@_name": "cleaner_we_chat_save_pic"
+	},
+	{
+		"#text": "Photos",
+		"@_name": "cleaner_we_chat_shoot_pic"
+	},
+	{
+		"#text": "Junk files",
+		"@_name": "cleaner_we_chat_trash_file"
+	},
+	{
+		"#text": "Video preview image",
+		"@_name": "cleaner_we_chat_video_preview_image"
+	},
+	{
+		"#text": "Empty folder",
+		"@_name": "clear_sdk_empty_dir"
+	},
+	{
+		"#text": "Log file",
+		"@_name": "clear_sdk_log_file"
+	},
+	{
+		"#text": "Files accidentally lost by system",
+		"@_name": "clear_sdk_lost_dir"
+	},
+	{
+		"#text": "Temporary files",
+		"@_name": "clear_sdk_temp_file"
+	},
+	{
+		"#text": "Gallery thumbnail",
+		"@_name": "clear_sdk_thumbnail"
+	},
+	{
+		"#text": "Invalid Gallery thumbnail",
+		"@_name": "clear_sdk_thumbnail_invalid"
+	},
+	{
+		"#text": "Tap to view details",
+		"@_name": "click_get_description"
+	},
+	{
+		"#text": "Compress",
+		"@_name": "compress"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "compress_example_dialog_button_title"
+	},
+	{
+		"#text": "Example",
+		"@_name": "compress_example_dialog_title"
+	},
+	{
+		"#text": "%1$s photo(s) failed to compress",
+		"@_name": "compress_failed_num"
+	},
+	{
+		"#text": "Original size %1$s",
+		"@_name": "compress_photo_origin_size"
+	},
+	{
+		"#text": "Compressed size %1$s",
+		"@_name": "compress_photo_size"
+	},
+	{
+		"#text": "%1$s/%2$s",
+		"@_name": "compress_progress_text"
+	},
+	{
+		"#text": "%1$s%%",
+		"@_name": "compress_progress_text_video"
+	},
+	{
+		"#text": "%1$s photo(s) compressed successfully",
+		"@_name": "compress_successed_num"
+	},
+	{
+		"#text": "Total release %1$s",
+		"@_name": "compress_total_freed_size"
+	},
+	{
+		"#text": "OK",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "contacts"
+	},
+	{
+		"#text": "read your contacts",
+		"@_name": "contacts_c"
+	},
+	{
+		"#text": "\"Read contacts' info\"",
+		"@_name": "contacts_permission_summary"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "contacts_permission_title"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continue_compress"
+	},
+	{
+		"#text": "Continue to use",
+		"@_name": "continue_use"
+	},
+	{
+		"#text": "%1$s photo(s) selected",
+		"@_name": "count_select_image"
+	},
+	{
+		"#text": "Delete call logs",
+		"@_name": "d_call_log"
+	},
+	{
+		"#text": "delete your call logs",
+		"@_name": "d_call_log_c"
+	},
+	{
+		"#text": "Delete contacts",
+		"@_name": "d_contacts"
+	},
+	{
+		"#text": "delete your contacts",
+		"@_name": "d_contacts_c"
+	},
+	{
+		"#text": "Delete MMS logs",
+		"@_name": "d_mms"
+	},
+	{
+		"#text": "delete your MMS logs",
+		"@_name": "d_mms_c"
+	},
+	{
+		"#text": "Delete SMS logs",
+		"@_name": "d_sms"
+	},
+	{
+		"#text": "delete your SMS logs",
+		"@_name": "d_sms_c"
+	},
+	{
+		"#text": "Delete SMS/MMS",
+		"@_name": "d_sms_mms"
+	},
+	{
+		"#text": "Daily use traffic alert",
+		"@_name": "daily_warning_net_dialog_title"
+	},
+	{
+		"#text": "Alert when more than %1$s",
+		"@_name": "daily_warning_net_summary"
+	},
+	{
+		"#text": "Remind when daily usage exceeds %1$s",
+		"@_name": "daily_warning_net_switch_summary"
+	},
+	{
+		"#text": "Daily traffic usage reminder",
+		"@_name": "daily_warning_net_switch_title"
+	},
+	{
+		"#text": "Reminder value",
+		"@_name": "daily_warning_net_title"
+	},
+	{
+		"#text": "Deleted apps",
+		"@_name": "data_usage_uninstalled_apps"
+	},
+	{
+		"#text": "Deleted apps and users",
+		"@_name": "data_usage_uninstalled_apps_users"
+	},
+	{
+		"#text": "1st day of every month",
+		"@_name": "date_1"
+	},
+	{
+		"#text": "10th day of every month",
+		"@_name": "date_10"
+	},
+	{
+		"#text": "11th day of every month",
+		"@_name": "date_11"
+	},
+	{
+		"#text": "12th day of every month",
+		"@_name": "date_12"
+	},
+	{
+		"#text": "13th day of every month",
+		"@_name": "date_13"
+	},
+	{
+		"#text": "14th day of every month",
+		"@_name": "date_14"
+	},
+	{
+		"#text": "15th day of every month",
+		"@_name": "date_15"
+	},
+	{
+		"#text": "16th day of every month",
+		"@_name": "date_16"
+	},
+	{
+		"#text": "17th day of every month",
+		"@_name": "date_17"
+	},
+	{
+		"#text": "18th day of every month",
+		"@_name": "date_18"
+	},
+	{
+		"#text": "19th day of every month",
+		"@_name": "date_19"
+	},
+	{
+		"#text": "2nd day of every month",
+		"@_name": "date_2"
+	},
+	{
+		"#text": "20th day of every month",
+		"@_name": "date_20"
+	},
+	{
+		"#text": "21th day of every month",
+		"@_name": "date_21"
+	},
+	{
+		"#text": "22th day of every month",
+		"@_name": "date_22"
+	},
+	{
+		"#text": "23th day of every month",
+		"@_name": "date_23"
+	},
+	{
+		"#text": "24th day of every month",
+		"@_name": "date_24"
+	},
+	{
+		"#text": "25th day of every month",
+		"@_name": "date_25"
+	},
+	{
+		"#text": "26th day of every month",
+		"@_name": "date_26"
+	},
+	{
+		"#text": "27th day of every month",
+		"@_name": "date_27"
+	},
+	{
+		"#text": "28th day of every month",
+		"@_name": "date_28"
+	},
+	{
+		"#text": "29th day of every month",
+		"@_name": "date_29"
+	},
+	{
+		"#text": "3rd day of every month",
+		"@_name": "date_3"
+	},
+	{
+		"#text": "30th day of every month",
+		"@_name": "date_30"
+	},
+	{
+		"#text": "31st day of every month",
+		"@_name": "date_31"
+	},
+	{
+		"#text": "4th day of every month",
+		"@_name": "date_4"
+	},
+	{
+		"#text": "5th day of every month",
+		"@_name": "date_5"
+	},
+	{
+		"#text": "6th day of every month",
+		"@_name": "date_6"
+	},
+	{
+		"#text": "7th day of every month",
+		"@_name": "date_7"
+	},
+	{
+		"#text": "8th day of every month",
+		"@_name": "date_8"
+	},
+	{
+		"#text": "9th day of every month",
+		"@_name": "date_9"
+	},
+	{
+		"#text": "Day",
+		"@_name": "day"
+	},
+	{
+		"#text": "The remaining data should not exceed daily-rented data",
+		"@_name": "day_plan_left_set_error_msg"
+	},
+	{
+		"#text": "Daily-rented data should not be less than the remaining data",
+		"@_name": "day_plan_total_set_error_msg"
+	},
+	{
+		"#text": "Daily usage warning level",
+		"@_name": "day_warning_title"
+	},
+	{
+		"#text": "days",
+		"@_name": "days"
+	},
+	{
+		"#text": "Cleaner",
+		"@_name": "deep_clear"
+	},
+	{
+		"#text": "(MMS: No subject)",
+		"@_name": "defalut_mms_body"
+	},
+	{
+		"#text": "Beijing",
+		"@_name": "defualt_entry"
+	},
+	{
+		"#text": "Clean",
+		"@_name": "del_confirm"
+	},
+	{
+		"#text": "\"Once cleaned, the selected data can't be recovered.\"",
+		"@_name": "del_confirm_dlg_title"
+	},
+	{
+		"#text": "\"Once cleaned, the selected data can't be recovered unless redownloaded.\"",
+		"@_name": "del_confirm_dlg_title2"
+	},
+	{
+		"#text": "\"Once cleaned, the selected data can't be recovered. Cloned apps will be uninstalled along with original apps.\"",
+		"@_name": "del_confirm_dlg_title_multiapp"
+	},
+	{
+		"#text": "Delete %1$s keywords",
+		"@_name": "delete_block_key_word"
+	},
+	{
+		"#text": "Delete call logs",
+		"@_name": "delete_call_log"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete_now"
+	},
+	{
+		"#text": "Delete SMS",
+		"@_name": "delete_sms"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "delete_trust_app"
+	},
+	{
+		"#text": "Cleaning",
+		"@_name": "deleting"
+	},
+	{
+		"#text": "\"Original apps' settings are also applied to clones.\"",
+		"@_name": "dialog_clone_app_confirm"
+	},
+	{
+		"#text": "Security needs to access the internet and use your location to update the virus database, and provide traffic calibration and security scanning",
+		"@_name": "dialog_message_summary"
+	},
+	{
+		"#text": "For identifying malicious QR codes",
+		"@_name": "dialog_permission_summary_camera"
+	},
+	{
+		"#text": "For updating virus database",
+		"@_name": "dialog_permission_summary_internet"
+	},
+	{
+		"#text": "For accurately calibrating data usage",
+		"@_name": "dialog_permission_summary_location"
+	},
+	{
+		"#text": "The security certificate of the site you tried to visit is expired or unavailable.",
+		"@_name": "dialog_ssl_alert_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "dialog_ssl_cancel"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "dialog_ssl_confirm"
+	},
+	{
+		"#text": "Done",
+		"@_name": "done"
+	},
+	{
+		"#text": "Bottom 9 views",
+		"@_name": "edittext_with_unit_preference_dialog_buttom_imageview_descrition"
+	},
+	{
+		"#text": "Every month",
+		"@_name": "everyMouth"
+	},
+	{
+		"#text": "Anti-harassment &amp; anti-fraud",
+		"@_name": "feature_block_summary"
+	},
+	{
+		"#text": "Open",
+		"@_name": "feature_button_on"
+	},
+	{
+		"#text": "\"Easily clean up unwanted trash\nGet more space\"",
+		"@_name": "feature_clear_summary"
+	},
+	{
+		"#text": "\"Know the power consumption details\nVarious power saving modes\"",
+		"@_name": "feature_power_summary"
+	},
+	{
+		"#text": "Function management",
+		"@_name": "feature_title"
+	},
+	{
+		"#text": "File path:",
+		"@_name": "file_path"
+	},
+	{
+		"#text": "Done",
+		"@_name": "finish_setup"
+	},
+	{
+		"#text": "Data",
+		"@_name": "flow_management"
+	},
+	{
+		"#text": "Block malicious processes when paying",
+		"@_name": "flyme_security_pay_summary"
+	},
+	{
+		"#text": "Flyme payment protection",
+		"@_name": "flyme_security_pay_title"
+	},
+	{
+		"#text": "Release %1$s",
+		"@_name": "freed_file_size"
+	},
+	{
+		"#text": "Release %1$s%%",
+		"@_name": "freed_size"
+	},
+	{
+		"#text": "Full scan",
+		"@_name": "full_scan"
+	},
+	{
+		"#text": "Also scan APK files not installed yet. This will take more time.",
+		"@_name": "full_scan_summary"
+	},
+	{
+		"#text": "GB",
+		"@_name": "gigabyteShort"
+	},
+	{
+		"#text": "Free up space using cleaner",
+		"@_name": "goto_deep_clean_text"
+	},
+	{
+		"#text": "Blocklist",
+		"@_name": "harass_intercept"
+	},
+	{
+		"#text": "This website contains malware. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_COCKHORSE"
+	},
+	{
+		"#text": "Attackers on this website might try to steal your identity and private information, causing privacy compromise, financial loss and other harms. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_DEFAULT_CHEAT"
+	},
+	{
+		"#text": "This website contains a game bot. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_GAMES_HANG"
+	},
+	{
+		"#text": "This website contains deceptive information about making money online. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MAKE_MONEY"
+	},
+	{
+		"#text": "This website has been involved in prize scams or money transfer fraud. Attackers might trick you to provide verification codes and pay \\\"remittance charges\\\". Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MONEY_CHEAT"
+	},
+	{
+		"#text": "This website is a suspicious blog. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MSG_BLOG"
+	},
+	{
+		"#text": "This website contains malicious information, reactionary remarks and other harmful content. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MSG_REACTIONARY"
+	},
+	{
+		"#text": "This website might direct you to a suspicious site. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_MSG_SHADINESS"
+	},
+	{
+		"#text": "This website is on a private game server. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_PRIVATE_SERVER"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "harm_url_desc_HARM_REGULAR"
+	},
+	{
+		"#text": "This website contains pornographic content. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_SEX"
+	},
+	{
+		"#text": "This website has been involved in malicious or deceptive value-added telecom service. Security suggests that you do NOT visit this site",
+		"@_name": "harm_url_desc_HARM_SP_SERVICE"
+	},
+	{
+		"#text": "This website has been involved in phishing and account hacking. Attackers might steal your QQ, WeChat and other accounts. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_STEAL_ACCOUNT"
+	},
+	{
+		"#text": "This website has been involved in prize scams. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_TIPS_CHEAT"
+	},
+	{
+		"#text": "This website contains elements from another dangerous site. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_TIPS_DEFAULT"
+	},
+	{
+		"#text": "This website might contain potentially risky content. Security suggests that you do NOT visit this site.",
+		"@_name": "harm_url_desc_HARM_UNKNOWN"
+	},
+	{
+		"#text": "Social engineering attack",
+		"@_name": "harm_url_type_EVIL_CHEAT1"
+	},
+	{
+		"#text": "Fraud",
+		"@_name": "harm_url_type_EVIL_CHEAT2"
+	},
+	{
+		"#text": "Fake shopping website",
+		"@_name": "harm_url_type_EVIL_FAULTSALES"
+	},
+	{
+		"#text": "Illegal content",
+		"@_name": "harm_url_type_EVIL_ILLEGALCONTENT"
+	},
+	{
+		"#text": "Gambling website",
+		"@_name": "harm_url_type_EVIL_LOTTERYWEB"
+	},
+	{
+		"#text": "Malicious file",
+		"@_name": "harm_url_type_EVIL_MALICEFILE"
+	},
+	{
+		"#text": "Secure website",
+		"@_name": "harm_url_type_EVIL_NOEVIL"
+	},
+	{
+		"#text": "Risky website",
+		"@_name": "harm_url_type_EVIL_RISKWEB"
+	},
+	{
+		"#text": "Pornographic website",
+		"@_name": "harm_url_type_EVIL_SEXYWEB"
+	},
+	{
+		"#text": "Not set",
+		"@_name": "haveNotSetup"
+	},
+	{
+		"#text": "No apps to manage",
+		"@_name": "have_no_app_summary"
+	},
+	{
+		"#text": "TouTiao",
+		"@_name": "header_line"
+	},
+	{
+		"#text": "Background ring in the initial state",
+		"@_name": "inint_stat_circle"
+	},
+	{
+		"#text": "1st day of every month",
+		"@_name": "initMounthAccountDate"
+	},
+	{
+		"#text": "Please enter",
+		"@_name": "input_num"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "install_button_cancel"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "install_button_hide"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install_button_install"
+	},
+	{
+		"#text": "%d%%",
+		"@_name": "install_download_progress"
+	},
+	{
+		"#text": "An error occurred, code = %d",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Failed to install DirectService",
+		"@_name": "install_failure"
+	},
+	{
+		"#text": "0%",
+		"@_name": "install_progress_default"
+	},
+	{
+		"#text": "Install successful, open quick app immediately",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "install_title_downloading"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "install_title_installing"
+	},
+	{
+		"#text": "Launching",
+		"@_name": "install_title_launching"
+	},
+	{
+		"#text": "Install DirectService to open quick app",
+		"@_name": "install_title_prompt"
+	},
+	{
+		"#text": "Installed",
+		"@_name": "installed"
+	},
+	{
+		"#text": "Accident insurance",
+		"@_name": "insurance_name"
+	},
+	{
+		"#text": "Go to",
+		"@_name": "jump"
+	},
+	{
+		"#text": "Click to enter setup page",
+		"@_name": "jumpToSetup"
+	},
+	{
+		"#text": "Redundant APK files: %1$s",
+		"@_name": "junk_apk_num"
+	},
+	{
+		"#text": "App cache: %1$s",
+		"@_name": "junk_app_cache_num"
+	},
+	{
+		"#text": "Auto-clean junk",
+		"@_name": "junk_clean_auto_task_title"
+	},
+	{
+		"#text": "%1$s of file(s) cleaned",
+		"@_name": "junk_clean_auto_total_size"
+	},
+	{
+		"#text": "Junk cleaning",
+		"@_name": "junk_clear_mode"
+	},
+	{
+		"#text": "Each day",
+		"@_name": "junk_clear_rate1"
+	},
+	{
+		"#text": "Each week",
+		"@_name": "junk_clear_rate2"
+	},
+	{
+		"#text": "Each month",
+		"@_name": "junk_clear_rate3"
+	},
+	{
+		"#text": "Scanning: %s",
+		"@_name": "junk_scan_txt"
+	},
+	{
+		"#text": "Deletable",
+		"@_name": "junk_size_can_del"
+	},
+	{
+		"#text": "%1$s deletable",
+		"@_name": "junk_size_f8"
+	},
+	{
+		"#text": "Used",
+		"@_name": "junk_size_used"
+	},
+	{
+		"#text": "System cache: %1$s",
+		"@_name": "junk_system_cache_num"
+	},
+	{
+		"#text": "Junk file: %1$s",
+		"@_name": "junk_system_num"
+	},
+	{
+		"#text": "Auto-clean",
+		"@_name": "junk_timer_clear_mode1"
+	},
+	{
+		"#text": "Scan only",
+		"@_name": "junk_timer_clear_mode2"
+	},
+	{
+		"#text": "\"Don't scan\"",
+		"@_name": "junk_timer_clear_mode3"
+	},
+	{
+		"#text": "Total",
+		"@_name": "junk_total_clear"
+	},
+	{
+		"#text": "System and app caches",
+		"@_name": "junk_type_sys_app_cache"
+	},
+	{
+		"#text": "Uninstallation remnants: %1$s",
+		"@_name": "junk_uninstalled_num"
+	},
+	{
+		"#text": "Optimized to best level",
+		"@_name": "just_memory_clear"
+	},
+	{
+		"#text": "KB",
+		"@_name": "kilobyteShort"
+	},
+	{
+		"#text": "Remind when monthly usage exceeds 40GB",
+		"@_name": "king_card_remind_switch_summary"
+	},
+	{
+		"#text": "40GB maximum alert",
+		"@_name": "king_card_remind_switch_title"
+	},
+	{
+		"#text": "\" day(s) ago\"",
+		"@_name": "last_scan_day"
+	},
+	{
+		"#text": "half a year ago",
+		"@_name": "last_scan_half_a_year"
+	},
+	{
+		"#text": "just now",
+		"@_name": "last_scan_moment"
+	},
+	{
+		"#text": "month(s) ago",
+		"@_name": "last_scan_moth"
+	},
+	{
+		"#text": "today",
+		"@_name": "last_scan_today"
+	},
+	{
+		"#text": "year(s) ago",
+		"@_name": "last_scan_year"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "last_scan_yesterday"
+	},
+	{
+		"#text": "Loading compress preview image",
+		"@_name": "loading_preview_compress_photo"
+	},
+	{
+		"#text": "This card number",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "Location access",
+		"@_name": "location"
+	},
+	{
+		"#text": "access your location",
+		"@_name": "location_c"
+	},
+	{
+		"#text": "Locate the phone via network and satellite",
+		"@_name": "location_permission_summary"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "location_permission_title"
+	},
+	{
+		"#text": "Release the power button",
+		"@_name": "lock_screen_summary"
+	},
+	{
+		"#text": "Lock screen",
+		"@_name": "lock_screen_title"
+	},
+	{
+		"#text": "Long press to view origin image",
+		"@_name": "long_press_review_original_image"
+	},
+	{
+		"#text": "Low balance reminder",
+		"@_name": "low_call_remind"
+	},
+	{
+		"#text": "The premium package is ready for you. Recharge it now",
+		"@_name": "low_call_remind_notify_summary"
+	},
+	{
+		"#text": "The credit balance is less than 10 yuan",
+		"@_name": "low_call_remind_notify_title"
+	},
+	{
+		"#text": "Card %1$s credit balance is less than 10 yuan",
+		"@_name": "low_call_remind_notify_title_card"
+	},
+	{
+		"#text": "Send free SMS queries regularly, remind when the balance is less than 10 yuan",
+		"@_name": "low_call_remind_summary"
+	},
+	{
+		"#text": "Low Reminder",
+		"@_name": "low_reminder"
+	},
+	{
+		"#text": "Remind when balance and data insufficient",
+		"@_name": "low_reminder_summary"
+	},
+	{
+		"#text": "Tap to clean now",
+		"@_name": "low_storage_notice_desc"
+	},
+	{
+		"#text": "Critically low storage",
+		"@_name": "low_storage_notice_title_less_1G"
+	},
+	{
+		"#text": "Insufficient storage",
+		"@_name": "low_storage_notice_title_less_5G"
+	},
+	{
+		"#text": "%1$s left",
+		"@_name": "main_page_cleaner_usable_size_f8"
+	},
+	{
+		"#text": "Can clean %1$s",
+		"@_name": "main_page_phone_clean_sum_f8"
+	},
+	{
+		"#text": "Malicious files",
+		"@_name": "malicious_files"
+	},
+	{
+		"#text": "Manual setup",
+		"@_name": "manualSetupDialogFragmentTitle"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "MB",
+		"@_name": "megabyteShort"
+	},
+	{
+		"#text": "Freed up %1$s memory",
+		"@_name": "memory_clear_toast"
+	},
+	{
+		"#text": "Add",
+		"@_name": "menu_add"
+	},
+	{
+		"#text": "Modified:",
+		"@_name": "modified_time"
+	},
+	{
+		"#text": "System apps",
+		"@_name": "more_settings_title"
+	},
+	{
+		"#text": "Monthly settlement day",
+		"@_name": "mouthAccount"
+	},
+	{
+		"#text": "Overused this month",
+		"@_name": "mouthOverFlow"
+	},
+	{
+		"#text": "Remaining this month",
+		"@_name": "mouthRemain"
+	},
+	{
+		"#text": "Monthly data plan",
+		"@_name": "mouthTraffic"
+	},
+	{
+		"#text": "Monthly usage warning valued",
+		"@_name": "mouthWarming"
+	},
+	{
+		"#text": "Disallow heads-up notifications for all apps?",
+		"@_name": "msg_reject_all_heads_up_notify"
+	},
+	{
+		"#text": "Turn off notifications for all apps?",
+		"@_name": "msg_reject_all_notify"
+	},
+	{
+		"#text": "\"Interval between start and end times can't be less than %1$d min\"",
+		"@_name": "msg_start_end_too_small"
+	},
+	{
+		"#text": "No Numbers on Blacklist",
+		"@_name": "mz_black_list_no_list"
+	},
+	{
+		"#text": "day",
+		"@_name": "mz_block_day"
+	},
+	{
+		"#text": "/",
+		"@_name": "mz_block_mouth"
+	},
+	{
+		"#text": "No Blocking History",
+		"@_name": "mz_block_no_list_title"
+	},
+	{
+		"#text": "MMS does not support restore",
+		"@_name": "mz_block_reject_mms_restore"
+	},
+	{
+		"#text": "Restore",
+		"@_name": "mz_block_restore"
+	},
+	{
+		"#text": "/",
+		"@_name": "mz_block_year"
+	},
+	{
+		"#text": "Correct flow failure",
+		"@_name": "mz_teffic_analyze_fail"
+	},
+	{
+		"#text": "Data request timeout",
+		"@_name": "mz_traffic_get_sms_timeout"
+	},
+	{
+		"#text": "No SIM card, please insert the SIM card and try again",
+		"@_name": "mz_traffic_no_sim_card"
+	},
+	{
+		"#text": "Has sent the messages to the operator",
+		"@_name": "mz_traffic_send_sms_to_operator"
+	},
+	{
+		"#text": "Traffic switch",
+		"@_name": "network_switch"
+	},
+	{
+		"#text": "Guiding icon for going to system app interface",
+		"@_name": "next_system_app_list_guid_drawable_descrition"
+	},
+	{
+		"#text": "No Items to Clean Out",
+		"@_name": "no_clean_item"
+	},
+	{
+		"#text": "SIM card not inserted",
+		"@_name": "no_sim_card"
+	},
+	{
+		"#text": "No Trusted Apps",
+		"@_name": "no_trust_app"
+	},
+	{
+		"#text": "No usage record",
+		"@_name": "no_use_record"
+	},
+	{
+		"#text": "No whitelist item",
+		"@_name": "no_white_list"
+	},
+	{
+		"#text": "Not installed",
+		"@_name": "non_install"
+	},
+	{
+		"#text": "App notifications",
+		"@_name": "notification_managerment"
+	},
+	{
+		"#text": "Too many notifications?",
+		"@_name": "notification_too_much"
+	},
+	{
+		"#text": "Tap to manage permissions",
+		"@_name": "notification_too_much_managerment"
+	},
+	{
+		"#text": "Auto-upgrade via WLAN",
+		"@_name": "notification_update_virus_lib_button_setting"
+	},
+	{
+		"#text": "Upgrade",
+		"@_name": "notification_update_virus_lib_button_update"
+	},
+	{
+		"#text": "Added virus samples",
+		"@_name": "notification_update_virus_lib_content"
+	},
+	{
+		"#text": "Upgrade virus database",
+		"@_name": "notification_update_virus_lib_title"
+	},
+	{
+		"#text": "Tap to scan virus",
+		"@_name": "notification_updated_virus_lib_content"
+	},
+	{
+		"#text": "Upgraded to the latest virus database",
+		"@_name": "notification_updated_virus_lib_title"
+	},
+	{
+		"#text": "Upgrading...",
+		"@_name": "notification_updating_virus_lib_content"
+	},
+	{
+		"#text": "Upgrade virus database",
+		"@_name": "notification_updating_virus_lib_title"
+	},
+	{
+		"#text": "Compressing photo(s) for %1$s",
+		"@_name": "notify_compressing_photo"
+	},
+	{
+		"#text": "Compressing photo(s) for %1$s%%",
+		"@_name": "notify_compressing_photo_percent"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "notify_message_splite"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "notify_msg"
+	},
+	{
+		"#text": "%1$s is trying to show a view on lock screen. Tap to set.",
+		"@_name": "notify_sub_title_lsvm"
+	},
+	{
+		"#text": "Lock Screen Permissions",
+		"@_name": "notify_title_lsvm"
+	},
+	{
+		"#text": "Clean",
+		"@_name": "now_slimming"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "oaid_access_dialog_cancel"
+	},
+	{
+		"#text": "\"When disallowed, same amount of ads are still provided but not personalized. Some apps' personalization will also be affected\"",
+		"@_name": "oaid_access_dialog_message"
+	},
+	{
+		"#text": "OK",
+		"@_name": "oaid_access_dialog_ok"
+	},
+	{
+		"#text": "Disallow to read device identifier?",
+		"@_name": "oaid_access_dialog_title"
+	},
+	{
+		"#text": "Allow to read device identifier",
+		"@_name": "oaid_access_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "oaid_reset_dialog_cancel"
+	},
+	{
+		"#text": "\"After reset, ads and some apps' personalization need to learn your interests again\"",
+		"@_name": "oaid_reset_dialog_message"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "oaid_reset_dialog_ok"
+	},
+	{
+		"#text": "Reset device identifier?",
+		"@_name": "oaid_reset_dialog_title"
+	},
+	{
+		"#text": "Reset device identifier",
+		"@_name": "oaid_reset_title"
+	},
+	{
+		"#text": "Read device identifier",
+		"@_name": "oaid_settings"
+	},
+	{
+		"#text": "Anonymous device identifier allows apps and advertisers to provide personalized ads while keeping personal data private and safe",
+		"@_name": "oaid_tip"
+	},
+	{
+		"#text": "Old version",
+		"@_name": "old_version"
+	},
+	{
+		"#text": "Use camera",
+		"@_name": "op_camera"
+	},
+	{
+		"#text": "Use camera",
+		"@_name": "op_camera_c"
+	},
+	{
+		"#text": "Read list of installed apps",
+		"@_name": "op_getinstallpkg"
+	},
+	{
+		"#text": "Read list of installed apps",
+		"@_name": "op_getinstallpkg_c"
+	},
+	{
+		"#text": "Access phone ID",
+		"@_name": "op_imei"
+	},
+	{
+		"#text": "access your phone ID",
+		"@_name": "op_imei_c"
+	},
+	{
+		"#text": "Use microphone",
+		"@_name": "op_record_audio"
+	},
+	{
+		"#text": "use microphone",
+		"@_name": "op_record_audio_c"
+	},
+	{
+		"#text": "Modify system settings",
+		"@_name": "op_setting"
+	},
+	{
+		"#text": "modify system settings",
+		"@_name": "op_setting_c"
+	},
+	{
+		"#text": "Install shortcuts",
+		"@_name": "op_shortcut"
+	},
+	{
+		"#text": "install shortcuts",
+		"@_name": "op_shortcut_c"
+	},
+	{
+		"#text": "Please select the correct operator",
+		"@_name": "operator_error_tip"
+	},
+	{
+		"#text": "Carrier",
+		"@_name": "operators"
+	},
+	{
+		"#text": "Update",
+		"@_name": "opt_app_update_hint"
+	},
+	{
+		"#text": "Update now. More secure",
+		"@_name": "opt_app_update_summary"
+	},
+	{
+		"#text": "Update now to save %1$s of traffic data",
+		"@_name": "opt_app_update_summary_x"
+	},
+	{
+		"#text": "%1$s apps need to be updated",
+		"@_name": "opt_app_update_title"
+	},
+	{
+		"#text": "Remaining space",
+		"@_name": "opt_done_deep_clean"
+	},
+	{
+		"#text": "Phone Finder",
+		"@_name": "opt_done_find_phone"
+	},
+	{
+		"#text": "Junk files cleaned",
+		"@_name": "opt_done_junk"
+	},
+	{
+		"#text": "Clean trash cache",
+		"@_name": "opt_done_junk_f8"
+	},
+	{
+		"#text": "Persistent background apps",
+		"@_name": "opt_done_permission"
+	},
+	{
+		"#text": "Memory freed up",
+		"@_name": "opt_done_ram"
+	},
+	{
+		"#text": "Phone password",
+		"@_name": "opt_done_screen_lock"
+	},
+	{
+		"#text": "System version checked",
+		"@_name": "opt_done_sys_update"
+	},
+	{
+		"#text": "Remaining data allowance",
+		"@_name": "opt_done_traffic"
+	},
+	{
+		"#text": "Data remaining on SIM %1$d",
+		"@_name": "opt_done_traffic_sim"
+	},
+	{
+		"#text": "Insufficient phone space",
+		"@_name": "opt_fail_deep_junk"
+	},
+	{
+		"#text": "Cleaner",
+		"@_name": "opt_fail_deep_junk_f8"
+	},
+	{
+		"#text": "Free up space using cleaner",
+		"@_name": "opt_fail_deep_junk_sum"
+	},
+	{
+		"#text": "Can deep clean %1$s",
+		"@_name": "opt_fail_deep_junk_sum_f8"
+	},
+	{
+		"#text": "Risk of phone loss",
+		"@_name": "opt_fail_find_phone"
+	},
+	{
+		"#text": "Enable Phone Finder to reduce risk",
+		"@_name": "opt_fail_find_phone_sum"
+	},
+	{
+		"#text": "System slowed down by apps",
+		"@_name": "opt_fail_permission"
+	},
+	{
+		"#text": "Forbid auto-start to boost system",
+		"@_name": "opt_fail_permissions_sum"
+	},
+	{
+		"#text": "Phone password not set",
+		"@_name": "opt_fail_screen_lock"
+	},
+	{
+		"#text": "Enable password to protect privacy",
+		"@_name": "opt_fail_screen_lock_sum"
+	},
+	{
+		"#text": "System update available",
+		"@_name": "opt_fail_sys_update"
+	},
+	{
+		"#text": "Update in time for greater stability",
+		"@_name": "opt_fail_sys_update_sum"
+	},
+	{
+		"#text": "Data insufficient",
+		"@_name": "opt_fail_traffic_insufficient"
+	},
+	{
+		"#text": "Data insufficient on SIM %1$d",
+		"@_name": "opt_fail_traffic_insufficient_sim"
+	},
+	{
+		"#text": "Data overused",
+		"@_name": "opt_fail_traffic_over"
+	},
+	{
+		"#text": "Data overused on SIM %1$d",
+		"@_name": "opt_fail_traffic_over_sim"
+	},
+	{
+		"#text": "Buy data to prevent overuse",
+		"@_name": "opt_fail_traffic_over_sum"
+	},
+	{
+		"#text": "Enable data monitor to prevent overuse",
+		"@_name": "opt_fail_traffic_sum"
+	},
+	{
+		"#text": "Data monitor not enabled",
+		"@_name": "opt_fail_traffic_unset"
+	},
+	{
+		"#text": "Data monitor for SIM %1$d is off",
+		"@_name": "opt_fail_traffic_unset_sim"
+	},
+	{
+		"#text": "Not scanned for a while",
+		"@_name": "opt_fail_virus"
+	},
+	{
+		"#text": "Scan regularly for security",
+		"@_name": "opt_fail_virus_sum"
+	},
+	{
+		"#text": "%1$s item(s) to be processed",
+		"@_name": "opt_fail_virus_sum2"
+	},
+	{
+		"#text": "%1$s items to be processed",
+		"@_name": "opt_fail_virus_sum2_multi"
+	},
+	{
+		"#text": "%1$s item to be processed",
+		"@_name": "opt_fail_virus_sum2_single"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "opt_permission_value"
+	},
+	{
+		"#text": "Optimize",
+		"@_name": "optimize"
+	},
+	{
+		"#text": "Related settings",
+		"@_name": "other_settings_key"
+	},
+	{
+		"#text": "Others",
+		"@_name": "others"
+	},
+	{
+		"#text": "Display views on lock screen",
+		"@_name": "perm_activity_on_locked_screen"
+	},
+	{
+		"#text": "Pop-ups",
+		"@_name": "perm_alert"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "perm_notification"
+	},
+	{
+		"#text": "Permissions",
+		"@_name": "permision_management"
+	},
+	{
+		"#text": "permission(s)",
+		"@_name": "permission_count"
+	},
+	{
+		"#text": "%1$s times totally",
+		"@_name": "permission_detail_count"
+	},
+	{
+		"#text": "Network permission",
+		"@_name": "permission_internet"
+	},
+	{
+		"#text": "Privacy",
+		"@_name": "permission_privacy"
+	},
+	{
+		"#text": "Security",
+		"@_name": "permission_security"
+	},
+	{
+		"#text": 0,
+		"@_name": "persent"
+	},
+	{
+		"#text": "P",
+		"@_name": "petabyteShort"
+	},
+	{
+		"#text": "Cleaner",
+		"@_name": "phone_clean"
+	},
+	{
+		"#text": "Cleanup",
+		"@_name": "phone_clean_f8"
+	},
+	{
+		"#text": "%1$s left",
+		"@_name": "phone_clean_summary_f8"
+	},
+	{
+		"#text": "%1$s deletable",
+		"@_name": "phone_could_clean_summary_f8"
+	},
+	{
+		"#text": "Compressible",
+		"@_name": "photo_can_compress"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "photo_category_camera"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "photo_category_we_chat"
+	},
+	{
+		"#text": "Blurry photos",
+		"@_name": "photo_clean_blur"
+	},
+	{
+		"#text": "Photo compress",
+		"@_name": "photo_clean_compress"
+	},
+	{
+		"#text": "Greatly save space with high fidelity compression",
+		"@_name": "photo_clean_compress_summary"
+	},
+	{
+		"#text": "Burst Photos",
+		"@_name": "photo_clean_continuous_shooting"
+	},
+	{
+		"#text": "Similar photos",
+		"@_name": "photo_clean_similar"
+	},
+	{
+		"#text": "Screenshot",
+		"@_name": "photo_clean_snapshot"
+	},
+	{
+		"#text": "Compress to release",
+		"@_name": "photo_compress_button_title"
+	},
+	{
+		"#text": "Auto clean original images after compressed",
+		"@_name": "photo_compress_confirm_message"
+	},
+	{
+		"#text": "Release space %1$s",
+		"@_name": "photo_compress_free_space_toast"
+	},
+	{
+		"#text": "No items",
+		"@_name": "photo_compress_null_content"
+	},
+	{
+		"#text": "Compressed",
+		"@_name": "photo_compressed"
+	},
+	{
+		"#text": "Can release %1$s",
+		"@_name": "photo_compressed_release_space"
+	},
+	{
+		"#text": "Total release %1$s",
+		"@_name": "photo_compressed_total_freed_space"
+	},
+	{
+		"#text": "Select photo",
+		"@_name": "photo_review_select"
+	},
+	{
+		"#text": "Heads-ups",
+		"@_name": "pop_notice"
+	},
+	{
+		"#text": "The system power-saving configuration will fail, which may lead to increased power consumption, and some manual configuration of the power-saving items will not be able to change",
+		"@_name": "power_dialog_summary"
+	},
+	{
+		"#text": "Disable power management?",
+		"@_name": "power_dialog_title"
+	},
+	{
+		"#text": "Battery",
+		"@_name": "power_mode"
+	},
+	{
+		"#text": "Scan Categories",
+		"@_name": "preference_auto_clean_items"
+	},
+	{
+		"#text": "Auto Scan",
+		"@_name": "preference_auto_clean_summary"
+	},
+	{
+		"#text": "Auto scan and clean trash",
+		"@_name": "preference_auto_clean_title"
+	},
+	{
+		"#text": "Block calls marked by majority users",
+		"@_name": "preference_bc_summary"
+	},
+	{
+		"#text": "Block SMS marked by majority users",
+		"@_name": "preference_bs_summary"
+	},
+	{
+		"#text": "QQ cache trash",
+		"@_name": "preference_title_QQ_cache"
+	},
+	{
+		"#text": "App cache trash",
+		"@_name": "preference_title_app_cache"
+	},
+	{
+		"#text": "System cache",
+		"@_name": "preference_title_app_cache_title"
+	},
+	{
+		"#text": "Uninstallation remnants",
+		"@_name": "preference_title_uninstalled_trash"
+	},
+	{
+		"#text": "WeChat cache trash",
+		"@_name": "preference_title_wechat_cache"
+	},
+	{
+		"#text": "Blocklist",
+		"@_name": "preferences_title"
+	},
+	{
+		"#text": "Privacy permission usage record",
+		"@_name": "privacy_permission_usage_record"
+	},
+	{
+		"#text": "Privacy",
+		"@_name": "privacy_permissions"
+	},
+	{
+		"#text": "Android OS",
+		"@_name": "process_kernel_label"
+	},
+	{
+		"#text": "Importing blacklist",
+		"@_name": "progress_message_importing_blacklist"
+	},
+	{
+		"#text": "Importing whitelist",
+		"@_name": "progress_message_importing_white_list"
+	},
+	{
+		"#text": "In progress",
+		"@_name": "progress_msg"
+	},
+	{
+		"#text": "Province",
+		"@_name": "provinces"
+	},
+	{
+		"#text": "QQ cleaner",
+		"@_name": "qq_title_f8"
+	},
+	{
+		"#text": "Copied to clipboard",
+		"@_name": "qr_code_copy_ok_toast"
+	},
+	{
+		"#text": "Unable to launch the requested app",
+		"@_name": "qr_code_launch_err_toast"
+	},
+	{
+		"#text": "Close",
+		"@_name": "qr_code_result_btn_close"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "qr_code_result_btn_copy"
+	},
+	{
+		"#text": "Continue Anyway",
+		"@_name": "qr_code_result_btn_insist_access"
+	},
+	{
+		"#text": "Share",
+		"@_name": "qr_code_result_btn_share"
+	},
+	{
+		"#text": "Secure website",
+		"@_name": "qr_code_result_security_title"
+	},
+	{
+		"#text": "Powered by Tencent",
+		"@_name": "qr_code_result_support"
+	},
+	{
+		"#text": "\"Security couldn't detect this website because the phone is disconnected from the internet. It's recommended that you check the credibility of this site.\"",
+		"@_name": "qr_code_result_unknown_cause_net_desc"
+	},
+	{
+		"#text": "\"The security of this website is unknown. It's recommended that you check the credibility of this site.\"",
+		"@_name": "qr_code_result_unknown_desc"
+	},
+	{
+		"#text": "Security is unknown",
+		"@_name": "qr_code_result_unknown_title"
+	},
+	{
+		"#text": "Safety scanner",
+		"@_name": "qr_code_scan_activity_title"
+	},
+	{
+		"#text": "\"Please check whether the camera is normal, or whether it's being used by another app.\"",
+		"@_name": "qr_code_scan_camera_err_desc"
+	},
+	{
+		"#text": "Failed to initialize camera",
+		"@_name": "qr_code_scan_camera_err_title"
+	},
+	{
+		"#text": "Identify malicious QR code to protect your safety",
+		"@_name": "qr_code_scan_desc"
+	},
+	{
+		"#text": "Aim at the QR code to scan",
+		"@_name": "qr_code_scan_note"
+	},
+	{
+		"#text": "Sharing failed",
+		"@_name": "qr_code_share_err_toast"
+	},
+	{
+		"#text": "Address book",
+		"@_name": "qr_code_type_ADDRESSBOOK"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "qr_code_type_CALENDAR"
+	},
+	{
+		"#text": "Email address",
+		"@_name": "qr_code_type_EMAIL_ADDRESS"
+	},
+	{
+		"#text": "GEO",
+		"@_name": "qr_code_type_GEO"
+	},
+	{
+		"#text": "ISBN",
+		"@_name": "qr_code_type_ISBN"
+	},
+	{
+		"#text": "Product",
+		"@_name": "qr_code_type_PRODUCT"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "qr_code_type_SMS"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "qr_code_type_TEL"
+	},
+	{
+		"#text": "Text content",
+		"@_name": "qr_code_type_TEXT"
+	},
+	{
+		"#text": "URI",
+		"@_name": "qr_code_type_URI"
+	},
+	{
+		"#text": "VIN",
+		"@_name": "qr_code_type_VIN"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "qr_code_type_WIFI"
+	},
+	{
+		"#text": "Calibrate with carrier",
+		"@_name": "question"
+	},
+	{
+		"#text": "Quick scan",
+		"@_name": "quick_sacn"
+	},
+	{
+		"#text": "Scan key positions and apps",
+		"@_name": "quick_scan_summary"
+	},
+	{
+		"#text": "Read the calendar",
+		"@_name": "r_calendar"
+	},
+	{
+		"#text": "Read MMS logs",
+		"@_name": "r_mms"
+	},
+	{
+		"#text": "read your MMS logs",
+		"@_name": "r_mms_c"
+	},
+	{
+		"#text": "Read SMS logs",
+		"@_name": "r_sms"
+	},
+	{
+		"#text": "read your SMS logs",
+		"@_name": "r_sms_c"
+	},
+	{
+		"#text": "Read SMS and MMS records",
+		"@_name": "r_sms_mms"
+	},
+	{
+		"#text": "Accelerator",
+		"@_name": "ram_cleaner_0005"
+	},
+	{
+		"#text": "Recharge",
+		"@_name": "recharge_call"
+	},
+	{
+		"#text": "Cleaning is recommended",
+		"@_name": "recommend_cleanup"
+	},
+	{
+		"#text": "Regular calibration",
+		"@_name": "regularCorrect"
+	},
+	{
+		"#text": "Optional",
+		"@_name": "reject_recommend"
+	},
+	{
+		"#text": "Available",
+		"@_name": "remainTraffic"
+	},
+	{
+		"#text": "The remaining data should not exceed monthly data plan",
+		"@_name": "remain_set_error_msg"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "remove"
+	},
+	{
+		"#text": "Remove from whitelist",
+		"@_name": "remove_from_whitelist"
+	},
+	{
+		"#text": "Repeat",
+		"@_name": "repeat_apk"
+	},
+	{
+		"#text": "Replace",
+		"@_name": "replace"
+	},
+	{
+		"#text": "Replace all. Save",
+		"@_name": "replace_all"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "replace_warning_dialog_cancel"
+	},
+	{
+		"#text": "Replace",
+		"@_name": "replace_warning_dialog_delete"
+	},
+	{
+		"#text": "Will delete the app and add its quick app version shortcut to home screen",
+		"@_name": "replace_warning_dialog_title"
+	},
+	{
+		"#text": "Will delete the app and its clone, and add its quick app version shortcut to home screen",
+		"@_name": "replace_warning_dialog_title_clone_app"
+	},
+	{
+		"#text": "Restore SMS",
+		"@_name": "restore_sms"
+	},
+	{
+		"#text": "Restore the selected message(s)?",
+		"@_name": "restore_tittle"
+	},
+	{
+		"#text": "result(s)",
+		"@_name": "result_count"
+	},
+	{
+		"#text": "View origin image",
+		"@_name": "review_original_image"
+	},
+	{
+		"#text": "Risky action",
+		"@_name": "risk_action"
+	},
+	{
+		"#text": "Background downloading",
+		"@_name": "risk_ad_tag_3"
+	},
+	{
+		"#text": "Malicious Ad",
+		"@_name": "risk_adv"
+	},
+	{
+		"#text": "Malicious spread",
+		"@_name": "risk_chanel_ad_1"
+	},
+	{
+		"#text": "Download Ads",
+		"@_name": "risk_chanel_ad_2"
+	},
+	{
+		"#text": "Risky code",
+		"@_name": "risk_code"
+	},
+	{
+		"#text": "Data consumption",
+		"@_name": "risk_consume_data"
+	},
+	{
+		"#text": "Unapproved game-fee",
+		"@_name": "risk_game_1"
+	},
+	{
+		"#text": "Privacy leakage",
+		"@_name": "risk_game_2"
+	},
+	{
+		"#text": "Create Ad icon",
+		"@_name": "risk_malicious_icon_1"
+	},
+	{
+		"#text": "Payment",
+		"@_name": "risk_pay_tag_1"
+	},
+	{
+		"#text": "Password leakage",
+		"@_name": "risk_pay_tag_2"
+	},
+	{
+		"#text": "Malicious plugin",
+		"@_name": "risk_plug_in_1"
+	},
+	{
+		"#text": "Background pop-up",
+		"@_name": "risk_plug_in_2"
+	},
+	{
+		"#text": "Pornographic",
+		"@_name": "risk_porno_tag_1"
+	},
+	{
+		"#text": "Improper",
+		"@_name": "risk_porno_tag_2"
+	},
+	{
+		"#text": "Malicious promotion",
+		"@_name": "risk_promote_1"
+	},
+	{
+		"#text": "Ad plugins",
+		"@_name": "risk_promote_2"
+	},
+	{
+		"#text": "Pin-blackmail",
+		"@_name": "risk_ransom_1"
+	},
+	{
+		"#text": "Malice-locking",
+		"@_name": "risk_ransom_2"
+	},
+	{
+		"#text": "Badware",
+		"@_name": "risk_rogue_tag"
+	},
+	{
+		"#text": "Induced sharing",
+		"@_name": "risk_share"
+	},
+	{
+		"#text": "Unapproved SMS-fee",
+		"@_name": "risk_sms_1"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "risk_sms_2"
+	},
+	{
+		"#text": "Fake third-party tool",
+		"@_name": "risk_tool_1"
+	},
+	{
+		"#text": "Account leakage",
+		"@_name": "risk_tool_2"
+	},
+	{
+		"#text": "Fraud &amp; trick",
+		"@_name": "risk_trick_tag_1"
+	},
+	{
+		"#text": "Malicious code",
+		"@_name": "risk_trick_tag_2"
+	},
+	{
+		"#text": "New APK files",
+		"@_name": "rubbish_apk"
+	},
+	{
+		"#text": "Released lately or not installed yet",
+		"@_name": "rubbish_apk_desc"
+	},
+	{
+		"#text": "Junk files",
+		"@_name": "rubbish_files"
+	},
+	{
+		"#text": "Cleanup will not affect normal use.",
+		"@_name": "rubbish_files_desc"
+	},
+	{
+		"#text": "Redundant APK files",
+		"@_name": "rubbish_overapk"
+	},
+	{
+		"#text": "APK files of installed apps",
+		"@_name": "rubbish_overapk_desc"
+	},
+	{
+		"#text": "Uninstallation remnants",
+		"@_name": "rubbish_overuninstall"
+	},
+	{
+		"#text": "\"Can't be recovered once cleaned up.\"",
+		"@_name": "rubbish_overuninstall_desc"
+	},
+	{
+		"#text": "User: %1$s",
+		"@_name": "running_process_item_user_label"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "s_mms"
+	},
+	{
+		"#text": "directly send MMS",
+		"@_name": "s_mms_c"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "s_sms"
+	},
+	{
+		"#text": "directly send MMS",
+		"@_name": "s_sms_c"
+	},
+	{
+		"#text": "Version: %1$s",
+		"@_name": "safe_version"
+	},
+	{
+		"#text": "Cloud virus scan",
+		"@_name": "scan_cloud"
+	},
+	{
+		"#text": "Identify malicious QR codes",
+		"@_name": "scan_code_summary"
+	},
+	{
+		"#text": "Safety scanner",
+		"@_name": "scan_code_title"
+	},
+	{
+		"#text": "%1$s risky item(s) found",
+		"@_name": "scan_done_no_safe"
+	},
+	{
+		"#text": "Scan completed, your phone is safe",
+		"@_name": "scan_done_safe"
+	},
+	{
+		"#text": "Scanning fot traffic set",
+		"@_name": "scan_traffic"
+	},
+	{
+		"#text": "Scan mode",
+		"@_name": "scan_type_key"
+	},
+	{
+		"#text": "Complete",
+		"@_name": "scan_virus_complete"
+	},
+	{
+		"#text": "None",
+		"@_name": "scan_virus_no_found"
+	},
+	{
+		"#text": "%1$s of junk files found",
+		"@_name": "scanned_result"
+	},
+	{
+		"#text": "Scanning",
+		"@_name": "scanning"
+	},
+	{
+		"@_name": "score_ninetynine"
+	},
+	{
+		"#text": "Security",
+		"@_name": "security_center"
+	},
+	{
+		"#text": "Safety tips",
+		"@_name": "security_news"
+	},
+	{
+		"#text": "Share",
+		"@_name": "security_news_action_share"
+	},
+	{
+		"#text": "%1$s人看过",
+		"@_name": "security_news_item_view_info"
+	},
+	{
+		"#text": "%1$s万人看过",
+		"@_name": "security_news_item_view_info_x_wan"
+	},
+	{
+		"#text": "No more info",
+		"@_name": "security_news_loaded_all"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "security_news_loading"
+	},
+	{
+		"#text": "Security",
+		"@_name": "security_permissions"
+	},
+	{
+		"#text": "Permissions",
+		"@_name": "security_privacy"
+	},
+	{
+		"#text": "Tap to view details",
+		"@_name": "see_detail"
+	},
+	{
+		"#text": "All",
+		"@_name": "sel_all"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "sendSms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "set_bluetooth_on"
+	},
+	{
+		"#text": "turn on Bluetooth",
+		"@_name": "set_bluetooth_on_c"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "set_gprs_on"
+	},
+	{
+		"#text": "turn on mobile network",
+		"@_name": "set_gprs_on_c"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "set_wifi_on"
+	},
+	{
+		"#text": "turn on WLAN",
+		"@_name": "set_wifi_on_c"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Individual function settings",
+		"@_name": "settings_category_title"
+	},
+	{
+		"#text": "Tap to set up data",
+		"@_name": "setupEntrance_textView"
+	},
+	{
+		"#text": "Data settings",
+		"@_name": "setupTraffic"
+	},
+	{
+		"#text": "Monthly data plan",
+		"@_name": "setupTrafficDialogTitle"
+	},
+	{
+		"#text": "Add to Home Screen",
+		"@_name": "shortcut_manager_key"
+	},
+	{
+		"#text": "Accelerator, safety scanner, lock screen",
+		"@_name": "shortcut_manager_summary"
+	},
+	{
+		"#text": "Home Screen shortcut",
+		"@_name": "shortcut_notice"
+	},
+	{
+		"#text": "Accelerator shortcut",
+		"@_name": "shortcut_settings_key"
+	},
+	{
+		"#text": "Similar photos",
+		"@_name": "similar_photo"
+	},
+	{
+		"#text": "Auto-scan during charging and filter out similar pictures, making it easier and faster to manage your phone",
+		"@_name": "similar_pic_desc_text"
+	},
+	{
+		"#text": "Smart Background monitors when apps auto-start and are running, can restrict certain permissions for background processes, and can freeze or turn off certain apps to save power and memory",
+		"@_name": "smart_bg_introduction"
+	},
+	{
+		"#text": "Smart Background (recommended)",
+		"@_name": "smart_bg_mode0"
+	},
+	{
+		"#text": "Apps monitored by Smart Background: %1$d",
+		"@_name": "smart_bg_mode0_group"
+	},
+	{
+		"#text": "Allow running in background",
+		"@_name": "smart_bg_mode1"
+	},
+	{
+		"#text": "Apps allowed to run in background: %1$d",
+		"@_name": "smart_bg_mode1_group"
+	},
+	{
+		"#text": "Disallow running in background",
+		"@_name": "smart_bg_mode2"
+	},
+	{
+		"#text": "Apps disallowed to run in background: %1$d",
+		"@_name": "smart_bg_mode2_group"
+	},
+	{
+		"#text": "Background progresses",
+		"@_name": "smart_bg_title"
+	},
+	{
+		"#text": "View all (%1$s)",
+		"@_name": "smart_card_action_detail"
+	},
+	{
+		"#text": "More",
+		"@_name": "smart_card_action_more_news"
+	},
+	{
+		"#text": "\"Replace with the quick app version\nUninstall the full version to save space\"",
+		"@_name": "smart_card_detail_quick_app_title"
+	},
+	{
+		"#text": "Smart Card",
+		"@_name": "smart_card_key"
+	},
+	{
+		"#text": "Data cleaned cannot be recovered",
+		"@_name": "smart_card_summary_file"
+	},
+	{
+		"#text": "Locate your phone, protect your privacy, and find your phone",
+		"@_name": "smart_card_summary_find_phone"
+	},
+	{
+		"#text": "App cloner, balance your life and work",
+		"@_name": "smart_card_summary_multi_app"
+	},
+	{
+		"#text": "Latest tips to avoid phone fraud",
+		"@_name": "smart_card_summary_news"
+	},
+	{
+		"#text": "Replace full version with quick app version",
+		"@_name": "smart_card_summary_quick_app"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "smart_card_summary_sam_pic"
+	},
+	{
+		"#text": "Risks of virus intrusion may exist",
+		"@_name": "smart_card_summary_virus"
+	},
+	{
+		"#text": "Keep you away from spam calls/SMS",
+		"@_name": "smart_card_summarye_se_family"
+	},
+	{
+		"#text": "Apps infrequently used",
+		"@_name": "smart_card_title_app"
+	},
+	{
+		"#text": "Big files infrequently viewed",
+		"@_name": "smart_card_title_file"
+	},
+	{
+		"#text": "Phone Finder",
+		"@_name": "smart_card_title_find_phone"
+	},
+	{
+		"#text": "App cloner",
+		"@_name": "smart_card_title_multi_app"
+	},
+	{
+		"#text": "Safety tips",
+		"@_name": "smart_card_title_news"
+	},
+	{
+		"#text": "App cleaner",
+		"@_name": "smart_card_title_quick_app"
+	},
+	{
+		"#text": "%1$d sets of similar images",
+		"@_name": "smart_card_title_sam_pic"
+	},
+	{
+		"#text": "Family Guard",
+		"@_name": "smart_card_title_se_family"
+	},
+	{
+		"#text": "%1$d viruses found",
+		"@_name": "smart_card_title_virus"
+	},
+	{
+		"#text": "Download app recommended",
+		"@_name": "smartcard_ad_download_title"
+	},
+	{
+		"#text": "Clean uncommonly used apps",
+		"@_name": "smartcard_app_title"
+	},
+	{
+		"#text": "Clean uncommonly used big files",
+		"@_name": "smartcard_big_file_title"
+	},
+	{
+		"#text": "Smart cards will be based on your phone status",
+		"@_name": "smartcard_des1"
+	},
+	{
+		"#text": "Provide practical functions on the Homepage and Clean Up in Security",
+		"@_name": "smartcard_des2"
+	},
+	{
+		"#text": "Safety tips",
+		"@_name": "smartcard_news_title"
+	},
+	{
+		"#text": "Smart cards can be edited",
+		"@_name": "smartcard_notice"
+	},
+	{
+		"#text": "QQ cleaner",
+		"@_name": "smartcard_qq_clean_title_f8"
+	},
+	{
+		"#text": "App cleaner",
+		"@_name": "smartcard_quick_app_title"
+	},
+	{
+		"#text": "Clean similar pictures",
+		"@_name": "smartcard_similar_pic_title"
+	},
+	{
+		"#text": "Anti-virus",
+		"@_name": "smartcard_virus_clean_title"
+	},
+	{
+		"#text": "WeChat Cleaner",
+		"@_name": "smartcard_wechat_clean_title_f8"
+	},
+	{
+		"#text": "Block via keywords",
+		"@_name": "sms_block_key_word"
+	},
+	{
+		"#text": "APP AD",
+		"@_name": "sms_cate_name_app_spread"
+	},
+	{
+		"#text": "Carrier AD",
+		"@_name": "sms_cate_name_cp_ad"
+	},
+	{
+		"#text": "Insurance &amp; finance",
+		"@_name": "sms_cate_name_finance_ad"
+	},
+	{
+		"#text": "Fraud",
+		"@_name": "sms_cate_name_fraud"
+	},
+	{
+		"#text": "Game AD",
+		"@_name": "sms_cate_name_game_ad"
+	},
+	{
+		"#text": "SMS AD",
+		"@_name": "sms_cate_name_orther"
+	},
+	{
+		"#text": "Block SMS with the keywords",
+		"@_name": "sms_keyword_blank_hint"
+	},
+	{
+		"#text": "Source:",
+		"@_name": "source"
+	},
+	{
+		"#text": "Add from call logs",
+		"@_name": "spam_add_calllog_tittle"
+	},
+	{
+		"#text": "Add from contacts",
+		"@_name": "spam_add_contact_tittle"
+	},
+	{
+		"#text": "Add from messages",
+		"@_name": "spam_add_messagelog_tittle"
+	},
+	{
+		"#text": "Enter a number",
+		"@_name": "spam_add_number_title"
+	},
+	{
+		"#text": "Note",
+		"@_name": "spam_desc_input_hint"
+	},
+	{
+		"#text": "Number",
+		"@_name": "spam_number_input_hint"
+	},
+	{
+		"#text": "\"Use %1$s times\nRecently used: %2$s\"",
+		"@_name": "specific_permission_summary"
+	},
+	{
+		"#text": "Clean up",
+		"@_name": "speed_up_by_clean_f8"
+	},
+	{
+		"#text": "Your best safe guard",
+		"@_name": "splash_page_summary"
+	},
+	{
+		"#text": "Get event rewards for free",
+		"@_name": "splash_settings_summary"
+	},
+	{
+		"#text": "Allow splash screen ad",
+		"@_name": "splash_settings_title"
+	},
+	{
+		"#text": "Start up",
+		"@_name": "startup"
+	},
+	{
+		"#text": "Clearing junk files",
+		"@_name": "status_clean_junk"
+	},
+	{
+		"#text": "Optimizing",
+		"@_name": "status_clean_optimize_f8"
+	},
+	{
+		"#text": "Accelerating",
+		"@_name": "status_clean_ram"
+	},
+	{
+		"#text": "Security scan in progress",
+		"@_name": "status_detect_secure_item"
+	},
+	{
+		"#text": "Detecting",
+		"@_name": "status_detecting"
+	},
+	{
+		"#text": "Done",
+		"@_name": "status_done"
+	},
+	{
+		"#text": "None",
+		"@_name": "status_null"
+	},
+	{
+		"#text": "Optimization suggested",
+		"@_name": "status_opt_commend"
+	},
+	{
+		"#text": "Cleaning is recommended",
+		"@_name": "status_opt_commend_clean_f8"
+	},
+	{
+		"#text": "Optimized",
+		"@_name": "status_opt_done"
+	},
+	{
+		"#text": "Optimal",
+		"@_name": "status_opt_finish"
+	},
+	{
+		"#text": "Optimize",
+		"@_name": "status_optmize"
+	},
+	{
+		"#text": "Sufficient",
+		"@_name": "status_space_enough"
+	},
+	{
+		"#text": "On",
+		"@_name": "status_switch_open"
+	},
+	{
+		"#text": "Up to date",
+		"@_name": "status_sys_update_done"
+	},
+	{
+		"#text": "Buy",
+		"@_name": "status_traffic_over"
+	},
+	{
+		"#text": "Still close",
+		"@_name": "still_close"
+	},
+	{
+		"#text": "Disk",
+		"@_name": "storage"
+	},
+	{
+		"#text": "No notes",
+		"@_name": "str_no_note"
+	},
+	{
+		"#text": "%1$s spam calls are blocked",
+		"@_name": "str_notify_more_than_one_call"
+	},
+	{
+		"#text": "%1$s spam messages are blocked",
+		"@_name": "str_notify_more_than_one_sms"
+	},
+	{
+		"#text": "Blocking logs",
+		"@_name": "str_pref_block_record"
+	},
+	{
+		"#text": "Smart filtering",
+		"@_name": "str_pref_smart_block"
+	},
+	{
+		"#text": "\"User's blacklist\"",
+		"@_name": "str_pref_user_blacklist"
+	},
+	{
+		"#text": "%1$s blacklist(s)",
+		"@_name": "str_summary_blacklist"
+	},
+	{
+		"#text": "No blacklist",
+		"@_name": "str_summary_blacklist_null"
+	},
+	{
+		"#text": "%1$s new blocking record(s)",
+		"@_name": "str_summary_unread"
+	},
+	{
+		"#text": "No new blocking record",
+		"@_name": "str_summary_unread_null"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "submenu_delete_label"
+	},
+	{
+		"#text": "Recovery backup",
+		"@_name": "sysclear_trash_backups"
+	},
+	{
+		"#text": "System log error",
+		"@_name": "sysclear_trash_bugreports"
+	},
+	{
+		"#text": "Cache",
+		"@_name": "sysclear_trash_cache"
+	},
+	{
+		"#text": "System disk log",
+		"@_name": "sysclear_trash_data_log"
+	},
+	{
+		"#text": "Invalid gallery thumbnails",
+		"@_name": "sysclear_trash_gallery_invalid_thumbnail"
+	},
+	{
+		"#text": "Gallery thumbnails",
+		"@_name": "sysclear_trash_gallery_thumbnail"
+	},
+	{
+		"#text": "Deleting it may cause camera crashdown",
+		"@_name": "sysclear_trash_gallery_thumbnail_warn"
+	},
+	{
+		"#text": "System common logs",
+		"@_name": "sysclear_trash_logs"
+	},
+	{
+		"#text": "SD card recycle bin",
+		"@_name": "sysclear_trash_lost_dir"
+	},
+	{
+		"#text": "SD card fragmented files",
+		"@_name": "sysclear_trash_lost_find"
+	},
+	{
+		"#text": "GDC push log",
+		"@_name": "sysclear_trash_pushLog"
+	},
+	{
+		"#text": "Unanswered system log",
+		"@_name": "sysclear_trash_rt_anr"
+	},
+	{
+		"#text": "Built-in APK",
+		"@_name": "sysclear_trash_rt_apps"
+	},
+	{
+		"#text": "Dalvik cache remnants",
+		"@_name": "sysclear_trash_rt_dalvik"
+	},
+	{
+		"#text": "System run log",
+		"@_name": "sysclear_trash_rt_log"
+	},
+	{
+		"#text": "System recycle bin",
+		"@_name": "sysclear_trash_rt_lost"
+	},
+	{
+		"#text": "System temp files",
+		"@_name": "sysclear_trash_rt_tmp"
+	},
+	{
+		"#text": "System log error",
+		"@_name": "sysclear_trash_rt_tombstone"
+	},
+	{
+		"#text": "System sleep log",
+		"@_name": "sysclear_trash_sleeplog"
+	},
+	{
+		"#text": "System cache",
+		"@_name": "sysclear_trash_system_app_cache"
+	},
+	{
+		"#text": "Cache remnants",
+		"@_name": "sysclear_trash_uninstalled_cache"
+	},
+	{
+		"#text": "App data",
+		"@_name": "system_and_app_cache"
+	},
+	{
+		"#text": "App data may be lost after cleanup.",
+		"@_name": "system_and_app_cache_desc"
+	},
+	{
+		"#text": "Safe",
+		"@_name": "tab_safe"
+	},
+	{
+		"#text": "\"Last scan: \"",
+		"@_name": "tab_safe_show_day"
+	},
+	{
+		"#text": "TB",
+		"@_name": "terabyteShort"
+	},
+	{
+		"#text": "Tethering and portable hotspot",
+		"@_name": "tether_settings_title_all"
+	},
+	{
+		"#text": "Bluetooth tethering",
+		"@_name": "tether_settings_title_bluetooth"
+	},
+	{
+		"#text": "USB tethering",
+		"@_name": "tether_settings_title_usb"
+	},
+	{
+		"#text": "Tethering",
+		"@_name": "tether_settings_title_usb_bluetooth"
+	},
+	{
+		"#text": "Portable hotspot",
+		"@_name": "tether_settings_title_wifi"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "text_accept"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "text_loading"
+	},
+	{
+		"#text": "No apps to be managed",
+		"@_name": "text_no_app"
+	},
+	{
+		"#text": "No search results",
+		"@_name": "text_no_search_app"
+	},
+	{
+		"#text": "Ask",
+		"@_name": "text_prompt"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "text_reject"
+	},
+	{
+		"#text": "\"Version: \"",
+		"@_name": "text_version"
+	},
+	{
+		"#text": "Traffic",
+		"@_name": "title"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "title_activity_app_sec"
+	},
+	{
+		"#text": "Apps allowed to %1$s: %2$s",
+		"@_name": "title_allow_item"
+	},
+	{
+		"#text": "Need to ask to %1$s: %2$s",
+		"@_name": "title_prompt_item"
+	},
+	{
+		"#text": "Disallowed to %1$s: %2$s",
+		"@_name": "title_reject_item"
+	},
+	{
+		"#text": "Incoming Call Blocked",
+		"@_name": "tittle_block_noti_call"
+	},
+	{
+		"#text": "Message Blocked",
+		"@_name": "tittle_block_noti_mms"
+	},
+	{
+		"#text": "Next settlement",
+		"@_name": "toClearDay"
+	},
+	{
+		"#text": "Contains invalid number",
+		"@_name": "toast_invalid_number"
+	},
+	{
+		"#text": "This number already exists",
+		"@_name": "toast_repeated"
+	},
+	{
+		"#text": "Monthly data plan should not be less than the remaining data",
+		"@_name": "total_set_error_msg"
+	},
+	{
+		"#text": "Calibrate",
+		"@_name": "trafficCorrection"
+	},
+	{
+		"#text": "MB",
+		"@_name": "trafficUnit"
+	},
+	{
+		"#text": "Add apps",
+		"@_name": "traffic_add_directional_app"
+	},
+	{
+		"#text": "Unable to set in Airplane mode",
+		"@_name": "traffic_airplanemode"
+	},
+	{
+		"#text": "Application List",
+		"@_name": "traffic_app_list"
+	},
+	{
+		"#text": "No apps",
+		"@_name": "traffic_app_list_no"
+	},
+	{
+		"#text": "Allow background data connection",
+		"@_name": "traffic_background_allow"
+	},
+	{
+		"#text": "App details",
+		"@_name": "traffic_background_app_detail"
+	},
+	{
+		"#text": "Network access",
+		"@_name": "traffic_background_detail_header_title"
+	},
+	{
+		"#text": "Smart background data connection",
+		"@_name": "traffic_background_intelligence"
+	},
+	{
+		"#text": "Background cellular data",
+		"@_name": "traffic_background_mobile_title"
+	},
+	{
+		"#text": "Background data usage",
+		"@_name": "traffic_background_network"
+	},
+	{
+		"#text": "Disallow background data connection",
+		"@_name": "traffic_background_reject"
+	},
+	{
+		"#text": "Background WLAN data",
+		"@_name": "traffic_background_wifi_title"
+	},
+	{
+		"#text": "B",
+		"@_name": "traffic_byteShort"
+	},
+	{
+		"#text": "Calibrate",
+		"@_name": "traffic_click_to_correct"
+	},
+	{
+		"#text": "Tap to set",
+		"@_name": "traffic_click_to_setUp"
+	},
+	{
+		"#text": "Alert and disconnect when exceeds pre-set plan",
+		"@_name": "traffic_controll_hint"
+	},
+	{
+		"#text": "Basic settings",
+		"@_name": "traffic_correct"
+	},
+	{
+		"#text": "Automatic correction traffic",
+		"@_name": "traffic_correct_auto"
+	},
+	{
+		"#text": "Select brand",
+		"@_name": "traffic_correct_brand_dialog_title"
+	},
+	{
+		"#text": "Select city",
+		"@_name": "traffic_correct_city_dialog_title"
+	},
+	{
+		"#text": "Once the auto-correcting module is set, it will send free inquiring SMS automatically to the carrier to calibrate the data usage",
+		"@_name": "traffic_correct_content_hint"
+	},
+	{
+		"#text": "Please select",
+		"@_name": "traffic_correct_default_dialog_title"
+	},
+	{
+		"#text": "\"SIM card's registered location doesn't match that identified by the system\"",
+		"@_name": "traffic_correct_diff_dialog_message"
+	},
+	{
+		"#text": "SIM %1$d data uncalibrated",
+		"@_name": "traffic_correct_fail_hint"
+	},
+	{
+		"#text": "Calibration, please retry",
+		"@_name": "traffic_correct_failed_tips"
+	},
+	{
+		"#text": "Usage inquiry needs network connection, please try again.",
+		"@_name": "traffic_correct_need_network_hint"
+	},
+	{
+		"#text": "Select carrier",
+		"@_name": "traffic_correct_operator_dialog_title"
+	},
+	{
+		"#text": "Select province",
+		"@_name": "traffic_correct_province_dialog_titile"
+	},
+	{
+		"#text": "Calibrate anyway",
+		"@_name": "traffic_correct_still_calibration"
+	},
+	{
+		"#text": "SIM %1$d data calibrated",
+		"@_name": "traffic_correct_success_hint"
+	},
+	{
+		"#text": "Data inquiry code",
+		"@_name": "traffic_custom_Instruction"
+	},
+	{
+		"#text": "Send inquiry SMS to",
+		"@_name": "traffic_custom_Send_query_SMS"
+	},
+	{
+		"#text": "Set inquiry code",
+		"@_name": "traffic_custom_Setup_instructions"
+	},
+	{
+		"#text": "Use custom inquiry code",
+		"@_name": "traffic_custom_correct_code"
+	},
+	{
+		"#text": "Send %1$s to %2$s",
+		"@_name": "traffic_custom_correct_code_complete"
+	},
+	{
+		"#text": "Customize query code (optional)",
+		"@_name": "traffic_custom_correct_code_hint"
+	},
+	{
+		"#text": "Unfinished code. Please finish it",
+		"@_name": "traffic_custom_correct_code_incomplete"
+	},
+	{
+		"#text": "Inquiry SMS will be sent according to your code",
+		"@_name": "traffic_custom_correct_code_summary"
+	},
+	{
+		"#text": "Customize your data inquiry code",
+		"@_name": "traffic_custom_correct_code_title"
+	},
+	{
+		"#text": "\"Today's data run out\"",
+		"@_name": "traffic_daily_warning_title"
+	},
+	{
+		"#text": "Daily",
+		"@_name": "traffic_day_allow_mobile_data_usage"
+	},
+	{
+		"#text": "Remaining today",
+		"@_name": "traffic_day_left"
+	},
+	{
+		"#text": "Today over used",
+		"@_name": "traffic_day_over"
+	},
+	{
+		"#text": "Daily rent data",
+		"@_name": "traffic_day_plan"
+	},
+	{
+		"#text": "\"Today's plan\"",
+		"@_name": "traffic_day_plan_title"
+	},
+	{
+		"#text": "Daily rent data",
+		"@_name": "traffic_day_plan_total"
+	},
+	{
+		"#text": "WLAN usage ranking for today",
+		"@_name": "traffic_day_wifi_list_summary"
+	},
+	{
+		"#text": "Daily usage warned. %1$s remained",
+		"@_name": "traffic_dayplan_daily_warning_summary"
+	},
+	{
+		"#text": "Daily usage warning",
+		"@_name": "traffic_dayplan_daily_warning_title"
+	},
+	{
+		"#text": "\"Today's data allowance has been used\"",
+		"@_name": "traffic_daywarning_dialog_title"
+	},
+	{
+		"#text": "\"Today's data allowance for card %1$s has been used\"",
+		"@_name": "traffic_daywarning_gemini_dialog_title"
+	},
+	{
+		"#text": "%1$s of daily average data has been used. %2$s of data remaining this month.",
+		"@_name": "traffic_daywarning_switch_dialog_summary"
+	},
+	{
+		"#text": "Average warning",
+		"@_name": "traffic_daywarning_switch_preference_title"
+	},
+	{
+		"#text": "No data-dedicated apps",
+		"@_name": "traffic_direction_app_empty"
+	},
+	{
+		"#text": "Added %1$d data-free apps",
+		"@_name": "traffic_directional_app_hint"
+	},
+	{
+		"#text": "Data-free apps",
+		"@_name": "traffic_directional_app_setting"
+	},
+	{
+		"#text": ", total usage %1$s",
+		"@_name": "traffic_directional_app_usage"
+	},
+	{
+		"#text": "Data-dedicated apps",
+		"@_name": "traffic_directional_apps"
+	},
+	{
+		"#text": "\"You're using the dedicated network for purchasing an international data plan\"",
+		"@_name": "traffic_free_activity_one_summary"
+	},
+	{
+		"#text": "Dedicated network",
+		"@_name": "traffic_free_activity_title"
+	},
+	{
+		"#text": "Data management unavailable",
+		"@_name": "traffic_free_activity_two_summary"
+	},
+	{
+		"#text": ", total usage %1$s",
+		"@_name": "traffic_free_app_usage"
+	},
+	{
+		"#text": "Data plan for card %1$s not set",
+		"@_name": "traffic_gemini_guide_users_setup_dialog_title"
+	},
+	{
+		"#text": "Monthly data of card %1$s has been used",
+		"@_name": "traffic_gemini_used_all_dialog_title"
+	},
+	{
+		"#text": "Card %1$s mobile data usage warning",
+		"@_name": "traffic_gemini_warning_dialog_title"
+	},
+	{
+		"#text": "GB",
+		"@_name": "traffic_gigabyteShort"
+	},
+	{
+		"#text": "Adding the data manager plug-in to the desktop?",
+		"@_name": "traffic_guide_add_wp_dialog_message_line1"
+	},
+	{
+		"#text": "Add desktop plug-in ?",
+		"@_name": "traffic_guide_add_wp_dialog_title"
+	},
+	{
+		"#text": "%1$s of data already used this month. Recommend setting data plan.",
+		"@_name": "traffic_guide_users_setup_dialog_message"
+	},
+	{
+		"#text": "Set Now",
+		"@_name": "traffic_guide_users_setup_dialog_pbt"
+	},
+	{
+		"#text": "Data plan not set",
+		"@_name": "traffic_guide_users_setup_dialog_title"
+	},
+	{
+		"#text": "Background high usage alert",
+		"@_name": "traffic_high_activity_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "traffic_high_add_action_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "traffic_high_add_action_okay"
+	},
+	{
+		"#text": "Add app to alert whitelist",
+		"@_name": "traffic_high_add_no_remind_apps_title"
+	},
+	{
+		"#text": "High compression rate",
+		"@_name": "traffic_high_compression_rate"
+	},
+	{
+		"#text": "Data usage alert level",
+		"@_name": "traffic_high_dialog_title"
+	},
+	{
+		"#text": "MB/day",
+		"@_name": "traffic_high_dialog_unit"
+	},
+	{
+		"#text": "No Apps to Add",
+		"@_name": "traffic_high_empty_apps_add"
+	},
+	{
+		"#text": "No Whitelisted Apps",
+		"@_name": "traffic_high_empty_remind_apps"
+	},
+	{
+		"#text": "Enabled",
+		"@_name": "traffic_high_hava_open"
+	},
+	{
+		"#text": "Whitelisted apps will be excluded from alerts",
+		"@_name": "traffic_high_no_remind_apps_detail_message"
+	},
+	{
+		"#text": "%1$s app(s)",
+		"@_name": "traffic_high_no_remind_apps_num"
+	},
+	{
+		"#text": "Alert whitelist",
+		"@_name": "traffic_high_no_remind_apps_title"
+	},
+	{
+		"#text": "Add App",
+		"@_name": "traffic_high_no_remind_btn_title"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "traffic_high_not_open"
+	},
+	{
+		"#text": "Dismiss",
+		"@_name": "traffic_high_notify_ignore_action"
+	},
+	{
+		"#text": "Close App",
+		"@_name": "traffic_high_notify_kill_action"
+	},
+	{
+		"#text": "; background data usage exceeds %1$s",
+		"@_name": "traffic_high_notify_remind_summary"
+	},
+	{
+		"#text": ",",
+		"@_name": "traffic_high_notify_remind_summary_dayton"
+	},
+	{
+		"#text": "High Background Data Usage",
+		"@_name": "traffic_high_notify_remind_title"
+	},
+	{
+		"#text": "Alert when an app uses more than %1$s/day",
+		"@_name": "traffic_high_remind_detail_message"
+	},
+	{
+		"#text": "Background high usage alert",
+		"@_name": "traffic_high_remind_message"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "traffic_high_remove_app_btn"
+	},
+	{
+		"#text": "Background high usage alert",
+		"@_name": "traffic_high_traffic_title"
+	},
+	{
+		"#text": "Start at",
+		"@_name": "traffic_idle_begin_title"
+	},
+	{
+		"#text": "End at",
+		"@_name": "traffic_idle_end_title"
+	},
+	{
+		"#text": "Over idle traffic",
+		"@_name": "traffic_idle_overlimit"
+	},
+	{
+		"#text": "Late-night data",
+		"@_name": "traffic_idle_setting_summary"
+	},
+	{
+		"#text": "Please insert SIM card",
+		"@_name": "traffic_insert_sim"
+	},
+	{
+		"#text": "KB",
+		"@_name": "traffic_kilobyteShort"
+	},
+	{
+		"#text": "Data free for King Card",
+		"@_name": "traffic_king_free"
+	},
+	{
+		"#text": "Data-free apps for King Card",
+		"@_name": "traffic_king_free_app"
+	},
+	{
+		"#text": "(",
+		"@_name": "traffic_left_brackets"
+	},
+	{
+		"#text": "Processing",
+		"@_name": "traffic_loading_dialog_msg"
+	},
+	{
+		"#text": "Low compression rate",
+		"@_name": "traffic_low_compression_rate"
+	},
+	{
+		"#text": "Regular data plan",
+		"@_name": "traffic_main_packages"
+	},
+	{
+		"#text": "Management",
+		"@_name": "traffic_manager"
+	},
+	{
+		"#text": "MB",
+		"@_name": "traffic_megabyteShort"
+	},
+	{
+		"#text": "Medium compression rate",
+		"@_name": "traffic_middle_compression_rate"
+	},
+	{
+		"#text": "Traffic monitoring",
+		"@_name": "traffic_monitor"
+	},
+	{
+		"#text": "Monthly plan",
+		"@_name": "traffic_month_plan"
+	},
+	{
+		"#text": "Saved this month",
+		"@_name": "traffic_month_saved"
+	},
+	{
+		"#text": "monthly plan traffic is used up, you may want to turn off mobile data",
+		"@_name": "traffic_month_used_out"
+	},
+	{
+		"#text": "Monthly data usage warning",
+		"@_name": "traffic_month_warning_title"
+	},
+	{
+		"#text": "You can change the setting in Security > Data.",
+		"@_name": "traffic_net_tip_msg"
+	},
+	{
+		"#text": "Network access has been disabled for the app.",
+		"@_name": "traffic_net_tip_title"
+	},
+	{
+		"#text": "App Network Management",
+		"@_name": "traffic_network_control"
+	},
+	{
+		"#text": "Non-busy hour data",
+		"@_name": "traffic_non_busy_hour_data"
+	},
+	{
+		"#text": "Usage unknown or usage error?",
+		"@_name": "traffic_not_know_usage"
+	},
+	{
+		"#text": "Traffic monitor not set",
+		"@_name": "traffic_not_set"
+	},
+	{
+		"#text": "Traffic monitor for SIM %1$s not set",
+		"@_name": "traffic_not_set_card"
+	},
+	{
+		"#text": "No data plan set, %1$s used this month",
+		"@_name": "traffic_not_set_dialog_title"
+	},
+	{
+		"#text": "Nearly 40GB of King Card data used this month",
+		"@_name": "traffic_notify_warning_content"
+	},
+	{
+		"#text": "Will disconnect network if exceeds 40GB",
+		"@_name": "traffic_notify_warning_summary"
+	},
+	{
+		"#text": "Set data limit for accurate monitoring",
+		"@_name": "traffic_notset_warning_summary"
+	},
+	{
+		"#text": "Monthly data used %1$s",
+		"@_name": "traffic_notset_warning_title"
+	},
+	{
+		"#text": "Other settings",
+		"@_name": "traffic_other_setup_category"
+	},
+	{
+		"#text": "Auto off data if overused",
+		"@_name": "traffic_over_auto_close_net"
+	},
+	{
+		"#text": "Remind when exceeds average daily usage",
+		"@_name": "traffic_over_average_remind_daily"
+	},
+	{
+		"#text": "Alert when exceeds limit",
+		"@_name": "traffic_over_break_network_auto"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "traffic_over_hint_ignore"
+	},
+	{
+		"#text": "Premium deals are already available for you. Recharge immediately",
+		"@_name": "traffic_over_notice_sumary"
+	},
+	{
+		"#text": "Traffic data is over usage",
+		"@_name": "traffic_over_used"
+	},
+	{
+		"#text": "Traffic data for SIM %1$s is over usage",
+		"@_name": "traffic_over_used_card"
+	},
+	{
+		"#text": "Excessive used data %1$s",
+		"@_name": "traffic_over_warning_sumary"
+	},
+	{
+		"#text": "Data plan",
+		"@_name": "traffic_packages"
+	},
+	{
+		"#text": "PB",
+		"@_name": "traffic_petabyte"
+	},
+	{
+		"#text": "Plan settings",
+		"@_name": "traffic_plan_setting"
+	},
+	{
+		"#text": "Plan type",
+		"@_name": "traffic_plan_type"
+	},
+	{
+		"#text": "Daily rent card",
+		"@_name": "traffic_plan_type_day_pay"
+	},
+	{
+		"#text": "Monthly rent card",
+		"@_name": "traffic_plan_type_month_pay"
+	},
+	{
+		"#text": "Select plan type",
+		"@_name": "traffic_plan_type_title"
+	},
+	{
+		"#text": "Regular calibration",
+		"@_name": "traffic_regular_correct"
+	},
+	{
+		"#text": ")",
+		"@_name": "traffic_right_brackets"
+	},
+	{
+		"#text": "Save and calibrate",
+		"@_name": "traffic_saveAndCorrect"
+	},
+	{
+		"#text": "\"When it's enabled, online pictures, videos and music will be compressed when you're using cellular data. This may affect user experience.\"",
+		"@_name": "traffic_saving_compress_summary"
+	},
+	{
+		"#text": "Compress contents to save data",
+		"@_name": "traffic_saving_item_hint"
+	},
+	{
+		"#text": "Data saver",
+		"@_name": "traffic_saving_item_name"
+	},
+	{
+		"#text": "Learn More",
+		"@_name": "traffic_saving_learn_more"
+	},
+	{
+		"#text": "Show saved data in notification shade",
+		"@_name": "traffic_saving_notify_switch_summary"
+	},
+	{
+		"#text": "Show saved data in notification shade",
+		"@_name": "traffic_saving_notify_switch_title"
+	},
+	{
+		"#text": "Tap to set data saver",
+		"@_name": "traffic_saving_setting_hint"
+	},
+	{
+		"#text": "Data saver is disabled",
+		"@_name": "traffic_saving_status_disable"
+	},
+	{
+		"#text": "Data saver is enabled",
+		"@_name": "traffic_saving_status_enable"
+	},
+	{
+		"#text": "Powered by OperaMax",
+		"@_name": "traffic_saving_technical_support"
+	},
+	{
+		"#text": "Data saver will disconnect your VPN, continue?",
+		"@_name": "traffic_saving_vpn_hint"
+	},
+	{
+		"#text": "Will be regularly sent to the operator free traffic correction",
+		"@_name": "traffic_send_correct_msg_to_operator_regular"
+	},
+	{
+		"#text": "Carrier settings",
+		"@_name": "traffic_set_operator_info"
+	},
+	{
+		"#text": "SIM Card",
+		"@_name": "traffic_setup_sim_title"
+	},
+	{
+		"#text": "Display usage in notification bar",
+		"@_name": "traffic_show_in_notifi_bar"
+	},
+	{
+		"#text": "SIM%1$d",
+		"@_name": "traffic_sim"
+	},
+	{
+		"#text": "SIM Attribution",
+		"@_name": "traffic_sim_attribution"
+	},
+	{
+		"#text": "SIM %1$d",
+		"@_name": "traffic_sim_card_no"
+	},
+	{
+		"#text": "Special data",
+		"@_name": "traffic_special_plan"
+	},
+	{
+		"#text": "Late-night data, data-free apps",
+		"@_name": "traffic_special_plan_summary"
+	},
+	{
+		"#text": "Data-free apps",
+		"@_name": "traffic_special_plan_summary_dayplan"
+	},
+	{
+		"#text": "Data-free apps",
+		"@_name": "traffic_special_plan_summary_king_card"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "traffic_start_saving"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "traffic_stop_saving"
+	},
+	{
+		"#text": "Data recharge",
+		"@_name": "traffic_subscribe_data"
+	},
+	{
+		"#text": "Subscribe data plan",
+		"@_name": "traffic_subscribe_data_plan"
+	},
+	{
+		"#text": "Apps allowed to run via mobile data",
+		"@_name": "traffic_summary_mobile_item_summary"
+	},
+	{
+		"#text": "\"Control apps' network access\"",
+		"@_name": "traffic_summary_network_item_summary"
+	},
+	{
+		"#text": "Convenient and preferential offers",
+		"@_name": "traffic_summary_packet_buy_item_summary"
+	},
+	{
+		"#text": "Apps allowed to run via WLAN",
+		"@_name": "traffic_summary_wlan_item_summary"
+	},
+	{
+		"#text": "Data",
+		"@_name": "traffic_summmary_title"
+	},
+	{
+		"#text": "Allow all",
+		"@_name": "traffic_switch_allow"
+	},
+	{
+		"#text": "Deny all",
+		"@_name": "traffic_switch_reject"
+	},
+	{
+		"#text": "Background",
+		"@_name": "traffic_tab_background_title"
+	},
+	{
+		"#text": "Cellular",
+		"@_name": "traffic_tab_mobile_title"
+	},
+	{
+		"#text": "Phone top-up",
+		"@_name": "traffic_tab_packet_buy_title"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "traffic_tab_wifi_title"
+	},
+	{
+		"#text": "TB",
+		"@_name": "traffic_terabyte"
+	},
+	{
+		"#text": "Saved today",
+		"@_name": "traffic_today_saved"
+	},
+	{
+		"#text": "Your daily data allowance is used up. There is %1$s remaining for this month.",
+		"@_name": "traffic_today_used_dialog_title"
+	},
+	{
+		"#text": "Excess data usage",
+		"@_name": "traffic_traffic_overlimit"
+	},
+	{
+		"#text": "Traffic usage normal",
+		"@_name": "traffic_used_normal"
+	},
+	{
+		"#text": "Your regular monthly data allowance is used up and you have disconnected your mobile data network",
+		"@_name": "traffic_used_up_dialog_title"
+	},
+	{
+		"#text": "Your regular monthly data allowance is used up.",
+		"@_name": "traffic_used_up_notice_title"
+	},
+	{
+		"#text": "Unused prime data plan less than %1$s",
+		"@_name": "traffic_warning_common_summary"
+	},
+	{
+		"#text": "Used mobile data",
+		"@_name": "traffic_warning_dialog_text1"
+	},
+	{
+		"#text": "Remaining",
+		"@_name": "traffic_warning_dialog_text2"
+	},
+	{
+		"#text": "%1$s used this month, %2$s remaining. Alert threshold reached.",
+		"@_name": "traffic_warning_dialog_title"
+	},
+	{
+		"#text": "Quota warning",
+		"@_name": "traffic_warning_setting"
+	},
+	{
+		"#text": "Weekly",
+		"@_name": "traffic_week_allow_mobile_data_usage"
+	},
+	{
+		"#text": "Weekly WLAN usage rankings",
+		"@_name": "traffic_week_wifi_list_summary"
+	},
+	{
+		"#text": "Add widget to Home screen",
+		"@_name": "traffic_widget_add_switch"
+	},
+	{
+		"#text": "/",
+		"@_name": "traffic_widget_not_applicable"
+	},
+	{
+		"#text": "Idle traffic remaining",
+		"@_name": "traffic_widget_remain_idle_summary"
+	},
+	{
+		"#text": "Available",
+		"@_name": "traffic_widget_remain_summary"
+	},
+	{
+		"#text": "Monthly WLAN usage ranking",
+		"@_name": "traffic_wifi_list_summary"
+	},
+	{
+		"#text": "WLAN switch",
+		"@_name": "traffic_wifi_swtich_summary"
+	},
+	{
+		"#text": "23:00",
+		"@_name": "trafic_idle_begin_summary"
+	},
+	{
+		"#text": "07:00",
+		"@_name": "trafic_idle_end_summary"
+	},
+	{
+		"#text": "Data plan for non-busy hours",
+		"@_name": "trafic_idle_traffic_title"
+	},
+	{
+		"#text": "Traffic monitoring",
+		"@_name": "trafic_monitor"
+	},
+	{
+		"#text": "Monthly limit",
+		"@_name": "trafic_mouth_idle_traffic_title"
+	},
+	{
+		"#text": "Used in non-busy hour",
+		"@_name": "trafic_mouth_used_idle_traffic_title"
+	},
+	{
+		"#text": "No apps to be added",
+		"@_name": "trus_app_empty"
+	},
+	{
+		"#text": "%1$s app(s)",
+		"@_name": "trust_app_count_num"
+	},
+	{
+		"#text": "Trusted apps",
+		"@_name": "trust_apps_title"
+	},
+	{
+		"#text": "Seldom-used apps",
+		"@_name": "type_app"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "type_app_back_del"
+	},
+	{
+		"#text": "App uninstallation",
+		"@_name": "type_app_mgr"
+	},
+	{
+		"#text": "Infrequent apps",
+		"@_name": "type_app_unused_app"
+	},
+	{
+		"#text": "Frequent apps",
+		"@_name": "type_app_used_app"
+	},
+	{
+		"#text": "Music",
+		"@_name": "type_audio"
+	},
+	{
+		"#text": "Big files",
+		"@_name": "type_bigfile"
+	},
+	{
+		"#text": "Junk and caches",
+		"@_name": "type_other"
+	},
+	{
+		"#text": "Risky apps",
+		"@_name": "type_risk"
+	},
+	{
+		"#text": "Payment risks",
+		"@_name": "type_risk_pay"
+	},
+	{
+		"#text": "Account risks",
+		"@_name": "type_risk_stealaccount"
+	},
+	{
+		"#text": "Documents",
+		"@_name": "type_text"
+	},
+	{
+		"#text": "Videos",
+		"@_name": "type_video"
+	},
+	{
+		"#text": "Audio and video",
+		"@_name": "type_video_sound"
+	},
+	{
+		"#text": "Malicious apps",
+		"@_name": "type_virus"
+	},
+	{
+		"#text": "WeChat Cleaner",
+		"@_name": "type_wechat"
+	},
+	{
+		"#text": "Can be re-downloaded online",
+		"@_name": "type_wechat_chat_can_restore"
+	},
+	{
+		"#text": "Pictures in chats",
+		"@_name": "type_wechat_chat_pic"
+	},
+	{
+		"#text": "Videos in chats",
+		"@_name": "type_wechat_chat_video"
+	},
+	{
+		"#text": "\"Can't be recovered once cleaned up\"",
+		"@_name": "type_wechat_desc_un_restore"
+	},
+	{
+		"#text": "Favorite files",
+		"@_name": "type_wechat_favorite"
+	},
+	{
+		"#text": "Pictures in Moments",
+		"@_name": "type_wechat_moments_pic"
+	},
+	{
+		"#text": "Videos in Moments",
+		"@_name": "type_wechat_moments_video"
+	},
+	{
+		"#text": "Saved",
+		"@_name": "type_wechat_save"
+	},
+	{
+		"#text": "Zip file",
+		"@_name": "type_zip"
+	},
+	{
+		"#text": "Uninstall",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "Uninstall all",
+		"@_name": "uninstall_all"
+	},
+	{
+		"#text": "Clean for reconnection and installation",
+		"@_name": "uninstall_app_title"
+	},
+	{
+		"#text": "Uninstallation remnants: %1$s",
+		"@_name": "uninstall_white_count"
+	},
+	{
+		"#text": "FIX NOW",
+		"@_name": "unistall_virus"
+	},
+	{
+		"#text": "Unknown number",
+		"@_name": "unknown_number"
+	},
+	{
+		"#text": "None",
+		"@_name": "unsel_all"
+	},
+	{
+		"#text": "Unsubscribe",
+		"@_name": "unsubscribe_keyword_1"
+	},
+	{
+		"#text": "Reply with T",
+		"@_name": "unsubscribe_keyword_2"
+	},
+	{
+		"#text": "Reply with T",
+		"@_name": "unsubscribe_keyword_3"
+	},
+	{
+		"#text": "Update",
+		"@_name": "update_check"
+	},
+	{
+		"#text": "Last updated:",
+		"@_name": "update_virus_lib_summary"
+	},
+	{
+		"#text": "Virus database update",
+		"@_name": "update_virus_lib_title"
+	},
+	{
+		"#text": "Close App",
+		"@_name": "url_chk_alert_dlg_btn_close"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "url_chk_alert_dlg_btn_ignore"
+	},
+	{
+		"#text": "%1$s is trying to visit a malicious website. Security suggests that you close the app immediately.",
+		"@_name": "url_chk_alert_dlg_desc_v2"
+	},
+	{
+		"#text": "Malicious URL",
+		"@_name": "url_chk_alert_dlg_title"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "usb_install_Entries_allow"
+	},
+	{
+		"#text": "Prompt",
+		"@_name": "usb_install_Entries_ask"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "usb_install_Entries_deny"
+	},
+	{
+		"#text": 1,
+		"@_name": "usb_install_EntryValues_allow"
+	},
+	{
+		"#text": 0,
+		"@_name": "usb_install_EntryValues_ask"
+	},
+	{
+		"#text": -1,
+		"@_name": "usb_install_EntryValues_deny"
+	},
+	{
+		"#text": "No Apps",
+		"@_name": "usb_install_item_no_record"
+	},
+	{
+		"#text": "USB app installation",
+		"@_name": "usb_install_management"
+	},
+	{
+		"#text": "Monitored app(s) installed via USB: %1$d",
+		"@_name": "usb_install_monitor_title1"
+	},
+	{
+		"#text": "Monitor app installation via USB",
+		"@_name": "usb_install_settings_summary"
+	},
+	{
+		"#text": "USB installation monitor",
+		"@_name": "usb_install_settings_title"
+	},
+	{
+		"#text": "Use phone storage",
+		"@_name": "use_storage"
+	},
+	{
+		"#text": "%1$s monthly plan traffic is used up, you may want to turn off mobile data",
+		"@_name": "use_up_the_traffic_summary"
+	},
+	{
+		"#text": "Data used",
+		"@_name": "usedTraffic"
+	},
+	{
+		"#text": "Continue to use",
+		"@_name": "used_all_dialog_negetive_button"
+	},
+	{
+		"#text": "Stop now",
+		"@_name": "used_all_dialog_positive_button"
+	},
+	{
+		"#text": "Monthly plan traffic is used up",
+		"@_name": "used_all_dialog_title"
+	},
+	{
+		"#text": "Application management",
+		"@_name": "user_app_fragmetn_actionbar_title"
+	},
+	{
+		"#text": "View more TouTiao news",
+		"@_name": "view_more_header_line"
+	},
+	{
+		"#text": "Anti-virus",
+		"@_name": "virus_clean"
+	},
+	{
+		"#text": "AI virus engine provides real-time protection by detecting and alerting immediately",
+		"@_name": "virus_clean_desc_text"
+	},
+	{
+		"#text": "Unchecked over 7 days",
+		"@_name": "virus_clean_over_7_days_f8"
+	},
+	{
+		"#text": "High security level",
+		"@_name": "virus_clean_summary_f8"
+	},
+	{
+		"#text": "Processing: %s",
+		"@_name": "virus_clean_txt"
+	},
+	{
+		"#text": "Unofficial app",
+		"@_name": "virus_detail_1000"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "virus_detail_1002"
+	},
+	{
+		"#text": "OK",
+		"@_name": "virus_detail_1003"
+	},
+	{
+		"#text": "Details:",
+		"@_name": "virus_details"
+	},
+	{
+		"#text": "%1$d risk(s)",
+		"@_name": "virus_find_num"
+	},
+	{
+		"#text": "1 risk",
+		"@_name": "virus_find_one"
+	},
+	{
+		"#text": "Processing",
+		"@_name": "virus_in_processed"
+	},
+	{
+		"#text": "\"Risk level: \"",
+		"@_name": "virus_level"
+	},
+	{
+		"#text": "high",
+		"@_name": "virus_level_high"
+	},
+	{
+		"#text": "low",
+		"@_name": "virus_level_low"
+	},
+	{
+		"#text": "medium",
+		"@_name": "virus_level_middle"
+	},
+	{
+		"#text": "unknown",
+		"@_name": "virus_level_unknown"
+	},
+	{
+		"#text": "Network error. Try later",
+		"@_name": "virus_lib_available_setting_no_network"
+	},
+	{
+		"#text": "Update",
+		"@_name": "virus_lib_available_setting_notify_button"
+	},
+	{
+		"#text": "Added virus samples",
+		"@_name": "virus_lib_available_setting_notify_content"
+	},
+	{
+		"#text": "Available",
+		"@_name": "virus_lib_available_setting_notify_tip"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "virus_lib_available_setting_updating_content"
+	},
+	{
+		"#text": "Virus database updated",
+		"@_name": "virus_lib_update_finished"
+	},
+	{
+		"#text": "Virus database up to date",
+		"@_name": "virus_lib_uptodate"
+	},
+	{
+		"#text": "Virus database not updated",
+		"@_name": "virus_libs_update_never"
+	},
+	{
+		"#text": "Virus name:",
+		"@_name": "virus_name"
+	},
+	{
+		"#text": "%1$s viruses found",
+		"@_name": "virus_num_f8"
+	},
+	{
+		"#text": "Please fix now",
+		"@_name": "virus_recommend_repair"
+	},
+	{
+		"#text": "Risks Detected",
+		"@_name": "virus_scan_find_risk"
+	},
+	{
+		"#text": "No Risks",
+		"@_name": "virus_scan_no_risk"
+	},
+	{
+		"#text": "Checking for updates",
+		"@_name": "virus_settings_1000"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "virus_settings_1001"
+	},
+	{
+		"#text": "Update failed, please retry",
+		"@_name": "virus_settings_1002"
+	},
+	{
+		"#text": "Update will consume data",
+		"@_name": "virus_settings_1003"
+	},
+	{
+		"#text": "Scanning: %1$s",
+		"@_name": "virus_start_scanning_tv"
+	},
+	{
+		"#text": "Scanning for virus",
+		"@_name": "virus_status_1"
+	},
+	{
+		"#text": "Scanning",
+		"@_name": "virus_status_1020"
+	},
+	{
+		"#text": "Phone is safe",
+		"@_name": "virus_status_1021"
+	},
+	{
+		"#text": "Cloud scanning",
+		"@_name": "virus_status_1024"
+	},
+	{
+		"#text": "Uninstalling",
+		"@_name": "virus_status_1027"
+	},
+	{
+		"#text": "Processing: %1$s",
+		"@_name": "virus_status_1028_tv"
+	},
+	{
+		"#text": "No Viruses Detected",
+		"@_name": "virus_uninstall_empty"
+	},
+	{
+		"#text": "Write call logs",
+		"@_name": "w_call_log"
+	},
+	{
+		"#text": "write call logs",
+		"@_name": "w_call_log_c"
+	},
+	{
+		"#text": "Write contact data",
+		"@_name": "w_contacts"
+	},
+	{
+		"#text": "write your contacts",
+		"@_name": "w_contacts_c"
+	},
+	{
+		"#text": "Write MMS logs",
+		"@_name": "w_mms"
+	},
+	{
+		"#text": "write your MMS logs",
+		"@_name": "w_mms_c"
+	},
+	{
+		"#text": "Write SMS logs",
+		"@_name": "w_sms"
+	},
+	{
+		"#text": "write your SMS logs",
+		"@_name": "w_sms_c"
+	},
+	{
+		"#text": "Write SMS/MMS",
+		"@_name": "w_sms_mms"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "warning_dialog_negative_button"
+	},
+	{
+		"#text": "Details",
+		"@_name": "warning_dialog_positive_button"
+	},
+	{
+		"#text": "Mobile data usage reached the warning value",
+		"@_name": "warning_dialog_title"
+	},
+	{
+		"#text": "Write / delete calendar",
+		"@_name": "wd_calendar"
+	},
+	{
+		"#text": "Write / delete call log",
+		"@_name": "wd_call_log"
+	},
+	{
+		"#text": "Write / delete contact",
+		"@_name": "wd_contacts"
+	},
+	{
+		"#text": "Write/delete SMS/MMS",
+		"@_name": "wd_sms_mms"
+	},
+	{
+		"#text": "WeChat Cleaner",
+		"@_name": "wechat_title_f8"
+	},
+	{
+		"#text": "Auto-update database via WLAN",
+		"@_name": "wifi_update"
+	},
+	{
+		"#text": "%1$s min",
+		"@_name": "x_minute"
+	},
+	{
+		"#text": "%1$s sec",
+		"@_name": "x_second"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Current mode",
+		"@_name": "active_block_mode"
+	},
+	{
+		"#text": "Anonymous numbers",
+		"@_name": "anonymous_number"
+	},
+	{
+		"#text": "取消",
+		"@_name": "appdownloader_button_cancel_download"
+	},
+	{
+		"#text": "排队",
+		"@_name": "appdownloader_button_queue_for_wifi"
+	},
+	{
+		"#text": "立即开始",
+		"@_name": "appdownloader_button_start_now"
+	},
+	{
+		"#text": "%1$d%%",
+		"@_name": "appdownloader_download_percent"
+	},
+	{
+		"#text": "剩余时间：%1$s",
+		"@_name": "appdownloader_download_remaining"
+	},
+	{
+		"#text": "&lt;未命名>",
+		"@_name": "appdownloader_download_unknown_title"
+	},
+	{
+		"#text": "%1$d 小时",
+		"@_name": "appdownloader_duration_hours"
+	},
+	{
+		"#text": "%1$d 分钟",
+		"@_name": "appdownloader_duration_minutes"
+	},
+	{
+		"#text": "%1$d 秒",
+		"@_name": "appdownloader_duration_seconds"
+	},
+	{
+		"#text": "取消",
+		"@_name": "appdownloader_label_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "appdownloader_label_ok"
+	},
+	{
+		"#text": "下载",
+		"@_name": "appdownloader_notification_download"
+	},
+	{
+		"#text": "下载完成，点击打开。",
+		"@_name": "appdownloader_notification_download_complete_open"
+	},
+	{
+		"#text": "下载完成，点击安装。",
+		"@_name": "appdownloader_notification_download_complete_with_install"
+	},
+	{
+		"#text": "下载完成",
+		"@_name": "appdownloader_notification_download_complete_without_install"
+	},
+	{
+		"#text": "确认要删除%1$s的下载任务吗？",
+		"@_name": "appdownloader_notification_download_delete"
+	},
+	{
+		"#text": "下载失败。",
+		"@_name": "appdownloader_notification_download_failed"
+	},
+	{
+		"#text": "安装",
+		"@_name": "appdownloader_notification_download_install"
+	},
+	{
+		"#text": "打开",
+		"@_name": "appdownloader_notification_download_open"
+	},
+	{
+		"#text": "暂停",
+		"@_name": "appdownloader_notification_download_pause"
+	},
+	{
+		"#text": "重新下载",
+		"@_name": "appdownloader_notification_download_restart"
+	},
+	{
+		"#text": "继续",
+		"@_name": "appdownloader_notification_download_resume"
+	},
+	{
+		"#text": "SdCard空间不足, 下载失败。",
+		"@_name": "appdownloader_notification_download_space_failed"
+	},
+	{
+		"#text": "正在下载",
+		"@_name": "appdownloader_notification_downloading"
+	},
+	{
+		"#text": "文件过大，需要通过 WLAN 下载。",
+		"@_name": "appdownloader_notification_need_wifi_for_size"
+	},
+	{
+		"#text": "已在后台暂停。",
+		"@_name": "appdownloader_notification_paused_in_background"
+	},
+	{
+		"#text": "准备中",
+		"@_name": "appdownloader_notification_prepare"
+	},
+	{
+		"#text": "立即下载",
+		"@_name": "appdownloader_notification_request_btn_no"
+	},
+	{
+		"#text": "去设置",
+		"@_name": "appdownloader_notification_request_btn_yes"
+	},
+	{
+		"#text": "为了您能在方便地在通知栏控制下载任务，请到设置中开启通知，如果不需要可直接下载",
+		"@_name": "appdownloader_notification_request_message"
+	},
+	{
+		"#text": "设置",
+		"@_name": "appdownloader_notification_request_title"
+	},
+	{
+		"#text": "提示",
+		"@_name": "appdownloader_tip"
+	},
+	{
+		"#text": "\"立即开始下载此内容 (%1$s ) 可能会缩短电池的使用时间并/或导致过量使用移动数据连接流量（这可能导致移动运营商向您收费，具体取决于您的流量套餐）。\n\n触摸“%2$s”可在下次连接到 WLAN 网络时开始下载此内容。\"",
+		"@_name": "appdownloader_wifi_recommended_body"
+	},
+	{
+		"#text": "稍后再加入下载队列吗？",
+		"@_name": "appdownloader_wifi_recommended_title"
+	},
+	{
+		"#text": "\"您必须使用 WLAN 完成此内容 (%1$s ) 的下载。\n\n触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。\"",
+		"@_name": "appdownloader_wifi_required_body"
+	},
+	{
+		"#text": "文件太大，不适于通过运营商网络下载",
+		"@_name": "appdownloader_wifi_required_title"
+	},
+	{
+		"#text": "AVL Engine",
+		"@_name": "avl_permissionDescription"
+	},
+	{
+		"#text": "AVL Engine",
+		"@_name": "avl_permissionGroup"
+	},
+	{
+		"#text": "AVL Engine",
+		"@_name": "avl_permissionLabel"
+	},
+	{
+		"#text": "Deny all",
+		"@_name": "block_all"
+	},
+	{
+		"#text": "Block blacklist only",
+		"@_name": "block_by_blacklist"
+	},
+	{
+		"#text": "Allow contacts only",
+		"@_name": "block_by_contacts"
+	},
+	{
+		"#text": "Customization mode",
+		"@_name": "block_by_custom_rule"
+	},
+	{
+		"#text": "Standard mode",
+		"@_name": "block_by_default_rule"
+	},
+	{
+		"#text": "Allow whitelist only",
+		"@_name": "block_by_whitelist"
+	},
+	{
+		"#text": "Might be false base station",
+		"@_name": "block_fake_basestation"
+	},
+	{
+		"#text": "[年月日]",
+		"@_name": "block_filter_date"
+	},
+	{
+		"#text": "Blocking mode - block all",
+		"@_name": "block_reason_all"
+	},
+	{
+		"#text": "Block by regions",
+		"@_name": "block_reason_area"
+	},
+	{
+		"#text": "Cloud block by tags",
+		"@_name": "block_reason_cloud_marker"
+	},
+	{
+		"#text": "Block one-ring scam call",
+		"@_name": "block_reason_cloud_ringonce"
+	},
+	{
+		"#text": "Contact number",
+		"@_name": "block_reason_contact"
+	},
+	{
+		"#text": "Smart cloud blocking",
+		"@_name": "block_reason_contains_keyword"
+	},
+	{
+		"#text": "Might be false base station",
+		"@_name": "block_reason_fake_base_station"
+	},
+	{
+		"#text": "Hide number",
+		"@_name": "block_reason_hidenumber"
+	},
+	{
+		"#text": "False numbers",
+		"@_name": "block_reason_highly_suspected_fraud"
+	},
+	{
+		"#text": "Block by tags",
+		"@_name": "block_reason_local_marker"
+	},
+	{
+		"#text": "Blocking mode - allow contacts only",
+		"@_name": "block_reason_none_contact"
+	},
+	{
+		"#text": "Blocking mode - allow whitelist only",
+		"@_name": "block_reason_none_white"
+	},
+	{
+		"#text": "Blocking mode - block all except whitelist and contacts",
+		"@_name": "block_reason_none_white_contact"
+	},
+	{
+		"#text": "One-ring scam call",
+		"@_name": "block_reason_normal_ringonce"
+	},
+	{
+		"#text": "Blacklist numbers",
+		"@_name": "block_reason_public_black_number"
+	},
+	{
+		"#text": "Message reported",
+		"@_name": "block_reason_reported_msg"
+	},
+	{
+		"#text": "MMS smart blocking",
+		"@_name": "block_reason_stranger_mms"
+	},
+	{
+		"#text": "Containing dangerous URL",
+		"@_name": "block_reason_url_check_dangerous"
+	},
+	{
+		"#text": "Containing suspicious URL",
+		"@_name": "block_reason_url_check_risky"
+	},
+	{
+		"#text": "WAP Push smart blocking",
+		"@_name": "block_reason_wappush"
+	},
+	{
+		"#text": "time(s) marked",
+		"@_name": "bs_block_call_mark_cp_amount"
+	},
+	{
+		"#text": 123456789,
+		"@_name": "bs_phone_digits"
+	},
+	{
+		"#text": "Group numbers",
+		"@_name": "call_show_display_type_short_number_enterprise"
+	},
+	{
+		"#text": "Family numbers",
+		"@_name": "call_show_display_type_short_number_family"
+	},
+	{
+		"#text": "\"Tagged by &lt;font color='#1eff00'>%1$s&lt;/font> users as\"",
+		"@_name": "call_show_mark_little"
+	},
+	{
+		"#text": "\"Tagged by &lt;font color='#1eff00'>%1$sk&lt;/font>+ users\"",
+		"@_name": "call_show_mark_more"
+	},
+	{
+		"#text": "Fraud calls",
+		"@_name": "cheat_call"
+	},
+	{
+		"#text": "Conflict with Security lite version! Harassment blocking will be turned off temporarily",
+		"@_name": "collision_lite_version_toast"
+	},
+	{
+		"#text": "Conflict with Security! Harassment blocking will be turned off temporarily",
+		"@_name": "collision_mobilesafe_version_toast"
+	},
+	{
+		"#text": "Blacklist",
+		"@_name": "custom_blacklist"
+	},
+	{
+		"#text": "Other IP numbers",
+		"@_name": "custom_ip_header"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Spam calls",
+		"@_name": "disturb_call"
+	},
+	{
+		"#text": "Real estate agency",
+		"@_name": "estate_agent"
+	},
+	{
+		"#text": "Express &amp; order-in",
+		"@_name": "express"
+	},
+	{
+		"#text": "Fetion ID",
+		"@_name": "fetion_number"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "取消",
+		"@_name": "hybrid_cancel"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "hybrid_msg_loading"
+	},
+	{
+		"#text": "网络异常，点击重新加载",
+		"@_name": "hybrid_network_error_to_refresh"
+	},
+	{
+		"#text": "无网络连接，请检查网络设置",
+		"@_name": "hybrid_no_network_to_setting"
+	},
+	{
+		"#text": "确定",
+		"@_name": "hybrid_ok"
+	},
+	{
+		"#text": "设置网络",
+		"@_name": "hybrid_setting_network"
+	},
+	{
+		"#text": "打开",
+		"@_name": "install_complete_text"
+	},
+	{
+		"#text": "安装",
+		"@_name": "install_idle_text"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "installing_text"
+	},
+	{
+		"#text": "IP Dial",
+		"@_name": "ip_call"
+	},
+	{
+		"#text": "Insurance and finance",
+		"@_name": "marker_type_finance"
+	},
+	{
+		"#text": "Headhunter",
+		"@_name": "marker_type_recruit"
+	},
+	{
+		"#text": "Taxi",
+		"@_name": "marker_type_taxi"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "联系人信息为空",
+		"@_name": "msg_empty_contact"
+	},
+	{
+		"#text": "网络异常，请稍后重试",
+		"@_name": "network_execption"
+	},
+	{
+		"#text": "无网络连接，请检查网络设置",
+		"@_name": "network_fail"
+	},
+	{
+		"#text": "取消",
+		"@_name": "news_cancel"
+	},
+	{
+		"#text": "换一换",
+		"@_name": "news_change"
+	},
+	{
+		"#text": "确定",
+		"@_name": "news_confirm"
+	},
+	{
+		"#text": "不感兴趣",
+		"@_name": "news_dislike"
+	},
+	{
+		"#text": "这条内容我不喜欢",
+		"@_name": "news_dislike_hint"
+	},
+	{
+		"#text": "网络异常, 点击重试",
+		"@_name": "news_error_click_retry"
+	},
+	{
+		"#text": "无更多内容",
+		"@_name": "news_error_no_more"
+	},
+	{
+		"#text": "提交",
+		"@_name": "news_feedback_commit"
+	},
+	{
+		"#text": "刚刚",
+		"@_name": "news_lite_just_now"
+	},
+	{
+		"#text": "精彩小视频",
+		"@_name": "news_lite_smv_entrance_title"
+	},
+	{
+		"#text": "查看更多",
+		"@_name": "news_lite_smv_view_more"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "news_loading_text"
+	},
+	{
+		"#text": "更多热点",
+		"@_name": "news_more"
+	},
+	{
+		"#text": "网络异常, 请稍后重试",
+		"@_name": "news_network_error"
+	},
+	{
+		"#text": "%s次播放",
+		"@_name": "news_play_count"
+	},
+	{
+		"#text": "将减少类似内容推荐",
+		"@_name": "news_reduce_recommendation"
+	},
+	{
+		"#text": "举报垃圾内容",
+		"@_name": "news_report"
+	},
+	{
+		"#text": "内容低俗、标题夸张等",
+		"@_name": "news_report_reason"
+	},
+	{
+		"#text": "上滑加载",
+		"@_name": "news_slide_more"
+	},
+	{
+		"#text": "新闻资讯版本太低，播放失败",
+		"@_name": "news_tip_dialog_app_version_too_low"
+	},
+	{
+		"#text": "无网络连接, 请检查网络设置",
+		"@_name": "news_tip_dialog_wifi_not_connected"
+	},
+	{
+		"#text": "立即更新",
+		"@_name": "news_update"
+	},
+	{
+		"#text": "\"SMS blocked: &lt;font color='#ff6c00'>%1$s&lt;/font>\"",
+		"@_name": "notify_title_unread_blocked_message"
+	},
+	{
+		"#text": "\"New &lt;font color='#ff6c00'>WAP pushed message&lt;/font> blocked\"",
+		"@_name": "notify_title_web_push_message"
+	},
+	{
+		"#text": "魅族隐私政策",
+		"@_name": "permission_argument_title"
+	},
+	{
+		"#text": "MzPullRefreshLayout",
+		"@_name": "ptr_label"
+	},
+	{
+		"#text": 1.2345678901234568e+54,
+		"@_name": "replace_special_chars"
+	},
+	{
+		"#text": "重试",
+		"@_name": "retry"
+	},
+	{
+		"#text": "Send a free message to the operator to check your data consumption",
+		"@_name": "sendMessageToOperators"
+	},
+	{
+		"#text": "设置网络",
+		"@_name": "set_network"
+	},
+	{
+		"#text": "One-ring scam call",
+		"@_name": "short_time_ring"
+	},
+	{
+		"#text": "%1$s/%2$s",
+		"@_name": "sms_keyword_length_hint"
+	},
+	{
+		"#text": "Ads",
+		"@_name": "spam_call"
+	},
+	{
+		"#text": "一二三四五六七八九零壹贰叁肆伍陆柒捌玖⑴⑵⑶⑷⑸⑹⑺⑻⑼①②③④⑤⑥⑦⑧⑨㈠㈡㈢㈣㈤㈥㈦㈧㈨⒈⒉⒊⒋⒌⒍⒎⒏⒐",
+		"@_name": "special_chars"
+	},
+	{
+		"#text": "输入内容",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "VirusScannerActivity",
+		"@_name": "title_activity_virus_scanner"
+	},
+	{
+		"#text": "充流量",
+		"@_name": "title_buy_data"
+	},
+	{
+		"#text": "充话费",
+		"@_name": "title_buy_tel"
+	},
+	{
+		"#text": "魅友卡",
+		"@_name": "title_mz_card"
+	},
+	{
+		"#text": "手机充值",
+		"@_name": "title_phone_recharge"
+	},
+	{
+		"#text": "OK",
+		"@_name": "traffic_dialog_ok"
+	},
+	{
+		"#text": "00:00",
+		"@_name": "tt_00_00"
+	},
+	{
+		"#text": "Ad",
+		"@_name": "tt_ad"
+	},
+	{
+		"#text": "广告",
+		"@_name": "tt_ad_logo_txt"
+	},
+	{
+		"#text": "tt_open_ad_sdk",
+		"@_name": "tt_app_name"
+	},
+	{
+		"#text": "取消",
+		"@_name": "tt_auto_play_cancel_text"
+	},
+	{
+		"#text": "取消",
+		"@_name": "tt_cancel"
+	},
+	{
+		"#text": "%1$s个评分",
+		"@_name": "tt_comment_num"
+	},
+	{
+		"#text": "(%1$s个评论)",
+		"@_name": "tt_comment_num_backup"
+	},
+	{
+		"#text": "评价",
+		"@_name": "tt_comment_score"
+	},
+	{
+		"#text": "正在使用非Wifi网络，确认要进行下载吗？",
+		"@_name": "tt_confirm_download"
+	},
+	{
+		"#text": "准备下载%s应用",
+		"@_name": "tt_confirm_download_have_app_name"
+	},
+	{
+		"#text": "返回",
+		"@_name": "tt_dislike_header_tv_back"
+	},
+	{
+		"#text": "选择",
+		"@_name": "tt_dislike_header_tv_title"
+	},
+	{
+		"#text": "5s后可跳过",
+		"@_name": "tt_full_screen_skip_tx"
+	},
+	{
+		"#text": "取消",
+		"@_name": "tt_label_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "tt_label_ok"
+	},
+	{
+		"#text": "无网络，请稍后再试",
+		"@_name": "tt_no_network"
+	},
+	{
+		"#text": "您已禁止授权操作，请授权",
+		"@_name": "tt_permission_denied"
+	},
+	{
+		"#text": "存储",
+		"@_name": "tt_request_permission_descript_external_storage"
+	},
+	{
+		"#text": "位置信息",
+		"@_name": "tt_request_permission_descript_location"
+	},
+	{
+		"#text": "拨打电话",
+		"@_name": "tt_request_permission_descript_read_phone_state"
+	},
+	{
+		"#text": "反馈",
+		"@_name": "tt_reward_feedback"
+	},
+	{
+		"#text": "跳过",
+		"@_name": "tt_reward_screen_skip_tx"
+	},
+	{
+		"#text": "3s | 跳过",
+		"@_name": "tt_splash_skip_tv_text"
+	},
+	{
+		"#text": "提示",
+		"@_name": "tt_tip"
+	},
+	{
+		"#text": "不感兴趣",
+		"@_name": "tt_unlike"
+	},
+	{
+		"#text": "流量",
+		"@_name": "tt_video_bytesize"
+	},
+	{
+		"#text": "M",
+		"@_name": "tt_video_bytesize_M"
+	},
+	{
+		"#text": "MB",
+		"@_name": "tt_video_bytesize_MB"
+	},
+	{
+		"#text": "继续播放",
+		"@_name": "tt_video_continue_play"
+	},
+	{
+		"#text": "立即拨打",
+		"@_name": "tt_video_dial_phone"
+	},
+	{
+		"#text": "立即下载",
+		"@_name": "tt_video_download_apk"
+	},
+	{
+		"#text": "查看详情",
+		"@_name": "tt_video_mobile_go_detail"
+	},
+	{
+		"#text": "加载失败，点击重试",
+		"@_name": "tt_video_retry_des_txt"
+	},
+	{
+		"#text": "播放将消耗",
+		"@_name": "tt_video_without_wifi_tips"
+	},
+	{
+		"#text": "广告",
+		"@_name": "tt_web_title_default"
+	},
+	{
+		"#text": "即将播放",
+		"@_name": "tt_will_play"
+	},
+	{
+		"#text": "Warning from 360 Security: dangerous service message",
+		"@_name": "wap_push_danger_content"
+	},
+	{
+		"#text": "WAP push",
+		"@_name": "wap_push_message_header"
+	}
+]

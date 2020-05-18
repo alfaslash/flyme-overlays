@@ -1,0 +1,2898 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "On day of event(12:00 AM)",
+		"@_name": "ZeroDay"
+	},
+	{
+		"#text": "Day of event",
+		"@_name": "ZeroDay_All_Day"
+	},
+	{
+		"#text": "At time of event",
+		"@_name": "ZeroMin"
+	},
+	{
+		"#text": "All day event",
+		"@_name": "accessibility_all_day"
+	},
+	{
+		"#text": "End date",
+		"@_name": "accessibility_pick_end_date"
+	},
+	{
+		"#text": "End time",
+		"@_name": "accessibility_pick_end_time"
+	},
+	{
+		"#text": "Start time",
+		"@_name": "accessibility_pick_start_time"
+	},
+	{
+		"#text": "My Status",
+		"@_name": "accessibility_reminder_label"
+	},
+	{
+		"#text": "Reminder time",
+		"@_name": "accessibility_reminder_time"
+	},
+	{
+		"#text": "Reminder type",
+		"@_name": "accessibility_reminder_type"
+	},
+	{
+		"#text": "Corporate (Exchange)",
+		"@_name": "account_group_exchange"
+	},
+	{
+		"#text": "Meizu mail",
+		"@_name": "account_meizu_exchange"
+	},
+	{
+		"#text": "Flyme ID",
+		"@_name": "account_meizu_flyme"
+	},
+	{
+		"#text": "Events list",
+		"@_name": "action_agenda"
+	},
+	{
+		"#text": "More options",
+		"@_name": "action_edit_more"
+	},
+	{
+		"#text": "Save",
+		"@_name": "action_edit_save"
+	},
+	{
+		"#text": "Send",
+		"@_name": "action_edit_send"
+	},
+	{
+		"#text": "Go to today",
+		"@_name": "action_goto_today"
+	},
+	{
+		"#text": "Inbox",
+		"@_name": "action_inbox"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "action_info_delete"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "action_info_edit"
+	},
+	{
+		"#text": "Import",
+		"@_name": "action_info_import"
+	},
+	{
+		"#text": "Share",
+		"@_name": "action_info_share"
+	},
+	{
+		"#text": "Go to",
+		"@_name": "action_jump_select_time"
+	},
+	{
+		"#text": "Search",
+		"@_name": "action_search"
+	},
+	{
+		"#text": "Email guests",
+		"@_name": "action_send_mail_to_guests"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Subscribed",
+		"@_name": "action_subscribed"
+	},
+	{
+		"#text": "Subscriptions",
+		"@_name": "action_subscription"
+	},
+	{
+		"#text": "Tool",
+		"@_name": "action_tools"
+	},
+	{
+		"#text": "Add account",
+		"@_name": "add_account"
+	},
+	{
+		"#text": "Add all",
+		"@_name": "add_all_label"
+	},
+	{
+		"#text": "Add to",
+		"@_name": "add_label"
+	},
+	{
+		"#text": "%d days after",
+		"@_name": "after_day_date"
+	},
+	{
+		"#text": "%1$s Today",
+		"@_name": "agenda_today"
+	},
+	{
+		"#text": "Several reminders",
+		"@_name": "alarm_several_times"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "alert_button_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "alert_button_confirm"
+	},
+	{
+		"#text": "Details",
+		"@_name": "alert_button_custom"
+	},
+	{
+		"#text": "Remind later",
+		"@_name": "alert_button_delay"
+	},
+	{
+		"#text": "Remind in 10 Min",
+		"@_name": "alert_button_delay_10"
+	},
+	{
+		"#text": "Details",
+		"@_name": "alert_button_detail"
+	},
+	{
+		"#text": "%s other events are also scheduled for this time",
+		"@_name": "alert_inbox_collision_more_fmt"
+	},
+	{
+		"#text": "\\\"%s\\\" is also scheduled for this time",
+		"@_name": "alert_inbox_collision_one_fmt"
+	},
+	{
+		"#text": "Reminder added",
+		"@_name": "alert_insert_toast"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "alert_login_flyme_btn_cancel"
+	},
+	{
+		"#text": "Login",
+		"@_name": "alert_login_flyme_btn_ok"
+	},
+	{
+		"#text": "To subscribe to programs, you need to log in with your Flyme ID",
+		"@_name": "alert_login_flyme_message"
+	},
+	{
+		"#text": "Organizer : %s",
+		"@_name": "alert_organizer"
+	},
+	{
+		"#text": "Calendar event",
+		"@_name": "alert_title_hint"
+	},
+	{
+		"#text": "Calendar Reminder",
+		"@_name": "alert_title_reminder"
+	},
+	{
+		"#text": "Reminder updated",
+		"@_name": "alert_update_toast"
+	},
+	{
+		"#text": "All schedules",
+		"@_name": "all_match"
+	},
+	{
+		"#text": "All teams",
+		"@_name": "all_team"
+	},
+	{
+		"#text": "All day",
+		"@_name": "allday"
+	},
+	{
+		"#text": "Almanac",
+		"@_name": "almanac"
+	},
+	{
+		"#text": "\"Find out about daily dos and don'ts, auspicious and inauspicious hours, and lucky and unlucky days here with these thoughtfully-collected Huang Almanac channels.\n\nTap to subscribe, then all the information you need will be readily available.\"",
+		"@_name": "almanac_desc"
+	},
+	{
+		"#text": "Lunar calendar",
+		"@_name": "almanac_detail_almanac"
+	},
+	{
+		"#text": "Week",
+		"@_name": "almanac_detail_week"
+	},
+	{
+		"#text": "Get insights into your future life",
+		"@_name": "almanac_item_desc"
+	},
+	{
+		"#text": "Already import %s contact birthday",
+		"@_name": "already_import_birthday"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Reminder on one day ago %s",
+		"@_name": "anniver_alarm_info_befort_one_day_fmt"
+	},
+	{
+		"#text": "Reminder on one week ago %s",
+		"@_name": "anniver_alarm_info_befort_one_week_fmt"
+	},
+	{
+		"#text": "Reminder on three days ago %s",
+		"@_name": "anniver_alarm_info_befort_three_day_fmt"
+	},
+	{
+		"#text": "Reminder on two days ago %s",
+		"@_name": "anniver_alarm_info_befort_two_day_fmt"
+	},
+	{
+		"#text": "Reminder on %s",
+		"@_name": "anniver_alarm_info_same_day_fmt"
+	},
+	{
+		"#text": "%s years",
+		"@_name": "anniver_years"
+	},
+	{
+		"#text": "year anniversary",
+		"@_name": "anniversary_title"
+	},
+	{
+		"#text": "Anniversary",
+		"@_name": "anniversary_title_hint"
+	},
+	{
+		"#text": "years",
+		"@_name": "anniversary_unit"
+	},
+	{
+		"#text": "\" anniversary\"",
+		"@_name": "anniversary_zero_title"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Calendar events",
+		"@_name": "assistant_card_header"
+	},
+	{
+		"#text": "Add team",
+		"@_name": "assistant_nba_add_team"
+	},
+	{
+		"#text": "Rankings",
+		"@_name": "assistant_nba_board"
+	},
+	{
+		"#text": "NBA Info",
+		"@_name": "assistant_nba_header_title"
+	},
+	{
+		"#text": "No competition recently",
+		"@_name": "assistant_nba_no_match"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "assistant_nba_no_net_work"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "assistant_nba_under_carriage"
+	},
+	{
+		"#text": "More schedules",
+		"@_name": "assistant_view_more_events"
+	},
+	{
+		"#text": "Invite Others",
+		"@_name": "attendees_label"
+	},
+	{
+		"#text": "%d day(s) ago",
+		"@_name": "before_day_date"
+	},
+	{
+		"#text": "Days",
+		"@_name": "birth_left_unit"
+	},
+	{
+		"#text": "Lunar %s-%s-%s",
+		"@_name": "birthday_date_lunar_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Lunar %s-(Leap)%s-%s",
+		"@_name": "birthday_date_lunar_leap_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Delay",
+		"@_name": "birthday_delay"
+	},
+	{
+		"#text": "Whose birthday",
+		"@_name": "birthday_name"
+	},
+	{
+		"#text": "year old birthday",
+		"@_name": "birthday_title"
+	},
+	{
+		"#text": "years old",
+		"@_name": "birthday_unit"
+	},
+	{
+		"#text": "\"'s birthday\"",
+		"@_name": "birthday_zero_title"
+	},
+	{
+		"#text": "View Past Countdowns",
+		"@_name": "button_past_countdown"
+	},
+	{
+		"#text": "View Past Events",
+		"@_name": "button_past_events"
+	},
+	{
+		"#text": "Book tickets",
+		"@_name": "buy_ticket"
+	},
+	{
+		"#text": "Figure out",
+		"@_name": "calc_check"
+	},
+	{
+		"#text": "Results",
+		"@_name": "calc_checkout"
+	},
+	{
+		"#text": "Enter days duration",
+		"@_name": "calc_hint_num"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "change"
+	},
+	{
+		"#text": "Change response",
+		"@_name": "change_response_title"
+	},
+	{
+		"#text": "Select a contact",
+		"@_name": "choose_contact_person"
+	},
+	{
+		"#text": "Loading failed, tap to reload",
+		"@_name": "click_refresh"
+	},
+	{
+		"#text": "Conflict",
+		"@_name": "conflict_text"
+	},
+	{
+		"#text": "days",
+		"@_name": "count_down_title"
+	},
+	{
+		"#text": "\"\n- - left\"",
+		"@_name": "countdown_left_default"
+	},
+	{
+		"#text": "days",
+		"@_name": "countdown_left_unit"
+	},
+	{
+		"#text": "%s past",
+		"@_name": "countdown_past_tip_text"
+	},
+	{
+		"#text": "%s in",
+		"@_name": "countdown_tip_text"
+	},
+	{
+		"#text": "Event created",
+		"@_name": "creating_event"
+	},
+	{
+		"#text": "Invitations will be sent",
+		"@_name": "creating_event_with_guest"
+	},
+	{
+		"#text": "\"Custom (can't customize on phone)\"",
+		"@_name": "custom"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "daily"
+	},
+	{
+		"#text": "%s%s",
+		"@_name": "date_almanac_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "date_time_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "DayAfterTomorrow",
+		"@_name": "day_after_tomorrow"
+	},
+	{
+		"#text": "Title",
+		"@_name": "days_matter_title_hint"
+	},
+	{
+		"#text": "Delete this event",
+		"@_name": "delete_this_event_title"
+	},
+	{
+		"#text": "Details",
+		"@_name": "detail"
+	},
+	{
+		"#text": "During the meeting DND",
+		"@_name": "do_not_disturb_in_meeting"
+	},
+	{
+		"#text": "Never repeat",
+		"@_name": "does_not_repeat"
+	},
+	{
+		"#text": "Add reminder",
+		"@_name": "edit_add_reminder"
+	},
+	{
+		"#text": "All day",
+		"@_name": "edit_event_all_day_label"
+	},
+	{
+		"#text": "Birthday Date",
+		"@_name": "edit_event_annvier_date_hint"
+	},
+	{
+		"#text": "Anniversary Date",
+		"@_name": "edit_event_birth_date_hint"
+	},
+	{
+		"#text": "Countdown Date",
+		"@_name": "edit_event_countdown_date_hint"
+	},
+	{
+		"#text": "Details",
+		"@_name": "edit_event_label"
+	},
+	{
+		"#text": "Choose birthday date",
+		"@_name": "edit_event_select_date"
+	},
+	{
+		"#text": "Anniversary",
+		"@_name": "edit_event_tab_anniversary"
+	},
+	{
+		"#text": "Birthday",
+		"@_name": "edit_event_tab_birthday"
+	},
+	{
+		"#text": "Events",
+		"@_name": "edit_event_tab_calendar"
+	},
+	{
+		"#text": "Days countdown",
+		"@_name": "edit_event_tab_daysMatter"
+	},
+	{
+		"#text": "Choose calendar account",
+		"@_name": "edit_view_choose_calendar"
+	},
+	{
+		"#text": "Quit",
+		"@_name": "edit_view_give_up"
+	},
+	{
+		"#text": "Quit editing event?",
+		"@_name": "edit_view_give_up_edit_event"
+	},
+	{
+		"#text": "Quit creating new event?",
+		"@_name": "edit_view_give_up_new_event"
+	},
+	{
+		"#text": "\"\\\"%s\\\" is invalid address and thus can't receive the invitation\"",
+		"@_name": "edit_view_invalid_email"
+	},
+	{
+		"#text": "Local account",
+		"@_name": "edit_view_local_calendar"
+	},
+	{
+		"#text": "\"\\\"%s\\\"etc. are invalid addresses and thus can't receive invitations, please re-enter.\"",
+		"@_name": "edit_view_multi_invalid_email"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "edit_view_no_save"
+	},
+	{
+		"#text": "Lucky direction",
+		"@_name": "elegant_direction"
+	},
+	{
+		"#text": "Lucky horoscope",
+		"@_name": "elegant_horoscope"
+	},
+	{
+		"#text": "Network request failure",
+		"@_name": "empty_connection_error"
+	},
+	{
+		"#text": "Server error",
+		"@_name": "empty_server_error"
+	},
+	{
+		"#text": "No Events",
+		"@_name": "empty_view_no_event"
+	},
+	{
+		"#text": "New event",
+		"@_name": "event_create"
+	},
+	{
+		"#text": "Event details",
+		"@_name": "event_detail"
+	},
+	{
+		"#text": "Edit event",
+		"@_name": "event_edit"
+	},
+	{
+		"#text": "Accepted (%d)",
+		"@_name": "event_info_accepted_nums"
+	},
+	{
+		"#text": "attendees",
+		"@_name": "event_info_attendees_nums"
+	},
+	{
+		"#text": "Declined (%d)",
+		"@_name": "event_info_declined_nums"
+	},
+	{
+		"#text": "Account",
+		"@_name": "event_info_head_account"
+	},
+	{
+		"#text": "Attendees",
+		"@_name": "event_info_head_attendees"
+	},
+	{
+		"#text": "Remind later",
+		"@_name": "event_info_head_delay"
+	},
+	{
+		"#text": "Alert",
+		"@_name": "event_info_head_reminder"
+	},
+	{
+		"#text": "No response (%d)",
+		"@_name": "event_info_noresponce_nums"
+	},
+	{
+		"#text": "Organizer",
+		"@_name": "event_info_organizer"
+	},
+	{
+		"#text": "Quick response",
+		"@_name": "event_info_quick_respone_title"
+	},
+	{
+		"#text": "Reminders",
+		"@_name": "event_info_reminders_label"
+	},
+	{
+		"#text": "Maybe (%d)",
+		"@_name": "event_info_tentative_nums"
+	},
+	{
+		"#text": "View event",
+		"@_name": "event_info_title"
+	},
+	{
+		"#text": "Calendar invitations",
+		"@_name": "event_info_title_invite"
+	},
+	{
+		"#text": "No event is found.",
+		"@_name": "event_not_found"
+	},
+	{
+		"#text": "Unsupported type",
+		"@_name": "event_unsupported_type"
+	},
+	{
+		"#text": "; until %s",
+		"@_name": "event_until"
+	},
+	{
+		"#text": "End",
+		"@_name": "events_list_instance_end"
+	},
+	{
+		"#text": "Start",
+		"@_name": "events_list_instance_start"
+	},
+	{
+		"#text": "Every weekday",
+		"@_name": "every_weekday"
+	},
+	{
+		"#text": "\"Father's Day\"",
+		"@_name": "father_day"
+	},
+	{
+		"#text": "\"In different regions, people celebrate festivals in various ways. Meizu Calendar collects fun celebrations from around the globe for your amusement. Can you imagine that Egyptians shed tears on Thanksgiving, while over a hundred monkeys enjoy a lush feast to their content? Plus, special tips are provided to help you find a date by Singles' Day, plan a romantic Valentine's Day, and more. \n\nBy subscribing to Festival Pedia, you can get timely, interesting, and useful festival information right on the Calendar homepage.\"",
+		"@_name": "festival_des"
+	},
+	{
+		"#text": "Festival details",
+		"@_name": "festival_detail"
+	},
+	{
+		"#text": "Interesting and useful holiday information",
+		"@_name": "festival_item_desc"
+	},
+	{
+		"#text": "Festivals",
+		"@_name": "festival_list_title"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Films",
+		"@_name": "film"
+	},
+	{
+		"#text": "Film Details",
+		"@_name": "film_detail"
+	},
+	{
+		"#text": "No anniversaries",
+		"@_name": "gadget_no_anniversaries"
+	},
+	{
+		"#text": "No birthdays",
+		"@_name": "gadget_no_birthdays"
+	},
+	{
+		"#text": "No countdowns",
+		"@_name": "gadget_no_countdowns"
+	},
+	{
+		"#text": "No Recent Events",
+		"@_name": "gadget_no_events"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "gadget_title"
+	},
+	{
+		"#text": "Game Highlights",
+		"@_name": "game_highlights"
+	},
+	{
+		"#text": "Constellation",
+		"@_name": "gethoroscope"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "hint_description"
+	},
+	{
+		"#text": "Enter no more than %d days after",
+		"@_name": "hint_num_calc_after"
+	},
+	{
+		"#text": "Enter no more than %d days before",
+		"@_name": "hint_num_calc_before"
+	},
+	{
+		"#text": "Title",
+		"@_name": "hint_what"
+	},
+	{
+		"#text": "Location",
+		"@_name": "hint_where"
+	},
+	{
+		"#text": "\"Whether you are pursuing love or climbing the career ladder, taking the initiative at the right time is the key to success.\n\nSubcribe to the Horoscope channel for daily-updated information including comprehensive horoscope analysis from multiple perspectives. It'll help you find your lucky time whenever you want.\"",
+		"@_name": "horoscope_desc"
+	},
+	{
+		"#text": "Find good luck with horoscope forecast",
+		"@_name": "horoscope_item_desc"
+	},
+	{
+		"#text": "Create a new birthday reminder for all contacts that mark birthdays",
+		"@_name": "import_birthday_item_sub_title"
+	},
+	{
+		"#text": "Importing existing contacts Birthdays",
+		"@_name": "import_birthday_item_title"
+	},
+	{
+		"#text": "importing",
+		"@_name": "importing"
+	},
+	{
+		"#text": "Conflict: %s other events are also scheduled for this time",
+		"@_name": "inbox_collision_more_fmt"
+	},
+	{
+		"#text": "Conflict: \\\"%s\\\" is also scheduled for this time",
+		"@_name": "inbox_collision_one_fmt"
+	},
+	{
+		"#text": "No Invitations",
+		"@_name": "inbox_no_invitations"
+	},
+	{
+		"#text": "New",
+		"@_name": "inbox_tab_new"
+	},
+	{
+		"#text": "Replied",
+		"@_name": "inbox_tab_replied"
+	},
+	{
+		"#text": "Inbox",
+		"@_name": "inbox_title"
+	},
+	{
+		"#text": "When: %s",
+		"@_name": "inbox_when_fmt"
+	},
+	{
+		"#text": "Where: %s",
+		"@_name": "inbox_where_fmt"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "load_more_list_footer_default_text"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading_text"
+	},
+	{
+		"#text": "System calendar",
+		"@_name": "local_calendar"
+	},
+	{
+		"#text": "View",
+		"@_name": "look_up_import_birthday"
+	},
+	{
+		"#text": "Lucky color",
+		"@_name": "lucky_color"
+	},
+	{
+		"#text": "Lucky number",
+		"@_name": "lucky_number"
+	},
+	{
+		"#text": "Lucky object",
+		"@_name": "lucky_object"
+	},
+	{
+		"#text": "Yearly(Lunar) (%s)",
+		"@_name": "lunar_yearly"
+	},
+	{
+		"#text": "End",
+		"@_name": "match_finished"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Meizu Calendar",
+		"@_name": "meizu_calendar"
+	},
+	{
+		"#text": "min",
+		"@_name": "min"
+	},
+	{
+		"#text": "Change all repeated events",
+		"@_name": "modify_all"
+	},
+	{
+		"#text": "Change this and all future events",
+		"@_name": "modify_all_following"
+	},
+	{
+		"#text": "Change only this event",
+		"@_name": "modify_event"
+	},
+	{
+		"#text": "Every month",
+		"@_name": "monthly"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "More schedules",
+		"@_name": "more_match"
+	},
+	{
+		"#text": "\"Mother's Day\"",
+		"@_name": "mother_day"
+	},
+	{
+		"#text": "add recipient",
+		"@_name": "mw_recipient_add_recipient"
+	},
+	{
+		"#text": "Add",
+		"@_name": "mw_recipient_addrecipient_easymode"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mw_recipient_edit_imeActionLabel"
+	},
+	{
+		"#text": "Search for global contacts",
+		"@_name": "mw_recipient_global_search"
+	},
+	{
+		"#text": "Searching for global contacts",
+		"@_name": "mw_recipient_global_searching"
+	},
+	{
+		"#text": "Recipient:",
+		"@_name": "mw_recipient_hint_str"
+	},
+	{
+		"#text": "%d others..",
+		"@_name": "mw_recipient_others_displayname"
+	},
+	{
+		"#text": "Search for Weibo contacts",
+		"@_name": "mw_recipient_sns_search"
+	},
+	{
+		"#text": "Searching Weibo contacts ..",
+		"@_name": "mw_recipient_sns_searching"
+	},
+	{
+		"#text": "Update Weibo contacts",
+		"@_name": "mw_recipient_sns_update"
+	},
+	{
+		"#text": "Updating Weibo contacts..",
+		"@_name": "mw_recipient_sns_updating"
+	},
+	{
+		"#text": "Recipient",
+		"@_name": "mw_recipient_title"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mw_recipient_title_email"
+	},
+	{
+		"#text": "Message",
+		"@_name": "mw_recipient_title_message"
+	},
+	{
+		"#text": "%d people",
+		"@_name": "mw_recipient_total_str"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "my_schedule"
+	},
+	{
+		"#text": "Featured",
+		"@_name": "my_subscribe_hot_card"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Recent Schedule",
+		"@_name": "nba_schedule"
+	},
+	{
+		"#text": "\"You must add at least one calendar account to your device and make it visible before you can add an event. Touch Add Account to add an account. (If you just added\nan account, wait for it to finish syncing and then retry). Or touch Cancel to exit if at least one calendar is already shown in the account.\"",
+		"@_name": "no_calendars_found"
+	},
+	{
+		"#text": "None",
+		"@_name": "no_data"
+	},
+	{
+		"#text": "No new contact birthday",
+		"@_name": "no_import_birthday"
+	},
+	{
+		"#text": "No Live Broadcasts",
+		"@_name": "no_live"
+	},
+	{
+		"#text": "No calendars",
+		"@_name": "no_syncable_calendars"
+	},
+	{
+		"#text": "No title",
+		"@_name": "no_title_label"
+	},
+	{
+		"#text": "Not started",
+		"@_name": "not_begin"
+	},
+	{
+		"#text": "In progress",
+		"@_name": "on_the_march"
+	},
+	{
+		"#text": "More",
+		"@_name": "open_custom_event_label"
+	},
+	{
+		"#text": "Event added",
+		"@_name": "open_insert_event_success"
+	},
+	{
+		"#text": "Event updated",
+		"@_name": "open_update_event_success"
+	},
+	{
+		"#text": "View past countdown",
+		"@_name": "past_countdown"
+	},
+	{
+		"#text": "\"Calendar needs to access the internet, read your contacts and use your location to get zodiac signs, contacts' birthdays, and other useful information.\"",
+		"@_name": "permission_text"
+	},
+	{
+		"#text": "Synopsis",
+		"@_name": "plot_introduction"
+	},
+	{
+		"#text": "Additional Information",
+		"@_name": "pref_header_extra_info"
+	},
+	{
+		"#text": "SHOW CALENDARS",
+		"@_name": "pref_header_visible_calendar"
+	},
+	{
+		"#text": "Get notified for gifts, popular activities and more",
+		"@_name": "pref_notification_summary"
+	},
+	{
+		"#text": "Exclude declined events from calendar",
+		"@_name": "pref_summary_hide_declined"
+	},
+	{
+		"#text": "Exclude events before today from calendar",
+		"@_name": "pref_summary_hide_past"
+	},
+	{
+		"#text": "Allow Event Alerts",
+		"@_name": "pref_title_alerts"
+	},
+	{
+		"#text": "Pop-up Alerts",
+		"@_name": "pref_title_alerts_popup"
+	},
+	{
+		"#text": "All-Day Events Alert Time",
+		"@_name": "pref_title_all_day_default_reminder"
+	},
+	{
+		"#text": "Almanac",
+		"@_name": "pref_title_almanac"
+	},
+	{
+		"#text": "Show Calendars",
+		"@_name": "pref_title_calendars"
+	},
+	{
+		"#text": "Default Calendar",
+		"@_name": "pref_title_default_calendar"
+	},
+	{
+		"#text": "Default Alert Time",
+		"@_name": "pref_title_default_reminder"
+	},
+	{
+		"#text": "Start Week On",
+		"@_name": "pref_title_default_week_start"
+	},
+	{
+		"#text": "GENERAL SETTINGS",
+		"@_name": "pref_title_general_preferences"
+	},
+	{
+		"#text": "Hide Declined Events",
+		"@_name": "pref_title_hide_declined"
+	},
+	{
+		"#text": "Show header image on festivals",
+		"@_name": "pref_title_hide_header_advertise"
+	},
+	{
+		"#text": "Hide Past Events",
+		"@_name": "pref_title_hide_past"
+	},
+	{
+		"#text": "Holidays Region",
+		"@_name": "pref_title_holiday_zone"
+	},
+	{
+		"#text": "Constellation",
+		"@_name": "pref_title_horoscope"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "pref_title_notice"
+	},
+	{
+		"#text": "Receive push messages",
+		"@_name": "pref_title_notification"
+	},
+	{
+		"#text": "Display event alerts only in notification shade",
+		"@_name": "pref_title_reminder_notification"
+	},
+	{
+		"#text": "Display alerts in pop-ups",
+		"@_name": "pref_title_reminder_popup"
+	},
+	{
+		"#text": "Reminder type",
+		"@_name": "pref_title_reminder_type"
+	},
+	{
+		"#text": "\"Contacts' birthdays\"",
+		"@_name": "preferences_contacts_birthday_title"
+	},
+	{
+		"#text": "Program details",
+		"@_name": "program_detail"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "Until",
+		"@_name": "recurrence_end_date"
+	},
+	{
+		"#text": "Repeat",
+		"@_name": "recurrence_end_times"
+	},
+	{
+		"#text": "Related News",
+		"@_name": "related_news"
+	},
+	{
+		"#text": "Relaxation",
+		"@_name": "relex"
+	},
+	{
+		"#text": "%s after",
+		"@_name": "reminder_fmt_after"
+	},
+	{
+		"#text": "%s before",
+		"@_name": "reminder_fmt_before"
+	},
+	{
+		"#text": "%s after (%s)",
+		"@_name": "reminder_fmt_day_after",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s before (%s)",
+		"@_name": "reminder_fmt_day_before",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "On day of event(%s)",
+		"@_name": "reminder_fmt_day_today"
+	},
+	{
+		"#text": "Alert",
+		"@_name": "reminders_label"
+	},
+	{
+		"#text": "Repeat",
+		"@_name": "repeats_label"
+	},
+	{
+		"#text": "Accept",
+		"@_name": "response_accept"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "response_decline"
+	},
+	{
+		"#text": "Maybe",
+		"@_name": "response_maybe"
+	},
+	{
+		"#text": "R",
+		"@_name": "rest_day"
+	},
+	{
+		"#text": "Event saved",
+		"@_name": "saving_event"
+	},
+	{
+		"#text": "Updates will be sent",
+		"@_name": "saving_event_with_guest"
+	},
+	{
+		"#text": "Attendees (%d people)",
+		"@_name": "share_info_attendee_title"
+	},
+	{
+		"#text": "Content",
+		"@_name": "share_info_content"
+	},
+	{
+		"#text": "Location",
+		"@_name": "share_info_location"
+	},
+	{
+		"#text": "(Organizer)",
+		"@_name": "share_info_organizer"
+	},
+	{
+		"#text": "Time",
+		"@_name": "share_info_time"
+	},
+	{
+		"#text": "Creating, please wait",
+		"@_name": "share_loading_message"
+	},
+	{
+		"#text": "TV show details",
+		"@_name": "show_detail_action_title"
+	},
+	{
+		"#text": "Starring",
+		"@_name": "show_detail_actor"
+	},
+	{
+		"#text": "Synopsis",
+		"@_name": "show_detail_desc"
+	},
+	{
+		"#text": "Director",
+		"@_name": "show_detail_dirctor"
+	},
+	{
+		"#text": "Hot comments",
+		"@_name": "show_detail_hot_comments"
+	},
+	{
+		"#text": "Details",
+		"@_name": "show_detail_more"
+	},
+	{
+		"#text": "No Comments Yet",
+		"@_name": "show_detail_no_comment"
+	},
+	{
+		"#text": "No Data",
+		"@_name": "show_detail_no_data"
+	},
+	{
+		"#text": "No Description",
+		"@_name": "show_detail_no_desc"
+	},
+	{
+		"#text": "Latest photos",
+		"@_name": "show_detail_pic"
+	},
+	{
+		"#text": "Watch Online",
+		"@_name": "show_detail_watch_online"
+	},
+	{
+		"#text": "%s/%s/%s",
+		"@_name": "solar_date",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "To",
+		"@_name": "span_end_date"
+	},
+	{
+		"#text": "From",
+		"@_name": "span_start"
+	},
+	{
+		"#text": "Categories",
+		"@_name": "square_cates_title"
+	},
+	{
+		"#text": "Star",
+		"@_name": "star_speak"
+	},
+	{
+		"#text": "Stills",
+		"@_name": "stills"
+	},
+	{
+		"#text": "Subscribed",
+		"@_name": "sub_action_subscribed"
+	},
+	{
+		"#text": "View",
+		"@_name": "sub_default_button_string"
+	},
+	{
+		"#text": "Subscribe",
+		"@_name": "sub_square_button_text"
+	},
+	{
+		"#text": "Calendar subscription",
+		"@_name": "subscribe_alert_text_hint"
+	},
+	{
+		"#text": "Subscribed",
+		"@_name": "subscribed"
+	},
+	{
+		"#text": "Subscribed Schedules",
+		"@_name": "subscribed_schedule"
+	},
+	{
+		"#text": "Subscribed Teams",
+		"@_name": "subscribed_team"
+	},
+	{
+		"#text": "Subscribe",
+		"@_name": "subscription_add"
+	},
+	{
+		"#text": "Subscribed",
+		"@_name": "subscription_del"
+	},
+	{
+		"#text": "Log in with Flyme ID",
+		"@_name": "subscription_no_account"
+	},
+	{
+		"#text": "No subscription",
+		"@_name": "subscription_no_data"
+	},
+	{
+		"#text": "Team Info",
+		"@_name": "team_detail"
+	},
+	{
+		"#text": "Thanksgiving",
+		"@_name": "thanks_giving"
+	},
+	{
+		"#text": "This month",
+		"@_name": "this_month"
+	},
+	{
+		"#text": "This week",
+		"@_name": "this_week"
+	},
+	{
+		"#text": "Time Conflict",
+		"@_name": "time_conflict_text"
+	},
+	{
+		"#text": "Events",
+		"@_name": "title_activity_agenda"
+	},
+	{
+		"#text": "Past Events",
+		"@_name": "title_activity_agenda_past"
+	},
+	{
+		"#text": "Almanac details",
+		"@_name": "title_activity_almanac_detail"
+	},
+	{
+		"#text": "Past countdown",
+		"@_name": "title_activity_countdown_past"
+	},
+	{
+		"#text": "Import calendar",
+		"@_name": "title_activity_icalendar_list"
+	},
+	{
+		"#text": "%s",
+		"@_name": "title_countdown"
+	},
+	{
+		"#text": "Subscriptions",
+		"@_name": "title_subscription_square"
+	},
+	{
+		"#text": "Date calculating",
+		"@_name": "title_tool"
+	},
+	{
+		"#text": "%s years old",
+		"@_name": "title_year_old"
+	},
+	{
+		"#text": "No calendar event in the file",
+		"@_name": "toast_ics_error_no_event"
+	},
+	{
+		"#text": "Error parsing file",
+		"@_name": "toast_ics_error_parse"
+	},
+	{
+		"#text": "The file format is not supported.",
+		"@_name": "toast_ics_error_type"
+	},
+	{
+		"#text": "Today",
+		"@_name": "today"
+	},
+	{
+		"#text": "Today %s",
+		"@_name": "today_at_time_fmt"
+	},
+	{
+		"#text": "Tomorrow",
+		"@_name": "tomorrow"
+	},
+	{
+		"#text": "Tomorrow %s",
+		"@_name": "tomorrow_at_time_fmt"
+	},
+	{
+		"#text": "After",
+		"@_name": "tool_calc_after"
+	},
+	{
+		"#text": "Before",
+		"@_name": "tool_calc_before"
+	},
+	{
+		"#text": "Choose",
+		"@_name": "tool_calc_choose"
+	},
+	{
+		"#text": "Create an event",
+		"@_name": "tool_calc_create_event"
+	},
+	{
+		"#text": "Out of supported range (1900–2099)",
+		"@_name": "tool_calc_outofcalc"
+	},
+	{
+		"#text": "Weekday",
+		"@_name": "tool_weekday"
+	},
+	{
+		"#text": "y",
+		"@_name": "tool_year"
+	},
+	{
+		"#text": "Events",
+		"@_name": "touch_3d_agenda"
+	},
+	{
+		"#text": "Horoscope",
+		"@_name": "touch_3d_horoscope"
+	},
+	{
+		"#text": "New event",
+		"@_name": "touch_3d_new_event"
+	},
+	{
+		"#text": "Search",
+		"@_name": "touch_3d_search"
+	},
+	{
+		"#text": "Time and location changed",
+		"@_name": "update_event_both"
+	},
+	{
+		"#text": "Time changed",
+		"@_name": "update_event_dtstart"
+	},
+	{
+		"#text": "Location changed",
+		"@_name": "update_event_location"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Every week",
+		"@_name": "weekly"
+	},
+	{
+		"#text": "Weekly (every %s)",
+		"@_name": "weekly_with_days"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Add countdown",
+		"@_name": "widget_add_countdown"
+	},
+	{
+		"#text": "W",
+		"@_name": "work_day"
+	},
+	{
+		"#text": "World cup",
+		"@_name": "world_cup"
+	},
+	{
+		"#text": "Every year",
+		"@_name": "yearly"
+	},
+	{
+		"#text": "Every year",
+		"@_name": "yearly_plain"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "yesterday"
+	},
+	{
+		"@_name": "chuxi"
+	},
+	{
+		"@_name": "double_ninth_festival"
+	},
+	{
+		"@_name": "dragon_festival"
+	},
+	{
+		"@_name": "dumpling_festival"
+	},
+	{
+		"@_name": "hungry_ghost_festival"
+	},
+	{
+		"@_name": "laba"
+	},
+	{
+		"@_name": "loap_day"
+	},
+	{
+		"@_name": "magpie_festival"
+	},
+	{
+		"@_name": "mid_autumn_festival"
+	},
+	{
+		"@_name": "spring_festival"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "No App Center installed to download DirectService",
+		"@_name": "check_appcenter_failure"
+	},
+	{
+		"#text": "no interest",
+		"@_name": "close_item_pop"
+	},
+	{
+		"#text": "Card Name",
+		"@_name": "def_card_name"
+	},
+	{
+		"#text": "This is a message",
+		"@_name": "def_des"
+	},
+	{
+		"#text": "Action",
+		"@_name": "def_footer_but"
+	},
+	{
+		"#text": "see more",
+		"@_name": "def_see_more"
+	},
+	{
+		"#text": "This is a title",
+		"@_name": "def_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "install_button_cancel"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "install_button_hide"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install_button_install"
+	},
+	{
+		"#text": "Install by mobile network",
+		"@_name": "install_button_install_mobile"
+	},
+	{
+		"#text": "%d%%",
+		"@_name": "install_download_progress"
+	},
+	{
+		"#text": "An error occurred, code = %d",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Failed to install DirectService",
+		"@_name": "install_failure"
+	},
+	{
+		"#text": "0%",
+		"@_name": "install_progress_default"
+	},
+	{
+		"#text": "Install successful, open quick app immediately",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "install_title_downloading"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "install_title_installing"
+	},
+	{
+		"#text": "Launching",
+		"@_name": "install_title_launching"
+	},
+	{
+		"#text": "Install DirectService to open quick app",
+		"@_name": "install_title_prompt"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "No Net",
+		"@_name": "no_net"
+	},
+	{
+		"#text": "Using traffic download",
+		"@_name": "use_mobile_download"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "演员",
+		"@_name": "actor"
+	},
+	{
+		"#text": "宜",
+		"@_name": "compatibility"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "导演",
+		"@_name": "director"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "черездн.",
+		"@_name": "in_num_calc_after",
+		"g": {
+			"#text": "%d",
+			"@_id": "COUNT"
+		}
+	},
+	{
+		"#text": "\" дн. назад \"",
+		"@_name": "in_num_calc_ago",
+		"g": {
+			"#text": "%d",
+			"@_id": "COUNT"
+		}
+	},
+	{
+		"#text": "忌",
+		"@_name": "incompatibility"
+	},
+	{
+		"#text": "打开",
+		"@_name": "install_complete_text"
+	},
+	{
+		"#text": "安装",
+		"@_name": "install_idle_text"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "installing_text"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "取消",
+		"@_name": "news_cancel"
+	},
+	{
+		"#text": "换一换",
+		"@_name": "news_change"
+	},
+	{
+		"#text": "确定",
+		"@_name": "news_confirm"
+	},
+	{
+		"#text": "不感兴趣",
+		"@_name": "news_dislike"
+	},
+	{
+		"#text": "这条内容我不喜欢",
+		"@_name": "news_dislike_hint"
+	},
+	{
+		"#text": "网络异常, 点击重试",
+		"@_name": "news_error_click_retry"
+	},
+	{
+		"#text": "无更多内容",
+		"@_name": "news_error_no_more"
+	},
+	{
+		"#text": "提交",
+		"@_name": "news_feedback_commit"
+	},
+	{
+		"#text": "刚刚",
+		"@_name": "news_lite_just_now"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "news_loading_text"
+	},
+	{
+		"#text": "更多热点",
+		"@_name": "news_more"
+	},
+	{
+		"#text": "网络异常, 请稍后重试",
+		"@_name": "news_network_error"
+	},
+	{
+		"#text": "%s次播放",
+		"@_name": "news_play_count"
+	},
+	{
+		"#text": "将减少类似内容推荐",
+		"@_name": "news_reduce_recommendation"
+	},
+	{
+		"#text": "举报垃圾内容",
+		"@_name": "news_report"
+	},
+	{
+		"#text": "内容低俗、标题夸张等",
+		"@_name": "news_report_reason"
+	},
+	{
+		"#text": "上滑加载",
+		"@_name": "news_slide_more"
+	},
+	{
+		"#text": "新闻资讯版本太低，播放失败",
+		"@_name": "news_tip_dialog_app_version_too_low"
+	},
+	{
+		"#text": "无网络连接, 请检查网络设置",
+		"@_name": "news_tip_dialog_wifi_not_connected"
+	},
+	{
+		"#text": "立即更新",
+		"@_name": "news_update"
+	},
+	{
+		"#text": -540,
+		"@_name": "pref_value_all_day_default_reminder"
+	},
+	{
+		"#text": 10,
+		"@_name": "pref_value_default_reminder"
+	},
+	{
+		"#text": 1,
+		"@_name": "pref_value_default_reminder_type"
+	},
+	{
+		"#text": -1,
+		"@_name": "pref_value_default_week_start"
+	},
+	{
+		"#text": "MzPullRefreshLayout",
+		"@_name": "ptr_label"
+	},
+	{
+		"#text": "FootballListActivity",
+		"@_name": "title_activity_football_list"
+	}
+]

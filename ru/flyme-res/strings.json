@@ -1,0 +1,2300 @@
+[
+	{
+		"#text": "Экстренный вызов",
+		"@_name": "access_control_emergency_dialer"
+	},
+	{
+		"#text": "Внутренняя память заполнена, приложение остановлено. Пожалуйста, освободите место и попробуйте еще раз.",
+		"@_name": "aerr_application_lowstorage"
+	},
+	{
+		"#text": "Заканчивается внутренняя память, процесс остановлен. Освободите место и попробуйте еще раз.",
+		"@_name": "aerr_process_lowstorage"
+	},
+	{
+		"#text": "OK",
+		"@_name": "allow_check_app"
+	},
+	{
+		"#text": "Разрешить push-уведомления",
+		"@_name": "allow_dialog_push"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "\"%2$s не отвечает\"",
+		"@_name": "anr_activity_application"
+	},
+	{
+		"#text": "\"Служба %1$s не отвечает\"",
+		"@_name": "anr_activity_process"
+	},
+	{
+		"#text": "\"%1$s не отвечает\"",
+		"@_name": "anr_application_process"
+	},
+	{
+		"#text": "\"Процесс %1$s не отвечает\"",
+		"@_name": "anr_process"
+	},
+	{
+		"#text": "Нет приложения для этого действия.",
+		"@_name": "app_hidden_des"
+	},
+	{
+		"#text": "Приложение не может быть открыто",
+		"@_name": "app_hidden_not_found"
+	},
+	{
+		"#text": "\"%1$s сейчас недоступно. Управляется %2$s.\"",
+		"@_name": "app_suspended_default_message"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "app_suspended_more_details"
+	},
+	{
+		"#text": "\"Приложение недоступно\"",
+		"@_name": "app_suspended_title"
+	},
+	{
+		"#text": "Чтобы выключить экран нажмите ещё раз",
+		"@_name": "avoid_power_key_misoperation_tips"
+	},
+	{
+		"#text": "Запрет блокировки пароля",
+		"@_name": "barringPWBlocked"
+	},
+	{
+		"#text": "Баланс",
+		"@_name": "battery_consumption_balance_title"
+	},
+	{
+		"#text": "Высокая производительность (рекомендуется)",
+		"@_name": "battery_consumption_performance_title"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "bluetooth_pairing_request"
+	},
+	{
+		"#text": "Доступ к сенсору",
+		"@_name": "body_sensors"
+	},
+	{
+		"#text": "\"Установка времени загрузки телефона\"",
+		"@_name": "boot_alarm_permission_description"
+	},
+	{
+		"#text": "Задать время загрузки",
+		"@_name": "boot_alarm_permission_title"
+	},
+	{
+		"#text": "EEE",
+		"@_name": "calendar_day_of_week"
+	},
+	{
+		"#text": "Совершение телефонных вызовов",
+		"@_name": "call"
+	},
+	{
+		"#text": "совершение телефонных вызовов",
+		"@_name": "call_c"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "call_log"
+	},
+	{
+		"#text": "чтение журнала вызовов",
+		"@_name": "call_log_c"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "camera"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "change_num"
+	},
+	{
+		"#text": "\"Нельзя менять обои в детском режиме.\"",
+		"@_name": "children_mode_can_not_set_wallpaper"
+	},
+	{
+		"#text": "выбрать стандартный лаунчер",
+		"@_name": "chooseDefLauncher"
+	},
+	{
+		"#text": "Невозможность отключить SMS",
+		"@_name": "clckDisableSmsFault"
+	},
+	{
+		"#text": "Не удалось отключить звук",
+		"@_name": "clckDisableVoiceFault"
+	},
+	{
+		"#text": "SMS успешно отключено, не удалось отключить звук",
+		"@_name": "clckDisableVoiceFaultSmsOK"
+	},
+	{
+		"#text": "Звук успешно jnrk.xty, не удалось отключить SMS",
+		"@_name": "clckDisableVoiceOKSmsFault"
+	},
+	{
+		"#text": "Не удалось включить SMS",
+		"@_name": "clckEnableSmsFault"
+	},
+	{
+		"#text": "Не удалось включить звук",
+		"@_name": "clckEnableVoiceFault"
+	},
+	{
+		"#text": "SMS успешно включены, не удалось включить звук",
+		"@_name": "clckEnableVoiceFaultSmsOK"
+	},
+	{
+		"#text": "Звук успешно включен, не удалось включить SMS",
+		"@_name": "clckEnableVoiceOKSmsFault"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "close"
+	},
+	{
+		"#text": "nrsnh",
+		"@_name": "config_def_theme"
+	},
+	{
+		"#text": "авто",
+		"@_name": "config_default_location_provider_mode"
+	},
+	{
+		"#text": "Настроить способ ввода",
+		"@_name": "configure_input_methods"
+	},
+	{
+		"#text": "Введите пароль",
+		"@_name": "confirm_access_password_tip"
+	},
+	{
+		"#text": "Введите пароль блокировки экрана",
+		"@_name": "confirm_access_password_tip_for_lockscreen"
+	},
+	{
+		"#text": "Неверный пароль, повторите ввод",
+		"@_name": "confirm_password_error"
+	},
+	{
+		"#text": "Чтение списка контактов",
+		"@_name": "contacts"
+	},
+	{
+		"#text": "чтение списка контактов",
+		"@_name": "contacts_c"
+	},
+	{
+		"#text": "Копировать все",
+		"@_name": "copyAll"
+	},
+	{
+		"#text": "Удаление журанала вызовов",
+		"@_name": "d_call_log"
+	},
+	{
+		"#text": "удаление журанала вызовов",
+		"@_name": "d_call_log_c"
+	},
+	{
+		"#text": "Удаление контактов",
+		"@_name": "d_contacts"
+	},
+	{
+		"#text": "удаление контактов",
+		"@_name": "d_contacts_c"
+	},
+	{
+		"#text": "Удаление журнала MMS",
+		"@_name": "d_mms"
+	},
+	{
+		"#text": "удаление журнала MMS",
+		"@_name": "d_mms_c"
+	},
+	{
+		"#text": "Удаление SMS или MMS",
+		"@_name": "d_sms"
+	},
+	{
+		"#text": "удаление SMS или MMS",
+		"@_name": "d_sms_c"
+	},
+	{
+		"#text": "Только передача данных",
+		"@_name": "data_conn_only"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Оптимизация: %1$d/%2$d",
+		"@_name": "dexopt_apps_apk"
+	},
+	{
+		"#text": "Оптимизация %1$d%%",
+		"@_name": "dexopt_apps_apk_percent"
+	},
+	{
+		"#text": "Оптимизация приложений,",
+		"@_name": "dexopt_apps_title"
+	},
+	{
+		"#text": "Всплывающие push-уведомления",
+		"@_name": "dialog_push"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "disable"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "dlg_cancel"
+	},
+	{
+		"#text": "Запрошены разрешения: %s",
+		"@_name": "dlg_check_app_control_summary"
+	},
+	{
+		"#text": "Функция %s%s",
+		"@_name": "dlg_check_app_control_summary_on",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "\\\"%s\\\" запрашивает разрешение на %s. Для изменения конфигурации перейдите в Настройки > Управление приложениями.",
+		"@_name": "dlg_check_app_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "\\\"%s\\\" действует для разрешения %s. Конфигурацию можно изменить в разделе Настройка/Безопасность и Местоположение/Сервисы местоположения",
+		"@_name": "dlg_check_app_message_location",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "\\\"%s\\\" Запрос на закрытие %s",
+		"@_name": "dlg_check_app_message_off",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s запрашивает разрешение на %s.",
+		"@_name": "dlg_check_app_message_on",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s запрашивает разрешение на создания ярлыка",
+		"@_name": "dlg_check_app_shortcut"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dlg_ok"
+	},
+	{
+		"#text": "«%s» is pushing messages that may cause safety risks. You can change the authorization in Settings/App Control",
+		"@_name": "dlg_push_app_message"
+	},
+	{
+		"#text": "Режим DND",
+		"@_name": "do_not_disturb_mode_title"
+	},
+	{
+		"#text": "Только будильник",
+		"@_name": "do_not_disturb_notification_alarm_only_content"
+	},
+	{
+		"#text": "Только будильник до %1$s",
+		"@_name": "do_not_disturb_notification_alarm_only_content_with_time"
+	},
+	{
+		"#text": "Отключен звук для вызовов и сообщений.",
+		"@_name": "do_not_disturb_notification_content"
+	},
+	{
+		"#text": "Ничего",
+		"@_name": "do_not_disturb_notification_none_content"
+	},
+	{
+		"#text": "Ничего до %1$s",
+		"@_name": "do_not_disturb_notification_none_content_with_time"
+	},
+	{
+		"#text": "Только важные",
+		"@_name": "do_not_disturb_notification_priority_only_content"
+	},
+	{
+		"#text": "Только важные до %1$s",
+		"@_name": "do_not_disturb_notification_priority_only_content_with_time"
+	},
+	{
+		"#text": "завтра %1$s",
+		"@_name": "do_not_disturb_notification_time_with_nextday"
+	},
+	{
+		"#text": "Режим DND включен",
+		"@_name": "do_not_disturb_notification_title"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_pending"
+	},
+	{
+		"#text": "…",
+		"@_name": "ellipsis"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "enable"
+	},
+	{
+		"#text": "В режиме полета, Вы можете вручную включить Wi-Fi",
+		"@_name": "enable_airplane_notify"
+	},
+	{
+		"#text": "Неверный пароль, повторите ввод",
+		"@_name": "enter_password_error"
+	},
+	{
+		"#text": "Ошибка смены PIN-кода. Эта операция разрешена только при наличии PUK-кода.",
+		"@_name": "enterPinWhileNotInPuk"
+	},
+	{
+		"#text": "День рождения по лунному календарю",
+		"@_name": "eventTypeLunarBirthday"
+	},
+	{
+		"#text": "Внешнее устройство %s",
+		"@_name": "external_storage_device_name"
+	},
+	{
+		"#text": "Введенные пароли не соответствуют друг другу. Задайте еще раз!",
+		"@_name": "file_protect_confirm_error_tip"
+	},
+	{
+		"#text": "Введите пароль повторно",
+		"@_name": "file_protect_ensure_new_password_tip"
+	},
+	{
+		"#text": "Введите пароль",
+		"@_name": "file_protect_password_tip"
+	},
+	{
+		"#text": "Задайте ПИН (от 4 до 6 цифр)",
+		"@_name": "file_protect_set_new_password_tip"
+	},
+	{
+		"#text": "Поиск телефона",
+		"@_name": "find_phone_app_name_find_phone"
+	},
+	{
+		"#text": "Центр пользователя",
+		"@_name": "find_phone_app_name_mzaccount"
+	},
+	{
+		"#text": "Облачный сервис",
+		"@_name": "find_phone_app_name_mzcloud"
+	},
+	{
+		"#text": "Восстановить",
+		"@_name": "find_phone_dialog_button"
+	},
+	{
+		"#text": "Системная ошибка из-за несанкционированного удаления %s. Пожалуйста, установите прошивку заново для восстановления системы.",
+		"@_name": "find_phone_dialog_content"
+	},
+	{
+		"#text": "Восстановить",
+		"@_name": "find_phone_state_dialog_button"
+	},
+	{
+		"#text": "Системная ошибка из-за несанкционированного отключения %s. Система будет восстановлена до рабочего состояния.",
+		"@_name": "find_phone_state_dialog_content"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "finish_button_label"
+	},
+	{
+		"#text": "Забыли пароль?",
+		"@_name": "forget_pwd"
+	},
+	{
+		"#text": "\"Ошибка при очистке карты памяти\"",
+		"@_name": "format_error"
+	},
+	{
+		"#text": "Подключение 4G активно",
+		"@_name": "four_g_enabled"
+	},
+	{
+		"#text": "Свободно",
+		"@_name": "free_memory_btn"
+	},
+	{
+		"#text": "Перезапуск",
+		"@_name": "global_action_power_restart"
+	},
+	{
+		"#text": "Выключение",
+		"@_name": "global_action_shut_down"
+	},
+	{
+		"#text": "Режим Полет",
+		"@_name": "global_actions_toggle_airplane_mode"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "hour"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Попробуйте через %d с.",
+		"@_name": "kg_too_many_failed_attempts_countdown"
+	},
+	{
+		"#text": "Повтор через %1$d сек.",
+		"@_name": "kg_too_many_failed_attempts_countdown_for_lockscreen"
+	},
+	{
+		"#text": "Повторите через %1$ мин. %2$d с.",
+		"@_name": "kg_too_many_failed_high_attempts_countdown"
+	},
+	{
+		"#text": "Настройка/Кастомизация лаунчера по умолчанию",
+		"@_name": "launcher_choose_hint"
+	},
+	{
+		"#text": "Местный номер",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "Определение местоположения через gps или моб. сеть",
+		"@_name": "location"
+	},
+	{
+		"#text": "определение местоположения через gps или моб. сеть",
+		"@_name": "location_c"
+	},
+	{
+		"#text": "d MMM",
+		"@_name": "lock_month_day"
+	},
+	{
+		"#text": "Осталось попыток ввода пароля: %s",
+		"@_name": "lock_password_left_times"
+	},
+	{
+		"#text": "d.M.yyyy(EEE)",
+		"@_name": "lock_week"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "lockscreen_carrier_default"
+	},
+	{
+		"#text": "Заканчивается место во внутренней памяти",
+		"@_name": "low_internal_storage_view_title"
+	},
+	{
+		"#text": "Освободите место, или некоторые приложения и функции могут работать не корректно.",
+		"@_name": "low_storage_warning_message"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "дн. назад",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "дн. спустя",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "SD-карта была извлечена до отключения",
+		"@_name": "media_bad_removal"
+	},
+	{
+		"#text": "Выполняется проверка SD-карты",
+		"@_name": "media_checking"
+	},
+	{
+		"#text": "SD-карта извлечена",
+		"@_name": "media_removed"
+	},
+	{
+		"#text": "SD-карта в настоящее время используется ПК",
+		"@_name": "media_shared"
+	},
+	{
+		"#text": "External media in unknown state",
+		"@_name": "media_unknown_state"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Хранилище",
+		"@_name": "mtp_locked_section"
+	},
+	{
+		"#text": "Хотите закрыть?",
+		"@_name": "mz_anr_close_or_not"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Показать подробнее",
+		"@_name": "mz_drive_mode_message"
+	},
+	{
+		"#text": "Режим вождения включен",
+		"@_name": "mz_drive_mode_title"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "mz_font_family_button_alertdialog"
+	},
+	{
+		"#text": "Подтвердите отпечаток снова через %d сек.",
+		"@_name": "mz_fp_lockout"
+	},
+	{
+		"#text": "\"Отпечаток не распознан\"",
+		"@_name": "mz_fp_verify_failed"
+	},
+	{
+		"#text": "Выпуск обновления",
+		"@_name": "mz_go_Refreshing"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mz_is_Refreshing"
+	},
+	{
+		"#text": "Обновление будет установлено после перезагрузки телефона. Батарея разряжена. Подключите зарядное устройство и нажмите кнопку Перезагрузить сейчас.",
+		"@_name": "mz_low_battery_upgrade_tips"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "PPPoE соединения (%s)",
+		"@_name": "mz_notification_ongoing_pppoe_format"
+	},
+	{
+		"#text": "EEE, d.M.yyyy",
+		"@_name": "mz_numeric_date_format_dmy"
+	},
+	{
+		"#text": "EEE, d.yyyy.M",
+		"@_name": "mz_numeric_date_format_dym"
+	},
+	{
+		"#text": "EEE, M.d.yyyy",
+		"@_name": "mz_numeric_date_format_mdy"
+	},
+	{
+		"#text": "EEE, M.yyyy.d",
+		"@_name": "mz_numeric_date_format_myd"
+	},
+	{
+		"#text": "yyyy.d.M, EEE",
+		"@_name": "mz_numeric_date_format_ydm"
+	},
+	{
+		"#text": "yyyy.M.d, EEE",
+		"@_name": "mz_numeric_date_format_ymd"
+	},
+	{
+		"#text": "Позволяет программе автоматически загружать и устанавливать обновления системы, что может привести к стиранию всех данных, конфигурации и установленных приложений.",
+		"@_name": "mz_permdesc_networkUpgrade"
+	},
+	{
+		"#text": "Обновление сети",
+		"@_name": "mz_permlab_networkUpgrade"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mz_pull_refresh"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "mz_redo"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_resolver_back"
+	},
+	{
+		"#text": "По умолчанию",
+		"@_name": "mz_resolver_default_app"
+	},
+	{
+		"#text": "Больше",
+		"@_name": "mz_resolver_grid_text_more"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "mz_share_title"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "mz_sina_weibo"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mz_undo"
+	},
+	{
+		"#text": "\"Невозможно обновить, заряд батареи ниже 20%\"",
+		"@_name": "mz_update_battery_low"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_upgrade_immediately"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_upgrade_later"
+	},
+	{
+		"#text": "Вы получили ROOT-доступ. После обновления разрешения будут сброшены на значения по умолчанию",
+		"@_name": "mz_upgrade_root_message"
+	},
+	{
+		"#text": "Обнаружен ROOT-доступ",
+		"@_name": "mz_upgrade_root_title"
+	},
+	{
+		"#text": "Ваш телефон будет перезагружен. Убедитесь, что заряда батареи достаточно.",
+		"@_name": "mz_upgrade_tips"
+	},
+	{
+		"#text": "Обновление системы",
+		"@_name": "mz_upgrade_tips_title"
+	},
+	{
+		"#text": "WeChat друзья",
+		"@_name": "mz_wechat_friend"
+	},
+	{
+		"#text": "WeChat моменты",
+		"@_name": "mz_wechat_timeline"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Невозможно получить доступ к сети. Авторизуйтесь",
+		"@_name": "mz_wifi_available_sign_in"
+	},
+	{
+		"#text": "Игнорировать",
+		"@_name": "mz_wifi_notify_button"
+	},
+	{
+		"#text": "Моб. интернет",
+		"@_name": "network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "nfc"
+	},
+	{
+		"#text": "Время действия NFC истекло. Невозможно поделиться.",
+		"@_name": "nfc_activity_not_found_err"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "not_allow_dialog_push"
+	},
+	{
+		"#text": "\"Больше не показывать\"",
+		"@_name": "not_prompt_notify"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "online_intenert"
+	},
+	{
+		"#text": "Использование камеры",
+		"@_name": "op_camera"
+	},
+	{
+		"#text": "использование камеры",
+		"@_name": "op_camera_c"
+	},
+	{
+		"#text": "Чтение списка установленных приложений",
+		"@_name": "op_getinstallpkg"
+	},
+	{
+		"#text": "чтение списка установленных приложений",
+		"@_name": "op_getinstallpkg_c"
+	},
+	{
+		"#text": "Получение идентификатора устройства",
+		"@_name": "op_imei"
+	},
+	{
+		"#text": "Получение идентификатора устройства",
+		"@_name": "op_imei_c"
+	},
+	{
+		"#text": "Получение состояния устройства",
+		"@_name": "op_phone_state"
+	},
+	{
+		"#text": "получение состояния устройства",
+		"@_name": "op_phone_state_c"
+	},
+	{
+		"#text": "Использование микрофона",
+		"@_name": "op_record_audio"
+	},
+	{
+		"#text": "использование микрофона",
+		"@_name": "op_record_audio_c"
+	},
+	{
+		"#text": "Изменение системных настроек",
+		"@_name": "op_setting"
+	},
+	{
+		"#text": "изменение системных настроек",
+		"@_name": "op_setting_c"
+	},
+	{
+		"#text": "Создание ярлыков",
+		"@_name": "op_shortcut"
+	},
+	{
+		"#text": "создание ярлыков",
+		"@_name": "op_shortcut_c"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "open"
+	},
+	{
+		"#text": "CMCC",
+		"@_name": "oper_long_46000"
+	},
+	{
+		"#text": "CU",
+		"@_name": "oper_long_46001"
+	},
+	{
+		"#text": "China Telecom",
+		"@_name": "oper_long_46003"
+	},
+	{
+		"#text": "Far EasTone",
+		"@_name": "oper_long_46601"
+	},
+	{
+		"#text": "Chunghwa Telecom",
+		"@_name": "oper_long_46692"
+	},
+	{
+		"#text": "Taiwan Mobile",
+		"@_name": "oper_long_46697"
+	},
+	{
+		"#text": "Android1",
+		"@_name": "oper_long_99998"
+	},
+	{
+		"#text": "Android",
+		"@_name": "oper_long_99999"
+	},
+	{
+		"#text": "CMCC",
+		"@_name": "oper_short_46000"
+	},
+	{
+		"#text": "CU-GSM",
+		"@_name": "oper_short_46001"
+	},
+	{
+		"#text": "China Telecom",
+		"@_name": "oper_short_46003"
+	},
+	{
+		"#text": "FET",
+		"@_name": "oper_short_46601"
+	},
+	{
+		"#text": "Chunghwa",
+		"@_name": "oper_short_46692"
+	},
+	{
+		"#text": "TWN",
+		"@_name": "oper_short_46697"
+	},
+	{
+		"#text": "AD1",
+		"@_name": "oper_short_99997"
+	},
+	{
+		"#text": "AD",
+		"@_name": "oper_short_99999"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "pattern_a_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "pattern_day_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "pattern_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %p %I:%M",
+		"@_name": "pattern_day_month_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "pattern_day_month_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "pattern_day_month_year_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %p %I:%M",
+		"@_name": "pattern_day_month_year_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%p %I:%M",
+		"@_name": "pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %p %I:%M",
+		"@_name": "pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "pattern_month_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "pattern_week"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "pattern_week_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %p %I:%M",
+		"@_name": "pattern_week_day_month_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %p %I:%M",
+		"@_name": "pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %p %I:%M",
+		"@_name": "pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %p %I:%M",
+		"@_name": "pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "pattern_yesterday"
+	},
+	{
+		"#text": "Всплывающие окна",
+		"@_name": "perm_alert"
+	},
+	{
+		"#text": "Автозагрузка",
+		"@_name": "perm_aotulunch"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "perm_notification"
+	},
+	{
+		"#text": "Разрешение приложению добавлять глобальный каталог для блокировки",
+		"@_name": "permdesc_add-global_unlock_file"
+	},
+	{
+		"#text": "Разрешение приложению создавать резервные копии или восстанавливать системные учетные записи.",
+		"@_name": "permdesc_backupAccounts"
+	},
+	{
+		"#text": "Разрешение очищать все авторизованные сервисы по истечении срока действия авторизации",
+		"@_name": "permdesc_force_clear_when_granted_expired"
+	},
+	{
+		"#text": "Разрешение этому приложению запрашивать тихую авторизацию для доступа к заблокированному каталогу",
+		"@_name": "permdesc_force_grant_access_protect_file"
+	},
+	{
+		"#text": "Разрешение приложению принудительно завершать процесс",
+		"@_name": "permdesc_forceKillProcess"
+	},
+	{
+		"#text": "Разрешение получать статистику работы приложения. Не для использования обычными приложениями.",
+		"@_name": "permdesc_getAppOpsStats"
+	},
+	{
+		"#text": "Разрешение приложению добавлять/удалять заблокированные каталоги",
+		"@_name": "permdesc_modify_protect_file_list"
+	},
+	{
+		"#text": "Разрешение приложению считывать список заблокированных каталогов.",
+		"@_name": "permdesc_read_protect_file_list"
+	},
+	{
+		"#text": "Разрешение приложения читать данные UsageStatsProvider.",
+		"@_name": "permdesc_readusagestats"
+	},
+	{
+		"#text": "Разрешение приложению аутентифицировать отпечатком",
+		"@_name": "permdesc_recognize_fingerprint"
+	},
+	{
+		"#text": "Разрешение приложению зарегистрировать отпечаток",
+		"@_name": "permdesc_register_fingerprint"
+	},
+	{
+		"#text": "Разрешение приложению запрашивать авторизацию для доступа к заблокированным каталогам",
+		"@_name": "permdesc_request_grant_access_protect_file"
+	},
+	{
+		"#text": "\"Разрешение приложению читать и записывать корневое состояние и состояние восстановления. Никогда не должны быть запрошены для обычных приложений \"",
+		"@_name": "permdesc_rootRecoveryState"
+	},
+	{
+		"#text": "Разрешение приложению изменять статистику работы приложения. Не для использования обычными приложениями.",
+		"@_name": "permdesc_updateAppOpsStats"
+	},
+	{
+		"#text": "Разрешение приложению записывать данные UsageStatsProvider.",
+		"@_name": "permdesc_writeusagestats"
+	},
+	{
+		"#text": "Добавить глобальный каталог для блокировки",
+		"@_name": "permlab_add_global_unlock_file"
+	},
+	{
+		"#text": "Резервное копирование или восстановление учетных записей",
+		"@_name": "permlab_backupAccounts"
+	},
+	{
+		"#text": "Автоматический доступ",
+		"@_name": "permlab_force_grant_access_protect_file"
+	},
+	{
+		"#text": "принудительно завершить процесс",
+		"@_name": "permlab_forceKillProcess"
+	},
+	{
+		"#text": "получать статистику по приложениям",
+		"@_name": "permlab_getAppOpsStats"
+	},
+	{
+		"#text": "Изменение заблокированных каталогов",
+		"@_name": "permlab_modify_protect_file_list"
+	},
+	{
+		"#text": "Чтение заблокированных каталогов",
+		"@_name": "permlab_read_protect_file_list"
+	},
+	{
+		"#text": "Чтение данных UsageStatsProvider",
+		"@_name": "permlab_readusagestats"
+	},
+	{
+		"#text": "Аутентификация отпечатком",
+		"@_name": "permlab_recognize_fingerprint"
+	},
+	{
+		"#text": "Добавить отпечаток",
+		"@_name": "permlab_register_fingerprint"
+	},
+	{
+		"#text": "Запрос авторизации",
+		"@_name": "permlab_request_grant_access_protect_file"
+	},
+	{
+		"#text": "ROOT-доступ и восстановление",
+		"@_name": "permlab_rootRecoveryState"
+	},
+	{
+		"#text": "изменять статистику приложений",
+		"@_name": "permlab_updateAppOpsStats"
+	},
+	{
+		"#text": "Запись данных UsageStatsProvider",
+		"@_name": "permlab_writeusagestats"
+	},
+	{
+		"#text": "Факс",
+		"@_name": "phoneTypeFaxWork"
+	},
+	{
+		"#text": "Ошибка смены PIN-кода. Сначала установите блокировку c помощью PIN-кода.",
+		"@_name": "pinNotEnableError"
+	},
+	{
+		"#text": "Коснитесь для отключения.",
+		"@_name": "pppoe_click_to_disconnect"
+	},
+	{
+		"#text": "Очистка SD-карты…",
+		"@_name": "progress_erasing"
+	},
+	{
+		"#text": "Отключение SD-карты…",
+		"@_name": "progress_unmounting"
+	},
+	{
+		"#text": "Подсказка",
+		"@_name": "prompt_title"
+	},
+	{
+		"#text": "Просмотр календаря",
+		"@_name": "r_calendar"
+	},
+	{
+		"#text": "Чтение журанала MMS",
+		"@_name": "r_mms"
+	},
+	{
+		"#text": "чтение журнала MMS",
+		"@_name": "r_mms_c"
+	},
+	{
+		"#text": "Чтение SMS и MMS",
+		"@_name": "r_sms"
+	},
+	{
+		"#text": "чтение SMS и MMS",
+		"@_name": "r_sms_c"
+	},
+	{
+		"#text": "Чтение и запись калибровочных значений",
+		"@_name": "read_write_calibration_values_permission_title"
+	},
+	{
+		"#text": "Не удалось открыть магазин приложений",
+		"@_name": "recommend_open_mstore_faile"
+	},
+	{
+		"#text": "Рекомендации",
+		"@_name": "recommend_recommend"
+	},
+	{
+		"#text": "Поиск: %s",
+		"@_name": "recommend_search_gooleplay"
+	},
+	{
+		"#text": "Поиск в магазине приложений",
+		"@_name": "recommend_search_mstore"
+	},
+	{
+		"#text": "Режим Benchmark",
+		"@_name": "recommend_switch_power_mode"
+	},
+	{
+		"#text": "Неизвестный формат файла",
+		"@_name": "recommendsubtitle"
+	},
+	{
+		"#text": "Попробуйте открыть следующим образом",
+		"@_name": "recommendtitle"
+	},
+	{
+		"#text": "Доступ к микрофону",
+		"@_name": "recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "recordaudio_phone"
+	},
+	{
+		"#text": "Запомнить выбор",
+		"@_name": "remember_me"
+	},
+	{
+		"#text": "Это действие не поддерживается",
+		"@_name": "requestNotSupported"
+	},
+	{
+		"#text": "Рингтон по умолч.",
+		"@_name": "ringtone_default"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "ringtone_silent"
+	},
+	{
+		"#text": "Mute",
+		"@_name": "ringtone_unknown"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "s_mms"
+	},
+	{
+		"#text": "отправка MMS",
+		"@_name": "s_mms_c"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "s_sms"
+	},
+	{
+		"#text": "отправка SMS",
+		"@_name": "s_sms_c"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "security_kb_back"
+	},
+	{
+		"#text": 123,
+		"@_name": "security_kb_number"
+	},
+	{
+		"#text": "~*",
+		"@_name": "security_kb_symbol"
+	},
+	{
+		"#text": "Клавиатура Flyme",
+		"@_name": "security_kb_title"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "security_pay_button_text"
+	},
+	{
+		"#text": "Отключен режим отладки для предотвращения хищения данных",
+		"@_name": "security_pay_debug_text"
+	},
+	{
+		"#text": "Защита от прикосновений для предотвращения перехвата событий с экрана.",
+		"@_name": "security_pay_event_text"
+	},
+	{
+		"#text": "Защита платежей Flyme",
+		"@_name": "security_pay_icon_text"
+	},
+	{
+		"#text": "Flyme защищает Ваши платежи",
+		"@_name": "security_pay_notification_text"
+	},
+	{
+		"#text": "Переключение на системную клавиатуру во время ввода паролей для предотвращения перехвата паролей",
+		"@_name": "security_pay_password_text"
+	},
+	{
+		"#text": "Предотвращение запуска вредоносных процессов",
+		"@_name": "security_pay_process_text"
+	},
+	{
+		"#text": "Показать подробнее",
+		"@_name": "security_pay_show_detail_text"
+	},
+	{
+		"#text": "\"Запрет чтения, создания и перехвата сообщений сторонними приложениями для защиты кодов подтверждения транзакций по SMS\"",
+		"@_name": "security_pay_sms_text"
+	},
+	{
+		"#text": "Запрет наложения экрана для предотвращения перехвата данных",
+		"@_name": "security_pay_surface_text"
+	},
+	{
+		"#text": "Включен режим защиты платежей. Для обеспечения безопасности будут приняты следующие меры:",
+		"@_name": "security_pay_title_text"
+	},
+	{
+		"#text": "Выбрать",
+		"@_name": "select"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "set_bluetooth_on"
+	},
+	{
+		"#text": "включение/отключение Bluetooth",
+		"@_name": "set_bluetooth_on_c"
+	},
+	{
+		"#text": "Включение мобильной сети",
+		"@_name": "set_gprs_on"
+	},
+	{
+		"#text": "включение/выключение мобильной сети",
+		"@_name": "set_gprs_on_c"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "set_wifi_on"
+	},
+	{
+		"#text": "включение/отключение Wi-Fi",
+		"@_name": "set_wifi_on_c"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share"
+	},
+	{
+		"#text": "Пользовательский",
+		"@_name": "socialProfileTypeCustom"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "socialProfileTypeOther"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "socialProfileTypeSinaWeibo"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "Имущественное страхование Китая Лтд",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "Национальное правительство",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Telecom",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "Промышленно-коммерческий банк Китая",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "Everbright Bank (Китай)",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "Горячая линия Службы экологического надзора",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "Горячая линия антимонапольной службы",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "Медицинское Страхование Китая Лтд",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Unicom",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "Горячая линия для клиентов Meizu",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "Сельскохозяйственный банк Китая",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "Миншэн Life Insurance Co., Ltd.",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "Горячая линия судебной службы",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "Страхование Жизни Лтд",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "Прогноз погоды",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Railcom",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "Горячая линия Ассоциации потребителей",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Mobile",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "中国移动综合信息服务",
+		"@_name": "specail_number_yidongfuwu"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "SD карта",
+		"@_name": "storage_sd_card"
+	},
+	{
+		"#text": "Переключить",
+		"@_name": "switch_wizard_button"
+	},
+	{
+		"#text": "Данные сохранены",
+		"@_name": "switch_wizard_info_four"
+	},
+	{
+		"#text": "Отличная производительность",
+		"@_name": "switch_wizard_info_one"
+	},
+	{
+		"#text": "Больше индивидуальных скинов",
+		"@_name": "switch_wizard_info_three"
+	},
+	{
+		"#text": "Доп. функции клавиатуры",
+		"@_name": "switch_wizard_info_two"
+	},
+	{
+		"#text": "Использовать Sogou как метод ввода?",
+		"@_name": "switch_wizard_title"
+	},
+	{
+		"#text": "Загрузка системы…",
+		"@_name": "system_booting"
+	},
+	{
+		"#text": "Нажмите для настройки",
+		"@_name": "tethered_notification_message"
+	},
+	{
+		"#text": "Клиенты точки доступа: %1$d",
+		"@_name": "tethered_notification_message_devices"
+	},
+	{
+		"#text": "Подключения: %1$d",
+		"@_name": "tethered_notification_message_devices_title"
+	},
+	{
+		"#text": "Точка доступа активна",
+		"@_name": "tethered_notification_title"
+	},
+	{
+		"#text": "Общий доступ к сети предоставлен устройствам: %1$d",
+		"@_name": "tethered_notification_title_devices"
+	},
+	{
+		"#text": "Устройства, которым предоставлен общий доступ: %1$d",
+		"@_name": "tethered_notification_title_one_device"
+	},
+	{
+		"#text": "Это бета прошивка, пожалуйста, используйте ее на свой страх и риск.",
+		"@_name": "top_message"
+	},
+	{
+		"#text": "\"Нельзя менять обои на текущей версии системы. Пожалуйста, обновите вашу систему и попробуйте еще раз.\"",
+		"@_name": "unsupport_set_wallpaper_on_media_eval_system"
+	},
+	{
+		"#text": "Автообновление системы %1$d%%",
+		"@_name": "upgrade_system_percent"
+	},
+	{
+		"#text": "Внутренняя версия Flyme",
+		"@_name": "upgrade_watermark_text"
+	},
+	{
+		"#text": "Будет использован трафик моб. интернета",
+		"@_name": "url_warning_messgae"
+	},
+	{
+		"#text": "Открыть ссылку",
+		"@_name": "url_warning_title"
+	},
+	{
+		"#text": "Подключен как установщик",
+		"@_name": "usb_cd_installer_notification_title"
+	},
+	{
+		"#text": "Только зарядка (USB)",
+		"@_name": "usb_charging_notification_title"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "usb_install_dialog_allow"
+	},
+	{
+		"#text": "Запретить",
+		"@_name": "usb_install_dialog_deny"
+	},
+	{
+		"#text": "Приложение устанавливается через USB",
+		"@_name": "usb_install_dialog_title"
+	},
+	{
+		"#text": "Перенос медиа на ПК",
+		"@_name": "usb_mtp_summary"
+	},
+	{
+		"#text": "Перенос фото на ПК",
+		"@_name": "usb_ptp_summary"
+	},
+	{
+		"#text": "Output audio from the usb sound card",
+		"@_name": "usbaudio_subtitle"
+	},
+	{
+		"#text": "USB-аудио",
+		"@_name": "usbaudio_title"
+	},
+	{
+		"#text": "Нажмите и удерживайте во время разговора",
+		"@_name": "voice_text_normal"
+	},
+	{
+		"#text": "Release to end",
+		"@_name": "voice_text_over"
+	},
+	{
+		"#text": "Проведите для отмены",
+		"@_name": "voice_text_press"
+	},
+	{
+		"#text": "Говорите более %s сек.",
+		"@_name": "voice_text_remain"
+	},
+	{
+		"#text": "Нет сертификата",
+		"@_name": "vpn_can_not_load_credential"
+	},
+	{
+		"#text": "Нет подключения к сети. Пожалуйста, повторите попытку позже",
+		"@_name": "vpn_no_network"
+	},
+	{
+		"#text": "Создание/удаление записей журнала вызовов",
+		"@_name": "w_call_log"
+	},
+	{
+		"#text": "создание/удаление записей журнала вызовов",
+		"@_name": "w_call_log_c"
+	},
+	{
+		"#text": "Изменение списка контактов",
+		"@_name": "w_contacts"
+	},
+	{
+		"#text": "добавление/удаление контактов",
+		"@_name": "w_contacts_c"
+	},
+	{
+		"#text": "Создание записей в журнале MMS",
+		"@_name": "w_mms"
+	},
+	{
+		"#text": "создание записей в журнале  MMS",
+		"@_name": "w_mms_c"
+	},
+	{
+		"#text": "Создание записей в журнале SMS или MMS",
+		"@_name": "w_sms"
+	},
+	{
+		"#text": "создание записей в журнале SMS или MMS",
+		"@_name": "w_sms_c"
+	},
+	{
+		"#text": "Чтение/запись событий календаря",
+		"@_name": "wd_calendar"
+	},
+	{
+		"#text": "Подключен беспроводной дисплей",
+		"@_name": "wifi_display_notification_connected_title"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "wifi_display_notification_disconnect"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "wifi_share_start"
+	},
+	{
+		"#text": "Остановить обмен файлами по Wi-Fi",
+		"@_name": "wifi_share_stop"
+	},
+	{
+		"#text": "Сеть Wi-Fi",
+		"@_name": "wlan"
+	}
+]

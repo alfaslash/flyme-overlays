@@ -1,0 +1,1728 @@
+[
+	{
+		"#text": "Перейти на главный экран",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению \\\"%s\\\"",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Идентификатор номера",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "нет контекста",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "E-mail",
+		"@_name": "cp_email_sign"
+	},
+	{
+		"#text": "От: %s",
+		"@_name": "cp_source_from"
+	},
+	{
+		"#text": "sogou",
+		"@_name": "cp_source_sogou"
+	},
+	{
+		"#text": "teddy",
+		"@_name": "cp_source_teddy"
+	},
+	{
+		"#text": "Медвежонок Тедди (мобильный)",
+		"@_name": "cp_source_teddy_name"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "download_dialog_cancel"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "download_dialog_install"
+	},
+	{
+		"#text": "Для использования этой функции сначала настройте Защиту семьи",
+		"@_name": "download_dialog_title"
+	},
+	{
+		"#text": "Частный номер",
+		"@_name": "ec_private_info"
+	},
+	{
+		"#text": "ошибка при получении токена",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Защита семьи",
+		"@_name": "family_app"
+	},
+	{
+		"#text": "некорректный ответ",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "получение токена отменено",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "идет обработка",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Местный номер",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "Успешно",
+		"@_name": "mark_success"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано: %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Переключение Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-сообщения",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Переключение NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "\"Установить сейчас\"",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "\"Установить позже\"",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "NetContact",
+		"@_name": "net_contact_direcoty_type"
+	},
+	{
+		"#text": "Изменить видимость пароля",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "неверный токен авторизации: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "Имущественное страхование Китая Лтд",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "Национальное правительство",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Telecom",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "Промышленно-коммерческий банк Китая",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "Everbright Bank (Китай)",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "Горячая линия Службы экологического надзора",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "Горячая линия антимонапольной службы",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "Медицинское Страхование Китая Лтд",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Unicom",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "Горячая линия для клиентов Meizu",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "Сельскохозяйственный банк Китая",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "Миншэн Life Insurance Co., Ltd.",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "Горячая линия судебной службы",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "Страхование Жизни Лтд",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "Прогноз погоды",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Railcom",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "Горячая линия Ассоциации потребителей",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "Горячая линия для клиентов China Mobile",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "синхронизация времени ожидания токена",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "uid не соответствует названию пакета",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "неизвестная ошибка sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "слишком много запросов",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Цифровое благополучие",
+		"@_name": "us_usage_statistics"
+	},
+	{
+		"#text": "Звонок: %s",
+		"@_name": "usage_phone_time"
+	},
+	{
+		"#text": "Входящий",
+		"@_name": "usage_phone_type_inbox"
+	},
+	{
+		"#text": "Входящий",
+		"@_name": "usage_phone_type_incoming"
+	},
+	{
+		"#text": "Отклоненный",
+		"@_name": "usage_phone_type_incoming_reject"
+	},
+	{
+		"#text": "Пропущенный",
+		"@_name": "usage_phone_type_missed"
+	},
+	{
+		"#text": "Исходящий",
+		"@_name": "usage_phone_type_outgoing"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "usage_phone_type_sent"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "usage_phone_type_voicemail"
+	},
+	{
+		"#text": "Нет сообщений голосовой почты",
+		"@_name": "usage_phone_type_voicemail_fail"
+	},
+	{
+		"#text": "Успешно добавлено",
+		"@_name": "yp_activity_add_contact_success"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "yp_activity_add_favor"
+	},
+	{
+		"#text": "Добавить в контакты",
+		"@_name": "yp_activity_detail_ac"
+	},
+	{
+		"#text": "Весь журнал вызовов",
+		"@_name": "yp_activity_detail_all_calllog"
+	},
+	{
+		"#text": "Посмотреть все групповые действия",
+		"@_name": "yp_activity_detail_all_groupons"
+	},
+	{
+		"#text": "Баланс",
+		"@_name": "yp_activity_detail_balance"
+	},
+	{
+		"#text": "Баланс",
+		"@_name": "yp_activity_detail_balance_nt"
+	},
+	{
+		"#text": "В чёрный список",
+		"@_name": "yp_activity_detail_bl_add"
+	},
+	{
+		"#text": "Убрать из чёрного списка",
+		"@_name": "yp_activity_detail_bl_remove"
+	},
+	{
+		"#text": "Настроить черный список",
+		"@_name": "yp_activity_detail_bl_set"
+	},
+	{
+		"#text": "Журнал вызовов",
+		"@_name": "yp_activity_detail_calllog"
+	},
+	{
+		"#text": "Копировать",
+		"@_name": "yp_activity_detail_copy"
+	},
+	{
+		"#text": "Позвонить",
+		"@_name": "yp_activity_detail_easy_dialer"
+	},
+	{
+		"#text": "ОТПРАВИТЬ СООБЩЕНИЕ",
+		"@_name": "yp_activity_detail_easy_sms"
+	},
+	{
+		"#text": "Ошибка корректировки",
+		"@_name": "yp_activity_detail_error"
+	},
+	{
+		"#text": "Добавить в избранное",
+		"@_name": "yp_activity_detail_favorite_add"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "yp_activity_detail_favorite_remove"
+	},
+	{
+		"#text": "Групповые действия",
+		"@_name": "yp_activity_detail_groupons"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "yp_activity_detail_label"
+	},
+	{
+		"#text": "Мобильный",
+		"@_name": "yp_activity_detail_mobile"
+	},
+	{
+		"#text": "Пополнить баланс",
+		"@_name": "yp_activity_detail_recharge"
+	},
+	{
+		"#text": "Пополнить баланс",
+		"@_name": "yp_activity_detail_recharge_nt"
+	},
+	{
+		"#text": "Добавить описание для номера",
+		"@_name": "yp_activity_ec_enter_private_info"
+	},
+	{
+		"#text": "Мой личный номер",
+		"@_name": "yp_activity_ec_my_private_number"
+	},
+	{
+		"#text": "Личный номер",
+		"@_name": "yp_activity_ec_private_number"
+	},
+	{
+		"#text": "Неверная информация",
+		"@_name": "yp_activity_ec_shop_number"
+	},
+	{
+		"#text": "Предоставлять дополнительную информацию для идентификации абонента",
+		"@_name": "yp_activity_number_identify_info"
+	},
+	{
+		"#text": "Идентификация абонента",
+		"@_name": "yp_activity_number_identify_lock"
+	},
+	{
+		"#text": "Показать",
+		"@_name": "yp_activity_number_identify_lock_info"
+	},
+	{
+		"#text": "Этот номер отмечен как личный, поэтому не может быть добавлен в Избранное \"Желтые страницы\"",
+		"@_name": "yp_activity_phone_group_favor"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "yp_activity_remove_favor"
+	},
+	{
+		"#text": "Посмотреть все",
+		"@_name": "yp_activity_show_all"
+	},
+	{
+		"#text": "Пополнить",
+		"@_name": "yp_buy_data"
+	},
+	{
+		"#text": "Пополнить",
+		"@_name": "yp_buy_data_nt"
+	},
+	{
+		"#text": "%sм. %sсек.",
+		"@_name": "yp_callDetailsDurationFormat",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Звонок в течение: %s",
+		"@_name": "yp_callDetailsDurationFormat3"
+	},
+	{
+		"#text": "%s сек.",
+		"@_name": "yp_callDetailsDurationFormatSecond"
+	},
+	{
+		"#text": "%s ч. %s мин. %s сек.",
+		"@_name": "yp_callDetailsDurationFormatWithHour",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Контроль трафика",
+		"@_name": "yp_check_data"
+	},
+	{
+		"#text": "Контроль трафика",
+		"@_name": "yp_check_data_nt"
+	},
+	{
+		"#text": "Звонок",
+		"@_name": "yp_context_menu_call"
+	},
+	{
+		"#text": "Показать визуальное меню",
+		"@_name": "yp_context_menu_enterprise_call"
+	},
+	{
+		"#text": "Обычный звонок",
+		"@_name": "yp_context_menu_normal_call"
+	},
+	{
+		"#text": "\" - Обычный звонок\"",
+		"@_name": "yp_context_menu_normal_call_suffix"
+	},
+	{
+		"#text": "Личный звонок",
+		"@_name": "yp_context_menu_private_call"
+	},
+	{
+		"#text": "\" - Личный звонок\"",
+		"@_name": "yp_context_menu_private_call_suffix"
+	},
+	{
+		"#text": "Текст %s",
+		"@_name": "yp_detail_activity_sms_talk_back_text"
+	},
+	{
+		"#text": "Не найдено приложение для этого действия",
+		"@_name": "yp_dialog_no_app_handle"
+	},
+	{
+		"#text": "Исправление ошибок",
+		"@_name": "yp_ec_activity_name"
+	},
+	{
+		"#text": "Контакт",
+		"@_name": "yp_ec_contact"
+	},
+	{
+		"#text": "Корректное имя",
+		"@_name": "yp_ec_input_connect_name"
+	},
+	{
+		"#text": "Корректный номер",
+		"@_name": "yp_ec_input_connect_number"
+	},
+	{
+		"#text": "Оставьте контактную информацию для подтверждения",
+		"@_name": "yp_ec_input_contact"
+	},
+	{
+		"#text": "Корректный адрес, сайт и т.д.",
+		"@_name": "yp_ec_input_other"
+	},
+	{
+		"#text": "Имя",
+		"@_name": "yp_ec_name"
+	},
+	{
+		"#text": "Номер",
+		"@_name": "yp_ec_number"
+	},
+	{
+		"#text": "Слишком много запросов, попробуйте позже",
+		"@_name": "yp_ec_often"
+	},
+	{
+		"#text": "Другие вопросы",
+		"@_name": "yp_ec_other"
+	},
+	{
+		"#text": "Успешно исправлено",
+		"@_name": "yp_ec_successful"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "yp_ec_wait"
+	},
+	{
+		"#text": "Редактирование перед набором",
+		"@_name": "yp_item_call_edit"
+	},
+	{
+		"#text": "+ %s и набрать",
+		"@_name": "yp_item_default_sim_ip_call"
+	},
+	{
+		"#text": "Звонок с SIM %s",
+		"@_name": "yp_item_sim_card_call"
+	},
+	{
+		"#text": "Звонок с SIM %s + %s",
+		"@_name": "yp_item_sim_card_ip_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SIM %s",
+		"@_name": "yp_item_sim_card_type"
+	},
+	{
+		"#text": "Добавить тег",
+		"@_name": "yp_mark_add"
+	},
+	{
+		"#text": "Изменить тег",
+		"@_name": "yp_mark_change_tag"
+	},
+	{
+		"#text": "Удалить тег",
+		"@_name": "yp_mark_clear_tag"
+	},
+	{
+		"#text": "Пользовательский",
+		"@_name": "yp_mark_user_defined"
+	},
+	{
+		"#text": "Ошибка сети, пожалуйста, попробуйте позже",
+		"@_name": "yp_net_message_network_exception_exception"
+	},
+	{
+		"#text": "Возникло исключение, пожалуйста, попробуйте позже",
+		"@_name": "yp_net_message_network_exception_service"
+	},
+	{
+		"#text": "Уремя ожидания сетевого подключения истекло, повторите попытку позже",
+		"@_name": "yp_net_message_network_exception_time_out"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для перезагрузки",
+		"@_name": "yp_net_message_network_exception_with_refresh"
+	},
+	{
+		"#text": "SIM 1 -",
+		"@_name": "yp_sim_card_1"
+	},
+	{
+		"#text": "SIM 2 -",
+		"@_name": "yp_sim_card_2"
+	},
+	{
+		"#text": "Корпоративный звонок",
+		"@_name": "yp_sip_call_enterprise"
+	},
+	{
+		"#text": "Корпоративный звонок",
+		"@_name": "yp_sip_call_enterprise_call"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "yp_submit"
+	},
+	{
+		"#text": "Входящий",
+		"@_name": "yp_type_incoming"
+	},
+	{
+		"#text": "Отклоненный",
+		"@_name": "yp_type_incoming_reject"
+	},
+	{
+		"#text": "Пропущенный",
+		"@_name": "yp_type_missed"
+	},
+	{
+		"#text": "Исходящий",
+		"@_name": "yp_type_outgoing"
+	},
+	{
+		"#text": "Отменено",
+		"@_name": "yp_type_outgoing_cancelled"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "yp_type_outgoing_failed"
+	},
+	{
+		"#text": "Не подключён",
+		"@_name": "yp_type_outgoing_not_connected"
+	},
+	{
+		"#text": "Голосовая почта",
+		"@_name": "yp_type_voicemail"
+	},
+	{
+		"#text": "Нет сообщений голосовой почты",
+		"@_name": "yp_type_voicemail_fail"
+	}
+]

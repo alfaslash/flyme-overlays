@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="mz_screenbrighness_value_override">20</integer>
-    <integer name="mz_low_luminance_threshold">4</integer>
-</resources>

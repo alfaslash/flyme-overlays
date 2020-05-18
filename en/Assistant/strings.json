@@ -1,0 +1,6405 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "关于我们",
+		"@_name": "about_us"
+	},
+	{
+		"#text": "Help you to get shop order",
+		"@_name": "accessibility_desc"
+	},
+	{
+		"#text": "Finished",
+		"@_name": "action_finished"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Select item",
+		"@_name": "activity_bookmark_select"
+	},
+	{
+		"#text": "Select express",
+		"@_name": "activity_express_select"
+	},
+	{
+		"#text": "%s train",
+		"@_name": "activity_ticket_train_title"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "ad_install_continue"
+	},
+	{
+		"#text": "Addable team",
+		"@_name": "add_team_title"
+	},
+	{
+		"#text": "Suggested Address",
+		"@_name": "address_setting_suggestion_title"
+	},
+	{
+		"#text": "Please Input Address",
+		"@_name": "address_setting_tips"
+	},
+	{
+		"#text": "Vehicle Information",
+		"@_name": "aicy_car_info"
+	},
+	{
+		"#text": "Frequent Address",
+		"@_name": "aicy_set_address"
+	},
+	{
+		"#text": "Set frequent address",
+		"@_name": "aicy_set_address_entry"
+	},
+	{
+		"#text": "After information improved, you can view commute suggestions on Glance, or use voice commands to navigate commute",
+		"@_name": "aicy_set_address_tips"
+	},
+	{
+		"#text": "All to-do history",
+		"@_name": "all_todo_history"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "amc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "amc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "year anniversary",
+		"@_name": "anniversary_title"
+	},
+	{
+		"#text": "\" anniversary\"",
+		"@_name": "anniversary_zero_title"
+	},
+	{
+		"#text": "\\\"Life\\\" has been removed. Install?",
+		"@_name": "app_life_uninstall"
+	},
+	{
+		"#text": "SDKUI",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "app_name_sina_weibo"
+	},
+	{
+		"#text": "TouTiao",
+		"@_name": "app_name_toutiao"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "app_name_wechat"
+	},
+	{
+		"#text": "Aicy Glance",
+		"@_name": "assistant_app_name"
+	},
+	{
+		"#text": "Calendar events",
+		"@_name": "assistant_card_header"
+	},
+	{
+		"#text": "Open",
+		"@_name": "assistant_install_complete_text"
+	},
+	{
+		"#text": "Install",
+		"@_name": "assistant_install_idle_text"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "assistant_install_retry"
+	},
+	{
+		"#text": "Installing…",
+		"@_name": "assistant_installing_text"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "assistant_installing_text_1"
+	},
+	{
+		"#text": "Add a team",
+		"@_name": "assistant_nba_add_team"
+	},
+	{
+		"#text": "Rankings",
+		"@_name": "assistant_nba_board"
+	},
+	{
+		"#text": "NBA Info",
+		"@_name": "assistant_nba_header_title"
+	},
+	{
+		"#text": "No competition recently",
+		"@_name": "assistant_nba_no_match"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "assistant_nba_no_net_work"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "assistant_nba_under_carriage"
+	},
+	{
+		"#text": "No more News",
+		"@_name": "assistant_news_error_no_more"
+	},
+	{
+		"#text": "Failed to load. Please tap to retry",
+		"@_name": "assistant_news_flow_error_click_retry"
+	},
+	{
+		"#text": "Network error. Please try again later",
+		"@_name": "assistant_news_flow_error_head"
+	},
+	{
+		"#text": "Updated %s article(s)",
+		"@_name": "assistant_news_head_loading_complete_text"
+	},
+	{
+		"#text": "\"It's the latest\"",
+		"@_name": "assistant_news_head_no_more"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "assistant_news_loading_text"
+	},
+	{
+		"#text": "No network connection. Please check your network settings",
+		"@_name": "assistant_news_tip_net_not_connected"
+	},
+	{
+		"#text": "More schedules",
+		"@_name": "assistant_view_more_events"
+	},
+	{
+		"#text": "SIM %1$s : %2$s",
+		"@_name": "auto_bind_success_tips"
+	},
+	{
+		"#text": "Background installation",
+		"@_name": "background_install"
+	},
+	{
+		"#text": "Baidu Map",
+		"@_name": "baidu_pkg"
+	},
+	{
+		"#text": "h",
+		"@_name": "behavior_app_total_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "behavior_app_total_minute"
+	},
+	{
+		"#text": "min",
+		"@_name": "behavior_app_total_minute_single"
+	},
+	{
+		"#text": "s",
+		"@_name": "behavior_app_total_second"
+	},
+	{
+		"#text": "Record daily usage",
+		"@_name": "behavior_card_settings_summary"
+	},
+	{
+		"#text": "Continue to use will show more",
+		"@_name": "behavior_hint"
+	},
+	{
+		"#text": "item(s)",
+		"@_name": "behavior_notifications"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "behavior_notifications_desc"
+	},
+	{
+		"#text": "time(s)",
+		"@_name": "behavior_screen_on_times"
+	},
+	{
+		"#text": "Pick up",
+		"@_name": "behavior_screen_on_times_desc"
+	},
+	{
+		"#text": "Usage time",
+		"@_name": "behavior_used_time_desc"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "bind_phone_success_btn"
+	},
+	{
+		"#text": "Get notified when express updates",
+		"@_name": "bind_phone_success_summary"
+	},
+	{
+		"#text": "Bind Phone Success",
+		"@_name": "bind_phone_success_title"
+	},
+	{
+		"#text": "Recognized local number",
+		"@_name": "bind_phone_success_title_1"
+	},
+	{
+		"#text": "year old birthday",
+		"@_name": "birthday_title"
+	},
+	{
+		"#text": "\"'s birthday\"",
+		"@_name": "birthday_zero_title"
+	},
+	{
+		"#text": "My Favorites",
+		"@_name": "bookmark"
+	},
+	{
+		"#text": "Successfully added",
+		"@_name": "bookmark_add_succeed"
+	},
+	{
+		"#text": "To Aicy Glance",
+		"@_name": "bookmark_add_to_my_favorite"
+	},
+	{
+		"#text": "Set auto favorite",
+		"@_name": "bookmark_auto_set"
+	},
+	{
+		"#text": "From: %1$s",
+		"@_name": "bookmark_collect_from"
+	},
+	{
+		"#text": "No Results Found",
+		"@_name": "bookmark_search_failed"
+	},
+	{
+		"#text": "Auto favorite",
+		"@_name": "bookmark_setting_auto_collection"
+	},
+	{
+		"#text": "Sync newly-favorited items of each app",
+		"@_name": "bookmark_setting_auto_collection_tips"
+	},
+	{
+		"#text": "After auto-favorite enabled, you can view newly-added favorites in third-party apps on Glance",
+		"@_name": "bookmark_setting_auto_tips"
+	},
+	{
+		"#text": "Manage auto favorited apps",
+		"@_name": "bookmark_setting_collection_management"
+	},
+	{
+		"#text": "Notifications on auto-favorite",
+		"@_name": "bookmark_setting_success_notification"
+	},
+	{
+		"#text": "Share",
+		"@_name": "bookmark_src_share"
+	},
+	{
+		"#text": "Real-time Bus Info Supported By CheLaiLe",
+		"@_name": "bus_support_tips"
+	},
+	{
+		"#text": "Calendar",
+		"@_name": "calendar_pkg_name"
+	},
+	{
+		"#text": "Cancel alert",
+		"@_name": "cancel_remind"
+	},
+	{
+		"#text": "Connected",
+		"@_name": "car_bl_connected"
+	},
+	{
+		"#text": "Driving Duration",
+		"@_name": "car_driving_duration"
+	},
+	{
+		"#text": "Navigate",
+		"@_name": "card_action_navigate"
+	},
+	{
+		"#text": "Added",
+		"@_name": "card_added"
+	},
+	{
+		"#text": "App Suggestion",
+		"@_name": "card_app_suggestion_title"
+	},
+	{
+		"#text": "Cyber safety",
+		"@_name": "card_behavior_title"
+	},
+	{
+		"#text": "My Favorite",
+		"@_name": "card_bookmark_title"
+	},
+	{
+		"#text": "Article",
+		"@_name": "card_bookmark_type_article"
+	},
+	{
+		"#text": "Hotword",
+		"@_name": "card_bookmark_type_hotword"
+	},
+	{
+		"#text": "Video",
+		"@_name": "card_bookmark_type_video"
+	},
+	{
+		"#text": "All collections",
+		"@_name": "card_bookmark_view_all"
+	},
+	{
+		"#text": "The last 4 digits of credit card number",
+		"@_name": "card_credit_bill_card_number"
+	},
+	{
+		"#text": "From",
+		"@_name": "card_credit_bill_from"
+	},
+	{
+		"#text": "Credit card bill",
+		"@_name": "card_credit_bill_menu_title"
+	},
+	{
+		"#text": "%1$s bill: ¥%2$s",
+		"@_name": "card_credit_bill_need_repay"
+	},
+	{
+		"#text": "%1$s bill to repay",
+		"@_name": "card_credit_bill_need_repay_no_money"
+	},
+	{
+		"#text": "Repay",
+		"@_name": "card_credit_bill_repay"
+	},
+	{
+		"#text": "Repayment day",
+		"@_name": "card_credit_bill_repay_date"
+	},
+	{
+		"#text": "Credit card repay",
+		"@_name": "card_credit_bill_title"
+	},
+	{
+		"#text": "Data Recharge",
+		"@_name": "card_dataplan_btn"
+	},
+	{
+		"#text": "Setup traffic statics",
+		"@_name": "card_dataplan_guide_1"
+	},
+	{
+		"#text": "Setup traffic statics for card %s",
+		"@_name": "card_dataplan_guide_2"
+	},
+	{
+		"#text": "%1$s days left for traffic settlement",
+		"@_name": "card_dataplan_info"
+	},
+	{
+		"#text": "Traffic statics",
+		"@_name": "card_dataplan_menu_title"
+	},
+	{
+		"#text": "View card %1$s",
+		"@_name": "card_dataplan_switch"
+	},
+	{
+		"#text": "Data usage",
+		"@_name": "card_dataplan_title"
+	},
+	{
+		"#text": "Daily used",
+		"@_name": "card_dataplan_title_day_used"
+	},
+	{
+		"#text": "Remained",
+		"@_name": "card_dataplan_title_month_left"
+	},
+	{
+		"#text": "Excessive consumption than monthly plan",
+		"@_name": "card_dataplan_title_month_over"
+	},
+	{
+		"#text": "Monthly used",
+		"@_name": "card_dataplan_title_month_used"
+	},
+	{
+		"#text": "Set company or school Address",
+		"@_name": "card_driver_route_address_setting_company"
+	},
+	{
+		"#text": "Set Home Address",
+		"@_name": "card_driver_route_address_setting_home"
+	},
+	{
+		"#text": "Tap to Set",
+		"@_name": "card_driver_route_address_setting_title"
+	},
+	{
+		"#text": "Work Route",
+		"@_name": "card_driver_route_btn_go_company"
+	},
+	{
+		"#text": "Taxi",
+		"@_name": "card_driver_route_btn_go_didi"
+	},
+	{
+		"#text": "Taxi to work",
+		"@_name": "card_driver_route_btn_go_didi_company"
+	},
+	{
+		"#text": "Taxi to Home",
+		"@_name": "card_driver_route_btn_go_didi_home"
+	},
+	{
+		"#text": "Home Route",
+		"@_name": "card_driver_route_btn_go_home"
+	},
+	{
+		"#text": "Setting",
+		"@_name": "card_driver_route_btn_setting"
+	},
+	{
+		"#text": "Exist %1$s    Suggest taking %2$s;%3$s has %4$s m %1$s",
+		"@_name": "card_driver_route_crowed_road_info"
+	},
+	{
+		"#text": "Go to company",
+		"@_name": "card_driver_route_go_company"
+	},
+	{
+		"#text": "Go Home",
+		"@_name": "card_driver_route_go_home"
+	},
+	{
+		"#text": "Drive %s minutes",
+		"@_name": "card_driver_route_go_homeOrCompany_time"
+	},
+	{
+		"#text": "Loading driver route",
+		"@_name": "card_driver_route_loading"
+	},
+	{
+		"#text": "Already located near Company",
+		"@_name": "card_driver_route_nearby_company"
+	},
+	{
+		"#text": "Already located near Home",
+		"@_name": "card_driver_route_nearby_home"
+	},
+	{
+		"#text": "Already located nearby",
+		"@_name": "card_driver_route_position_description"
+	},
+	{
+		"#text": "Distance to Company: %s Km",
+		"@_name": "card_driver_route_position_description_distance_company"
+	},
+	{
+		"#text": "Distance to Home: %s Km",
+		"@_name": "card_driver_route_position_description_distance_home"
+	},
+	{
+		"#text": "Now road unblocked    Suggest going %s",
+		"@_name": "card_driver_route_road_info"
+	},
+	{
+		"#text": "Now road unblocked",
+		"@_name": "card_driver_route_road_info_no_roadname"
+	},
+	{
+		"#text": "Get address by Aicy",
+		"@_name": "card_driver_route_setting_get_address_auto"
+	},
+	{
+		"#text": "Company or school",
+		"@_name": "card_driver_route_setting_position_company"
+	},
+	{
+		"#text": "Home",
+		"@_name": "card_driver_route_setting_position_home"
+	},
+	{
+		"#text": "Set home and company address",
+		"@_name": "card_driver_route_setting_tips"
+	},
+	{
+		"#text": "Commuter traffic",
+		"@_name": "card_driver_route_title"
+	},
+	{
+		"#text": "Card sample",
+		"@_name": "card_example_tips"
+	},
+	{
+		"#text": "Expand",
+		"@_name": "card_expand"
+	},
+	{
+		"#text": "Contact express company",
+		"@_name": "card_express_contact_official"
+	},
+	{
+		"#text": "Contact the dispatcher",
+		"@_name": "card_express_contact_sender"
+	},
+	{
+		"#text": "Express Detail",
+		"@_name": "card_express_detail"
+	},
+	{
+		"#text": "Expand",
+		"@_name": "card_express_fold"
+	},
+	{
+		"#text": "No Express Information",
+		"@_name": "card_express_mail_fail"
+	},
+	{
+		"#text": "All Express Info",
+		"@_name": "card_express_mail_more"
+	},
+	{
+		"#text": "Order: %1$s",
+		"@_name": "card_express_mail_no"
+	},
+	{
+		"#text": "Express reminder",
+		"@_name": "card_express_menu_title"
+	},
+	{
+		"#text": "Express reminder",
+		"@_name": "card_express_title"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "card_express_unfold"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "card_fold"
+	},
+	{
+		"#text": "Show greetings based on occasions",
+		"@_name": "card_greeting_summary"
+	},
+	{
+		"#text": "Greetings",
+		"@_name": "card_greeting_title"
+	},
+	{
+		"#text": "Track real-time news",
+		"@_name": "card_hot_news_summary"
+	},
+	{
+		"#text": "News",
+		"@_name": "card_hot_news_title"
+	},
+	{
+		"#text": "Go to hotel",
+		"@_name": "card_hotel_action_navigate"
+	},
+	{
+		"#text": "Address",
+		"@_name": "card_hotel_address"
+	},
+	{
+		"#text": "Breakfast",
+		"@_name": "card_hotel_breakfast"
+	},
+	{
+		"#text": "Check in %1$s",
+		"@_name": "card_hotel_check_in_at"
+	},
+	{
+		"#text": "Check-in",
+		"@_name": "card_hotel_checkin"
+	},
+	{
+		"#text": "Check-out",
+		"@_name": "card_hotel_checkout"
+	},
+	{
+		"#text": "Contact hotel",
+		"@_name": "card_hotel_dial"
+	},
+	{
+		"#text": "Check-In",
+		"@_name": "card_hotel_medium_enter"
+	},
+	{
+		"#text": "Leave",
+		"@_name": "card_hotel_medium_leave"
+	},
+	{
+		"#text": "Hotel",
+		"@_name": "card_hotel_menu_title"
+	},
+	{
+		"#text": "%1$s Nights",
+		"@_name": "card_hotel_night_number"
+	},
+	{
+		"#text": "Number of rooms",
+		"@_name": "card_hotel_room_num"
+	},
+	{
+		"#text": "Room type",
+		"@_name": "card_hotel_room_type"
+	},
+	{
+		"#text": "Hotel reminder",
+		"@_name": "card_hotel_title"
+	},
+	{
+		"#text": "--",
+		"@_name": "card_information_unknown_placeholder"
+	},
+	{
+		"#text": "Tap to order",
+		"@_name": "card_life_takeaway_tips"
+	},
+	{
+		"#text": "Manage Card",
+		"@_name": "card_manager"
+	},
+	{
+		"#text": "More",
+		"@_name": "card_mini_app_item_more"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "card_mini_app_item_switch"
+	},
+	{
+		"#text": "Pull down cards to show most-used Quick Apps",
+		"@_name": "card_mini_card_summary"
+	},
+	{
+		"#text": "Most used Quick Apps",
+		"@_name": "card_mini_card_title"
+	},
+	{
+		"#text": "More tickets",
+		"@_name": "card_myticket_more_btn"
+	},
+	{
+		"#text": "My Tickets",
+		"@_name": "card_myticket_title"
+	},
+	{
+		"#text": "No. ends with %s",
+		"@_name": "card_number"
+	},
+	{
+		"#text": "Driving Duration",
+		"@_name": "card_parking_driving_duration"
+	},
+	{
+		"#text": "Parking Position",
+		"@_name": "card_parking_menu_title"
+	},
+	{
+		"#text": "Parking Duration",
+		"@_name": "card_parking_parking_duration"
+	},
+	{
+		"#text": "Parking Position and Duration",
+		"@_name": "card_parking_summary"
+	},
+	{
+		"#text": "Parking Position",
+		"@_name": "card_parking_title"
+	},
+	{
+		"#text": "More record",
+		"@_name": "card_paymentset_more_btn"
+	},
+	{
+		"#text": "Payments",
+		"@_name": "card_paymentset_title"
+	},
+	{
+		"#text": "Place",
+		"@_name": "card_place_menu_title"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "card_place_pop_menu_item"
+	},
+	{
+		"#text": "Ignore this reminder",
+		"@_name": "card_place_pop_menu_item_1"
+	},
+	{
+		"#text": "Buy movie tickets",
+		"@_name": "card_place_service_film_name"
+	},
+	{
+		"#text": "Place Services",
+		"@_name": "card_place_title"
+	},
+	{
+		"#text": "Go to airport",
+		"@_name": "card_plane_action_navigate"
+	},
+	{
+		"#text": "Luggage carousel",
+		"@_name": "card_plane_baggage_carousel"
+	},
+	{
+		"#text": "Boarding gate",
+		"@_name": "card_plane_boarding_plain"
+	},
+	{
+		"#text": "Flight reminder",
+		"@_name": "card_plane_menu_title"
+	},
+	{
+		"#text": "Flight number",
+		"@_name": "card_plane_num"
+	},
+	{
+		"#text": "Flight number",
+		"@_name": "card_plane_number"
+	},
+	{
+		"#text": "Passenger",
+		"@_name": "card_plane_passenger"
+	},
+	{
+		"#text": "Go to airport",
+		"@_name": "card_plane_path"
+	},
+	{
+		"#text": "Check in",
+		"@_name": "card_plane_plain_counter"
+	},
+	{
+		"#text": "Arrived",
+		"@_name": "card_plane_state_arriv"
+	},
+	{
+		"#text": "Flight canceled",
+		"@_name": "card_plane_state_cancle"
+	},
+	{
+		"#text": "Take off %1$s",
+		"@_name": "card_plane_take_off_at"
+	},
+	{
+		"#text": "Take off in %1$s",
+		"@_name": "card_plane_take_off_in"
+	},
+	{
+		"#text": "Flight date",
+		"@_name": "card_plane_time"
+	},
+	{
+		"#text": "Flight reminder",
+		"@_name": "card_plane_title"
+	},
+	{
+		"#text": "Seat",
+		"@_name": "card_plane_train_seat_title"
+	},
+	{
+		"#text": "Boarding time",
+		"@_name": "card_plane_train_time"
+	},
+	{
+		"#text": "Arrive in %s",
+		"@_name": "card_route_arrive_in"
+	},
+	{
+		"#text": "Arrived",
+		"@_name": "card_route_arrived"
+	},
+	{
+		"#text": "%1$s###arrive %2$s station###in%3$s",
+		"@_name": "card_route_bus_arrive_station_in_time"
+	},
+	{
+		"#text": "Off Station",
+		"@_name": "card_route_bus_off_station"
+	},
+	{
+		"#text": "On station",
+		"@_name": "card_route_bus_on_station"
+	},
+	{
+		"#text": "Real-time buses state",
+		"@_name": "card_route_bus_real_time_state"
+	},
+	{
+		"#text": "%1$s minutes###%2$s meters",
+		"@_name": "card_route_bus_time_minute_and_walk_distance"
+	},
+	{
+		"#text": "Drive",
+		"@_name": "card_route_drive"
+	},
+	{
+		"#text": "No route",
+		"@_name": "card_route_empty_lines"
+	},
+	{
+		"#text": "Go to %s",
+		"@_name": "card_route_go_to_direction"
+	},
+	{
+		"#text": "Recognizing company address",
+		"@_name": "card_route_learning_company"
+	},
+	{
+		"#text": "Recognizing home address",
+		"@_name": "card_route_learning_home"
+	},
+	{
+		"#text": "More bus route",
+		"@_name": "card_route_more_bus"
+	},
+	{
+		"#text": "Get on %s",
+		"@_name": "card_route_on_station"
+	},
+	{
+		"#text": "Setup company address",
+		"@_name": "card_route_setting_company"
+	},
+	{
+		"#text": "Setup home address",
+		"@_name": "card_route_setting_home"
+	},
+	{
+		"#text": "%s KM ### %s RMB estimated",
+		"@_name": "card_route_taxi_money_info",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Install",
+		"@_name": "card_route_ygkj_banner_button"
+	},
+	{
+		"#text": "Install Bus Coming app",
+		"@_name": "card_route_ygkj_banner_summary"
+	},
+	{
+		"#text": "Get more real-time bus info",
+		"@_name": "card_route_ygkj_banner_title"
+	},
+	{
+		"#text": "%s update",
+		"@_name": "card_sbu_express_time"
+	},
+	{
+		"#text": "Card setting",
+		"@_name": "card_setting"
+	},
+	{
+		"#text": "Apps and functions you may need By Aicy",
+		"@_name": "card_settings_app_suggestion_summary"
+	},
+	{
+		"#text": "Advice",
+		"@_name": "card_settings_app_suggestion_title"
+	},
+	{
+		"#text": "Aggregate contents in different apps",
+		"@_name": "card_settings_bookmark_summary"
+	},
+	{
+		"#text": "My favorite",
+		"@_name": "card_settings_bookmark_title"
+	},
+	{
+		"#text": "Show Calendar events",
+		"@_name": "card_settings_calendar_summary"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "card_settings_calendar_title"
+	},
+	{
+		"#text": "Show data plan usage",
+		"@_name": "card_settings_data_plan_summary"
+	},
+	{
+		"#text": "Data used",
+		"@_name": "card_settings_data_plan_title"
+	},
+	{
+		"#text": "Commuter traffic and expected time",
+		"@_name": "card_settings_driver_route_summary"
+	},
+	{
+		"#text": "Commuter traffic",
+		"@_name": "card_settings_driver_route_title"
+	},
+	{
+		"#text": "Show recently read",
+		"@_name": "card_settings_ebook_summary"
+	},
+	{
+		"#text": "Resume reading",
+		"@_name": "card_settings_ebook_title"
+	},
+	{
+		"#text": "After binding the phone number, the associated express info will synchronously display",
+		"@_name": "card_settings_express_bind_summary"
+	},
+	{
+		"#text": "Aggregate and track express delivery info",
+		"@_name": "card_settings_express_summary"
+	},
+	{
+		"#text": "Supported",
+		"@_name": "card_settings_express_support"
+	},
+	{
+		"#text": "Express updates",
+		"@_name": "card_settings_express_title"
+	},
+	{
+		"#text": "Enabling card will install Meizu calendar",
+		"@_name": "card_settings_install_calendar_summary"
+	},
+	{
+		"#text": "Enabling card will install Meizu EBook",
+		"@_name": "card_settings_install_ebook_summary"
+	},
+	{
+		"#text": "Enabling card will install Meizu Life",
+		"@_name": "card_settings_install_life_summary"
+	},
+	{
+		"#text": "Enabling card will install Meizu music",
+		"@_name": "card_settings_install_music_summary"
+	},
+	{
+		"#text": "Enabling card will install Meizu Notes",
+		"@_name": "card_settings_install_notepaper_summary"
+	},
+	{
+		"#text": "Enabling card will install Meizu Pedometer",
+		"@_name": "card_settings_install_pedo_summary"
+	},
+	{
+		"#text": "Enabling card will install Meizu video",
+		"@_name": "card_settings_install_video_summary"
+	},
+	{
+		"#text": "Activating the card will install Meizu Wallet",
+		"@_name": "card_settings_install_wallet_summary"
+	},
+	{
+		"#text": "Recommended music",
+		"@_name": "card_settings_music_summary"
+	},
+	{
+		"#text": "Music",
+		"@_name": "card_settings_music_title"
+	},
+	{
+		"#text": "Shortcut to deal with the recent to-dos",
+		"@_name": "card_settings_notepaper_summary"
+	},
+	{
+		"#text": "To-do",
+		"@_name": "card_settings_notepaper_title"
+	},
+	{
+		"#text": "Record parking position &amp; duration",
+		"@_name": "card_settings_parking_summary"
+	},
+	{
+		"#text": "Parking mark",
+		"@_name": "card_settings_parking_title"
+	},
+	{
+		"#text": "Quick start specific function in app",
+		"@_name": "card_settings_quick_action_summary"
+	},
+	{
+		"#text": "Shortcuts",
+		"@_name": "card_settings_quick_action_title"
+	},
+	{
+		"#text": "Show credit card info",
+		"@_name": "card_settings_recharge_credit"
+	},
+	{
+		"#text": "Top-up, card repay, and violation reminder",
+		"@_name": "card_settings_recharge_summary"
+	},
+	{
+		"#text": "Show phone bill",
+		"@_name": "card_settings_recharge_telephony"
+	},
+	{
+		"#text": "Card repay &amp; utilities",
+		"@_name": "card_settings_recharge_title"
+	},
+	{
+		"#text": "Show violation information",
+		"@_name": "card_settings_recharge_voilation"
+	},
+	{
+		"#text": "Provide services according to your location",
+		"@_name": "card_settings_scene_summary"
+	},
+	{
+		"#text": "Scene",
+		"@_name": "card_settings_scene_title"
+	},
+	{
+		"#text": "Sleep duration analysis",
+		"@_name": "card_settings_sleep_summary"
+	},
+	{
+		"#text": "Sleep analysis",
+		"@_name": "card_settings_sleep_title"
+	},
+	{
+		"#text": "Daily steps, distance and calories of exercise",
+		"@_name": "card_settings_sport_summary"
+	},
+	{
+		"#text": "Sports Recorder",
+		"@_name": "card_settings_sport_title"
+	},
+	{
+		"#text": "Recommended stocks",
+		"@_name": "card_settings_stock_summary"
+	},
+	{
+		"#text": "Stock",
+		"@_name": "card_settings_stock_title"
+	},
+	{
+		"#text": "Show recently watched movies",
+		"@_name": "card_settings_subscribe_video_summary"
+	},
+	{
+		"#text": "Watch video",
+		"@_name": "card_settings_subscribe_video_title"
+	},
+	{
+		"#text": "Recommended order-in",
+		"@_name": "card_settings_takeout_food_summary"
+	},
+	{
+		"#text": "Order-in",
+		"@_name": "card_settings_takeout_food_title"
+	},
+	{
+		"#text": "Tickets for train, plane, hotel",
+		"@_name": "card_settings_ticket_summary"
+	},
+	{
+		"#text": "My Tickets",
+		"@_name": "card_settings_ticket_title"
+	},
+	{
+		"#text": "\"Hi \"",
+		"@_name": "card_settings_user_tips"
+	},
+	{
+		"#text": "Gather your attention By Aicy Glance",
+		"@_name": "card_settings_user_title"
+	},
+	{
+		"#text": "Show to-do histroy",
+		"@_name": "card_show_history"
+	},
+	{
+		"#text": "Show News in Card",
+		"@_name": "card_show_news"
+	},
+	{
+		"#text": "Setup personal info",
+		"@_name": "card_step_add_info"
+	},
+	{
+		"#text": "Kilocalorie",
+		"@_name": "card_step_calorie"
+	},
+	{
+		"#text": "Steps",
+		"@_name": "card_step_count"
+	},
+	{
+		"#text": "Kilometer",
+		"@_name": "card_step_distance"
+	},
+	{
+		"#text": "m",
+		"@_name": "card_step_distance_metre"
+	},
+	{
+		"#text": "Install Pedometer",
+		"@_name": "card_step_install_tips"
+	},
+	{
+		"#text": "Meizu Pedometer",
+		"@_name": "card_step_menu_title"
+	},
+	{
+		"#text": "Motion step",
+		"@_name": "card_step_title"
+	},
+	{
+		"#text": "Failed to bind because of no IEMI",
+		"@_name": "card_sub_bind_device_imei_null"
+	},
+	{
+		"#text": "Give up",
+		"@_name": "card_sub_bind_dialog_1"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "card_sub_bind_dialog_2"
+	},
+	{
+		"#text": "OK",
+		"@_name": "card_sub_bind_dialog_3"
+	},
+	{
+		"#text": "Unbind",
+		"@_name": "card_sub_bind_dialog_4"
+	},
+	{
+		"#text": "Wrong verification code",
+		"@_name": "card_sub_bind_err_1"
+	},
+	{
+		"#text": "This number has already been bound",
+		"@_name": "card_sub_bind_err_2"
+	},
+	{
+		"#text": "Failed to bind phone number. Please try again later",
+		"@_name": "card_sub_bind_err_3"
+	},
+	{
+		"#text": "Give up to bind phone number?",
+		"@_name": "card_sub_bind_exit"
+	},
+	{
+		"#text": "Bind other phone number",
+		"@_name": "card_sub_bind_other"
+	},
+	{
+		"#text": "Once Phone Number Bond Your Express Delivery Info Will be Shown on Aicy Glance",
+		"@_name": "card_sub_bind_tips_title_1"
+	},
+	{
+		"#text": "The following phone numbers has been bound. You can check the corresponding package info in Glance",
+		"@_name": "card_sub_bind_tips_title_2"
+	},
+	{
+		"#text": "Bind the Phone Number",
+		"@_name": "card_sub_bind_tips_title_4"
+	},
+	{
+		"#text": "Service Provided by TaoBao, JingDong, Meizu Mall, etc.",
+		"@_name": "card_sub_bind_tips_txt"
+	},
+	{
+		"#text": "Bind phone number",
+		"@_name": "card_sub_bind_title"
+	},
+	{
+		"#text": "Add phone number",
+		"@_name": "card_sub_btn_add_txt"
+	},
+	{
+		"#text": "Done",
+		"@_name": "card_sub_btn_bind_complete"
+	},
+	{
+		"#text": "Binding",
+		"@_name": "card_sub_btn_bind_progress"
+	},
+	{
+		"#text": "Succeed to bind",
+		"@_name": "card_sub_btn_bind_success"
+	},
+	{
+		"#text": "Bind phone number",
+		"@_name": "card_sub_btn_bind_txt"
+	},
+	{
+		"#text": "Bind and subscribe",
+		"@_name": "card_sub_btn_bind_txt2"
+	},
+	{
+		"#text": "Fail to unbind",
+		"@_name": "card_sub_btn_unbind_fail"
+	},
+	{
+		"#text": "Unbinding",
+		"@_name": "card_sub_btn_unbind_progress"
+	},
+	{
+		"#text": "Succeed to unbind",
+		"@_name": "card_sub_btn_unbind_success"
+	},
+	{
+		"#text": "Phone number",
+		"@_name": "card_sub_et_hint1"
+	},
+	{
+		"#text": "Verification code",
+		"@_name": "card_sub_et_hint2"
+	},
+	{
+		"#text": "Express updates",
+		"@_name": "card_sub_express_menu_title"
+	},
+	{
+		"#text": "Tap to view details",
+		"@_name": "card_sub_express_tip_detail"
+	},
+	{
+		"#text": "Bind Phone Number to Track Express Delivery",
+		"@_name": "card_sub_express_tip_title"
+	},
+	{
+		"#text": "Express updates",
+		"@_name": "card_sub_express_title"
+	},
+	{
+		"#text": "You agree if you bind your phone number",
+		"@_name": "card_sub_service_agreement"
+	},
+	{
+		"#text": "Service agreement",
+		"@_name": "card_sub_service_agreement_1"
+	},
+	{
+		"#text": "Service agreement",
+		"@_name": "card_sub_service_agreement_title"
+	},
+	{
+		"#text": "Your will not receive express updates after unbinding",
+		"@_name": "card_sub_unbind_dialog_title"
+	},
+	{
+		"#text": "Forget",
+		"@_name": "card_sync_remind_btn_dont_keep"
+	},
+	{
+		"#text": "Keep",
+		"@_name": "card_sync_remind_btn_keep"
+	},
+	{
+		"#text": "Keep old account %1$s data?",
+		"@_name": "card_sync_remind_desc"
+	},
+	{
+		"#text": "Keep old account data?",
+		"@_name": "card_sync_remind_desc_no_name"
+	},
+	{
+		"#text": "You logged into new flyme account",
+		"@_name": "card_sync_remind_message"
+	},
+	{
+		"#text": "Sync remind",
+		"@_name": "card_sync_remind_title"
+	},
+	{
+		"#text": "Get on in %s min",
+		"@_name": "card_taxi_depart"
+	},
+	{
+		"#text": "Taxi %s min",
+		"@_name": "card_taxi_route_go_homeOrCompany_time"
+	},
+	{
+		"#text": "Deadline",
+		"@_name": "card_telephone_end_time"
+	},
+	{
+		"#text": "Phone arrears %s",
+		"@_name": "card_telephone_fare_arrears_number"
+	},
+	{
+		"#text": "Telephone balance is less than ¥%s",
+		"@_name": "card_telephone_fare_number"
+	},
+	{
+		"#text": "Top up",
+		"@_name": "card_telephone_repay"
+	},
+	{
+		"#text": "Telephony Fare Reminder",
+		"@_name": "card_telephone_title"
+	},
+	{
+		"#text": "Ignore this reminder",
+		"@_name": "card_ticket_ignore_tips"
+	},
+	{
+		"#text": "Add",
+		"@_name": "card_to_add"
+	},
+	{
+		"#text": "Traffic violation",
+		"@_name": "card_traffic_menu_title"
+	},
+	{
+		"#text": "Query",
+		"@_name": "card_traffic_view_voilation"
+	},
+	{
+		"#text": "Traffic violation reminder",
+		"@_name": "card_traffic_violation_title"
+	},
+	{
+		"#text": "Go to train station",
+		"@_name": "card_train_action_navigate"
+	},
+	{
+		"#text": "Destination",
+		"@_name": "card_train_arrive_station_selection"
+	},
+	{
+		"#text": "Depart %1$s",
+		"@_name": "card_train_depart_at"
+	},
+	{
+		"#text": "Depart in %1$s",
+		"@_name": "card_train_depart_in"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "card_train_loading_online_info"
+	},
+	{
+		"#text": "Train reminder",
+		"@_name": "card_train_menu_title"
+	},
+	{
+		"#text": "Please connect to network",
+		"@_name": "card_train_no_network"
+	},
+	{
+		"#text": "Seat",
+		"@_name": "card_train_seat"
+	},
+	{
+		"#text": "Timetable",
+		"@_name": "card_train_stations"
+	},
+	{
+		"#text": "Train reminder",
+		"@_name": "card_train_title"
+	},
+	{
+		"#text": "More videos",
+		"@_name": "card_video_more"
+	},
+	{
+		"#text": "Real-time weather",
+		"@_name": "card_weather_title"
+	},
+	{
+		"#text": "No App Center installed to download DirectService",
+		"@_name": "check_appcenter_failure"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Click to Shot",
+		"@_name": "click_to_shot"
+	},
+	{
+		"#text": "no interest",
+		"@_name": "close_item_pop"
+	},
+	{
+		"#text": "%1$s kilometres",
+		"@_name": "commute_distance_kilometre"
+	},
+	{
+		"#text": "%1$s metres",
+		"@_name": "commute_distance_metre"
+	},
+	{
+		"#text": "1 minute",
+		"@_name": "commute_time_1m"
+	},
+	{
+		"#text": "Day after tomorrow",
+		"@_name": "commute_time_after_tomorrow"
+	},
+	{
+		"#text": "Soon",
+		"@_name": "commute_time_almost"
+	},
+	{
+		"#text": "%1$s days",
+		"@_name": "commute_time_days"
+	},
+	{
+		"#text": "%1$s days %2$s hours",
+		"@_name": "commute_time_days_and_hours"
+	},
+	{
+		"#text": "%1$s hours",
+		"@_name": "commute_time_hours"
+	},
+	{
+		"#text": "%1$s hours %2$s minutes",
+		"@_name": "commute_time_hours_and_minutes"
+	},
+	{
+		"#text": "%1$s hours ago",
+		"@_name": "commute_time_hours_before"
+	},
+	{
+		"#text": "%1$s minutes",
+		"@_name": "commute_time_minutes"
+	},
+	{
+		"#text": "%1$s minutes ago",
+		"@_name": "commute_time_minutes_before"
+	},
+	{
+		"#text": "More than %1$s hours",
+		"@_name": "commute_time_more_than_x_hours"
+	},
+	{
+		"#text": "Just",
+		"@_name": "commute_time_now"
+	},
+	{
+		"#text": "Today",
+		"@_name": "commute_time_today"
+	},
+	{
+		"#text": "Tomorrow",
+		"@_name": "commute_time_tomorrow"
+	},
+	{
+		"#text": "%1$s years %2$s days",
+		"@_name": "commute_time_years_and_days"
+	},
+	{
+		"#text": "\"When Bluetooth Disconnected\nYour Parking Will be Marked\"",
+		"@_name": "connect_bl"
+	},
+	{
+		"#text": "-- --",
+		"@_name": "content_na"
+	},
+	{
+		"#text": "Improper parameter",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Daily travel",
+		"@_name": "daily_way"
+	},
+	{
+		"#text": "Reschedule",
+		"@_name": "daily_way_change_settings"
+	},
+	{
+		"#text": "Company",
+		"@_name": "daily_way_company"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "daily_way_custom"
+	},
+	{
+		"#text": "Destination",
+		"@_name": "daily_way_destination"
+	},
+	{
+		"#text": "Destination",
+		"@_name": "daily_way_destination_address"
+	},
+	{
+		"#text": "Custom label",
+		"@_name": "daily_way_destination_address_custom_lable"
+	},
+	{
+		"#text": "Home",
+		"@_name": "daily_way_home"
+	},
+	{
+		"#text": "Planning navigation",
+		"@_name": "daily_way_navigating"
+	},
+	{
+		"#text": "It takes %2$s to %1$s",
+		"@_name": "daily_way_need_time"
+	},
+	{
+		"#text": "No recommendation",
+		"@_name": "daily_way_no_display"
+	},
+	{
+		"#text": "Pass by",
+		"@_name": "daily_way_passby"
+	},
+	{
+		"#text": "Go to settings",
+		"@_name": "daily_way_please_setting"
+	},
+	{
+		"#text": "Save?",
+		"@_name": "daily_way_save_comfirm"
+	},
+	{
+		"#text": "School",
+		"@_name": "daily_way_school"
+	},
+	{
+		"#text": "Too far away from the goal",
+		"@_name": "daily_way_too_far"
+	},
+	{
+		"#text": "Only %1$.0f meters away from your goal",
+		"@_name": "daily_way_too_near"
+	},
+	{
+		"#text": "Vehicle",
+		"@_name": "daily_way_type"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Card Name",
+		"@_name": "def_card_name"
+	},
+	{
+		"#text": "This is a message",
+		"@_name": "def_des"
+	},
+	{
+		"#text": "Action",
+		"@_name": "def_footer_but"
+	},
+	{
+		"#text": "see more",
+		"@_name": "def_see_more"
+	},
+	{
+		"#text": "This is a title",
+		"@_name": "def_title"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Delete %d to-do(s)",
+		"@_name": "delete_todo"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "deleting"
+	},
+	{
+		"#text": "Locating Your Parking",
+		"@_name": "disconnect_bl"
+	},
+	{
+		"#text": "Distance to Parking",
+		"@_name": "distance_to_parking"
+	},
+	{
+		"#text": "Ignore this mark",
+		"@_name": "do_not_record"
+	},
+	{
+		"#text": "Drag to re-order",
+		"@_name": "drag_sort"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_air_arriver_city"
+	},
+	{
+		"#text": "到达时间",
+		"@_name": "duoqu_air_arriver_date"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_air_departure_city"
+	},
+	{
+		"#text": "出发时间",
+		"@_name": "duoqu_air_departure_date"
+	},
+	{
+		"#text": "航班号",
+		"@_name": "duoqu_air_flight_num"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_air_number"
+	},
+	{
+		"#text": "上午",
+		"@_name": "duoqu_am"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_arrive_city"
+	},
+	{
+		"#text": "到达时间",
+		"@_name": "duoqu_arrive_datetime"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_bub_dialog_content"
+	},
+	{
+		"#text": "提示",
+		"@_name": "duoqu_bub_dialog_title"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_bub_popmenu_content"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "duoqu_bub_web_aboutus"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "duoqu_bub_web_close"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "duoqu_bub_web_loading"
+	},
+	{
+		"#text": "解除默认选择",
+		"@_name": "duoqu_bub_web_reset"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_bubble_flight_arrive"
+	},
+	{
+		"#text": "；",
+		"@_name": "duoqu_bubble_money_split"
+	},
+	{
+		"#text": "收起",
+		"@_name": "duoqu_bubble_more_info_hide"
+	},
+	{
+		"#text": "更多",
+		"@_name": "duoqu_bubble_more_info_show"
+	},
+	{
+		"#text": "（更多信息请点击显示原文）",
+		"@_name": "duoqu_bubble_more_info_show_extend"
+	},
+	{
+		"#text": "派送中",
+		"@_name": "duoqu_bubble_post_sending"
+	},
+	{
+		"#text": "派送状态",
+		"@_name": "duoqu_bubble_post_title"
+	},
+	{
+		"#text": "，",
+		"@_name": "duoqu_bubble_train_seat_split"
+	},
+	{
+		"#text": "-",
+		"@_name": "duoqu_bubble_ui_part_air_train_split"
+	},
+	{
+		"#text": "来电",
+		"@_name": "duoqu_call"
+	},
+	{
+		"#text": "骚扰电话",
+		"@_name": "duoqu_call_harass"
+	},
+	{
+		"#text": "拨打电话",
+		"@_name": "duoqu_call_phone"
+	},
+	{
+		"#text": "陌生人",
+		"@_name": "duoqu_call_stranger"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_call_unknown"
+	},
+	{
+		"#text": "呼叫时间",
+		"@_name": "duoqu_calls_callingtime"
+	},
+	{
+		"#text": "来电时间",
+		"@_name": "duoqu_calls_calltime"
+	},
+	{
+		"#text": "来电次数",
+		"@_name": "duoqu_calls_frequency"
+	},
+	{
+		"#text": "末次时间",
+		"@_name": "duoqu_calls_last_calltime"
+	},
+	{
+		"#text": "来电时状态",
+		"@_name": "duoqu_calls_ownstate"
+	},
+	{
+		"#text": "来电识别",
+		"@_name": "duoqu_calls_reminder_discern_call"
+	},
+	{
+		"#text": "电话号码",
+		"@_name": "duoqu_calls_reminder_side_phone_num"
+	},
+	{
+		"#text": "对方归属地",
+		"@_name": "duoqu_calls_sideattribution"
+	},
+	{
+		"#text": "对方状态",
+		"@_name": "duoqu_calls_sidestate"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_cancel"
+	},
+	{
+		"#text": "[一-龥]",
+		"@_name": "duoqu_chinese"
+	},
+	{
+		"#text": "充值",
+		"@_name": "duoqu_chonzhi"
+	},
+	{
+		"#text": "：",
+		"@_name": "duoqu_colon"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_confirm"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_defult_gray_text"
+	},
+	{
+		"#text": "删除",
+		"@_name": "duoqu_delete"
+	},
+	{
+		"#text": "delete",
+		"@_name": "duoqu_delete_eg"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "duoqu_delete_en"
+	},
+	{
+		"#text": "刪除",
+		"@_name": "duoqu_delete_tw"
+	},
+	{
+		"#text": "删除",
+		"@_name": "duoqu_delete_zh"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_depart_city"
+	},
+	{
+		"#text": "出发时间",
+		"@_name": "duoqu_depart_datetime"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_dialog_content"
+	},
+	{
+		"#text": "提示",
+		"@_name": "duoqu_dialog_title"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_direction"
+	},
+	{
+		"#text": "— —",
+		"@_name": "duoqu_double_line"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_double_line_an"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_double_line_arr_time"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_double_line_dep_time"
+	},
+	{
+		"#text": "- -",
+		"@_name": "duoqu_double_line_en"
+	},
+	{
+		"#text": "找不到网页，请您检查当前网络是否通畅!",
+		"@_name": "duoqu_errortext"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_fight_end"
+	},
+	{
+		"#text": "航班选择",
+		"@_name": "duoqu_fight_number_select"
+	},
+	{
+		"#text": "备降",
+		"@_name": "duoqu_fight_state_alternate"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_fight_state_cancel"
+	},
+	{
+		"#text": "延误",
+		"@_name": "duoqu_fight_state_delays"
+	},
+	{
+		"#text": "起飞",
+		"@_name": "duoqu_fight_state_departure"
+	},
+	{
+		"#text": "计划中",
+		"@_name": "duoqu_fight_state_plan"
+	},
+	{
+		"#text": "返航",
+		"@_name": "duoqu_fight_state_return"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_filght"
+	},
+	{
+		"#text": "备降到达",
+		"@_name": "duoqu_flight_date_alternate_arrival"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_flight_date_arrival"
+	},
+	{
+		"#text": "返航到达",
+		"@_name": "duoqu_flight_date_return_arrival"
+	},
+	{
+		"#text": "目的地",
+		"@_name": "duoqu_flight_def_arrive_adress"
+	},
+	{
+		"#text": "出发地",
+		"@_name": "duoqu_flight_def_depart_adress"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_flight_def_depart_time"
+	},
+	{
+		"#text": "选择航班",
+		"@_name": "duoqu_flight_number_select"
+	},
+	{
+		"#text": "提前取消",
+		"@_name": "duoqu_flight_state_ahead_cancel"
+	},
+	{
+		"#text": "备降",
+		"@_name": "duoqu_flight_state_alternate"
+	},
+	{
+		"#text": "备降取消",
+		"@_name": "duoqu_flight_state_alternate_cancel"
+	},
+	{
+		"#text": "备降起飞",
+		"@_name": "duoqu_flight_state_alternate_departure"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_flight_state_cancel"
+	},
+	{
+		"#text": "延误",
+		"@_name": "duoqu_flight_state_delays"
+	},
+	{
+		"#text": "起飞",
+		"@_name": "duoqu_flight_state_departure"
+	},
+	{
+		"#text": "计划",
+		"@_name": "duoqu_flight_state_plan"
+	},
+	{
+		"#text": "返航",
+		"@_name": "duoqu_flight_state_return"
+	},
+	{
+		"#text": "返航取消",
+		"@_name": "duoqu_flight_state_return_cancel"
+	},
+	{
+		"#text": "返航起飞",
+		"@_name": "duoqu_flight_state_return_departure"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_flight_unknow_time"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_flightstr"
+	},
+	{
+		"#text": "转发短信",
+		"@_name": "duoqu_forword_sms"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_has_read"
+	},
+	{
+		"#text": "Read",
+		"@_name": "duoqu_has_read_en"
+	},
+	{
+		"#text": "已讀",
+		"@_name": "duoqu_has_read_tw"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_has_read_zh"
+	},
+	{
+		"#text": "正在加载,请稍后...",
+		"@_name": "duoqu_loading"
+	},
+	{
+		"#text": "附近网点",
+		"@_name": "duoqu_nearby_point_list_title"
+	},
+	{
+		"#text": "暂无相关信息，请联网再试~",
+		"@_name": "duoqu_no_net"
+	},
+	{
+		"#text": "暂无相关信息，请稍后再试~",
+		"@_name": "duoqu_no_train_info"
+	},
+	{
+		"#text": "打开地图",
+		"@_name": "duoqu_open_map"
+	},
+	{
+		"#text": "访问网址",
+		"@_name": "duoqu_open_net"
+	},
+	{
+		"#text": "打开原文",
+		"@_name": "duoqu_open_text"
+	},
+	{
+		"#text": "下午",
+		"@_name": "duoqu_pm"
+	},
+	{
+		"#text": "解除默认服务选择后，您可重新选择所需的服务应用",
+		"@_name": "duoqu_popmenu_content"
+	},
+	{
+		"#text": "Reply",
+		"@_name": "duoqu_reply_en"
+	},
+	{
+		"#text": "回复短信",
+		"@_name": "duoqu_reply_sms"
+	},
+	{
+		"#text": "回復",
+		"@_name": "duoqu_reply_tw"
+	},
+	{
+		"#text": "回复",
+		"@_name": "duoqu_reply_zh"
+	},
+	{
+		"#text": "座位",
+		"@_name": "duoqu_seat_info"
+	},
+	{
+		"#text": "选择终点站",
+		"@_name": "duoqu_select_destination"
+	},
+	{
+		"#text": "选择航班信息",
+		"@_name": "duoqu_select_fight_num"
+	},
+	{
+		"#text": "选择车次信息",
+		"@_name": "duoqu_select_train_num"
+	},
+	{
+		"#text": "发送邮件",
+		"@_name": "duoqu_send_email"
+	},
+	{
+		"#text": "数据来源百度地图",
+		"@_name": "duoqu_tip_data_source"
+	},
+	{
+		"#text": "多趣",
+		"@_name": "duoqu_tip_duoqu_name"
+	},
+	{
+		"#text": "缺少参数，无法打开百度地图",
+		"@_name": "duoqu_tip_false"
+	},
+	{
+		"#text": "亲，数据获取失败，可能是您未开启定位哦~",
+		"@_name": "duoqu_tip_gps_closed_error"
+	},
+	{
+		"#text": "点击加载更多数据",
+		"@_name": "duoqu_tip_load_more"
+	},
+	{
+		"#text": "加载中...",
+		"@_name": "duoqu_tip_loading"
+	},
+	{
+		"#text": "附近网点加载中...",
+		"@_name": "duoqu_tip_nearby_point_loading"
+	},
+	{
+		"#text": "对不起，网络出错了，轻触屏幕重新加载",
+		"@_name": "duoqu_tip_nearby_point_network_lose"
+	},
+	{
+		"#text": "没有找到相关结果！",
+		"@_name": "duoqu_tip_nearby_point_not_find"
+	},
+	{
+		"@_name": "duoqu_tip_nearby_point_refresh",
+		"u": "刷新试试"
+	},
+	{
+		"#text": "信析宝提供服务",
+		"@_name": "duoqu_tip_services_provide"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_train_arrive"
+	},
+	{
+		"#text": "到达",
+		"@_name": "duoqu_train_date_arrival"
+	},
+	{
+		"#text": "MM月dd日",
+		"@_name": "duoqu_train_date_format"
+	},
+	{
+		"#text": "MM-dd",
+		"@_name": "duoqu_train_date_format_qiku"
+	},
+	{
+		"#text": "当天",
+		"@_name": "duoqu_train_date_one"
+	},
+	{
+		"#text": "第三天",
+		"@_name": "duoqu_train_date_three"
+	},
+	{
+		"#text": "第二天",
+		"@_name": "duoqu_train_date_two"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_train_depart"
+	},
+	{
+		"#text": "预计",
+		"@_name": "duoqu_train_dupplement_date"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_end"
+	},
+	{
+		"#text": "暂无相关信息，请稍后再试",
+		"@_name": "duoqu_train_nodata_warnning"
+	},
+	{
+		"#text": "暂无相关信息，请联网再试",
+		"@_name": "duoqu_train_nonet_warnning"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_num"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_train_num_str"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_train_number"
+	},
+	{
+		"#text": "列车信息已过期",
+		"@_name": "duoqu_train_outtime"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_train_select"
+	},
+	{
+		"#text": "次",
+		"@_name": "duoqu_train_time"
+	},
+	{
+		"#text": "--:--",
+		"@_name": "duoqu_train_unknow_time"
+	},
+	{
+		"#text": "出发",
+		"@_name": "duoqu_ui_air_departure_city"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_ui_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_ui_confirm"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_dialog_select_cart"
+	},
+	{
+		"#text": "选择航班",
+		"@_name": "duoqu_ui_dialog_select_flight"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_dialog_select_trains"
+	},
+	{
+		"#text": "开往",
+		"@_name": "duoqu_ui_direction"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_fight"
+	},
+	{
+		"#text": "飞往",
+		"@_name": "duoqu_ui_filght"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_ui_part_air_date_title"
+	},
+	{
+		"#text": "乘客",
+		"@_name": "duoqu_ui_part_air_price_title"
+	},
+	{
+		"#text": "选择车次",
+		"@_name": "duoqu_ui_part_air_train_train_select"
+	},
+	{
+		"#text": "未知",
+		"@_name": "duoqu_ui_part_call_unknown"
+	},
+	{
+		"#text": "取消",
+		"@_name": "duoqu_ui_part_cancel"
+	},
+	{
+		"#text": "确定",
+		"@_name": "duoqu_ui_part_confirm"
+	},
+	{
+		"#text": "选择目的地",
+		"@_name": "duoqu_ui_part_destination"
+	},
+	{
+		"@_name": "duoqu_ui_part_double_line"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_ui_part_double_line_an"
+	},
+	{
+		"#text": "- -",
+		"@_name": "duoqu_ui_part_double_line_en"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_part_fight"
+	},
+	{
+		"#text": "已读",
+		"@_name": "duoqu_ui_part_noti_mark"
+	},
+	{
+		"#text": "航班",
+		"@_name": "duoqu_ui_part_select_air_title"
+	},
+	{
+		"#text": "到达站",
+		"@_name": "duoqu_ui_part_select_destination"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_ui_part_select_train_title"
+	},
+	{
+		"#text": "出发日期",
+		"@_name": "duoqu_ui_part_train_date_title"
+	},
+	{
+		"#text": "--",
+		"@_name": "duoqu_ui_part_train_no_price"
+	},
+	{
+		"#text": "座位",
+		"@_name": "duoqu_ui_part_train_price_title"
+	},
+	{
+		"#text": "车次",
+		"@_name": "duoqu_ui_train_num_str"
+	},
+	{
+		"#text": "N/A",
+		"@_name": "duoqu_unknow"
+	},
+	{
+		"#text": "提示：请勿泄露短信验证码",
+		"@_name": "duoqu_verifycode_warnning"
+	},
+	{
+		"#text": "服务说明",
+		"@_name": "duoqu_web_aboutus"
+	},
+	{
+		"#text": "关闭",
+		"@_name": "duoqu_web_close"
+	},
+	{
+		"#text": "反馈",
+		"@_name": "duoqu_web_feedback"
+	},
+	{
+		"#text": "帮助",
+		"@_name": "duoqu_web_help"
+	},
+	{
+		"#text": "网络失效了，打开网络看看",
+		"@_name": "duoqu_web_network_fail"
+	},
+	{
+		"#text": "网络设置",
+		"@_name": "duoqu_web_network_setting"
+	},
+	{
+		"#text": "找不到网页",
+		"@_name": "duoqu_web_not_find_page"
+	},
+	{
+		"#text": "刷新",
+		"@_name": "duoqu_web_reload"
+	},
+	{
+		"#text": "解除默认选择",
+		"@_name": "duoqu_web_reset"
+	},
+	{
+		"#text": "预计到达时间",
+		"@_name": "duqou_arrive_time_string"
+	},
+	{
+		"#text": "标为已读",
+		"@_name": "duqou_mark_btn_name"
+	},
+	{
+		"#text": "车厢座位",
+		"@_name": "duqou_seat_info_string"
+	},
+	{
+		"#text": "求助人",
+		"@_name": "duqou_seek_assistance"
+	},
+	{
+		"#text": "选择终点站",
+		"@_name": "duqou_select_arrive_city"
+	},
+	{
+		"#text": "(更多请点击卡片查看)",
+		"@_name": "duqou_view_the_orgmessage"
+	},
+	{
+		"#text": "Edit title",
+		"@_name": "edit_tittle"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Express remark",
+		"@_name": "express_dialog_title"
+	},
+	{
+		"#text": "Mark",
+		"@_name": "express_remark_dialog_hint"
+	},
+	{
+		"#text": "Support the logistics information query and tracking of Taobao, Tmall, Jingdong, Meizu Mall",
+		"@_name": "express_supported_tips"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Add up to 4 teams",
+		"@_name": "football_full_tips"
+	},
+	{
+		"#text": "Standings",
+		"@_name": "football_score"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "Gaode Map",
+		"@_name": "gaode_pkg"
+	},
+	{
+		"#text": "diff添加ap缓存",
+		"@_name": "geek_sdk_log_add_ap_cache"
+	},
+	{
+		"#text": "将当前连接的WiFi加入到进店逻辑的判断里",
+		"@_name": "geek_sdk_log_add_current_connected_ssid_to_map"
+	},
+	{
+		"#text": "将%1$s添加到预请求列表",
+		"@_name": "geek_sdk_log_add_request_list"
+	},
+	{
+		"#text": "将%1$s加入到进店逻辑的判断里",
+		"@_name": "geek_sdk_log_add_ssid_to_map"
+	},
+	{
+		"#text": "去除所有驻店的WiFi后,已经没有其他WiFi",
+		"@_name": "geek_sdk_log_after_filter_all_resident_scene_wifi_no_has_other_wifi"
+	},
+	{
+		"#text": "去除黑名单的WiFi后,已经没有其他WiFi",
+		"@_name": "geek_sdk_log_after_filter_black_scene_wifi_no_has_other_wifi"
+	},
+	{
+		"#text": "去除重复的WiFi后,已经没有其他WiFi",
+		"@_name": "geek_sdk_log_after_filter_duplicate_wifi_no_has_other_wifi"
+	},
+	{
+		"#text": "去除驻店的Ssid后,已经没有其他WiFi",
+		"@_name": "geek_sdk_log_after_filter_resident_ssid_wifi_no_has_other_wifi"
+	},
+	{
+		"#text": "已经全部离店,但是此时切换逻辑还在进行着,继续走完切换逻辑",
+		"@_name": "geek_sdk_log_already_all_leave_shop_but_switch_logic_work_continue_to_work_switch"
+	},
+	{
+		"#text": "ap缓存文件数据为空",
+		"@_name": "geek_sdk_log_ap_cache_file_data_is_null"
+	},
+	{
+		"#text": "ap缓存文件加解密出错",
+		"@_name": "geek_sdk_log_ap_cache_file_encryption_and_decryption_error"
+	},
+	{
+		"#text": "[ap缓存]列表 position = %1$s , value = null",
+		"@_name": "geek_sdk_log_ap_data_cache_file_error"
+	},
+	{
+		"#text": "[ap缓存]由城市(city=%1$s)切换为城市(city=%2$s)",
+		"@_name": "geek_sdk_log_ap_data_city_change"
+	},
+	{
+		"#text": "拉取ApData缓存:%1$s",
+		"@_name": "geek_sdk_log_ap_data_response"
+	},
+	{
+		"#text": "[ap缓存]返回缓存城市(city=%1$s)与请求城市(city=%2$s)不一致或者等于0",
+		"@_name": "geek_sdk_log_ap_data_response_city_and_request_city_not_same"
+	},
+	{
+		"#text": "拉取ApDiffData缓存:%1$s",
+		"@_name": "geek_sdk_log_ap_diff_data_response"
+	},
+	{
+		"#text": "[ap缓存]增量更新时，版本号没有变化",
+		"@_name": "geek_sdk_log_ap_diff_data_version_not_change"
+	},
+	{
+		"#text": "ap缓存文件已经损坏,重新请求服务器",
+		"@_name": "geek_sdk_log_ap_file_damage_request_server"
+	},
+	{
+		"#text": "本地数据库有WiFi:%1$s[%2$s]",
+		"@_name": "geek_sdk_log_ap_in_db_ap_cache"
+	},
+	{
+		"#text": "本地数据库有SSID:%1$s",
+		"@_name": "geek_sdk_log_ap_in_db_ssid_cache"
+	},
+	{
+		"#text": "[ap缓存(内存)]%1$s",
+		"@_name": "geek_sdk_log_ap_memory_data"
+	},
+	{
+		"#text": "本地数据无WiFi:%1$s[%2$s]",
+		"@_name": "geek_sdk_log_ap_no_in_db_ap_cache"
+	},
+	{
+		"#text": "本地数据库无SSID:%1$s",
+		"@_name": "geek_sdk_log_ap_no_in_db_ssid_cache"
+	},
+	{
+		"#text": "当前的scanResult为null,把上次WiFi回调的scanResult的值重新赋给当前的scanResult",
+		"@_name": "geek_sdk_log_ap_null_reassign_the_value"
+	},
+	{
+		"#text": "发现信号强度大于%1$d的WiFi",
+		"@_name": "geek_sdk_log_better_wifi_found"
+	},
+	{
+		"#text": "没找到信号强度大于%1$d的WiFi",
+		"@_name": "geek_sdk_log_better_wifi_not_found"
+	},
+	{
+		"#text": "[蓝牙停止扫描]蓝牙功能未开启",
+		"@_name": "geek_sdk_log_bluetooth_not_enable"
+	},
+	{
+		"#text": "[蓝牙]该设备不支持低功耗蓝牙",
+		"@_name": "geek_sdk_log_bluetooth_not_support"
+	},
+	{
+		"#text": "[断点下载]获取context为空",
+		"@_name": "geek_sdk_log_cache_data_context_null"
+	},
+	{
+		"#text": "[断点下载]缓存下载异常errorMessage:%1$s",
+		"@_name": "geek_sdk_log_cache_data_download_error"
+	},
+	{
+		"#text": "[断点下载]请求失败,code:%1$s",
+		"@_name": "geek_sdk_log_cache_data_download_request_fail"
+	},
+	{
+		"#text": "[断点下载]写入文件出错,errorMessage:%1$s,直接读取文件内容",
+		"@_name": "geek_sdk_log_cache_data_download_write_fail"
+	},
+	{
+		"#text": "[断点下载]之前下载过该文件,直接读取文件内容",
+		"@_name": "geek_sdk_log_cache_data_downloaded"
+	},
+	{
+		"#text": "缓存文件解密错误,errorMessage:%1$s",
+		"@_name": "geek_sdk_log_cache_data_file_decrypt_error"
+	},
+	{
+		"#text": "[断点下载]获取缓存路径失败,直接下载",
+		"@_name": "geek_sdk_log_cache_data_get_cache_folder_fail"
+	},
+	{
+		"#text": "缓存中无%1$s对应的场景,因此从服务器获取",
+		"@_name": "geek_sdk_log_cache_data_no_has_this_scene_to_request_server"
+	},
+	{
+		"#text": "[缓存]json解析错误%1$s为null",
+		"@_name": "geek_sdk_log_cache_data_parse_error"
+	},
+	{
+		"#text": "[断点下载]校验文件%1$s",
+		"@_name": "geek_sdk_log_cache_data_verify_file"
+	},
+	{
+		"#text": "[缓存]明文数据一致,直接更新版本号",
+		"@_name": "geek_sdk_log_cache_data_version_not_same_content_same"
+	},
+	{
+		"#text": "[ap缓存]下载全量ap缓存",
+		"@_name": "geek_sdk_log_cache_download_ap_data"
+	},
+	{
+		"#text": "[ap缓存]下载增量ap缓存",
+		"@_name": "geek_sdk_log_cache_download_ap_diff_data"
+	},
+	{
+		"#text": "当前缓存文件不存在,文件名:%1$s",
+		"@_name": "geek_sdk_log_cache_file_not_exists"
+	},
+	{
+		"#text": "当前缓存文件夹不存在",
+		"@_name": "geek_sdk_log_cache_folder_not_exists"
+	},
+	{
+		"#text": "计算结果,第一个样本的模:%1$f,第二个样本的模:%2$f,数量积:%3$d",
+		"@_name": "geek_sdk_log_calculate_result"
+	},
+	{
+		"#text": "当计算结果异常时,视为静止",
+		"@_name": "geek_sdk_log_calculate_result_error"
+	},
+	{
+		"#text": "计算平均方差时间超过2分钟,停止检测",
+		"@_name": "geek_sdk_log_calculate_sqrt_average_time_more_than_two_min_to_stop_check"
+	},
+	{
+		"#text": "周期数:%1$d,wifi回调次数:%2$d",
+		"@_name": "geek_sdk_log_callback_count"
+	},
+	{
+		"#text": "捕捉到线程[%1$s]异常,并且从线程列表中移除",
+		"@_name": "geek_sdk_log_caught_exception_and_remove_it"
+	},
+	{
+		"#text": "捕捉异常时,出现的异常和之前的相同,因此忽略处理",
+		"@_name": "geek_sdk_log_caught_same_exception_so_ignore"
+	},
+	{
+		"#text": "基站缓存数据为空",
+		"@_name": "geek_sdk_log_cell_cache_content_is_empty"
+	},
+	{
+		"#text": "已经发现新的基站场景，所以%1$s确认离店",
+		"@_name": "geek_sdk_log_cell_found_other_scene_so_current_leave"
+	},
+	{
+		"#text": "%1$s基站确认离店",
+		"@_name": "geek_sdk_log_cell_has_leave_shop"
+	},
+	{
+		"#text": "基站已经驻店，不重复进店",
+		"@_name": "geek_sdk_log_cell_has_resident_shop"
+	},
+	{
+		"#text": "上下文为空，基站判断为离店",
+		"@_name": "geek_sdk_log_cell_leave_shop_because_context_is_null"
+	},
+	{
+		"#text": "cellList为空，直接判断基站离店",
+		"@_name": "geek_sdk_log_cell_list_is_empty"
+	},
+	{
+		"#text": "明文数据一致，不更新基站缓存",
+		"@_name": "geek_sdk_log_cell_md5_same_do_not_update"
+	},
+	{
+		"#text": "%1$s当前正在基站延时驻店",
+		"@_name": "geek_sdk_log_cell_scene_delaying_leave"
+	},
+	{
+		"#text": "基站延时离店时 满足步数要求,%1$s确认离店",
+		"@_name": "geek_sdk_log_cell_scene_more_than_delay_leave_step"
+	},
+	{
+		"#text": "超出基站延时离店时间,%1$s确认离店",
+		"@_name": "geek_sdk_log_cell_scene_more_than_delay_leave_time"
+	},
+	{
+		"#text": "基站：步数变化：当前步数%1$d",
+		"@_name": "geek_sdk_log_cell_step_checking"
+	},
+	{
+		"#text": "%1$s基站还没有离店",
+		"@_name": "geek_sdk_log_cell_still_connect"
+	},
+	{
+		"#text": "%1$s基站包含场景：%2$s",
+		"@_name": "geek_sdk_log_cell_with_cell"
+	},
+	{
+		"#text": "包含有场景的基站，发起进店",
+		"@_name": "geek_sdk_log_cell_with_scene"
+	},
+	{
+		"#text": "五次定位中有三次距离小于50米，最小定位间隔时间修改为：%1$d",
+		"@_name": "geek_sdk_log_change_fence_location_gap"
+	},
+	{
+		"#text": "检测本地缓存文件加密是否有问题",
+		"@_name": "geek_sdk_log_check_if_there_is_a_problem_with_local_cache_file_encryption"
+	},
+	{
+		"#text": "是否运动:%1$s",
+		"@_name": "geek_sdk_log_check_move_result"
+	},
+	{
+		"#text": "检测附近场景次数:%1$d",
+		"@_name": "geek_sdk_log_check_nearby_scene_time"
+	},
+	{
+		"#text": "检测剩余驻店的场景,选择最强的一个场景进行回切场景:%1$s[SSID:%2$s,level:%3$s]",
+		"@_name": "geek_sdk_log_check_remain_scene_to_select_best_level_scene_switch"
+	},
+	{
+		"#text": "是否有加速度传感器:%1$s",
+		"@_name": "geek_sdk_log_check_sensor"
+	},
+	{
+		"#text": "检测方差:2秒内满足标准的方差个数为:%1$d,总的个数为:%2$d,本次的百分占比为:%3$f,达标百分比为:%4$d",
+		"@_name": "geek_sdk_log_check_sqrt_result"
+	},
+	{
+		"#text": "检测步数:2秒内走的步数为:%1$d",
+		"@_name": "geek_sdk_log_check_step_in_two_second"
+	},
+	{
+		"#text": "检测WiFi开关和扫描开关结果:%1$s",
+		"@_name": "geek_sdk_log_check_wifi_and_scan_switch_result"
+	},
+	{
+		"#text": "清空基站poi缓存",
+		"@_name": "geek_sdk_log_clear_cell_cache"
+	},
+	{
+		"#text": "清空围栏定位",
+		"@_name": "geek_sdk_log_clear_fence_location"
+	},
+	{
+		"#text": "[蓝牙]收集开关关闭，不收集",
+		"@_name": "geek_sdk_log_collection_switch_off_not_collected"
+	},
+	{
+		"#text": "[进店后]收集蓝牙开关打开，开始收集蓝牙",
+		"@_name": "geek_sdk_log_collection_switch_on_bluetooth"
+	},
+	{
+		"#text": "[进店后]收集wifi指纹开关打开，开始收集wifi指纹",
+		"@_name": "geek_sdk_log_collection_switch_on_wifi_fingerprint"
+	},
+	{
+		"#text": "连接失败",
+		"@_name": "geek_sdk_log_connect_failed"
+	},
+	{
+		"#text": "连接WiFi结果:%1$d",
+		"@_name": "geek_sdk_log_connect_result"
+	},
+	{
+		"#text": "可连接的WiFi个数:%1$d",
+		"@_name": "geek_sdk_log_connectable_ap_count"
+	},
+	{
+		"#text": "当前连接的WiFi已在黑名单里,不再参与进店逻辑的判断",
+		"@_name": "geek_sdk_log_connected_wifi_is_black_ap_so_remove_from_map"
+	},
+	{
+		"#text": "正在连接%1$s[BSSID:%2$s,security:%3$d]",
+		"@_name": "geek_sdk_log_connecting_ap"
+	},
+	{
+		"#text": "基站%1$s还没有断开，不离店",
+		"@_name": "geek_sdk_log_contains_cell"
+	},
+	{
+		"#text": "上下文为空，服务可能出现异常",
+		"@_name": "geek_sdk_log_context_is_null"
+	},
+	{
+		"#text": "获取UUID的时候context为空",
+		"@_name": "geek_sdk_log_context_null_when_get_uuid"
+	},
+	{
+		"#text": "用%1$s继续请求服务器获取场景",
+		"@_name": "geek_sdk_log_continue_to_get_scene"
+	},
+	{
+		"#text": "已经连续扫描5次,不再主动扫描wifi",
+		"@_name": "geek_sdk_log_continuous_scan_five_count_not_to_scan_wifi"
+	},
+	{
+		"#text": "[缓存]拷贝文件出错",
+		"@_name": "geek_sdk_log_copy_error"
+	},
+	{
+		"#text": "当前离店的所有场景包括当前显示的场景,通知回调",
+		"@_name": "geek_sdk_log_current_all_leave_shop_contain_current_show_scene_to_notify_callback"
+	},
+	{
+		"#text": "当前离店的所有场景不包括当前显示的场景,不通知离店回调",
+		"@_name": "geek_sdk_log_current_all_leave_shop_no_contain_current_show_scene_to_notify_callback"
+	},
+	{
+		"#text": "遍历所有驻店场景时,当前获取到的场景:%2$s[SSID:%1$s]",
+		"@_name": "geek_sdk_log_current_all_resident_scene"
+	},
+	{
+		"#text": "遍历所有驻店场景时,当前获取到的场景:%1$s[通过围栏识别]",
+		"@_name": "geek_sdk_log_current_all_resident_scene_by_fence"
+	},
+	{
+		"#text": "当前连接的WiFi有场景数据",
+		"@_name": "geek_sdk_log_current_connected_wifi_has_scene_data"
+	},
+	{
+		"#text": "当前已连接%1$s",
+		"@_name": "geek_sdk_log_current_conntected_wifi"
+	},
+	{
+		"#text": "当前驻店数据为空不进行围栏检测",
+		"@_name": "geek_sdk_log_current_data_null_not_fence_check"
+	},
+	{
+		"#text": "当前识别逻辑的状态:%1$s",
+		"@_name": "geek_sdk_log_current_logic_state"
+	},
+	{
+		"#text": "当前展示的场景:%1$s",
+		"@_name": "geek_sdk_log_current_show_scene"
+	},
+	{
+		"#text": "此时处于静止状态,离店不成功,重置数据并重新开始检测",
+		"@_name": "geek_sdk_log_current_state_is_motionless_fail_to_leave_shop_reset_data"
+	},
+	{
+		"#text": "diff删除ap缓存",
+		"@_name": "geek_sdk_log_delete_ap_cache"
+	},
+	{
+		"#text": "进店时,由于网络没有变化同时也未到重试时间,不执行获取场景识别逻辑",
+		"@_name": "geek_sdk_log_do_not_enter_shop_logic_because_the_network_has_not_changed_and_the_time_is_less_than_the_retry_time"
+	},
+	{
+		"#text": "切换时,由于网络没有变化同时也未到重试时间,不执行获取场景识别逻辑",
+		"@_name": "geek_sdk_log_do_not_enter_shop_logic_because_the_network_has_not_changed_and_the_time_is_less_than_the_retry_time_when_switch"
+	},
+	{
+		"#text": "获取场景时,服务器直接返回空数据",
+		"@_name": "geek_sdk_log_empty_data_when_get_scene"
+	},
+	{
+		"#text": "获取场景时,返回空的场景信息",
+		"@_name": "geek_sdk_log_empty_scene_when_get_scene"
+	},
+	{
+		"#text": "获取场景时,返回空的服务内容",
+		"@_name": "geek_sdk_log_empty_service_when_get_scene"
+	},
+	{
+		"#text": "进店数据为空",
+		"@_name": "geek_sdk_log_enter_shop_data_is_empty"
+	},
+	{
+		"#text": "出现异常:%1$s",
+		"@_name": "geek_sdk_log_error_info"
+	},
+	{
+		"#text": "请求场景时出现网络异常,重新执行进店逻辑",
+		"@_name": "geek_sdk_log_error_net_when_request"
+	},
+	{
+		"#text": "%1$s[BSSID:%2$s]还存在,没有丢失",
+		"@_name": "geek_sdk_log_exist_same_ap_so_wifi_no_dismiss"
+	},
+	{
+		"#text": "%1$s还存在,没有丢失",
+		"@_name": "geek_sdk_log_exist_same_ssid_so_wifi_no_dismiss"
+	},
+	{
+		"#text": "获取场景时,获取场景卡失败",
+		"@_name": "geek_sdk_log_fail_to_get_scene"
+	},
+	{
+		"#text": "此时返回空场景,如果此时还有其他WiFi符合进店逻辑,就立马去请求,不等待下一次回调",
+		"@_name": "geek_sdk_log_fail_to_get_scene_and_check_other_ap_to_request"
+	},
+	{
+		"#text": "此时返回空场景并且没有其他WiFi符合进店逻辑",
+		"@_name": "geek_sdk_log_fail_to_get_scene_and_no_other_ap_meet_enter_shop_logic"
+	},
+	{
+		"#text": "围栏缓存内容为空",
+		"@_name": "geek_sdk_log_fence_cache_content_is_empty"
+	},
+	{
+		"#text": "[围栏缓存(内存)]缓存个数：%1$d",
+		"@_name": "geek_sdk_log_fence_cache_memory"
+	},
+	{
+		"#text": "围栏缓存未加载完成，此次快速识别失败",
+		"@_name": "geek_sdk_log_fence_cache_not_loaded"
+	},
+	{
+		"#text": "%1$s判断围栏%2$b",
+		"@_name": "geek_sdk_log_fence_check"
+	},
+	{
+		"#text": "%1$s判断围栏(修正后)%2$b",
+		"@_name": "geek_sdk_log_fence_check_correct"
+	},
+	{
+		"#text": "因为距离围栏的最短距离不超过%1$d米,所以判断为还在围栏中",
+		"@_name": "geek_sdk_log_fence_distance_buffer"
+	},
+	{
+		"#text": "通过围栏找到场景id:%1$s",
+		"@_name": "geek_sdk_log_fence_find_shop"
+	},
+	{
+		"#text": "通过围栏找到场景id:%1$s,已经驻店，不向服务器获取场景卡",
+		"@_name": "geek_sdk_log_fence_find_shop_but_resident"
+	},
+	{
+		"#text": "检测到当前wifi列表为空，直接离店",
+		"@_name": "geek_sdk_log_fence_leave_and_no_wifi_leave_shop"
+	},
+	{
+		"#text": "围栏定位回调",
+		"@_name": "geek_sdk_log_fence_location_callback"
+	},
+	{
+		"#text": "围栏重试定位失败次数:%1$d",
+		"@_name": "geek_sdk_log_fence_location_retry_failed_times"
+	},
+	{
+		"#text": "围栏网络定位失败两次，启用GPS定位重试",
+		"@_name": "geek_sdk_log_fence_location_retry_failed_twice_use_gps"
+	},
+	{
+		"#text": "围栏重试离店定位次数：%1$d",
+		"@_name": "geek_sdk_log_fence_location_retry_times"
+	},
+	{
+		"#text": "围栏定位成功：%1$f,%2$f",
+		"@_name": "geek_sdk_log_fence_location_success"
+	},
+	{
+		"#text": "修正后的围栏经纬度：%1$f,%2$f",
+		"@_name": "geek_sdk_log_fence_location_success_correct"
+	},
+	{
+		"#text": "明文数据一致，不更新围栏缓存",
+		"@_name": "geek_sdk_log_fence_md5_same_do_not_update"
+	},
+	{
+		"#text": "[围栏缓存(内存)]%1$s",
+		"@_name": "geek_sdk_log_fence_memory_data"
+	},
+	{
+		"#text": "当前有离店趋势的场景不在进行围栏或基站检测，主动扫描wifi",
+		"@_name": "geek_sdk_log_fence_not_on_check_need_scan_wifi"
+	},
+	{
+		"#text": "当前有离店趋势的场景正在进行围栏或基站检测，不主动扫描wifi",
+		"@_name": "geek_sdk_log_fence_on_check_not_scan_wifi"
+	},
+	{
+		"#text": "围栏GPS重试失败，不再重试，本次快速识别失败",
+		"@_name": "geek_sdk_log_fence_request_location_failed_no_retry"
+	},
+	{
+		"#text": "围栏定位失败，快速识别失败,重试",
+		"@_name": "geek_sdk_log_fence_request_location_failed_retry"
+	},
+	{
+		"#text": "重试次数过多，定位失败直接判断为离开围栏",
+		"@_name": "geek_sdk_log_fence_retry_much_time_leave_shop"
+	},
+	{
+		"#text": "包含围栏场景wifi,不发起定位",
+		"@_name": "geek_sdk_log_fence_scene_has_wifi_not_to_location"
+	},
+	{
+		"#text": "%1$s填充数据",
+		"@_name": "geek_sdk_log_fill_data"
+	},
+	{
+		"#text": "过滤重复的场景",
+		"@_name": "geek_sdk_log_filter_duplicate_scene"
+	},
+	{
+		"#text": "加载过滤规则",
+		"@_name": "geek_sdk_log_filter_rule"
+	},
+	{
+		"#text": "根据WiFi的信号值过滤[信号门槛值:%1$d]",
+		"@_name": "geek_sdk_log_filter_wifi_order_to_level_threshold_level"
+	},
+	{
+		"#text": "[指纹]成功保存了指纹文件：%1$s，共%2$d条指纹",
+		"@_name": "geek_sdk_log_fingerprint_file_and_total"
+	},
+	{
+		"#text": "[指纹]保存了指纹文件%1$d个",
+		"@_name": "geek_sdk_log_fingerprint_file_save"
+	},
+	{
+		"#text": "[指纹]开始保存指纹文件，指纹：%1$d个",
+		"@_name": "geek_sdk_log_fingerprint_save"
+	},
+	{
+		"#text": "正在上传指纹，所以不做收集处理",
+		"@_name": "geek_sdk_log_fingerprint_uploading"
+	},
+	{
+		"#text": "运动检测完毕,结果:%1$s,是否处于运动状态:%2$s",
+		"@_name": "geek_sdk_log_finish_check_result"
+	},
+	{
+		"#text": "第一个样本或第二个样本数据为空,视为处于静止",
+		"@_name": "geek_sdk_log_first_or_second_sample_data_null_to_think_tranquil"
+	},
+	{
+		"#text": "离店时发现%2$s信号强度大于%1$d,直接进入驻店逻辑",
+		"@_name": "geek_sdk_log_found_better_wifi_during_leave_shop"
+	},
+	{
+		"#text": "ssid:%1$s,几何平均数:-%2$f",
+		"@_name": "geek_sdk_log_geometric_mean"
+	},
+	{
+		"#text": "加载ap缓存个数:%1$d",
+		"@_name": "geek_sdk_log_get_ap_cache_size"
+	},
+	{
+		"#text": "遍历所有驻店场景,当前获取到的场景:%4$s[SSID:%1$s,BSSID:%2$s,level:%3$d]",
+		"@_name": "geek_sdk_log_get_best_level_in_resident_card_map"
+	},
+	{
+		"#text": "得到最终的ap缓存为:%1$s",
+		"@_name": "geek_sdk_log_get_final_ap_cache"
+	},
+	{
+		"#text": "加载ssid缓存个数:%1$d",
+		"@_name": "geek_sdk_log_get_ssid_cache_size"
+	},
+	{
+		"#text": "处理返回内容异常:%1$s",
+		"@_name": "geek_sdk_log_handle_response_exception"
+	},
+	{
+		"#text": "达到延时处理回调时间，处理wifi回调结果",
+		"@_name": "geek_sdk_log_handle_wifi_callback"
+	},
+	{
+		"#text": "已经达到%1$d次周期",
+		"@_name": "geek_sdk_log_has_reached_the_cycle"
+	},
+	{
+		"#text": "%1$s还在围栏中",
+		"@_name": "geek_sdk_log_in_fence"
+	},
+	{
+		"#text": "初始化结果:%1$d",
+		"@_name": "geek_sdk_log_init_result"
+	},
+	{
+		"#text": "主动发起扫描wifi",
+		"@_name": "geek_sdk_log_initiative_scan_wifi"
+	},
+	{
+		"#text": "当前已经处于查询场景数据或者离店状态",
+		"@_name": "geek_sdk_log_is_already_in_query_or_leave_shop_state"
+	},
+	{
+		"#text": "是否开启了低功耗模式:%1$s",
+		"@_name": "geek_sdk_log_is_low_power_mode"
+	},
+	{
+		"#text": "此时为静止状态,重置数据",
+		"@_name": "geek_sdk_log_is_motionless_to_reset_data"
+	},
+	{
+		"#text": "此时为运动状态,切换场景",
+		"@_name": "geek_sdk_log_is_move_to_switch_scene"
+	},
+	{
+		"#text": "位置信息开关:%1$s",
+		"@_name": "geek_sdk_log_last_check_location_info_result_is"
+	},
+	{
+		"#text": "上次检测到WiFi开关和扫描开关同时关闭,此时检测WiFi开关和扫描开关结果:%1$s",
+		"@_name": "geek_sdk_log_last_check_result_is_all_close_this_time_check_result_is"
+	},
+	{
+		"#text": "围栏距离最后一次定位成功的时间是：%1$d秒",
+		"@_name": "geek_sdk_log_last_fence_location_success_time"
+	},
+	{
+		"#text": "%1$s已经离开围栏",
+		"@_name": "geek_sdk_log_leave_fence"
+	},
+	{
+		"#text": "离店检测次数:%1$d",
+		"@_name": "geek_sdk_log_leave_shop_check_time"
+	},
+	{
+		"#text": "离店最终结果:%1$s确认离店!",
+		"@_name": "geek_sdk_log_leave_shop_final_result"
+	},
+	{
+		"#text": "离店的场景不包括当前显示的场景,则返回null,场景不进行回切",
+		"@_name": "geek_sdk_log_leave_shop_scene_not_include_current_scene_return_null"
+	},
+	{
+		"#text": "离店检测,%1$s丢失了%2$d次",
+		"@_name": "geek_sdk_log_leave_shop_ssid_check"
+	},
+	{
+		"#text": "加载ap缓存",
+		"@_name": "geek_sdk_log_load_ap_cache"
+	},
+	{
+		"#text": "从文件中加载基站缓存",
+		"@_name": "geek_sdk_log_load_cell_cache_from_file"
+	},
+	{
+		"#text": "从文件中读取围栏缓存",
+		"@_name": "geek_sdk_log_load_fence_cache_from_file"
+	},
+	{
+		"#text": "从文件中读取围栏缓存为空！",
+		"@_name": "geek_sdk_log_load_fence_cache_from_file_is_empty"
+	},
+	{
+		"#text": "从文件中读取围栏缓存成功，缓存个数：%1$d",
+		"@_name": "geek_sdk_log_load_fence_cache_from_file_num"
+	},
+	{
+		"#text": "加载ssid缓存",
+		"@_name": "geek_sdk_log_load_ssid_cache"
+	},
+	{
+		"#text": "拉取的基站缓存数量：%1$s",
+		"@_name": "geek_sdk_log_loaded_cell_cache"
+	},
+	{
+		"#text": "拉取的围栏缓存：%1$s",
+		"@_name": "geek_sdk_log_loaded_fence_cache"
+	},
+	{
+		"#text": "定位超时",
+		"@_name": "geek_sdk_log_location_time_out"
+	},
+	{
+		"#text": "%1$s丢失次数： %2$d",
+		"@_name": "geek_sdk_log_lose_count"
+	},
+	{
+		"#text": "之前已经开始离店,停止离店的运动检测,切换逻辑优先于离店逻辑",
+		"@_name": "geek_sdk_log_meet_leave_shop_and_stop_leave_shop_move_check"
+	},
+	{
+		"#text": "满足离店条件",
+		"@_name": "geek_sdk_log_meet_leave_shop_condition"
+	},
+	{
+		"#text": "满足了场景切换的条件",
+		"@_name": "geek_sdk_log_meet_switch_scene_condition"
+	},
+	{
+		"#text": "息屏满足相关条件,主动扫描WiFi",
+		"@_name": "geek_sdk_log_meet_the_relevant_conditions_to_scan_wifi"
+	},
+	{
+		"#text": "满足切换条件:%1$s",
+		"@_name": "geek_sdk_log_meet_wifi_switch_scene_condition"
+	},
+	{
+		"#text": "当前围栏定位的最小间隔时间：%1$d",
+		"@_name": "geek_sdk_log_min_fence_location_gap"
+	},
+	{
+		"#text": "当前模式:%1$s",
+		"@_name": "geek_sdk_log_mode"
+	},
+	{
+		"#text": "运动检测状态:%1$d,平均方差:%2$f",
+		"@_name": "geek_sdk_log_move_check_state_and_query_sqrt_average"
+	},
+	{
+		"#text": "离店时检测到附近有其他场景,不执行离店逻辑,继续走切换逻辑",
+		"@_name": "geek_sdk_log_nearby_has_other_scene_to_execute_switch_logic_when_leave_shop"
+	},
+	{
+		"#text": "离店时附近没有其他场景",
+		"@_name": "geek_sdk_log_nearby_no_has_other_scene_when_leave_shop"
+	},
+	{
+		"#text": "返回附近场景url:%1$s",
+		"@_name": "geek_sdk_log_nearby_poi_url"
+	},
+	{
+		"#text": "网络异常:%1$s",
+		"@_name": "geek_sdk_log_network_error"
+	},
+	{
+		"#text": "网络异常返回码:%1$d",
+		"@_name": "geek_sdk_log_network_error_code"
+	},
+	{
+		"#text": "获取场景时,网络出现异常",
+		"@_name": "geek_sdk_log_network_error_when_get_scene"
+	},
+	{
+		"#text": "网络发生了变化",
+		"@_name": "geek_sdk_log_network_has_changed"
+	},
+	{
+		"#text": "本地没有缓存",
+		"@_name": "geek_sdk_log_no_cache"
+	},
+	{
+		"#text": "没有计算出平均方差则视为不达标",
+		"@_name": "geek_sdk_log_no_calculate_sqrt_average_is_substandard"
+	},
+	{
+		"#text": "没有下发基站数据",
+		"@_name": "geek_sdk_log_no_cell_data_from_server"
+	},
+	{
+		"#text": "过滤基站黑名单后，没有符合进店逻辑的基站",
+		"@_name": "geek_sdk_log_no_cell_with_scene_after_filter_blacklist"
+	},
+	{
+		"#text": "没有可连接的WiFi",
+		"@_name": "geek_sdk_log_no_connectable_wifi"
+	},
+	{
+		"#text": "没有下发围栏数据",
+		"@_name": "geek_sdk_log_no_fence_data_from_server"
+	},
+	{
+		"#text": "[指纹]当前没有找到指纹文件",
+		"@_name": "geek_sdk_log_no_fingerprint_files"
+	},
+	{
+		"#text": "%1$s没有扫描到WiFi",
+		"@_name": "geek_sdk_log_no_scanning_to_wifi"
+	},
+	{
+		"#text": "没有在围栏中的场景,扫描wifi",
+		"@_name": "geek_sdk_log_no_scene_in_fence_scan_wifi"
+	},
+	{
+		"#text": "没有场景在围栏中，快速识别失败",
+		"@_name": "geek_sdk_log_no_scene_on_fence"
+	},
+	{
+		"#text": "当前wifi列表为空，主动开始检测围栏",
+		"@_name": "geek_sdk_log_no_wifi_scan_fence"
+	},
+	{
+		"#text": "无进店历史,此时处于前台,不执行休眠,开始扫描附近场景",
+		"@_name": "geek_sdk_log_not_enter_shop_history_and_now_is_foreground_not_execute_sleep_so_start_scan_scene"
+	},
+	{
+		"#text": "当前定位不到城市",
+		"@_name": "geek_sdk_log_not_locate_current_city"
+	},
+	{
+		"#text": "不满足切换条件:%1$s",
+		"@_name": "geek_sdk_log_not_meet_wifi_switch_scene_condition"
+	},
+	{
+		"#text": "%1$s,周期内没扫描到场景wifi,直接判定为运动状态",
+		"@_name": "geek_sdk_log_not_scan_wifi_during_period_is_move"
+	},
+	{
+		"#text": "%1$s还没达到检测信号非常强的次数",
+		"@_name": "geek_sdk_log_not_yet_reached_a_very_strong_number_of_detection_signals"
+	},
+	{
+		"#text": "休眠期间此时处于前台,不执行休眠,开始扫描附近场景",
+		"@_name": "geek_sdk_log_now_is_foreground_not_execute_sleep_so_start_scan_scene_during_sleep"
+	},
+	{
+		"#text": "当前驻店数据为null,执行离店,开始进店逻辑判断",
+		"@_name": "geek_sdk_log_null_current_ap_to_leave_shop_logic"
+	},
+	{
+		"#text": "息屏不做处理,同时停止运动检测和重置切换逻辑相关数据",
+		"@_name": "geek_sdk_log_off_screen_not_work_and_stop_move_check_reset_data"
+	},
+	{
+		"#text": "okhttp返回的错误为:%1$s",
+		"@_name": "geek_sdk_log_okhttp_response_error"
+	},
+	{
+		"#text": "解析到ap缓存为空或者个数为0",
+		"@_name": "geek_sdk_log_parse_ap_cache_null"
+	},
+	{
+		"#text": "获取场景时,解析数据出现异常",
+		"@_name": "geek_sdk_log_parse_error_when_get_scene"
+	},
+	{
+		"#text": "解析到ssid缓存为空或者个数为0",
+		"@_name": "geek_sdk_log_parse_ssid_cache_null"
+	},
+	{
+		"#text": "从poi缓存中获取基站场景卡数据",
+		"@_name": "geek_sdk_log_query_cell_scene_card_from_cache"
+	},
+	{
+		"#text": "从服务器获取基站场景卡数据",
+		"@_name": "geek_sdk_log_query_cell_scene_card_from_server"
+	},
+	{
+		"#text": "当前正在通过基站获取场景数据",
+		"@_name": "geek_sdk_log_querying_scene_by_cell"
+	},
+	{
+		"#text": "围栏当前正在快速识别当中",
+		"@_name": "geek_sdk_log_quick_scanning"
+	},
+	{
+		"#text": "所有场景都已离店,重新执行进店",
+		"@_name": "geek_sdk_log_reach_leave_shop_condition"
+	},
+	{
+		"#text": "离店时其他场景满足连续出现的条件",
+		"@_name": "geek_sdk_log_reach_other_scene_appear_condition_when_leave_shop"
+	},
+	{
+		"#text": "达到3次周期,不满足其他场景出现的条件",
+		"@_name": "geek_sdk_log_reach_three_check_not_meet_other_scene_appear_condition"
+	},
+	{
+		"#text": "达到3次检测离店周期,未发现离店的场景,重新检测",
+		"@_name": "geek_sdk_log_reach_three_leave_shop_check_and_not_find_leave_shop_scene"
+	},
+	{
+		"#text": "读取ap全量缓存数据",
+		"@_name": "geek_sdk_log_read_ap_cache_data"
+	},
+	{
+		"#text": "读取ap缓存diff数据",
+		"@_name": "geek_sdk_log_read_ap_cache_diff_data"
+	},
+	{
+		"#text": "接收到wifi回调",
+		"@_name": "geek_sdk_log_receive_wifi_callback"
+	},
+	{
+		"#text": "进店时,由于网络发生了变化或者到了重试时间,重新执行获取场景识别逻辑",
+		"@_name": "geek_sdk_log_redo_enter_shop_logic_because_the_network_has_changed_or_the_time_is_more_than_the_retry_time"
+	},
+	{
+		"#text": "切换时,由于网络发生了变化或者到了重试时间,重新执行获取场景识别逻辑",
+		"@_name": "geek_sdk_log_redo_enter_shop_logic_because_the_network_has_changed_or_the_time_is_more_than_the_retry_time_when_switch"
+	},
+	{
+		"#text": "注册WiFi回调观察者",
+		"@_name": "geek_sdk_log_register_wifi_callback_observer"
+	},
+	{
+		"#text": "剩余等级的场景：%1$s",
+		"@_name": "geek_sdk_log_remaining_level_scene"
+	},
+	{
+		"#text": "切换时,过滤几个条件后,剩余的WiFi有%1$s[BSSID:%2$s,level:%3$d]",
+		"@_name": "geek_sdk_log_remains_wifi_details"
+	},
+	{
+		"#text": "移除定位",
+		"@_name": "geek_sdk_log_remove_location"
+	},
+	{
+		"#text": "从classSceneCardMap中移除场景：%1$s",
+		"@_name": "geek_sdk_log_remove_scene_from_class_scene_card_map"
+	},
+	{
+		"#text": "移除:%1$s",
+		"@_name": "geek_sdk_log_remove_ssid"
+	},
+	{
+		"#text": "请求定位",
+		"@_name": "geek_sdk_log_request_location"
+	},
+	{
+		"#text": "\"客户端请求URL:%1$s\n请求参数:%2$s\"",
+		"@_name": "geek_sdk_log_request_params"
+	},
+	{
+		"#text": "由于距离上次处理WiFi回调时间超过%1$s,因此重置进店数据",
+		"@_name": "geek_sdk_log_reset_enter_shop_data_when_leave_shop"
+	},
+	{
+		"#text": "由于距离上次处理WiFi回调时间超过%1$s,因此重置离店数据",
+		"@_name": "geek_sdk_log_reset_leave_shop_data_when_leave_shop"
+	},
+	{
+		"#text": "重置运动检测状态",
+		"@_name": "geek_sdk_log_reset_move_check_state"
+	},
+	{
+		"#text": "重置wifi扫描加速策略数据",
+		"@_name": "geek_sdk_log_reset_the_wifi_scan_acceleration_policy_data"
+	},
+	{
+		"#text": "驻店场景已经达到10个,不检测附近其他场景",
+		"@_name": "geek_sdk_log_resident_scene_reach_ten_not_to_check_other_scene"
+	},
+	{
+		"#text": "返回内容body为空",
+		"@_name": "geek_sdk_log_response_body_empty"
+	},
+	{
+		"#text": "返回内容为空",
+		"@_name": "geek_sdk_log_response_empty"
+	},
+	{
+		"#text": "服务器响应:%1$s",
+		"@_name": "geek_sdk_log_response_result"
+	},
+	{
+		"#text": "重新执行进店逻辑",
+		"@_name": "geek_sdk_log_restart_enter_shop"
+	},
+	{
+		"#text": "[进店时]当前为后台模式",
+		"@_name": "geek_sdk_log_run_background_model_enter_shop"
+	},
+	{
+		"#text": "当前为前后台模式",
+		"@_name": "geek_sdk_log_run_foreground_background_model_enter_shop"
+	},
+	{
+		"#text": "[进店时]当前为前台模式",
+		"@_name": "geek_sdk_log_run_foreground_model_enter_shop"
+	},
+	{
+		"#text": "[进店时]当前运行模式是否是前台:%1$s",
+		"@_name": "geek_sdk_log_run_model_is_foreground"
+	},
+	{
+		"#text": "保存基站缓存成功，更新MD5",
+		"@_name": "geek_sdk_log_save_cell_cache_success_update_md5"
+	},
+	{
+		"#text": "保存围栏缓存成功，更新MD5",
+		"@_name": "geek_sdk_log_save_fence_cache_success_update_md5"
+	},
+	{
+		"#text": "间隔%1$d毫秒主动扫描wifi",
+		"@_name": "geek_sdk_log_scan_wifi"
+	},
+	{
+		"#text": "立即扫描WiFi",
+		"@_name": "geek_sdk_log_scan_wifi_immediately"
+	},
+	{
+		"#text": "没有找到场景卡数据",
+		"@_name": "geek_sdk_log_scene_data_not_found"
+	},
+	{
+		"#text": "%1$s加入到围栏的离店判断中",
+		"@_name": "geek_sdk_log_scene_join_fence_check"
+	},
+	{
+		"#text": "%1$s离开围栏，确认离店",
+		"@_name": "geek_sdk_log_scene_leave_fence"
+	},
+	{
+		"#text": "%1$s还在围栏中，不离店",
+		"@_name": "geek_sdk_log_scene_still_in_fence"
+	},
+	{
+		"#text": "屏幕状态发生改变,此时屏幕熄屏",
+		"@_name": "geek_sdk_log_screen_off"
+	},
+	{
+		"#text": "息屏,此时不处于离店逻辑,不往下操作",
+		"@_name": "geek_sdk_log_screen_off_and_is_not_leave_shop_state"
+	},
+	{
+		"#text": "息屏状态下,并且处于离店逻辑,每隔%1$d主动扫描WiFi",
+		"@_name": "geek_sdk_log_screen_off_and_scan_wifi_after_five_mins_at_leave_shop_state"
+	},
+	{
+		"#text": "熄屏状态不再进行进店逻辑判断!",
+		"@_name": "geek_sdk_log_screen_off_so_return"
+	},
+	{
+		"#text": "屏幕状态发生改变,此时屏幕亮屏",
+		"@_name": "geek_sdk_log_screen_on"
+	},
+	{
+		"#text": "亮屏需要扫描wifi:%1$s",
+		"@_name": "geek_sdk_log_screen_on_scan"
+	},
+	{
+		"#text": "亮屏移除定时扫描",
+		"@_name": "geek_sdk_log_screen_on_to_remove_scan"
+	},
+	{
+		"#text": "[场景日志]收集到的ap数为%1$d,包含poiId的个数为%2$d",
+		"@_name": "geek_sdk_log_send_scene_ap_num"
+	},
+	{
+		"#text": "[场景日志]正在处理场景日志",
+		"@_name": "geek_sdk_log_send_scene_log_is_operating_send"
+	},
+	{
+		"#text": "[场景日志]网络是否通畅?%1$s",
+		"@_name": "geek_sdk_log_send_scene_log_judge_network_available"
+	},
+	{
+		"#text": "[场景日志]WiFi是否已经连接?%1$s",
+		"@_name": "geek_sdk_log_send_scene_log_judge_wifi_connected"
+	},
+	{
+		"#text": "[场景日志]没有满足上传日志条件",
+		"@_name": "geek_sdk_log_send_scene_log_not_meet_condition"
+	},
+	{
+		"#text": "[场景日志]没有满足上传日志间隔时间条件",
+		"@_name": "geek_sdk_log_send_scene_log_not_meet_interval_condition"
+	},
+	{
+		"#text": "[场景日志]没有上传日志,可能日志内容为空",
+		"@_name": "geek_sdk_log_send_scene_log_not_send_log"
+	},
+	{
+		"#text": "[场景日志]日志接口%1$s,数据大小%2$d",
+		"@_name": "geek_sdk_log_send_scene_log_url_and_data_size"
+	},
+	{
+		"#text": "需要延时处理wifi回调:%1$s",
+		"@_name": "geek_sdk_log_should_delay_handle_wifi_callback"
+	},
+	{
+		"#text": "是否应该停止扫描线程:%1$s",
+		"@_name": "geek_sdk_log_should_stop_scan_thread"
+	},
+	{
+		"#text": "从缓存中获取的场景是:%1$s",
+		"@_name": "geek_sdk_log_show_scene_from_cache_data"
+	},
+	{
+		"#text": "从服务器获取的场景是:%1$s",
+		"@_name": "geek_sdk_log_show_scene_from_server"
+	},
+	{
+		"#text": "第一个共同样本的个数:%1$d,第二个共同样本的个数:%2$d,相同样本的个数:%3$d",
+		"@_name": "geek_sdk_log_size"
+	},
+	{
+		"#text": "没有启用驻店逻辑,%1$s直接进入驻店状态",
+		"@_name": "geek_sdk_log_skip_at_shop_logic"
+	},
+	{
+		"#text": "针对国美,开启扫描线程",
+		"@_name": "geek_sdk_log_specific_to_gome_open_scan_thread"
+	},
+	{
+		"#text": "针对国美,停止扫描线程",
+		"@_name": "geek_sdk_log_specific_to_gome_stop_scan_thread"
+	},
+	{
+		"#text": "%1$s符合驻店逻辑条件,进入驻店状态",
+		"@_name": "geek_sdk_log_ssid_at_shop"
+	},
+	{
+		"#text": "%1$s已驻店,开始查询场景服务",
+		"@_name": "geek_sdk_log_ssid_at_shop_start_to_query_scene_data"
+	},
+	{
+		"#text": "ssid缓存文件数据为空",
+		"@_name": "geek_sdk_log_ssid_cache_file_data_is_null"
+	},
+	{
+		"#text": "ssid缓存文件加解密出错",
+		"@_name": "geek_sdk_log_ssid_cache_file_encryption_and_decryption_error"
+	},
+	{
+		"#text": "[SSID列表]position=%1$s,value=null",
+		"@_name": "geek_sdk_log_ssid_data_cache_file_error"
+	},
+	{
+		"#text": "[SSID列表]等于null或者size=0",
+		"@_name": "geek_sdk_log_ssid_data_parse_error"
+	},
+	{
+		"#text": "拉取SSID缓存:%1$s",
+		"@_name": "geek_sdk_log_ssid_data_response"
+	},
+	{
+		"#text": "[SSID缓存]版本号和明文md5一致,不更新SSID缓存",
+		"@_name": "geek_sdk_log_ssid_data_version_same"
+	},
+	{
+		"#text": "%1$s符合进店逻辑条件,开始进入驻店逻辑的判断",
+		"@_name": "geek_sdk_log_ssid_enter_shop"
+	},
+	{
+		"#text": "ssid缓存文件已经损坏,重新请求服务器",
+		"@_name": "geek_sdk_log_ssid_file_damage_request_server"
+	},
+	{
+		"#text": "%1$s由于两次识别时间超过最大间隔时间而被移除",
+		"@_name": "geek_sdk_log_ssid_has_been_removed_because_of_beyond_max_record_interval_time"
+	},
+	{
+		"#text": "%1$s[%2$s]已被拉黑",
+		"@_name": "geek_sdk_log_ssid_is_black_ap"
+	},
+	{
+		"#text": "%1$s不在WiFi列表中,放弃获取场景数据",
+		"@_name": "geek_sdk_log_ssid_is_not_in_the_wifi_list_and_gives_up_to_get_scene_data"
+	},
+	{
+		"#text": "%1$s信号值一直非常强,符合进店逻辑条件,开始进入驻店逻辑的判断",
+		"@_name": "geek_sdk_log_ssid_level_always_strong_enter_shop"
+	},
+	{
+		"#text": "[SSID缓存(内存)]%1$s",
+		"@_name": "geek_sdk_log_ssid_memory_data"
+	},
+	{
+		"#text": "%1$s未满足进店逻辑条件",
+		"@_name": "geek_sdk_log_ssid_next_enter_shop_logic"
+	},
+	{
+		"#text": "%1$s不符合进店逻辑条件,已被移除",
+		"@_name": "geek_sdk_log_ssid_remove_from_map"
+	},
+	{
+		"#text": "开始计算平均方差",
+		"@_name": "geek_sdk_log_start_calculate_sqrt_average"
+	},
+	{
+		"#text": "开始基站延时驻店步数检测",
+		"@_name": "geek_sdk_log_start_cell_step_check"
+	},
+	{
+		"#text": "开始定时检测WiFi开关和扫描开关是否同时关闭",
+		"@_name": "geek_sdk_log_start_check_wifi_and_scan_switch"
+	},
+	{
+		"#text": "围栏已经在定位当中，所以不再主动请求定位",
+		"@_name": "geek_sdk_log_start_fence_success_dont_request"
+	},
+	{
+		"#text": "开始处理服务端返回的ap缓存数据",
+		"@_name": "geek_sdk_log_start_handle_ap_cache_data"
+	},
+	{
+		"#text": "开始初始化",
+		"@_name": "geek_sdk_log_start_init"
+	},
+	{
+		"#text": "开始运动检测",
+		"@_name": "geek_sdk_log_start_move_check"
+	},
+	{
+		"#text": "开启心跳机制",
+		"@_name": "geek_sdk_log_start_open_heart_beat"
+	},
+	{
+		"#text": "休眠时间结束,开启扫描,执行进店逻辑",
+		"@_name": "geek_sdk_log_start_scan_thread"
+	},
+	{
+		"#text": "开始扫描场景",
+		"@_name": "geek_sdk_log_start_to_scan_scene"
+	},
+	{
+		"#text": "停止基站延时驻店步数检测",
+		"@_name": "geek_sdk_log_stop_cell_step_check"
+	},
+	{
+		"#text": "停止围栏检测",
+		"@_name": "geek_sdk_log_stop_fence"
+	},
+	{
+		"#text": "围栏当前定位参数，时间：%1$d,距离：%2$f,定位模式：%3$s",
+		"@_name": "geek_sdk_log_stop_fence_location_param"
+	},
+	{
+		"#text": "熄屏状态下停止围栏定位检测",
+		"@_name": "geek_sdk_log_stop_fence_location_screen_off"
+	},
+	{
+		"#text": "当前没有围栏驻店场景，停止检测",
+		"@_name": "geek_sdk_log_stop_fence_no_resident"
+	},
+	{
+		"#text": "停止运动检测",
+		"@_name": "geek_sdk_log_stop_move_check"
+	},
+	{
+		"#text": "%1$d时间范围内,无进店历史记录,执行休眠%2$d,停止扫描",
+		"@_name": "geek_sdk_log_stop_scan_thread"
+	},
+	{
+		"#text": "停止扫描场景",
+		"@_name": "geek_sdk_log_stop_to_scan_scene"
+	},
+	{
+		"#text": "停止WiFi回调观察者",
+		"@_name": "geek_sdk_log_stop_wifi_callback_observer"
+	},
+	{
+		"#text": "定位成功",
+		"@_name": "geek_sdk_log_success_location"
+	},
+	{
+		"#text": "计算成功,静止时得到的平均方差为:%1$f",
+		"@_name": "geek_sdk_log_success_to_calculate_sqrt_average"
+	},
+	{
+		"#text": "定位成功:%1$f,%2$f",
+		"@_name": "geek_sdk_log_success_to_location"
+	},
+	{
+		"#text": "执行了SDK的release方法",
+		"@_name": "geek_sdk_log_success_to_release"
+	},
+	{
+		"#text": "保存缓存文件成功,更新版本号",
+		"@_name": "geek_sdk_log_success_to_save_cache_file_to_update_version"
+	},
+	{
+		"#text": "成功更新第一个样本",
+		"@_name": "geek_sdk_log_success_to_update_first_sample_data"
+	},
+	{
+		"#text": "切换检测次数:%1$d,%2$s出现的次数:%3$d",
+		"@_name": "geek_sdk_log_switch_check_ssid_appear_count"
+	},
+	{
+		"#text": "切换城市:%1$s",
+		"@_name": "geek_sdk_log_switch_to_city"
+	},
+	{
+		"#text": "检测次数:%1$d,达标次数:%2$d",
+		"@_name": "geek_sdk_log_the_check_count_reach_standard"
+	},
+	{
+		"#text": "[蓝牙]收集开关打开,请求场景卡收集一次",
+		"@_name": "geek_sdk_log_the_collection_switch_is_turned_on_and_the_request_scene_card_is_collected_once"
+	},
+	{
+		"#text": "重试次数已经达到两次,不再重试",
+		"@_name": "geek_sdk_log_the_number_of_retries_has_reached_twice_no_retry"
+	},
+	{
+		"#text": "一直非常强的次数是:%1$d",
+		"@_name": "geek_sdk_log_the_number_of_times_that_have_been_very_strong"
+	},
+	{
+		"#text": "达到检测信号非常强的次数:%1$d",
+		"@_name": "geek_sdk_log_the_number_of_times_the_detection_signal_is_very_strong"
+	},
+	{
+		"#text": "驻店场景数据为空",
+		"@_name": "geek_sdk_log_the_residency_scene_data_is_empty"
+	},
+	{
+		"#text": "场景[%1$s]是通过WiFi连接识别,此时连接的wifi不相同或已断开连接,确认离店",
+		"@_name": "geek_sdk_log_the_scene_get_scene_by_connect_wifi_at_this_time_connected_wifi_is_different_or_disconnect_so_confirm_leave_shop"
+	},
+	{
+		"#text": "场景[%1$s]是通过WiFi连接识别,此时该WiFi还没断开,不能离店",
+		"@_name": "geek_sdk_log_the_scene_get_scene_by_connect_wifi_at_this_time_this_wifi_not_disconnect_so_fail_to_leave_shop"
+	},
+	{
+		"#text": "把%1$s后面等级的场景：%2$s添加到驻店数据中",
+		"@_name": "geek_sdk_log_the_scenes_of_the_later_level_are_added_to_the_resident_data"
+	},
+	{
+		"#text": "计算多方有一方的场景只有一个热点,比较最大值",
+		"@_name": "geek_sdk_log_there_are_only_one_hotspot_in_scenario_where_multiple_parties_have_one_side"
+	},
+	{
+		"#text": "此次离店检测,%1$s没有丢失",
+		"@_name": "geek_sdk_log_this_time_leave_shop_result"
+	},
+	{
+		"#text": "满足不驻店指纹收集条件，开始收集指纹",
+		"@_name": "geek_sdk_log_time_to_collect_fingerprint_no_resident_shop"
+	},
+	{
+		"#text": "满足围栏定位条件，发起围栏定位",
+		"@_name": "geek_sdk_log_time_to_fence_location"
+	},
+	{
+		"#text": "开始遍历所有符合条件的WiFi,共%1$d个执行进店逻辑的判断",
+		"@_name": "geek_sdk_log_traversal_wifi_to_check_enter_shop_logic"
+	},
+	{
+		"#text": "当前满足进店逻辑且可用于请求服务器的SSID:%1$s[level:%2$d]",
+		"@_name": "geek_sdk_log_traverse_all_ssid_reach_enter_shop"
+	},
+	{
+		"#text": "扫描次数:%1$d,遍历ssidMap,%2$s出现次数:%3$d",
+		"@_name": "geek_sdk_log_traverse_ssid_map"
+	},
+	{
+		"#text": "两次回调间隔处理时间过短",
+		"@_name": "geek_sdk_log_two_callback_time_short"
+	},
+	{
+		"#text": "两次检测WiFi开关和扫描开关都是处于关闭状态,直接当作异常离店处理",
+		"@_name": "geek_sdk_log_two_check_result_is_close_to_handle_unusual_leave_shop"
+	},
+	{
+		"#text": "两个样本交集个数为:%1$d,全集个数为:%2$d,无交集个数为:%3$d",
+		"@_name": "geek_sdk_log_two_sample_data_calculate_result"
+	},
+	{
+		"#text": "相似度的最终结果为:%1$f",
+		"@_name": "geek_sdk_log_two_sample_data_final_similarity_result"
+	},
+	{
+		"#text": "两个样本交集个数为0,视为处于运动",
+		"@_name": "geek_sdk_log_two_sample_data_intersection_size_zero_think_move"
+	},
+	{
+		"#text": "计算结果,相似度为:%1$f,无交集占比:%2$f",
+		"@_name": "geek_sdk_log_two_sample_data_similarity_no_intersection_percent"
+	},
+	{
+		"#text": "两个样本都没有获取到WiFi数据,视为处于静止",
+		"@_name": "geek_sdk_log_two_sample_data_size_is_zero_to_think_tranquil"
+	},
+	{
+		"#text": "第一个样本的个数为:%1$d,第二个样本的个数为:%2$d",
+		"@_name": "geek_sdk_log_two_sample_data_wifi_size"
+	},
+	{
+		"#text": "更新识别逻辑状态",
+		"@_name": "geek_sdk_log_update_state"
+	},
+	{
+		"#text": "更新为进店状态",
+		"@_name": "geek_sdk_log_update_to_enter_shop"
+	},
+	{
+		"#text": "更新为离店状态",
+		"@_name": "geek_sdk_log_update_to_leave_shop"
+	},
+	{
+		"#text": "调用围栏进店",
+		"@_name": "geek_sdk_log_use_fence_enter_shop"
+	},
+	{
+		"#text": "%1$d毫秒内回调次数达到%2$d次",
+		"@_name": "geek_sdk_log_wifi_callback_achieve_times"
+	},
+	{
+		"#text": "回调次数不满足延时处理要求",
+		"@_name": "geek_sdk_log_wifi_callback_not_achieve_times"
+	},
+	{
+		"#text": "因为回调过于频繁，暂时不处理回调数据",
+		"@_name": "geek_sdk_log_wifi_callback_too_much"
+	},
+	{
+		"#text": "连接WiFi时WiFi已关闭",
+		"@_name": "geek_sdk_log_wifi_closed_when_connect_wifi"
+	},
+	{
+		"#text": "%1$s第%2$d次检测,共稳定出现%3$d次(信号强度大于%4$d)",
+		"@_name": "geek_sdk_log_wifi_detail_on_at_shop_logic"
+	},
+	{
+		"#text": "%1$s第%2$d次检测,共出现%3$d次信号增强",
+		"@_name": "geek_sdk_log_wifi_detail_on_enter_shop_logic"
+	},
+	{
+		"#text": "发现有场景的WiFi",
+		"@_name": "geek_sdk_log_wifi_has_scene_data_found"
+	},
+	{
+		"#text": "没找到有场景的WiFi",
+		"@_name": "geek_sdk_log_wifi_has_scene_data_not_found"
+	},
+	{
+		"#text": "%1$sWiFi还在",
+		"@_name": "geek_sdk_log_wifi_is_till"
+	},
+	{
+		"#text": "去除黑名单后,已无WiFi可用",
+		"@_name": "geek_sdk_log_wifi_list_after_filter_black_ap_is_null"
+	},
+	{
+		"#text": "去除重复后的WiFi列表:",
+		"@_name": "geek_sdk_log_wifi_list_after_filter_duplicate"
+	},
+	{
+		"#text": "wifi列表为空",
+		"@_name": "geek_sdk_log_wifi_list_is_empty"
+	},
+	{
+		"#text": "%1$s正处于驻店逻辑判断中",
+		"@_name": "geek_sdk_log_wifi_on_at_shop_logic"
+	},
+	{
+		"#text": "%1$s正处于进店逻辑判断中",
+		"@_name": "geek_sdk_log_wifi_on_enter_shop_logic"
+	},
+	{
+		"#text": "%1$s达到最大检测次数,不再参与进店逻辑的判断",
+		"@_name": "geek_sdk_log_wifi_reach_max_check_count"
+	},
+	{
+		"#text": "WiFi扫描结果:",
+		"@_name": "geek_sdk_log_wifi_scan_result"
+	},
+	{
+		"#text": "%6$d.%1$s[BSSID:%2$s,capabilities:%3$s,level:%4$d,frequency:%5$d]",
+		"@_name": "geek_sdk_log_wifi_scan_result_detail"
+	},
+	{
+		"#text": "本次WiFi回调获取到的列表和上次的一样,因此不处理识别逻辑",
+		"@_name": "geek_sdk_log_wifi_scan_result_is_as_same_as_last_time"
+	},
+	{
+		"#text": "此时息屏不去主动定位",
+		"@_name": "geek_sdk_screen_off_not_to_location"
+	},
+	{
+		"#text": "Canceled by user",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "Get store information",
+		"@_name": "get_shop_info"
+	},
+	{
+		"#text": "Get stock information",
+		"@_name": "get_stock_info"
+	},
+	{
+		"#text": "Authorization failed, please check network or system time and try again",
+		"@_name": "get_token_failed"
+	},
+	{
+		"#text": "Retrieving data",
+		"@_name": "getting_data"
+	},
+	{
+		"#text": "取消收藏到 Aicy 纵览",
+		"@_name": "global_collection_cancel"
+	},
+	{
+		"#text": "Selected apps will auto-sync to Favorites",
+		"@_name": "global_collection_select_title"
+	},
+	{
+		"#text": "Supported",
+		"@_name": "global_collection_support_title"
+	},
+	{
+		"#text": "同步收藏到 Aicy 纵览",
+		"@_name": "global_collection_tips"
+	},
+	{
+		"#text": "Manage auto favorited apps",
+		"@_name": "global_collection_title"
+	},
+	{
+		"#text": "Converging information at a glance",
+		"@_name": "guide_app_summary"
+	},
+	{
+		"#text": "Aggregate contents in apps",
+		"@_name": "guide_bookmark_summary"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "guide_exit"
+	},
+	{
+		"#text": "Aggregate express delivery info from different platforms",
+		"@_name": "guide_express_summary"
+	},
+	{
+		"#text": "Aggregate news of all channels",
+		"@_name": "guide_news_summary"
+	},
+	{
+		"#text": "Hello",
+		"@_name": "hello"
+	},
+	{
+		"#text": "More information",
+		"@_name": "hot_news_more"
+	},
+	{
+		"#text": "Copy link",
+		"@_name": "html_viewer_copy_link"
+	},
+	{
+		"#text": "Open in browser",
+		"@_name": "html_viewer_open_in_browser"
+	},
+	{
+		"#text": "Share",
+		"@_name": "html_viewer_share"
+	},
+	{
+		"#text": "取消",
+		"@_name": "hybrid_cancel"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "hybrid_msg_loading"
+	},
+	{
+		"#text": "网络异常，点击重新加载",
+		"@_name": "hybrid_network_error_to_refresh"
+	},
+	{
+		"#text": "无网络连接，请检查网络设置",
+		"@_name": "hybrid_no_network_to_setting"
+	},
+	{
+		"#text": "确定",
+		"@_name": "hybrid_ok"
+	},
+	{
+		"#text": "设置网络",
+		"@_name": "hybrid_setting_network"
+	},
+	{
+		"#text": "Pic to-do",
+		"@_name": "image_todo"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install_app"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "install_button_cancel"
+	},
+	{
+		"#text": "Hide",
+		"@_name": "install_button_hide"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install_button_install"
+	},
+	{
+		"#text": "Install by mobile network",
+		"@_name": "install_button_install_mobile"
+	},
+	{
+		"#text": "打开",
+		"@_name": "install_complete_text"
+	},
+	{
+		"#text": "%d%%",
+		"@_name": "install_download_progress"
+	},
+	{
+		"#text": "An error occurred, code = %d",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Failed to install DirectService",
+		"@_name": "install_failure"
+	},
+	{
+		"#text": "安装",
+		"@_name": "install_idle_text"
+	},
+	{
+		"#text": "Please install the Maps app first",
+		"@_name": "install_map_tips"
+	},
+	{
+		"#text": "0%",
+		"@_name": "install_progress_default"
+	},
+	{
+		"#text": "Install successful, open quick app immediately",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "install_title_downloading"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "install_title_installing"
+	},
+	{
+		"#text": "Launching",
+		"@_name": "install_title_launching"
+	},
+	{
+		"#text": "Install DirectService to open quick app",
+		"@_name": "install_title_prompt"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "installing"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "installing_text"
+	},
+	{
+		"#text": "Please process the return value",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Learn about My Favorites",
+		"@_name": "introduce_about_bookmark"
+	},
+	{
+		"#text": "Learn about My Favorites",
+		"@_name": "introduce_about_bookmark_1"
+	},
+	{
+		"#text": "How to add to Favorites",
+		"@_name": "introduce_add_bookmark"
+	},
+	{
+		"#text": "Provide multiple ways to add to Favorites",
+		"@_name": "introduce_add_summary"
+	},
+	{
+		"#text": "Easy add to Favorites",
+		"@_name": "introduce_add_title"
+	},
+	{
+		"#text": "Easy find all favorited items on Minus 1 Screen",
+		"@_name": "introduce_find_summary"
+	},
+	{
+		"#text": "Easy find favorites",
+		"@_name": "introduce_find_title"
+	},
+	{
+		"#text": "Recreate page layout for better reading experience",
+		"@_name": "introduce_read_summary"
+	},
+	{
+		"#text": "Comfortable reading Favorites",
+		"@_name": "introduce_read_title"
+	},
+	{
+		"#text": "Tap the Favorites button in the app to sync it to Minus 1 Screen. You will be notified if favorited successfully. Support: WeChat, Taobao, Jinri Toutiao and other hot apps",
+		"@_name": "introduce_summary_1"
+	},
+	{
+		"#text": "Long press the text in target page to add the page to Favorites via Picker",
+		"@_name": "introduce_summary_2"
+	},
+	{
+		"#text": "On the target page, open the Share menu, find and tap To Aicy Glance",
+		"@_name": "introduce_summary_3"
+	},
+	{
+		"#text": "Favorite via auto-sync",
+		"@_name": "introduce_title_1"
+	},
+	{
+		"#text": "Favorite via Picker",
+		"@_name": "introduce_title_2"
+	},
+	{
+		"#text": "By sharing to My Favorites",
+		"@_name": "introduce_title_3"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "My Favorites",
+		"@_name": "label_my_favorite"
+	},
+	{
+		"#text": "Life",
+		"@_name": "life_package_name"
+	},
+	{
+		"#text": "Local time",
+		"@_name": "local_time"
+	},
+	{
+		"#text": "Acquire verification code",
+		"@_name": "login_get_identifying_code"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Map",
+		"@_name": "meizu_map_package_name"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "menu_action_setting"
+	},
+	{
+		"#text": "Cancel pin to top",
+		"@_name": "menu_cancel_top"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "menu_delete"
+	},
+	{
+		"#text": "Display settings",
+		"@_name": "menu_display_setting"
+	},
+	{
+		"#text": "Edit title",
+		"@_name": "menu_edit"
+	},
+	{
+		"#text": "Open in Browser",
+		"@_name": "menu_operator"
+	},
+	{
+		"#text": "Set alert",
+		"@_name": "menu_remind"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "menu_remove"
+	},
+	{
+		"#text": "Share",
+		"@_name": "menu_share"
+	},
+	{
+		"#text": "Pin to top of list",
+		"@_name": "menu_top"
+	},
+	{
+		"#text": "Swipe down to view more quick apps",
+		"@_name": "mini_app_tips"
+	},
+	{
+		"#text": "¥",
+		"@_name": "money_symbol"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "More QuickApps",
+		"@_name": "more_quick_app"
+	},
+	{
+		"#text": "More QuickGames",
+		"@_name": "more_quick_game"
+	},
+	{
+		"#text": "联系人信息为空",
+		"@_name": "msg_empty_contact"
+	},
+	{
+		"#text": "My teams",
+		"@_name": "my_team"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "4 teams can be added at most",
+		"@_name": "nba_4_team_at_most"
+	},
+	{
+		"#text": "Edit teams",
+		"@_name": "nba_edit_teams"
+	},
+	{
+		"#text": "Latest News",
+		"@_name": "nba_news"
+	},
+	{
+		"#text": "More news",
+		"@_name": "nba_news_more"
+	},
+	{
+		"#text": "Change",
+		"@_name": "nba_news_switch"
+	},
+	{
+		"#text": "Network error. Try later",
+		"@_name": "network_exception"
+	},
+	{
+		"#text": "405 Not Found",
+		"@_name": "network_html_load_exception"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "network_unavailable"
+	},
+	{
+		"#text": "取消",
+		"@_name": "news_cancel"
+	},
+	{
+		"#text": "换一换",
+		"@_name": "news_change"
+	},
+	{
+		"#text": "确定",
+		"@_name": "news_confirm"
+	},
+	{
+		"#text": "网络异常, 点击重试",
+		"@_name": "news_error_click_retry"
+	},
+	{
+		"#text": "无更多内容",
+		"@_name": "news_error_no_more"
+	},
+	{
+		"#text": "刚刚",
+		"@_name": "news_lite_just_now"
+	},
+	{
+		"#text": "正在加载",
+		"@_name": "news_loading_text"
+	},
+	{
+		"#text": "更多热点",
+		"@_name": "news_more"
+	},
+	{
+		"#text": "网络异常, 请稍后重试",
+		"@_name": "news_network_error"
+	},
+	{
+		"#text": "%s次播放",
+		"@_name": "news_play_count"
+	},
+	{
+		"#text": "上滑加载",
+		"@_name": "news_slide_more"
+	},
+	{
+		"#text": "新闻资讯版本太低，播放失败",
+		"@_name": "news_tip_dialog_app_version_too_low"
+	},
+	{
+		"#text": "无网络连接, 请检查网络设置",
+		"@_name": "news_tip_dialog_wifi_not_connected"
+	},
+	{
+		"#text": "立即更新",
+		"@_name": "news_update"
+	},
+	{
+		"#text": "No collections",
+		"@_name": "no_bookmark"
+	},
+	{
+		"#text": "No express",
+		"@_name": "no_express"
+	},
+	{
+		"#text": "No express delivery",
+		"@_name": "no_express_1"
+	},
+	{
+		"#text": "No Net",
+		"@_name": "no_net"
+	},
+	{
+		"#text": "No title",
+		"@_name": "no_title_label"
+	},
+	{
+		"#text": "Note  (%d)",
+		"@_name": "note_tilte"
+	},
+	{
+		"#text": "Open %s",
+		"@_name": "open_app"
+	},
+	{
+		"#text": "Open with",
+		"@_name": "open_map_choose_title"
+	},
+	{
+		"#text": "This page is unavailable",
+		"@_name": "page_error"
+	},
+	{
+		"#text": "After information improved, you can view parking location on Glance",
+		"@_name": "parking_card_bluetooth_tips"
+	},
+	{
+		"#text": "I Knew",
+		"@_name": "parking_mark_confirm"
+	},
+	{
+		"#text": "You Can Check the Photo in Aicy Glance",
+		"@_name": "parking_mark_success_message"
+	},
+	{
+		"#text": ">Mark Success",
+		"@_name": "parking_mark_success_title"
+	},
+	{
+		"#text": "Connect the car bluetooth to use this function",
+		"@_name": "parking_support_tips"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "pause"
+	},
+	{
+		"#text": "Credit card paid back. Ignore this reminder?",
+		"@_name": "payment_item_read_credit"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "payment_item_read_ignore"
+	},
+	{
+		"#text": "Phone topped up. Ignore this reminder?",
+		"@_name": "payment_item_read_phone"
+	},
+	{
+		"#text": "Violation handled. Ignore this reminder?",
+		"@_name": "payment_item_read_violation"
+	},
+	{
+		"#text": "Aicy Glance needs access to network connection, location, SMS, and microphone to create the service card",
+		"@_name": "permission_dialog_message"
+	},
+	{
+		"#text": "Flight delayed",
+		"@_name": "plane_delay_time"
+	},
+	{
+		"#text": "Play",
+		"@_name": "play"
+	},
+	{
+		"#text": "For My Favorites",
+		"@_name": "preference_bookmark_summary"
+	},
+	{
+		"#text": "For Express Updates",
+		"@_name": "preference_express_summary"
+	},
+	{
+		"#text": "For Parking Position",
+		"@_name": "preference_parking_summary"
+	},
+	{
+		"#text": "For Commuter traffic",
+		"@_name": "preference_route_summary"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "MzPullRefreshLayout",
+		"@_name": "ptr_label"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "just now",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "seconds ago",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "Keep 1 at least",
+		"@_name": "quick_action_empty_tips"
+	},
+	{
+		"#text": "Add up to 12",
+		"@_name": "quick_action_full_tips"
+	},
+	{
+		"#text": "Added shortcuts %s/12",
+		"@_name": "quick_action_select"
+	},
+	{
+		"#text": "Hold and drag to arrange icons",
+		"@_name": "quick_action_tips"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "quick_action_user_define"
+	},
+	{
+		"#text": "Need to install %1$s",
+		"@_name": "quick_actions_app_not_installed"
+	},
+	{
+		"#text": "App version mismatch",
+		"@_name": "quick_actions_app_version_mismatch"
+	},
+	{
+		"#text": "Change",
+		"@_name": "quick_actions_change"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "quick_actions_custom"
+	},
+	{
+		"#text": "Customize function shortcuts",
+		"@_name": "quick_actions_custom_actions"
+	},
+	{
+		"#text": "Automatic",
+		"@_name": "quick_actions_intelligent"
+	},
+	{
+		"#text": "Adjust order",
+		"@_name": "quick_actions_sort"
+	},
+	{
+		"#text": "Drag icons on the right side to adjust their order",
+		"@_name": "quick_actions_sort_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "quick_actions_sort_finish"
+	},
+	{
+		"#text": "Function switch",
+		"@_name": "quick_actions_switch"
+	},
+	{
+		"#text": "Function shortcut",
+		"@_name": "quick_actions_title"
+	},
+	{
+		"#text": "Add to Me",
+		"@_name": "quick_app_add_to_favourite"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "quick_app_delete"
+	},
+	{
+		"#text": "Recently used",
+		"@_name": "quick_app_recent"
+	},
+	{
+		"#text": "Featured Quick Apps",
+		"@_name": "quick_app_select"
+	},
+	{
+		"#text": "History and favorite QuickApps show here",
+		"@_name": "quick_app_tips"
+	},
+	{
+		"#text": "Top",
+		"@_name": "quick_app_top_favourite"
+	},
+	{
+		"#text": "Re-acquire in %s sec",
+		"@_name": "re_send_verify_code_message"
+	},
+	{
+		"#text": "%1$s words. Takes %2$s min to read",
+		"@_name": "reader_desc"
+	},
+	{
+		"#text": "Reading mode",
+		"@_name": "reader_mode_title"
+	},
+	{
+		"#text": "News",
+		"@_name": "reader_pkg_name"
+	},
+	{
+		"#text": "Save photo",
+		"@_name": "reader_save_photo"
+	},
+	{
+		"#text": "Saved",
+		"@_name": "reader_save_photo_complete"
+	},
+	{
+		"#text": "Search title",
+		"@_name": "reader_search_hint"
+	},
+	{
+		"#text": "Classic",
+		"@_name": "reader_setting_bg_1"
+	},
+	{
+		"#text": "Eye-friendly",
+		"@_name": "reader_setting_bg_2"
+	},
+	{
+		"#text": "Pink",
+		"@_name": "reader_setting_bg_3"
+	},
+	{
+		"#text": "Cool",
+		"@_name": "reader_setting_bg_4"
+	},
+	{
+		"#text": "Done",
+		"@_name": "reader_setting_finish"
+	},
+	{
+		"#text": "Standard",
+		"@_name": "reader_setting_standard"
+	},
+	{
+		"#text": "Share photo",
+		"@_name": "reader_share_photo"
+	},
+	{
+		"#text": "Need to install Alipay",
+		"@_name": "recall_alipay_tips"
+	},
+	{
+		"#text": "Need to install %s",
+		"@_name": "recall_app_tips"
+	},
+	{
+		"#text": "Recognize Car Bluetooth by Aicy",
+		"@_name": "recognize_car_bl_auto"
+	},
+	{
+		"#text": "Parking Record Failed",
+		"@_name": "record_fail"
+	},
+	{
+		"#text": "Audio to-do",
+		"@_name": "record_todo"
+	},
+	{
+		"#text": "Have a nice holiday!",
+		"@_name": "regard_festival"
+	},
+	{
+		"#text": "Hello!",
+		"@_name": "regard_hello"
+	},
+	{
+		"#text": "Time flies. Sleep early.",
+		"@_name": "regard_sleep"
+	},
+	{
+		"#text": "Set alert",
+		"@_name": "remind_add"
+	},
+	{
+		"#text": "Set alert",
+		"@_name": "remind_set"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "remove"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "remove_ad"
+	},
+	{
+		"#text": "Remove from Favorites",
+		"@_name": "remove_bookmark"
+	},
+	{
+		"#text": "Remove %1$d Favorites",
+		"@_name": "remove_bookmark_number"
+	},
+	{
+		"#text": "Remove Favorites",
+		"@_name": "remove_bookmark_prompt_title"
+	},
+	{
+		"#text": "Delete %1$d messages",
+		"@_name": "remove_express_number"
+	},
+	{
+		"#text": "%1$s has been uninstalled, want to install?",
+		"@_name": "restore_dialog_text"
+	},
+	{
+		"#text": "Save",
+		"@_name": "save"
+	},
+	{
+		"#text": "Authorization failed. Error getting info about %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "Installed apps",
+		"@_name": "search_app"
+	},
+	{
+		"#text": "Music",
+		"@_name": "search_audio"
+	},
+	{
+		"#text": "Search web pages, settings, apps, videos...",
+		"@_name": "search_click_to_search"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "search_contact"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_hint"
+	},
+	{
+		"#text": "Search %1$s",
+		"@_name": "search_hint_by_type"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Online apps",
+		"@_name": "search_mz_app"
+	},
+	{
+		"#text": "Online themes",
+		"@_name": "search_mz_theme"
+	},
+	{
+		"#text": "Online videos",
+		"@_name": "search_mz_video"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "search_operator_collapsed"
+	},
+	{
+		"#text": "Expand",
+		"@_name": "search_operator_expaned"
+	},
+	{
+		"#text": "Search suggestion",
+		"@_name": "search_search_engine"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "search_setting"
+	},
+	{
+		"#text": "Messages",
+		"@_name": "search_sms"
+	},
+	{
+		"#text": "Only Record %1$s",
+		"@_name": "select_car_bl_name"
+	},
+	{
+		"#text": "\"Only record selected device's parking info\"",
+		"@_name": "select_car_bl_summary"
+	},
+	{
+		"#text": "Select Your Car Bluetooth",
+		"@_name": "select_car_bl_title"
+	},
+	{
+		"#text": "Set vehicle information",
+		"@_name": "set_aicy_car_info"
+	},
+	{
+		"#text": "No matching address",
+		"@_name": "setting_no_matched_address"
+	},
+	{
+		"#text": "Notify calendar event",
+		"@_name": "settings_calendar_summary"
+	},
+	{
+		"#text": "Calendar card",
+		"@_name": "settings_calendar_title"
+	},
+	{
+		"#text": "Football Info",
+		"@_name": "settings_football_title"
+	},
+	{
+		"#text": "Record motion &amp; sleep info and report weekly",
+		"@_name": "settings_health_summary"
+	},
+	{
+		"#text": "Sports &amp; Health",
+		"@_name": "settings_health_title"
+	},
+	{
+		"#text": "NBA Info",
+		"@_name": "settings_media_nba"
+	},
+	{
+		"#text": "\"Show the team's range and news of interest\"",
+		"@_name": "settings_media_nba_summary"
+	},
+	{
+		"#text": "Real-time record data usage",
+		"@_name": "settings_mobile_data_summary"
+	},
+	{
+		"#text": "Traffic statistics",
+		"@_name": "settings_mobile_data_title"
+	},
+	{
+		"#text": "Recommend shops and services based on your location",
+		"@_name": "settings_nearby_recommend_summary"
+	},
+	{
+		"#text": "Recommend nearby card",
+		"@_name": "settings_nearby_recommend_title"
+	},
+	{
+		"#text": "Manage orders initiated by scene service card",
+		"@_name": "settings_order_summary"
+	},
+	{
+		"#text": "Order management",
+		"@_name": "settings_order_title"
+	},
+	{
+		"#text": "Quick start specific function in app",
+		"@_name": "settings_quick_actions_summary"
+	},
+	{
+		"#text": "Function shortcut",
+		"@_name": "settings_quick_actions_title"
+	},
+	{
+		"#text": "Remind me in special scenes",
+		"@_name": "settings_regard_summary"
+	},
+	{
+		"#text": "Greetings",
+		"@_name": "settings_regard_title"
+	},
+	{
+		"#text": "Login/Register",
+		"@_name": "settings_register_login"
+	},
+	{
+		"#text": "Manage phone no. bound in the card for express updates",
+		"@_name": "settings_subscribe_express_summary"
+	},
+	{
+		"#text": "Express subscription",
+		"@_name": "settings_subscribe_express_title"
+	},
+	{
+		"#text": "Offer me food, shopping and other info at the right time",
+		"@_name": "settings_timely_remind_summary"
+	},
+	{
+		"#text": "Timely remind",
+		"@_name": "settings_timely_remind_title"
+	},
+	{
+		"#text": "Travel card",
+		"@_name": "settings_travel_title"
+	},
+	{
+		"#text": "sharedream-lib-base",
+		"@_name": "sharedream_lib_name"
+	},
+	{
+		"#text": "有新的通知",
+		"@_name": "sharedream_ticker"
+	},
+	{
+		"#text": "欢迎来到%1$s！",
+		"@_name": "sharedream_title"
+	},
+	{
+		"#text": "Shot to Mark Parking Location",
+		"@_name": "shot_to_mark"
+	},
+	{
+		"#text": "\"Sim %s \"",
+		"@_name": "sim_card"
+	},
+	{
+		"#text": "Airport arrived",
+		"@_name": "smart_remind_airport"
+	},
+	{
+		"#text": "Best route",
+		"@_name": "smart_remind_best_route"
+	},
+	{
+		"#text": "Pay now",
+		"@_name": "smart_remind_bill_btn"
+	},
+	{
+		"#text": "Credit card %1$s, its bill in %2$s is: %3$s RMB. If you have repaid, please ignore",
+		"@_name": "smart_remind_bill_message"
+	},
+	{
+		"#text": "Credit card %1$s, bill in %2$s. If you have repaid, please ignore",
+		"@_name": "smart_remind_bill_message_no_money"
+	},
+	{
+		"#text": "end with %1$s",
+		"@_name": "smart_remind_bill_number"
+	},
+	{
+		"#text": "Please pay off the credit card bill",
+		"@_name": "smart_remind_bill_title"
+	},
+	{
+		"#text": "Plane delay risk",
+		"@_name": "smart_remind_delay_plane"
+	},
+	{
+		"#text": "Train delay risk",
+		"@_name": "smart_remind_delay_train"
+	},
+	{
+		"#text": "Mail No: %1$s, tap to see details",
+		"@_name": "smart_remind_express_agent_sign_content"
+	},
+	{
+		"#text": "Click to see details",
+		"@_name": "smart_remind_express_agent_sign_content_no_mialno"
+	},
+	{
+		"#text": "Your %1$s express is available",
+		"@_name": "smart_remind_express_agent_sign_title"
+	},
+	{
+		"#text": "It takes %s to drive there",
+		"@_name": "smart_remind_flight_message"
+	},
+	{
+		"#text": "Please go to %s airport",
+		"@_name": "smart_remind_flight_title"
+	},
+	{
+		"#text": "Set off",
+		"@_name": "smart_remind_leave_station"
+	},
+	{
+		"#text": "Driving to %s takes",
+		"@_name": "smart_remind_message_flight"
+	},
+	{
+		"#text": "Driving to %s takes",
+		"@_name": "smart_remind_message_train"
+	},
+	{
+		"#text": "Navigate to airport",
+		"@_name": "smart_remind_native_to_airport"
+	},
+	{
+		"#text": "Navigate to station",
+		"@_name": "smart_remind_native_to_station"
+	},
+	{
+		"#text": "Phone %s is in arrears and service will be stopped by the carrier. If you have topped up, please ignore this reminder",
+		"@_name": "smart_remind_phone1_message"
+	},
+	{
+		"#text": "Top up the phone %s",
+		"@_name": "smart_remind_phone1_title"
+	},
+	{
+		"#text": "Top up",
+		"@_name": "smart_remind_phone_btn"
+	},
+	{
+		"#text": "Phone is in arrears and service will be stopped by the carrier. If you have topped up, please ignore this reminder",
+		"@_name": "smart_remind_phone_message"
+	},
+	{
+		"#text": "Please top up your phone",
+		"@_name": "smart_remind_phone_title"
+	},
+	{
+		"#text": "Station arrived",
+		"@_name": "smart_remind_station"
+	},
+	{
+		"#text": "Take off",
+		"@_name": "smart_remind_take_off"
+	},
+	{
+		"#text": "Aicy flight reminder",
+		"@_name": "smart_remind_title_flight"
+	},
+	{
+		"#text": "Aicy train reminder",
+		"@_name": "smart_remind_title_train"
+	},
+	{
+		"#text": "It takes %s to drive there",
+		"@_name": "smart_remind_train_message"
+	},
+	{
+		"#text": "Please go to %s station",
+		"@_name": "smart_remind_train_title"
+	},
+	{
+		"#text": "Pre-cached video for your journey",
+		"@_name": "smart_remind_video_cache"
+	},
+	{
+		"#text": "Tomorrow fly to %1$s. Video can be viewed in flight mode",
+		"@_name": "smart_remind_video_cache_content"
+	},
+	{
+		"#text": "Tomorrow travel by plane. Video can be viewed in flight mode",
+		"@_name": "smart_remind_video_cache_content_no_dst"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Collections",
+		"@_name": "sync_system_setting_description"
+	},
+	{
+		"#text": "Request timeout. Please retry.",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Tencent Map",
+		"@_name": "tecent_pkg"
+	},
+	{
+		"#text": "输入内容",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Now",
+		"@_name": "time_now"
+	},
+	{
+		"#text": "数据来源百度地图",
+		"@_name": "tip_data_source"
+	},
+	{
+		"#text": "Delete recordings",
+		"@_name": "tip_delete_record"
+	},
+	{
+		"#text": "点击加载更多数据",
+		"@_name": "tip_load_more"
+	},
+	{
+		"#text": "加载中...",
+		"@_name": "tip_loading"
+	},
+	{
+		"#text": "Record not found",
+		"@_name": "tip_no_file"
+	},
+	{
+		"#text": "米佳信析宝提供服务",
+		"@_name": "tip_services_provide"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "title_activity_voice_support_setting"
+	},
+	{
+		"#text": "充流量",
+		"@_name": "title_buy_data"
+	},
+	{
+		"#text": "充话费",
+		"@_name": "title_buy_tel"
+	},
+	{
+		"#text": "魅友卡",
+		"@_name": "title_mz_card"
+	},
+	{
+		"#text": "手机充值",
+		"@_name": "title_phone_recharge"
+	},
+	{
+		"#text": "To-do",
+		"@_name": "todo"
+	},
+	{
+		"#text": "Add to-do",
+		"@_name": "todo_add"
+	},
+	{
+		"#text": "Uncompleted",
+		"@_name": "todo_cancel"
+	},
+	{
+		"#text": "Clear completed items?",
+		"@_name": "todo_clear_confirm"
+	},
+	{
+		"#text": "Completed",
+		"@_name": "todo_complete"
+	},
+	{
+		"#text": "Delete to-do",
+		"@_name": "todo_delete"
+	},
+	{
+		"#text": "Write a to-do list",
+		"@_name": "todo_enter"
+	},
+	{
+		"#text": "Done",
+		"@_name": "todo_finish"
+	},
+	{
+		"#text": "Create to-do",
+		"@_name": "todo_gen"
+	},
+	{
+		"#text": "%1$s to-dos left",
+		"@_name": "todo_more"
+	},
+	{
+		"#text": "Create to-do",
+		"@_name": "todo_new"
+	},
+	{
+		"#text": "No to-dos",
+		"@_name": "todo_none"
+	},
+	{
+		"#text": "To be reminded",
+		"@_name": "todo_remind"
+	},
+	{
+		"#text": "To-do  (%d)",
+		"@_name": "todo_title"
+	},
+	{
+		"#text": "Top to-do",
+		"@_name": "todo_top"
+	},
+	{
+		"#text": "Audio to-do",
+		"@_name": "todo_voice"
+	},
+	{
+		"#text": "Please speak",
+		"@_name": "todo_voice_tip"
+	},
+	{
+		"#text": "Most used apps",
+		"@_name": "top_used_app"
+	},
+	{
+		"#text": "B",
+		"@_name": "traffic_byteShort"
+	},
+	{
+		"#text": "GB",
+		"@_name": "traffic_gigabyteShort"
+	},
+	{
+		"#text": "KB",
+		"@_name": "traffic_kilobyteShort"
+	},
+	{
+		"#text": "MB",
+		"@_name": "traffic_megabyteShort"
+	},
+	{
+		"#text": "1 sheet",
+		"@_name": "traffic_one_sheet"
+	},
+	{
+		"#text": "PB",
+		"@_name": "traffic_petabyte"
+	},
+	{
+		"#text": "TB",
+		"@_name": "traffic_terabyte"
+	},
+	{
+		"#text": "Traffic ticket: ¥%1$s",
+		"@_name": "traffic_violation_money"
+	},
+	{
+		"#text": "Traffic violation query",
+		"@_name": "traffic_violation_view"
+	},
+	{
+		"#text": "Tickets need to pay",
+		"@_name": "traffic_violation_wait"
+	},
+	{
+		"#text": "Select destination",
+		"@_name": "train_select_arrive_station"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "Authorization failed, please retry later.",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "Your request is too frequent",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Update",
+		"@_name": "update_app"
+	},
+	{
+		"#text": "To use this feature, upgrade Meizu News first",
+		"@_name": "update_meizu_reader_tips"
+	},
+	{
+		"#text": "Using traffic download",
+		"@_name": "use_mobile_download"
+	},
+	{
+		"#text": "Try now",
+		"@_name": "use_now"
+	},
+	{
+		"#text": "Direct query by voice is more convenient",
+		"@_name": "voice_ball_guide_tips"
+	},
+	{
+		"#text": "SmartVoice",
+		"@_name": "voice_support"
+	},
+	{
+		"#text": "Voice ball",
+		"@_name": "voice_support_ball"
+	},
+	{
+		"#text": "Privacy",
+		"@_name": "voice_support_private"
+	},
+	{
+		"#text": "If opened, you can access to Aicy Glance when screen locked with long-press Home button redirecting to Aicy Glance",
+		"@_name": "voice_support_private_lock_summary"
+	},
+	{
+		"#text": "If opened, you can access to Aicy Glance when screen locked with double-press Home button redirecting to Aicy Glance",
+		"@_name": "voice_support_private_lock_summary_1"
+	},
+	{
+		"#text": "Allow access when locked",
+		"@_name": "voice_support_private_lock_title"
+	},
+	{
+		"#text": "Go to Aicy Glance and open voice detecting",
+		"@_name": "voice_support_quick_ask_summary"
+	},
+	{
+		"#text": "Ask directly",
+		"@_name": "voice_support_quick_ask_title"
+	},
+	{
+		"#text": "Show the real-time weather in your place",
+		"@_name": "weather_card_settings_summary"
+	},
+	{
+		"#text": "Thunderstorms will come. Bring an umbrella.",
+		"@_name": "weather_remind_rain"
+	},
+	{
+		"#text": "Temperature: %1$s degree",
+		"@_name": "weather_temperature"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "明天",
+		"@_name": "week_tomorrow"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Welcome to Aicy Glance",
+		"@_name": "welcome_assistant"
+	}
+]

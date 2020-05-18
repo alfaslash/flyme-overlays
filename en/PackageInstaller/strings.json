@@ -1,0 +1,5020 @@
+[
+	{
+		"#text": "Delete call logs",
+		"@_name": "PERM_ID_DELETE_CALLLOG"
+	},
+	{
+		"#text": "Delete contacts",
+		"@_name": "PERM_ID_DELETE_CONTACT"
+	},
+	{
+		"#text": "Delete MMS",
+		"@_name": "PERM_ID_DELETE_MMSDB"
+	},
+	{
+		"#text": "Delete SMS",
+		"@_name": "PERM_ID_DELETE_SMSDB"
+	},
+	{
+		"#text": "Modify call logs",
+		"@_name": "PERM_ID_WRITE_CALLLOG"
+	},
+	{
+		"#text": "Modify contacts",
+		"@_name": "PERM_ID_WRITE_CONTACT"
+	},
+	{
+		"#text": "Modify MMS",
+		"@_name": "PERM_ID_WRITE_MMSDB"
+	},
+	{
+		"#text": "Modify SMS",
+		"@_name": "PERM_ID_WRITE_SMSDB"
+	},
+	{
+		"#text": "There was a problem parsing the package.",
+		"@_name": "Parse_error_dlg_text"
+	},
+	{
+		"#text": "Delete your call logs",
+		"@_name": "SUM_PERM_ID_DELETE_CALLLOG"
+	},
+	{
+		"#text": "Delete your contacts list",
+		"@_name": "SUM_PERM_ID_DELETE_CONTACT"
+	},
+	{
+		"#text": "Delete your MMS inbox",
+		"@_name": "SUM_PERM_ID_DELETE_MMSDB"
+	},
+	{
+		"#text": "Delete your SMS inbox",
+		"@_name": "SUM_PERM_ID_DELETE_SMSDB"
+	},
+	{
+		"#text": "Modify your call logs",
+		"@_name": "SUM_PERM_ID_WRITE_CALLLOG"
+	},
+	{
+		"#text": "Modify your contacts list",
+		"@_name": "SUM_PERM_ID_WRITE_CONTACT"
+	},
+	{
+		"#text": "Modify your MMS inbox",
+		"@_name": "SUM_PERM_ID_WRITE_MMSDB"
+	},
+	{
+		"#text": "Modify your SMS inbox",
+		"@_name": "SUM_PERM_ID_WRITE_SMSDB"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "This feature is experimental and may affect performance.",
+		"@_name": "accessibility_display_daltonizer_preference_subtitle"
+	},
+	{
+		"#text": "Color correction",
+		"@_name": "accessibility_display_daltonizer_preference_title"
+	},
+	{
+		"#text": "Less time.",
+		"@_name": "accessibility_manual_zen_less_time"
+	},
+	{
+		"#text": "More time.",
+		"@_name": "accessibility_manual_zen_more_time"
+	},
+	{
+		"#text": "WLAN disconnected.",
+		"@_name": "accessibility_no_wifi"
+	},
+	{
+		"#text": "WLAN off.",
+		"@_name": "accessibility_wifi_off"
+	},
+	{
+		"#text": "WLAN one bar.",
+		"@_name": "accessibility_wifi_one_bar"
+	},
+	{
+		"#text": "Open network",
+		"@_name": "accessibility_wifi_security_type_none"
+	},
+	{
+		"#text": "Secure network",
+		"@_name": "accessibility_wifi_security_type_secured"
+	},
+	{
+		"#text": "WLAN signal full.",
+		"@_name": "accessibility_wifi_signal_full"
+	},
+	{
+		"#text": "WLAN three bars.",
+		"@_name": "accessibility_wifi_three_bars"
+	},
+	{
+		"#text": "WLAN two bars.",
+		"@_name": "accessibility_wifi_two_bars"
+	},
+	{
+		"#text": "Read app account",
+		"@_name": "account"
+	},
+	{
+		"#text": "Read the user account of the installed app",
+		"@_name": "account_des"
+	},
+	{
+		"#text": "Expand/collapse button",
+		"@_name": "action_bar_expand_collapse_button"
+	},
+	{
+		"#text": "Active input methods",
+		"@_name": "active_input_method_subtypes"
+	},
+	{
+		"#text": "Other users also like",
+		"@_name": "ad_des"
+	},
+	{
+		"#text": "Revoke access to USB debugging from all computers you’ve previously authorized?",
+		"@_name": "adb_keys_warning_message"
+	},
+	{
+		"#text": "USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.",
+		"@_name": "adb_warning_message"
+	},
+	{
+		"#text": "Allow USB debugging?",
+		"@_name": "adb_warning_title"
+	},
+	{
+		"#text": "Additional permissions",
+		"@_name": "additional_permissions"
+	},
+	{
+		"#text": "at %1$s",
+		"@_name": "alarm_template"
+	},
+	{
+		"#text": "on %1$s",
+		"@_name": "alarm_template_far"
+	},
+	{
+		"#text": "All",
+		"@_name": "allPerms"
+	},
+	{
+		"#text": "All permissions",
+		"@_name": "all_permissions"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "allow"
+	},
+	{
+		"#text": "Allow mock locations",
+		"@_name": "allow_mock_location"
+	},
+	{
+		"#text": "Allow mock locations",
+		"@_name": "allow_mock_location_summary"
+	},
+	{
+		"#text": "A",
+		"@_name": "alpha_jump_placeholder_text"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Animator duration scale",
+		"@_name": "animator_duration_scale_title"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "anonymous_source_continue"
+	},
+	{
+		"#text": "Your phone and personal data are more vulnerable to attack by unknown apps. By installing this app, you agree that you are responsible for any damage to your phone or loss of data that may result from its use.",
+		"@_name": "anonymous_source_warning"
+	},
+	{
+		"#text": "Access Point Name settings are not available for this user",
+		"@_name": "apn_settings_not_available"
+	},
+	{
+		"#text": "%1$d app(s)",
+		"@_name": "app_count"
+	},
+	{
+		"#text": "Package installer",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "app_name_unknown"
+	},
+	{
+		"#text": "\"The app wasn't found in the list of installed apps.\"",
+		"@_name": "app_not_found_dlg_text"
+	},
+	{
+		"#text": "App not found",
+		"@_name": "app_not_found_dlg_title"
+	},
+	{
+		"#text": "App permissions",
+		"@_name": "app_permission_manager"
+	},
+	{
+		"#text": "App permissions",
+		"@_name": "app_permissions"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "app_permissions_breadcrumb"
+	},
+	{
+		"#text": "%1$d of %2$d apps allowed",
+		"@_name": "app_permissions_group_summary"
+	},
+	{
+		"#text": "Open app info",
+		"@_name": "app_permissions_info_button_label"
+	},
+	{
+		"#text": "Background process limit",
+		"@_name": "app_process_limit_title"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "App list",
+		"@_name": "application_list"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "application_managerment"
+	},
+	{
+		"#text": "Allow all",
+		"@_name": "appsec_allowall"
+	},
+	{
+		"#text": "Deny all",
+		"@_name": "appsec_rejall"
+	},
+	{
+		"#text": "%1$s requires network access",
+		"@_name": "ask_perm_message"
+	},
+	{
+		"#text": "Run at startup",
+		"@_name": "autorun"
+	},
+	{
+		"#text": "Available via %1$s",
+		"@_name": "available_via_carrier"
+	},
+	{
+		"#text": "Available via %1$s",
+		"@_name": "available_via_passpoint"
+	},
+	{
+		"#text": "Background installation",
+		"@_name": "background_install"
+	},
+	{
+		"#text": "Charging",
+		"@_name": "battery_info_status_charging"
+	},
+	{
+		"#text": "charging",
+		"@_name": "battery_info_status_charging_lower"
+	},
+	{
+		"#text": "Not charging",
+		"@_name": "battery_info_status_discharging"
+	},
+	{
+		"#text": "Full",
+		"@_name": "battery_info_status_full"
+	},
+	{
+		"#text": "\"Plugged in, can't charge right now\"",
+		"@_name": "battery_info_status_not_charging"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "battery_info_status_unknown"
+	},
+	{
+		"#text": "!",
+		"@_name": "battery_meter_very_low_overlay_symbol"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "Connected to media audio",
+		"@_name": "bluetooth_a2dp_profile_summary_connected"
+	},
+	{
+		"#text": "Use for media audio",
+		"@_name": "bluetooth_a2dp_profile_summary_use_for"
+	},
+	{
+		"#text": "Access contact and call history",
+		"@_name": "bluetooth_access_contact_call_history"
+	},
+	{
+		"#text": "Active, %1$s battery",
+		"@_name": "bluetooth_active_battery_level"
+	},
+	{
+		"#text": "Active (no media)",
+		"@_name": "bluetooth_active_no_a2dp"
+	},
+	{
+		"#text": "Active (no media), %1$s battery",
+		"@_name": "bluetooth_active_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Active",
+		"@_name": "bluetooth_active_no_battery_level"
+	},
+	{
+		"#text": "Active (no phone)",
+		"@_name": "bluetooth_active_no_headset"
+	},
+	{
+		"#text": "%1$s battery",
+		"@_name": "bluetooth_battery_level"
+	},
+	{
+		"#text": "Connected%1$s",
+		"@_name": "bluetooth_connected"
+	},
+	{
+		"#text": "Connected, battery %1$s%2$s",
+		"@_name": "bluetooth_connected_battery_level"
+	},
+	{
+		"#text": "Connected (no media)%1$s",
+		"@_name": "bluetooth_connected_no_a2dp"
+	},
+	{
+		"#text": "Connected (no media), battery %1$s%2$s",
+		"@_name": "bluetooth_connected_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Connected (no phone)%1$s",
+		"@_name": "bluetooth_connected_no_headset"
+	},
+	{
+		"#text": "Connected (no phone), battery %1$s%2$s",
+		"@_name": "bluetooth_connected_no_headset_battery_level"
+	},
+	{
+		"#text": "Connected (no phone or media)%1$s",
+		"@_name": "bluetooth_connected_no_headset_no_a2dp"
+	},
+	{
+		"#text": "Connected (no phone or media), battery %1$s%2$s",
+		"@_name": "bluetooth_connected_no_headset_no_a2dp_battery_level"
+	},
+	{
+		"#text": "Connected (no message access)%1$s",
+		"@_name": "bluetooth_connected_no_map"
+	},
+	{
+		"#text": "Connecting…",
+		"@_name": "bluetooth_connecting"
+	},
+	{
+		"#text": "Disable absolute volume",
+		"@_name": "bluetooth_disable_absolute_volume"
+	},
+	{
+		"#text": "Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.",
+		"@_name": "bluetooth_disable_absolute_volume_summary"
+	},
+	{
+		"#text": "Disconnected",
+		"@_name": "bluetooth_disconnected"
+	},
+	{
+		"#text": "Disconnecting…",
+		"@_name": "bluetooth_disconnecting"
+	},
+	{
+		"#text": "Connected to Dun Server",
+		"@_name": "bluetooth_dun_profile_summary_connected"
+	},
+	{
+		"#text": "Use for Dial-up Network access",
+		"@_name": "bluetooth_dun_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to phone audio",
+		"@_name": "bluetooth_headset_profile_summary_connected"
+	},
+	{
+		"#text": "Use for phone audio",
+		"@_name": "bluetooth_headset_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to Hearing Aid",
+		"@_name": "bluetooth_hearing_aid_profile_summary_connected"
+	},
+	{
+		"#text": "Use for Hearing Aid",
+		"@_name": "bluetooth_hearing_aid_profile_summary_use_for"
+	},
+	{
+		"#text": "Left - %1$s battery",
+		"@_name": "bluetooth_hearingaid_left_battery_level"
+	},
+	{
+		"#text": "Pairing left hearing aid…",
+		"@_name": "bluetooth_hearingaid_left_pairing_message"
+	},
+	{
+		"#text": "Right - %1$s battery",
+		"@_name": "bluetooth_hearingaid_right_battery_level"
+	},
+	{
+		"#text": "Pairing right hearing aid…",
+		"@_name": "bluetooth_hearingaid_right_pairing_message"
+	},
+	{
+		"#text": "Connected to input device",
+		"@_name": "bluetooth_hid_profile_summary_connected"
+	},
+	{
+		"#text": "Use for input",
+		"@_name": "bluetooth_hid_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to map",
+		"@_name": "bluetooth_map_profile_summary_connected"
+	},
+	{
+		"#text": "Use for map",
+		"@_name": "bluetooth_map_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to file transfer server",
+		"@_name": "bluetooth_opp_profile_summary_connected"
+	},
+	{
+		"#text": "Not connected to file transfer server",
+		"@_name": "bluetooth_opp_profile_summary_not_connected"
+	},
+	{
+		"#text": "Use for file transfer",
+		"@_name": "bluetooth_opp_profile_summary_use_for"
+	},
+	{
+		"#text": "Pairing...",
+		"@_name": "bluetooth_pairing"
+	},
+	{
+		"#text": "Pair",
+		"@_name": "bluetooth_pairing_accept"
+	},
+	{
+		"#text": "PAIR",
+		"@_name": "bluetooth_pairing_accept_all_caps"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "bluetooth_pairing_decline"
+	},
+	{
+		"#text": "\"Can't communicate with “%1$s”.\"",
+		"@_name": "bluetooth_pairing_device_down_error_message"
+	},
+	{
+		"#text": "\"Couldn't pair with “%1$s”.\"",
+		"@_name": "bluetooth_pairing_error_message"
+	},
+	{
+		"#text": "\"Couldn't pair with %1$s because of an incorrect PIN or passkey.\"",
+		"@_name": "bluetooth_pairing_pin_error_message"
+	},
+	{
+		"#text": "Pairing rejected by %1$s.",
+		"@_name": "bluetooth_pairing_rejected_error_message"
+	},
+	{
+		"#text": "Pairing grants access to your contacts and call history when connected.",
+		"@_name": "bluetooth_pairing_will_share_phonebook"
+	},
+	{
+		"#text": "Sharing local Internet connection with device",
+		"@_name": "bluetooth_pan_nap_profile_summary_connected"
+	},
+	{
+		"#text": "Use for internet access",
+		"@_name": "bluetooth_pan_profile_summary_use_for"
+	},
+	{
+		"#text": "Connected to device for Internet access",
+		"@_name": "bluetooth_pan_user_profile_summary_connected"
+	},
+	{
+		"#text": "Media audio",
+		"@_name": "bluetooth_profile_a2dp"
+	},
+	{
+		"#text": "HD audio: %1$s",
+		"@_name": "bluetooth_profile_a2dp_high_quality"
+	},
+	{
+		"#text": "HD audio",
+		"@_name": "bluetooth_profile_a2dp_high_quality_unknown_codec"
+	},
+	{
+		"#text": "Dial-up Network Access",
+		"@_name": "bluetooth_profile_dun"
+	},
+	{
+		"#text": "Phone calls",
+		"@_name": "bluetooth_profile_headset"
+	},
+	{
+		"#text": "Hearing Aid",
+		"@_name": "bluetooth_profile_hearing_aid"
+	},
+	{
+		"#text": "Input device",
+		"@_name": "bluetooth_profile_hid"
+	},
+	{
+		"#text": "Text Messages",
+		"@_name": "bluetooth_profile_map"
+	},
+	{
+		"#text": "File transfer",
+		"@_name": "bluetooth_profile_opp"
+	},
+	{
+		"#text": "Internet access",
+		"@_name": "bluetooth_profile_pan"
+	},
+	{
+		"#text": "Internet connection sharing",
+		"@_name": "bluetooth_profile_pan_nap"
+	},
+	{
+		"#text": "Contact sharing",
+		"@_name": "bluetooth_profile_pbap"
+	},
+	{
+		"#text": "Use for contact sharing",
+		"@_name": "bluetooth_profile_pbap_summary"
+	},
+	{
+		"#text": "SIM Access",
+		"@_name": "bluetooth_profile_sap"
+	},
+	{
+		"#text": "Connected to SAP",
+		"@_name": "bluetooth_sap_profile_summary_connected"
+	},
+	{
+		"#text": "Use for SIM access",
+		"@_name": "bluetooth_sap_profile_summary_use_for"
+	},
+	{
+		"#text": "Bluetooth Audio Bits Per Sample",
+		"@_name": "bluetooth_select_a2dp_codec_bits_per_sample"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Bits Per Sample\"",
+		"@_name": "bluetooth_select_a2dp_codec_bits_per_sample_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio Channel Mode",
+		"@_name": "bluetooth_select_a2dp_codec_channel_mode"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Channel Mode\"",
+		"@_name": "bluetooth_select_a2dp_codec_channel_mode_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio LDAC Codec: Playback Quality",
+		"@_name": "bluetooth_select_a2dp_codec_ldac_playback_quality"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio LDAC\nCodec Selection: Playback Quality\"",
+		"@_name": "bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title"
+	},
+	{
+		"#text": "Bluetooth Audio Sample Rate",
+		"@_name": "bluetooth_select_a2dp_codec_sample_rate"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection: Sample Rate\"",
+		"@_name": "bluetooth_select_a2dp_codec_sample_rate_dialog_title"
+	},
+	{
+		"#text": "Streaming: %1$s",
+		"@_name": "bluetooth_select_a2dp_codec_streaming_label"
+	},
+	{
+		"#text": "Bluetooth Audio Codec",
+		"@_name": "bluetooth_select_a2dp_codec_type"
+	},
+	{
+		"#text": "\"Trigger Bluetooth Audio Codec\nSelection\"",
+		"@_name": "bluetooth_select_a2dp_codec_type_dialog_title"
+	},
+	{
+		"#text": "Select Bluetooth AVRCP Version",
+		"@_name": "bluetooth_select_avrcp_version_dialog_title"
+	},
+	{
+		"#text": "Bluetooth AVRCP Version",
+		"@_name": "bluetooth_select_avrcp_version_string"
+	},
+	{
+		"#text": "Show Bluetooth devices without names",
+		"@_name": "bluetooth_show_devices_without_names"
+	},
+	{
+		"#text": "Bluetooth devices without names (MAC addresses only) will be displayed",
+		"@_name": "bluetooth_show_devices_without_names_summary"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth_talkback_bluetooth"
+	},
+	{
+		"#text": "Computer",
+		"@_name": "bluetooth_talkback_computer"
+	},
+	{
+		"#text": "Headphone",
+		"@_name": "bluetooth_talkback_headphone"
+	},
+	{
+		"#text": "Headset",
+		"@_name": "bluetooth_talkback_headset"
+	},
+	{
+		"#text": "Imaging",
+		"@_name": "bluetooth_talkback_imaging"
+	},
+	{
+		"#text": "Input Peripheral",
+		"@_name": "bluetooth_talkback_input_peripheral"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "bluetooth_talkback_phone"
+	},
+	{
+		"#text": "Body sensors",
+		"@_name": "body_sensors"
+	},
+	{
+		"#text": "Read body sensor data",
+		"@_name": "body_sensors_des"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "This is not a Meizu accessory",
+		"@_name": "bt_auth_result_title"
+	},
+	{
+		"#text": "Enable Bluetooth HCI snoop log",
+		"@_name": "bt_hci_snoop_log"
+	},
+	{
+		"#text": "Capture all Bluetooth HCI packets in a file (Toggle Bluetooth after changing this setting)",
+		"@_name": "bt_hci_snoop_log_summary"
+	},
+	{
+		"#text": "Clear APK files",
+		"@_name": "btn_delete_apk_file"
+	},
+	{
+		"#text": "Auto Install",
+		"@_name": "btn_goto_mstore"
+	},
+	{
+		"#text": "Go to App Store",
+		"@_name": "btn_goto_mz_store"
+	},
+	{
+		"#text": "Still install?",
+		"@_name": "btn_install_confirm"
+	},
+	{
+		"#text": "Next",
+		"@_name": "btn_next_step"
+	},
+	{
+		"#text": "Bug report shortcut",
+		"@_name": "bugreport_in_power"
+	},
+	{
+		"#text": "Show a button in the power menu for taking a bug report",
+		"@_name": "bugreport_in_power_summary"
+	},
+	{
+		"#text": "Wipe and convert…",
+		"@_name": "button_convert_fbe"
+	},
+	{
+		"#text": "Read or modify calendar",
+		"@_name": "calendar_g_des"
+	},
+	{
+		"#text": "Phone call",
+		"@_name": "call"
+	},
+	{
+		"#text": "may incur related fees",
+		"@_name": "call_des"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "call_log"
+	},
+	{
+		"#text": "Read call history",
+		"@_name": "call_log_des"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "camera"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Close drawer",
+		"@_name": "car_drawer_close"
+	},
+	{
+		"#text": "Open drawer",
+		"@_name": "car_drawer_open"
+	},
+	{
+		"#text": "Personal",
+		"@_name": "category_personal"
+	},
+	{
+		"#text": "Work",
+		"@_name": "category_work"
+	},
+	{
+		"#text": "com.android.certinstaller",
+		"@_name": "certinstaller_package"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "change_ad"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "%1$s ago",
+		"@_name": "charge_length_format"
+	},
+	{
+		"#text": "This app is not allowed to be installed in Kid Space.",
+		"@_name": "child_mode_install_restricts_dlg_text"
+	},
+	{
+		"#text": "Choose Profile",
+		"@_name": "choose_profile"
+	},
+	{
+		"#text": "Revoke USB debugging authorizations",
+		"@_name": "clear_adb_keys"
+	},
+	{
+		"#text": "Communications",
+		"@_name": "communication"
+	},
+	{
+		"#text": "OK",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "WARNING: Device protection features will not work on this device while this setting is turned on.",
+		"@_name": "confirm_enable_oem_unlock_text"
+	},
+	{
+		"#text": "Allow OEM unlocking?",
+		"@_name": "confirm_enable_oem_unlock_title"
+	},
+	{
+		"#text": "Connected via %1$s",
+		"@_name": "connected_via_carrier"
+	},
+	{
+		"#text": "Automatically connected via %1$s",
+		"@_name": "connected_via_network_scorer"
+	},
+	{
+		"#text": "Automatically connected via network rating provider",
+		"@_name": "connected_via_network_scorer_default"
+	},
+	{
+		"#text": "Connected via %1$s",
+		"@_name": "connected_via_passpoint"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "connection"
+	},
+	{
+		"#text": "\"Read contacts' info\"",
+		"@_name": "contacts"
+	},
+	{
+		"#text": "Read contact information",
+		"@_name": "contacts_des"
+	},
+	{
+		"#text": "Read or modify contacts",
+		"@_name": "contacts_g_des"
+	},
+	{
+		"#text": "Menu",
+		"@_name": "content_description_menu_button"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continue_confirm"
+	},
+	{
+		"#text": "\"Convert data partition to file based encryption.\n !!Warning!! This will erase all your data.\n This feature is alpha, and may not work correctly.\n Press 'Wipe and convert…' to continue.\"",
+		"@_name": "convert_to_fbe_warning"
+	},
+	{
+		"#text": "Convert to file encryption",
+		"@_name": "convert_to_file_encryption"
+	},
+	{
+		"#text": "File already encrypted",
+		"@_name": "convert_to_file_encryption_done"
+	},
+	{
+		"#text": "Convert…",
+		"@_name": "convert_to_file_encryption_enabled"
+	},
+	{
+		"#text": "%1$s of %2$s",
+		"@_name": "current_permission_template"
+	},
+	{
+		"#text": "Current permissions",
+		"@_name": "current_permissions_category"
+	},
+	{
+		"#text": "Delete SMS/MMS",
+		"@_name": "d_sms_mms"
+	},
+	{
+		"#text": "Deuteranomaly (red-green)",
+		"@_name": "daltonizer_mode_deuteranomaly"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "daltonizer_mode_disabled"
+	},
+	{
+		"#text": "Monochromacy",
+		"@_name": "daltonizer_mode_monochromacy"
+	},
+	{
+		"#text": "Protanomaly (red-green)",
+		"@_name": "daltonizer_mode_protanomaly"
+	},
+	{
+		"#text": "Tritanomaly (blue-yellow)",
+		"@_name": "daltonizer_mode_tritanomaly"
+	},
+	{
+		"#text": "Overridden by %1$s",
+		"@_name": "daltonizer_type_overridden"
+	},
+	{
+		"#text": "Removed apps",
+		"@_name": "data_usage_uninstalled_apps"
+	},
+	{
+		"#text": "Removed apps and users",
+		"@_name": "data_usage_uninstalled_apps_users"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Select debug app",
+		"@_name": "debug_app"
+	},
+	{
+		"#text": "No debug application set",
+		"@_name": "debug_app_not_set"
+	},
+	{
+		"#text": "Debugging application: %1$s",
+		"@_name": "debug_app_set"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "debug_applications_category"
+	},
+	{
+		"#text": "Debugging",
+		"@_name": "debug_debugging_category"
+	},
+	{
+		"#text": "Drawing",
+		"@_name": "debug_drawing_category"
+	},
+	{
+		"#text": "Hardware accelerated rendering",
+		"@_name": "debug_hw_drawing_category"
+	},
+	{
+		"#text": "Debug GPU overdraw",
+		"@_name": "debug_hw_overdraw"
+	},
+	{
+		"#text": "Input",
+		"@_name": "debug_input_category"
+	},
+	{
+		"#text": "Show layout bounds",
+		"@_name": "debug_layout"
+	},
+	{
+		"#text": "Show clip bounds, margins, etc.",
+		"@_name": "debug_layout_summary"
+	},
+	{
+		"#text": "Monitoring",
+		"@_name": "debug_monitoring_category"
+	},
+	{
+		"#text": "Networking",
+		"@_name": "debug_networking_category"
+	},
+	{
+		"#text": "Enable view attribute inspection",
+		"@_name": "debug_view_attributes"
+	},
+	{
+		"#text": "perform an unknown action",
+		"@_name": "default_permission_description"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "deny"
+	},
+	{
+		"#text": "When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.",
+		"@_name": "dev_logpersist_clear_warning_message"
+	},
+	{
+		"#text": "Clear logger persistent storage?",
+		"@_name": "dev_logpersist_clear_warning_title"
+	},
+	{
+		"#text": "These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.",
+		"@_name": "dev_settings_warning_message"
+	},
+	{
+		"#text": "Allow development settings?",
+		"@_name": "dev_settings_warning_title"
+	},
+	{
+		"#text": "Enable developer options",
+		"@_name": "development_settings_enable"
+	},
+	{
+		"#text": "Developer options are not available for this user",
+		"@_name": "development_settings_not_available"
+	},
+	{
+		"#text": "Set options for app development",
+		"@_name": "development_settings_summary"
+	},
+	{
+		"#text": "Developer options",
+		"@_name": "development_settings_title"
+	},
+	{
+		"#text": "Device Access",
+		"@_name": "devicePerms"
+	},
+	{
+		"#text": "\"Note: After a reboot, this app can't start until you unlock your phone\"",
+		"@_name": "direct_boot_unaware_dialog_message"
+	},
+	{
+		"#text": "This app may disable screen locking",
+		"@_name": "disable_keyguard_warning_message"
+	},
+	{
+		"#text": "Security Warnings",
+		"@_name": "disable_keyguard_warning_title"
+	},
+	{
+		"#text": "Disable HW overlays",
+		"@_name": "disable_overlays"
+	},
+	{
+		"#text": "Always use GPU for screen compositing",
+		"@_name": "disable_overlays_summary"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "disabled"
+	},
+	{
+		"#text": "Disabled by admin",
+		"@_name": "disabled_by_admin"
+	},
+	{
+		"#text": "Controlled by admin",
+		"@_name": "disabled_by_admin_summary_text"
+	},
+	{
+		"#text": "\"The app you're installing will replace another app.\n\nAll your previous user data will be saved.\"",
+		"@_name": "dlg_app_replacement_statement"
+	},
+	{
+		"#text": "Replace app?",
+		"@_name": "dlg_app_replacement_title"
+	},
+	{
+		"#text": "%1$s requests the permission to %2$s.",
+		"@_name": "dlg_check_app_message_on"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dlg_ok"
+	},
+	{
+		"#text": "\"This is a system app.\n\nAll your previous user data will be saved.\"",
+		"@_name": "dlg_sys_app_replacement_statement"
+	},
+	{
+		"#text": "Done",
+		"@_name": "done"
+	},
+	{
+		"#text": "Added",
+		"@_name": "download_inqueue"
+	},
+	{
+		"#text": "Recommendation",
+		"@_name": "download_recommendation"
+	},
+	{
+		"#text": "…",
+		"@_name": "ellipsis"
+	},
+	{
+		"#text": "No networks",
+		"@_name": "empty_networks_list"
+	},
+	{
+		"#text": "USB debugging",
+		"@_name": "enable_adb"
+	},
+	{
+		"#text": "Debug mode when USB is connected",
+		"@_name": "enable_adb_summary"
+	},
+	{
+		"#text": "Enable freeform windows",
+		"@_name": "enable_freeform_support"
+	},
+	{
+		"#text": "Enable support for experimental freeform windows.",
+		"@_name": "enable_freeform_support_summary"
+	},
+	{
+		"#text": "Enable GPU debug layers",
+		"@_name": "enable_gpu_debug_layers"
+	},
+	{
+		"#text": "Allow loading GPU debug layers for debug apps",
+		"@_name": "enable_gpu_debug_layers_summary"
+	},
+	{
+		"#text": "Enable OpenGL traces",
+		"@_name": "enable_opengl_traces_title"
+	},
+	{
+		"#text": "Enable terminal app that offers local shell access",
+		"@_name": "enable_terminal_summary"
+	},
+	{
+		"#text": "Local terminal",
+		"@_name": "enable_terminal_title"
+	},
+	{
+		"#text": "Enabled by administrator",
+		"@_name": "enabled_by_admin"
+	},
+	{
+		"#text": "Advanced",
+		"@_name": "expand_button_title"
+	},
+	{
+		"#text": "Allowed",
+		"@_name": "external_source_trusted"
+	},
+	{
+		"#text": "Not allowed",
+		"@_name": "external_source_untrusted"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "external_sources_settings"
+	},
+	{
+		"#text": "android.support.design.transformation.FabTransformationScrimBehavior",
+		"@_name": "fab_transformation_scrim_behavior"
+	},
+	{
+		"#text": "android.support.design.transformation.FabTransformationSheetBehavior",
+		"@_name": "fab_transformation_sheet_behavior"
+	},
+	{
+		"#text": "Failed to open settings for %1$s",
+		"@_name": "failed_to_open_app_settings_toast"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Force allow apps on external",
+		"@_name": "force_allow_on_external"
+	},
+	{
+		"#text": "Makes any app eligible to be written to external storage, regardless of manifest values",
+		"@_name": "force_allow_on_external_summary"
+	},
+	{
+		"#text": "Force GPU rendering",
+		"@_name": "force_hw_ui"
+	},
+	{
+		"#text": "Force use of GPU for 2d drawing",
+		"@_name": "force_hw_ui_summary"
+	},
+	{
+		"#text": "Force 4x MSAA",
+		"@_name": "force_msaa"
+	},
+	{
+		"#text": "Enable 4x MSAA in OpenGL ES 2.0 apps",
+		"@_name": "force_msaa_summary"
+	},
+	{
+		"#text": "Force activities to be resizable",
+		"@_name": "force_resizable_activities"
+	},
+	{
+		"#text": "Make all activities resizable for multi-window, regardless of manifest values.",
+		"@_name": "force_resizable_activities_summary"
+	},
+	{
+		"#text": "Force RTL layout direction",
+		"@_name": "force_rtl_layout_all_locales"
+	},
+	{
+		"#text": "Force screen layout direction to RTL for all locales",
+		"@_name": "force_rtl_layout_all_locales_summary"
+	},
+	{
+		"#text": "FORGET",
+		"@_name": "forget"
+	},
+	{
+		"#text": "Network authentication failed",
+		"@_name": "free_wifi_login_failed"
+	},
+	{
+		"#text": "Network authenticating…",
+		"@_name": "free_wifi_logining"
+	},
+	{
+		"#text": "App could not be uninstalled.",
+		"@_name": "generic_error_dlg_text"
+	},
+	{
+		"#text": "Error",
+		"@_name": "generic_error_dlg_title"
+	},
+	{
+		"#text": "Do you want to grant the following permissions? It will get access to:",
+		"@_name": "grant_confirm_question"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "grant_dialog_button_allow"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "grant_dialog_button_deny"
+	},
+	{
+		"#text": "Deny anyway",
+		"@_name": "grant_dialog_button_deny_anyway"
+	},
+	{
+		"#text": "Details",
+		"@_name": "grant_dialog_button_more_info"
+	},
+	{
+		"#text": "Set HDCP checking behavior",
+		"@_name": "hdcp_checking_dialog_title"
+	},
+	{
+		"#text": "HDCP checking",
+		"@_name": "hdcp_checking_title"
+	},
+	{
+		"@_name": "help_app_permissions"
+	},
+	{
+		"#text": "Help &amp; feedback",
+		"@_name": "help_feedback_label"
+	},
+	{
+		"#text": "You can change settings in \\\"Settings/Apps Control\\\"",
+		"@_name": "help_message"
+	},
+	{
+		"#text": "android.support.design.widget.HideBottomViewOnScrollBehavior",
+		"@_name": "hide_bottom_view_on_scroll_behavior"
+	},
+	{
+		"#text": "Set Home screen",
+		"@_name": "home"
+	},
+	{
+		"#text": "hundred",
+		"@_name": "hundred"
+	},
+	{
+		"#text": "This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?",
+		"@_name": "ime_security_warning"
+	},
+	{
+		"#text": "Don’t keep activities",
+		"@_name": "immediately_destroy_activities"
+	},
+	{
+		"#text": "Destroy every activity as soon as the user leaves",
+		"@_name": "immediately_destroy_activities_summary"
+	},
+	{
+		"#text": "Not registered",
+		"@_name": "ims_reg_status_not_registered"
+	},
+	{
+		"#text": "Registered",
+		"@_name": "ims_reg_status_registered"
+	},
+	{
+		"#text": "IMS registration state",
+		"@_name": "ims_reg_title"
+	},
+	{
+		"#text": "Active. Tap to toggle.",
+		"@_name": "inactive_app_active_summary"
+	},
+	{
+		"#text": "Inactive. Tap to toggle.",
+		"@_name": "inactive_app_inactive_summary"
+	},
+	{
+		"#text": "Standby apps",
+		"@_name": "inactive_apps_title"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install"
+	},
+	{
+		"#text": "This user is not allowed to install apps",
+		"@_name": "install_apps_user_restriction_dlg_text"
+	},
+	{
+		"#text": "Do you want to install this application? It will get access to:",
+		"@_name": "install_confirm_question"
+	},
+	{
+		"#text": "Do you want to install this application? It does not require any special access.",
+		"@_name": "install_confirm_question_no_perms"
+	},
+	{
+		"#text": "Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:",
+		"@_name": "install_confirm_question_update"
+	},
+	{
+		"#text": "Do you want to update the existing app? Your existing data will remain and no special permission is required.",
+		"@_name": "install_confirm_question_update_no_perms"
+	},
+	{
+		"#text": "Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:",
+		"@_name": "install_confirm_question_update_system"
+	},
+	{
+		"#text": "Do you want to update this built-in app? Your existing data will remain and no special permission is required.",
+		"@_name": "install_confirm_question_update_system_no_perms"
+	},
+	{
+		"#text": "App installed.",
+		"@_name": "install_done"
+	},
+	{
+		"#text": "Installation Failed",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "You can also install the app from App Store.",
+		"@_name": "install_error_statement"
+	},
+	{
+		"#text": "App not installed.",
+		"@_name": "install_failed"
+	},
+	{
+		"#text": "The package was blocked from being installed.",
+		"@_name": "install_failed_blocked"
+	},
+	{
+		"#text": "App not installed as package conflicts with an existing package.",
+		"@_name": "install_failed_conflict"
+	},
+	{
+		"#text": "\"App not installed as app isn't compatible with your phone.\"",
+		"@_name": "install_failed_incompatible"
+	},
+	{
+		"#text": "App not installed as package appears to be invalid.",
+		"@_name": "install_failed_invalid_apk"
+	},
+	{
+		"#text": "\"%1$s couldn't be installed on your phone.\"",
+		"@_name": "install_failed_msg"
+	},
+	{
+		"#text": "Storage error, please free up some space and try again.",
+		"@_name": "install_failed_storage"
+	},
+	{
+		"#text": "Install unknown apps",
+		"@_name": "install_other_apps"
+	},
+	{
+		"#text": "Update",
+		"@_name": "install_replace_confirm"
+	},
+	{
+		"#text": "The existing app %1$s will be replaced.",
+		"@_name": "install_replace_message"
+	},
+	{
+		"#text": "Update \\\"%1$s\\\" to the new version %2$s ?",
+		"@_name": "install_replace_message2"
+	},
+	{
+		"#text": "Successfully installed",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "\"This app is not from Meizu App Store, \nMeizu shall shoulder no responsibility for any results caused by your installing this app.\"",
+		"@_name": "install_warning_default"
+	},
+	{
+		"#text": "Installing apps in App Store easily",
+		"@_name": "install_warning_default_summry"
+	},
+	{
+		"#text": "Virus risk detected, installation is canceled for your mobile safety.",
+		"@_name": "install_warning_virus"
+	},
+	{
+		"#text": "Installing…",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Installing %1$s…",
+		"@_name": "installing_app"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Stay awake",
+		"@_name": "keep_screen_on"
+	},
+	{
+		"#text": "Screen will never sleep while charging",
+		"@_name": "keep_screen_on_summary"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "known_btn"
+	},
+	{
+		"#text": "Available networks",
+		"@_name": "label_available"
+	},
+	{
+		"#text": "Open",
+		"@_name": "launch"
+	},
+	{
+		"#text": "No defaults set",
+		"@_name": "launch_defaults_none"
+	},
+	{
+		"#text": "Some defaults set",
+		"@_name": "launch_defaults_some"
+	},
+	{
+		"#text": "%1$dX",
+		"@_name": "lb_control_display_fast_forward_multiplier"
+	},
+	{
+		"#text": "%1$dX",
+		"@_name": "lb_control_display_rewind_multiplier"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "lb_guidedaction_continue_title"
+	},
+	{
+		"#text": "Finish",
+		"@_name": "lb_guidedaction_finish_title"
+	},
+	{
+		"#text": "MediaPlayer error code %1$d extra %2$d",
+		"@_name": "lb_media_player_error"
+	},
+	{
+		"#text": "Navigation menu",
+		"@_name": "lb_navigation_menu_contentDescription"
+	},
+	{
+		"#text": "Next",
+		"@_name": "lb_onboarding_accessibility_next"
+	},
+	{
+		"#text": "GET STARTED",
+		"@_name": "lb_onboarding_get_started"
+	},
+	{
+		"#text": "Disable Closed Captioning",
+		"@_name": "lb_playback_controls_closed_captioning_disable"
+	},
+	{
+		"#text": "Enable Closed Captioning",
+		"@_name": "lb_playback_controls_closed_captioning_enable"
+	},
+	{
+		"#text": "Fast Forward",
+		"@_name": "lb_playback_controls_fast_forward"
+	},
+	{
+		"#text": "Fast Forward %1$dX",
+		"@_name": "lb_playback_controls_fast_forward_multiplier"
+	},
+	{
+		"#text": "Media controls hidden, press d-pad to show",
+		"@_name": "lb_playback_controls_hidden"
+	},
+	{
+		"#text": "Disable High Quality",
+		"@_name": "lb_playback_controls_high_quality_disable"
+	},
+	{
+		"#text": "Enable High Quality",
+		"@_name": "lb_playback_controls_high_quality_enable"
+	},
+	{
+		"#text": "More Actions",
+		"@_name": "lb_playback_controls_more_actions"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "lb_playback_controls_pause"
+	},
+	{
+		"#text": "Enter Picture In Picture Mode",
+		"@_name": "lb_playback_controls_picture_in_picture"
+	},
+	{
+		"#text": "Play",
+		"@_name": "lb_playback_controls_play"
+	},
+	{
+		"#text": "Repeat All",
+		"@_name": "lb_playback_controls_repeat_all"
+	},
+	{
+		"#text": "Repeat None",
+		"@_name": "lb_playback_controls_repeat_none"
+	},
+	{
+		"#text": "Repeat One",
+		"@_name": "lb_playback_controls_repeat_one"
+	},
+	{
+		"#text": "Rewind",
+		"@_name": "lb_playback_controls_rewind"
+	},
+	{
+		"#text": "Rewind %1$dX",
+		"@_name": "lb_playback_controls_rewind_multiplier"
+	},
+	{
+		"#text": "Media controls shown",
+		"@_name": "lb_playback_controls_shown"
+	},
+	{
+		"#text": "Disable Shuffle",
+		"@_name": "lb_playback_controls_shuffle_disable"
+	},
+	{
+		"#text": "Enable Shuffle",
+		"@_name": "lb_playback_controls_shuffle_enable"
+	},
+	{
+		"#text": "Skip Next",
+		"@_name": "lb_playback_controls_skip_next"
+	},
+	{
+		"#text": "Skip Previous",
+		"@_name": "lb_playback_controls_skip_previous"
+	},
+	{
+		"#text": "Deselect Thumb Down",
+		"@_name": "lb_playback_controls_thumb_down"
+	},
+	{
+		"#text": "Select Thumb Down",
+		"@_name": "lb_playback_controls_thumb_down_outline"
+	},
+	{
+		"#text": "Deselect Thumb Up",
+		"@_name": "lb_playback_controls_thumb_up"
+	},
+	{
+		"#text": "Select Thumb Up",
+		"@_name": "lb_playback_controls_thumb_up_outline"
+	},
+	{
+		"#text": "/",
+		"@_name": "lb_playback_time_separator"
+	},
+	{
+		"#text": "Search",
+		"@_name": "lb_search_bar_hint"
+	},
+	{
+		"#text": "Speak to search",
+		"@_name": "lb_search_bar_hint_speech"
+	},
+	{
+		"#text": "Search %1$s",
+		"@_name": "lb_search_bar_hint_with_title"
+	},
+	{
+		"#text": "Speak to search %1$s",
+		"@_name": "lb_search_bar_hint_with_title_speech"
+	},
+	{
+		"#text": "%1$d Mbps",
+		"@_name": "link_speed"
+	},
+	{
+		"#text": "Loading…",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Tap to change or remove the password for desktop full backups",
+		"@_name": "local_backup_password_summary_change"
+	},
+	{
+		"#text": "Desktop full backups aren’t currently protected",
+		"@_name": "local_backup_password_summary_none"
+	},
+	{
+		"#text": "Desktop backup password",
+		"@_name": "local_backup_password_title"
+	},
+	{
+		"#text": "New password and confirmation don’t match",
+		"@_name": "local_backup_password_toast_confirmation_mismatch"
+	},
+	{
+		"#text": "New backup password set",
+		"@_name": "local_backup_password_toast_success"
+	},
+	{
+		"#text": "Failure setting backup password",
+		"@_name": "local_backup_password_toast_validation_failure"
+	},
+	{
+		"#text": "Location",
+		"@_name": "location"
+	},
+	{
+		"#text": "\"Access phone's location\"",
+		"@_name": "location_des"
+	},
+	{
+		"#text": "Location Settings",
+		"@_name": "location_settings"
+	},
+	{
+		"#text": "%1$s is a provider of location services for this device. Location access can be modified from location settings.",
+		"@_name": "location_warning"
+	},
+	{
+		"#text": "Manage apps",
+		"@_name": "manage_applications"
+	},
+	{
+		"#text": "Manage device admin apps",
+		"@_name": "manage_device_administrators"
+	},
+	{
+		"#text": "Manage users",
+		"@_name": "manage_users"
+	},
+	{
+		"#text": "All work apps",
+		"@_name": "managed_user_title"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Media",
+		"@_name": "media"
+	},
+	{
+		"#text": "Media",
+		"@_name": "media_category"
+	},
+	{
+		"#text": "Hide system",
+		"@_name": "menu_hide_system"
+	},
+	{
+		"#text": "Show system",
+		"@_name": "menu_show_system"
+	},
+	{
+		"#text": "Staging app…",
+		"@_name": "message_staging"
+	},
+	{
+		"#text": "Cellular data always active",
+		"@_name": "mobile_data_always_on"
+	},
+	{
+		"#text": "Always keep mobile data active, even when WLAN is active (for fast network switching).",
+		"@_name": "mobile_data_always_on_summary"
+	},
+	{
+		"#text": "Select mock location app",
+		"@_name": "mock_location_app"
+	},
+	{
+		"#text": "No mock location app set",
+		"@_name": "mock_location_app_not_set"
+	},
+	{
+		"#text": "Mock location app: %1$s",
+		"@_name": "mock_location_app_set"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Disallow heads-ups for all apps?",
+		"@_name": "msg_reject_all_heads_up_notify"
+	},
+	{
+		"#text": "Turn off notifications for all apps?",
+		"@_name": "msg_reject_all_notify"
+	},
+	{
+		"#text": "You can use Meizu App Store for safe, handy and quick installation.",
+		"@_name": "mstore_notify_text"
+	},
+	{
+		"#text": "Close icon",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Meizu App Store is the official download channel.",
+		"@_name": "mz_store_statement"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "network"
+	},
+	{
+		"#text": "Never ask again",
+		"@_name": "never_ask_again"
+	},
+	{
+		"#text": "New",
+		"@_name": "newPerms"
+	},
+	{
+		"#text": "New permissions",
+		"@_name": "new_permissions_category"
+	},
+	{
+		"#text": "The next step",
+		"@_name": "next"
+	},
+	{
+		"#text": "No",
+		"@_name": "no"
+	},
+	{
+		"#text": "Nothing",
+		"@_name": "no_application"
+	},
+	{
+		"#text": "No apps",
+		"@_name": "no_apps"
+	},
+	{
+		"#text": "This update requires no new permissions.",
+		"@_name": "no_new_perms"
+	},
+	{
+		"#text": "No permissions",
+		"@_name": "no_permissions"
+	},
+	{
+		"#text": "No permissions to manage",
+		"@_name": "no_permissions_manage"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "notify_msg"
+	},
+	{
+		"@_name": "oem_preferred_feedback_reporter"
+	},
+	{
+		"#text": "OEM unlocking",
+		"@_name": "oem_unlock_enable"
+	},
+	{
+		"#text": "Allow the bootloader to be unlocked",
+		"@_name": "oem_unlock_enable_summary"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "OK",
+		"@_name": "okay"
+	},
+	{
+		"#text": "This app was designed for an older version of Android. Denying permission may cause it to no longer function as intended.",
+		"@_name": "old_sdk_deny_warning"
+	},
+	{
+		"#text": "Only once",
+		"@_name": "only_one"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "op_camera"
+	},
+	{
+		"#text": "photo &amp; video",
+		"@_name": "op_camera_des"
+	},
+	{
+		"#text": "App List",
+		"@_name": "op_getinstallpkg"
+	},
+	{
+		"#text": "Read list of installed apps in your phone",
+		"@_name": "op_getinstallpkg_des"
+	},
+	{
+		"#text": "Access phone ID",
+		"@_name": "op_imei"
+	},
+	{
+		"#text": "Read the phone IMEI, SN and other information",
+		"@_name": "op_imei_des"
+	},
+	{
+		"#text": "Record audio",
+		"@_name": "op_record_audio"
+	},
+	{
+		"#text": "Record audio",
+		"@_name": "op_record_audio_des"
+	},
+	{
+		"#text": "System settings",
+		"@_name": "op_setting"
+	},
+	{
+		"#text": "\"modify the system's settings data\"",
+		"@_name": "op_setting_des"
+	},
+	{
+		"#text": "Desktop shortcut",
+		"@_name": "op_shortcut"
+	},
+	{
+		"#text": "Add to Home Screen",
+		"@_name": "op_shortcut_des"
+	},
+	{
+		"#text": "Display views on lock screen",
+		"@_name": "op_show_activity_on_locked_screen"
+	},
+	{
+		"#text": "Search Action",
+		"@_name": "orb_search_action"
+	},
+	{
+		"#text": "Other",
+		"@_name": "other"
+	},
+	{
+		"#text": "Other app capabilities",
+		"@_name": "other_permissions"
+	},
+	{
+		"#text": "\"%1$s couldn't be installed. Free up some space and try again.\"",
+		"@_name": "out_of_space_dlg_text"
+	},
+	{
+		"#text": "Out of space",
+		"@_name": "out_of_space_dlg_title"
+	},
+	{
+		"#text": "Simulate secondary displays",
+		"@_name": "overlay_display_devices_title"
+	},
+	{
+		"#text": "%1$s credentials",
+		"@_name": "passpoint_content"
+	},
+	{
+		"#text": "Saved via",
+		"@_name": "passpoint_label"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "Display lock screen",
+		"@_name": "perm_activity_on_locked_screen"
+	},
+	{
+		"#text": "Display on the lock screen",
+		"@_name": "perm_activity_on_locked_screen_des"
+	},
+	{
+		"#text": "Pop-up window",
+		"@_name": "perm_alert"
+	},
+	{
+		"#text": "Display above other apps",
+		"@_name": "perm_alert_des"
+	},
+	{
+		"#text": "Auto-start",
+		"@_name": "perm_aotulunch"
+	},
+	{
+		"#text": "Auto-start",
+		"@_name": "perm_autostart"
+	},
+	{
+		"#text": "These may incur charges",
+		"@_name": "perm_costs_money"
+	},
+	{
+		"#text": "Alert",
+		"@_name": "perm_dialog"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "perm_notification"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "perm_notity"
+	},
+	{
+		"#text": "Other permissions",
+		"@_name": "perm_other"
+	},
+	{
+		"#text": "Allows the holder to launch the UI for toggling app permissions. Should never be needed for normal apps.",
+		"@_name": "permdesc_togglePermissions"
+	},
+	{
+		"#text": "Manage permission",
+		"@_name": "permission_configure"
+	},
+	{
+		"#text": "Permission Management",
+		"@_name": "permission_configure_title"
+	},
+	{
+		"#text": "Install this app may request access to:",
+		"@_name": "permission_confirm_statement"
+	},
+	{
+		"#text": "permission(s)",
+		"@_name": "permission_count"
+	},
+	{
+		"#text": "Check permission requested",
+		"@_name": "permission_list"
+	},
+	{
+		"#text": "Permission Requested",
+		"@_name": "permission_list_title"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "permission_request_title"
+	},
+	{
+		"#text": "Choose what to allow &lt;b>%1$s&lt;/b> to access",
+		"@_name": "permission_review_title_template_install"
+	},
+	{
+		"#text": "&lt;b>%1$s&lt;/b> has been updated. Choose what to allow this app to access.",
+		"@_name": "permission_review_title_template_update"
+	},
+	{
+		"#text": "%1$s has been updated. Allow %1$s to access the following?",
+		"@_name": "permission_review_warning_title_template_update"
+	},
+	{
+		"#text": "All disabled",
+		"@_name": "permission_revoked_all"
+	},
+	{
+		"#text": "%1$d disabled",
+		"@_name": "permission_revoked_count"
+	},
+	{
+		"#text": "none disabled",
+		"@_name": "permission_revoked_none"
+	},
+	{
+		"#text": "Enforced by policy",
+		"@_name": "permission_summary_enforced_by_policy"
+	},
+	{
+		"#text": "%1$s permissions",
+		"@_name": "permission_title"
+	},
+	{
+		"#text": "Allow &lt;b>%1$s&lt;/b> to %2$s?",
+		"@_name": "permission_warning_template"
+	},
+	{
+		"#text": "Re-route outgoing calls",
+		"@_name": "permlab_processOutgoingCalls"
+	},
+	{
+		"#text": "toggle permissions",
+		"@_name": "permlab_togglePermissions"
+	},
+	{
+		"#text": "New",
+		"@_name": "perms_new_perm_prefix"
+	},
+	{
+		"#text": "Make a call, read or modify the call history",
+		"@_name": "phone_g_des"
+	},
+	{
+		"#text": "Picture color mode",
+		"@_name": "picture_color_mode"
+	},
+	{
+		"#text": "Use sRGB",
+		"@_name": "picture_color_mode_desc"
+	},
+	{
+		"#text": "Phase 2 authentication",
+		"@_name": "please_select_phase2"
+	},
+	{
+		"#text": "Pointer location",
+		"@_name": "pointer_location"
+	},
+	{
+		"#text": "Screen overlay showing current touch data",
+		"@_name": "pointer_location_summary"
+	},
+	{
+		"#text": "Heads-ups",
+		"@_name": "pop_notice"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "power_charging"
+	},
+	{
+		"#text": "%1$s - %2$s until fully charged",
+		"@_name": "power_charging_duration"
+	},
+	{
+		"#text": "Should last until about %1$s (%2$s)",
+		"@_name": "power_discharge_by"
+	},
+	{
+		"#text": "Should last until about %1$s based on your usage (%2$s)",
+		"@_name": "power_discharge_by_enhanced"
+	},
+	{
+		"#text": "Should last until about %1$s",
+		"@_name": "power_discharge_by_only"
+	},
+	{
+		"#text": "Should last until about %1$s based on your usage",
+		"@_name": "power_discharge_by_only_enhanced"
+	},
+	{
+		"#text": "About %1$s left (%2$s)",
+		"@_name": "power_discharging_duration"
+	},
+	{
+		"#text": "About %1$s left based on your usage (%2$s)",
+		"@_name": "power_discharging_duration_enhanced"
+	},
+	{
+		"#text": "%1$s left until fully charged",
+		"@_name": "power_remaining_charging_duration_only"
+	},
+	{
+		"#text": "About %1$s left",
+		"@_name": "power_remaining_duration_only"
+	},
+	{
+		"#text": "About %1$s left based on your usage",
+		"@_name": "power_remaining_duration_only_enhanced"
+	},
+	{
+		"#text": "%1$s left",
+		"@_name": "power_remaining_duration_only_short"
+	},
+	{
+		"#text": "Phone may shutdown soon",
+		"@_name": "power_remaining_duration_only_shutdown_imminent"
+	},
+	{
+		"#text": "Phone may shutdown soon (%1$s)",
+		"@_name": "power_remaining_duration_shutdown_imminent"
+	},
+	{
+		"#text": "Less than %1$s remaining (%2$s)",
+		"@_name": "power_remaining_less_than_duration"
+	},
+	{
+		"#text": "Less than %1$s remaining",
+		"@_name": "power_remaining_less_than_duration_only"
+	},
+	{
+		"#text": "More than %1$s remaining (%2$s)",
+		"@_name": "power_remaining_more_than_subtext"
+	},
+	{
+		"#text": "More than %1$s remaining",
+		"@_name": "power_remaining_only_more_than_subtext"
+	},
+	{
+		"#text": "%1$s - %2$s",
+		"@_name": "power_remaining_settings_home_page"
+	},
+	{
+		"#text": "%1$s / %2$s",
+		"@_name": "preference_summary_default_combination"
+	},
+	{
+		"#text": "Privacy",
+		"@_name": "privacy"
+	},
+	{
+		"#text": "Privacy",
+		"@_name": "privacyPerms"
+	},
+	{
+		"#text": "Off",
+		"@_name": "private_dns_mode_off"
+	},
+	{
+		"#text": "Automatic",
+		"@_name": "private_dns_mode_opportunistic"
+	},
+	{
+		"#text": "Private DNS provider hostname",
+		"@_name": "private_dns_mode_provider"
+	},
+	{
+		"#text": "\"Couldn't connect\"",
+		"@_name": "private_dns_mode_provider_failure"
+	},
+	{
+		"#text": "Enter hostname of DNS provider",
+		"@_name": "private_dns_mode_provider_hostname_hint"
+	},
+	{
+		"#text": "Android OS",
+		"@_name": "process_kernel_label"
+	},
+	{
+		"#text": "example.com,mycomp.test.com,localhost",
+		"@_name": "proxy_exclusionlist_hint"
+	},
+	{
+		"#text": "proxy.example.com",
+		"@_name": "proxy_hostname_hint"
+	},
+	{
+		"#text": 8080,
+		"@_name": "proxy_port_hint"
+	},
+	{
+		"#text": "https://www.example.com/proxy.pac",
+		"@_name": "proxy_url_hint"
+	},
+	{
+		"#text": "Read Calendar",
+		"@_name": "r_calendar"
+	},
+	{
+		"#text": "Reading MMS",
+		"@_name": "r_mms"
+	},
+	{
+		"#text": "Reading SMS",
+		"@_name": "r_sms"
+	},
+	{
+		"#text": "Read SMS and MMS records",
+		"@_name": "r_sms_mms"
+	},
+	{
+		"#text": "Read SMS &amp; MMS",
+		"@_name": "r_sms_mms_des"
+	},
+	{
+		"#text": "%1$s installation(s)",
+		"@_name": "rec_app_install_count"
+	},
+	{
+		"#text": "Recommendations",
+		"@_name": "recommendations"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "recordaudio_local"
+	},
+	{
+		"#text": "Call recorder",
+		"@_name": "recordaudio_phone"
+	},
+	{
+		"#text": "%1$s left",
+		"@_name": "remaining_length_format"
+	},
+	{
+		"#text": "%1$s has been uninstalled, want to install?",
+		"@_name": "restore_dialog_text"
+	},
+	{
+		"#text": "Enter password to perform factory reset in demo mode",
+		"@_name": "retail_demo_reset_message"
+	},
+	{
+		"#text": "Next",
+		"@_name": "retail_demo_reset_next"
+	},
+	{
+		"#text": "Password required",
+		"@_name": "retail_demo_reset_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "review_button_cancel"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "review_button_continue"
+	},
+	{
+		"#text": "User: %1$s",
+		"@_name": "running_process_item_user_label"
+	},
+	{
+		"#text": "View and control currently running services",
+		"@_name": "runningservices_settings_summary"
+	},
+	{
+		"#text": "Running services",
+		"@_name": "runningservices_settings_title"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "s_mms"
+	},
+	{
+		"#text": "may incur related fees",
+		"@_name": "s_mms_des"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "s_sms"
+	},
+	{
+		"#text": "may incur related fees",
+		"@_name": "s_sms_des"
+	},
+	{
+		"#text": "Saved by %1$s",
+		"@_name": "saved_network"
+	},
+	{
+		"#text": "Open settings",
+		"@_name": "screen_overlay_button"
+	},
+	{
+		"#text": "To change this permission setting, you first have to turn off the screen overlay from Settings > Apps",
+		"@_name": "screen_overlay_message"
+	},
+	{
+		"#text": "Screen overlay detected",
+		"@_name": "screen_overlay_title"
+	},
+	{
+		"#text": "Custom (%d)",
+		"@_name": "screen_zoom_summary_custom"
+	},
+	{
+		"#text": "Default",
+		"@_name": "screen_zoom_summary_default"
+	},
+	{
+		"#text": "Largest",
+		"@_name": "screen_zoom_summary_extremely_large"
+	},
+	{
+		"#text": "Large",
+		"@_name": "screen_zoom_summary_large"
+	},
+	{
+		"#text": "Small",
+		"@_name": "screen_zoom_summary_small"
+	},
+	{
+		"#text": "Larger",
+		"@_name": "screen_zoom_summary_very_large"
+	},
+	{
+		"#text": "Search in Apps Store",
+		"@_name": "search_app_store"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Security checking",
+		"@_name": "security_detecting"
+	},
+	{
+		"#text": "Permissions",
+		"@_name": "security_privacy"
+	},
+	{
+		"#text": "Allow this app to:",
+		"@_name": "security_settings_desc"
+	},
+	{
+		"#text": "Select application",
+		"@_name": "select_application"
+	},
+	{
+		"#text": "Select Logger sizes per log buffer",
+		"@_name": "select_logd_size_dialog_title"
+	},
+	{
+		"#text": "Logger buffer sizes",
+		"@_name": "select_logd_size_title"
+	},
+	{
+		"#text": "Select log buffers to store persistently on device",
+		"@_name": "select_logpersist_dialog_title"
+	},
+	{
+		"#text": "Store logger data persistently on device",
+		"@_name": "select_logpersist_title"
+	},
+	{
+		"#text": "Select Private DNS Mode",
+		"@_name": "select_private_dns_configuration_dialog_title"
+	},
+	{
+		"#text": "Private DNS",
+		"@_name": "select_private_dns_configuration_title"
+	},
+	{
+		"#text": "Select USB Configuration",
+		"@_name": "select_usb_configuration_dialog_title"
+	},
+	{
+		"#text": "Select USB Configuration",
+		"@_name": "select_usb_configuration_title"
+	},
+	{
+		"#text": "Set WebView implementation",
+		"@_name": "select_webview_provider_dialog_title"
+	},
+	{
+		"#text": "WebView implementation",
+		"@_name": "select_webview_provider_title"
+	},
+	{
+		"#text": "This choice is no longer valid. Try again.",
+		"@_name": "select_webview_provider_toast_text"
+	},
+	{
+		"#text": "Send SMS and MMS",
+		"@_name": "send_sms_mms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on/off Bluetooth",
+		"@_name": "set_bluetooth_on_des"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "set_wifi_on"
+	},
+	{
+		"#text": "Turn on/off WLAN",
+		"@_name": "set_wifi_on_des"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "settings_ad"
+	},
+	{
+		"#text": "Set Now",
+		"@_name": "settings_dialog"
+	},
+	{
+		"#text": "com.android.settings",
+		"@_name": "settings_package"
+	},
+	{
+		"#text": "Show background ANRs",
+		"@_name": "show_all_anrs"
+	},
+	{
+		"#text": "Show App Not Responding dialog for background apps",
+		"@_name": "show_all_anrs_summary"
+	},
+	{
+		"#text": "Show hardware layers updates",
+		"@_name": "show_hw_layers_updates"
+	},
+	{
+		"#text": "Flash hardware layers green when they update",
+		"@_name": "show_hw_layers_updates_summary"
+	},
+	{
+		"#text": "Show GPU view updates",
+		"@_name": "show_hw_screen_updates"
+	},
+	{
+		"#text": "Flash views inside windows when drawn with the GPU",
+		"@_name": "show_hw_screen_updates_summary"
+	},
+	{
+		"#text": "Debug non-rectangular clip operations",
+		"@_name": "show_non_rect_clip"
+	},
+	{
+		"#text": "Show notification channel warnings",
+		"@_name": "show_notification_channel_warnings"
+	},
+	{
+		"#text": "Displays on-screen warning when an app posts a notification without a valid channel",
+		"@_name": "show_notification_channel_warnings_summary"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "show_password"
+	},
+	{
+		"#text": "Show surface updates",
+		"@_name": "show_screen_updates"
+	},
+	{
+		"#text": "Flash entire window surfaces when they update",
+		"@_name": "show_screen_updates_summary"
+	},
+	{
+		"#text": "Show taps",
+		"@_name": "show_touches"
+	},
+	{
+		"#text": "Show visual feedback for taps",
+		"@_name": "show_touches_summary"
+	},
+	{
+		"#text": "SIM card slot",
+		"@_name": "sim_slot"
+	},
+	{
+		"#text": "Simulate color space",
+		"@_name": "simulate_color_space"
+	},
+	{
+		"#text": "Smart Background (recommended)",
+		"@_name": "smart_bg_mode0"
+	},
+	{
+		"#text": "Allow running in background",
+		"@_name": "smart_bg_mode1"
+	},
+	{
+		"#text": "Disallow running in background",
+		"@_name": "smart_bg_mode2"
+	},
+	{
+		"#text": "Background progresses",
+		"@_name": "smart_bg_title"
+	},
+	{
+		"#text": "Read, send, or modify information",
+		"@_name": "sms_g_des"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "sms_lable"
+	},
+	{
+		"#text": "network",
+		"@_name": "source_network"
+	},
+	{
+		"#text": "Special permissions",
+		"@_name": "special_permission"
+	},
+	{
+		"@_name": "special_permission_head"
+	},
+	{
+		"#text": "Focus on the road",
+		"@_name": "speed_bump_lockout_message"
+	},
+	{
+		"#text": "Fast",
+		"@_name": "speed_label_fast"
+	},
+	{
+		"#text": "Medium",
+		"@_name": "speed_label_medium"
+	},
+	{
+		"#text": "OK",
+		"@_name": "speed_label_okay"
+	},
+	{
+		"#text": "Slow",
+		"@_name": "speed_label_slow"
+	},
+	{
+		"#text": "Very Fast",
+		"@_name": "speed_label_very_fast"
+	},
+	{
+		"#text": "Very Slow",
+		"@_name": "speed_label_very_slow"
+	},
+	{
+		"#text": "App standby state: %s",
+		"@_name": "standby_bucket_summary"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "status_unavailable"
+	},
+	{
+		"#text": "Strict mode enabled",
+		"@_name": "strict_mode"
+	},
+	{
+		"#text": "Flash screen when apps do long operations on main thread",
+		"@_name": "strict_mode_summary"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "summary_collapsed_preference_list"
+	},
+	{
+		"@_name": "summary_empty"
+	},
+	{
+		"#text": "If you deny this permission, basic features of your device may no longer function as intended.",
+		"@_name": "system_warning"
+	},
+	{
+		"#text": "ten",
+		"@_name": "ten"
+	},
+	{
+		"#text": "ten thousand",
+		"@_name": "ten_thousand"
+	},
+	{
+		"#text": "Tethering &amp; portable hotspot",
+		"@_name": "tether_settings_title_all"
+	},
+	{
+		"#text": "Bluetooth tethering",
+		"@_name": "tether_settings_title_bluetooth"
+	},
+	{
+		"#text": "USB tethering",
+		"@_name": "tether_settings_title_usb"
+	},
+	{
+		"#text": "Tethering",
+		"@_name": "tether_settings_title_usb_bluetooth"
+	},
+	{
+		"#text": "Portable hotspot",
+		"@_name": "tether_settings_title_wifi"
+	},
+	{
+		"#text": "Tethering hardware acceleration",
+		"@_name": "tethering_hardware_offload"
+	},
+	{
+		"#text": "Use tethering hardware acceleration if available",
+		"@_name": "tethering_hardware_offload_summary"
+	},
+	{
+		"#text": "Tethering settings are not available for this user",
+		"@_name": "tethering_settings_not_available"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "text_accept"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "text_btn_del"
+	},
+	{
+		"#text": "Replace",
+		"@_name": "text_btn_replace"
+	},
+	{
+		"#text": "Still Install",
+		"@_name": "text_btn_still_install"
+	},
+	{
+		"#text": "Installed",
+		"@_name": "text_install_done"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "text_installing"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "text_loading"
+	},
+	{
+		"#text": "No apps to be managed",
+		"@_name": "text_no_app"
+	},
+	{
+		"#text": "Ask",
+		"@_name": "text_prompt"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "text_reject"
+	},
+	{
+		"#text": "Continue to install?",
+		"@_name": "text_safe"
+	},
+	{
+		"#text": "Piratic app",
+		"@_name": "text_scan_done_fake_replace"
+	},
+	{
+		"#text": "Safe",
+		"@_name": "text_scan_done_safe"
+	},
+	{
+		"#text": "Virus",
+		"@_name": "text_scan_done_virus"
+	},
+	{
+		"#text": "Virus",
+		"@_name": "text_scan_done_virus_replace"
+	},
+	{
+		"#text": "\"Version: \"",
+		"@_name": "text_version"
+	},
+	{
+		"#text": "Virus",
+		"@_name": "text_virus"
+	},
+	{
+		"#text": "Virus detected in app, continue the installation?",
+		"@_name": "text_virus_install_confirm"
+	},
+	{
+		"#text": "Tips",
+		"@_name": "text_virus_install_confirm_tips"
+	},
+	{
+		"#text": "thousand",
+		"@_name": "thousand"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "time_unit_just_now"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "title_activity_app_sec"
+	},
+	{
+		"#text": "Apps allowed to %1$s: %2$s",
+		"@_name": "title_allow_item"
+	},
+	{
+		"#text": "Converting to file based encryption",
+		"@_name": "title_convert_fbe"
+	},
+	{
+		"#text": "Apps %1$s need to ask: %2$s",
+		"@_name": "title_prompt_item"
+	},
+	{
+		"#text": "Disallowed to %1$s: %2$s",
+		"@_name": "title_reject_item"
+	},
+	{
+		"#text": "Profile GPU rendering",
+		"@_name": "track_frame_time"
+	},
+	{
+		"#text": "Transition animation scale",
+		"@_name": "transition_animation_scale_title"
+	},
+	{
+		"#text": "Sets the language-specific voice for the spoken text",
+		"@_name": "tts_default_lang_summary"
+	},
+	{
+		"#text": "Language",
+		"@_name": "tts_default_lang_title"
+	},
+	{
+		"#text": "Affects the tone of the synthesized speech",
+		"@_name": "tts_default_pitch_summary"
+	},
+	{
+		"#text": "Pitch",
+		"@_name": "tts_default_pitch_title"
+	},
+	{
+		"#text": "Speed at which the text is spoken",
+		"@_name": "tts_default_rate_summary"
+	},
+	{
+		"#text": "Speech rate",
+		"@_name": "tts_default_rate_title"
+	},
+	{
+		"#text": "This is an example of speech synthesis",
+		"@_name": "tts_default_sample_string"
+	},
+	{
+		"#text": "This language requires a working network connection for text-to-speech output.",
+		"@_name": "tts_engine_network_required"
+	},
+	{
+		"#text": "Preferred engine",
+		"@_name": "tts_engine_preference_section_title"
+	},
+	{
+		"#text": "This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?",
+		"@_name": "tts_engine_security_warning"
+	},
+	{
+		"#text": "Launch engine settings",
+		"@_name": "tts_engine_settings_button"
+	},
+	{
+		"#text": "Settings for %s",
+		"@_name": "tts_engine_settings_title"
+	},
+	{
+		"#text": "General",
+		"@_name": "tts_general_section_title"
+	},
+	{
+		"#text": "Install the voice data required for speech synthesis",
+		"@_name": "tts_install_data_summary"
+	},
+	{
+		"#text": "Install voice data",
+		"@_name": "tts_install_data_title"
+	},
+	{
+		"#text": "Language not selected",
+		"@_name": "tts_lang_not_selected"
+	},
+	{
+		"#text": "Use system language",
+		"@_name": "tts_lang_use_system"
+	},
+	{
+		"#text": "Play a short demonstration of speech synthesis",
+		"@_name": "tts_play_example_summary"
+	},
+	{
+		"#text": "Listen to an example",
+		"@_name": "tts_play_example_title"
+	},
+	{
+		"#text": "Reset the pitch at which the text is spoken to default.",
+		"@_name": "tts_reset_speech_pitch_summary"
+	},
+	{
+		"#text": "Reset speech pitch",
+		"@_name": "tts_reset_speech_pitch_title"
+	},
+	{
+		"#text": "Text-to-speech settings",
+		"@_name": "tts_settings"
+	},
+	{
+		"#text": "Text-to-speech output",
+		"@_name": "tts_settings_title"
+	},
+	{
+		"#text": "Checking…",
+		"@_name": "tts_status_checking"
+	},
+	{
+		"#text": "%1$s is not supported",
+		"@_name": "tts_status_not_supported"
+	},
+	{
+		"#text": "%1$s is fully supported",
+		"@_name": "tts_status_ok"
+	},
+	{
+		"#text": "%1$s requires network connection",
+		"@_name": "tts_status_requires_network"
+	},
+	{
+		"#text": "Default language status",
+		"@_name": "tts_status_title"
+	},
+	{
+		"#text": "Unknown exception. Please try reinstalling.",
+		"@_name": "unexpected_exception"
+	},
+	{
+		"#text": "Uninstall",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "%1$s is part of the following app:",
+		"@_name": "uninstall_activity_text"
+	},
+	{
+		"#text": "This app is required for some users or profiles and was uninstalled for others",
+		"@_name": "uninstall_all_blocked_profile_owner"
+	},
+	{
+		"#text": "Do you want to uninstall this app?",
+		"@_name": "uninstall_application_text"
+	},
+	{
+		"#text": "Uninstall this app forusers? The app and its data will be removed fromusers on the device.",
+		"@_name": "uninstall_application_text_all_users",
+		"b": [
+			"all",
+			"all"
+		]
+	},
+	{
+		"#text": "Do you want to uninstall this app for the user %1$s?",
+		"@_name": "uninstall_application_text_user"
+	},
+	{
+		"#text": "Uninstall app",
+		"@_name": "uninstall_application_title"
+	},
+	{
+		"#text": "Uninstall the app and its clone",
+		"@_name": "uninstall_application_title_sub"
+	},
+	{
+		"#text": "\"This app is required by your device administrator and can't be uninstalled.\"",
+		"@_name": "uninstall_blocked_device_owner"
+	},
+	{
+		"#text": "\"This app is needed for your profile and can't be uninstalled.\"",
+		"@_name": "uninstall_blocked_profile_owner"
+	},
+	{
+		"#text": "Uninstall finished.",
+		"@_name": "uninstall_done"
+	},
+	{
+		"#text": "Uninstalled %1$s",
+		"@_name": "uninstall_done_app"
+	},
+	{
+		"#text": "Uninstall unsuccessful.",
+		"@_name": "uninstall_failed"
+	},
+	{
+		"#text": "Uninstalling %1$s unsuccessful.",
+		"@_name": "uninstall_failed_app"
+	},
+	{
+		"#text": "\"Can't uninstall active device admin app\"",
+		"@_name": "uninstall_failed_device_policy_manager"
+	},
+	{
+		"#text": "\"Can't uninstall active device admin app for %1$s\"",
+		"@_name": "uninstall_failed_device_policy_manager_of_user"
+	},
+	{
+		"#text": "\"%1$s couldn't be uninstalled.\"",
+		"@_name": "uninstall_failed_msg"
+	},
+	{
+		"#text": "Failed uninstalls",
+		"@_name": "uninstall_failure_notification_channel"
+	},
+	{
+		"#text": "Clear remnants after uninstallation",
+		"@_name": "uninstall_notice"
+	},
+	{
+		"#text": "Clean remnants for both apps",
+		"@_name": "uninstall_notice_sub"
+	},
+	{
+		"#text": "If you uninstall this app, other apps may not work",
+		"@_name": "uninstall_summary_default"
+	},
+	{
+		"#text": "Replace this app with the factory version? All data will be removed.",
+		"@_name": "uninstall_update_text"
+	},
+	{
+		"#text": "Replace this app with the factory version? All data will be removed. This affects all users of this device, including those with work profiles.",
+		"@_name": "uninstall_update_text_multiuser"
+	},
+	{
+		"#text": "Uninstall update",
+		"@_name": "uninstall_update_title"
+	},
+	{
+		"#text": "Uninstalling…",
+		"@_name": "uninstalling"
+	},
+	{
+		"#text": "Uninstalling %1$s…",
+		"@_name": "uninstalling_app"
+	},
+	{
+		"#text": "Running uninstalls",
+		"@_name": "uninstalling_notification_channel"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "\"Your administrator doesn't allow installation of apps obtained from unknown sources.\"",
+		"@_name": "unknown_apps_admin_dlg_text"
+	},
+	{
+		"#text": "For security, your phone is set to block installation of apps obtained from unknown sources",
+		"@_name": "unknown_apps_dlg_text"
+	},
+	{
+		"#text": "About to install unknown app",
+		"@_name": "unknown_apps_dlg_title"
+	},
+	{
+		"#text": "\"Unknown apps can't be installed by this user\"",
+		"@_name": "unknown_apps_user_restriction_dlg_text"
+	},
+	{
+		"#text": "For your security, your phone is not allowed to install unknown apps from this source.",
+		"@_name": "untrusted_external_source_warning"
+	},
+	{
+		"#text": "Disable USB audio routing",
+		"@_name": "usb_audio_disable_routing"
+	},
+	{
+		"#text": "Disable automatic routing to USB audio peripherals",
+		"@_name": "usb_audio_disable_routing_summary"
+	},
+	{
+		"#text": "Phone storage",
+		"@_name": "use_storage"
+	},
+	{
+		"#text": "Read or modify photos, media contents, and files",
+		"@_name": "use_storage_des"
+	},
+	{
+		"#text": "Use system languages",
+		"@_name": "use_system_language_to_select_input_method_subtypes"
+	},
+	{
+		"#text": "Guest",
+		"@_name": "user_guest"
+	},
+	{
+		"#text": "The current user is not allowed to perform this uninstallation.",
+		"@_name": "user_is_not_allowed_dlg_text"
+	},
+	{
+		"#text": "Not allowed",
+		"@_name": "user_is_not_allowed_dlg_title"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "v7_preference_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "v7_preference_on"
+	},
+	{
+		"#text": "Check apps installed via ADB/ADT for harmful behavior.",
+		"@_name": "verify_apps_over_usb_summary"
+	},
+	{
+		"#text": "Verify apps over USB",
+		"@_name": "verify_apps_over_usb_title"
+	},
+	{
+		"#text": "Version: %1$s",
+		"@_name": "version_text"
+	},
+	{
+		"#text": "%s %s will be replaced by %s",
+		"@_name": "version_text_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "App from an unknown source. Scanning",
+		"@_name": "virus_scanning_text"
+	},
+	{
+		"#text": "VPN settings are not available for this user",
+		"@_name": "vpn_settings_not_available"
+	},
+	{
+		"#text": "Write SMS/MMS",
+		"@_name": "w_sms_mms"
+	},
+	{
+		"#text": "Wait for debugger",
+		"@_name": "wait_for_debugger"
+	},
+	{
+		"#text": "Debugged application waits for debugger to attach before executing",
+		"@_name": "wait_for_debugger_summary"
+	},
+	{
+		"#text": "Risk detected",
+		"@_name": "warning_title_unsafe"
+	},
+	{
+		"#text": "Write/Delete calendar",
+		"@_name": "wd_calendar"
+	},
+	{
+		"#text": "Write/Delete call log",
+		"@_name": "wd_call_log"
+	},
+	{
+		"#text": "Edit incoming and outgoing calls",
+		"@_name": "wd_call_log_des"
+	},
+	{
+		"#text": "Write/Delete contact",
+		"@_name": "wd_contacts"
+	},
+	{
+		"#text": "Write/delete contact information",
+		"@_name": "wd_contacts_des"
+	},
+	{
+		"#text": "Write/delete SMS/MMS",
+		"@_name": "wd_sms_mms"
+	},
+	{
+		"#text": "Write/delete SMS and MMS",
+		"@_name": "wd_sms_mms_des"
+	},
+	{
+		"#text": "Installing/uninstalling wear apps",
+		"@_name": "wear_app_channel"
+	},
+	{
+		"#text": "Install/Uninstall actions not supported on Wear.",
+		"@_name": "wear_not_allowed_dlg_text"
+	},
+	{
+		"#text": "Android Wear",
+		"@_name": "wear_not_allowed_dlg_title"
+	},
+	{
+		"#text": "WLAN networks",
+		"@_name": "wifi_access_points"
+	},
+	{
+		"#text": "Add network",
+		"@_name": "wifi_add_network"
+	},
+	{
+		"#text": "IP address",
+		"@_name": "wifi_advanced_ip_address_title"
+	},
+	{
+		"#text": "MAC address",
+		"@_name": "wifi_advanced_mac_address_title"
+	},
+	{
+		"#text": "IP settings",
+		"@_name": "wifi_advanced_settings_label"
+	},
+	{
+		"#text": "Advanced WLAN",
+		"@_name": "wifi_advanced_titlebar"
+	},
+	{
+		"#text": "Access point temporarily full",
+		"@_name": "wifi_ap_unable_to_handle_new_sta"
+	},
+	{
+		"#text": "Let a WLAN assistant automatically connect to open networks evaluated as high quality",
+		"@_name": "wifi_automatically_connect_summary"
+	},
+	{
+		"#text": "Use open WLAN automatically",
+		"@_name": "wifi_automatically_connect_title"
+	},
+	{
+		"#text": "2.4GHz",
+		"@_name": "wifi_band_24ghz"
+	},
+	{
+		"#text": "5GHz",
+		"@_name": "wifi_band_5ghz"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "wifi_cancel"
+	},
+	{
+		"#text": "\"Can't connect\"",
+		"@_name": "wifi_cant_connect"
+	},
+	{
+		"#text": "\"Can't connect to '%1$s'\"",
+		"@_name": "wifi_cant_connect_to_ap"
+	},
+	{
+		"#text": "Install or view certificate",
+		"@_name": "wifi_certinstall"
+	},
+	{
+		"#text": "Check password and try again",
+		"@_name": "wifi_check_password_try_again"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "wifi_connect"
+	},
+	{
+		"#text": "Connected MAC Randomization",
+		"@_name": "wifi_connected_mac_randomization"
+	},
+	{
+		"#text": "Randomize MAC address when connecting to WLAN networks",
+		"@_name": "wifi_connected_mac_randomization_summary"
+	},
+	{
+		"#text": "Connected, no Internet",
+		"@_name": "wifi_connected_no_internet"
+	},
+	{
+		"#text": "Enable Wi‑Fi Coverage Extend Feature",
+		"@_name": "wifi_coverage_extend"
+	},
+	{
+		"#text": "Enable extending Wi‑Fi coverage using Hotspot",
+		"@_name": "wifi_coverage_extend_summary"
+	},
+	{
+		"#text": "Not connected due to low quality network",
+		"@_name": "wifi_disabled_by_recommendation_provider"
+	},
+	{
+		"#text": "Disabled",
+		"@_name": "wifi_disabled_generic"
+	},
+	{
+		"#text": "IP Configuration Failure",
+		"@_name": "wifi_disabled_network_failure"
+	},
+	{
+		"#text": "Authentication problem",
+		"@_name": "wifi_disabled_password_failure"
+	},
+	{
+		"#text": "WLAN Connection Failure",
+		"@_name": "wifi_disabled_wifi_failure"
+	},
+	{
+		"#text": "Enable autonomous GO",
+		"@_name": "wifi_display_autonomous_go"
+	},
+	{
+		"#text": "Wireless display certification",
+		"@_name": "wifi_display_certification"
+	},
+	{
+		"#text": "Certification",
+		"@_name": "wifi_display_certification_heading"
+	},
+	{
+		"#text": "Show options for wireless display certification",
+		"@_name": "wifi_display_certification_summary"
+	},
+	{
+		"#text": "Listen channel",
+		"@_name": "wifi_display_listen_channel"
+	},
+	{
+		"#text": "Enable listen mode",
+		"@_name": "wifi_display_listen_mode"
+	},
+	{
+		"#text": "No nearby devices were found.",
+		"@_name": "wifi_display_no_devices_found"
+	},
+	{
+		"#text": "Operating channel",
+		"@_name": "wifi_display_operating_channel"
+	},
+	{
+		"#text": "Done",
+		"@_name": "wifi_display_options_done"
+	},
+	{
+		"#text": "Not to save",
+		"@_name": "wifi_display_options_forget"
+	},
+	{
+		"#text": "Name",
+		"@_name": "wifi_display_options_name"
+	},
+	{
+		"#text": "Wireless display options",
+		"@_name": "wifi_display_options_title"
+	},
+	{
+		"#text": "Pause",
+		"@_name": "wifi_display_pause"
+	},
+	{
+		"#text": "Resume",
+		"@_name": "wifi_display_resume"
+	},
+	{
+		"#text": "Session info",
+		"@_name": "wifi_display_session_info"
+	},
+	{
+		"#text": "Wireless display",
+		"@_name": "wifi_display_settings_title"
+	},
+	{
+		"#text": "\"Connected to \"",
+		"@_name": "wifi_display_status_connected"
+	},
+	{
+		"#text": "Connecting",
+		"@_name": "wifi_display_status_connecting"
+	},
+	{
+		"#text": "In use",
+		"@_name": "wifi_display_status_in_use"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "wifi_display_status_not_available"
+	},
+	{
+		"#text": "WPS configuration",
+		"@_name": "wifi_display_wps_config"
+	},
+	{
+		"#text": "8.8.8.8",
+		"@_name": "wifi_dns1_hint"
+	},
+	{
+		"#text": "8.8.4.4",
+		"@_name": "wifi_dns2_hint"
+	},
+	{
+		"#text": "Anonymous identity",
+		"@_name": "wifi_eap_anonymous"
+	},
+	{
+		"#text": "CA certificate",
+		"@_name": "wifi_eap_ca_cert"
+	},
+	{
+		"#text": "Identity",
+		"@_name": "wifi_eap_identity"
+	},
+	{
+		"#text": "EAP method",
+		"@_name": "wifi_eap_method"
+	},
+	{
+		"#text": "User certificate",
+		"@_name": "wifi_eap_user_cert"
+	},
+	{
+		"#text": "\"You don't have permission to change the WLAN network.\"",
+		"@_name": "wifi_empty_list_user_restricted"
+	},
+	{
+		"#text": "Turn WLAN on to see available networks",
+		"@_name": "wifi_empty_list_wifi_off"
+	},
+	{
+		"#text": "Error",
+		"@_name": "wifi_error"
+	},
+	{
+		"#text": "\"Can't scan for networks\"",
+		"@_name": "wifi_fail_to_scan"
+	},
+	{
+		"#text": "Failed to save network",
+		"@_name": "wifi_failed_save_message"
+	},
+	{
+		"#text": "Forget",
+		"@_name": "wifi_forget"
+	},
+	{
+		"#text": "Frequency",
+		"@_name": "wifi_frequency"
+	},
+	{
+		"#text": "Gateway",
+		"@_name": "wifi_gateway"
+	},
+	{
+		"#text": "192.168.1.1",
+		"@_name": "wifi_gateway_hint"
+	},
+	{
+		"#text": "In Airplane mode",
+		"@_name": "wifi_in_airplane_mode"
+	},
+	{
+		"#text": "Install certificates",
+		"@_name": "wifi_install_credentials"
+	},
+	{
+		"#text": "IP address",
+		"@_name": "wifi_ip_address"
+	},
+	{
+		"#text": "192.168.1.128",
+		"@_name": "wifi_ip_address_hint"
+	},
+	{
+		"#text": "IP settings",
+		"@_name": "wifi_ip_settings"
+	},
+	{
+		"#text": "Type a valid DNS address.",
+		"@_name": "wifi_ip_settings_invalid_dns"
+	},
+	{
+		"#text": "Type a valid gateway address.",
+		"@_name": "wifi_ip_settings_invalid_gateway"
+	},
+	{
+		"#text": "Type a valid IP address.",
+		"@_name": "wifi_ip_settings_invalid_ip_address"
+	},
+	{
+		"#text": "Type a network prefix of between 0 and 32 digits.",
+		"@_name": "wifi_ip_settings_invalid_network_prefix_length"
+	},
+	{
+		"#text": "Advanced",
+		"@_name": "wifi_menu_advanced"
+	},
+	{
+		"#text": "Connect to network",
+		"@_name": "wifi_menu_connect"
+	},
+	{
+		"#text": "Forget network",
+		"@_name": "wifi_menu_forget"
+	},
+	{
+		"#text": "Modify network",
+		"@_name": "wifi_menu_modify"
+	},
+	{
+		"#text": "WLAN Direct",
+		"@_name": "wifi_menu_p2p"
+	},
+	{
+		"#text": "Scan",
+		"@_name": "wifi_menu_scan"
+	},
+	{
+		"#text": "WPS Push Button",
+		"@_name": "wifi_menu_wps_pbc"
+	},
+	{
+		"#text": "WPS Pin Entry",
+		"@_name": "wifi_menu_wps_pin"
+	},
+	{
+		"#text": "Write to NFC tag",
+		"@_name": "wifi_menu_write_to_nfc"
+	},
+	{
+		"#text": "Metered",
+		"@_name": "wifi_metered_label"
+	},
+	{
+		"#text": "Network prefix length",
+		"@_name": "wifi_network_prefix_length"
+	},
+	{
+		"#text": 24,
+		"@_name": "wifi_network_prefix_length_hint"
+	},
+	{
+		"#text": "\"Can't access the internet\"",
+		"@_name": "wifi_no_internet"
+	},
+	{
+		"#text": "\"Won't automatically connect\"",
+		"@_name": "wifi_no_internet_no_reconnect"
+	},
+	{
+		"#text": "Not in range",
+		"@_name": "wifi_not_in_range"
+	},
+	{
+		"#text": "Network notification",
+		"@_name": "wifi_notify_open_networks"
+	},
+	{
+		"#text": "Notify whenever a public network is available",
+		"@_name": "wifi_notify_open_networks_summary"
+	},
+	{
+		"#text": "Do you want to cancel the request to connect with %1$s?",
+		"@_name": "wifi_p2p_cancel_connect_message"
+	},
+	{
+		"#text": "Cancel invitation?",
+		"@_name": "wifi_p2p_cancel_connect_title"
+	},
+	{
+		"#text": "Do not save the group?",
+		"@_name": "wifi_p2p_delete_group_message"
+	},
+	{
+		"#text": "If you disconnect, your connection with %1$s will end.",
+		"@_name": "wifi_p2p_disconnect_message"
+	},
+	{
+		"#text": "If you disconnect, your connection with %1$s and %2$s other devices will end.",
+		"@_name": "wifi_p2p_disconnect_multiple_message"
+	},
+	{
+		"#text": "Disconnect?",
+		"@_name": "wifi_p2p_disconnect_title"
+	},
+	{
+		"#text": "Failed to rename device.",
+		"@_name": "wifi_p2p_failed_rename_message"
+	},
+	{
+		"#text": "Rename device",
+		"@_name": "wifi_p2p_menu_rename"
+	},
+	{
+		"#text": "Search for devices",
+		"@_name": "wifi_p2p_menu_search"
+	},
+	{
+		"#text": "Searching...",
+		"@_name": "wifi_p2p_menu_searching"
+	},
+	{
+		"#text": "Peer devices",
+		"@_name": "wifi_p2p_peer_devices"
+	},
+	{
+		"#text": "Remembered groups",
+		"@_name": "wifi_p2p_remembered_groups"
+	},
+	{
+		"#text": "WLAN Direct",
+		"@_name": "wifi_p2p_settings_title"
+	},
+	{
+		"#text": "Password",
+		"@_name": "wifi_password"
+	},
+	{
+		"#text": "Password incorrect",
+		"@_name": "wifi_password_error_hint"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "wifi_quick_toggle_summary"
+	},
+	{
+		"#text": "Saved",
+		"@_name": "wifi_remembered"
+	},
+	{
+		"#text": "Save",
+		"@_name": "wifi_save"
+	},
+	{
+		"#text": "Saved networks",
+		"@_name": "wifi_saved_access_points_label"
+	},
+	{
+		"#text": "Saved networks",
+		"@_name": "wifi_saved_access_points_titlebar"
+	},
+	{
+		"#text": "Scanning always available",
+		"@_name": "wifi_scan_always_available"
+	},
+	{
+		"#text": "Let Google location service and other apps scan for networks, even when WLAN is off",
+		"@_name": "wifi_scan_always_available_summary"
+	},
+	{
+		"#text": "\"Apps may scan for nearby networks even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available.\"",
+		"@_name": "wifi_scan_notify_text_location_off"
+	},
+	{
+		"#text": "\"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available.\"",
+		"@_name": "wifi_scan_notify_text_location_on"
+	},
+	{
+		"#text": "Security",
+		"@_name": "wifi_security"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_dpp"
+	},
+	{
+		"#text": "802.1x EAP",
+		"@_name": "wifi_security_eap"
+	},
+	{
+		"#text": "None",
+		"@_name": "wifi_security_none"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_owe"
+	},
+	{
+		"#text": "Passpoint",
+		"@_name": "wifi_security_passpoint"
+	},
+	{
+		"#text": "@string/wifi_security_wpa_wpa2",
+		"@_name": "wifi_security_psk_generic"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_sae"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_short_dpp"
+	},
+	{
+		"#text": "802.1x",
+		"@_name": "wifi_security_short_eap"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_short_owe"
+	},
+	{
+		"#text": "@string/wifi_security_short_wpa_wpa2",
+		"@_name": "wifi_security_short_psk_generic"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_short_sae"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_short_wep"
+	},
+	{
+		"#text": "WPA",
+		"@_name": "wifi_security_short_wpa"
+	},
+	{
+		"#text": "WPA2",
+		"@_name": "wifi_security_short_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2",
+		"@_name": "wifi_security_short_wpa_wpa2"
+	},
+	{
+		"#text": "WAPI CERT",
+		"@_name": "wifi_security_wapi_cert"
+	},
+	{
+		"#text": "WAPI Certificate",
+		"@_name": "wifi_security_wapi_certificate"
+	},
+	{
+		"#text": "WAPI PSK",
+		"@_name": "wifi_security_wapi_psk"
+	},
+	{
+		"#text": "WAPI PSK ASCII",
+		"@_name": "wifi_security_wapi_psk_ascii"
+	},
+	{
+		"#text": "WAPI PSK hexadecimal",
+		"@_name": "wifi_security_wapi_psk_hexadecimal"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_wep"
+	},
+	{
+		"#text": "WPA PSK",
+		"@_name": "wifi_security_wpa"
+	},
+	{
+		"#text": "WPA2 PSK",
+		"@_name": "wifi_security_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2 PSK",
+		"@_name": "wifi_security_wpa_wpa2"
+	},
+	{
+		"#text": "Choose assistant",
+		"@_name": "wifi_select_assistant_dialog_title"
+	},
+	{
+		"#text": "Select WLAN",
+		"@_name": "wifi_select_network"
+	},
+	{
+		"#text": "There was a problem setting the frequency band.",
+		"@_name": "wifi_setting_frequency_band_error"
+	},
+	{
+		"#text": "Specify the frequency range of operation",
+		"@_name": "wifi_setting_frequency_band_summary"
+	},
+	{
+		"#text": "WLAN frequency band",
+		"@_name": "wifi_setting_frequency_band_title"
+	},
+	{
+		"#text": "There was a problem changing the setting",
+		"@_name": "wifi_setting_sleep_policy_error"
+	},
+	{
+		"#text": "Keep WLAN on during sleep",
+		"@_name": "wifi_setting_sleep_policy_title"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "wifi_settings"
+	},
+	{
+		"#text": "WLAN settings",
+		"@_name": "wifi_settings_category"
+	},
+	{
+		"#text": "Auto setting (WPS)",
+		"@_name": "wifi_setup_wps"
+	},
+	{
+		"#text": "Advanced options",
+		"@_name": "wifi_show_advanced"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "wifi_show_password"
+	},
+	{
+		"#text": "Signal strength",
+		"@_name": "wifi_signal"
+	},
+	{
+		"#text": "Speed",
+		"@_name": "wifi_speed"
+	},
+	{
+		"#text": "Name",
+		"@_name": "wifi_ssid"
+	},
+	{
+		"#text": "Enter the SSID",
+		"@_name": "wifi_ssid_hint"
+	},
+	{
+		"#text": "Turning on WLAN…",
+		"@_name": "wifi_starting"
+	},
+	{
+		"#text": "Status",
+		"@_name": "wifi_status"
+	},
+	{
+		"#text": "MAC is randomized",
+		"@_name": "wifi_status_mac_randomized"
+	},
+	{
+		"#text": "\"Can't access the internet\"",
+		"@_name": "wifi_status_no_internet"
+	},
+	{
+		"#text": "Sign in required",
+		"@_name": "wifi_status_sign_in_required"
+	},
+	{
+		"#text": "Turning off WLAN…",
+		"@_name": "wifi_stopping"
+	},
+	{
+		"#text": "Minimize battery usage when WLAN is on",
+		"@_name": "wifi_suspend_optimizations_summary"
+	},
+	{
+		"#text": "Portable WLAN hotspot",
+		"@_name": "wifi_tether_checkbox_text"
+	},
+	{
+		"#text": "Set up WLAN hotspot",
+		"@_name": "wifi_tether_configure_ap_text"
+	},
+	{
+		"#text": "AndroidHotspot",
+		"@_name": "wifi_tether_configure_ssid_default"
+	},
+	{
+		"#text": "%1$s %2$s portable WLAN hotspot",
+		"@_name": "wifi_tether_configure_subtext"
+	},
+	{
+		"#text": "Portable hotspot %1$s active",
+		"@_name": "wifi_tether_enabled_subtext"
+	},
+	{
+		"#text": "Turning on hotspot…",
+		"@_name": "wifi_tether_starting"
+	},
+	{
+		"#text": "Turning hotspot off…",
+		"@_name": "wifi_tether_stopping"
+	},
+	{
+		"#text": "Unchanged",
+		"@_name": "wifi_unchanged"
+	},
+	{
+		"#text": "Unmetered",
+		"@_name": "wifi_unmetered_label"
+	},
+	{
+		"#text": "Unspecified",
+		"@_name": "wifi_unspecified"
+	},
+	{
+		"#text": "Enable WLAN Verbose Logging",
+		"@_name": "wifi_verbose_logging"
+	},
+	{
+		"#text": "Increase WLAN logging level, show per SSID RSSI in WLAN Picker",
+		"@_name": "wifi_verbose_logging_summary"
+	},
+	{
+		"#text": "Password type",
+		"@_name": "wifi_wapi_psk_type"
+	},
+	{
+		"#text": "Certificate installation",
+		"@_name": "wifi_wapicertmanager"
+	},
+	{
+		"#text": "WPS is enabled. Connecting…",
+		"@_name": "wifi_wps_complete"
+	},
+	{
+		"#text": "Connected to WLAN network %s",
+		"@_name": "wifi_wps_connected"
+	},
+	{
+		"#text": "WPS fails to be enabled. Please try again in a few minutes.",
+		"@_name": "wifi_wps_failed_generic"
+	},
+	{
+		"#text": "Another WPS session was detected. Please try again in a few minutes.",
+		"@_name": "wifi_wps_failed_overlap"
+	},
+	{
+		"#text": "The wireless router security setting (TKIP) is not supported",
+		"@_name": "wifi_wps_failed_tkip"
+	},
+	{
+		"#text": "The wireless router security setting (WEP) is not supported",
+		"@_name": "wifi_wps_failed_wep"
+	},
+	{
+		"#text": "WPS is being set, which may take up to 2 minutes.",
+		"@_name": "wifi_wps_in_progress"
+	},
+	{
+		"#text": "Press the WLAN Protected Setup button on your router. It may be called \\\"WPS\\\" or contain this symbol:",
+		"@_name": "wifi_wps_onstart_pbc"
+	},
+	{
+		"#text": "Enter pin %1$s on your WLAN router. The setup can take up to two minutes to complete.",
+		"@_name": "wifi_wps_onstart_pin"
+	},
+	{
+		"#text": "Enabling WPS…",
+		"@_name": "wifi_wps_setup_msg"
+	},
+	{
+		"#text": "Window animation scale",
+		"@_name": "window_animation_scale_title"
+	},
+	{
+		"#text": "WLAN network",
+		"@_name": "wlan"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "yes"
+	},
+	{
+		"#text": "\"You won't hear your next alarm %1$s\"",
+		"@_name": "zen_alarm_warning"
+	},
+	{
+		"#text": "\"You won't hear your next alarm %1$s unless you turn this off before then\"",
+		"@_name": "zen_alarm_warning_indef"
+	},
+	{
+		"#text": "Priority only",
+		"@_name": "zen_interruption_level_priority"
+	},
+	{
+		"#text": "%1$s. %2$s",
+		"@_name": "zen_mode_and_condition"
+	},
+	{
+		"#text": "Ask every time",
+		"@_name": "zen_mode_duration_always_prompt_title"
+	},
+	{
+		"#text": "Duration",
+		"@_name": "zen_mode_duration_settings_title"
+	},
+	{
+		"#text": "Turn on",
+		"@_name": "zen_mode_enable_dialog_turn_on"
+	},
+	{
+		"#text": "Never",
+		"@_name": "zen_mode_settings_summary_off"
+	},
+	{
+		"#text": "Turn on Do Not Disturb",
+		"@_name": "zen_mode_settings_turn_on_dialog_title"
+	}
+]

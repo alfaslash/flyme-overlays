@@ -1,0 +1,3663 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "alert_dialog_accept"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "alert_dialog_cancel"
+	},
+	{
+		"#text": "Create home screen icon for %s?",
+		"@_name": "alert_dialog_creat_app_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "alert_dialog_ok"
+	},
+	{
+		"#text": "Asking permission to %s",
+		"@_name": "alert_dialog_permission_title"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "alert_dialog_reject"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Request failed",
+		"@_name": "model_request_error"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Network error. Please reload",
+		"@_name": "navigator_loading_exception_text"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "navigator_loading_text"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "permission_blutooth"
+	},
+	{
+		"#text": "Photo/video",
+		"@_name": "permission_camera"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "permission_location"
+	},
+	{
+		"#text": "Pay",
+		"@_name": "permission_pay"
+	},
+	{
+		"#text": "Sensor",
+		"@_name": "permission_sensor"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Loading mini program %s",
+		"@_name": "welcome_loading_text"
+	},
+	{
+		"#text": "Barcode Scanner",
+		"@_name": "zxing_app_name"
+	},
+	{
+		"#text": "OK",
+		"@_name": "zxing_button_ok"
+	},
+	{
+		"#text": "Sorry, the Android camera encountered a problem. You may need to restart the device.",
+		"@_name": "zxing_msg_camera_framework_bug"
+	},
+	{
+		"#text": "Place a barcode inside the viewfinder rectangle to scan it.",
+		"@_name": "zxing_msg_default_status"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "WaitTip"
+	},
+	{
+		"#text": "About",
+		"@_name": "about"
+	},
+	{
+		"#text": "Themes web version",
+		"@_name": "about_subtitile1"
+	},
+	{
+		"#text": "Developer Community",
+		"@_name": "about_subtitile2"
+	},
+	{
+		"#text": "Meizu Themes",
+		"@_name": "about_titile"
+	},
+	{
+		"#text": "Version",
+		"@_name": "about_version"
+	},
+	{
+		"#text": "\"Some wallpapers are copied from the internet.\n Please contact us to delete them\n if there is copyright issue\"",
+		"@_name": "about_wallpaper_disclaimer"
+	},
+	{
+		"#text": "The system is busy, please try again later",
+		"@_name": "access_server_error"
+	},
+	{
+		"#text": "Secondary wallpaper",
+		"@_name": "account_badge"
+	},
+	{
+		"#text": "Balance: ￥%.2f",
+		"@_name": "account_balance"
+	},
+	{
+		"#text": "Reading",
+		"@_name": "account_balance_getting"
+	},
+	{
+		"#text": "Coupons",
+		"@_name": "account_coupon"
+	},
+	{
+		"#text": "Points",
+		"@_name": "account_integration"
+	},
+	{
+		"#text": "Keyboard Skin",
+		"@_name": "account_keyboard_skin"
+	},
+	{
+		"#text": "Mix and match",
+		"@_name": "account_mix"
+	},
+	{
+		"#text": "Unnamed",
+		"@_name": "account_mix_project_unknow"
+	},
+	{
+		"#text": "Ringtones",
+		"@_name": "account_ringtone"
+	},
+	{
+		"#text": "Themes",
+		"@_name": "account_theme"
+	},
+	{
+		"#text": "Fonts",
+		"@_name": "account_typeface"
+	},
+	{
+		"#text": "Not logged in",
+		"@_name": "account_unlogin"
+	},
+	{
+		"#text": "Wallpaper changer",
+		"@_name": "account_varied_wallpaper"
+	},
+	{
+		"#text": "Wallpapers",
+		"@_name": "account_wallpaper"
+	},
+	{
+		"#text": "Input AD ID",
+		"@_name": "ad_popup_dialog_dialogTitle"
+	},
+	{
+		"#text": "Input AD ID. Show pop-up AD",
+		"@_name": "ad_popup_dialog_summary"
+	},
+	{
+		"#text": "Pop-up AD",
+		"@_name": "ad_popup_dialog_title"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add"
+	},
+	{
+		"#text": "Add Review",
+		"@_name": "add_comment"
+	},
+	{
+		"#text": "Be the first to review",
+		"@_name": "add_comment_empty_title"
+	},
+	{
+		"#text": "Alarm",
+		"@_name": "alarm_clock"
+	},
+	{
+		"#text": "Mon to Fri",
+		"@_name": "alarm_repeat_type_mon_to_fri"
+	},
+	{
+		"#text": "Data format incorrect",
+		"@_name": "alipay_data_exception"
+	},
+	{
+		"#text": "Network Request Error",
+		"@_name": "alipay_network_request_error"
+	},
+	{
+		"#text": "Payment service is updating",
+		"@_name": "alipay_server_error"
+	},
+	{
+		"#text": "Alipay no response, please try again",
+		"@_name": "alipay_unknown_error"
+	},
+	{
+		"#text": "All",
+		"@_name": "all_special"
+	},
+	{
+		"#text": "All updates",
+		"@_name": "all_update"
+	},
+	{
+		"#text": "Perf",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Added",
+		"@_name": "applied"
+	},
+	{
+		"#text": "Apply",
+		"@_name": "apply"
+	},
+	{
+		"#text": "Add to secondary display",
+		"@_name": "apply_badge"
+	},
+	{
+		"#text": "Error, failed to apply secondary wallpaper",
+		"@_name": "apply_badge_failed"
+	},
+	{
+		"#text": "Added successfully",
+		"@_name": "apply_badge_success"
+	},
+	{
+		"#text": "Error, failed to apply %s",
+		"@_name": "apply_failed"
+	},
+	{
+		"#text": "Failed to apply. Please re-download this keyboard skin",
+		"@_name": "apply_keyboard_skin_failed_and_re_download"
+	},
+	{
+		"#text": "Apply to home screen",
+		"@_name": "apply_launcher_sametime"
+	},
+	{
+		"#text": "Failed to apply. Please re-download this dynamic wallpaper",
+		"@_name": "apply_livepaper_failed_and_re_download"
+	},
+	{
+		"#text": "You are using a dynamic lock screen and cannot set a lock screen wallpaper.",
+		"@_name": "apply_lockwallpaper_fail"
+	},
+	{
+		"#text": "The desktop wallpaper is set. You are using a dynamic lock screen and cannot set a lock screen wallpaper.",
+		"@_name": "apply_lockwallpaper_fail_when_both_apply"
+	},
+	{
+		"#text": "Applied successfully",
+		"@_name": "apply_success"
+	},
+	{
+		"#text": "Apply",
+		"@_name": "apply_wallpaper"
+	},
+	{
+		"#text": "Adding",
+		"@_name": "applying_badge"
+	},
+	{
+		"#text": "Applying wallpaper",
+		"@_name": "applying_wallpaper"
+	},
+	{
+		"#text": "Give your phone a new look every day",
+		"@_name": "atuo_swtich_many_wallpapers"
+	},
+	{
+		"#text": "Auto-update via WLAN",
+		"@_name": "autoUpate"
+	},
+	{
+		"#text": "Auto-change wallpaper",
+		"@_name": "auto_change_wallpaper"
+	},
+	{
+		"#text": "Automatically switch to commemorative wallpaper on festivals",
+		"@_name": "automatically_switch_to_commemorative_wallpaper_on_festivals"
+	},
+	{
+		"#text": "Coupon(s)",
+		"@_name": "available_coupon_txt"
+	},
+	{
+		"@_name": "available_coupon_txt_has"
+	},
+	{
+		"#text": "Secondary wallpaper",
+		"@_name": "badge"
+	},
+	{
+		"#text": "Secondary wallpaper authorization failed. Please re-download this wallpaper.",
+		"@_name": "badge_check_license_failed"
+	},
+	{
+		"#text": "Secondary wallpaper details",
+		"@_name": "badge_detail"
+	},
+	{
+		"#text": "Themes needs to be updated before you can use paid secondary wallpapers. Update Themes?",
+		"@_name": "badge_need_update_apk_message"
+	},
+	{
+		"#text": "Secondary wallpaper not exist",
+		"@_name": "badge_not_exist"
+	},
+	{
+		"#text": "Points expires in 3 days",
+		"@_name": "beautybean_clear_date_time"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "check_all"
+	},
+	{
+		"#text": "Check for updates",
+		"@_name": "check_app_update"
+	},
+	{
+		"#text": "Check Gallery",
+		"@_name": "check_gallery"
+	},
+	{
+		"#text": "Failed to authenticate, please re-download this theme",
+		"@_name": "check_license_failed"
+	},
+	{
+		"#text": "Verifying order",
+		"@_name": "check_order"
+	},
+	{
+		"#text": "Failed to verify order",
+		"@_name": "check_order_fail"
+	},
+	{
+		"#text": "Checking for updates",
+		"@_name": "checking_app_update"
+	},
+	{
+		"#text": "China Mobile",
+		"@_name": "china_mobile"
+	},
+	{
+		"#text": "China Telecom",
+		"@_name": "china_telecom"
+	},
+	{
+		"#text": "China Unicom",
+		"@_name": "china_unicom"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Off",
+		"@_name": "close"
+	},
+	{
+		"#text": "Auto wallpaper changer for launcher disabled",
+		"@_name": "close_launcher_wallpaper"
+	},
+	{
+		"#text": "Changing launcher wallpaper manually will turn this off",
+		"@_name": "close_launcher_wallpaper_description"
+	},
+	{
+		"#text": "Poster changer disabled",
+		"@_name": "close_lock_screen_poster"
+	},
+	{
+		"#text": "When manually change lockscreen wallpapers",
+		"@_name": "close_lock_screen_poster_description"
+	},
+	{
+		"#text": "Auto wallpaper changer disabled",
+		"@_name": "close_variedwallpaper"
+	},
+	{
+		"#text": "Changing lock screen wallpaper manually will turn this off.",
+		"@_name": "close_variedwallpaper_description"
+	},
+	{
+		"#text": "Favorite fonts",
+		"@_name": "collect_font"
+	},
+	{
+		"#text": "Favorite wallpapers",
+		"@_name": "collect_pap"
+	},
+	{
+		"#text": "Favorite themes",
+		"@_name": "collect_theme"
+	},
+	{
+		"#text": "Favorites",
+		"@_name": "collection"
+	},
+	{
+		"#text": ":",
+		"@_name": "colon_and_empty"
+	},
+	{
+		"#text": "Your music ringtone application has been submitted to Cooltone, and is expected to be approved within 2 hours. Once the service is enabled your ringtone will be automatically set to \\\"%1$s\\\". If you have any questions, please contact %2$s.",
+		"@_name": "color_ring_set_success"
+	},
+	{
+		"#text": "Got It",
+		"@_name": "color_ring_set_success_confirm"
+	},
+	{
+		"#text": "M",
+		"@_name": "color_ring_tag"
+	},
+	{
+		"#text": "Music ringtone not supported for current number",
+		"@_name": "color_ring_unsupport_color_ring"
+	},
+	{
+		"#text": "Cooltone membership not supported for current number",
+		"@_name": "color_ring_unsupport_personal_color_ring"
+	},
+	{
+		"#text": "Failed to submit review",
+		"@_name": "commentError"
+	},
+	{
+		"#text": "Review",
+		"@_name": "comment_Description"
+	},
+	{
+		"#text": "Excellent",
+		"@_name": "comment_Five_Star"
+	},
+	{
+		"#text": "Good",
+		"@_name": "comment_Four_Star"
+	},
+	{
+		"#text": "\"You haven't rated it yet.\"",
+		"@_name": "comment_No_Star"
+	},
+	{
+		"#text": "Very poor",
+		"@_name": "comment_One_Star"
+	},
+	{
+		"#text": "Fair",
+		"@_name": "comment_Three_Star"
+	},
+	{
+		"#text": "Plenty of room for improvement",
+		"@_name": "comment_Two_Star"
+	},
+	{
+		"#text": "You need to purchase it before reviewing it.",
+		"@_name": "comment_after_paid"
+	},
+	{
+		"#text": "All Reviews",
+		"@_name": "comment_all"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "comment_cancel"
+	},
+	{
+		"#text": "You need to install it before reviewing it.",
+		"@_name": "comment_no_right"
+	},
+	{
+		"#text": "Submit",
+		"@_name": "comment_post"
+	},
+	{
+		"#text": "Update all fonts?",
+		"@_name": "confirm_update_fonts"
+	},
+	{
+		"#text": "Update all keyboard skins?",
+		"@_name": "confirm_update_keyboard_skins"
+	},
+	{
+		"#text": "Update all dynamic wallpapers?",
+		"@_name": "confirm_update_livepapers"
+	},
+	{
+		"#text": "Updating via cellular network will consume your data.",
+		"@_name": "confirm_update_network_title"
+	},
+	{
+		"#text": "Update all themes?",
+		"@_name": "confirm_update_themes"
+	},
+	{
+		"#text": "Congrats! Here is a coupon for you",
+		"@_name": "congratulations_get_coupon"
+	},
+	{
+		"#text": "Receive push messages",
+		"@_name": "content_push"
+	},
+	{
+		"#text": "Get notified for popular events, interviews, and more",
+		"@_name": "content_push_summary"
+	},
+	{
+		"#text": "context is null",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "continue_download"
+	},
+	{
+		"#text": "Got It",
+		"@_name": "copy_that"
+	},
+	{
+		"#text": "Copy URL",
+		"@_name": "copy_url"
+	},
+	{
+		"#text": "Some wallpapers are copyrighted by their providers and will have a watermark added when saved to a phone.",
+		"@_name": "copyright_description"
+	},
+	{
+		"#text": "Coupon",
+		"@_name": "coupon_dialog"
+	},
+	{
+		"#text": "Themes coupon will expire in 3 days",
+		"@_name": "coupon_notify_three_day_txt"
+	},
+	{
+		"#text": "Themes coupon will expire today",
+		"@_name": "coupon_notify_today_txt"
+	},
+	{
+		"#text": "%.1f",
+		"@_name": "coupon_yuan_number"
+	},
+	{
+		"#text": "Failed to create order",
+		"@_name": "create_order_error"
+	},
+	{
+		"#text": "Current version is up to date",
+		"@_name": "current_is_newest_version"
+	},
+	{
+		"#text": "The skin cannot be applied in the current input method. Switched to the system input method?",
+		"@_name": "current_not_using_system_inputmethod"
+	},
+	{
+		"#text": "Current version: %s",
+		"@_name": "current_version"
+	},
+	{
+		"#text": "Themes",
+		"@_name": "customizecenter_app_name"
+	},
+	{
+		"#text": "Themes (including dynamic theme) needs network access, location, recordings, and contacts to get themes, wallpapers, and other customized resources",
+		"@_name": "cutomizecenter_need_internal_permission_to_get_resource"
+	},
+	{
+		"#text": "\"Released: \"",
+		"@_name": "date"
+	},
+	{
+		"#text": "Meizu Themes Testing Tool",
+		"@_name": "debug_util"
+	},
+	{
+		"#text": "Tap to Open Testing Tool",
+		"@_name": "debug_util_notification_content_text"
+	},
+	{
+		"#text": "This feature will affect your use of Themes. Please turn it off when you are done.",
+		"@_name": "debug_util_summary"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Developer replies",
+		"@_name": "developerReply"
+	},
+	{
+		"#text": "This feature is unavailable to phones without secondary displays",
+		"@_name": "device_unsupported_badge"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "dialog_cancel"
+	},
+	{
+		"#text": "Exit Mix Design?",
+		"@_name": "dialog_message"
+	},
+	{
+		"#text": "Quit",
+		"@_name": "dialog_quit"
+	},
+	{
+		"#text": "Off",
+		"@_name": "discount"
+	},
+	{
+		"#text": "Dislike",
+		"@_name": "dislike"
+	},
+	{
+		"#text": "Redeem your coupon with points",
+		"@_name": "do_not_waste_beautybean"
+	},
+	{
+		"#text": "Download",
+		"@_name": "download"
+	},
+	{
+		"#text": "Download Again",
+		"@_name": "download_again"
+	},
+	{
+		"#text": "Download completed",
+		"@_name": "download_complete"
+	},
+	{
+		"#text": "(%s) downloads",
+		"@_name": "download_count"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "download_error"
+	},
+	{
+		"#text": "Download error for unrecognized IMEI",
+		"@_name": "download_error_for_unrecognized_imei"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "download_fail"
+	},
+	{
+		"#text": "Failed to download %s",
+		"@_name": "download_failed"
+	},
+	{
+		"#text": "Wait for WLAN",
+		"@_name": "download_later"
+	},
+	{
+		"#text": "Choosing \\\"Wait for WLAN\\\" will postpone the download until you are connected to WLAN, and auto wallpaper changer will not take effect immediately.",
+		"@_name": "download_later_tips"
+	},
+	{
+		"#text": "Download management",
+		"@_name": "download_manage"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "download_manage_bar_title"
+	},
+	{
+		"#text": "Pause all",
+		"@_name": "download_manage_pause_all"
+	},
+	{
+		"#text": "Continuing downloading will consume cellular data",
+		"@_name": "download_mobilenetwork_message"
+	},
+	{
+		"#text": "Download using cellular data?",
+		"@_name": "download_mobilenetwork_title"
+	},
+	{
+		"#text": "New version available, tap to download",
+		"@_name": "download_newest_version"
+	},
+	{
+		"#text": "Download via WLAN only",
+		"@_name": "download_only_in_wifi"
+	},
+	{
+		"#text": "Download",
+		"@_name": "download_right_now"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "download_state_downloading"
+	},
+	{
+		"#text": "Error",
+		"@_name": "download_state_error"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "download_state_parsing"
+	},
+	{
+		"#text": "Download paused",
+		"@_name": "download_state_pause"
+	},
+	{
+		"#text": "Started downloading theme",
+		"@_name": "download_state_starting"
+	},
+	{
+		"#text": "Waiting to download",
+		"@_name": "download_state_waiting"
+	},
+	{
+		"#text": "Waiting to update",
+		"@_name": "download_state_waiting_update"
+	},
+	{
+		"#text": "%s Downloaded",
+		"@_name": "download_success"
+	},
+	{
+		"#text": "Error, failed to download wallpaper",
+		"@_name": "download_wallpaper_fail"
+	},
+	{
+		"#text": "Download history",
+		"@_name": "downloaded_history"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "downloading"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "downloading_badge"
+	},
+	{
+		"#text": "Downloading %1$s %2$d/%3$d",
+		"@_name": "downloading_multiple"
+	},
+	{
+		"#text": "Download Update File",
+		"@_name": "downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloading, please wait",
+		"@_name": "downloading_please_wait"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "downloading_prefix"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "downloading_progress"
+	},
+	{
+		"#text": "Downloading %1$s \\\"%2$s\\\"",
+		"@_name": "downloading_single"
+	},
+	{
+		"#text": "Downloading wallpaper, please wait",
+		"@_name": "downloading_wallpaper"
+	},
+	{
+		"#text": "Enable secondary display to use the function",
+		"@_name": "enable_the_secondary_screen_to_use_the_function"
+	},
+	{
+		"#text": "Error downloading",
+		"@_name": "error"
+	},
+	{
+		"#text": "Error. Retry please. (%d)",
+		"@_name": "error_and_please_re_tried"
+	},
+	{
+		"#text": "Account remote service exception",
+		"@_name": "error_code_remote_exception"
+	},
+	{
+		"#text": "error is throwed while get token",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "every_day"
+	},
+	{
+		"#text": "Bugs in app or theme",
+		"@_name": "exist_bug"
+	},
+	{
+		"#text": "Festival wallpapers",
+		"@_name": "festival_wallpaper"
+	},
+	{
+		"#text": "Float Widget Entrance",
+		"@_name": "float_switcher_title"
+	},
+	{
+		"#text": "Replace contact avatar with Flyme style avatar",
+		"@_name": "flyme_avatar_summary"
+	},
+	{
+		"#text": "Flyme style avatar",
+		"@_name": "flyme_avatar_title"
+	},
+	{
+		"#text": "Fonts",
+		"@_name": "font"
+	},
+	{
+		"#text": "Failed to authenticate, please re-download this font",
+		"@_name": "font_check_license_failed"
+	},
+	{
+		"#text": "System default",
+		"@_name": "font_default_name"
+	},
+	{
+		"#text": "Font description",
+		"@_name": "font_description"
+	},
+	{
+		"#text": "Font details",
+		"@_name": "font_detail_activity_name"
+	},
+	{
+		"#text": "\"Couldn't download because maximum device limit is reached\"",
+		"@_name": "font_downloaded_times_exceeded_tip"
+	},
+	{
+		"#text": "Font reviews",
+		"@_name": "font_online_comment_title"
+	},
+	{
+		"#text": "Sorry, the font is no longer available.",
+		"@_name": "font_online_un_existed"
+	},
+	{
+		"#text": "Applied",
+		"@_name": "font_preview_applied"
+	},
+	{
+		"#text": "Apply",
+		"@_name": "font_preview_apply"
+	},
+	{
+		"#text": "Released: %1$s-%2$s-%3$s",
+		"@_name": "font_preview_date"
+	},
+	{
+		"#text": "Version: %s",
+		"@_name": "font_preview_version"
+	},
+	{
+		"#text": "Error, failed to apply font",
+		"@_name": "font_set_error"
+	},
+	{
+		"#text": "Applying font",
+		"@_name": "font_setting"
+	},
+	{
+		"#text": "Featured Fonts",
+		"@_name": "font_special"
+	},
+	{
+		"#text": "Note: The font is removed from store due to copyright infringement or other issues",
+		"@_name": "font_suspended_tip"
+	},
+	{
+		"#text": "Use the font for as long as you want after purchase",
+		"@_name": "font_trial_dialog_msg"
+	},
+	{
+		"#text": "Font trial ended",
+		"@_name": "font_trial_dialog_title"
+	},
+	{
+		"#text": "Font trial ended",
+		"@_name": "font_trial_end_notify_ticker"
+	},
+	{
+		"#text": "Trial of Font \\\"%s\\\" Ended",
+		"@_name": "font_trial_notify_end_title"
+	},
+	{
+		"#text": "Started font trial…",
+		"@_name": "font_trial_start_notify_ticker"
+	},
+	{
+		"#text": "Trial ending in %1$d:%2$02d",
+		"@_name": "font_trial_trying_notify_content"
+	},
+	{
+		"#text": "Trialing Font \\\"%s\\\"",
+		"@_name": "font_trial_trying_notify_title"
+	},
+	{
+		"#text": "Font",
+		"@_name": "force_touch_font"
+	},
+	{
+		"#text": "Ringtone",
+		"@_name": "force_touch_ring"
+	},
+	{
+		"#text": "Theme",
+		"@_name": "force_touch_theme"
+	},
+	{
+		"#text": "Wallpaper",
+		"@_name": "force_touch_wallpaper"
+	},
+	{
+		"#text": "invalid response",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "Get the points after logging in",
+		"@_name": "get_beautybean_after_log_in"
+	},
+	{
+		"#text": "get token cancel",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "Error getting download path",
+		"@_name": "get_download_url_error"
+	},
+	{
+		"#text": "Failed to obtain account information",
+		"@_name": "get_token_fail"
+	},
+	{
+		"#text": "Got It",
+		"@_name": "got_it"
+	},
+	{
+		"#text": "Setup Wizard",
+		"@_name": "guide_page"
+	},
+	{
+		"#text": "Harmful for phone or data",
+		"@_name": "harmful_for_phone"
+	},
+	{
+		"#text": "Reviewed",
+		"@_name": "has_been_commented"
+	},
+	{
+		"#text": "Has recovered to system theme",
+		"@_name": "has_recover_to_system_theme"
+	},
+	{
+		"#text": "Hot Fonts",
+		"@_name": "hot_font_label"
+	},
+	{
+		"#text": "Hot Wallpapers",
+		"@_name": "hot_pap_label"
+	},
+	{
+		"#text": "Hot Ringtones",
+		"@_name": "hot_ringtone_label"
+	},
+	{
+		"#text": "Trending Searches",
+		"@_name": "hot_search_label"
+	},
+	{
+		"#text": "Hot Themes",
+		"@_name": "hot_theme_label"
+	},
+	{
+		"#text": "Try Now",
+		"@_name": "i_want_to_try"
+	},
+	{
+		"#text": "Illegal payment request",
+		"@_name": "illegal_pay_request"
+	},
+	{
+		"#text": "View",
+		"@_name": "immediately_see"
+	},
+	{
+		"#text": "Issue description",
+		"@_name": "input_issue"
+	},
+	{
+		"#text": "Additional info (optional)",
+		"@_name": "input_other_error"
+	},
+	{
+		"#text": "Download",
+		"@_name": "install"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install_app"
+	},
+	{
+		"#text": "Installation error",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Install Failed",
+		"@_name": "install_fail"
+	},
+	{
+		"#text": "Error, failed to install theme",
+		"@_name": "install_theme_failed"
+	},
+	{
+		"#text": "Installed",
+		"@_name": "installed_theme"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Installing app",
+		"@_name": "installing_app"
+	},
+	{
+		"#text": "Installing theme",
+		"@_name": "installing_theme"
+	},
+	{
+		"#text": "Network exception, please try again",
+		"@_name": "integration_net_error"
+	},
+	{
+		"#text": "intent need to be handled",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Network error",
+		"@_name": "internet_error"
+	},
+	{
+		"#text": "Network error, tap to reload",
+		"@_name": "internet_error_tap_to_reload"
+	},
+	{
+		"#text": "Go to “#@0@#” > “Auto Wallpaper Changer” to enable it",
+		"@_name": "introduction_guide"
+	},
+	{
+		"#text": "\"New Feature:\nAuto Wallpaper Changer\"",
+		"@_name": "introduction_title"
+	},
+	{
+		"#text": "Keyboard",
+		"@_name": "keyboard"
+	},
+	{
+		"#text": "Keyboard skin",
+		"@_name": "keyboard_skin"
+	},
+	{
+		"#text": "Keyboard skin details",
+		"@_name": "keyboard_skin_detail"
+	},
+	{
+		"#text": "Keyboard skin not exist",
+		"@_name": "keyboard_skin_not_exist"
+	},
+	{
+		"#text": "Keyboard skin collections",
+		"@_name": "keyboard_skin_special"
+	},
+	{
+		"#text": "Dynamic wallpaper",
+		"@_name": "live_paper"
+	},
+	{
+		"#text": "dynamic wallpaper",
+		"@_name": "livepaper"
+	},
+	{
+		"#text": "Dynamic wallpaper details",
+		"@_name": "livepaper_detail"
+	},
+	{
+		"#text": "Dynamic wallpaper not exist",
+		"@_name": "livepaper_not_exist"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Pull up to load",
+		"@_name": "loading_more"
+	},
+	{
+		"#text": "Local",
+		"@_name": "local"
+	},
+	{
+		"#text": "Local dynamic wallpapers",
+		"@_name": "local_livepaper_title"
+	},
+	{
+		"#text": "Local wallpapers",
+		"@_name": "local_wallpaper"
+	},
+	{
+		"#text": "REJECT",
+		"@_name": "location_reject_button"
+	},
+	{
+		"#text": "Remember preferences",
+		"@_name": "location_remember_preferences"
+	},
+	{
+		"#text": "needs to use your location data",
+		"@_name": "location_request_message"
+	},
+	{
+		"#text": "SHARE_LOCATION",
+		"@_name": "location_share_button"
+	},
+	{
+		"#text": "M/d",
+		"@_name": "lock_month_day"
+	},
+	{
+		"#text": "Wallpaper changer auto-changes lockscreen wallpapers.",
+		"@_name": "lock_screen_poster_description"
+	},
+	{
+		"#text": "M/d/yyyy (EEEE)",
+		"@_name": "lock_week"
+	},
+	{
+		"#text": "Show text on lock screen",
+		"@_name": "lockscreen_show_text"
+	},
+	{
+		"#text": "Log Export",
+		"@_name": "log"
+	},
+	{
+		"#text": "Export all logs as error logs",
+		"@_name": "log_summary"
+	},
+	{
+		"#text": "Please login before applying",
+		"@_name": "login_before_applying"
+	},
+	{
+		"#text": "\"Don't miss the chance. Check it out！\"",
+		"@_name": "look_coupon"
+	},
+	{
+		"#text": "View",
+		"@_name": "look_over"
+	},
+	{
+		"#text": "Matched theme",
+		"@_name": "matched_theme"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_pattern_just_now"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Apply My Mix",
+		"@_name": "mix_apply"
+	},
+	{
+		"#text": "Use mixed theme",
+		"@_name": "mix_apply_message"
+	},
+	{
+		"#text": "Error, failed to apply mixed theme",
+		"@_name": "mix_apply_message_error"
+	},
+	{
+		"#text": "Dialer",
+		"@_name": "mix_dialer_item"
+	},
+	{
+		"#text": "Icons",
+		"@_name": "mix_icon_item"
+	},
+	{
+		"#text": "Lock Screen",
+		"@_name": "mix_lock_screen_item"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "mix_mms_item"
+	},
+	{
+		"#text": "Widgets",
+		"@_name": "mix_plugin_item"
+	},
+	{
+		"#text": "Wallpaper",
+		"@_name": "mix_wallpaper_item"
+	},
+	{
+		"#text": "At first use, you need to download a number of initial wallpapers. This may consume your cellular data (about 30 MB).",
+		"@_name": "mobile_network_Tips"
+	},
+	{
+		"#text": "More",
+		"@_name": "more"
+	},
+	{
+		"#text": "More Collections",
+		"@_name": "more_special"
+	},
+	{
+		"#text": "Loading data",
+		"@_name": "msg_loading"
+	},
+	{
+		"#text": "Select alarm",
+		"@_name": "multi_selection_alarm_clock_title"
+	},
+	{
+		"#text": "Select secondary wallpaper",
+		"@_name": "multi_selection_badge_title"
+	},
+	{
+		"#text": "Select font",
+		"@_name": "multi_selection_font_title"
+	},
+	{
+		"#text": "Select keyboard skin",
+		"@_name": "multi_selection_keyboard_skin_title"
+	},
+	{
+		"#text": "Select dynamic wallpaper",
+		"@_name": "multi_selection_live_paper_title"
+	},
+	{
+		"#text": "Select wallpaper",
+		"@_name": "multi_selection_pap_title"
+	},
+	{
+		"#text": "Select ringtone",
+		"@_name": "multi_selection_ringtone_title"
+	},
+	{
+		"#text": "Select theme",
+		"@_name": "multi_selection_theme_title"
+	},
+	{
+		"#text": "Color fonts will be compatible if they are used in version less than Flyme 7.",
+		"@_name": "multicolor_font_blew_flyme7_tip"
+	},
+	{
+		"#text": "Me",
+		"@_name": "my"
+	},
+	{
+		"#text": "My secondary wallpapers",
+		"@_name": "native_badge_title"
+	},
+	{
+		"#text": "My keyboard skins",
+		"@_name": "native_keyboard_skin_title"
+	},
+	{
+		"#text": "My wallpapers",
+		"@_name": "native_pap_title"
+	},
+	{
+		"#text": "My ringtones",
+		"@_name": "native_ring_title"
+	},
+	{
+		"#text": "My themes",
+		"@_name": "native_theme_title"
+	},
+	{
+		"#text": "My fonts",
+		"@_name": "native_typeface_title"
+	},
+	{
+		"#text": "Themes needs to be updated before you can use paid %s. Update Themes?",
+		"@_name": "need_update_apk_message"
+	},
+	{
+		"#text": "Network error, please try again later",
+		"@_name": "net_exception"
+	},
+	{
+		"#text": "Network Request Error",
+		"@_name": "networkRequestError"
+	},
+	{
+		"#text": "Network error, tap to reload",
+		"@_name": "network_error_to_refresh"
+	},
+	{
+		"#text": "Never repeat",
+		"@_name": "never"
+	},
+	{
+		"#text": "New version downloaded, tap to install",
+		"@_name": "newest_version_has_downloaded_click_to_install"
+	},
+	{
+		"#text": "Next",
+		"@_name": "next_step"
+	},
+	{
+		"#text": "No Alarms",
+		"@_name": "no_alarm_clock"
+	},
+	{
+		"#text": "No Favorites",
+		"@_name": "no_collection"
+	},
+	{
+		"#text": "No downloads",
+		"@_name": "no_download_task"
+	},
+	{
+		"#text": "Network request failed",
+		"@_name": "no_internet_error"
+	},
+	{
+		"#text": "No local dynamic wallpapers recommended",
+		"@_name": "no_livepaper_tips"
+	},
+	{
+		"#text": "No network, please check your settings.",
+		"@_name": "no_network_to_setting"
+	},
+	{
+		"#text": "No Data",
+		"@_name": "no_record"
+	},
+	{
+		"#text": "Prohibit Reviews",
+		"@_name": "not_allow_comment"
+	},
+	{
+		"#text": "Not on the device",
+		"@_name": "not_on_the_device"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Old version",
+		"@_name": "oldVersion"
+	},
+	{
+		"#text": "\"Note: Only icons and wallpaper will take effect because the designer hasn't updated the theme to match the new system.\"",
+		"@_name": "old_sys_ver_theme_tip"
+	},
+	{
+		"#text": "Old version",
+		"@_name": "old_sys_version"
+	},
+	{
+		"#text": "Theme Font Ringtone Wallpaper",
+		"@_name": "one_search_input_hint"
+	},
+	{
+		"#text": "Online",
+		"@_name": "online"
+	},
+	{
+		"#text": "Outdated online font version",
+		"@_name": "online_font_old"
+	},
+	{
+		"#text": "Applied",
+		"@_name": "online_theme_applied"
+	},
+	{
+		"#text": "Apply",
+		"@_name": "online_theme_apply"
+	},
+	{
+		"#text": "The theme is out of date",
+		"@_name": "online_theme_old"
+	},
+	{
+		"#text": "Purchase",
+		"@_name": "online_theme_pay_content_description"
+	},
+	{
+		"#text": "Trial",
+		"@_name": "online_theme_trial"
+	},
+	{
+		"#text": "Authentication failed, requesting authorization…",
+		"@_name": "online_theme_trial_check_license_fail"
+	},
+	{
+		"#text": "You can continue using it after purchase",
+		"@_name": "online_theme_trial_dialog_msg"
+	},
+	{
+		"#text": "Theme Trial Ended",
+		"@_name": "online_theme_trial_dialog_title"
+	},
+	{
+		"#text": "End",
+		"@_name": "online_theme_trial_end"
+	},
+	{
+		"#text": "Theme trial ended",
+		"@_name": "online_theme_trial_end_notify_ticker"
+	},
+	{
+		"#text": "You can continue using it after purchase",
+		"@_name": "online_theme_trial_notify_end_content"
+	},
+	{
+		"#text": "Trial of Theme \\\"%s\\\" Ended",
+		"@_name": "online_theme_trial_notify_end_title"
+	},
+	{
+		"#text": "Trial Now",
+		"@_name": "online_theme_trial_now"
+	},
+	{
+		"#text": "Purchase",
+		"@_name": "online_theme_trial_pay"
+	},
+	{
+		"#text": "Purchase",
+		"@_name": "online_theme_trial_pay_now"
+	},
+	{
+		"#text": "Started theme trial…",
+		"@_name": "online_theme_trial_start_notify_ticker"
+	},
+	{
+		"#text": "Trial ending in %1$d:%2$02d",
+		"@_name": "online_theme_trial_trying_notify_content"
+	},
+	{
+		"#text": "Trialing Theme \\\"%s\\\"",
+		"@_name": "online_theme_trial_trying_notify_title"
+	},
+	{
+		"#text": "On Trial",
+		"@_name": "online_theme_trying_now"
+	},
+	{
+		"#text": "On",
+		"@_name": "open"
+	},
+	{
+		"#text": "Open",
+		"@_name": "open_app"
+	},
+	{
+		"#text": "Payment service authorization",
+		"@_name": "open_pay_auto_pay_permission_title"
+	},
+	{
+		"#text": "You are using a live wallpaper for lock screen. Please replace it with a regular one before enabling auto wallpaper changer.",
+		"@_name": "open_varied_wallpaper_fail"
+	},
+	{
+		"#text": "Open in Browser",
+		"@_name": "open_with_browser"
+	},
+	{
+		"#text": "Illegal request, order incomplete",
+		"@_name": "orderInfoIncomplete"
+	},
+	{
+		"#text": "Set as Home screen wallpaper",
+		"@_name": "origin_livepaper_set_wallpaper"
+	},
+	{
+		"#text": "Set as Lock Screen &amp; Home Screen",
+		"@_name": "origin_livepaper_set_wallpaper_and_lockpaper"
+	},
+	{
+		"#text": "Other issues",
+		"@_name": "other_error"
+	},
+	{
+		"#text": "Featured Wallpapers",
+		"@_name": "pap_special"
+	},
+	{
+		"#text": "%m-%d",
+		"@_name": "pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y-%m-%d",
+		"@_name": "pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Paused",
+		"@_name": "paused"
+	},
+	{
+		"#text": "The system is busy, please try again later",
+		"@_name": "pay_base_channel_access_server_error"
+	},
+	{
+		"#text": "Payment failed",
+		"@_name": "pay_base_channel_pay_fail"
+	},
+	{
+		"#text": "Payment made successfully",
+		"@_name": "pay_base_channel_pay_success"
+	},
+	{
+		"#text": "Payment failed, unknown exception",
+		"@_name": "pay_base_channel_pay_unknown_error"
+	},
+	{
+		"#text": "Payment failed",
+		"@_name": "pay_fail"
+	},
+	{
+		"#text": "Payment made successfully",
+		"@_name": "pay_success"
+	},
+	{
+		"#text": "Payment failed, unknown exception",
+		"@_name": "pay_unknown_error"
+	},
+	{
+		"#text": "Payment failed: %s",
+		"@_name": "payment_fail"
+	},
+	{
+		"#text": "Failed to create order. Please try again.",
+		"@_name": "payment_price_not_match"
+	},
+	{
+		"#text": "Failed to purchase special offer. Please try again next time.",
+		"@_name": "payment_promotion_fail"
+	},
+	{
+		"#text": "Order unpaid",
+		"@_name": "payment_unpaid"
+	},
+	{
+		"#text": "Select From Gallery",
+		"@_name": "photo_select"
+	},
+	{
+		"#text": "Online",
+		"@_name": "preview_action_online"
+	},
+	{
+		"#text": "Previewing Theme \\\"%s\\\"",
+		"@_name": "previewing_theme"
+	},
+	{
+		"#text": "Pull up to refresh",
+		"@_name": "pull_to_refresh"
+	},
+	{
+		"#text": "Error getting download path",
+		"@_name": "push_error"
+	},
+	{
+		"#text": "Subscribed topics received",
+		"@_name": "push_notify_ticker_message"
+	},
+	{
+		"#text": "Inappropriate rating",
+		"@_name": "rating_error"
+	},
+	{
+		"#text": "Restore",
+		"@_name": "recover"
+	},
+	{
+		"#text": "When the theme is applied to different Flyme versions, a compatibility issue occurs.",
+		"@_name": "recover_to_system_theme_for_a_compatibility_problem"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "refresh"
+	},
+	{
+		"#text": "Developer themes",
+		"@_name": "relative_theme"
+	},
+	{
+		"#text": "Reload",
+		"@_name": "reload"
+	},
+	{
+		"#text": "Failed to report issue",
+		"@_name": "report_issue_error"
+	},
+	{
+		"#text": "Report an issue",
+		"@_name": "report_title"
+	},
+	{
+		"#text": "Request too fast",
+		"@_name": "request_too_fast"
+	},
+	{
+		"#text": "Material error",
+		"@_name": "res_error"
+	},
+	{
+		"#text": "Restart now",
+		"@_name": "restart_now"
+	},
+	{
+		"#text": "Restoring font",
+		"@_name": "restore_font_title"
+	},
+	{
+		"#text": "Restoring theme",
+		"@_name": "restore_theme_title"
+	},
+	{
+		"#text": "Restoring to last theme \\\"%s\\\"",
+		"@_name": "restore_to_last"
+	},
+	{
+		"#text": "Restoring to font \\\"%s\\\"",
+		"@_name": "restore_to_last_font"
+	},
+	{
+		"#text": "Restoring to system theme",
+		"@_name": "restore_to_system"
+	},
+	{
+		"#text": "Restoring to system font",
+		"@_name": "restore_to_system_font"
+	},
+	{
+		"#text": "Resume",
+		"@_name": "resume"
+	},
+	{
+		"#text": "Ringtones",
+		"@_name": "ring"
+	},
+	{
+		"#text": "© Cool Ringtone",
+		"@_name": "ring_cp_kuyin"
+	},
+	{
+		"#text": "Started downloading ringtone",
+		"@_name": "ring_download_state_starting"
+	},
+	{
+		"#text": "© %s",
+		"@_name": "ring_tone_cp_source"
+	},
+	{
+		"#text": "Set up",
+		"@_name": "ring_tone_list_setting"
+	},
+	{
+		"#text": "Play",
+		"@_name": "ring_tone_play"
+	},
+	{
+		"#text": "Failed to play ringtone. Please try again later.",
+		"@_name": "ring_tone_play_error"
+	},
+	{
+		"#text": "Playing via cellular network will consume your data.",
+		"@_name": "ring_tone_play_with_mobile_net"
+	},
+	{
+		"#text": "Error, failed to set alarm sound",
+		"@_name": "ring_tone_setting_alarm_clock_fail"
+	},
+	{
+		"#text": "Alarm sound set successfully",
+		"@_name": "ring_tone_setting_alarm_clock_success"
+	},
+	{
+		"#text": "Error, failed to set ringtone",
+		"@_name": "ring_tone_setting_contact_fail"
+	},
+	{
+		"#text": "Contact ringtone setup succeeded",
+		"@_name": "ring_tone_setting_contact_success"
+	},
+	{
+		"#text": "SMS tone set successfully",
+		"@_name": "ring_tone_setting_msg_success"
+	},
+	{
+		"#text": "Set ringtones",
+		"@_name": "ring_tone_setting_phone_success"
+	},
+	{
+		"#text": "Featured Ringtones",
+		"@_name": "ringtone_special"
+	},
+	{
+		"#text": "Points can be used to redeem coupons and participate in a lucky draw",
+		"@_name": "role_of_beautybean"
+	},
+	{
+		"#text": "Save",
+		"@_name": "save"
+	},
+	{
+		"#text": "This feature is unavailable in current mode",
+		"@_name": "save_power_mode"
+	},
+	{
+		"#text": "All Reviews (%s)",
+		"@_name": "scan_comment_all"
+	},
+	{
+		"#text": "Scan QR code to debug Weex",
+		"@_name": "scan_qr"
+	},
+	{
+		"#text": "got null auth token for scope: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "No USB storage mounted",
+		"@_name": "sdcard_unmount_update_theme"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search"
+	},
+	{
+		"#text": "Search for font",
+		"@_name": "search_font_hint"
+	},
+	{
+		"#text": "Search History",
+		"@_name": "search_history_label"
+	},
+	{
+		"#text": "Search for wallpaper",
+		"@_name": "search_pap_hint"
+	},
+	{
+		"#text": "Search for ringtone",
+		"@_name": "search_ringtone_hint"
+	},
+	{
+		"#text": "Search for theme",
+		"@_name": "search_theme_hint"
+	},
+	{
+		"#text": "View more dynamic wallpapers",
+		"@_name": "see_more_livepaper_text"
+	},
+	{
+		"#text": "Select Theme",
+		"@_name": "select_theme"
+	},
+	{
+		"#text": "\"Find your favorite theme and style up your phone. \nCheck out Meizu Themes for more options.\"",
+		"@_name": "select_theme_description"
+	},
+	{
+		"#text": "This is a sensitive word",
+		"@_name": "sensitive_word"
+	},
+	{
+		"#text": "Server request failed",
+		"@_name": "server_request_error"
+	},
+	{
+		"#text": "Server error, please try again later",
+		"@_name": "service_exception"
+	},
+	{
+		"#text": "Set as alarm sound",
+		"@_name": "set_alarm_clock_ring"
+	},
+	{
+		"#text": "Assign to contact",
+		"@_name": "set_contacts_ring"
+	},
+	{
+		"#text": "Set as ringtone",
+		"@_name": "set_customized_ring"
+	},
+	{
+		"#text": "Uplift the mood of your callers",
+		"@_name": "set_customized_ring_sub"
+	},
+	{
+		"#text": "Set as call ringtone",
+		"@_name": "set_incoming_call_ring"
+	},
+	{
+		"#text": "Set as message tone",
+		"@_name": "set_sms_ring"
+	},
+	{
+		"#text": "Error, failed to set theme",
+		"@_name": "set_theme_error"
+	},
+	{
+		"#text": "Error, failed to apply wallpaper",
+		"@_name": "set_wallpaper_fal"
+	},
+	{
+		"#text": "Wallpaper applied",
+		"@_name": "set_wallpaper_success"
+	},
+	{
+		"#text": "Error, smart wallpaper not supported",
+		"@_name": "set_wallpaper_unsupport"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "setting"
+	},
+	{
+		"#text": "View more fonts",
+		"@_name": "setting_bottom_font_button_text"
+	},
+	{
+		"#text": "View more themes",
+		"@_name": "setting_bottom_theme_button_text"
+	},
+	{
+		"#text": "View more wallpapers",
+		"@_name": "setting_bottom_wallpaper_button_text"
+	},
+	{
+		"#text": "Applying keyboard skin",
+		"@_name": "setting_keyboard_skin"
+	},
+	{
+		"#text": "Applying dynamic wallpaper",
+		"@_name": "setting_livepaper"
+	},
+	{
+		"#text": "Set",
+		"@_name": "setting_network"
+	},
+	{
+		"#text": "Online Fonts",
+		"@_name": "setting_no_net_online_font_title"
+	},
+	{
+		"#text": "Online themes",
+		"@_name": "setting_no_net_online_theme_title"
+	},
+	{
+		"#text": "Online wallpapers",
+		"@_name": "setting_no_net_online_wallpaper_title"
+	},
+	{
+		"#text": "Connect to Internet for more",
+		"@_name": "setting_no_net_tips"
+	},
+	{
+		"#text": "Themes &amp; wallpapers need network access, location, recordings, and contacts to get themes, wallpapers, and other customized resources",
+		"@_name": "setting_permission_dialog_text"
+	},
+	{
+		"#text": "Show all",
+		"@_name": "setting_show_all_data_title"
+	},
+	{
+		"#text": "Applying theme",
+		"@_name": "setting_theme"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "setup_error"
+	},
+	{
+		"#text": "Pornography or violence",
+		"@_name": "sex_and_violence"
+	},
+	{
+		"#text": "\"I'm sharing \\\"%1$s\\\" from Meizu Themes %2$s\"",
+		"@_name": "shareMsg"
+	},
+	{
+		"#text": "Share font",
+		"@_name": "share_font_action"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "share_to"
+	},
+	{
+		"#text": "Share theme",
+		"@_name": "sharetheme_action"
+	},
+	{
+		"#text": "Log In",
+		"@_name": "sign_in"
+	},
+	{
+		"#text": "Swipe up to unlock",
+		"@_name": "slide_unlock_screen"
+	},
+	{
+		"#text": "Smart Wallpaper",
+		"@_name": "smart_wallpaper"
+	},
+	{
+		"#text": "Set as Home screen wallpaper",
+		"@_name": "smart_wallpaper_apply_launcher"
+	},
+	{
+		"#text": "Set as lock screen wallpaper",
+		"@_name": "smart_wallpaper_apply_lock_screen"
+	},
+	{
+		"#text": "|",
+		"@_name": "smart_wallpaper_select_divider"
+	},
+	{
+		"#text": "Select a type",
+		"@_name": "smart_wallpaper_select_title"
+	},
+	{
+		"#text": "Switch wallpaper by shaking",
+		"@_name": "smart_wallpaper_shake"
+	},
+	{
+		"#text": "Adjust wallpaper change frequency",
+		"@_name": "smart_wallpaper_switch_frequency"
+	},
+	{
+		"#text": "Change wallpaper when woken up",
+		"@_name": "smart_wallpaper_switch_hit_screen"
+	},
+	{
+		"#text": "Update wallpaper via WLAN only",
+		"@_name": "smart_wallpaper_wifi_update"
+	},
+	{
+		"#text": "Started applying font",
+		"@_name": "start_setting_font"
+	},
+	{
+		"#text": "Applying theme",
+		"@_name": "start_setting_theme"
+	},
+	{
+		"#text": "Started incremental update",
+		"@_name": "start_update_incremental"
+	},
+	{
+		"#text": "Start downloading %s",
+		"@_name": "starting_download_state"
+	},
+	{
+		"#text": "Out of space",
+		"@_name": "storage_not_enough"
+	},
+	{
+		"#text": "Not Now",
+		"@_name": "strong_font_dlg_btn_giveup"
+	},
+	{
+		"#text": "Restart now",
+		"@_name": "strong_font_dlg_btn_restart"
+	},
+	{
+		"#text": "Restart required to apply this setting",
+		"@_name": "strong_font_dlg_title"
+	},
+	{
+		"#text": "Apply bold formatting to system font",
+		"@_name": "strong_font_summary"
+	},
+	{
+		"#text": "Bold system font",
+		"@_name": "strong_font_title"
+	},
+	{
+		"#text": "Submit",
+		"@_name": "submit"
+	},
+	{
+		"#text": "Removed",
+		"@_name": "suspended"
+	},
+	{
+		"#text": "\"Please connect to a network before turning \\\"Receive push messages\\\" on or off, or the change won't take effect.\"",
+		"@_name": "switch_push_fail_dialog"
+	},
+	{
+		"#text": "sync get token time out",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Classic",
+		"@_name": "system_keyboard_skin"
+	},
+	{
+		"#text": "Classic",
+		"@_name": "system_theme_name"
+	},
+	{
+		"#text": "your active task go wrong!",
+		"@_name": "task_error_message"
+	},
+	{
+		"#text": "activity task is complete!",
+		"@_name": "task_finished_message"
+	},
+	{
+		"#text": "Themes",
+		"@_name": "theme"
+	},
+	{
+		"#text": "Theme &amp; wallpaper",
+		"@_name": "theme_and_wallpaper"
+	},
+	{
+		"#text": "Reviews",
+		"@_name": "theme_comment_description"
+	},
+	{
+		"#text": "Theme details",
+		"@_name": "theme_description"
+	},
+	{
+		"#text": "Details",
+		"@_name": "theme_description_more"
+	},
+	{
+		"#text": "\"Couldn't download because maximum device limit is reached\"",
+		"@_name": "theme_downloaded_times_exceeded_tip"
+	},
+	{
+		"#text": "History(%s)",
+		"@_name": "theme_history_item_prefix"
+	},
+	{
+		"#text": "\"Can't download because maximum device limit is exceeded\"",
+		"@_name": "theme_history_max_free_download"
+	},
+	{
+		"#text": "Theme install",
+		"@_name": "theme_install_title"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "theme_list_downloaded"
+	},
+	{
+		"#text": "Free",
+		"@_name": "theme_list_free"
+	},
+	{
+		"#text": "Old",
+		"@_name": "theme_list_old"
+	},
+	{
+		"#text": "Purchased",
+		"@_name": "theme_list_paid"
+	},
+	{
+		"#text": "Update",
+		"@_name": "theme_list_update"
+	},
+	{
+		"#text": "%1$s, etc.",
+		"@_name": "theme_name_etc"
+	},
+	{
+		"#text": "Sorry, the theme is no longer available",
+		"@_name": "theme_online_un_existed"
+	},
+	{
+		"#text": "End Preview",
+		"@_name": "theme_preview_end"
+	},
+	{
+		"#text": "Theme preview ended",
+		"@_name": "theme_preview_end_notify_ticker"
+	},
+	{
+		"#text": "Theme \\\"%s\\\" preview ended",
+		"@_name": "theme_preview_ended"
+	},
+	{
+		"#text": "Preview ending in %1$d:%2$02d",
+		"@_name": "theme_preview_notify_content"
+	},
+	{
+		"#text": "Previewing theme…",
+		"@_name": "theme_preview_start_notify_ticker"
+	},
+	{
+		"#text": "Report an issue",
+		"@_name": "theme_report_problem"
+	},
+	{
+		"#text": "Share",
+		"@_name": "theme_share"
+	},
+	{
+		"#text": "Featured Themes",
+		"@_name": "theme_special"
+	},
+	{
+		"#text": "Note: The theme is removed from store due to copyright infringement or other issues.",
+		"@_name": "theme_suspended_tip"
+	},
+	{
+		"#text": "\"What's new\"",
+		"@_name": "theme_update_description"
+	},
+	{
+		"#text": "Every 30 minutes",
+		"@_name": "three_minutes"
+	},
+	{
+		"#text": "Accelerator",
+		"@_name": "time_acceleration"
+	},
+	{
+		"#text": "Accelerate %dx",
+		"@_name": "time_acceleration_summary"
+	},
+	{
+		"#text": "Secondary wallpapers",
+		"@_name": "title_activity_export_badge"
+	},
+	{
+		"#text": "Fonts",
+		"@_name": "title_activity_export_font"
+	},
+	{
+		"#text": "Dynamic wallpapers",
+		"@_name": "title_activity_export_live_paper"
+	},
+	{
+		"#text": "Themes",
+		"@_name": "title_activity_export_theme"
+	},
+	{
+		"#text": "Wallpapers",
+		"@_name": "title_activity_export_wallpaper"
+	},
+	{
+		"#text": "Redeem",
+		"@_name": "to_exchange"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "to_open"
+	},
+	{
+		"#text": "Change",
+		"@_name": "toggle"
+	},
+	{
+		"#text": "Changed",
+		"@_name": "toggle_success"
+	},
+	{
+		"#text": "uid not match package name",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "None",
+		"@_name": "uncheck_all"
+	},
+	{
+		"#text": "An unknown system error is discovered.",
+		"@_name": "unknown_error"
+	},
+	{
+		"#text": "unknown error from sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "Not supported",
+		"@_name": "unsupport_current_version"
+	},
+	{
+		"#text": "requests too frequently",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Not supported on the current system version. Please update your system and try again",
+		"@_name": "unsupport_the_function_on_media_eval_system"
+	},
+	{
+		"#text": "Update",
+		"@_name": "update"
+	},
+	{
+		"#text": "Theme &amp; font &amp; dynamic wallpaper update notifications",
+		"@_name": "updateNotify"
+	},
+	{
+		"#text": "\\\"%1$s\\\", etc., saved %2$s of data",
+		"@_name": "update_incremental_success_content_multiple"
+	},
+	{
+		"#text": "\\\"%1$s\\\", saved %2$s of data",
+		"@_name": "update_incremental_success_content_single"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "updating_prefix"
+	},
+	{
+		"#text": "Updating Theme",
+		"@_name": "updating_single_theme"
+	},
+	{
+		"#text": "Updating Themes %1$d/%2$d",
+		"@_name": "updating_theme"
+	},
+	{
+		"#text": "Replace app icon with Flyme style icon",
+		"@_name": "use_flyme_icon_summary"
+	},
+	{
+		"#text": "Flyme style icon",
+		"@_name": "use_flyme_icon_title"
+	},
+	{
+		"#text": "Wipe all app data including files, settings, accounts, database, etc.",
+		"@_name": "user_data_manager_message"
+	},
+	{
+		"#text": "Delete app data?",
+		"@_name": "user_data_manager_title"
+	},
+	{
+		"#text": "Users also like the following",
+		"@_name": "usr_install_theme"
+	},
+	{
+		"#text": "Coupon expires on:",
+		"@_name": "valid_until"
+	},
+	{
+		"#text": "Inaccurate system time. Please correct it",
+		"@_name": "verify_error_for_system_time_accurate"
+	},
+	{
+		"#text": "Version:",
+		"@_name": "version"
+	},
+	{
+		"#text": "Infringement or plagiarism",
+		"@_name": "version_error"
+	},
+	{
+		"#text": "Version incompatibility",
+		"@_name": "version_incompatibility"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "waitTip"
+	},
+	{
+		"#text": "Wallpapers",
+		"@_name": "wallpaper"
+	},
+	{
+		"#text": "Blur",
+		"@_name": "wallpaper_blur"
+	},
+	{
+		"#text": "Both",
+		"@_name": "wallpaper_both"
+	},
+	{
+		"#text": "Wallpaper sources",
+		"@_name": "wallpaper_come_from"
+	},
+	{
+		"#text": "Home screen",
+		"@_name": "wallpaper_launcher"
+	},
+	{
+		"#text": "Lock screen",
+		"@_name": "wallpaper_lock"
+	},
+	{
+		"#text": "Preview",
+		"@_name": "wallpaper_preview"
+	},
+	{
+		"#text": "Save",
+		"@_name": "wallpaper_save"
+	},
+	{
+		"#text": "Wallpaper refresh frequency",
+		"@_name": "wallpaper_update_frequency"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "web_extra_loading"
+	},
+	{
+		"#text": "Service exception, click on reload",
+		"@_name": "web_extra_need_reload"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "web_extra_no_network"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "weekend"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "weixin"
+	},
+	{
+		"#text": "WeChat no response, please retry",
+		"@_name": "weixin_unknown_error"
+	},
+	{
+		"#text": "\"You've reviewed this version\"",
+		"@_name": "you_have_been_commented"
+	},
+	{
+		"#text": "￥",
+		"@_name": "yuan"
+	},
+	{
+		"#text": "%.2f",
+		"@_name": "yuan_number"
+	},
+	{
+		"#text": "￥%.2f",
+		"@_name": "yuan_tag"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "\\#8EA8BE",
+		"@_name": "account_info_layout_default_color"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "请将条码置于取景框内扫描",
+		"@_name": "capture_qrcode_prompt"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": ":",
+		"@_name": "colon"
+	},
+	{
+		"#text": "Get PIN",
+		"@_name": "color_ring_get_rand_code"
+	},
+	{
+		"#text": "Authorization failed. Please request again.",
+		"@_name": "color_ring_login_token_invalid"
+	},
+	{
+		"#text": "Next",
+		"@_name": "color_ring_next_step"
+	},
+	{
+		"#text": "Minimum time interval not reached yet. Please wait.",
+		"@_name": "color_ring_not_enough_duration"
+	},
+	{
+		"#text": "Enter correct phone number",
+		"@_name": "color_ring_phone_number_error"
+	},
+	{
+		"#text": "Please enter phone number",
+		"@_name": "color_ring_phone_number_hint"
+	},
+	{
+		"#text": "Incorrect verification code. Please re-enter.",
+		"@_name": "color_ring_rand_code_error"
+	},
+	{
+		"#text": "PIN",
+		"@_name": "color_ring_rand_code_hint"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "color_ring_reget_rand_code"
+	},
+	{
+		"#text": "s",
+		"@_name": "color_ring_second"
+	},
+	{
+		"#text": "Set music ringtone \\\"%s\\\"",
+		"@_name": "color_ring_set_color_ring"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Online Fonts",
+		"@_name": "external_intent_font_online_title"
+	},
+	{
+		"#text": "Online Ringtones",
+		"@_name": "external_intent_ringtone_online_title"
+	},
+	{
+		"#text": "Online Themes",
+		"@_name": "external_intent_theme_online_title"
+	},
+	{
+		"#text": "Online Wallpapers",
+		"@_name": "external_intent_wallpaper_online_title"
+	},
+	{
+		"#text": "fitActionView",
+		"@_name": "fit_action_view"
+	},
+	{
+		"#text": "https://pay-res.meizu.com/resources/pay/h5/flyme5_pay_h5.zip",
+		"@_name": "flyme_h5_file_download_pay"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Font Label",
+		"@_name": "font_label"
+	},
+	{
+		"#text": "%s:%s",
+		"@_name": "hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "com.meizu.theme.model.default",
+		"@_name": "model_default_theme"
+	},
+	{
+		"#text": "--",
+		"@_name": "module_count_def"
+	},
+	{
+		"#text": "com.meizu.theme.mznanshen",
+		"@_name": "official_theme1"
+	},
+	{
+		"#text": "com.meizu.theme.mznvshen",
+		"@_name": "official_theme2"
+	},
+	{
+		"#text": "Sorry, the theme is no longer available",
+		"@_name": "online_theme_un_existed"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "https://pay-res.meizu.com/resources/pay/h5/config.json",
+		"@_name": "static_file_down_load_pay"
+	},
+	{
+		"#text": "com.meizu.theme.system",
+		"@_name": "system_theme"
+	},
+	{
+		"#text": "Theme Label",
+		"@_name": "theme_label"
+	},
+	{
+		"#text": "©",
+		"@_name": "wallpaper_copy_right"
+	}
+]

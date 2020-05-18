@@ -1,0 +1,1351 @@
+[
+	{
+		"#text": "Performance monitor",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "abc_action_bar_home_description_format"
+	},
+	{
+		"#text": "%1$s, %2$s, %3$s",
+		"@_name": "abc_action_bar_home_subtitle_description_format"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Performance Optimization",
+		"@_name": "perf_ui_titile"
+	},
+	{
+		"#text": "OK",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "setting"
+	},
+	{
+		"#text": "This app was developed by the performance optimization team. For any questions, please contact shell-perf@meizu.com.",
+		"@_name": "about"
+	},
+	{
+		"#text": "By top activity",
+		"@_name": "top_activity"
+	},
+	{
+		"#text": "By ranking",
+		"@_name": "rank_processes"
+	},
+	{
+		"#text": "By size",
+		"@_name": "large_processes"
+	},
+	{
+		"#text": "By package",
+		"@_name": "list_packages"
+	},
+	{
+		"#text": "By process",
+		"@_name": "list_processes"
+	},
+	{
+		"#text": "Top activities",
+		"@_name": "indicator_top"
+	},
+	{
+		"#text": "Rankings",
+		"@_name": "indicator_rankings"
+	},
+	{
+		"#text": "Sizes",
+		"@_name": "indicator_size"
+	},
+	{
+		"#text": "Packages",
+		"@_name": "indicator_packages"
+	},
+	{
+		"#text": "Processes",
+		"@_name": "indicator_processes"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "indicator_setting"
+	},
+	{
+		"#text": "15 can be selected at most",
+		"@_name": "max_selected_name"
+	},
+	{
+		"#text": "Remaining RAM",
+		"@_name": "free_memory_status"
+	},
+	{
+		"#text": "\"Process's RAM use\"",
+		"@_name": "processes_memory_status"
+	},
+	{
+		"#text": "Please keep it running in background",
+		"@_name": "keep_running_background"
+	},
+	{
+		"#text": "Curve transparency",
+		"@_name": "pref_alpha_title"
+	},
+	{
+		"#text": 0.6,
+		"@_name": "pref_alpha_default"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "pref_alpha_entry_normal"
+	},
+	{
+		"#text": "High",
+		"@_name": "pref_alpha_entry_high"
+	},
+	{
+		"#text": "Low",
+		"@_name": "pref_alpha_entry_low"
+	},
+	{
+		"#text": "Show content",
+		"@_name": "pref_show_content_title"
+	},
+	{
+		"#text": "all",
+		"@_name": "pref_show_content_default"
+	},
+	{
+		"#text": "all",
+		"@_name": "pref_show_content_all"
+	},
+	{
+		"#text": "native",
+		"@_name": "pref_show_content_native"
+	},
+	{
+		"#text": "dalvik",
+		"@_name": "pref_show_content_dalvik"
+	},
+	{
+		"#text": "All",
+		"@_name": "pref_show_content_entry_all"
+	},
+	{
+		"#text": "Native only",
+		"@_name": "pref_show_content_entry_native"
+	},
+	{
+		"#text": "Dalvik Only",
+		"@_name": "pref_show_content_entry_dalvik"
+	},
+	{
+		"#text": "Top 2",
+		"@_name": "pref_rank_processes_entry_2"
+	},
+	{
+		"#text": "Top 4",
+		"@_name": "pref_rank_processes_entry_4"
+	},
+	{
+		"#text": "Top 6",
+		"@_name": "pref_rank_processes_entry_6"
+	},
+	{
+		"#text": "Top 8",
+		"@_name": "pref_rank_processes_entry_8"
+	},
+	{
+		"#text": "Top 10",
+		"@_name": "pref_rank_processes_entry_10"
+	},
+	{
+		"#text": "Top 12",
+		"@_name": "pref_rank_processes_entry_12"
+	},
+	{
+		"#text": "Top 15",
+		"@_name": "pref_rank_processes_entry_15"
+	},
+	{
+		"#text": "Above 100 MB",
+		"@_name": "pref_large_processes_entry_100"
+	},
+	{
+		"#text": "Above 80 MB",
+		"@_name": "pref_large_processes_entry_80"
+	},
+	{
+		"#text": "Above 60 MB",
+		"@_name": "pref_large_processes_entry_60"
+	},
+	{
+		"#text": "Above 50 MB",
+		"@_name": "pref_large_processes_entry_50"
+	},
+	{
+		"#text": "Above 40 MB",
+		"@_name": "pref_large_processes_entry_40"
+	},
+	{
+		"#text": "Above 30 MB",
+		"@_name": "pref_large_processes_entry_30"
+	},
+	{
+		"#text": "Above 20 MB",
+		"@_name": "pref_large_processes_entry_20"
+	},
+	{
+		"#text": "Advanced logging",
+		"@_name": "logcat_reject_level_title"
+	},
+	{
+		"#text": "Allow all",
+		"@_name": "logcat_reject_level_prevent_none"
+	},
+	{
+		"#text": "Allow some",
+		"@_name": "logcat_reject_level_prevent_part"
+	},
+	{
+		"#text": "Disallow",
+		"@_name": "logcat_reject_level_prevent_all"
+	},
+	{
+		"#text": "Show real-time frame rate and current value",
+		"@_name": "show_sf_fps_summary"
+	},
+	{
+		"#text": "Show FPS and electric current",
+		"@_name": "show_sf_fps"
+	},
+	{
+		"#text": "Real-time memory monitor",
+		"@_name": "memory_monitor_title"
+	},
+	{
+		"#text": "Press power and volume buttons to capture performance-related logs such as Systrace info and save them to /sdcard/Performance/PerformanceLog/",
+		"@_name": "capture_performance_log_tip"
+	},
+	{
+		"#text": "Manually capture performance logs",
+		"@_name": "capture_performance_log"
+	},
+	{
+		"#text": "Logging time",
+		"@_name": "debug_performance_time"
+	},
+	{
+		"#text": "Performance monitor",
+		"@_name": "wukong_monitor_title"
+	},
+	{
+		"#text": "Show performance monitor",
+		"@_name": "wukong_monitor_switch"
+	},
+	{
+		"#text": "\"Performance monitor lets you check your phone's status whenever you want.\"",
+		"@_name": "wukong_monitor_switch_summary"
+	},
+	{
+		"#text": "Refresh interval",
+		"@_name": "wukong_monitor_interval"
+	},
+	{
+		"#text": "CPU and mainboard temperatures",
+		"@_name": "wukong_monitor_temp_switch"
+	},
+	{
+		"#text": "Show CPU info and processes",
+		"@_name": "wukong_monitor_cpu_switch"
+	},
+	{
+		"#text": "Show memory usage",
+		"@_name": "wukong_monitor_mem_switch"
+	},
+	{
+		"#text": "Show I/O",
+		"@_name": "wukong_monitor_io_switch"
+	},
+	{
+		"#text": "Show virtual memory",
+		"@_name": "wukong_monitor_vm_switch"
+	},
+	{
+		"#text": "Show memory fragmentation",
+		"@_name": "wukong_monitor_frag_switch"
+	},
+	{
+		"#text": "Show GPU and CPU frequencies",
+		"@_name": "wukong_monitor_freq_switch"
+	},
+	{
+		"#text": "Show FPS",
+		"@_name": "wukong_monitor_fps_switch"
+	},
+	{
+		"#text": "Show PSS of processes",
+		"@_name": "wukong_monitor_mem"
+	},
+	{
+		"#text": "Show PID of processes",
+		"@_name": "wukong_monitor_pid"
+	},
+	{
+		"#text": "Show cpuset",
+		"@_name": "wukong_monitor_cpuset"
+	},
+	{
+		"#text": "Monitor mode",
+		"@_name": "wukong_monitor_mode"
+	},
+	{
+		"#text": "Processes",
+		"@_name": "wukong_monitor_mode_process"
+	},
+	{
+		"#text": "Threads",
+		"@_name": "wukong_monitor_mode_thread"
+	},
+	{
+		"#text": "Monitor options",
+		"@_name": "wukong_monitor_options"
+	},
+	{
+		"#text": "CPU monitor options",
+		"@_name": "monitor_cpu_options"
+	},
+	{
+		"#text": "Help",
+		"@_name": "wukong_monitor_help"
+	},
+	{
+		"#text": "Auto capture performance logs",
+		"@_name": "auto_check_perf"
+	},
+	{
+		"#text": "Lag detector",
+		"@_name": "jack_detect_title"
+	},
+	{
+		"#text": "Systrace settings",
+		"@_name": "trace_setting_title"
+	},
+	{
+		"#text": "Screencap when lagging detected",
+		"@_name": "screencap_tip"
+	},
+	{
+		"#text": "Auto mode",
+		"@_name": "jack_auto_mode_title"
+	},
+	{
+		"#text": "Screencap or not?",
+		"@_name": "screencap"
+	},
+	{
+		"#text": "Auto mode",
+		"@_name": "auto_mode"
+	},
+	{
+		"#text": "Set tag for capturing systrace",
+		"@_name": "trace_setting_summary"
+	},
+	{
+		"#text": "TraceDump can be set to capture Trace automatically. When lagging and frame-dropping were detected, TraceDump would capture the Trace at once",
+		"@_name": "accessibility_service_description"
+	},
+	{
+		"#text": "Continuous mode",
+		"@_name": "dump_mode_continuous"
+	},
+	{
+		"#text": "Frame-dropping threshold when slide",
+		"@_name": "jank_threshold_title"
+	},
+	{
+		"#text": "Accumulated dump mode",
+		"@_name": "dump_mode_accumulate"
+	},
+	{
+		"#text": "Tracedump",
+		"@_name": "accessibility_service_label"
+	},
+	{
+		"#text": "Trace Buffer size",
+		"@_name": "trace_buffer_size"
+	},
+	{
+		"#text": "Select apps for detection",
+		"@_name": "package_name"
+	},
+	{
+		"#text": "Frame-dropping mode",
+		"@_name": "jack_mode_title"
+	},
+	{
+		"#text": "Lag detecting mode",
+		"@_name": "jack_detect_mode_title"
+	},
+	{
+		"#text": "After turning on, it will auto get performance logs such as Systrace when lagging was detected, and save logs to /sdcard/Performance/TraceDump/",
+		"@_name": "auto_mode_tip"
+	},
+	{
+		"#text": "Manual mode",
+		"@_name": "jack_manual_mode_title"
+	},
+	{
+		"#text": "Broadcast Optimization",
+		"@_name": "broadcast_optimization_title"
+	},
+	{
+		"#text": "Broadcast optimization can help you limit the app to frequently receive and send broadcasts to reduce system load",
+		"@_name": "broadcast_optimization_switch_summary"
+	},
+	{
+		"#text": "10 frames",
+		"@_name": "drop_frame_ten"
+	},
+	{
+		"#text": "5 frames",
+		"@_name": "drop_frame_five"
+	},
+	{
+		"#text": "1 frame",
+		"@_name": "drop_frame_one"
+	},
+	{
+		"#text": "3 frames",
+		"@_name": "drop_frame_three"
+	},
+	{
+		"#text": "2 frames",
+		"@_name": "drop_frame_two"
+	},
+	{
+		"#text": "4 frames",
+		"@_name": "drop_frame_four"
+	},
+	{
+		"#text": "Frame-dropping threshold when on full screen",
+		"@_name": "win_jank_threshold_title"
+	},
+	{
+		"#text": "\"Apps' data\"",
+		"@_name": "dump_memory_title"
+	},
+	{
+		"#text": "\"Export apps' data\"",
+		"@_name": "dump_memory_info"
+	},
+	{
+		"#text": "Startup Optimization",
+		"@_name": "startup_optimization_title"
+	},
+	{
+		"#text": "Startup Optimization helps you rapidly launch apps",
+		"@_name": "startup_optimization_switch_summary"
+	}
+]

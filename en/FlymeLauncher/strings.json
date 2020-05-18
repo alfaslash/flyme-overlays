@@ -1,0 +1,2240 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Apply",
+		"@_name": "accessibility_all_apps_button"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "accessibility_delete_button"
+	},
+	{
+		"#text": "Search",
+		"@_name": "accessibility_search_button"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "accessibility_voice_search_button"
+	},
+	{
+		"#text": "\"App isn't installed\"",
+		"@_name": "activity_not_found"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "add_item_btn_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "add_item_btn_ok"
+	},
+	{
+		"#text": "Create desktop shortcuts",
+		"@_name": "add_item_title"
+	},
+	{
+		"#text": "Aicy dynamically updates app suggestions here",
+		"@_name": "aicy_appguess_tip"
+	},
+	{
+		"#text": "Apply",
+		"@_name": "all_apps_button_label"
+	},
+	{
+		"#text": "Hold an app to add it to Home screen",
+		"@_name": "all_apps_cling_add_item"
+	},
+	{
+		"#text": "Choose some apps",
+		"@_name": "all_apps_cling_title"
+	},
+	{
+		"#text": "Home screen",
+		"@_name": "all_apps_home_button_label"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "announce_selection"
+	},
+	{
+		"@_name": "app_filter_class"
+	},
+	{
+		"#text": "ForceTouch",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Got it",
+		"@_name": "app_search_cling_btn"
+	},
+	{
+		"#text": "Slide on the edge of home screen till your finger reaches to the target app, then you can quickly open the app",
+		"@_name": "app_search_cling_msg"
+	},
+	{
+		"#text": "Quick open the app",
+		"@_name": "app_search_cling_title"
+	},
+	{
+		"#text": "App Suggestion",
+		"@_name": "app_suggestion"
+	},
+	{
+		"#text": "System launcher",
+		"@_name": "application_name"
+	},
+	{
+		"#text": "Apps: page %1$d of %2$d",
+		"@_name": "apps_customize_apps_scroll_format"
+	},
+	{
+		"#text": "Widgets: page %1$d of %2$d",
+		"@_name": "apps_customize_widgets_scroll_format"
+	},
+	{
+		"#text": "0.7f",
+		"@_name": "background_scalex"
+	},
+	{
+		"#text": "0.8f",
+		"@_name": "background_scaley"
+	},
+	{
+		"#text": "Align to bottom",
+		"@_name": "bottom_alignment"
+	},
+	{
+		"#text": "1 app selected",
+		"@_name": "cab_app_selection_text"
+	},
+	{
+		"#text": "1 folder selected",
+		"@_name": "cab_folder_selection_text"
+	},
+	{
+		"#text": "App Details",
+		"@_name": "cab_menu_app_info"
+	},
+	{
+		"#text": "Uninstall App",
+		"@_name": "cab_menu_delete_app"
+	},
+	{
+		"#text": "1 shortcut selected",
+		"@_name": "cab_shortcut_selection_text"
+	},
+	{
+		"#text": "1 widget selected",
+		"@_name": "cab_widget_selection_text"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel_action"
+	},
+	{
+		"#text": "Recommended",
+		"@_name": "choiceness"
+	},
+	{
+		"#text": "Uninstall",
+		"@_name": "cling_dismiss"
+	},
+	{
+		"#text": "\"Pinch in with two fingers\nto organize icons, change wallpaper and add widgets\"",
+		"@_name": "cling_overview_gathering"
+	},
+	{
+		"#text": "\"Tap and hold an empty area on home screen\nto organize icons, change wallpaper and add widgets\"",
+		"@_name": "cling_overview_longpress"
+	},
+	{
+		"#text": "\"Swipe up with one finger\nto open search screen\"",
+		"@_name": "cling_search_fling"
+	},
+	{
+		"#text": "No free space on Home screen.",
+		"@_name": "completely_out_of_space"
+	},
+	{
+		"#text": "倒计时 %1$s 天 %2$s 时 %3$s 分 %4$s 秒",
+		"@_name": "count_down_days_hours_minutes_seconds"
+	},
+	{
+		"#text": "Merge into folder",
+		"@_name": "create_folder_button"
+	},
+	{
+		"#text": "Crop wallpaper",
+		"@_name": "crop_wallpaper"
+	},
+	{
+		"@_name": "custom_workspace_cling_description_1"
+	},
+	{
+		"@_name": "custom_workspace_cling_description_2"
+	},
+	{
+		"@_name": "custom_workspace_cling_title_1"
+	},
+	{
+		"@_name": "custom_workspace_cling_title_2"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "* HPROF",
+		"@_name": "debug_memory_activity"
+	},
+	{
+		"#text": "Folder",
+		"@_name": "default_folder_name"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Page %1$d of %2$d",
+		"@_name": "default_scroll_format"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete_target_label"
+	},
+	{
+		"#text": "Uninstall",
+		"@_name": "delete_target_uninstall_label"
+	},
+	{
+		"#text": "Uninstall",
+		"@_name": "delete_zone_label_all_apps"
+	},
+	{
+		"#text": "Uninstall update",
+		"@_name": "delete_zone_label_all_apps_system_app"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete_zone_label_workspace"
+	},
+	{
+		"@_name": "drawable_factory_class"
+	},
+	{
+		"#text": "Rocket launcher",
+		"@_name": "dream_name"
+	},
+	{
+		"#text": "Error: custom workspace layout passed in but custom cling was not overwritten",
+		"@_name": "dummy_custom_cling_error_message"
+	},
+	{
+		"#text": "",
+		"@_name": "e002"
+	},
+	{
+		"#text": "",
+		"@_name": "e004"
+	},
+	{
+		"#text": "",
+		"@_name": "e005"
+	},
+	{
+		"#text": "",
+		"@_name": "e006"
+	},
+	{
+		"#text": "",
+		"@_name": "e007"
+	},
+	{
+		"#text": "",
+		"@_name": "e008"
+	},
+	{
+		"#text": "",
+		"@_name": "e00c"
+	},
+	{
+		"#text": "",
+		"@_name": "e00d"
+	},
+	{
+		"#text": "",
+		"@_name": "e00e"
+	},
+	{
+		"#text": "",
+		"@_name": "e010"
+	},
+	{
+		"#text": "",
+		"@_name": "e012"
+	},
+	{
+		"#text": "",
+		"@_name": "e013"
+	},
+	{
+		"#text": "",
+		"@_name": "e014"
+	},
+	{
+		"#text": "",
+		"@_name": "e017"
+	},
+	{
+		"#text": "",
+		"@_name": "e018"
+	},
+	{
+		"#text": "",
+		"@_name": "e01a"
+	},
+	{
+		"#text": "",
+		"@_name": "e01b"
+	},
+	{
+		"#text": "",
+		"@_name": "e01e"
+	},
+	{
+		"#text": "",
+		"@_name": "e020"
+	},
+	{
+		"#text": "",
+		"@_name": "e021"
+	},
+	{
+		"#text": "",
+		"@_name": "e022"
+	},
+	{
+		"#text": "",
+		"@_name": "e024"
+	},
+	{
+		"#text": "",
+		"@_name": "e025"
+	},
+	{
+		"#text": "",
+		"@_name": "e026"
+	},
+	{
+		"#text": "",
+		"@_name": "e028"
+	},
+	{
+		"#text": "",
+		"@_name": "e02b"
+	},
+	{
+		"#text": "",
+		"@_name": "e02e"
+	},
+	{
+		"#text": "",
+		"@_name": "e030"
+	},
+	{
+		"#text": "",
+		"@_name": "e031"
+	},
+	{
+		"#text": "",
+		"@_name": "e032"
+	},
+	{
+		"#text": "",
+		"@_name": "e050"
+	},
+	{
+		"#text": "",
+		"@_name": "e051"
+	},
+	{
+		"#text": "",
+		"@_name": "e052"
+	},
+	{
+		"#text": "",
+		"@_name": "e053"
+	},
+	{
+		"#text": "",
+		"@_name": "e054"
+	},
+	{
+		"#text": "",
+		"@_name": "e055"
+	},
+	{
+		"#text": "",
+		"@_name": "e056"
+	},
+	{
+		"#text": "",
+		"@_name": "e057"
+	},
+	{
+		"#text": "",
+		"@_name": "e058"
+	},
+	{
+		"#text": "",
+		"@_name": "e059"
+	},
+	{
+		"#text": "",
+		"@_name": "e05a"
+	},
+	{
+		"#text": "",
+		"@_name": "e05b"
+	},
+	{
+		"#text": "",
+		"@_name": "e05c"
+	},
+	{
+		"#text": "",
+		"@_name": "e05d"
+	},
+	{
+		"#text": "",
+		"@_name": "e05e"
+	},
+	{
+		"#text": "",
+		"@_name": "e05f"
+	},
+	{
+		"#text": "",
+		"@_name": "e060"
+	},
+	{
+		"#text": "",
+		"@_name": "e062"
+	},
+	{
+		"#text": "",
+		"@_name": "e063"
+	},
+	{
+		"#text": "",
+		"@_name": "e066"
+	},
+	{
+		"#text": "",
+		"@_name": "e067"
+	},
+	{
+		"#text": "",
+		"@_name": "e06a"
+	},
+	{
+		"#text": "",
+		"@_name": "e06e"
+	},
+	{
+		"#text": "",
+		"@_name": "e070"
+	},
+	{
+		"#text": "",
+		"@_name": "e071"
+	},
+	{
+		"#text": "",
+		"@_name": "e072"
+	},
+	{
+		"#text": "",
+		"@_name": "e07b"
+	},
+	{
+		"#text": "",
+		"@_name": "e07c"
+	},
+	{
+		"#text": "",
+		"@_name": "e07d"
+	},
+	{
+		"#text": "",
+		"@_name": "e07e"
+	},
+	{
+		"#text": "",
+		"@_name": "e085"
+	},
+	{
+		"#text": "",
+		"@_name": "e088"
+	},
+	{
+		"#text": "",
+		"@_name": "e089"
+	},
+	{
+		"#text": "",
+		"@_name": "e08a"
+	},
+	{
+		"#text": "",
+		"@_name": "e08b"
+	},
+	{
+		"#text": "",
+		"@_name": "e08c"
+	},
+	{
+		"#text": "",
+		"@_name": "e08d"
+	},
+	{
+		"#text": "",
+		"@_name": "e08e"
+	},
+	{
+		"#text": "",
+		"@_name": "e08f"
+	},
+	{
+		"#text": "",
+		"@_name": "e090"
+	},
+	{
+		"#text": "",
+		"@_name": "e092"
+	},
+	{
+		"#text": "",
+		"@_name": "e093"
+	},
+	{
+		"#text": "",
+		"@_name": "e094"
+	},
+	{
+		"#text": "",
+		"@_name": "e095"
+	},
+	{
+		"#text": "",
+		"@_name": "e096"
+	},
+	{
+		"#text": "",
+		"@_name": "e097"
+	},
+	{
+		"#text": "",
+		"@_name": "e098"
+	},
+	{
+		"#text": "",
+		"@_name": "e099"
+	},
+	{
+		"#text": "",
+		"@_name": "e09a"
+	},
+	{
+		"#text": "",
+		"@_name": "e09b"
+	},
+	{
+		"#text": "",
+		"@_name": "e09c"
+	},
+	{
+		"#text": "",
+		"@_name": "e09d"
+	},
+	{
+		"#text": "",
+		"@_name": "e09e"
+	},
+	{
+		"#text": "",
+		"@_name": "e09f"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a0"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a1"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a2"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a3"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a4"
+	},
+	{
+		"#text": "",
+		"@_name": "e0a5"
+	},
+	{
+		"#text": "",
+		"@_name": "e0aa"
+	},
+	{
+		"#text": "",
+		"@_name": "e0ab"
+	},
+	{
+		"#text": "",
+		"@_name": "e0ac"
+	},
+	{
+		"#text": "",
+		"@_name": "e0d8"
+	},
+	{
+		"#text": "",
+		"@_name": "e0da"
+	},
+	{
+		"#text": "",
+		"@_name": "e0db"
+	},
+	{
+		"#text": "Education",
+		"@_name": "education_folder"
+	},
+	{
+		"#text": "",
+		"@_name": "efe0"
+	},
+	{
+		"#text": "",
+		"@_name": "efe1"
+	},
+	{
+		"#text": "\"Couldn't drop item on this Home screen.\"",
+		"@_name": "external_drop_widget_error"
+	},
+	{
+		"#text": "%1$s (%2$d × %3$d)",
+		"@_name": "external_drop_widget_pick_format"
+	},
+	{
+		"#text": "Choose widget to create",
+		"@_name": "external_drop_widget_pick_title"
+	},
+	{
+		"#text": "",
+		"@_name": "f02f"
+	},
+	{
+		"#text": "",
+		"@_name": "f030"
+	},
+	{
+		"#text": "Featured apps",
+		"@_name": "featured_plug"
+	},
+	{
+		"#text": "Finance",
+		"@_name": "finance_folder"
+	},
+	{
+		"#text": "Double-click Power Tips",
+		"@_name": "first_double_click_name"
+	},
+	{
+		"#text": "Quickly Start Apps",
+		"@_name": "first_double_click_tips_1"
+	},
+	{
+		"#text": "Double-click",
+		"@_name": "first_double_click_tv_left_tips"
+	},
+	{
+		"#text": "Power",
+		"@_name": "first_double_click_tv_right_tips"
+	},
+	{
+		"#text": "Create more screens for apps and folders",
+		"@_name": "first_run_cling_create_screens_hint"
+	},
+	{
+		"@_name": "first_run_cling_custom_content_hint"
+	},
+	{
+		"#text": "Create your own screen",
+		"@_name": "first_run_cling_description"
+	},
+	{
+		"@_name": "first_run_cling_search_bar_hint"
+	},
+	{
+		"#text": "Welcome!",
+		"@_name": "first_run_cling_title"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Flyme Shortcut",
+		"@_name": "flyme_shortcut"
+	},
+	{
+		"#text": "0.5f",
+		"@_name": "folder_bg_scale"
+	},
+	{
+		"#text": "To create a similar folder, hold an app and move it over another.",
+		"@_name": "folder_cling_create_folder"
+	},
+	{
+		"#text": "\"Here's a folder\"",
+		"@_name": "folder_cling_title"
+	},
+	{
+		"#text": "Folder closed",
+		"@_name": "folder_closed"
+	},
+	{
+		"#text": "Unnamed folder",
+		"@_name": "folder_hint_text"
+	},
+	{
+		"@_name": "folder_name"
+	},
+	{
+		"#text": "Folder: %1$s",
+		"@_name": "folder_name_format"
+	},
+	{
+		"#text": "Folder opened, size: %1$d x %2$d",
+		"@_name": "folder_opened"
+	},
+	{
+		"#text": "Folder renamed as %1$s",
+		"@_name": "folder_renamed"
+	},
+	{
+		"#text": "Touch to close folder",
+		"@_name": "folder_tap_to_close"
+	},
+	{
+		"#text": "Touch to keep the name",
+		"@_name": "folder_tap_to_rename"
+	},
+	{
+		"#text": "Widget loading error",
+		"@_name": "gadget_error_text"
+	},
+	{
+		"#text": "Games",
+		"@_name": "game_folder"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "group_applications"
+	},
+	{
+		"#text": "Shortcuts",
+		"@_name": "group_shortcuts"
+	},
+	{
+		"#text": "Wallpaper",
+		"@_name": "group_wallpapers"
+	},
+	{
+		"#text": "Widgets",
+		"@_name": "group_widgets"
+	},
+	{
+		"#text": "Marked as read",
+		"@_name": "has_mark_read"
+	},
+	{
+		"#text": "Marked as unread",
+		"@_name": "has_mark_unread"
+	},
+	{
+		"#text": "Health",
+		"@_name": "health_folder"
+	},
+	{
+		"@_name": "help_url"
+	},
+	{
+		"#text": "Home screen",
+		"@_name": "home"
+	},
+	{
+		"#text": "No free space at the bottom.",
+		"@_name": "hotseat_out_of_space"
+	},
+	{
+		"#text": 0,
+		"@_name": "icon_background_alpha"
+	},
+	{
+		"#text": "Shake the phone to align icons",
+		"@_name": "iconarrange_alignment_tips"
+	},
+	{
+		"#text": "Tap to select apps",
+		"@_name": "iconarrange_click_tips"
+	},
+	{
+		"#text": "Cannot select anymore",
+		"@_name": "iconarrange_drag_overcount"
+	},
+	{
+		"#text": "Drag icon to screen thumbnail",
+		"@_name": "iconarrange_drag_tips"
+	},
+	{
+		"#text": "Tap to select app",
+		"@_name": "iconarrange_tips"
+	},
+	{
+		"#text": "App info",
+		"@_name": "info_target_label"
+	},
+	{
+		"#text": "This widget is too big for this zone",
+		"@_name": "invalid_hotseat_item"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Life",
+		"@_name": "life_folder"
+	},
+	{
+		"#text": "oh my god! something is wrong? try again~~",
+		"@_name": "lifecenter_load_error"
+	},
+	{
+		"#text": "refresh",
+		"@_name": "lifecenter_reload"
+	},
+	{
+		"#text": "Life has been updated. Reload?",
+		"@_name": "lifecenter_update_msg"
+	},
+	{
+		"#text": "Network error. Tap to retry.",
+		"@_name": "load_fail"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Gallery",
+		"@_name": "local_gallery"
+	},
+	{
+		"#text": "Touch and hold to pick up a widget.",
+		"@_name": "long_press_widget_to_add"
+	},
+	{
+		"#text": "Shop",
+		"@_name": "market"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Add to Home screen",
+		"@_name": "menu_item_add_item"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "More wallpapers",
+		"@_name": "more_wallpaper"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Navigation",
+		"@_name": "navigation_folder"
+	},
+	{
+		"#text": "Tap to select or cancel the apps you want to share",
+		"@_name": "nfc_share"
+	},
+	{
+		"@_name": "nfc_share_activity_title"
+	},
+	{
+		"#text": "Share apps via NFC",
+		"@_name": "nfc_share_title"
+	},
+	{
+		"#text": "Loading error. Tap to reload",
+		"@_name": "no_ad"
+	},
+	{
+		"#text": "Online wallpapers",
+		"@_name": "online_gallery"
+	},
+	{
+		"#text": "Other",
+		"@_name": "other_folder"
+	},
+	{
+		"#text": "No free space on this screen.",
+		"@_name": "out_of_space"
+	},
+	{
+		"#text": "The screen has no free space",
+		"@_name": "out_of_widget_space"
+	},
+	{
+		"#text": "0.97f",
+		"@_name": "overview_icon_scale_x"
+	},
+	{
+		"#text": "0.97f",
+		"@_name": "overview_icon_scale_y"
+	},
+	{
+		"#text": "Allows app to add shortcut automatically",
+		"@_name": "permdesc_install_shortcut"
+	},
+	{
+		"#text": "Allows app to read Home screen settings and shortcuts.",
+		"@_name": "permdesc_read_settings"
+	},
+	{
+		"#text": "Allows app to remove shortcuts automatically",
+		"@_name": "permdesc_uninstall_shortcut"
+	},
+	{
+		"#text": "Allows app to change Home screen settings and shortcuts.",
+		"@_name": "permdesc_write_settings"
+	},
+	{
+		"#text": "Install shortcuts",
+		"@_name": "permlab_install_shortcut"
+	},
+	{
+		"#text": "Read Home screen settings and shortcuts",
+		"@_name": "permlab_read_settings"
+	},
+	{
+		"#text": "Uninstall shortcuts",
+		"@_name": "permlab_uninstall_shortcut"
+	},
+	{
+		"#text": "Write Home screen settings and shortcuts",
+		"@_name": "permlab_write_settings"
+	},
+	{
+		"#text": "Select image",
+		"@_name": "pick_image"
+	},
+	{
+		"#text": "Wallpaper",
+		"@_name": "pick_wallpaper"
+	},
+	{
+		"#text": "Popular",
+		"@_name": "popular_folder"
+	},
+	{
+		"#text": "\"Can't add widget to private screen\"",
+		"@_name": "privacy_text"
+	},
+	{
+		"#text": "Productivity",
+		"@_name": "productivity_folder"
+	},
+	{
+		"#text": "Pull down to mark as read",
+		"@_name": "pull_to_mark_read"
+	},
+	{
+		"#text": "Pull down to mark as unread",
+		"@_name": "pull_to_mark_unread"
+	},
+	{
+		"#text": "Reading",
+		"@_name": "read_folder"
+	},
+	{
+		"#text": "Telecom apps",
+		"@_name": "recommend"
+	},
+	{
+		"#text": "Recreation",
+		"@_name": "recreation_folder"
+	},
+	{
+		"#text": "OK",
+		"@_name": "rename_action"
+	},
+	{
+		"#text": "Folder name",
+		"@_name": "rename_folder_label"
+	},
+	{
+		"#text": "Rename folder",
+		"@_name": "rename_folder_title"
+	},
+	{
+		"#text": "\"Can't move icons now\"",
+		"@_name": "restor_text"
+	},
+	{
+		"#text": "OK",
+		"@_name": "restore_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Tap picture to set it as wallpaper",
+		"@_name": "set_wallpaper"
+	},
+	{
+		"#text": "Align icons",
+		"@_name": "settings_button_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "share"
+	},
+	{
+		"#text": "Shopping",
+		"@_name": "shopping_folder"
+	},
+	{
+		"#text": "%s shortcut exists already.",
+		"@_name": "shortcut_duplicate"
+	},
+	{
+		"#text": "Shortcut %s is created.",
+		"@_name": "shortcut_installed"
+	},
+	{
+		"#text": "Shortcut %s is deleted.",
+		"@_name": "shortcut_uninstalled"
+	},
+	{
+		"#text": "Social",
+		"@_name": "social_network_folder"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "OK",
+		"@_name": "sure"
+	},
+	{
+		"#text": "System apps",
+		"@_name": "system_tools"
+	},
+	{
+		"#text": "Select apps",
+		"@_name": "title_select_application"
+	},
+	{
+		"#text": "Select shortcuts",
+		"@_name": "title_select_shortcut"
+	},
+	{
+		"#text": "Single app cannot merge into folder",
+		"@_name": "toast_unenable_create_folder1"
+	},
+	{
+		"#text": "No enough space for generating folder",
+		"@_name": "toast_unenable_create_folder2"
+	},
+	{
+		"#text": "System apps and shortcuts cannot be set as private apps",
+		"@_name": "toast_unenable_create_folder3"
+	},
+	{
+		"#text": "Show storage space",
+		"@_name": "toggle_weight_watcher"
+	},
+	{
+		"#text": "Tools",
+		"@_name": "tools_folder"
+	},
+	{
+		"#text": "Align to top",
+		"@_name": "top_alignment"
+	},
+	{
+		"#text": "Android core apps",
+		"@_name": "uid_name"
+	},
+	{
+		"#text": 1,
+		"@_name": "unicom_phone"
+	},
+	{
+		"#text": 1.4,
+		"@_name": "unicom_usim"
+	},
+	{
+		"#text": "\"Uninstall \"",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "Uninstalling an original app will delete its clones",
+		"@_name": "uninstall_exist_cloneapp"
+	},
+	{
+		"#text": "Auto-clear remnants after uninstallation",
+		"@_name": "uninstall_notice"
+	},
+	{
+		"#text": "OK",
+		"@_name": "uninstall_ok"
+	},
+	{
+		"#text": "\"A system app can't be uninstalled\"",
+		"@_name": "uninstall_system_app_text"
+	},
+	{
+		"#text": "Uninstall app",
+		"@_name": "uninstall_title"
+	},
+	{
+		"#text": "\"Clear remnants \"",
+		"@_name": "uninstallcache"
+	},
+	{
+		"#text": "Wallpaper %1$d of %2$d",
+		"@_name": "wallpaper_accessibility_name"
+	},
+	{
+		"#text": "Wallpaper",
+		"@_name": "wallpaper_button_text"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "wallpaper_delete"
+	},
+	{
+		"#text": "Set wallpaper",
+		"@_name": "wallpaper_instructions"
+	},
+	{
+		"#text": "Widgets",
+		"@_name": "widget_adder"
+	},
+	{
+		"#text": "Add widget",
+		"@_name": "widget_button_text"
+	},
+	{
+		"#text": "%1$d × %2$d",
+		"@_name": "widget_dims_format"
+	},
+	{
+		"#text": "Add widget",
+		"@_name": "widgets_tab_label"
+	},
+	{
+		"#text": "Tap to add widget",
+		"@_name": "widgets_tab_label_click"
+	},
+	{
+		"#text": "Touch and hold background to manage wallpapers, widgets, and settings.",
+		"@_name": "workspace_cling_move_item"
+	},
+	{
+		"#text": "Organize your space",
+		"@_name": "workspace_cling_title"
+	},
+	{
+		"#text": "Home screen %1$d",
+		"@_name": "workspace_description_format"
+	},
+	{
+		"#text": "Home screen: %1$d of %2$d",
+		"@_name": "workspace_scroll_format"
+	},
+	{
+		"#text": "Arrange icons",
+		"@_name": "zhengli"
+	}
+]

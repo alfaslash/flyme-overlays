@@ -1,0 +1,1257 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "abc_action_bar_home_description_format"
+	},
+	{
+		"#text": "%1$s, %2$s, %3$s",
+		"@_name": "abc_action_bar_home_subtitle_description_format"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Это приложение было разработано командой оптимизации производительности. По любым вопросам, пожалуйста, пишите на zhuhequan@meizu.com (по-английски)",
+		"@_name": "about"
+	},
+	{
+		"#text": "Утилита может установить автоматический захват трассировки. Когда обнаружены задержки кадрирования (лаги), утилита в это время сделает трассировку",
+		"@_name": "accessibility_service_description"
+	},
+	{
+		"#text": "Дамп трассировки",
+		"@_name": "accessibility_service_label"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Оптимизация",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Автозапись журналов производительности",
+		"@_name": "auto_check_perf"
+	},
+	{
+		"#text": "Авторежим",
+		"@_name": "auto_mode"
+	},
+	{
+		"#text": "После включения автоматически записываются журналы производительности (такие как Systrace), когда обнаруживаются задержки, которые сохраняются в /sdcard/Performance/TraceDump/",
+		"@_name": "auto_mode_tip"
+	},
+	{
+		"#text": "Оптимизация широковещания может помочь вам ограничить приложения от частого приёма и отправки широковещательных сообщений, что снижает нагрузку на систему",
+		"@_name": "broadcast_optimization_switch_summary"
+	},
+	{
+		"#text": "Оптимизация широковещания",
+		"@_name": "broadcast_optimization_title"
+	},
+	{
+		"#text": "Ручная запись журналов производительности",
+		"@_name": "capture_performance_log"
+	},
+	{
+		"#text": "Нажмите кнопку питания и клавишу громкости для записи журналов производительности (таких как Systrace) и сохранения их в /sdcard/Performance/PerformanceLog/",
+		"@_name": "capture_performance_log_tip"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Время записи",
+		"@_name": "debug_performance_time"
+	},
+	{
+		"#text": "5 кадров",
+		"@_name": "drop_frame_five"
+	},
+	{
+		"#text": "4 кадра",
+		"@_name": "drop_frame_four"
+	},
+	{
+		"#text": "1 кадр",
+		"@_name": "drop_frame_one"
+	},
+	{
+		"#text": "10 кадров",
+		"@_name": "drop_frame_ten"
+	},
+	{
+		"#text": "3 кадра",
+		"@_name": "drop_frame_three"
+	},
+	{
+		"#text": "2 кадра",
+		"@_name": "drop_frame_two"
+	},
+	{
+		"#text": "Экспорт данных приложений",
+		"@_name": "dump_memory_info"
+	},
+	{
+		"#text": "Данные приложений",
+		"@_name": "dump_memory_title"
+	},
+	{
+		"#text": "Накопленный режим дампа",
+		"@_name": "dump_mode_accumulate"
+	},
+	{
+		"#text": "Непрерывный режим",
+		"@_name": "dump_mode_continuous"
+	},
+	{
+		"#text": "Свободно ОЗУ",
+		"@_name": "free_memory_status"
+	},
+	{
+		"#text": "Пакеты",
+		"@_name": "indicator_packages"
+	},
+	{
+		"#text": "Процессы",
+		"@_name": "indicator_processes"
+	},
+	{
+		"#text": "Рейтинги",
+		"@_name": "indicator_rankings"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "indicator_setting"
+	},
+	{
+		"#text": "Размер",
+		"@_name": "indicator_size"
+	},
+	{
+		"#text": "Топ активных",
+		"@_name": "indicator_top"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Автоматический режим",
+		"@_name": "jack_auto_mode_title"
+	},
+	{
+		"#text": "Режим детектирования задержек",
+		"@_name": "jack_detect_mode_title"
+	},
+	{
+		"#text": "Детектор задержек",
+		"@_name": "jack_detect_title"
+	},
+	{
+		"#text": "Ручной режим",
+		"@_name": "jack_manual_mode_title"
+	},
+	{
+		"#text": "Режим кадрирования",
+		"@_name": "jack_mode_title"
+	},
+	{
+		"#text": "Порог кадрирования при слайде",
+		"@_name": "jank_threshold_title"
+	},
+	{
+		"#text": "Пожалуйста, оставьте это работать в фоновом режиме",
+		"@_name": "keep_running_background"
+	},
+	{
+		"#text": "По размеру",
+		"@_name": "large_processes"
+	},
+	{
+		"#text": "По пакетам",
+		"@_name": "list_packages"
+	},
+	{
+		"#text": "По процессу",
+		"@_name": "list_processes"
+	},
+	{
+		"#text": "Запрещено",
+		"@_name": "logcat_reject_level_prevent_all"
+	},
+	{
+		"#text": "Разрешить все",
+		"@_name": "logcat_reject_level_prevent_none"
+	},
+	{
+		"#text": "Выборочно",
+		"@_name": "logcat_reject_level_prevent_part"
+	},
+	{
+		"#text": "Расширенное журналирование",
+		"@_name": "logcat_reject_level_title"
+	},
+	{
+		"#text": "Можно выбрать не более 15",
+		"@_name": "max_selected_name"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Мониторинг ОЗУ",
+		"@_name": "memory_monitor_title"
+	},
+	{
+		"#text": "Опции мониторинга ЦП",
+		"@_name": "monitor_cpu_options"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "переключение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Выберите приложения для обнаружения",
+		"@_name": "package_name"
+	},
+	{
+		"#text": "Оптимизация производительности",
+		"@_name": "perf_ui_titile"
+	},
+	{
+		"#text": 0.6,
+		"@_name": "pref_alpha_default"
+	},
+	{
+		"#text": "Высокий",
+		"@_name": "pref_alpha_entry_high"
+	},
+	{
+		"#text": "Низкий",
+		"@_name": "pref_alpha_entry_low"
+	},
+	{
+		"#text": "Нормальный",
+		"@_name": "pref_alpha_entry_normal"
+	},
+	{
+		"#text": "Прозрачность кривой",
+		"@_name": "pref_alpha_title"
+	},
+	{
+		"#text": "Более 100 Мб",
+		"@_name": "pref_large_processes_entry_100"
+	},
+	{
+		"#text": "Более 20 Мб",
+		"@_name": "pref_large_processes_entry_20"
+	},
+	{
+		"#text": "Более 30 Мб",
+		"@_name": "pref_large_processes_entry_30"
+	},
+	{
+		"#text": "Более 40 Мб",
+		"@_name": "pref_large_processes_entry_40"
+	},
+	{
+		"#text": "Более 50 Мб",
+		"@_name": "pref_large_processes_entry_50"
+	},
+	{
+		"#text": "Более 60 Мб",
+		"@_name": "pref_large_processes_entry_60"
+	},
+	{
+		"#text": "Более 80 Мб",
+		"@_name": "pref_large_processes_entry_80"
+	},
+	{
+		"#text": "Топ 10",
+		"@_name": "pref_rank_processes_entry_10"
+	},
+	{
+		"#text": "Топ 12",
+		"@_name": "pref_rank_processes_entry_12"
+	},
+	{
+		"#text": "Топ 15",
+		"@_name": "pref_rank_processes_entry_15"
+	},
+	{
+		"#text": "Топ 2",
+		"@_name": "pref_rank_processes_entry_2"
+	},
+	{
+		"#text": "Топ 4",
+		"@_name": "pref_rank_processes_entry_4"
+	},
+	{
+		"#text": "Топ 6",
+		"@_name": "pref_rank_processes_entry_6"
+	},
+	{
+		"#text": "Топ 8",
+		"@_name": "pref_rank_processes_entry_8"
+	},
+	{
+		"#text": "all",
+		"@_name": "pref_show_content_all"
+	},
+	{
+		"#text": "dalvik",
+		"@_name": "pref_show_content_dalvik"
+	},
+	{
+		"#text": "all",
+		"@_name": "pref_show_content_default"
+	},
+	{
+		"#text": "Все",
+		"@_name": "pref_show_content_entry_all"
+	},
+	{
+		"#text": "Только Dalvik",
+		"@_name": "pref_show_content_entry_dalvik"
+	},
+	{
+		"#text": "Только собственные",
+		"@_name": "pref_show_content_entry_native"
+	},
+	{
+		"#text": "native",
+		"@_name": "pref_show_content_native"
+	},
+	{
+		"#text": "Показать содержимое",
+		"@_name": "pref_show_content_title"
+	},
+	{
+		"#text": "Использование ОЗУ",
+		"@_name": "processes_memory_status"
+	},
+	{
+		"#text": "По рейтингу",
+		"@_name": "rank_processes"
+	},
+	{
+		"#text": "Скриншот или нет?",
+		"@_name": "screencap"
+	},
+	{
+		"#text": "Скриншот при обнаружении задержки",
+		"@_name": "screencap_tip"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "setting"
+	},
+	{
+		"#text": "Показать FPS",
+		"@_name": "show_sf_fps"
+	},
+	{
+		"#text": "Показать частоту кадров и ток в режиме реального времени",
+		"@_name": "show_sf_fps_summary"
+	},
+	{
+		"#text": "Оптимизация запуска позволяет быстрее запускать приложения",
+		"@_name": "startup_optimization_switch_summary"
+	},
+	{
+		"#text": "Оптимизация запуска",
+		"@_name": "startup_optimization_title"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "По активности",
+		"@_name": "top_activity"
+	},
+	{
+		"#text": "Размер буфера трассировки",
+		"@_name": "trace_buffer_size"
+	},
+	{
+		"#text": "Установить тег для захвата лога",
+		"@_name": "trace_setting_summary"
+	},
+	{
+		"#text": "Настройки Systrace",
+		"@_name": "trace_setting_title"
+	},
+	{
+		"#text": "Порог кадрирования при полном отображении",
+		"@_name": "win_jank_threshold_title"
+	},
+	{
+		"#text": "Сведения о ЦП и процессах",
+		"@_name": "wukong_monitor_cpu_switch"
+	},
+	{
+		"#text": "Показать cpuset",
+		"@_name": "wukong_monitor_cpuset"
+	},
+	{
+		"#text": "FPS (кадры в секунду)",
+		"@_name": "wukong_monitor_fps_switch"
+	},
+	{
+		"#text": "Фрагментация памяти",
+		"@_name": "wukong_monitor_frag_switch"
+	},
+	{
+		"#text": "Частоты ГП и ЦП",
+		"@_name": "wukong_monitor_freq_switch"
+	},
+	{
+		"#text": "Помощь",
+		"@_name": "wukong_monitor_help"
+	},
+	{
+		"#text": "Интервал обновления",
+		"@_name": "wukong_monitor_interval"
+	},
+	{
+		"#text": "Статус ввода/вывода",
+		"@_name": "wukong_monitor_io_switch"
+	},
+	{
+		"#text": "Показать PSS",
+		"@_name": "wukong_monitor_mem"
+	},
+	{
+		"#text": "Использование памяти",
+		"@_name": "wukong_monitor_mem_switch"
+	},
+	{
+		"#text": "Режим мониторинга",
+		"@_name": "wukong_monitor_mode"
+	},
+	{
+		"#text": "Процессы",
+		"@_name": "wukong_monitor_mode_process"
+	},
+	{
+		"#text": "Потоки",
+		"@_name": "wukong_monitor_mode_thread"
+	},
+	{
+		"#text": "Отображать следующие параметры",
+		"@_name": "wukong_monitor_options"
+	},
+	{
+		"#text": "Показать PID",
+		"@_name": "wukong_monitor_pid"
+	},
+	{
+		"#text": "Включить мониторинг",
+		"@_name": "wukong_monitor_switch"
+	},
+	{
+		"#text": "Мониторинг производительности позволяет отслеживать состояние телефона",
+		"@_name": "wukong_monitor_switch_summary"
+	},
+	{
+		"#text": "Температуры ЦП и мат. платы",
+		"@_name": "wukong_monitor_temp_switch"
+	},
+	{
+		"#text": "Мониторинг производительности",
+		"@_name": "wukong_monitor_title"
+	},
+	{
+		"#text": "Виртуальная память",
+		"@_name": "wukong_monitor_vm_switch"
+	}
+]

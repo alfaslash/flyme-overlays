@@ -1,0 +1,2096 @@
+[
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Call",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "End all + Answer",
+		"@_name": "waitingcall_answer_and_hangup_all"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "deline_call"
+	},
+	{
+		"#text": "Record",
+		"@_name": "onscreenRecordText"
+	},
+	{
+		"#text": "Add note",
+		"@_name": "onscreenRecordNumText"
+	},
+	{
+		"#text": "Back to call",
+		"@_name": "record_return_normal"
+	},
+	{
+		"#text": "Hang up",
+		"@_name": "record_end_call"
+	},
+	{
+		"#text": "Hang up \\\"voicemail\\\"",
+		"@_name": "hang_up_record"
+	},
+	{
+		"#text": "Call merge limit reached",
+		"@_name": "merge_reach_max"
+	},
+	{
+		"#text": "The number you entered will remain on keypad after call ends",
+		"@_name": "onClickRecordNumToast"
+	},
+	{
+		"#text": "\\\" + Answer",
+		"@_name": "waitingcall_answer_with_quote"
+	},
+	{
+		"#text": "End %s",
+		"@_name": "waitingcall_hangup"
+	},
+	{
+		"#text": "Hold %s",
+		"@_name": "waitingcall_hold"
+	},
+	{
+		"#text": "+ Answer",
+		"@_name": "waitingcall_answer"
+	},
+	{
+		"#text": "Original call",
+		"@_name": "waitingcall_current_call"
+	},
+	{
+		"#text": "Forwarding call",
+		"@_name": "callForwardedText"
+	},
+	{
+		"#text": "Ringing",
+		"@_name": "card_title_alerting"
+	},
+	{
+		"#text": "Answering",
+		"@_name": "card_title_answering"
+	},
+	{
+		"#text": "Connecting",
+		"@_name": "card_title_connecting"
+	},
+	{
+		"#text": "Call forwarding",
+		"@_name": "forwardedCallText"
+	},
+	{
+		"#text": "Add call",
+		"@_name": "add_call"
+	},
+	{
+		"#text": "Mute",
+		"@_name": "mute_call"
+	},
+	{
+		"#text": "Speaker",
+		"@_name": "speaker"
+	},
+	{
+		"#text": "Add note",
+		"@_name": "record_num"
+	},
+	{
+		"#text": "On hold",
+		"@_name": "hold_call"
+	},
+	{
+		"#text": "Dialpad",
+		"@_name": "dialpad"
+	},
+	{
+		"#text": "Record",
+		"@_name": "record"
+	},
+	{
+		"#text": "Merge call",
+		"@_name": "merge_call"
+	},
+	{
+		"#text": "Swap call",
+		"@_name": "swap_call"
+	},
+	{
+		"#text": "Conference call",
+		"@_name": "conference_call"
+	},
+	{
+		"#text": "Hide Dialpad",
+		"@_name": "close_dialpad"
+	},
+	{
+		"#text": "Custom reply",
+		"@_name": "mms_hint"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel_sms_list"
+	},
+	{
+		"#text": "Slide rightward to answer",
+		"@_name": "incoming_tip"
+	},
+	{
+		"#text": "Conference call %s",
+		"@_name": "card_title_conf_call_notification"
+	},
+	{
+		"#text": "add",
+		"@_name": "add"
+	},
+	{
+		"#text": "Call duration %s",
+		"@_name": "call_duration_time"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "reject_incoming"
+	},
+	{
+		"#text": "Close speaker",
+		"@_name": "close_speaker"
+	},
+	{
+		"#text": "Speaker",
+		"@_name": "ota_speaker"
+	},
+	{
+		"#text": "Insufficient storage space. Cannot initiate call recording",
+		"@_name": "stop_record_for_sd_nospace"
+	},
+	{
+		"#text": "Calls via Bluetooth headset cannot be recorded",
+		"@_name": "stop_record_for_bluetooth"
+	},
+	{
+		"#text": "Failed to record call",
+		"@_name": "stop_record_for_start_error"
+	},
+	{
+		"#text": "Recording failed",
+		"@_name": "stop_record_for_sd_unmount"
+	},
+	{
+		"#text": "Failed to record call",
+		"@_name": "stop_record_for_unknow_error"
+	},
+	{
+		"#text": "Recording does not last more then one second. Discard",
+		"@_name": "stop_record_for_save_error"
+	},
+	{
+		"#text": "Recording limit",
+		"@_name": "stop_record_for_length_limit"
+	},
+	{
+		"#text": "Recording already exists",
+		"@_name": "stop_record_for_start_already_exist"
+	},
+	{
+		"#text": "Recording voice message",
+		"@_name": "card_title_message_record"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "mz_respond_via_sms_custom_message"
+	},
+	{
+		"#text": "SIM selector",
+		"@_name": "sim_picker_tile"
+	},
+	{
+		"#text": "SIM %d - %s",
+		"@_name": "siminfo_item_text",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Reject and block",
+		"@_name": "harassing_handler_hint"
+	},
+	{
+		"#text": "Message",
+		"@_name": "sms_btn_label"
+	},
+	{
+		"#text": "Message sent",
+		"@_name": "sms_sent"
+	},
+	{
+		"#text": "Separate",
+		"@_name": "separate_from_conference"
+	},
+	{
+		"#text": "Tap to return to call",
+		"@_name": "back_to_incall"
+	},
+	{
+		"#text": "Reject with a message",
+		"@_name": "title_incoming_fastsms_panel"
+	},
+	{
+		"#text": "%s people marked",
+		"@_name": "caller_marked_ammount"
+	},
+	{
+		"#text": "Set as default SIM for dialing",
+		"@_name": "default_sim_select"
+	},
+	{
+		"#text": "(%s)",
+		"@_name": "bluetooth_auto_slot_countdown"
+	},
+	{
+		"#text": "Voice route",
+		"@_name": "incall_voice_route"
+	},
+	{
+		"#text": "Bluetooth headset selected",
+		"@_name": "accessibility_bluetooth_headset_selected"
+	},
+	{
+		"#text": "Call muted.",
+		"@_name": "accessibility_call_muted"
+	},
+	{
+		"#text": "Call put on hold.",
+		"@_name": "accessibility_call_put_on_hold"
+	},
+	{
+		"#text": "Call removed from hold.",
+		"@_name": "accessibility_call_removed_from_hold"
+	},
+	{
+		"#text": "Call unmuted.",
+		"@_name": "accessibility_call_unmuted"
+	},
+	{
+		"#text": "Selected earpiece",
+		"@_name": "accessibility_earpiece_selected"
+	},
+	{
+		"#text": "Speakerphone selected",
+		"@_name": "accessibility_speakerphone_selected"
+	},
+	{
+		"#text": "Wired headset selected",
+		"@_name": "accessibility_wired_headset_selected"
+	},
+	{
+		"#text": "backspace",
+		"@_name": "description_delete_button"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "description_dial_button"
+	},
+	{
+		"#text": "Eight",
+		"@_name": "description_image_button_eight"
+	},
+	{
+		"#text": "Five",
+		"@_name": "description_image_button_five"
+	},
+	{
+		"#text": "Four",
+		"@_name": "description_image_button_four"
+	},
+	{
+		"#text": "Nine",
+		"@_name": "description_image_button_nine"
+	},
+	{
+		"#text": "One",
+		"@_name": "description_image_button_one"
+	},
+	{
+		"#text": "pound",
+		"@_name": "description_image_button_pound"
+	},
+	{
+		"#text": "Seven",
+		"@_name": "description_image_button_seven"
+	},
+	{
+		"#text": "Six",
+		"@_name": "description_image_button_six"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "description_image_button_star"
+	},
+	{
+		"#text": "Three",
+		"@_name": "description_image_button_three"
+	},
+	{
+		"#text": "Two",
+		"@_name": "description_image_button_two"
+	},
+	{
+		"#text": "Zero",
+		"@_name": "description_image_button_zero"
+	},
+	{
+		"#text": "Dial pad autocomplete",
+		"@_name": "dial_pad_autocomplete"
+	},
+	{
+		"#text": "Choose an account",
+		"@_name": "select_account_dialog_title"
+	},
+	{
+		"#text": "Press volume up/down button to mute; press and hold volume up button to answer",
+		"@_name": "volume_key_tip_text"
+	},
+	{
+		"#text": "Dial failed",
+		"@_name": "incall_error_dial_failed"
+	},
+	{
+		"#text": "Add note",
+		"@_name": "incall_notepad_edit_hint"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "incall_notepad_title"
+	},
+	{
+		"#text": "Saved to Notes",
+		"@_name": "incall_save_note"
+	},
+	{
+		"#text": "clean up",
+		"@_name": "start_clear"
+	},
+	{
+		"#text": "Swipe left to answer or right to decline",
+		"@_name": "incoming_glowpad_content"
+	},
+	{
+		"#text": "免费",
+		"@_name": "web_call_tag"
+	},
+	{
+		"#text": "Switch to regular call",
+		"@_name": "switch_to_normal_call"
+	},
+	{
+		"#text": "Switch to special line",
+		"@_name": "switch_to_callback_call"
+	},
+	{
+		"#text": "Dial via special line",
+		"@_name": "upgrade_to_callback_call"
+	},
+	{
+		"#text": "Lower rates, easier connection",
+		"@_name": "upgrade_to_callback_call_summary"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "normal_dial"
+	},
+	{
+		"#text": "Top Up",
+		"@_name": "callback_dial"
+	},
+	{
+		"#text": "专线",
+		"@_name": "text_callback"
+	},
+	{
+		"#text": "Making special line call",
+		"@_name": "card_title_dialing_callback"
+	},
+	{
+		"#text": "Making web call",
+		"@_name": "card_title_dialing_webcall"
+	},
+	{
+		"#text": "Redial",
+		"@_name": "redial"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "set_network"
+	},
+	{
+		"#text": "Please insert SIM card",
+		"@_name": "disconnect_message_no_sim"
+	},
+	{
+		"#text": "\"SIM not activated. Can't dial\"",
+		"@_name": "disconnect_message_sim_off"
+	},
+	{
+		"#text": "OK",
+		"@_name": "bt_ok"
+	},
+	{
+		"#text": "Reached the limit of participants",
+		"@_name": "conference_reach_max_tip"
+	},
+	{
+		"#text": "Speaker on",
+		"@_name": "speaker_for_game_tip"
+	},
+	{
+		"#text": "Incoming call",
+		"@_name": "call_status_incoming_calll"
+	},
+	{
+		"#text": "Protection for pocket incoming call",
+		"@_name": "pocket_answer_protection_primary"
+	},
+	{
+		"#text": "Keep the screen up to return to the call interface",
+		"@_name": "pocket_answer_protection_secondary"
+	},
+	{
+		"#text": "To voice call",
+		"@_name": "switch_to_voice_call"
+	},
+	{
+		"#text": "Switch to voice call",
+		"@_name": "on_screen_switch_to_voice"
+	},
+	{
+		"#text": "Invites you to a video call",
+		"@_name": "upgrade_to_video_text"
+	},
+	{
+		"#text": "Answer as voice call",
+		"@_name": "switch_answer_to_voice_call"
+	},
+	{
+		"#text": "Making video call",
+		"@_name": "request_video_call_text"
+	},
+	{
+		"#text": "Incoming video call",
+		"@_name": "incomming_video_call_text"
+	},
+	{
+		"#text": "Video(Debug)",
+		"@_name": "switch_to_video_call"
+	},
+	{
+		"#text": "Switched to voice call",
+		"@_name": "changed_to_voice_call_text"
+	},
+	{
+		"#text": "Switching to video call failed",
+		"@_name": "upgrade_to_video_failed"
+	},
+	{
+		"#text": "Video call invitation rejected",
+		"@_name": "upgrade_to_video_reject"
+	},
+	{
+		"#text": "Switching to voice call failed",
+		"@_name": "downgrade_to_vioce_failed"
+	},
+	{
+		"#text": "Hang up",
+		"@_name": "mini_headsup_reject_call"
+	},
+	{
+		"#text": "Earpiece",
+		"@_name": "mini_headsup_earpice_answer"
+	},
+	{
+		"#text": "Speaker",
+		"@_name": "mini_headsup_speaker_answer"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mini_headsup_answer_call"
+	},
+	{
+		"#text": "Tomorrow",
+		"@_name": "tomorrow"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "yesterday"
+	},
+	{
+		"#text": "Email information",
+		"@_name": "ext_caller_info_label_email_signature"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "ext_caller_info_label_contact_notes"
+	},
+	{
+		"#text": "Last call",
+		"@_name": "ext_caller_info_label_lastcall"
+	},
+	{
+		"#text": "Work",
+		"@_name": "ext_caller_info_label_work"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "ext_caller_info_label_sms"
+	},
+	{
+		"#text": "Meeting",
+		"@_name": "ext_caller_info_label_meeting"
+	},
+	{
+		"#text": "Outgoing",
+		"@_name": "ext_caller_info_calllog_outgoing"
+	},
+	{
+		"#text": "Incoming",
+		"@_name": "ext_caller_info_calllog_incoming"
+	},
+	{
+		"#text": "Rejected",
+		"@_name": "ext_caller_info_calllog_state_reject"
+	},
+	{
+		"#text": "Missed",
+		"@_name": "ext_caller_info_calllog_state_missed"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "ext_caller_info_calllog_state_voicemail"
+	},
+	{
+		"#text": "Rang %d time(s)",
+		"@_name": "ext_caller_info_calllog_ring_times"
+	},
+	{
+		"#text": "Cancelled",
+		"@_name": "ext_caller_info_calllog_dial_cancelled"
+	},
+	{
+		"#text": "Failed",
+		"@_name": "ext_caller_info_calllog_dial_failed"
+	},
+	{
+		"#text": "Not connected",
+		"@_name": "ext_caller_info_calllog_dial_not_connected"
+	},
+	{
+		"#text": "Incoming call",
+		"@_name": "notification_substName_incoming"
+	},
+	{
+		"#text": "In call",
+		"@_name": "notification_substName_active"
+	},
+	{
+		"#text": "Emergency",
+		"@_name": "mz_emergency_call"
+	},
+	{
+		"#text": "Close Camera",
+		"@_name": "videocall_close_camera"
+	},
+	{
+		"#text": "Open Camera",
+		"@_name": "videocall_open_camera"
+	},
+	{
+		"#text": "All features are available after the device has been unlocked successfully",
+		"@_name": "in_direct_boot_mode_prompt"
+	},
+	{
+		"#text": "Downgrade to 2g, may impact the call quality",
+		"@_name": "signal_downgrade_prompt"
+	},
+	{
+		"#text": "SFDIN",
+		"@_name": "typeface_medium_number"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "typeface_medium_text"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "typeface_default"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "phoneAppLabel"
+	},
+	{
+		"#text": "InCallUI",
+		"@_name": "inCallLabel"
+	},
+	{
+		"#text": "On hold",
+		"@_name": "onHold"
+	},
+	{
+		"#text": "Unknown number",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "Private number",
+		"@_name": "private_num"
+	},
+	{
+		"#text": "Pay phone",
+		"@_name": "payphone"
+	},
+	{
+		"#text": "Conference call",
+		"@_name": "confCall"
+	},
+	{
+		"#text": "Call dropped",
+		"@_name": "call_lost"
+	},
+	{
+		"#text": "Speaker",
+		"@_name": "audio_mode_speaker"
+	},
+	{
+		"#text": "Handset earpiece",
+		"@_name": "audio_mode_earpiece"
+	},
+	{
+		"#text": "Wired headset",
+		"@_name": "audio_mode_wired_headset"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "audio_mode_bluetooth"
+	},
+	{
+		"#text": "\"Send the following tones?\n\"",
+		"@_name": "wait_prompt_str"
+	},
+	{
+		"#text": "\"Sending tones\n\"",
+		"@_name": "pause_prompt_str"
+	},
+	{
+		"#text": "Send",
+		"@_name": "send_button"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "pause_prompt_yes"
+	},
+	{
+		"#text": "No",
+		"@_name": "pause_prompt_no"
+	},
+	{
+		"#text": "Replace character with",
+		"@_name": "wild_prompt_str"
+	},
+	{
+		"#text": "Conference call %s",
+		"@_name": "caller_manage_header"
+	},
+	{
+		"#text": "(650) 555-1234",
+		"@_name": "fake_phone_activity_phoneNumber_text"
+	},
+	{
+		"#text": "Incoming phone number",
+		"@_name": "fake_phone_activity_infoText_text"
+	},
+	{
+		"#text": "Fake Incoming Call",
+		"@_name": "fake_phone_activity_placeCall_text"
+	},
+	{
+		"#text": "Voicemail number",
+		"@_name": "voicemail_settings_number_label"
+	},
+	{
+		"#text": "Dialing",
+		"@_name": "card_title_dialing"
+	},
+	{
+		"#text": "Retrying",
+		"@_name": "card_title_redialing"
+	},
+	{
+		"#text": "Conference call",
+		"@_name": "card_title_conf_call"
+	},
+	{
+		"#text": "Incoming call",
+		"@_name": "card_title_incoming_call"
+	},
+	{
+		"#text": "Call ended",
+		"@_name": "card_title_call_ended"
+	},
+	{
+		"#text": "On hold",
+		"@_name": "card_title_on_hold"
+	},
+	{
+		"#text": "Hanging up",
+		"@_name": "card_title_hanging_up"
+	},
+	{
+		"#text": "In call",
+		"@_name": "card_title_in_call"
+	},
+	{
+		"#text": "My number is %s",
+		"@_name": "card_title_my_phone_number"
+	},
+	{
+		"#text": "Connecting video",
+		"@_name": "card_title_video_call_connecting"
+	},
+	{
+		"#text": "Video call",
+		"@_name": "card_title_video_call"
+	},
+	{
+		"#text": "Requesting video",
+		"@_name": "card_title_video_call_requesting"
+	},
+	{
+		"#text": "Cannot connect video call",
+		"@_name": "card_title_video_call_error"
+	},
+	{
+		"#text": "Video request rejected",
+		"@_name": "card_title_video_call_rejected"
+	},
+	{
+		"#text": "\"Your callback number\n %1$s\"",
+		"@_name": "card_title_callback_number"
+	},
+	{
+		"#text": "\"Your emergency callback number\n %1$s\"",
+		"@_name": "card_title_callback_number_emergency"
+	},
+	{
+		"#text": "Dialing",
+		"@_name": "notification_dialing"
+	},
+	{
+		"#text": "Missed call",
+		"@_name": "notification_missedCallTitle"
+	},
+	{
+		"#text": "Missed call",
+		"@_name": "notification_missedCallsTitle"
+	},
+	{
+		"#text": "%s missed call(s)",
+		"@_name": "notification_missedCallsMsg"
+	},
+	{
+		"#text": "Missed call from %s",
+		"@_name": "notification_missedCallTicker"
+	},
+	{
+		"#text": "On the phone",
+		"@_name": "notification_ongoing_call"
+	},
+	{
+		"#text": "Ongoing WLAN call",
+		"@_name": "notification_ongoing_call_wifi"
+	},
+	{
+		"#text": "On hold",
+		"@_name": "notification_on_hold"
+	},
+	{
+		"#text": "Incoming call",
+		"@_name": "notification_incoming_call"
+	},
+	{
+		"#text": "Incoming WLAN call",
+		"@_name": "notification_incoming_call_wifi"
+	},
+	{
+		"#text": "Incoming video call",
+		"@_name": "notification_incoming_video_call"
+	},
+	{
+		"#text": "Incoming video request",
+		"@_name": "notification_requesting_video_call"
+	},
+	{
+		"#text": "New voicemail",
+		"@_name": "notification_voicemail_title"
+	},
+	{
+		"#text": "New voicemail (%d)",
+		"@_name": "notification_voicemail_title_count"
+	},
+	{
+		"#text": "Dial %s",
+		"@_name": "notification_voicemail_text_format"
+	},
+	{
+		"#text": "Voicemail number unknown",
+		"@_name": "notification_voicemail_no_vm_number"
+	},
+	{
+		"#text": "No service",
+		"@_name": "notification_network_selection_title"
+	},
+	{
+		"#text": "Selected network (%s) unavailable",
+		"@_name": "notification_network_selection_text"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "notification_action_answer"
+	},
+	{
+		"#text": "Hang up",
+		"@_name": "notification_action_end_call"
+	},
+	{
+		"#text": "Videos",
+		"@_name": "notification_action_answer_video"
+	},
+	{
+		"#text": "Voice",
+		"@_name": "notification_action_answer_voice"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "notification_action_accept"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "notification_action_dismiss"
+	},
+	{
+		"#text": "Call back",
+		"@_name": "notification_missedCall_call_back"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "notification_missedCall_message"
+	},
+	{
+		"#text": "To place a call, first turn off Airplane mode.",
+		"@_name": "incall_error_power_off"
+	},
+	{
+		"#text": "Not registered on network.",
+		"@_name": "incall_error_emergency_only"
+	},
+	{
+		"#text": "Mobile network not available.",
+		"@_name": "incall_error_out_of_service"
+	},
+	{
+		"#text": "To place a call, enter a valid number.",
+		"@_name": "incall_error_no_phone_number_supplied"
+	},
+	{
+		"#text": "\"Can't make the call\"",
+		"@_name": "incall_error_call_failed"
+	},
+	{
+		"#text": "Starting MMI sequence",
+		"@_name": "incall_status_dialed_mmi"
+	},
+	{
+		"#text": "Service unavailable",
+		"@_name": "incall_error_supp_service_unknown"
+	},
+	{
+		"#text": "Unable to switch calls.",
+		"@_name": "incall_error_supp_service_switch"
+	},
+	{
+		"#text": "\"Can't separate call.\"",
+		"@_name": "incall_error_supp_service_separate"
+	},
+	{
+		"#text": "Unable to transfer call.",
+		"@_name": "incall_error_supp_service_transfer"
+	},
+	{
+		"#text": "Unable to conference call.",
+		"@_name": "incall_error_supp_service_conference"
+	},
+	{
+		"#text": "\"Can't reject the call.\"",
+		"@_name": "incall_error_supp_service_reject"
+	},
+	{
+		"#text": "\"Can't end the call\"",
+		"@_name": "incall_error_supp_service_hangup"
+	},
+	{
+		"#text": "Web Call",
+		"@_name": "incall_call_type_label_sip"
+	},
+	{
+		"#text": "Emergency call",
+		"@_name": "emergency_enable_radio_dialog_title"
+	},
+	{
+		"#text": "Turning on radio...",
+		"@_name": "emergency_enable_radio_dialog_message"
+	},
+	{
+		"#text": "No service. Retrying",
+		"@_name": "emergency_enable_radio_dialog_retry"
+	},
+	{
+		"#text": "\"Can't make the call. %s is not an emergency number\"",
+		"@_name": "dial_emergency_error"
+	},
+	{
+		"#text": "Unable to make calls other than emergency numbers",
+		"@_name": "dial_emergency_empty_error"
+	},
+	{
+		"#text": "Dial with keypad",
+		"@_name": "dialerKeyboardHintText"
+	},
+	{
+		"#text": "Hold Call",
+		"@_name": "onscreenHoldText_unselected"
+	},
+	{
+		"#text": "Resume Call",
+		"@_name": "onscreenHoldText_selected"
+	},
+	{
+		"#text": "End Call",
+		"@_name": "onscreenEndCallText"
+	},
+	{
+		"#text": "Dialpad",
+		"@_name": "onscreenShowDialpadText"
+	},
+	{
+		"#text": "Mute",
+		"@_name": "onscreenMuteText"
+	},
+	{
+		"#text": "Add call",
+		"@_name": "onscreenAddCallText"
+	},
+	{
+		"#text": "Merge call",
+		"@_name": "onscreenMergeCallsText"
+	},
+	{
+		"#text": "Swap",
+		"@_name": "onscreenSwapCallsText"
+	},
+	{
+		"#text": "Manage calls",
+		"@_name": "onscreenManageCallsText"
+	},
+	{
+		"#text": "Manage conference call",
+		"@_name": "onscreenManageConferenceText"
+	},
+	{
+		"#text": "Audio",
+		"@_name": "onscreenAudioText"
+	},
+	{
+		"#text": "Video call",
+		"@_name": "onscreenVideoCallText"
+	},
+	{
+		"#text": "Change to voice call",
+		"@_name": "onscreenChangeToVoiceText"
+	},
+	{
+		"#text": "Switch camera",
+		"@_name": "onscreenSwitchCameraText"
+	},
+	{
+		"#text": "Pause video",
+		"@_name": "onscreenPauseVideoText"
+	},
+	{
+		"#text": "More options",
+		"@_name": "onscreenOverflowText"
+	},
+	{
+		"#text": "Player started",
+		"@_name": "player_started"
+	},
+	{
+		"#text": "Player Stopped",
+		"@_name": "player_stopped"
+	},
+	{
+		"#text": "\"Camera isn't ready\"",
+		"@_name": "camera_not_ready"
+	},
+	{
+		"#text": "Camera is ready",
+		"@_name": "camera_ready"
+	},
+	{
+		"#text": "Unkown call session event",
+		"@_name": "unknown_call_session_event"
+	},
+	{
+		"#text": "Service",
+		"@_name": "voicemail_provider"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "voicemail_settings"
+	},
+	{
+		"#text": "&lt;Not set>",
+		"@_name": "voicemail_number_not_set"
+	},
+	{
+		"#text": "Other call settings",
+		"@_name": "other_settings"
+	},
+	{
+		"#text": "Calling via %s",
+		"@_name": "calling_via_template"
+	},
+	{
+		"#text": "Incoming via %s",
+		"@_name": "incoming_via_template"
+	},
+	{
+		"#text": "contact photo",
+		"@_name": "contactPhoto"
+	},
+	{
+		"#text": "go private",
+		"@_name": "goPrivate"
+	},
+	{
+		"#text": "Select contact",
+		"@_name": "selectContact"
+	},
+	{
+		"#text": "Write your own...",
+		"@_name": "respond_via_sms_custom_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "custom_message_cancel"
+	},
+	{
+		"#text": "Send",
+		"@_name": "custom_message_send"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "description_target_answer"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "description_target_send_sms"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "description_target_decline"
+	},
+	{
+		"#text": "Answer as video call",
+		"@_name": "description_target_answer_video_call"
+	},
+	{
+		"#text": "Answer as audio call",
+		"@_name": "description_target_answer_audio_call"
+	},
+	{
+		"#text": "Accept video request",
+		"@_name": "description_target_accept_upgrade_to_video_request"
+	},
+	{
+		"#text": "Decline video request",
+		"@_name": "description_target_decline_upgrade_to_video_request"
+	},
+	{
+		"#text": "Accept video request",
+		"@_name": "description_target_accept_upgrade_to_video_transmit_request"
+	},
+	{
+		"#text": "Decline video transmit request",
+		"@_name": "description_target_decline_upgrade_to_video_transmit_request"
+	},
+	{
+		"#text": "Accept video request",
+		"@_name": "description_target_accept_upgrade_to_video_receive_request"
+	},
+	{
+		"#text": "Decline video request",
+		"@_name": "description_target_decline_upgrade_to_video_receive_request"
+	},
+	{
+		"#text": "Slide up for %s.",
+		"@_name": "description_direction_up"
+	},
+	{
+		"#text": "Slide left for %s.",
+		"@_name": "description_direction_left"
+	},
+	{
+		"#text": "Slide right for %s.",
+		"@_name": "description_direction_right"
+	},
+	{
+		"#text": "Slide down for %s.",
+		"@_name": "description_direction_down"
+	},
+	{
+		"#text": "Vibrate",
+		"@_name": "voicemail_notification_vibrate_when_title"
+	},
+	{
+		"#text": "Vibrate",
+		"@_name": "voicemail_notification_vibarte_when_dialog_title"
+	},
+	{
+		"#text": "Sound",
+		"@_name": "voicemail_notification_ringtone_title"
+	},
+	{
+		"#text": "Default sound (%1$s)",
+		"@_name": "default_notification_description"
+	},
+	{
+		"#text": "never",
+		"@_name": "voicemail_notification_vibrate_when_default"
+	},
+	{
+		"#text": "Vibrate on ringing",
+		"@_name": "vibrate_on_ring_title"
+	},
+	{
+		"#text": "Ringtone and vibration",
+		"@_name": "preference_category_ringtone"
+	},
+	{
+		"#text": "Manage conference call",
+		"@_name": "manageConferenceLabel"
+	},
+	{
+		"#text": "Emergency number",
+		"@_name": "emergency_call_dialog_number_for_display"
+	},
+	{
+		"#text": "Profile photo",
+		"@_name": "profile_photo_description"
+	},
+	{
+		"#text": "Turn camera off",
+		"@_name": "camera_off_description"
+	},
+	{
+		"#text": "Ringtone",
+		"@_name": "ringtone_title"
+	},
+	{
+		"#text": "Directory",
+		"@_name": "directory_search_label"
+	},
+	{
+		"#text": "Work directory",
+		"@_name": "directory_search_label_work"
+	}
+]

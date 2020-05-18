@@ -1,0 +1,14 @@
+[
+	{
+		"#text": "Crop wallpaper",
+		"@_name": "crop_wallpaper"
+	},
+	{
+		"#text": "Set wallpaper",
+		"@_name": "wallpaper_instructions"
+	},
+	{
+		"#text": "\"Couldn't load image as wallpaper\"",
+		"@_name": "wallpaper_load_fail"
+	}
+]

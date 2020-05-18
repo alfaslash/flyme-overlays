@@ -1,0 +1,2425 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Нельзя выйти из супер-режима во время вызова",
+		"@_name": "alert_dialog_dont_exit_title"
+	},
+	{
+		"#text": "Нельзя перейти в супер-режим во время вызова",
+		"@_name": "alert_dialog_dont_switch_title"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Потребляет AOD:",
+		"@_name": "aod_power_ratio"
+	},
+	{
+		"#text": "Совет: Выключите AOD, когда он не используется",
+		"@_name": "aod_power_save_notice_msg"
+	},
+	{
+		"#text": "Управление энергопотреблением ПО",
+		"@_name": "app_consumption_management"
+	},
+	{
+		"#text": "Список приложений",
+		"@_name": "app_list"
+	},
+	{
+		"#text": "Батарея",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Энергопотребление ПО",
+		"@_name": "app_run"
+	},
+	{
+		"#text": "Управление запуском",
+		"@_name": "app_run_management"
+	},
+	{
+		"#text": "Энергопотребление ПО в режиме ожидания",
+		"@_name": "app_standby"
+	},
+	{
+		"#text": "Управление режимом ожидания",
+		"@_name": "app_standby_management"
+	},
+	{
+		"#text": "Wake-up time: %1$s",
+		"@_name": "app_wakeup_time"
+	},
+	{
+		"#text": "Пробуждений: %1$d",
+		"@_name": "app_wakeup_times"
+	},
+	{
+		"#text": "Баланс между производительностью и автономностью",
+		"@_name": "balance_mode"
+	},
+	{
+		"#text": "Включить супер-режим экономии заряда?",
+		"@_name": "battery_low_alert_title"
+	},
+	{
+		"#text": "Разрешить только Телефон и Сообщения",
+		"@_name": "battery_low_description"
+	},
+	{
+		"#text": "%d%% осталось. Включить супер-режим?",
+		"@_name": "battery_low_percent_format"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "Bluetooth в работе",
+		"@_name": "bluetooth_on_time"
+	},
+	{
+		"#text": "Потребление Bluetooth:",
+		"@_name": "bluetooth_power_ratio"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "button_disable_mode"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "button_enable_mode"
+	},
+	{
+		"#text": "Энергосбережение CABC",
+		"@_name": "cabc_title"
+	},
+	{
+		"#text": "Сеть в режиме ожидания",
+		"@_name": "cell_standby"
+	},
+	{
+		"#text": "Потребление сетью:",
+		"@_name": "cell_standby_power_ratio"
+	},
+	{
+		"#text": "Сеть в работе",
+		"@_name": "cell_standby_time"
+	},
+	{
+		"#text": "Зарядка",
+		"@_name": "charing"
+	},
+	{
+		"#text": "Включение и выключение экрана во время зарядки игнорируется",
+		"@_name": "chart_view_msg"
+	},
+	{
+		"#text": "Совет: Отключите работу ПО в фоне",
+		"@_name": "close_bg_app_msg"
+	},
+	{
+		"#text": "%1$d приложен. всего. Нажмите для просмотра",
+		"@_name": "context_app_killed_notification"
+	},
+	{
+		"#text": "%1$s не использ. в фоне. Это приводит к высокому потреблению энергии, нагреву и лагам",
+		"@_name": "cpu_exception_msg"
+	},
+	{
+		"#text": "Время исключения: %1$s мин.",
+		"@_name": "cpu_exception_time"
+	},
+	{
+		"#text": "Высокое энергопотребление %1$s",
+		"@_name": "cpu_exception_title"
+	},
+	{
+		"#text": "Время работы процессора: %1$s",
+		"@_name": "cpu_foreground_running_time"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "default_app_name"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "dialog_low_ps"
+	},
+	{
+		"#text": "Диспетчер батареи требует доступа к сети и местоположению для анализа энергопотребления",
+		"@_name": "dialog_message_summary"
+	},
+	{
+		"#text": "Супер-режим экономии",
+		"@_name": "dialog_supper_ps"
+	},
+	{
+		"#text": "Настраиваемый режим",
+		"@_name": "dialog_user_ps"
+	},
+	{
+		"#text": "Запретить работу в режиме ожидания",
+		"@_name": "disable_idle_run"
+	},
+	{
+		"#text": "Экран",
+		"@_name": "display_device"
+	},
+	{
+		"#text": "%1$d ч. %2$d м.",
+		"@_name": "durationHourMinute"
+	},
+	{
+		"#text": "%1$d ч. %2$d м. %3$d с.",
+		"@_name": "durationHourMinuteSecond"
+	},
+	{
+		"#text": "%1$d м.",
+		"@_name": "durationMinutes"
+	},
+	{
+		"#text": "%1$dm",
+		"@_name": "durationMinutes_whole_unit"
+	},
+	{
+		"#text": "%1$d м. %2$d с.",
+		"@_name": "durationMinuteSeconds"
+	},
+	{
+		"#text": "%1$d с.",
+		"@_name": "durationSecond"
+	},
+	{
+		"#text": "Разрешить запуск в режиме ожидания",
+		"@_name": "enable_idle_run"
+	},
+	{
+		"#text": "1. Отключение приложения может исправить проблему высокого энергопотребления. Но, уведомления из приложения не смогут быть получены.",
+		"@_name": "exception_suggest1"
+	},
+	{
+		"#text": "2. Сообщите разработчикам приложения и попросите их исправить проблему.",
+		"@_name": "exception_suggest2"
+	},
+	{
+		"#text": "Потребляет распознование лица:",
+		"@_name": "face_power_ratio"
+	},
+	{
+		"#text": "Совет: выключите распознавание лица, когда оно не используется",
+		"@_name": "face_power_save_notice_msg"
+	},
+	{
+		"#text": "Потребляет сканер отпечатка:",
+		"@_name": "fingerprint_power_ratio"
+	},
+	{
+		"#text": "Совет: выключите разблокировку отпечатоком, когда она не используется",
+		"@_name": "fingerprint_power_save_notice_msg"
+	},
+	{
+		"#text": "Фонарик:",
+		"@_name": "flash_light_power_ratio"
+	},
+	{
+		"#text": "Фонарик в работе",
+		"@_name": "flashlight_on_time"
+	},
+	{
+		"#text": "Время работа экрана",
+		"@_name": "force_screen_on_rank"
+	},
+	{
+		"#text": "Время работы процессора",
+		"@_name": "force_screen_on_time"
+	},
+	{
+		"#text": "Пробуждение в режиме ожидания",
+		"@_name": "force_wakeup_rank"
+	},
+	{
+		"#text": "Время бодрствования в режиме ожидания",
+		"@_name": "force_wakeup_time"
+	},
+	{
+		"#text": "Игровой режим включён. Настроить режим Не беспокоить и другие опции?",
+		"@_name": "game_context_msg"
+	},
+	{
+		"#text": "Игровой режим включён, нажмите для настройки",
+		"@_name": "game_notice_msg"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "game_setting"
+	},
+	{
+		"#text": "Время использования GPS",
+		"@_name": "gps_use_time"
+	},
+	{
+		"#text": "Уменьшение частоты кадров и сжатие изображений в приложениях, социальных сетях, играх, навигации и браузере для экономии энергии",
+		"@_name": "gpu_app_instruction"
+	},
+	{
+		"#text": "Батарея имеет достаточный заряд",
+		"@_name": "has_out_low_power_mode_notification_subtitle"
+	},
+	{
+		"#text": "Режим энергосбережения выключен",
+		"@_name": "has_out_low_power_mode_notification_title"
+	},
+	{
+		"#text": "Управление батареей",
+		"@_name": "hello_blank_fragment"
+	},
+	{
+		"#text": "Максимальная производительность",
+		"@_name": "high_performance_mode"
+	},
+	{
+		"#text": "Режим производительности тратит гораздо больше энергии, нажмите для переключения",
+		"@_name": "high_performance_notify_content"
+	},
+	{
+		"#text": "В режиме производительности",
+		"@_name": "high_performance_notify_title"
+	},
+	{
+		"#text": "Приложение %1$s разрядило батарею в фоновом режиме на %2$s, и, по оценкам, потребит %3$s мА·ч в течение следующих 2 часов. Для предотвращения чрезмерного разряда батареи, оно было закрыто.",
+		"@_name": "high_power_auto_kill_msg_type_scale"
+	},
+	{
+		"#text": "Закрыть приложение",
+		"@_name": "high_power_close_app"
+	},
+	{
+		"#text": "Повышенное энергопотребление в фоновом режиме",
+		"@_name": "high_power_consume"
+	},
+	{
+		"#text": "В режиме ожидания энергопотребление %1$s достигло %2$s, возможно, из-за неправильного использования батареи.",
+		"@_name": "high_power_dialog_msg"
+	},
+	{
+		"#text": "В режиме ожидания потребление %2$s достигло %3$s, в прошлом %1$s, возможно, из-за неправильного использования батареи",
+		"@_name": "high_power_dialog_msg_type_duration"
+	},
+	{
+		"#text": "В режиме ожидания потребление %1$s достигло %2$s в последнее время, возможно, из-за неправильного использования батареи.",
+		"@_name": "high_power_dialog_msg_type_scale"
+	},
+	{
+		"#text": "Запретить запуск в фоне",
+		"@_name": "high_power_forbid_app"
+	},
+	{
+		"#text": "Не напоминать снова",
+		"@_name": "high_power_ignored"
+	},
+	{
+		"#text": "Продлить время работы батареи на 30%",
+		"@_name": "high_power_save_subtitle"
+	},
+	{
+		"#text": "Высокая экономия",
+		"@_name": "high_power_save_title"
+	},
+	{
+		"#text": "График",
+		"@_name": "history_bat_use_chart"
+	},
+	{
+		"#text": "График энергопотребления",
+		"@_name": "histroy_detail"
+	},
+	{
+		"#text": "Ожидание",
+		"@_name": "idle"
+	},
+	{
+		"#text": "Энергопотребление в режиме ожидания",
+		"@_name": "idle_power_manager"
+	},
+	{
+		"#text": "В режиме ожидания:",
+		"@_name": "idle_power_sum"
+	},
+	{
+		"#text": "Разрешения в режиме ожидания",
+		"@_name": "idle_run_permission"
+	},
+	{
+		"#text": "Время ожидания",
+		"@_name": "idle_time"
+	},
+	{
+		"#text": "Смарт-управление",
+		"@_name": "intelligent_management"
+	},
+	{
+		"#text": "Средняя экономия",
+		"@_name": "intermediate_power_save"
+	},
+	{
+		"#text": "Сокращение энергопотребления ПО на 20%",
+		"@_name": "intermediate_power_save_subtitle"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Нажмите для перехода в настройки",
+		"@_name": "jumpToSetup"
+	},
+	{
+		"#text": "Первичная экономия",
+		"@_name": "junior_power_save"
+	},
+	{
+		"#text": "Энергопотребление ПО снижено на 10%",
+		"@_name": "junior_power_save_subtitle"
+	},
+	{
+		"#text": "Режим низкого энергопотребления будет управлять Bluetooth, GPS, звуками, тактильной обратной связью и другими опциями, ограничивать работу приложений в фоновом режиме, а также уменьшать визуальные эффекты и производительность системы. Ваш телефон автоматически выйдет из этого режима, когда он окажется достаточно заряжен.",
+		"@_name": "low_power_mode_info"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "low_power_remind_cancle_power_mode"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "low_power_remind_enter_power_mode"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "low_power_remind_jump_to_power_mode_config"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Продлить время работы батареи на 20%",
+		"@_name": "medium_power_save_subtitle"
+	},
+	{
+		"#text": "Средняя экономия",
+		"@_name": "medium_power_save_title"
+	},
+	{
+		"#text": "Сбалансированный",
+		"@_name": "menu_cpu_mode_balance"
+	},
+	{
+		"#text": "Производительный",
+		"@_name": "menu_cpu_mode_high"
+	},
+	{
+		"#text": "Энергосберегающий",
+		"@_name": "menu_cpu_mode_low"
+	},
+	{
+		"#text": "Передача моб. данных",
+		"@_name": "mobile_data"
+	},
+	{
+		"#text": "Выключить звуковые эффекты",
+		"@_name": "mode_audio_info"
+	},
+	{
+		"#text": "Отключить тактильную обратную связь",
+		"@_name": "mode_feedback_info"
+	},
+	{
+		"#text": "Сокращение потребления энергии до 50%, но это может привести к искажению цвета в определённых ситуациях.",
+		"@_name": "mode_screensave_des"
+	},
+	{
+		"#text": "Включить режим энергосбережения экрана",
+		"@_name": "mode_screensave_info"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "mode_select"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отключение %1$s",
+		"@_name": "msg_disableing_mode"
+	},
+	{
+		"#text": "Включение %1$s",
+		"@_name": "msg_enableing_mode"
+	},
+	{
+		"#text": "Отклонённые приложения будут заморожены или закрыты в соответствии с текущей ситуацией через 3 минуты после перехода телефона в режим ожидания. Это может привести к неполучению уведомлений.",
+		"@_name": "msg_help_for_clean_app"
+	},
+	{
+		"#text": "Автозакрытие фоновых процессов после 3 минут нахождения телефона в режиме ожидания. Это может привести к неполучению уведомлений.",
+		"@_name": "msg_help_for_clean_app_old"
+	},
+	{
+		"#text": "Интервал между началом и окончанием не может быть меньше %1$d мин.",
+		"@_name": "msg_start_end_too_small"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Больше не спрашивать",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Разрешать всегда",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Беспроводная сеть",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "переключение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отозвать разрешения",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Загрузить",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s V%s загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Размер: %s",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить и обновить",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить эту версию",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Использовать для загрузки мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s V%s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s V%s версия",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Нормальное время ожидания",
+		"@_name": "normal_idle_time"
+	},
+	{
+		"#text": "Время работы экрана",
+		"@_name": "normal_screen_on_time"
+	},
+	{
+		"#text": "запрещать",
+		"@_name": "not_use_powerxtend"
+	},
+	{
+		"#text": "Производительность",
+		"@_name": "performance_mode"
+	},
+	{
+		"#text": "Разрешения",
+		"@_name": "permission_title"
+	},
+	{
+		"#text": "В работе",
+		"@_name": "phone_active"
+	},
+	{
+		"#text": "Голосовой вызов",
+		"@_name": "phone_call"
+	},
+	{
+		"#text": "Голосовые вызовы:",
+		"@_name": "phone_call_power_ratio"
+	},
+	{
+		"#text": "Время звонка",
+		"@_name": "phone_call_time"
+	},
+	{
+		"#text": "Режим ожидания",
+		"@_name": "phone_idle"
+	},
+	{
+		"#text": "Сжатие изображений",
+		"@_name": "picture_compression"
+	},
+	{
+		"#text": "Чем больше степень сжатия, тем лучше эффект экономии энергии, но это может повлиять на качество изображения.",
+		"@_name": "picture_compression_explain"
+	},
+	{
+		"#text": "Соотношение",
+		"@_name": "picture_compression_ratio"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "power_alert_dialog_ok"
+	},
+	{
+		"#text": "AOD",
+		"@_name": "power_aod"
+	},
+	{
+		"#text": "Потребление в фоне",
+		"@_name": "power_bg"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "power_bluetooth"
+	},
+	{
+		"#text": "Сеть в режиме ожидания",
+		"@_name": "power_cell"
+	},
+	{
+		"#text": "Статистика от последней зарядки",
+		"@_name": "power_consumption_details"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "power_continue_disable"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "power_continue_enable"
+	},
+	{
+		"#text": "Режим энергосбережения может привести к снижению производительности системы",
+		"@_name": "power_continue_remind"
+	},
+	{
+		"#text": "За 6 часов",
+		"@_name": "power_duration_six_hours"
+	},
+	{
+		"#text": "За 3 часа",
+		"@_name": "power_duration_three_hours"
+	},
+	{
+		"#text": "За 12 часов",
+		"@_name": "power_duration_twelve_hours"
+	},
+	{
+		"#text": "За 24 часа",
+		"@_name": "power_duration_twenty_four_hours"
+	},
+	{
+		"#text": "Количество неиспользуемых приложений в фоне занимает более %1$s памяти процессора в течение %2$s мин., что приводит к высокому потреблению энергии, нагреву и лагам",
+		"@_name": "power_exception_msg"
+	},
+	{
+		"#text": "Приложения с высоким энергопотреблением",
+		"@_name": "power_exception_notice"
+	},
+	{
+		"#text": "Распознавание лиц",
+		"@_name": "power_face"
+	},
+	{
+		"#text": "Основное энергопотребление",
+		"@_name": "power_fg"
+	},
+	{
+		"#text": "Идентификация по отпечаткам",
+		"@_name": "power_fingerprint"
+	},
+	{
+		"#text": "Фонарик",
+		"@_name": "power_flashlight"
+	},
+	{
+		"#text": "Оборудование",
+		"@_name": "power_hard_sipper"
+	},
+	{
+		"#text": "Общее потребление аппаратных средств",
+		"@_name": "power_hard_total_sipper"
+	},
+	{
+		"#text": "История",
+		"@_name": "power_history"
+	},
+	{
+		"#text": "Режим ожидания",
+		"@_name": "power_idle"
+	},
+	{
+		"#text": "Не изменять",
+		"@_name": "power_item_ignore"
+	},
+	{
+		"#text": "Смарт-экономия",
+		"@_name": "power_item_medium"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "power_item_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "power_item_on"
+	},
+	{
+		"#text": "Первичная экономия",
+		"@_name": "power_item_primary"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "power_mode_off"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "power_mode_on"
+	},
+	{
+		"#text": "Конфигурация",
+		"@_name": "power_mode_summary"
+	},
+	{
+		"#text": "Нет данных об аппаратном энергопотреблении",
+		"@_name": "power_no_hw_data_msg"
+	},
+	{
+		"#text": "Нет данных о программном энергопотреблении",
+		"@_name": "power_no_sw_data_msg"
+	},
+	{
+		"#text": "Не напоминать снова",
+		"@_name": "power_not_remind"
+	},
+	{
+		"#text": "Голосовой вызов",
+		"@_name": "power_phone"
+	},
+	{
+		"#text": 60,
+		"@_name": "power_rank_draw_y60"
+	},
+	{
+		"#text": "Аппаратное обеспечение",
+		"@_name": "power_rank_hardware"
+	},
+	{
+		"#text": "Программное обеспечение",
+		"@_name": "power_rank_soft"
+	},
+	{
+		"#text": "Просмотр рейтинга энергопотребления",
+		"@_name": "power_ranking_desc"
+	},
+	{
+		"#text": "Советы по энергосбережению",
+		"@_name": "power_save_notice"
+	},
+	{
+		"#text": "Совет: Уменьшите яркость экрана и время отключения",
+		"@_name": "power_save_notice_msg"
+	},
+	{
+		"#text": "Экран",
+		"@_name": "power_screen"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "power_setting"
+	},
+	{
+		"#text": "Программы",
+		"@_name": "power_soft_sipper"
+	},
+	{
+		"#text": "Программное",
+		"@_name": "power_soft_total_sipper"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "power_title"
+	},
+	{
+		"#text": "Продлить время работы батареи на 10%",
+		"@_name": "primary_power_save_subtitle"
+	},
+	{
+		"#text": "Первичная экономия",
+		"@_name": "primary_power_save_title"
+	},
+	{
+		"#text": "Совет",
+		"@_name": "processing_advice"
+	},
+	{
+		"#text": "Опционально",
+		"@_name": "reject_recommend"
+	},
+	{
+		"#text": "Потребление в работе",
+		"@_name": "run_consumption"
+	},
+	{
+		"#text": "с",
+		"@_name": "runnint_time_unit"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "scheduled_dialog_cancel"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "scheduled_dialog_ok"
+	},
+	{
+		"#text": "Включение по расписанию",
+		"@_name": "scheduled_supermode_on"
+	},
+	{
+		"#text": "Режим энергосбережения будет включён через %s сек.",
+		"@_name": "scheduled_time_dialog_message_standard"
+	},
+	{
+		"#text": "Супер-режим будет включён через %s сек.",
+		"@_name": "scheduled_time_dialog_message_supper"
+	},
+	{
+		"#text": "Настроенный пользователем режим энергосбережения будет включён через %s сек.",
+		"@_name": "scheduled_time_dialog_message_userdefine"
+	},
+	{
+		"#text": "CABC (content to adapt to backlight) динамически регулирует контрастность изображения, уменьшает яркость и энергопотребление подсветки",
+		"@_name": "screen_cabc_description"
+	},
+	{
+		"#text": "Настройка CABC",
+		"@_name": "screen_cabc_title"
+	},
+	{
+		"#text": "Экран выкл.",
+		"@_name": "screen_off"
+	},
+	{
+		"#text": "Выкл. сеть в режиме ожидания",
+		"@_name": "screen_off_network"
+	},
+	{
+		"#text": "Эта опция экономит энергию, но отключает получение сообщений в режиме ожидания",
+		"@_name": "screen_off_network_subtitle"
+	},
+	{
+		"#text": "Экран выключен",
+		"@_name": "screen_off_time"
+	},
+	{
+		"#text": "Отключить второй экран",
+		"@_name": "screen_off_vice_screen"
+	},
+	{
+		"#text": "Когда включён режим низкого заряда, второй экран выключается",
+		"@_name": "screen_off_vice_screen_subtitle"
+	},
+	{
+		"#text": "Экран вкл.",
+		"@_name": "screen_on"
+	},
+	{
+		"#text": "Включает в себя навигацию, просмотр видео, игры и т.д.",
+		"@_name": "screen_on_msg"
+	},
+	{
+		"#text": "Работа экрана",
+		"@_name": "screen_on_time"
+	},
+	{
+		"#text": "Потребление экраном:",
+		"@_name": "screen_usage"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Высокая экономия",
+		"@_name": "senior_power_save"
+	},
+	{
+		"#text": "Сокращение энергопотребления ПО на 30%",
+		"@_name": "senior_power_save_subtitle"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Статистика энергопотребления",
+		"@_name": "sipper_detail"
+	},
+	{
+		"#text": "Приложение %1$s закрыто, так как потребляет много энергии в режиме ожидания.",
+		"@_name": "sipper_overed_auto_kill_msg"
+	},
+	{
+		"#text": "Приложение было закрыто",
+		"@_name": "sipper_overed_close"
+	},
+	{
+		"#text": "Энергопотребление в режиме ожидания достигло %2$sмАч от %1$s, %3$s от общего объёма, возможно, из-за неправильного использования батареи.",
+		"@_name": "sipper_overed_detail_msg"
+	},
+	{
+		"#text": "%1$s потребляет много энергии в режиме ожидания",
+		"@_name": "sipper_overed_msg"
+	},
+	{
+		"#text": "Энергопотребление в режиме ожидания %1$s–%2$s достигло %3$sмАч, %4$s от общего объёма, возможно, из-за неправильного использования батареи.",
+		"@_name": "sipper_overed_time_msg"
+	},
+	{
+		"#text": "Высокое энергопотребление",
+		"@_name": "sipper_overed_title"
+	},
+	{
+		"#text": "Обзор энергопотребления",
+		"@_name": "sipper_overview"
+	},
+	{
+		"#text": "Энергопотребление:",
+		"@_name": "sipper_ratio"
+	},
+	{
+		"#text": "Расход заряда:",
+		"@_name": "sipper_sum"
+	},
+	{
+		"#text": "Смарт-Фон (рекомендуется)",
+		"@_name": "smart_bg_mode0"
+	},
+	{
+		"#text": "Продолжает работать в фоне",
+		"@_name": "smart_bg_mode1"
+	},
+	{
+		"#text": "Запретить работу в фоне",
+		"@_name": "smart_bg_mode2"
+	},
+	{
+		"#text": "Снижение производительности для экономии энергии",
+		"@_name": "smart_power_mode_desc"
+	},
+	{
+		"#text": "Уменьшение частоты кадров",
+		"@_name": "smart_reduce_fps"
+	},
+	{
+		"#text": "Много",
+		"@_name": "some_app"
+	},
+	{
+		"#text": "Bluetooth и GPS",
+		"@_name": "standard_connect_info"
+	},
+	{
+		"#text": "Bluetooth, GPS и NFC",
+		"@_name": "standard_connect_pro_info"
+	},
+	{
+		"#text": "ЦП в сбалансированном режиме",
+		"@_name": "standard_cpu_info"
+	},
+	{
+		"#text": "Включить смарт-яркость",
+		"@_name": "standard_light_auto_info"
+	},
+	{
+		"#text": "Блокировка экрана после 30 секунд бездействия",
+		"@_name": "standard_screentime_info"
+	},
+	{
+		"#text": "Энергопотребление в режиме ожидания",
+		"@_name": "standby_consumption"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Напоминание о включении режима экономии",
+		"@_name": "sub_title_auto_ps"
+	},
+	{
+		"#text": "Автоматическое включение режима экономии энергии при низком заряде батареи",
+		"@_name": "sub_title_mode_select"
+	},
+	{
+		"#text": "Оптимизация настроек и баланса производительности",
+		"@_name": "sub_title_stardard_ps"
+	},
+	{
+		"#text": "Максимальное время автономной работы",
+		"@_name": "sub_title_supper_ps"
+	},
+	{
+		"#text": "Настройка режима экономии в соответствии с вашими потребностями",
+		"@_name": "sub_title_user_ps"
+	},
+	{
+		"#text": "Уменьшение частоты автозапуска приложений",
+		"@_name": "subtitle_alarm_align"
+	},
+	{
+		"#text": "Отключить связанный запуск приложений, когда телефон находится в режиме ожидания, и возобновить его при пробуждении экрана.",
+		"@_name": "subtitle_app_cutawaken"
+	},
+	{
+		"#text": "Вибрация при касании кнопки Домой",
+		"@_name": "subtitle_audio_click_vibrate"
+	},
+	{
+		"#text": "Динамическое размытие фона облегчает чтение содержимого. Отключение опции экономит энергию.",
+		"@_name": "subtitle_screen_blur"
+	},
+	{
+		"#text": "Сокращение потребления энергии до 50%, но может привести к искажению изображения.",
+		"@_name": "subtitle_screen_ps"
+	},
+	{
+		"#text": "Переключение сети для экономии заряда на основе вашей модели сна",
+		"@_name": "subtitle_sleep_mode"
+	},
+	{
+		"#text": "Работа %1$d приложен. запрещена в режиме ожидания",
+		"@_name": "summary_app_disable_sleep"
+	},
+	{
+		"#text": "%1$d приложен. работает в режиме ожидания",
+		"@_name": "summary_app_enable_sleep"
+	},
+	{
+		"#text": "Автоэнергосбережение",
+		"@_name": "summary_auto_ps"
+	},
+	{
+		"#text": "Звуки и вибрация",
+		"@_name": "summary_config_audio"
+	},
+	{
+		"#text": "Базовые настройки",
+		"@_name": "summary_config_device"
+	},
+	{
+		"#text": "Сети",
+		"@_name": "summary_config_network"
+	},
+	{
+		"#text": "Экран и яркость",
+		"@_name": "summary_config_screen"
+	},
+	{
+		"#text": "Система",
+		"@_name": "summary_config_system"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "summary_other_ps"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "summary_timer_ps"
+	},
+	{
+		"#text": "Выкл. автосинхронизацию",
+		"@_name": "super_async_info"
+	},
+	{
+		"#text": "Динамическое размытие",
+		"@_name": "super_blur_info"
+	},
+	{
+		"#text": "Bluetooth и GPS",
+		"@_name": "super_connect_info"
+	},
+	{
+		"#text": "Выкл. Bluetooth, GPS и NFC",
+		"@_name": "super_connect_pro_info"
+	},
+	{
+		"#text": "Перевод ЦП в режим экономии",
+		"@_name": "super_cpu_info"
+	},
+	{
+		"#text": "Выкл. Wi-Fi и передачу данных",
+		"@_name": "super_data_info"
+	},
+	{
+		"#text": "Выкл. подсветку кнопку Домой",
+		"@_name": "super_homelight_info"
+	},
+	{
+		"#text": "Только Телефон и Сообщения",
+		"@_name": "super_intro_info"
+	},
+	{
+		"#text": "Отключить жесты пробуждения",
+		"@_name": "super_key_wake_info"
+	},
+	{
+		"#text": "Супер-режим позволяет добавить ещё 2 приложения, кроме Телефона и Сообщений.",
+		"@_name": "super_mode_app_select_title"
+	},
+	{
+		"#text": "Звонки и сообщения",
+		"@_name": "super_mode_no_use_app"
+	},
+	{
+		"#text": "Вызовы, Сообщения, %1$s, %2$s",
+		"@_name": "super_mode_no_use_app_multi_four"
+	},
+	{
+		"#text": "Вызовы, Сообщения, %1$s",
+		"@_name": "super_mode_no_use_app_multi_three"
+	},
+	{
+		"#text": "ПО, разрешённое в супер-режиме",
+		"@_name": "super_mode_use_app_title"
+	},
+	{
+		"#text": "Супер-режим сделает домашний экран чёрно-белым, а также уменьшит потребление энергии до минимально возможного. Это приведёт к отключению передачи данных, Bluetooth, GPS, звуковых эффектов, тактильной обратной связи и других опций, оставив в работе только телефон, сообщения и несколько других доступных приложений.",
+		"@_name": "super_power_mode_info"
+	},
+	{
+		"#text": "Супер-режим сделает домашний экран чёрно-белым, а также уменьшит потребление энергии до минимально возможного. Это приведёт к отключению передачи данных, Bluetooth, GPS, звуковых эффектов, тактильной обратной связи и других опций, оставив в работе только телефон, сообщения и несколько других доступных приложений.",
+		"@_name": "super_power_mode_info_vice_screen"
+	},
+	{
+		"#text": "Блокировка экрана после 15 секунд бездействия",
+		"@_name": "super_screentime_info"
+	},
+	{
+		"#text": "Отключить пробуждение голосом",
+		"@_name": "super_speech_wake_info"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "text_hour"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "text_loading"
+	},
+	{
+		"#text": "м.",
+		"@_name": "text_minute"
+	},
+	{
+		"#text": "Приложения не выбраны",
+		"@_name": "text_no_app_select"
+	},
+	{
+		"#text": "Осталось: %1$d д. %2$d ч.",
+		"@_name": "text_remain_sb_time"
+	},
+	{
+		"#text": "Осталось",
+		"@_name": "text_remain_time"
+	},
+	{
+		"#text": "%1$d ч. %2$d м.",
+		"@_name": "text_remain_use_time"
+	},
+	{
+		"#text": "Продлено на %1$d ч. %2$d м.",
+		"@_name": "text_use_time_increase"
+	},
+	{
+		"#text": "Запланировано",
+		"@_name": "timed_saving"
+	},
+	{
+		"#text": "Включение по расписанию",
+		"@_name": "timed_saving_ps"
+	},
+	{
+		"#text": "%1$d раз",
+		"@_name": "times"
+	},
+	{
+		"#text": "ActivityPowerRank",
+		"@_name": "title_activity_activity_power_rank"
+	},
+	{
+		"#text": "Пробуждение",
+		"@_name": "title_alarm_algin"
+	},
+	{
+		"#text": "Нет связанных запусков в режиме ожидания",
+		"@_name": "title_app_cutawaken"
+	},
+	{
+		"#text": "Автозакрытие энергоёмких приложений",
+		"@_name": "title_app_killed_notification"
+	},
+	{
+		"#text": "Управление работой в фоне",
+		"@_name": "title_app_sleep_manager"
+	},
+	{
+		"#text": "Выбор приложения",
+		"@_name": "title_app_super_app_select"
+	},
+	{
+		"#text": "Системные звуки",
+		"@_name": "title_audio_all_tips"
+	},
+	{
+		"#text": "Виброотклик",
+		"@_name": "title_audio_click_vibrate"
+	},
+	{
+		"#text": "Без звука",
+		"@_name": "title_audio_mute"
+	},
+	{
+		"#text": "Вибрация",
+		"@_name": "title_audio_vibrate"
+	},
+	{
+		"#text": "Сигнал при низком заряде",
+		"@_name": "title_auto_ps"
+	},
+	{
+		"#text": "Ограничить фоновые процессы",
+		"@_name": "title_background_app_count"
+	},
+	{
+		"#text": "Нет фоновых процессов",
+		"@_name": "title_background_count_0"
+	},
+	{
+		"#text": "1 процесс, не более",
+		"@_name": "title_background_count_1"
+	},
+	{
+		"#text": "2 процесса, не более",
+		"@_name": "title_background_count_2"
+	},
+	{
+		"#text": "3 процесса, не более",
+		"@_name": "title_background_count_3"
+	},
+	{
+		"#text": "4 процесса, не более",
+		"@_name": "title_background_count_4"
+	},
+	{
+		"#text": "Стандартный лимит",
+		"@_name": "title_background_count_standard"
+	},
+	{
+		"#text": "Батарея",
+		"@_name": "title_battery_manager"
+	},
+	{
+		"#text": "Нажмите для включения %1$s",
+		"@_name": "title_click_enter_pm"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "title_device_bluetooth"
+	},
+	{
+		"#text": "Производительность ЦП",
+		"@_name": "title_device_cpu_mode"
+	},
+	{
+		"#text": "GPS",
+		"@_name": "title_device_gps"
+	},
+	{
+		"#text": "Экономия энергии ГП",
+		"@_name": "title_device_gpu_mode"
+	},
+	{
+		"#text": "Точка доступа",
+		"@_name": "title_device_mobile_hotspots"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "title_device_nfc"
+	},
+	{
+		"#text": "Подсветка кнопки Домой",
+		"@_name": "title_device_tlight"
+	},
+	{
+		"#text": "Включить супер-режим",
+		"@_name": "title_enable_supper_mode"
+	},
+	{
+		"#text": "Окончание",
+		"@_name": "title_end_time"
+	},
+	{
+		"#text": "10 мин.",
+		"@_name": "title_locktime_10m"
+	},
+	{
+		"#text": "1 мин.",
+		"@_name": "title_locktime_1m"
+	},
+	{
+		"#text": "2 мин.",
+		"@_name": "title_locktime_2m"
+	},
+	{
+		"#text": "30 мин.",
+		"@_name": "title_locktime_30m"
+	},
+	{
+		"#text": "30 сек.",
+		"@_name": "title_locktime_30s"
+	},
+	{
+		"#text": "5 мин.",
+		"@_name": "title_locktime_5m"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "title_low_power_mode"
+	},
+	{
+		"#text": "Нажмите для настройки режима энергосбережения",
+		"@_name": "title_low_powr_remind_jump_to_low_power"
+	},
+	{
+		"#text": "Нажмите для настройки супер-режима",
+		"@_name": "title_low_powr_remind_jump_to_super_mode"
+	},
+	{
+		"#text": "Низкое потреб.:",
+		"@_name": "title_lower_level_value"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "title_mode_select"
+	},
+	{
+		"#text": "Выкл. сеть сотовой связи",
+		"@_name": "title_network_data"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "title_network_wlan"
+	},
+	{
+		"#text": "Режим пониженного энергопотребления",
+		"@_name": "title_performance_low_mode"
+	},
+	{
+		"#text": "Активен супер-режим",
+		"@_name": "title_performance_supper_mode"
+	},
+	{
+		"#text": "Заряд батареи ниже %1$d",
+		"@_name": "title_power_low"
+	},
+	{
+		"#text": "Заряд батареи менее %1$d %2$s!",
+		"@_name": "title_power_low_mode"
+	},
+	{
+		"#text": "Режим экономии энергии",
+		"@_name": "title_power_mode"
+	},
+	{
+		"#text": "Детали энергопотребления",
+		"@_name": "title_power_ranking"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "title_power_setting"
+	},
+	{
+		"#text": "Смарт-яркость",
+		"@_name": "title_screen_autobright"
+	},
+	{
+		"#text": "Динамическое размытие",
+		"@_name": "title_screen_blur"
+	},
+	{
+		"#text": "Яркость",
+		"@_name": "title_screen_bright"
+	},
+	{
+		"#text": "Автоблокировка экрана",
+		"@_name": "title_screen_locktime"
+	},
+	{
+		"#text": "Включить экран режима энергосбережения",
+		"@_name": "title_screen_ps"
+	},
+	{
+		"#text": "Смарт-сон",
+		"@_name": "title_sleep_mode"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "title_standard_mode"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "title_stardard_ps"
+	},
+	{
+		"#text": "Начало",
+		"@_name": "title_start_time"
+	},
+	{
+		"#text": "Разрешённое ПО в супер-режиме",
+		"@_name": "title_super_mode_app_count"
+	},
+	{
+		"#text": "1 приложен.",
+		"@_name": "title_super_mode_app_count_1"
+	},
+	{
+		"#text": "2 приложения",
+		"@_name": "title_super_mode_app_count_2"
+	},
+	{
+		"#text": "Выбор приложения",
+		"@_name": "title_super_mode_app_select"
+	},
+	{
+		"#text": "Супер-режим экономии",
+		"@_name": "title_supper_mode"
+	},
+	{
+		"#text": "Супер-режим отключает все функции, кроме телефонной связи и сообщений",
+		"@_name": "title_supper_mode_summary"
+	},
+	{
+		"#text": "Супер-режим",
+		"@_name": "title_supper_ps"
+	},
+	{
+		"#text": "Пробуждение голосом",
+		"@_name": "title_system_audio_awake"
+	},
+	{
+		"#text": "Автосинхронизация",
+		"@_name": "title_system_autosync"
+	},
+	{
+		"#text": "Пробуждение жестом",
+		"@_name": "title_system_awake"
+	},
+	{
+		"#text": "режим Функция",
+		"@_name": "title_system_black_mode"
+	},
+	{
+		"#text": "Очистка памяти",
+		"@_name": "title_system_clean_memory"
+	},
+	{
+		"#text": "Режим энергосбережения",
+		"@_name": "title_timer_ps"
+	},
+	{
+		"#text": "Настраиваемый режим",
+		"@_name": "title_user_define_mode"
+	},
+	{
+		"#text": "Настраиваемый режим",
+		"@_name": "title_user_ps"
+	},
+	{
+		"#text": "Расход батареи в фоне",
+		"@_name": "total_bg_power_sec"
+	},
+	{
+		"#text": "%1$s запущено в фоне, энергопотребление: %2$dмАч",
+		"@_name": "total_bg_run_time_only_sec"
+	},
+	{
+		"#text": "Находится в фоне %1$s",
+		"@_name": "total_bg_time_sec"
+	},
+	{
+		"#text": "В фоновом режиме",
+		"@_name": "total_bg_time_sec_no_num"
+	},
+	{
+		"#text": "Расход батареи в работе",
+		"@_name": "total_fg_power_sec"
+	},
+	{
+		"#text": "%1$s в работе, энергопотребление: %2$dмАч",
+		"@_name": "total_fg_run_time_only_sec"
+	},
+	{
+		"#text": "Находится в работе %1$s",
+		"@_name": "total_fg_time_sec"
+	},
+	{
+		"#text": "В работе",
+		"@_name": "total_fg_time_sec_no_num"
+	},
+	{
+		"#text": "%1$s всего",
+		"@_name": "total_num_lager_files"
+	},
+	{
+		"#text": "Только Телефон и Сообщения",
+		"@_name": "ultra_power_mode_desc"
+	},
+	{
+		"#text": "приложен. продолжает работать",
+		"@_name": "usage_app_num"
+	},
+	{
+		"#text": "Детали потребления",
+		"@_name": "usage_detail"
+	},
+	{
+		"#text": "Настройка параметров для ежедневного использования",
+		"@_name": "user_power_mode_desc"
+	},
+	{
+		"#text": "Настраиваемый режим",
+		"@_name": "user_power_save"
+	},
+	{
+		"#text": "Настройка шаблона энергосбережения",
+		"@_name": "user_power_save_subtitle"
+	},
+	{
+		"#text": "Настраиваемое энергосбережение",
+		"@_name": "user_power_save_title"
+	},
+	{
+		"#text": "Настройка шаблона энергосбережения",
+		"@_name": "userdefnie_power_save"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "usermode_dialog_cancel"
+	},
+	{
+		"#text": "Пользовательский режим должен быть настроен вручную или он не может быть включён.",
+		"@_name": "usermode_dialog_message"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "usermode_dialog_ok"
+	},
+	{
+		"#text": "Посмотреть все (%1$s)",
+		"@_name": "view_all"
+	},
+	{
+		"#text": "Включает в себя синхронизацию сообщений, обновление данных и т.д.",
+		"@_name": "wakeup_msg"
+	},
+	{
+		"#text": "Пробуждение в режиме ожидания",
+		"@_name": "wakeup_time_while_idle"
+	},
+	{
+		"#text": "Передача данных по Wi-Fi",
+		"@_name": "wakeup_times_while_idle"
+	},
+	{
+		"#text": "Режим полета",
+		"@_name": "WidgetLayoutExtend_Description_air_plane"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "wifi"
+	},
+	{
+		"#text": "Работа Wi-Fi в фоне",
+		"@_name": "wifi_data"
+	},
+	{
+		"#text": "Wi-Fi в работе",
+		"@_name": "wifi_on_time"
+	},
+	{
+		"#text": "Потребление Wi-Fi:",
+		"@_name": "wifi_power_ratio"
+	},
+	{
+		"#text": "Совет: Отключите сеть Wi-Fi, когда она не используется",
+		"@_name": "wifi_power_save_notie_msg"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "wifi_settings_title"
+	}
+]

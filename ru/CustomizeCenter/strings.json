@@ -1,0 +1,3548 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "about"
+	},
+	{
+		"#text": "Веб-версия",
+		"@_name": "about_subtitile1"
+	},
+	{
+		"#text": "Сообщество разработчиков",
+		"@_name": "about_subtitile2"
+	},
+	{
+		"#text": "Meizu Themes",
+		"@_name": "about_titile"
+	},
+	{
+		"#text": "Версия",
+		"@_name": "about_version"
+	},
+	{
+		"#text": "\"Некоторые обои загружены из интернета.\n Пожалуйста, свяжитесь с нами, чтобы удалить их\n в случае нарушения авторских прав\"",
+		"@_name": "about_wallpaper_disclaimer"
+	},
+	{
+		"#text": "Система занята, пожалуйста, попробуйте позже.",
+		"@_name": "access_server_error"
+	},
+	{
+		"#text": "Дополнительные обои",
+		"@_name": "account_badge"
+	},
+	{
+		"#text": "Баланс: ￥%.2f",
+		"@_name": "account_balance"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "account_balance_getting"
+	},
+	{
+		"#text": "Купоны",
+		"@_name": "account_coupon"
+	},
+	{
+		"#text": "\\#8EA8BE",
+		"@_name": "account_info_layout_default_color"
+	},
+	{
+		"#text": "Баллы",
+		"@_name": "account_integration"
+	},
+	{
+		"#text": "Тема клавиатуры",
+		"@_name": "account_keyboard_skin"
+	},
+	{
+		"#text": "Собрать тему",
+		"@_name": "account_mix"
+	},
+	{
+		"#text": "Без названия",
+		"@_name": "account_mix_project_unknow"
+	},
+	{
+		"#text": "Рингтоны",
+		"@_name": "account_ringtone"
+	},
+	{
+		"#text": "Темы",
+		"@_name": "account_theme"
+	},
+	{
+		"#text": "Шрифты",
+		"@_name": "account_typeface"
+	},
+	{
+		"#text": "Не выполнен вход",
+		"@_name": "account_unlogin"
+	},
+	{
+		"#text": "Смена обоев",
+		"@_name": "account_varied_wallpaper"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "account_wallpaper"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Input AD ID",
+		"@_name": "ad_popup_dialog_dialogTitle"
+	},
+	{
+		"#text": "Input AD ID. Show pop-up AD",
+		"@_name": "ad_popup_dialog_summary"
+	},
+	{
+		"#text": "Pop-up AD",
+		"@_name": "ad_popup_dialog_title"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add"
+	},
+	{
+		"#text": "Добавить отзыв",
+		"@_name": "add_comment"
+	},
+	{
+		"#text": "Вы станете первым",
+		"@_name": "add_comment_empty_title"
+	},
+	{
+		"#text": "Будильник",
+		"@_name": "alarm_clock"
+	},
+	{
+		"#text": "Будни",
+		"@_name": "alarm_repeat_type_mon_to_fri"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "alert_dialog_accept"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "alert_dialog_cancel"
+	},
+	{
+		"#text": "Создать ярлык на рабочем столе для %s?",
+		"@_name": "alert_dialog_creat_app_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "alert_dialog_ok"
+	},
+	{
+		"#text": "Запрос разрешения %s",
+		"@_name": "alert_dialog_permission_title"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "alert_dialog_reject"
+	},
+	{
+		"#text": "Неверный формат даты",
+		"@_name": "alipay_data_exception"
+	},
+	{
+		"#text": "Ошибка сети",
+		"@_name": "alipay_network_request_error"
+	},
+	{
+		"#text": "Обновление платежного сервиса",
+		"@_name": "alipay_server_error"
+	},
+	{
+		"#text": "Alipay не отвечает, пожалуйста, попробуй еще раз",
+		"@_name": "alipay_unknown_error"
+	},
+	{
+		"#text": "Все",
+		"@_name": "all_special"
+	},
+	{
+		"#text": "Обновить все",
+		"@_name": "all_update"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Perf",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Добавленные",
+		"@_name": "applied"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "apply"
+	},
+	{
+		"#text": "Добавить на дополнительный экран",
+		"@_name": "apply_badge"
+	},
+	{
+		"#text": "Ошибка, не удалось применить дополнительные обои.",
+		"@_name": "apply_badge_failed"
+	},
+	{
+		"#text": "Добавлено",
+		"@_name": "apply_badge_success"
+	},
+	{
+		"#text": "Ошибка применения: %s",
+		"@_name": "apply_failed"
+	},
+	{
+		"#text": "Ошибка, повторите загрузку.",
+		"@_name": "apply_keyboard_skin_failed_and_re_download"
+	},
+	{
+		"#text": "Добавлено на дом. экран",
+		"@_name": "apply_launcher_sametime"
+	},
+	{
+		"#text": "Ошибка, повторите загрузку.",
+		"@_name": "apply_livepaper_failed_and_re_download"
+	},
+	{
+		"#text": "You are using a dynamic lock screen and cannot set a lock screen wallpaper.",
+		"@_name": "apply_lockwallpaper_fail"
+	},
+	{
+		"#text": "Вы используете динамические обои на экране блокировки, поэтому не можете установить обои для экрана блокировки.",
+		"@_name": "apply_lockwallpaper_fail_when_both_apply"
+	},
+	{
+		"#text": "Успешно",
+		"@_name": "apply_success"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "apply_wallpaper"
+	},
+	{
+		"#text": "Добавление",
+		"@_name": "applying_badge"
+	},
+	{
+		"#text": "Применение",
+		"@_name": "applying_wallpaper"
+	},
+	{
+		"#text": "Придавайте своему телефону новый вид каждый день",
+		"@_name": "atuo_swtich_many_wallpapers"
+	},
+	{
+		"#text": "Автосмена обоев",
+		"@_name": "auto_change_wallpaper"
+	},
+	{
+		"#text": "Автоматическое переключение на праздничные обои",
+		"@_name": "automatically_switch_to_commemorative_wallpaper_on_festivals"
+	},
+	{
+		"#text": "Автообновление через Wi-Fi",
+		"@_name": "autoUpate"
+	},
+	{
+		"#text": "Купон(ы)",
+		"@_name": "available_coupon_txt"
+	},
+	{
+		"#text": "Дополнительные обои",
+		"@_name": "badge"
+	},
+	{
+		"#text": "Ошибка авторизации, повторите загрузку.",
+		"@_name": "badge_check_license_failed"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "badge_detail"
+	},
+	{
+		"#text": "Приложение должно быть обновлено для возможности использовать платные доп. обои. Обновить сейчас?",
+		"@_name": "badge_need_update_apk_message"
+	},
+	{
+		"#text": "Дополнительные обои не найдены",
+		"@_name": "badge_not_exist"
+	},
+	{
+		"#text": "Баллы сгорают через 3 дня",
+		"@_name": "beautybean_clear_date_time"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Сканирование штрих-кода",
+		"@_name": "capture_qrcode_prompt"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "Все",
+		"@_name": "check_all"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "check_app_update"
+	},
+	{
+		"#text": "Check Gallery",
+		"@_name": "check_gallery"
+	},
+	{
+		"#text": "Ошибка авторизации, повторите загрузку.",
+		"@_name": "check_license_failed"
+	},
+	{
+		"#text": "Verifying order",
+		"@_name": "check_order"
+	},
+	{
+		"#text": "Failed to verify order",
+		"@_name": "check_order_fail"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "checking_app_update"
+	},
+	{
+		"#text": "China Mobile",
+		"@_name": "china_mobile"
+	},
+	{
+		"#text": "China Telecom",
+		"@_name": "china_telecom"
+	},
+	{
+		"#text": "China Unicom",
+		"@_name": "china_unicom"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "close"
+	},
+	{
+		"#text": "Автоматическая смена обоев для лаунчера отключена",
+		"@_name": "close_launcher_wallpaper"
+	},
+	{
+		"#text": "Ручное изменение обоев домашнего экрана выключено",
+		"@_name": "close_launcher_wallpaper_description"
+	},
+	{
+		"#text": "Переключение постеров отключено",
+		"@_name": "close_lock_screen_poster"
+	},
+	{
+		"#text": "При ручной смене обоев",
+		"@_name": "close_lock_screen_poster_description"
+	},
+	{
+		"#text": "Автоматическая смена обоев отключена",
+		"@_name": "close_variedwallpaper"
+	},
+	{
+		"#text": "Ручное изменение обоев экрана блокировки выключено.",
+		"@_name": "close_variedwallpaper_description"
+	},
+	{
+		"#text": "Избранные шрифты",
+		"@_name": "collect_font"
+	},
+	{
+		"#text": "Избранные обои",
+		"@_name": "collect_pap"
+	},
+	{
+		"#text": "Избранные темы",
+		"@_name": "collect_theme"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "collection"
+	},
+	{
+		"#text": ":",
+		"@_name": "colon"
+	},
+	{
+		"#text": ":",
+		"@_name": "colon_and_empty"
+	},
+	{
+		"#text": "Получить PIN",
+		"@_name": "color_ring_get_rand_code"
+	},
+	{
+		"#text": "Ошибка авторизации. Попробуйте еще раз.",
+		"@_name": "color_ring_login_token_invalid"
+	},
+	{
+		"#text": "Next",
+		"@_name": "color_ring_next_step"
+	},
+	{
+		"#text": "Minimum time interval not reached yet. Please wait.",
+		"@_name": "color_ring_not_enough_duration"
+	},
+	{
+		"#text": "Enter correct phone number",
+		"@_name": "color_ring_phone_number_error"
+	},
+	{
+		"#text": "Please enter phone number",
+		"@_name": "color_ring_phone_number_hint"
+	},
+	{
+		"#text": "Incorrect verification code. Please re-enter.",
+		"@_name": "color_ring_rand_code_error"
+	},
+	{
+		"#text": "PIN",
+		"@_name": "color_ring_rand_code_hint"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "color_ring_reget_rand_code"
+	},
+	{
+		"#text": "s",
+		"@_name": "color_ring_second"
+	},
+	{
+		"#text": "Установить рингтон «%s»",
+		"@_name": "color_ring_set_color_ring"
+	},
+	{
+		"#text": "Ваша заявка на получение музыкального рингтона была подана в Cooltone, и ожидается, что она будет одобрена в течение 2 часов. Как только услуга будет включена, Ваш рингтон будет автоматически настроен на \\ \"%1$s\\\". Если у Вас есть вопросы, пожалуйста, свяжитесь с %2$s.",
+		"@_name": "color_ring_set_success"
+	},
+	{
+		"#text": "Получить",
+		"@_name": "color_ring_set_success_confirm"
+	},
+	{
+		"#text": "M",
+		"@_name": "color_ring_tag"
+	},
+	{
+		"#text": "Рингтон не поддерживается для текущего номера",
+		"@_name": "color_ring_unsupport_color_ring"
+	},
+	{
+		"#text": "Участие в Cooltone не поддерживается для текущего номера",
+		"@_name": "color_ring_unsupport_personal_color_ring"
+	},
+	{
+		"#text": "Оставить отзыв можно после покупки.",
+		"@_name": "comment_after_paid"
+	},
+	{
+		"#text": "Все отзывы",
+		"@_name": "comment_all"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "comment_cancel"
+	},
+	{
+		"#text": "Отзывы",
+		"@_name": "comment_Description"
+	},
+	{
+		"#text": "Отлично",
+		"@_name": "comment_Five_Star"
+	},
+	{
+		"#text": "Хорошо",
+		"@_name": "comment_Four_Star"
+	},
+	{
+		"#text": "Оставить отзыв можно после установки.",
+		"@_name": "comment_no_right"
+	},
+	{
+		"#text": "Вы еще не оценили",
+		"@_name": "comment_No_Star"
+	},
+	{
+		"#text": "Посредственно",
+		"@_name": "comment_One_Star"
+	},
+	{
+		"#text": "Подтвердить",
+		"@_name": "comment_post"
+	},
+	{
+		"#text": "Ярмарка",
+		"@_name": "comment_Three_Star"
+	},
+	{
+		"#text": "Plenty of room for improvement",
+		"@_name": "comment_Two_Star"
+	},
+	{
+		"#text": "Ошибка отправки отзыва",
+		"@_name": "commentError"
+	},
+	{
+		"#text": "Обновить шрифт?",
+		"@_name": "confirm_update_fonts"
+	},
+	{
+		"#text": "Обновить тему клавиатуры?",
+		"@_name": "confirm_update_keyboard_skins"
+	},
+	{
+		"#text": "Обновить все динамические обои?",
+		"@_name": "confirm_update_livepapers"
+	},
+	{
+		"#text": "Обновление через моб. данные может повлечь доп. расходы.",
+		"@_name": "confirm_update_network_title"
+	},
+	{
+		"#text": "Обновить все темы?",
+		"@_name": "confirm_update_themes"
+	},
+	{
+		"#text": "Поздравляю! Вот купон для вас",
+		"@_name": "congratulations_get_coupon"
+	},
+	{
+		"#text": "Получать push-уведомления",
+		"@_name": "content_push"
+	},
+	{
+		"#text": "Получайте уведомления о популярных событиях, интервью и многое другое.",
+		"@_name": "content_push_summary"
+	},
+	{
+		"#text": "контекст null",
+		"@_name": "context_is_null"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "continue_download"
+	},
+	{
+		"#text": "Получить",
+		"@_name": "copy_that"
+	},
+	{
+		"#text": "Копировать URL",
+		"@_name": "copy_url"
+	},
+	{
+		"#text": "Некоторые фоновые рисунки защищены авторским правом, поэтому при сохранении на телефон добавляются водяные знаки.",
+		"@_name": "copyright_description"
+	},
+	{
+		"#text": "Купон",
+		"@_name": "coupon_dialog"
+	},
+	{
+		"#text": "Купон сгорает через 3 дня",
+		"@_name": "coupon_notify_three_day_txt"
+	},
+	{
+		"#text": "Купон сгорает сегодня",
+		"@_name": "coupon_notify_today_txt"
+	},
+	{
+		"#text": "%.1f",
+		"@_name": "coupon_yuan_number"
+	},
+	{
+		"#text": "Ошибка создания заказа",
+		"@_name": "create_order_error"
+	},
+	{
+		"#text": "Текущая версия обновлена",
+		"@_name": "current_is_newest_version"
+	},
+	{
+		"#text": "При текущем методе ввода тема не может быть применена. Перейти на системную клавиатуру?",
+		"@_name": "current_not_using_system_inputmethod"
+	},
+	{
+		"#text": "Версия: %s",
+		"@_name": "current_version"
+	},
+	{
+		"#text": "Темы",
+		"@_name": "customizecenter_app_name"
+	},
+	{
+		"#text": "Темы (в том числе динамические) нуждаются в доступе к сети, местоположению, сообщениям и контактам.",
+		"@_name": "cutomizecenter_need_internal_permission_to_get_resource"
+	},
+	{
+		"#text": "\"Дата релиза: \"",
+		"@_name": "date"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Meizu Themes Testing Tool",
+		"@_name": "debug_util"
+	},
+	{
+		"#text": "Нажмите для открытия Testing Tool",
+		"@_name": "debug_util_notification_content_text"
+	},
+	{
+		"#text": "Эта функция повлияет на ваше использование тем. Пожалуйста, выключите ее, когда закончите.",
+		"@_name": "debug_util_summary"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Developer replies",
+		"@_name": "developerReply"
+	},
+	{
+		"#text": "Эта функция недоступна для телефонов без дополнительных экранов",
+		"@_name": "device_unsupported_badge"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "dialog_cancel"
+	},
+	{
+		"#text": "Exit Mix Design?",
+		"@_name": "dialog_message"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "dialog_quit"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "discount"
+	},
+	{
+		"#text": "Не нравится",
+		"@_name": "dislike"
+	},
+	{
+		"#text": "Выкупите ваш купон с баллами",
+		"@_name": "do_not_waste_beautybean"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download"
+	},
+	{
+		"#text": "Повторить загрузку",
+		"@_name": "download_again"
+	},
+	{
+		"#text": "Загрузка завершена",
+		"@_name": "download_complete"
+	},
+	{
+		"#text": "Загружено: (%s)",
+		"@_name": "download_count"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "download_error"
+	},
+	{
+		"#text": "Download error for unrecognized IMEI",
+		"@_name": "download_error_for_unrecognized_imei"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "download_fail"
+	},
+	{
+		"#text": "Ошибка загрузки: %s",
+		"@_name": "download_failed"
+	},
+	{
+		"#text": "Ожидание Wi-Fi",
+		"@_name": "download_later"
+	},
+	{
+		"#text": "Choosing \\\"Wait for Wi-Fi\\\" will postpone the download until you are connected to Wi-Fi, and auto wallpaper changer will not take effect immediately.",
+		"@_name": "download_later_tips"
+	},
+	{
+		"#text": "Менеджер загрузок",
+		"@_name": "download_manage"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_manage_bar_title"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "download_manage_pause_all"
+	},
+	{
+		"#text": "Continuing downloading will consume cellular data",
+		"@_name": "download_mobilenetwork_message"
+	},
+	{
+		"#text": "Загрузить с использованием моб. данных?",
+		"@_name": "download_mobilenetwork_title"
+	},
+	{
+		"#text": "Доступна новая версия, нажмите для обновления",
+		"@_name": "download_newest_version"
+	},
+	{
+		"#text": "Загрузка только через Wi-Fi",
+		"@_name": "download_only_in_wifi"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_right_now"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "download_state_downloading"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "download_state_error"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "download_state_parsing"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "download_state_pause"
+	},
+	{
+		"#text": "Началась загрузка",
+		"@_name": "download_state_starting"
+	},
+	{
+		"#text": "Ожидание загрузки",
+		"@_name": "download_state_waiting"
+	},
+	{
+		"#text": "Ожидание обновления",
+		"@_name": "download_state_waiting_update"
+	},
+	{
+		"#text": "Загружено: %s",
+		"@_name": "download_success"
+	},
+	{
+		"#text": "Ошибка, не удалось скачать обои.",
+		"@_name": "download_wallpaper_fail"
+	},
+	{
+		"#text": "Загрузка истории",
+		"@_name": "downloaded_history"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "downloading"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "downloading_badge"
+	},
+	{
+		"#text": "Загрузка %1$s %2$d/%3$d",
+		"@_name": "downloading_multiple"
+	},
+	{
+		"#text": "Загрузка обновления",
+		"@_name": "downloading_patch_prefix"
+	},
+	{
+		"#text": "Загрузка, подождите",
+		"@_name": "downloading_please_wait"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "downloading_prefix"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "downloading_progress"
+	},
+	{
+		"#text": "Загрузка %1$s \\\"%2$s\\\"",
+		"@_name": "downloading_single"
+	},
+	{
+		"#text": "Загрузка обоев, подождите",
+		"@_name": "downloading_wallpaper"
+	},
+	{
+		"#text": "Включите дополнительный дисплей для использования функции",
+		"@_name": "enable_the_secondary_screen_to_use_the_function"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "error"
+	},
+	{
+		"#text": "Ошибка, повторите. (%d)",
+		"@_name": "error_and_please_re_tried"
+	},
+	{
+		"#text": "Account remote service exception",
+		"@_name": "error_code_remote_exception"
+	},
+	{
+		"#text": "ошибка получения токена",
+		"@_name": "error_is_throwed"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "every_day"
+	},
+	{
+		"#text": "Ошибка в приложении или теме",
+		"@_name": "exist_bug"
+	},
+	{
+		"#text": "Online Fonts",
+		"@_name": "external_intent_font_online_title"
+	},
+	{
+		"#text": "Online Ringtones",
+		"@_name": "external_intent_ringtone_online_title"
+	},
+	{
+		"#text": "Online Themes",
+		"@_name": "external_intent_theme_online_title"
+	},
+	{
+		"#text": "Online Wallpapers",
+		"@_name": "external_intent_wallpaper_online_title"
+	},
+	{
+		"#text": "Праздничные обои",
+		"@_name": "festival_wallpaper"
+	},
+	{
+		"#text": "Выбрано файлов %1$s, всего %2$sМб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "fitActionView",
+		"@_name": "fit_action_view"
+	},
+	{
+		"#text": "Float Widget Entrance",
+		"@_name": "float_switcher_title"
+	},
+	{
+		"#text": "Использовать аватары в стиле Flyme",
+		"@_name": "flyme_avatar_summary"
+	},
+	{
+		"#text": "Аватары в стиле Flyme",
+		"@_name": "flyme_avatar_title"
+	},
+	{
+		"#text": "Шрифты",
+		"@_name": "font"
+	},
+	{
+		"#text": "Ошибка авторизации, повторите загрузку",
+		"@_name": "font_check_license_failed"
+	},
+	{
+		"#text": "По умолчанию",
+		"@_name": "font_default_name"
+	},
+	{
+		"#text": "Описание шрифта",
+		"@_name": "font_description"
+	},
+	{
+		"#text": "Подробнее о шрифте",
+		"@_name": "font_detail_activity_name"
+	},
+	{
+		"#text": "\"Couldn't download because maximum device limit is reached\"",
+		"@_name": "font_downloaded_times_exceeded_tip"
+	},
+	{
+		"#text": "Font Label",
+		"@_name": "font_label"
+	},
+	{
+		"#text": "Отзывы",
+		"@_name": "font_online_comment_title"
+	},
+	{
+		"#text": "Шрифт больше недоступен.",
+		"@_name": "font_online_un_existed"
+	},
+	{
+		"#text": "Применено",
+		"@_name": "font_preview_applied"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "font_preview_apply"
+	},
+	{
+		"#text": "Дата релиза: %1$s-%2$s-%3$s",
+		"@_name": "font_preview_date"
+	},
+	{
+		"#text": "Версия: %s",
+		"@_name": "font_preview_version"
+	},
+	{
+		"#text": "Ошибка применения шрифта",
+		"@_name": "font_set_error"
+	},
+	{
+		"#text": "Применение шрифта",
+		"@_name": "font_setting"
+	},
+	{
+		"#text": "Специальные шрифты",
+		"@_name": "font_special"
+	},
+	{
+		"#text": "Примечание: Шрифт удален из магазина в связи с нарушением авторских прав или по другим причинам.",
+		"@_name": "font_suspended_tip"
+	},
+	{
+		"#text": "Используйте шрифт без ограничений после покупки",
+		"@_name": "font_trial_dialog_msg"
+	},
+	{
+		"#text": "Демо завершено",
+		"@_name": "font_trial_dialog_title"
+	},
+	{
+		"#text": "Демо завершено",
+		"@_name": "font_trial_end_notify_ticker"
+	},
+	{
+		"#text": "Демо для «%s» завершено",
+		"@_name": "font_trial_notify_end_title"
+	},
+	{
+		"#text": "Демо…",
+		"@_name": "font_trial_start_notify_ticker"
+	},
+	{
+		"#text": "Демо будет завершено %1$d:%2$02d",
+		"@_name": "font_trial_trying_notify_content"
+	},
+	{
+		"#text": "Демо для «%s»",
+		"@_name": "font_trial_trying_notify_title"
+	},
+	{
+		"#text": "Шрифт",
+		"@_name": "force_touch_font"
+	},
+	{
+		"#text": "Рингтон",
+		"@_name": "force_touch_ring"
+	},
+	{
+		"#text": "Тема",
+		"@_name": "force_touch_theme"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "force_touch_wallpaper"
+	},
+	{
+		"#text": "неверное разрешение",
+		"@_name": "future_result_is_null"
+	},
+	{
+		"#text": "Получить баллы после входа в систему",
+		"@_name": "get_beautybean_after_log_in"
+	},
+	{
+		"#text": "get token cancel",
+		"@_name": "get_cancel"
+	},
+	{
+		"#text": "Ошибка получения пути загрузки",
+		"@_name": "get_download_url_error"
+	},
+	{
+		"#text": "Не удалось получить информацию об аккаунте",
+		"@_name": "get_token_fail"
+	},
+	{
+		"#text": "Получить",
+		"@_name": "got_it"
+	},
+	{
+		"#text": "Мастер установки",
+		"@_name": "guide_page"
+	},
+	{
+		"#text": "Опасно для телефона или данных",
+		"@_name": "harmful_for_phone"
+	},
+	{
+		"#text": "Просмотрено",
+		"@_name": "has_been_commented"
+	},
+	{
+		"#text": "Вернуться к системной теме",
+		"@_name": "has_recover_to_system_theme"
+	},
+	{
+		"#text": "Горячие шрифты",
+		"@_name": "hot_font_label"
+	},
+	{
+		"#text": "Горячие обои",
+		"@_name": "hot_pap_label"
+	},
+	{
+		"#text": "Горячие рингтоны",
+		"@_name": "hot_ringtone_label"
+	},
+	{
+		"#text": "Популярное",
+		"@_name": "hot_search_label"
+	},
+	{
+		"#text": "Горячие темы",
+		"@_name": "hot_theme_label"
+	},
+	{
+		"#text": "%s:%s",
+		"@_name": "hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Попробовать",
+		"@_name": "i_want_to_try"
+	},
+	{
+		"#text": "Illegal payment request",
+		"@_name": "illegal_pay_request"
+	},
+	{
+		"#text": "Просмотр",
+		"@_name": "immediately_see"
+	},
+	{
+		"#text": "Описание проблемы",
+		"@_name": "input_issue"
+	},
+	{
+		"#text": "Дополнительная информация (опционально)",
+		"@_name": "input_other_error"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "install"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "install_app"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "install_fail"
+	},
+	{
+		"#text": "Ошибка, не удалось установить тему",
+		"@_name": "install_theme_failed"
+	},
+	{
+		"#text": "Установлено",
+		"@_name": "installed_theme"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Установка приложения",
+		"@_name": "installing_app"
+	},
+	{
+		"#text": "Установка темы",
+		"@_name": "installing_theme"
+	},
+	{
+		"#text": "Ошибка сети, пожалуйста, попробуйте еще раз.",
+		"@_name": "integration_net_error"
+	},
+	{
+		"#text": "intent need to be handled",
+		"@_name": "intent_handle"
+	},
+	{
+		"#text": "Ошибка сети",
+		"@_name": "internet_error"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для перезагрузки",
+		"@_name": "internet_error_tap_to_reload"
+	},
+	{
+		"#text": "Go to “#@0@#” > “Auto Wallpaper Changer” to enable it",
+		"@_name": "introduction_guide"
+	},
+	{
+		"#text": "\"Новое:\nАвтоматическая смена обоев\"",
+		"@_name": "introduction_title"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Клавиатура",
+		"@_name": "keyboard"
+	},
+	{
+		"#text": "Тема клавиатуры",
+		"@_name": "keyboard_skin"
+	},
+	{
+		"#text": "Подробнее о теме",
+		"@_name": "keyboard_skin_detail"
+	},
+	{
+		"#text": "Темы для клавиатуры отсутствуют",
+		"@_name": "keyboard_skin_not_exist"
+	},
+	{
+		"#text": "Коллекция тем для клавиатуры",
+		"@_name": "keyboard_skin_special"
+	},
+	{
+		"#text": "Динамические обои",
+		"@_name": "live_paper"
+	},
+	{
+		"#text": "динамические обои",
+		"@_name": "livepaper"
+	},
+	{
+		"#text": "Подробнее о динамических обоях",
+		"@_name": "livepaper_detail"
+	},
+	{
+		"#text": "Динамические обои отсутствуют",
+		"@_name": "livepaper_not_exist"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Потяните для загрузки",
+		"@_name": "loading_more"
+	},
+	{
+		"#text": "Local",
+		"@_name": "local"
+	},
+	{
+		"#text": "Локально",
+		"@_name": "local_livepaper_title"
+	},
+	{
+		"#text": "Локально",
+		"@_name": "local_wallpaper"
+	},
+	{
+		"#text": "ОТКАЗАТЬСЯ",
+		"@_name": "location_reject_button"
+	},
+	{
+		"#text": "Запомнить предпочтения",
+		"@_name": "location_remember_preferences"
+	},
+	{
+		"#text": "необходимо использование данных о местоположении",
+		"@_name": "location_request_message"
+	},
+	{
+		"#text": "SHARE_LOCATION",
+		"@_name": "location_share_button"
+	},
+	{
+		"#text": "d MMM",
+		"@_name": "lock_month_day"
+	},
+	{
+		"#text": "Wallpaper changer auto-changes lockscreen wallpapers.",
+		"@_name": "lock_screen_poster_description"
+	},
+	{
+		"#text": "d.M.yyyy(EEE)",
+		"@_name": "lock_week"
+	},
+	{
+		"#text": "Показывать текст на экране блокировки",
+		"@_name": "lockscreen_show_text"
+	},
+	{
+		"#text": "Log Export",
+		"@_name": "log"
+	},
+	{
+		"#text": "Экспорт логов",
+		"@_name": "log_summary"
+	},
+	{
+		"#text": "Пожалуйста, авторизуйтесь перед применением",
+		"@_name": "login_before_applying"
+	},
+	{
+		"#text": "\"Don't miss the chance. Check it out！\"",
+		"@_name": "look_coupon"
+	},
+	{
+		"#text": "Посмотреть",
+		"@_name": "look_over"
+	},
+	{
+		"#text": "Совпадающая тема",
+		"@_name": "matched_theme"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Только что",
+		"@_name": "mc_pattern_just_now"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "mix_apply"
+	},
+	{
+		"#text": "Use mixed theme",
+		"@_name": "mix_apply_message"
+	},
+	{
+		"#text": "Ошибка применения смешанной темы",
+		"@_name": "mix_apply_message_error"
+	},
+	{
+		"#text": "Набиратель",
+		"@_name": "mix_dialer_item"
+	},
+	{
+		"#text": "Иконки",
+		"@_name": "mix_icon_item"
+	},
+	{
+		"#text": "Локскрин",
+		"@_name": "mix_lock_screen_item"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "mix_mms_item"
+	},
+	{
+		"#text": "Виджеты",
+		"@_name": "mix_plugin_item"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "mix_wallpaper_item"
+	},
+	{
+		"#text": "При первом использовании необходимо скачать несколько исходных фоновых рисунков. Это может потреблять ваши моб. данные (около 30 Мб).",
+		"@_name": "mobile_network_Tips"
+	},
+	{
+		"#text": "Не удалось выполнить запрос",
+		"@_name": "model_request_error"
+	},
+	{
+		"#text": "--",
+		"@_name": "module_count_def"
+	},
+	{
+		"#text": "Больше",
+		"@_name": "more"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Больше коллекций",
+		"@_name": "more_special"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "msg_loading"
+	},
+	{
+		"#text": "Select alarm",
+		"@_name": "multi_selection_alarm_clock_title"
+	},
+	{
+		"#text": "Выбрать доп. обои",
+		"@_name": "multi_selection_badge_title"
+	},
+	{
+		"#text": "Выбрать шрифт",
+		"@_name": "multi_selection_font_title"
+	},
+	{
+		"#text": "Выбрать тему клавиатуры",
+		"@_name": "multi_selection_keyboard_skin_title"
+	},
+	{
+		"#text": "Выбрать динамические обои",
+		"@_name": "multi_selection_live_paper_title"
+	},
+	{
+		"#text": "Выбрать обои",
+		"@_name": "multi_selection_pap_title"
+	},
+	{
+		"#text": "Выбрать рингтон",
+		"@_name": "multi_selection_ringtone_title"
+	},
+	{
+		"#text": "Выбрать тему",
+		"@_name": "multi_selection_theme_title"
+	},
+	{
+		"#text": "Цветные шрифты будут совместимы, если они используются в версии меньше чем Flyme 7.",
+		"@_name": "multicolor_font_blew_flyme7_tip"
+	},
+	{
+		"#text": "Me",
+		"@_name": "my"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "\"Установить сейчас\"",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "\"Установить позже\"",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Мои до. обои",
+		"@_name": "native_badge_title"
+	},
+	{
+		"#text": "Мои темы",
+		"@_name": "native_keyboard_skin_title"
+	},
+	{
+		"#text": "Мои обои",
+		"@_name": "native_pap_title"
+	},
+	{
+		"#text": "Мои рингтоны",
+		"@_name": "native_ring_title"
+	},
+	{
+		"#text": "Мои темы",
+		"@_name": "native_theme_title"
+	},
+	{
+		"#text": "Мои шрифты",
+		"@_name": "native_typeface_title"
+	},
+	{
+		"#text": "Ошибка сети. Пожалуйста, перезагрузите",
+		"@_name": "navigator_loading_exception_text"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "navigator_loading_text"
+	},
+	{
+		"#text": "Themes needs to be updated before you can use paid %s. Update Themes?",
+		"@_name": "need_update_apk_message"
+	},
+	{
+		"#text": "Ошибка сети, пожалуйста, повторите попытку позже.",
+		"@_name": "net_exception"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для перезагрузки",
+		"@_name": "network_error_to_refresh"
+	},
+	{
+		"#text": "Ошибка запроса",
+		"@_name": "networkRequestError"
+	},
+	{
+		"#text": "Без повтора",
+		"@_name": "never"
+	},
+	{
+		"#text": "Новая версия загружена, нажмите для установки",
+		"@_name": "newest_version_has_downloaded_click_to_install"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "next_step"
+	},
+	{
+		"#text": "No Alarms",
+		"@_name": "no_alarm_clock"
+	},
+	{
+		"#text": "Пусто",
+		"@_name": "no_collection"
+	},
+	{
+		"#text": "Пусто",
+		"@_name": "no_download_task"
+	},
+	{
+		"#text": "Не удалось выполнить запрос",
+		"@_name": "no_internet_error"
+	},
+	{
+		"#text": "Не рекомендуется использовать локальные динамические обои",
+		"@_name": "no_livepaper_tips"
+	},
+	{
+		"#text": "Нет сети, пожалуйста, проверьте настройки.",
+		"@_name": "no_network_to_setting"
+	},
+	{
+		"#text": "Нет данных",
+		"@_name": "no_record"
+	},
+	{
+		"#text": "Запретить отзывы",
+		"@_name": "not_allow_comment"
+	},
+	{
+		"#text": "Не на устройстве",
+		"@_name": "not_on_the_device"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "Примечание: Будут применены только иконки и обои, потому что дизайнер не обновил тему.",
+		"@_name": "old_sys_ver_theme_tip"
+	},
+	{
+		"#text": "Старая версия",
+		"@_name": "old_sys_version"
+	},
+	{
+		"#text": "Старая версия",
+		"@_name": "oldVersion"
+	},
+	{
+		"#text": "Theme Font Ringtone Wallpaper",
+		"@_name": "one_search_input_hint"
+	},
+	{
+		"#text": "Онлайн",
+		"@_name": "online"
+	},
+	{
+		"#text": "Устаревшая онлайн-версия шрифта",
+		"@_name": "online_font_old"
+	},
+	{
+		"#text": "Применено",
+		"@_name": "online_theme_applied"
+	},
+	{
+		"#text": "Применить",
+		"@_name": "online_theme_apply"
+	},
+	{
+		"#text": "Тема устарела",
+		"@_name": "online_theme_old"
+	},
+	{
+		"#text": "Купить",
+		"@_name": "online_theme_pay_content_description"
+	},
+	{
+		"#text": "Демо",
+		"@_name": "online_theme_trial"
+	},
+	{
+		"#text": "Аутентификация не прошла, запрашивается авторизация…",
+		"@_name": "online_theme_trial_check_license_fail"
+	},
+	{
+		"#text": "Вы можете продолжить использование только после после покупки",
+		"@_name": "online_theme_trial_dialog_msg"
+	},
+	{
+		"#text": "Демо завершено",
+		"@_name": "online_theme_trial_dialog_title"
+	},
+	{
+		"#text": "End",
+		"@_name": "online_theme_trial_end"
+	},
+	{
+		"#text": "Демо завершено",
+		"@_name": "online_theme_trial_end_notify_ticker"
+	},
+	{
+		"#text": "Вы можете продолжить использование только после после покупки",
+		"@_name": "online_theme_trial_notify_end_content"
+	},
+	{
+		"#text": "Демо для темы «%s» завершено",
+		"@_name": "online_theme_trial_notify_end_title"
+	},
+	{
+		"#text": "Демо",
+		"@_name": "online_theme_trial_now"
+	},
+	{
+		"#text": "Купить",
+		"@_name": "online_theme_trial_pay"
+	},
+	{
+		"#text": "Купить",
+		"@_name": "online_theme_trial_pay_now"
+	},
+	{
+		"#text": "Демо…",
+		"@_name": "online_theme_trial_start_notify_ticker"
+	},
+	{
+		"#text": "Демо заканчивается в %1$d:%2$02d",
+		"@_name": "online_theme_trial_trying_notify_content"
+	},
+	{
+		"#text": "Демо темы «%s»",
+		"@_name": "online_theme_trial_trying_notify_title"
+	},
+	{
+		"#text": "On Trial",
+		"@_name": "online_theme_trying_now"
+	},
+	{
+		"#text": "Тема больше не доступна",
+		"@_name": "online_theme_un_existed"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "open"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "open_app"
+	},
+	{
+		"#text": "Авторизация платежного сервиса",
+		"@_name": "open_pay_auto_pay_permission_title"
+	},
+	{
+		"#text": "Вы используете живые обои для экрана блокировки. Пожалуйста, замените их на обычные, прежде чем включить автоматическую смену обоев.",
+		"@_name": "open_varied_wallpaper_fail"
+	},
+	{
+		"#text": "Открыть в браузере",
+		"@_name": "open_with_browser"
+	},
+	{
+		"#text": "Illegal request, order incomplete",
+		"@_name": "orderInfoIncomplete"
+	},
+	{
+		"#text": "Установить для домашнего экрана",
+		"@_name": "origin_livepaper_set_wallpaper"
+	},
+	{
+		"#text": "Установить для экрана блокировки &amp; домашнего экрана",
+		"@_name": "origin_livepaper_set_wallpaper_and_lockpaper"
+	},
+	{
+		"#text": "Другие вопросы",
+		"@_name": "other_error"
+	},
+	{
+		"#text": "Featured Wallpapers",
+		"@_name": "pap_special"
+	},
+	{
+		"#text": "Видимость пароля",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Остановлено",
+		"@_name": "paused"
+	},
+	{
+		"#text": "Система занята, пожалуйста, попробуйте позже.",
+		"@_name": "pay_base_channel_access_server_error"
+	},
+	{
+		"#text": "Не удалось произвести оплату",
+		"@_name": "pay_base_channel_pay_fail"
+	},
+	{
+		"#text": "Оплата произведена успешно",
+		"@_name": "pay_base_channel_pay_success"
+	},
+	{
+		"#text": "Оплата не прошла, неизвестная ошибка",
+		"@_name": "pay_base_channel_pay_unknown_error"
+	},
+	{
+		"#text": "Не удалось произвести оплату",
+		"@_name": "pay_fail"
+	},
+	{
+		"#text": "Оплата произведена успешно",
+		"@_name": "pay_success"
+	},
+	{
+		"#text": "Оплата не прошла, неизвестная ошибка",
+		"@_name": "pay_unknown_error"
+	},
+	{
+		"#text": "Не удалось произвести оплату: %s",
+		"@_name": "payment_fail"
+	},
+	{
+		"#text": "Не удалось создать заказ. Пожалуйста, повторите попытку.",
+		"@_name": "payment_price_not_match"
+	},
+	{
+		"#text": "Не удалось приобрести специальное предложение. Пожалуйста, повторите попытку в следующий раз.",
+		"@_name": "payment_promotion_fail"
+	},
+	{
+		"#text": "Order unpaid",
+		"@_name": "payment_unpaid"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "permission_blutooth"
+	},
+	{
+		"#text": "Фото/видео",
+		"@_name": "permission_camera"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "permission_location"
+	},
+	{
+		"#text": "Оплата",
+		"@_name": "permission_pay"
+	},
+	{
+		"#text": "Датчик",
+		"@_name": "permission_sensor"
+	},
+	{
+		"#text": "Выбрать из галереи",
+		"@_name": "photo_select"
+	},
+	{
+		"#text": "Онлайн",
+		"@_name": "preview_action_online"
+	},
+	{
+		"#text": "Предварительный просмотр: «%s»",
+		"@_name": "previewing_theme"
+	},
+	{
+		"#text": "Потяните для обновления",
+		"@_name": "pull_to_refresh"
+	},
+	{
+		"#text": "Ошибка получения пути загрузки",
+		"@_name": "push_error"
+	},
+	{
+		"#text": "Получены темы по подписке",
+		"@_name": "push_notify_ticker_message"
+	},
+	{
+		"#text": "Рейтинг не соответствует",
+		"@_name": "rating_error"
+	},
+	{
+		"#text": "Восстановить",
+		"@_name": "recover"
+	},
+	{
+		"#text": "Когда тема применяется к различным версиям Flyme, возникает проблема совместимости.",
+		"@_name": "recover_to_system_theme_for_a_compatibility_problem"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "refresh"
+	},
+	{
+		"#text": "Темы разработчиков",
+		"@_name": "relative_theme"
+	},
+	{
+		"#text": "Перезагрузить",
+		"@_name": "reload"
+	},
+	{
+		"#text": "Не удалось сообщить о проблеме",
+		"@_name": "report_issue_error"
+	},
+	{
+		"#text": "Сообщить о проблеме",
+		"@_name": "report_title"
+	},
+	{
+		"#text": "Request too fast",
+		"@_name": "request_too_fast"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "res_error"
+	},
+	{
+		"#text": "Перезагрузка",
+		"@_name": "restart_now"
+	},
+	{
+		"#text": "Восстановление шрифта",
+		"@_name": "restore_font_title"
+	},
+	{
+		"#text": "Восстановление темы",
+		"@_name": "restore_theme_title"
+	},
+	{
+		"#text": "Восстановление темы: «%s»",
+		"@_name": "restore_to_last"
+	},
+	{
+		"#text": "Восстановление шрифта: «%s»",
+		"@_name": "restore_to_last_font"
+	},
+	{
+		"#text": "Восстановить системные тему",
+		"@_name": "restore_to_system"
+	},
+	{
+		"#text": "Восстановить системный шрифт",
+		"@_name": "restore_to_system_font"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "resume"
+	},
+	{
+		"#text": "Рингтоны",
+		"@_name": "ring"
+	},
+	{
+		"#text": "© Cool Ringtone",
+		"@_name": "ring_cp_kuyin"
+	},
+	{
+		"#text": "Загрузка рингтона",
+		"@_name": "ring_download_state_starting"
+	},
+	{
+		"#text": "© %s",
+		"@_name": "ring_tone_cp_source"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "ring_tone_list_setting"
+	},
+	{
+		"#text": "Воспроизвести",
+		"@_name": "ring_tone_play"
+	},
+	{
+		"#text": "Ошибка воспроизведения рингтона. Попробуйте позже.",
+		"@_name": "ring_tone_play_error"
+	},
+	{
+		"#text": "Воспроизведение с использованием мод. данные может повлечь доп. расходы.",
+		"@_name": "ring_tone_play_with_mobile_net"
+	},
+	{
+		"#text": "Ошибка установки мелодии будильника",
+		"@_name": "ring_tone_setting_alarm_clock_fail"
+	},
+	{
+		"#text": "Мелодия будильника установлена",
+		"@_name": "ring_tone_setting_alarm_clock_success"
+	},
+	{
+		"#text": "Ошибка установки рингтона",
+		"@_name": "ring_tone_setting_contact_fail"
+	},
+	{
+		"#text": "Рингтон добавлен для контакта",
+		"@_name": "ring_tone_setting_contact_success"
+	},
+	{
+		"#text": "Мелодия SMS установлена",
+		"@_name": "ring_tone_setting_msg_success"
+	},
+	{
+		"#text": "Установить рингтоны",
+		"@_name": "ring_tone_setting_phone_success"
+	},
+	{
+		"#text": "Избранные рингтоны",
+		"@_name": "ringtone_special"
+	},
+	{
+		"#text": "Баллы могут быть использованы для погашения купонов и участия в розыгрыше призов",
+		"@_name": "role_of_beautybean"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "save"
+	},
+	{
+		"#text": "Функция недоступна в текущем режиме",
+		"@_name": "save_power_mode"
+	},
+	{
+		"#text": "Все отзывы (%s)",
+		"@_name": "scan_comment_all"
+	},
+	{
+		"#text": "Отсканируйте QR-код для отладки Weex",
+		"@_name": "scan_qr"
+	},
+	{
+		"#text": "получен null в качестве токена авторизации: %s",
+		"@_name": "scope_null_token"
+	},
+	{
+		"#text": "USB-накопитель недоступен",
+		"@_name": "sdcard_unmount_update_theme"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search"
+	},
+	{
+		"#text": "Поиск шрифта",
+		"@_name": "search_font_hint"
+	},
+	{
+		"#text": "История",
+		"@_name": "search_history_label"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Поиск обоев",
+		"@_name": "search_pap_hint"
+	},
+	{
+		"#text": "Поиск рингтона",
+		"@_name": "search_ringtone_hint"
+	},
+	{
+		"#text": "Поиск темы",
+		"@_name": "search_theme_hint"
+	},
+	{
+		"#text": "Больше динамических обоев",
+		"@_name": "see_more_livepaper_text"
+	},
+	{
+		"#text": "Выбрать тему",
+		"@_name": "select_theme"
+	},
+	{
+		"#text": "\"Найдите свою любимую тему и стиль.\nОзнакомьтесь с темами Meizu для получения дополнительной информации.\"",
+		"@_name": "select_theme_description"
+	},
+	{
+		"#text": "This is a sensitive word",
+		"@_name": "sensitive_word"
+	},
+	{
+		"#text": "Server request failed",
+		"@_name": "server_request_error"
+	},
+	{
+		"#text": "Ошибка сервера, попробуйте позже",
+		"@_name": "service_exception"
+	},
+	{
+		"#text": "В качестве мелодии будильника",
+		"@_name": "set_alarm_clock_ring"
+	},
+	{
+		"#text": "Назначить контакту",
+		"@_name": "set_contacts_ring"
+	},
+	{
+		"#text": "Установить как рингтон",
+		"@_name": "set_customized_ring"
+	},
+	{
+		"#text": "Поднимите настроение звонящим",
+		"@_name": "set_customized_ring_sub"
+	},
+	{
+		"#text": "Установить в качестве мелодии звонка",
+		"@_name": "set_incoming_call_ring"
+	},
+	{
+		"#text": "Установить в качестве мелодии сообщения",
+		"@_name": "set_sms_ring"
+	},
+	{
+		"#text": "Ошибка применения темы",
+		"@_name": "set_theme_error"
+	},
+	{
+		"#text": "Ошибка применения обоев",
+		"@_name": "set_wallpaper_fal"
+	},
+	{
+		"#text": "Обои применены",
+		"@_name": "set_wallpaper_success"
+	},
+	{
+		"#text": "Ошибка, смарт обои не поддерживается",
+		"@_name": "set_wallpaper_unsupport"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "setting"
+	},
+	{
+		"#text": "Больше шрифтов",
+		"@_name": "setting_bottom_font_button_text"
+	},
+	{
+		"#text": "Больше тем",
+		"@_name": "setting_bottom_theme_button_text"
+	},
+	{
+		"#text": "Больше обоев",
+		"@_name": "setting_bottom_wallpaper_button_text"
+	},
+	{
+		"#text": "Применение",
+		"@_name": "setting_keyboard_skin"
+	},
+	{
+		"#text": "Применение",
+		"@_name": "setting_livepaper"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "setting_network"
+	},
+	{
+		"#text": "Шрифты онлайн",
+		"@_name": "setting_no_net_online_font_title"
+	},
+	{
+		"#text": "Темы онлайн",
+		"@_name": "setting_no_net_online_theme_title"
+	},
+	{
+		"#text": "Обои онлайн",
+		"@_name": "setting_no_net_online_wallpaper_title"
+	},
+	{
+		"#text": "Подключитесь к Интернету для получения более подробной информации",
+		"@_name": "setting_no_net_tips"
+	},
+	{
+		"#text": "Темам &amp; обоям необходим доступе к сети, местоположению, сообщениям и контактам.",
+		"@_name": "setting_permission_dialog_text"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "setting_show_all_data_title"
+	},
+	{
+		"#text": "Применение",
+		"@_name": "setting_theme"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "setup_error"
+	},
+	{
+		"#text": "Порнография или насилие",
+		"@_name": "sex_and_violence"
+	},
+	{
+		"#text": "Поделиться шрифтом",
+		"@_name": "share_font_action"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "share_to"
+	},
+	{
+		"#text": "\"I'm sharing \\\"%1$s\\\" from Meizu Themes %2$s\"",
+		"@_name": "shareMsg"
+	},
+	{
+		"#text": "Смарт тема",
+		"@_name": "sharetheme_action"
+	},
+	{
+		"#text": "Вход",
+		"@_name": "sign_in"
+	},
+	{
+		"#text": "Свайп вверх для разблокировки",
+		"@_name": "slide_unlock_screen"
+	},
+	{
+		"#text": "Смарт обои",
+		"@_name": "smart_wallpaper"
+	},
+	{
+		"#text": "Установить на домашний экран",
+		"@_name": "smart_wallpaper_apply_launcher"
+	},
+	{
+		"#text": "Установить на экран блокировки",
+		"@_name": "smart_wallpaper_apply_lock_screen"
+	},
+	{
+		"#text": "|",
+		"@_name": "smart_wallpaper_select_divider"
+	},
+	{
+		"#text": "Выберите тип",
+		"@_name": "smart_wallpaper_select_title"
+	},
+	{
+		"#text": "Встряхнуть для переключения обоев",
+		"@_name": "smart_wallpaper_shake"
+	},
+	{
+		"#text": "Настройка частоты смены обоев",
+		"@_name": "smart_wallpaper_switch_frequency"
+	},
+	{
+		"#text": "Смена обоев при пробуждении",
+		"@_name": "smart_wallpaper_switch_hit_screen"
+	},
+	{
+		"#text": "Обновление обоев только через Wi-Fi",
+		"@_name": "smart_wallpaper_wifi_update"
+	},
+	{
+		"#text": "Применение",
+		"@_name": "start_setting_font"
+	},
+	{
+		"#text": "Применение",
+		"@_name": "start_setting_theme"
+	},
+	{
+		"#text": "Запущено обновление",
+		"@_name": "start_update_incremental"
+	},
+	{
+		"#text": "Загрузка: %s",
+		"@_name": "starting_download_state"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Out of space",
+		"@_name": "storage_not_enough"
+	},
+	{
+		"#text": "Позже",
+		"@_name": "strong_font_dlg_btn_giveup"
+	},
+	{
+		"#text": "Перезагрузка",
+		"@_name": "strong_font_dlg_btn_restart"
+	},
+	{
+		"#text": "Для применения настройки необходима перезагрузка",
+		"@_name": "strong_font_dlg_title"
+	},
+	{
+		"#text": "Apply bold formatting to system font",
+		"@_name": "strong_font_summary"
+	},
+	{
+		"#text": "Bold system font",
+		"@_name": "strong_font_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "submit"
+	},
+	{
+		"#text": "Удалено",
+		"@_name": "suspended"
+	},
+	{
+		"#text": "\"Подключитесь к сети перед включением/выключением функции \\\"Получать push-уведомления\\\", иначе изменение не вступит в силу.\"",
+		"@_name": "switch_push_fail_dialog"
+	},
+	{
+		"#text": "sync get token time out",
+		"@_name": "sync_timeout"
+	},
+	{
+		"#text": "Классика",
+		"@_name": "system_keyboard_skin"
+	},
+	{
+		"#text": "com.meizu.theme.system",
+		"@_name": "system_theme"
+	},
+	{
+		"#text": "Классика",
+		"@_name": "system_theme_name"
+	},
+	{
+		"#text": "ошибка!",
+		"@_name": "task_error_message"
+	},
+	{
+		"#text": "успешно!",
+		"@_name": "task_finished_message"
+	},
+	{
+		"#text": "Темы",
+		"@_name": "theme"
+	},
+	{
+		"#text": "Тема &amp; обои",
+		"@_name": "theme_and_wallpaper"
+	},
+	{
+		"#text": "Отзывы",
+		"@_name": "theme_comment_description"
+	},
+	{
+		"#text": "О теме",
+		"@_name": "theme_description"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "theme_description_more"
+	},
+	{
+		"#text": "Загрузка невозможна, достигнут лимит",
+		"@_name": "theme_downloaded_times_exceeded_tip"
+	},
+	{
+		"#text": "История(%s)",
+		"@_name": "theme_history_item_prefix"
+	},
+	{
+		"#text": "Загрузка невозможна, достигнут лимит",
+		"@_name": "theme_history_max_free_download"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "theme_install_title"
+	},
+	{
+		"#text": "Theme Label",
+		"@_name": "theme_label"
+	},
+	{
+		"#text": "Загруженные",
+		"@_name": "theme_list_downloaded"
+	},
+	{
+		"#text": "Бесплатные",
+		"@_name": "theme_list_free"
+	},
+	{
+		"#text": "Старые",
+		"@_name": "theme_list_old"
+	},
+	{
+		"#text": "Купленные",
+		"@_name": "theme_list_paid"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "theme_list_update"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "theme_name_etc"
+	},
+	{
+		"#text": "Тема больше недоступна",
+		"@_name": "theme_online_un_existed"
+	},
+	{
+		"#text": "Закончить предпросмотр",
+		"@_name": "theme_preview_end"
+	},
+	{
+		"#text": "Предпросмотр завершен",
+		"@_name": "theme_preview_end_notify_ticker"
+	},
+	{
+		"#text": "Предпросмотр для «%s» завершен",
+		"@_name": "theme_preview_ended"
+	},
+	{
+		"#text": "Предпросмотр завершится: %1$d:%2$02d",
+		"@_name": "theme_preview_notify_content"
+	},
+	{
+		"#text": "Предпросмотр…",
+		"@_name": "theme_preview_start_notify_ticker"
+	},
+	{
+		"#text": "Сообщите о проблеме",
+		"@_name": "theme_report_problem"
+	},
+	{
+		"#text": "Поделиться",
+		"@_name": "theme_share"
+	},
+	{
+		"#text": "Специальные темы",
+		"@_name": "theme_special"
+	},
+	{
+		"#text": "Примечание: Тема удалена из магазина в связи с нарушением авторских прав или другими проблемами.",
+		"@_name": "theme_suspended_tip"
+	},
+	{
+		"#text": "Что нового",
+		"@_name": "theme_update_description"
+	},
+	{
+		"#text": "Каждые 30 м.",
+		"@_name": "three_minutes"
+	},
+	{
+		"#text": "Ускоритель",
+		"@_name": "time_acceleration"
+	},
+	{
+		"#text": "Ускорить %dx",
+		"@_name": "time_acceleration_summary"
+	},
+	{
+		"#text": "Дополнительные обои",
+		"@_name": "title_activity_export_badge"
+	},
+	{
+		"#text": "Шрифты",
+		"@_name": "title_activity_export_font"
+	},
+	{
+		"#text": "Динамические обои",
+		"@_name": "title_activity_export_live_paper"
+	},
+	{
+		"#text": "Темы",
+		"@_name": "title_activity_export_theme"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "title_activity_export_wallpaper"
+	},
+	{
+		"#text": "Купить",
+		"@_name": "to_exchange"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "to_open"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "toggle"
+	},
+	{
+		"#text": "Изменен",
+		"@_name": "toggle_success"
+	},
+	{
+		"#text": "uid не соответствует названию пакета",
+		"@_name": "uid_not_match"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "uncheck_all"
+	},
+	{
+		"#text": "Обнаружена неизвестная системная ошибка.",
+		"@_name": "unknown_error"
+	},
+	{
+		"#text": "неизвестная ошибка sdk",
+		"@_name": "unkown_error"
+	},
+	{
+		"#text": "Не поддерживается",
+		"@_name": "unsupport_current_version"
+	},
+	{
+		"#text": "слишком часто",
+		"@_name": "unsupport_operation"
+	},
+	{
+		"#text": "Не поддерживается в текущей версии системы. Пожалуйста, обновите систему и попробуйте еще раз",
+		"@_name": "unsupport_the_function_on_media_eval_system"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "update"
+	},
+	{
+		"#text": "Загружено \\\"%1$s\\\", из %2$s",
+		"@_name": "update_incremental_success_content_multiple"
+	},
+	{
+		"#text": "Загружено \\\"%1$s\\\", из %2$s",
+		"@_name": "update_incremental_success_content_single"
+	},
+	{
+		"#text": "Уведомление об обновлении (темы, обои, …)",
+		"@_name": "updateNotify"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "updating_prefix"
+	},
+	{
+		"#text": "Обновление темы",
+		"@_name": "updating_single_theme"
+	},
+	{
+		"#text": "Обновление тем %1$d/%2$d",
+		"@_name": "updating_theme"
+	},
+	{
+		"#text": "Использовать иконки в стиле Flyme",
+		"@_name": "use_flyme_icon_summary"
+	},
+	{
+		"#text": "Иконки Flyme",
+		"@_name": "use_flyme_icon_title"
+	},
+	{
+		"#text": "Стереть все данные приложения, включая файлы, настройки, учетные записи, базу данных и т.д.",
+		"@_name": "user_data_manager_message"
+	},
+	{
+		"#text": "Удалить данные приложения?",
+		"@_name": "user_data_manager_title"
+	},
+	{
+		"#text": "Другим пользователям нравится",
+		"@_name": "usr_install_theme"
+	},
+	{
+		"#text": "Купон действует до:",
+		"@_name": "valid_until"
+	},
+	{
+		"#text": "Укажите корректно время в системе",
+		"@_name": "verify_error_for_system_time_accurate"
+	},
+	{
+		"#text": "Версия:",
+		"@_name": "version"
+	},
+	{
+		"#text": "Нарушение или плагиат",
+		"@_name": "version_error"
+	},
+	{
+		"#text": "Несовместимая версия",
+		"@_name": "version_incompatibility"
+	},
+	{
+		"#text": "Подождите",
+		"@_name": "WaitTip"
+	},
+	{
+		"#text": "Подождите",
+		"@_name": "waitTip"
+	},
+	{
+		"#text": "Обои",
+		"@_name": "wallpaper"
+	},
+	{
+		"#text": "Размытие",
+		"@_name": "wallpaper_blur"
+	},
+	{
+		"#text": "Оба",
+		"@_name": "wallpaper_both"
+	},
+	{
+		"#text": "Источник обоев",
+		"@_name": "wallpaper_come_from"
+	},
+	{
+		"#text": "Домашний экран",
+		"@_name": "wallpaper_launcher"
+	},
+	{
+		"#text": "Экран блокировки",
+		"@_name": "wallpaper_lock"
+	},
+	{
+		"#text": "Предпросмотр",
+		"@_name": "wallpaper_preview"
+	},
+	{
+		"#text": "Сохранить",
+		"@_name": "wallpaper_save"
+	},
+	{
+		"#text": "Частота смены обоев",
+		"@_name": "wallpaper_update_frequency"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "web_extra_loading"
+	},
+	{
+		"#text": "Ошибка, нажмите для перезагрузки",
+		"@_name": "web_extra_need_reload"
+	},
+	{
+		"#text": "Нет подключения к интернету",
+		"@_name": "web_extra_no_network"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "weekend"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "weixin"
+	},
+	{
+		"#text": "WeChat не отвечает",
+		"@_name": "weixin_unknown_error"
+	},
+	{
+		"#text": "Загрузка апплета %s",
+		"@_name": "welcome_loading_text"
+	},
+	{
+		"#text": "Вы просмотрели эту версию",
+		"@_name": "you_have_been_commented"
+	},
+	{
+		"#text": "￥",
+		"@_name": "yuan"
+	},
+	{
+		"#text": "%.2f",
+		"@_name": "yuan_number"
+	},
+	{
+		"#text": "￥%.2f",
+		"@_name": "yuan_tag"
+	},
+	{
+		"#text": "Сканер штрих-кодов",
+		"@_name": "zxing_app_name"
+	},
+	{
+		"#text": "OK",
+		"@_name": "zxing_button_ok"
+	},
+	{
+		"#text": "К сожалению, возникла ошибка камеры. Может потребоваться перезагрузить устройство.",
+		"@_name": "zxing_msg_camera_framework_bug"
+	},
+	{
+		"#text": "Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.",
+		"@_name": "zxing_msg_default_status"
+	}
+]

@@ -1,0 +1,186 @@
+[
+	{
+		"#text": "Камера выключена",
+		"@_name": "camer_close"
+	},
+	{
+		"#text": "Нет данных предпросмотра",
+		"@_name": "camer_perview_nodata"
+	},
+	{
+		"#text": "Время сканирования истекло. Попробуй снова",
+		"@_name": "camer_perview_timeout"
+	},
+	{
+		"#text": "Не удалось запустить камеру",
+		"@_name": "camer_start_error"
+	},
+	{
+		"#text": "Камера успешно запущена",
+		"@_name": "camer_start_scuccess"
+	},
+	{
+		"#text": "Запуск камеры",
+		"@_name": "camer_start_starting"
+	},
+	{
+		"#text": "Распознавание лица было отключено. Пожалуйста, используйте пароль или отпечаток пальца для разблокировки",
+		"@_name": "face_compare_liveness_frozen"
+	},
+	{
+		"#text": "Распознавание выполнено",
+		"@_name": "face_compare_scuccess"
+	},
+	{
+		"#text": "Пожалуйста, не загораживайте рот",
+		"@_name": "face_failed_attr_cover_mouth"
+	},
+	{
+		"#text": "Пожалуйста, не закрывайте глаза",
+		"@_name": "face_failed_attr_eye_close"
+	},
+	{
+		"#text": "Глаза были скрыты",
+		"@_name": "face_failed_attr_eye_occlusion"
+	},
+	{
+		"#text": "Лицо было закрыто",
+		"@_name": "face_failed_attr_face_occlusion"
+	},
+	{
+		"#text": "Рот был скрыт",
+		"@_name": "face_failed_attr_mouth_occlusion"
+	},
+	{
+		"#text": "The face is not in the specified box",
+		"@_name": "face_failed_attr_not_in_roi"
+	},
+	{
+		"#text": "Нужно больше света",
+		"@_name": "face_failed_bad_light"
+	},
+	{
+		"#text": "Не двигайтесь слишком быстро",
+		"@_name": "face_failed_blur"
+	},
+	{
+		"#text": "Изображение слишком размыто",
+		"@_name": "face_failed_camera_attr_blur"
+	},
+	{
+		"#text": "Пожалуйста, не двигайтесь",
+		"@_name": "face_failed_camera_steady"
+	},
+	{
+		"#text": "Слишком темно",
+		"@_name": "face_failed_darklight_warning"
+	},
+	{
+		"#text": "Слишком темно",
+		"@_name": "face_failed_half_shadow"
+	},
+	{
+		"#text": "Слишком ярко",
+		"@_name": "face_failed_highlight_warning"
+	},
+	{
+		"#text": "Ошибка входящего параметра",
+		"@_name": "face_failed_invalid_argument"
+	},
+	{
+		"#text": "Несколько лиц",
+		"@_name": "face_failed_multi"
+	},
+	{
+		"#text": "Сканирование лица не завершено",
+		"@_name": "face_failed_not_complete"
+	},
+	{
+		"#text": "Лицо не обнаружено",
+		"@_name": "face_failed_not_found"
+	},
+	{
+		"#text": "Опустите лицо вниз",
+		"@_name": "face_failed_offset_bottom"
+	},
+	{
+		"#text": "Поверните лицо влево",
+		"@_name": "face_failed_offset_left"
+	},
+	{
+		"#text": "Поверните лицо вправо",
+		"@_name": "face_failed_offset_right"
+	},
+	{
+		"#text": "Поднимите лицо вверх",
+		"@_name": "face_failed_offset_top"
+	},
+	{
+		"#text": "Не найдено полностью открытое лицо",
+		"@_name": "face_failed_quality"
+	},
+	{
+		"#text": "Наклон лица: вниз",
+		"@_name": "face_failed_rotated_down"
+	},
+	{
+		"#text": "Наклон лица: влево",
+		"@_name": "face_failed_rotated_left"
+	},
+	{
+		"#text": "Наклон лица: вправо",
+		"@_name": "face_failed_rotated_right"
+	},
+	{
+		"#text": "Наклон лица: вверх",
+		"@_name": "face_failed_rotated_top"
+	},
+	{
+		"#text": "Держите телефон дальше",
+		"@_name": "face_failed_scale_too_large"
+	},
+	{
+		"#text": "Держите телефон ближе",
+		"@_name": "face_failed_scale_too_small"
+	},
+	{
+		"#text": "Внутренняя ошибка провайдера",
+		"@_name": "face_failed_supplier_failed"
+	},
+	{
+		"#text": "Проверка",
+		"@_name": "face_failed_warning"
+	},
+	{
+		"#text": "Лицо не обнаружено",
+		"@_name": "face_liveness_failed"
+	},
+	{
+		"#text": "Живая атака",
+		"@_name": "face_liveness_warning"
+	},
+	{
+		"#text": "Лицо",
+		"@_name": "face_name_template"
+	},
+	{
+		"#text": "Не то лицо, повторите попытку",
+		"@_name": "face_not_sample_person_error"
+	},
+	{
+		"#text": "Прогресс: %1$d%%",
+		"@_name": "face_savefeature_progress"
+	},
+	{
+		"#text": "Держите лицо прямо перед экраном для разблокировки",
+		"@_name": "face_savefeature_scuccess"
+	},
+	{
+		"#text": "Полностью расположите лицо в рамке",
+		"@_name": "face_savefeature_update"
+	},
+	{
+		"#text": "Приложение сможет использовать встроенный датчик отпечатков пальцев для регистрации пользователей и их аутентификации.",
+		"@_name": "permdesc_ACCESS_FINGERPRINT_MANAGER"
+	}
+]

@@ -1,0 +1,2197 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "abc_action_bar_home_description_format"
+	},
+	{
+		"#text": "%1$s, %2$s, %3$s",
+		"@_name": "abc_action_bar_home_subtitle_description_format"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Помощник Wi-Fi",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "free_wifi_advertise"
+	},
+	{
+		"#text": "Апелляция возможна только для подключенной в настоящее время сети Wi-Fi",
+		"@_name": "free_wifi_appeal"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "free_wifi_appeal_btn"
+	},
+	{
+		"#text": "Причина апелляции",
+		"@_name": "free_wifi_appeal_reson"
+	},
+	{
+		"#text": "Отправлено успешно. Платформа будет обрабатывать ASAP",
+		"@_name": "free_wifi_appeal_success"
+	},
+	{
+		"#text": "Заявка на отмену аутентификации в свободных сетях",
+		"@_name": "free_wifi_appeal_summary"
+	},
+	{
+		"#text": "Апелляция",
+		"@_name": "free_wifi_appeal_title"
+	},
+	{
+		"#text": "Апелляция",
+		"@_name": "free_wifi_applean_menu"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "free_wifi_auth_btn"
+	},
+	{
+		"#text": "Только подключенная в настоящее время сеть Wi-Fi может быть аутентифицирована",
+		"@_name": "free_wifi_authen"
+	},
+	{
+		"#text": "Поделиться бесплатными сетями с платформой сертификации Meizu",
+		"@_name": "free_wifi_authen_summary"
+	},
+	{
+		"#text": "Аутентификация Wi-Fi",
+		"@_name": "free_wifi_authen_title"
+	},
+	{
+		"#text": "Другие",
+		"@_name": "free_wifi_category_other"
+	},
+	{
+		"#text": "Забронировать",
+		"@_name": "free_wifi_connect_book"
+	},
+	{
+		"#text": "Нажмите для подключения",
+		"@_name": "free_wifi_connect_immediate"
+	},
+	{
+		"#text": "Информация для хранения",
+		"@_name": "free_wifi_description_title"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "free_wifi_detail"
+	},
+	{
+		"#text": "На расстоянии: %dкм",
+		"@_name": "free_wifi_distance_km"
+	},
+	{
+		"#text": "На расстояниии: %dм.",
+		"@_name": "free_wifi_distance_meter"
+	},
+	{
+		"#text": "Показывать бесплатные безопасные сети Wi-Fi поблизости",
+		"@_name": "free_wifi_enabler_summary"
+	},
+	{
+		"#text": "Бесплатные безопасные сети",
+		"@_name": "free_wifi_enabler_title"
+	},
+	{
+		"#text": "Информация о сети",
+		"@_name": "free_wifi_info_menu"
+	},
+	{
+		"#text": "Больше(%d)",
+		"@_name": "free_wifi_list_more"
+	},
+	{
+		"#text": "Ошибка аутентификации сети",
+		"@_name": "free_wifi_login_failed"
+	},
+	{
+		"#text": "Аутентификация сети…",
+		"@_name": "free_wifi_logining"
+	},
+	{
+		"#text": "Обязательно",
+		"@_name": "free_wifi_must"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "free_wifi_name"
+	},
+	{
+		"#text": "Ближайший сервис",
+		"@_name": "free_wifi_near_title"
+	},
+	{
+		"#text": "Рядом",
+		"@_name": "free_wifi_nearby"
+	},
+	{
+		"#text": "Больше",
+		"@_name": "free_wifi_nearby_more"
+	},
+	{
+		"#text": "Рекомендовать",
+		"@_name": "free_wifi_nearby_title"
+	},
+	{
+		"#text": "Уведомлять о наличии бесплатной защищенной сети Wi-Fi",
+		"@_name": "free_wifi_notify_summary"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "free_wifi_notify_title"
+	},
+	{
+		"#text": "Не обязательно",
+		"@_name": "free_wifi_optional"
+	},
+	{
+		"#text": "Пароль",
+		"@_name": "free_wifi_password"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "free_wifi_phone"
+	},
+	{
+		"#text": "Free Secure Wi-Fi Service (hereinafter referred to as “Service”) is a service developed by Zhuhai Meizu Technology Co., Ltd. (hereinafter referred to as “Meizu”, “we”, “us”, or “our”). To use this Service, you shall read and comply with this Free Secure Wi-Fi User Agreement (hereinafter referred to as “Agreement”). Please read these terms and conditions carefully and make sure that you fully understand all of them. If you do not agree to or cannot understand any of these terms and conditions, please do not proceed further.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>1. About This Service&lt;/font>&lt;br/> &lt;br/> 1.1 Service contents&lt;br/> This Service means the service and license of Wi-Fi Assist, Wi-Fi Security Scan, Free Secure Wi-Fi and other functions provided to users by Meizu and installed on mobile phones. &lt;br/> &lt;br/> 1.2 Service license scope&lt;br/> 1.2.1 Meizu hereby grants to you a personal, non-transferable, and non-exclusive license to use this Service. You may use, display, and operate this Service on a single terminal device for non-commercial purposes.&lt;br/> &lt;br/> 1.2.2 All other rights not explicitly authorized in this article or the other provisions of this Agreement are reserved by Meizu. You shall obtain an additional written consent from Meizu prior to exercising such rights. Provided that Meizu does not exercise any of the aforesaid rights, this shall not constitute a waiver of such rights.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium> 2. Service Update&lt;/font>&lt;br/> &lt;br/> 2.1 In order to improve user experience and service contents, Meizu will make continuous efforts to develop new services and provide Service updates for you from time to time. (Such updates may take various forms, including service replacement, modification, functionality enhancement, version update, and others.)&lt;br/> &lt;br/> 2.2 To optimize user experience and ensure service security and functional consistency, Meizu has the right to update this Service or partially alter or restrict the functionality of this Service without special notice.&lt;br/> &lt;br/> 2.3 After an update for this Service is released, earlier versions may cease to function properly. Meizu does not guarantee the continued availability of earlier versions of this Service or relevant customer service.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>3. Users’ Personal Data&lt;/font>&lt;br/> &lt;br/> 3.1 The protection of users’ personal data is a fundamental principle for Meizu. Meizu will take rational measures to safeguard users’ personal data, and will not disclose or reveal any user’s personal data to any third party without the user’s permission, except in the cases and under the conditions provided by law. Meizu will utilize professional encryption methods to store and transfer relevant information so as to ensure the security of users’ personal data.&lt;br/> &lt;br/> 3.2 Meizu will employ various security technologies and programs to establish a sound management system for protecting your personal data and preventing unauthorized access, use, or disclosure.&lt;br/> &lt;br/> 3.3 During your use of this Service, it may need to use some necessary information. For example, to help you find available Wi-Fi networks that may exist nearby, this Service may identify your geographic location, analyze the Wi-Fi network list screenshot in the system, or read the Wi-Fi networks detected by your mobile device; when you start a speed test, this Service will identify your network carrier and read your network speed; to perform Wi-Fi security scan, this Service will read the detailed information about the Wi-Fi network you are connected to, such as its IP address.&lt;br/> &lt;br/> In cases specifically provided for in national laws, regulations, or policies, you may need to provide your real identity information. If you do not provide such information, or the information you provide is not complete, you will be unable to use this Service, or your use of this Service will be restricted.&lt;br/> &lt;br/> 3.4 In general, you may view or edit the information you submitted at any time, but for security and identity recognition (such as for account recovery) reasons, you may be unable to modify the initial registration information you provided for signup and other verification information.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>4. Principal Rights and Obligations&lt;/font>&lt;br/> &lt;br/> 4.1 User considerations&lt;br/> 4.1.1 You hereby understand and agree that to serve you more effectively, this Service may utilize your mobile phone’s processor, network connection and other resources. Using this Service may lead to cellular data charges, for which you need to consult your carrier on rates and policies and bear all related expenses on your own.&lt;br/> &lt;br/> 4.1.2 You understand and agree that: some functions of this Service may make users’ information known to third parties. For instance, when you share your speed test result, other users may get to know your carrier, network speed and other relevant information.&lt;br/> &lt;br/> 4.1.3 When you use a specific function of this Service, the function may have a separate agreement or relevant terms of service (hereinafter referred to as “Separate Agreement”). Please read and agree to the Separate Agreement prior to using the function.&lt;br/> &lt;br/> 4.1.4 You understand and agree that Meizu will use commercially reasonable endeavors to ensure the security of you and your data storage in this Service. However, Meizu does not provide any absolute guarantee hereof, including but not limited to the following circumstances:&lt;br/> &lt;br/> 4.1.4.1 Meizu shall not be responsible for any deletion or storage failure of related data during your use of this Service.&lt;br/> &lt;br/> 4.1.4.2 Meizu has the right, in its sole discretion, to determine the maximum storage period of a single user’s data in this Service and allocate maximum storage space for such data on the server based on the actual circumstances. You may back up this Service and the related data in this Service by yourself and based on your own needs.&lt;br/> &lt;br/> 4.1.4.3 If you cease to use this Service or this Service is terminated or canceled, Meizu has the right to permanently delete your data from the server. When this Service is ended, terminated, or canceled, Meizu is not obliged to return any data to you.&lt;br/> &lt;br/> 4.1.5 You fully understand and agree that you shall be solely responsible for all of your behavior outside the scope of this Agreement and all exceptions caused by force majeure factors. You shall make your own judgment about the contents of this Service, and solely bear all risks arising from contents beyond Meizu’s control, including but not limited to:&lt;br/> &lt;br/> 4.1.5.1 Possible loss or disclosure of personal data incurred by force majeure factors;&lt;br/> &lt;br/> 4.1.5.2 Possible risks caused by a third-party product and/or relevant content when you visit the third-party product using this Service;&lt;br/> &lt;br/> 4.1.5.3 Possible risks or liabilities caused by transmission of user-published content when such content is reposted or shared by others.&lt;br/> &lt;br/> 4.1.5.4 Login failure, incomplete data synchronization, slow page loading, and other issues caused by unstable WLAN connection, low WLAN bandwidth, or other reasons.&lt;br/> &lt;br/> 4.1.6 You fully understand and agree that this Service offers WLAN connection assistance and management services, and that all the information about the WLAN networks this Service helps users connect to is provided by Meizu’s business partners. For greater user experience, Meizu will endeavor to improve the effect of WLAN connection assistance, but does not provide any absolute guarantee thereof due to technical conditions and other restrictions. The information about the WLAN networks recognized by this Service is for users’ reference only. Meizu does not undertake any legal responsibility for the authenticity, accuracy, effectiveness, or security of such WLAN networks. Provided that any organization or individual thinks a WLAN recognition result is incorrect, please directly inform Meizu and provide proof of ownership, a situation statement, and other verification materials for us to handle pursuant to the law.&lt;br/> &lt;br/> 4.2 Third-party products and services&lt;br/> 4.2.1 When you use products or services provided by third parties in this Service, you shall also comply with such third parties’ terms of use apart from this Agreement. In the event of any possible dispute arising therefrom, Meizu and the third parties shall assume their respective responsibilities within the scope stipulated by law and as agreed.&lt;br/> &lt;br/> 4.2.2 When you use this Service or require Meizu to provide specific service, this Service may call a third-party system or support your use or access through a third party. In such cases, the results you use or access are provided by the third-party, and Meizu makes no warranties as to the security, accuracy, or effectiveness of any service or content provided by the third party or the outcome of its support. Neither does Meizu guarantee that there are no other uncertain risks therein. Meizu is irrelevant to and undertakes no responsibilities for any dispute or damage arising therefrom.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>5. User Code of Conduct&lt;/font>&lt;br/> &lt;br/> 5.1 Regulations on information content&lt;br/> You agree that when using this Service, you will not engage in any improper act, including but not limited to the following:&lt;br/> &lt;br/> 5.1.1 Publishing, sending, transmitting, or storing any content that violates national laws, endangers national security and unity, harms social stability, offends public order, decency or morality, or is abusive, defamatory, obscene, or violent;&lt;br/> &lt;br/> 5.1.2 Publishing, sending, transmitting, or storing any content that infringes the rights of reputation, publicity or intellectual property, trade secrets, or any other lawful right of others.&lt;br/> &lt;br/> 5.1.3 Fabricating lies or hiding the truth to mislead or deceive others;&lt;br/> &lt;br/> 5.1.4 Publishing, sending, or transmitting spam or advertising messages;&lt;br/> &lt;br/> 5.1.5 Engaging in any other act that is against laws, regulations, policies, public order and decency, or social morality.&lt;br/> &lt;br/> 5.2 Service use regulations&lt;br/> Unless otherwise allowed by law or with written permission from Meizu, you shall not engage in any of the following acts:&lt;br/> &lt;br/> 5.2.1 Deleting the information about copyright on this Service or its copies;&lt;br/> &lt;br/> 5.2.2 Decompiling, reverse engineering, or disassembling this Service, or attempting to find the source code of this Service in any other method;&lt;br/> &lt;br/> 5.2.3 Using, leasing, lending, copying, modifying, linking, reposting, compiling, posting, publishing, or creating mirror sites of any content to which Meizu owns intellectual property rights;&lt;br/> &lt;br/> 5.2.4 Copying, modifying, adding, deleting, running a bot on, or creating any derivative work based on this Service, the data released into any terminal memory or the interaction data between the client and the server during the running of this Service, or the system data required for this Service to run, in any form, including but not limited to accessing this Service or a related systems using plugins, bots, or third-party tools or services that haven’t been authorized by Meizu.&lt;br/> &lt;br/> 5.2.5 Adding, reducing, or altering the functions or running performance of this Service by modifying or forging the commands or data during the running of this Service, or operating or publicizing services or methods that can be utilized for the aforesaid uses, whether such acts are for commercial purposes or not.&lt;br/> &lt;br/> 5.2.6 Logging in to or using this Service through any third-party service, plugin, bot, or system that is neither developed nor authorized by Meizu, or making, publishing, or transmitting such tools;&lt;br/> &lt;br/> 5.2.7 Interfering with this Service or its components, modules, or data, or authorizing another person or a third party to do so;&lt;br/> &lt;br/> 5.2.8 Any other conduct that has not been explicitly authorized by Meizu;&lt;br/> &lt;br/> 5.2.9 Any other act that violates laws, regulations, or policies.&lt;br/> &lt;br/> 5.3 Responsibility for your acts&lt;br/> You fully understand and agree that you shall take responsibility for all of your acts when using this Service. Meizu makes no warranties as to the security, correctness, timeliness, integrity, or practicability of any query result during your use of this Service. You shall make your own judgment about the content or query results in this Service during your use, and bear all risks caused by using such content and/or query results. Meizu cannot and shall not be liable for any loss or damage incurred by such risks.&lt;br/> &lt;br/> 5.4 Breach of agreement&lt;br/> 5.4.1 You understand and agree that Meizu has the right, according to reasonable judgments, to penalize violations of applicable laws and regulations or the provisions in this Agreement, take appropriate legal actions against any breaching user, and keep related information and report such information to relevant authorities in compliance with laws and regulations. All legal responsibilities arising therefrom shall be solely borne by the breaching user.&lt;br/> &lt;br/> 5.4.2 You understand and agree that you shall be solely liable for any indemnity, demand, or damage claimed by a third party that is caused by or results from your breach of this Agreement or relevant terms of service, and shall indemnify Meizu for all loss incurred thereby.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>6. Intellectual Property Rights Statement&lt;/font>&lt;br/> &lt;br/> 6.1 Meizu is the intellectual property rights holder of this Service. All copyrights, trademarks, patents, trade secrets, and other intellectual property rights for this Service, as well as all information contents (including but not limited to texts, images, audio, video, diagrams, UI designs, layout frameworks, relevant data, and electronic documents) related to this Service are protected by the laws and regulations of the People’s Republic of China and relevant international treaties. Meizu owns all the aforesaid intellectual property rights, except the rights belonging to relevant right holders in accordance with the law.&lt;br/> &lt;br/> 6.2 Without written permission from Meizu or relevant right holders, you shall not practice, utilize, or transfer the aforesaid intellectual property rights or allow any third party to do so for any commercial or non-commercial purpose.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>7. Terminal Security Responsibility&lt;/font>&lt;br/> &lt;br/> 7.1 You understand and agree that, like most internet-based services, this Service may be impacted by various factors (including but not limited to user factors, network service quality, and social environment), and disturbed by diversified security issues (including but not limited to: real-life harassment by others that illegally utilize user data; and viruses, Trojan horse programs, or other malware possibly contained in other services you download or install or other website you visit, which may threaten the security of your mobile terminal device and your data, and influence the proper functioning of this Service). Therefore, you should enhance your awareness of information security and personal data protection and mind your password safety, so as to prevent potential loss or damages.&lt;br/> &lt;br/> 7.2 You shall not make, publish, use, or transmit any malware for stealing others’ personal data or property.&lt;br/> &lt;br/> 7.3 It’s a shared responsibility for you and Meizu to maintain the security and proper functioning of this Service. Meizu will take necessary technical measures rationally and prudently according to industrial standards to protect the information and data of your mobile terminal device, yet you acknowledge and agree that Meizu cannot make any warranties thereto.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>8. Third-Party Services or Technologies&lt;/font>&lt;br/> &lt;br/> 8.1 This Service may use third-party services or technologies (including open-source code and public-domain code this Service may use; similarly hereinafter). Such uses have been lawfully authorized.&lt;br/> &lt;br/> 8.2 Provided that this Service uses third-party services or technologies, Meizu will, in accordance with relevant laws and regulations or as agreed, display related agreements or other documents, possibly by annexing them to this Agreement, packaging them into the installation file of this Service in a specific folder, or taking other methods. They may be expressed in the form of “Terms of Service”, “Authorization Agreement”, or “Open-source Code License”, among others. All the aforesaid related agreements or other documents displayed in various forms are an integral part of and have the same legal effect as this Agreement. You shall comply with all such requirements; otherwise, the relevant third party or the supervising authority may bring proceedings, impose fines, or take other sanctions against you, and may demand Meizu to provide assistance. In such cases, you shall solely assume all legal responsibilities.&lt;br/> &lt;br/> 8.3 Any dispute arising from a third-party service or technology used by this Service shall be settled by the third party, and Meizu shall not bear any liability. Meizu does not provide customer service regarding any third-party service or technology. Please contact the third party if you need support.&lt;br/> &lt;br/> &lt;font face=sans-serif-medium>9. Other Articles&lt;/font>&lt;br/> &lt;br/> 9.1 Once you use this Service, it will be deemed that you have read and agree to be bound by this Agreement. Meizu has the right to amend this Agreement when necessary. You can view the provisions of this Agreement in the latest version of this Service. When articles of this Agreement are amended, by continuing using this Service you accept the amended Agreement. Provided that you do not accept the amended Agreement, you shall stop using this Service immediately.&lt;br/> &lt;br/> 9.2 The conclusion, effectiveness, performance, and interpretation of this Agreement and the settlement of disputes are governed by the laws of the mainland of the People’s Republic of China (without regards to its conflicts of law provisions).&lt;br/> &lt;br/> 9.3 Any dispute or controversy between you and Meizu shall be settled through friendly consultations. In case such consultations fail, you agree that the dispute or controversy can be submitted to the court in the area where Meizu is located for settlement.&lt;br/> &lt;br/> 9.4 Article headings in this Agreement are included for convenience only and shall not be used in construing or interpreting this Agreement.&lt;br/> &lt;br/> 9.5 If any part of this Agreement is held to be invalid or unenforceable for any reason, the remainder of this Agreement shall remain in full force and bind upon both parties. (THE END)&lt;br/> &lt;br/> &lt;br/> ©2017 Meizu&lt;br/>",
+		"@_name": "free_wifi_protocol_content"
+	},
+	{
+		"#text": "Рекомендовать",
+		"@_name": "free_wifi_recommend"
+	},
+	{
+		"#text": "Магазин",
+		"@_name": "free_wifi_shop"
+	},
+	{
+		"#text": "Купон",
+		"@_name": "free_wifi_shop_coupon"
+	},
+	{
+		"#text": "Текущий магазин",
+		"@_name": "free_wifi_shop_current"
+	},
+	{
+		"#text": "Рекомендовать",
+		"@_name": "free_wifi_shop_recommend"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "free_wifi_upgrade_button_text"
+	},
+	{
+		"#text": "Обновление требует установки Tencent WiFi Manager для поиска бесплатных безопасных сетей.",
+		"@_name": "free_wifi_upgrade_notice"
+	},
+	{
+		"#text": "Предоставляется Tencent WiFi Manager",
+		"@_name": "free_wifi_upgrade_summary"
+	},
+	{
+		"#text": "Больше бесплатных сетей",
+		"@_name": "free_wifi_upgrade_title"
+	},
+	{
+		"#text": "Бесплатные безопасные Wi-Fi сети являются защищенными и надежными",
+		"@_name": "free_wifi_user_notice"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "free_wifi_zone_change"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "free_wifi_zone_none"
+	},
+	{
+		"#text": "Юольше",
+		"@_name": "free_wifi_zone_service"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "go_to_network_settings"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для перезагрузки",
+		"@_name": "internet_error_tap_to_reload"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "loading"
+	},
+	{
+		"#text": "Pull up to load",
+		"@_name": "loading_more"
+	},
+	{
+		"#text": "Map is not installed",
+		"@_name": "map_none_installed"
+	},
+	{
+		"#text": "Select map",
+		"@_name": "map_select_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дн. спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дн. назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "menu_stats_refresh"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "\" Запрос следующих разрешений\"",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Загрузить",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s V%s загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Размер: %s",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить и обновить",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить эту версию",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии V%s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Использовать для загрузки мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s V%s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s V%s версия",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Небезопасная сеть",
+		"@_name": "na_detect_result_dangerous"
+	},
+	{
+		"#text": "Без шифрования",
+		"@_name": "na_detect_result_risk"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "na_detect_result_safe"
+	},
+	{
+		"#text": "Нет данных о безопасности сети. Используйте с осторожностью.",
+		"@_name": "na_detect_result_unknown"
+	},
+	{
+		"#text": "Сеть в порядке",
+		"@_name": "na_diagn_tip_diagnose_success"
+	},
+	{
+		"#text": "Ошибка разбора DNS, повторите попытку позже",
+		"@_name": "na_diagn_tip_dns_resolve_fail"
+	},
+	{
+		"#text": "Медленный разбор DNS, повторите попытку позже",
+		"@_name": "na_diagn_tip_dns_resolve_slow"
+	},
+	{
+		"#text": "Сетевые помехи. Попробуйте изменить канал или переместите маршрутизатор.",
+		"@_name": "na_diagn_tip_interfere"
+	},
+	{
+		"#text": "Невозможно получить доступ к Интернету. Проверьте настройки или перезагрузите маршрутизатор.",
+		"@_name": "na_diagn_tip_internet_error"
+	},
+	{
+		"#text": "Нет доступа к Интернету. Проверьте подключение к сети.",
+		"@_name": "na_diagn_tip_need_to_login"
+	},
+	{
+		"#text": "Задержка ответа маршрутизатора, попробуйте позже",
+		"@_name": "na_diagn_tip_net_connect_slow"
+	},
+	{
+		"#text": "Маршрутизатор перегружен. Попробуйте изменить точку доступа или отключить ненужные устройства.",
+		"@_name": "na_diagn_tip_router_load_high"
+	},
+	{
+		"#text": "Слабый сигнал сети, переместите маршрутизатор",
+		"@_name": "na_diagn_tip_signal_weak"
+	},
+	{
+		"#text": "Задержка ответа маршрутизатора. Проверьте состояние маршрутизатора и нагрузку на сеть",
+		"@_name": "na_diagn_tip_slow_response"
+	},
+	{
+		"#text": "Неправильные DNS или IP телефона, пожалуйста, перенастройте",
+		"@_name": "na_diagn_tip_wifi_config_error"
+	},
+	{
+		"#text": "Нет результатов",
+		"@_name": "no_record"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "process_finished"
+	},
+	{
+		"#text": "Потяните для обновления",
+		"@_name": "pull_to_refresh"
+	},
+	{
+		"#text": "Рекомендуемые магазины",
+		"@_name": "recommend_shop_title"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "refresh_shop"
+	},
+	{
+		"#text": "Эта функция недоступна в текущем режиме",
+		"@_name": "save_power_mode"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Запрос завершился ошибкой",
+		"@_name": "server_request_error"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Для загрузки и установки Tencent WiFi Manager необходимо 12 Мб данных мобильной сети.",
+		"@_name": "tms_upgrade_mobile_network_warning"
+	},
+	{
+		"#text": "Использовать мобильную сеть",
+		"@_name": "tms_upgrade_use_mobile_network"
+	},
+	{
+		"#text": "Нет соединения. Проверьте настройки Вашей сети",
+		"@_name": "tms_wifi_upgrade_no_network"
+	},
+	{
+		"#text": "Пусто",
+		"@_name": "wa_account_blank"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "wa_account_exit"
+	},
+	{
+		"#text": "Выйти из учетной записи Meizu?",
+		"@_name": "wa_account_exit_mz_account"
+	},
+	{
+		"#text": "Аккаунт Meizu",
+		"@_name": "wa_account_flyme"
+	},
+	{
+		"#text": "Аватар",
+		"@_name": "wa_account_icon"
+	},
+	{
+		"#text": "Информация об аккаунте",
+		"@_name": "wa_account_info"
+	},
+	{
+		"#text": "Имя пользователя",
+		"@_name": "wa_account_nickname"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "wa_account_phone"
+	},
+	{
+		"#text": "\"Я прочитал и согласен \"",
+		"@_name": "wa_authenticate_agree"
+	},
+	{
+		"#text": "Соглашение об открытой платформе Wi-Fi Meizu",
+		"@_name": "wa_authenticate_agreement"
+	},
+	{
+		"#text": "Отправлено, подождите пока не получите отзыв",
+		"@_name": "wa_authenticate_ap_msg_submitted"
+	},
+	{
+		"#text": "Отправка",
+		"@_name": "wa_authenticate_ap_msg_submitting"
+	},
+	{
+		"#text": "Название компании",
+		"@_name": "wa_authenticate_business_name"
+	},
+	{
+		"#text": "Дайте этому приложению разрешение на доступ к Wi-Fi в Настройки > Приложения.",
+		"@_name": "wa_authenticate_enable_wifi_permission"
+	},
+	{
+		"#text": "Вы слишком часто запрашивали проверочный код. Попробуйте позже",
+		"@_name": "wa_authenticate_get_code_frequently"
+	},
+	{
+		"#text": "Получить код",
+		"@_name": "wa_authenticate_get_verify_code"
+	},
+	{
+		"#text": "Превышен максимальный размер запросов",
+		"@_name": "wa_authenticate_get_verify_code_high_limit"
+	},
+	{
+		"#text": "s",
+		"@_name": "wa_authenticate_get_verify_code_message"
+	},
+	{
+		"#text": "Слишком частые запросы. Пожалуйста, повторите попытку позже.",
+		"@_name": "wa_authenticate_get_verify_code_too_often"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "wa_authenticate_next"
+	},
+	{
+		"#text": "Аутентификация не поддерживается для этой сети",
+		"@_name": "wa_authenticate_not_supported"
+	},
+	{
+		"#text": "Неверный номер",
+		"@_name": "wa_authenticate_phone_num_error"
+	},
+	{
+		"#text": "Номер телефона",
+		"@_name": "wa_authenticate_phone_number"
+	},
+	{
+		"#text": "Текущая сеть уже авторизована",
+		"@_name": "wa_authenticate_re_authenticate_error"
+	},
+	{
+		"#text": "Текущая сеть уже сохранена",
+		"@_name": "wa_authenticate_re_cancel_ap_error"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "wa_authenticate_resubmit"
+	},
+	{
+		"#text": "Сервер занят, повторите попытку позже.",
+		"@_name": "wa_authenticate_server_error"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "wa_authenticate_submit"
+	},
+	{
+		"#text": "Введите настоящую информацию",
+		"@_name": "wa_authenticate_truthfully"
+	},
+	{
+		"#text": "Код подтверждения",
+		"@_name": "wa_authenticate_verify_code"
+	},
+	{
+		"#text": "Проверка подтверждающего кода телефона",
+		"@_name": "wa_authenticate_verify_code_checking"
+	},
+	{
+		"#text": "Неправильный код",
+		"@_name": "wa_authenticate_verify_code_error"
+	},
+	{
+		"#text": "Пожалуйста, введите код",
+		"@_name": "wa_authenticate_verify_code_hint"
+	},
+	{
+		"#text": "Сеть недоступна, передача не удалась",
+		"@_name": "wa_authenticate_wifi_error"
+	},
+	{
+		"#text": "Имя Wi-Fi",
+		"@_name": "wa_authenticate_wifi_name"
+	},
+	{
+		"#text": "Пароль Wi-Fi",
+		"@_name": "wa_authenticate_wifi_password"
+	},
+	{
+		"#text": "Загрузить MAC-адрес маршрутизатора",
+		"@_name": "wa_cancel_share_upload_mac"
+	},
+	{
+		"#text": "Что такое MAC-адрес?",
+		"@_name": "wa_cancel_share_what_is_mac"
+	},
+	{
+		"#text": "Аутентификация Wi-Fi-портала",
+		"@_name": "wa_captive_portal_login"
+	},
+	{
+		"#text": "Атаки на МАС-адрес",
+		"@_name": "wa_check_detect_arp"
+	},
+	{
+		"#text": "Угроза подмены DNS",
+		"@_name": "wa_check_detect_dns"
+	},
+	{
+		"#text": "Поддельные сети Wi-Fi",
+		"@_name": "wa_check_detect_fake"
+	},
+	{
+		"#text": "Фишинговые сети Wi-Fi",
+		"@_name": "wa_check_detect_phishing"
+	},
+	{
+		"#text": "Шифрование сети",
+		"@_name": "wa_check_detect_security"
+	},
+	{
+		"#text": "Средняя скорость загрузки",
+		"@_name": "wa_check_download_speed"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "wa_check_finish"
+	},
+	{
+		"#text": "\" п.\"",
+		"@_name": "wa_check_marks_unit"
+	},
+	{
+		"#text": "Сетевое подключение",
+		"@_name": "wa_check_network_connectivity"
+	},
+	{
+		"#text": "Задержка",
+		"@_name": "wa_check_network_latency"
+	},
+	{
+		"#text": "Качество сети",
+		"@_name": "wa_check_network_quality"
+	},
+	{
+		"#text": "Устройства в сети",
+		"@_name": "wa_check_online_device"
+	},
+	{
+		"#text": "Статус маршрутизатора",
+		"@_name": "wa_check_router_status"
+	},
+	{
+		"#text": "Безопасность",
+		"@_name": "wa_check_security"
+	},
+	{
+		"#text": "Качество сигнала",
+		"@_name": "wa_check_signal_quality"
+	},
+	{
+		"#text": "Ошибка",
+		"@_name": "wa_check_status_abnormal"
+	},
+	{
+		"#text": "\"Эквивалентно широкополосному доступу со скоростью %1$s\"",
+		"@_name": "wa_check_status_band_width"
+	},
+	{
+		"#text": "Небезопасно",
+		"@_name": "wa_check_status_dangerous"
+	},
+	{
+		"#text": "Высокое",
+		"@_name": "wa_check_status_latency_high"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "wa_check_status_load_num"
+	},
+	{
+		"#text": "В норме",
+		"@_name": "wa_check_status_normal"
+	},
+	{
+		"#text": "Не проверено",
+		"@_name": "wa_check_status_not_yet_detected"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "wa_check_status_safe"
+	},
+	{
+		"#text": "Без шифрования",
+		"@_name": "wa_check_status_security_none"
+	},
+	{
+		"#text": "Плохое",
+		"@_name": "wa_check_status_signal_bad"
+	},
+	{
+		"#text": "Хорошее",
+		"@_name": "wa_check_status_signal_good"
+	},
+	{
+		"#text": "Среднее",
+		"@_name": "wa_check_status_signal_ordinary"
+	},
+	{
+		"#text": "Просмотр устройств",
+		"@_name": "wa_check_view_online_devices"
+	},
+	{
+		"#text": "Wi-Fi отключён, подключите и повторите",
+		"@_name": "wa_check_wifi_disconnected"
+	},
+	{
+		"#text": "Проверка сети",
+		"@_name": "wa_depth_check"
+	},
+	{
+		"#text": "Проверка",
+		"@_name": "wa_depth_checking"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "wa_dialog_negative_bt_text"
+	},
+	{
+		"#text": "Да",
+		"@_name": "wa_dialog_positive_bt_text"
+	},
+	{
+		"#text": "Проверка качества сети…",
+		"@_name": "wa_doing_diagnose"
+	},
+	{
+		"#text": "Проверка безопасности…",
+		"@_name": "wa_doing_secure_detect"
+	},
+	{
+		"#text": "Тестирование скорости сети…",
+		"@_name": "wa_doing_speed_test"
+	},
+	{
+		"#text": "Тестирование сети завершено",
+		"@_name": "wa_done_diagnose"
+	},
+	{
+		"#text": "Проверка безопасности завершена",
+		"@_name": "wa_done_secure_detect"
+	},
+	{
+		"#text": "Тест скорости завершён",
+		"@_name": "wa_done_speed_test"
+	},
+	{
+		"#text": "Бесплатные безопасные сети",
+		"@_name": "wa_feature_name"
+	},
+	{
+		"#text": "Управление функциями",
+		"@_name": "wa_feature_switch_title"
+	},
+	{
+		"#text": "Бесплатные безопасные сети поблизости не будут показаны, если вы их отключите, а подключение к бесплатным безопасным сетям будет отключено.",
+		"@_name": "wa_feautre_dialog_message"
+	},
+	{
+		"#text": "Отключить бесплатные безопасные сети?",
+		"@_name": "wa_feautre_dialog_title"
+	},
+	{
+		"#text": "Увеличить доходность бизнеса",
+		"@_name": "wa_introduce_increase_exposure"
+	},
+	{
+		"#text": "Присоединяйся",
+		"@_name": "wa_introduce_join"
+	},
+	{
+		"#text": "Пароль не требуется",
+		"@_name": "wa_introduce_one_key"
+	},
+	{
+		"#text": "Установить быстрое соединение",
+		"@_name": "wa_introduce_quick_connect"
+	},
+	{
+		"#text": "Показать сверху название своей компании",
+		"@_name": "wa_introduce_top_display"
+	},
+	{
+		"#text": "Локально",
+		"@_name": "wa_online_devices_local_device"
+	},
+	{
+		"#text": "Подключено устройств: %1$s",
+		"@_name": "wa_online_devices_num"
+	},
+	{
+		"#text": "Неизвестное устройство",
+		"@_name": "wa_online_devices_unknown"
+	},
+	{
+		"#text": "Учётная запись",
+		"@_name": "wa_open_platform_account_login"
+	},
+	{
+		"#text": "Ошибка, нажмите для перезагрузки",
+		"@_name": "wa_open_platform_network_error_and_reload"
+	},
+	{
+		"#text": "Ожидание рассмотрения",
+		"@_name": "wa_platform_ap_info_awaiting_review"
+	},
+	{
+		"#text": "Время подключения",
+		"@_name": "wa_platform_ap_info_connect_count"
+	},
+	{
+		"#text": "\" время\"",
+		"@_name": "wa_platform_ap_info_connect_unit"
+	},
+	{
+		"#text": "Текущие подключения",
+		"@_name": "wa_platform_ap_info_current_count"
+	},
+	{
+		"#text": "\" устр.\"",
+		"@_name": "wa_platform_ap_info_current_unit"
+	},
+	{
+		"#text": "Убедитесь, что вы подключены к сети Wi-Fi.",
+		"@_name": "wa_platform_ap_info_ensure_tip"
+	},
+	{
+		"#text": "Ошибка рассмотрения",
+		"@_name": "wa_platform_ap_info_review_fail"
+	},
+	{
+		"#text": "Рассмотрено успешно",
+		"@_name": "wa_platform_ap_info_review_pass"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "wa_platform_ap_info_update"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "wa_setting_cancel"
+	},
+	{
+		"#text": "Отменить обмен Wi-Fi",
+		"@_name": "wa_setting_cancel_share"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "wa_setting_check_version"
+	},
+	{
+		"#text": "Версия: %1$s",
+		"@_name": "wa_setting_check_version_summary"
+	},
+	{
+		"#text": "OK",
+		"@_name": "wa_setting_confirm"
+	},
+	{
+		"#text": "Нет подключения, проверьте настройки сети.",
+		"@_name": "wa_setting_current_version_fail"
+	},
+	{
+		"#text": "Актуальная версия",
+		"@_name": "wa_setting_current_version_latest"
+	},
+	{
+		"#text": "Получение информации о последней версии",
+		"@_name": "wa_setting_get_latest_version"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "wa_setting_network_settings"
+	},
+	{
+		"#text": "Без авторизации",
+		"@_name": "wa_setting_no_login"
+	},
+	{
+		"#text": "Уведомления о доступных сетях",
+		"@_name": "wa_setting_notification_icon"
+	},
+	{
+		"#text": "Показывать доступные сети рядом",
+		"@_name": "wa_setting_notification_icon_summary"
+	},
+	{
+		"#text": "Платформа для бизнеса",
+		"@_name": "wa_setting_open_platform"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "wa_setting_title"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "wa_tip_network_risk_dangerous_dialog_negative_button"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "wa_tip_network_risk_dangerous_dialog_positiv_button"
+	},
+	{
+		"#text": "%1$s признан опасным. Продолжение его использования может привести к раскрытию конфиденциальных данных. [Meizu WLAN Manager]",
+		"@_name": "wa_tip_network_risk_dangerous_dialog_summary"
+	},
+	{
+		"#text": "Версия",
+		"@_name": "wa_version_str_prefix"
+	},
+	{
+		"#text": "( %1$s )",
+		"@_name": "wa_wifi_ap_description"
+	},
+	{
+		"#text": "Подключение",
+		"@_name": "wa_wifi_bt_connect_text"
+	},
+	{
+		"#text": "Scan for free Wi-Fi",
+		"@_name": "wa_wifi_bt_query_text"
+	},
+	{
+		"#text": "Нажмите для подключения",
+		"@_name": "wa_wifi_click_to_connect"
+	},
+	{
+		"#text": "Нажмите для подключения к \\\"%1$s\\\"",
+		"@_name": "wa_wifi_click_to_connect_with_ssid"
+	},
+	{
+		"#text": "Сеть доступна для текущего местоположения",
+		"@_name": "wa_wifi_click_to_connect_with_ssid_pre"
+	},
+	{
+		"#text": "Нажмите для включения",
+		"@_name": "wa_wifi_click_to_enable"
+	},
+	{
+		"#text": "Включая открытые безопасные сети, нажмите для просмотра",
+		"@_name": "wa_wifi_click_to_picker_wifi"
+	},
+	{
+		"#text": "Менее 1,000",
+		"@_name": "wa_wifi_connect_count_less_than_thousand"
+	},
+	{
+		"#text": "Подключено",
+		"@_name": "wa_wifi_connected"
+	},
+	{
+		"#text": "Подключение..",
+		"@_name": "wa_wifi_connecting"
+	},
+	{
+		"#text": "Обнаружена атака ARP, отключите соединение",
+		"@_name": "wa_wifi_detect_text_arp"
+	},
+	{
+		"#text": "Опасная сеть, отключите соединение",
+		"@_name": "wa_wifi_detect_text_dangerous"
+	},
+	{
+		"#text": "Обнаружен несанкционированный доступ к DNS, отключите соединение",
+		"@_name": "wa_wifi_detect_text_dns"
+	},
+	{
+		"#text": "Обнаружена фишинговая сеть, отключите соединение.",
+		"@_name": "wa_wifi_detect_text_phishing"
+	},
+	{
+		"#text": "Обнаружение",
+		"@_name": "wa_wifi_detecting"
+	},
+	{
+		"#text": "Подключение",
+		"@_name": "wa_wifi_dialog_confirm"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "wa_wifi_dialog_negative"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "wa_wifi_disable_bt_text"
+	},
+	{
+		"#text": "Wi-Fi отключён",
+		"@_name": "wa_wifi_disabled"
+	},
+	{
+		"#text": "Wi-Fi отключён, нажмите для включения",
+		"@_name": "wa_wifi_disabled_tip_text"
+	},
+	{
+		"#text": "Найдены открытые Wi-Fi сети",
+		"@_name": "wa_wifi_found_ap"
+	},
+	{
+		"#text": "Доступны бесплатные безопасные Wi-Fi сети",
+		"@_name": "wa_wifi_found_free_ap"
+	},
+	{
+		"#text": "Найдено бесплатных Wi-Fi сетей: %1$d",
+		"@_name": "wa_wifi_found_free_wifi"
+	},
+	{
+		"#text": "Доступны Wi-Fi сети",
+		"@_name": "wa_wifi_found_mixed_ap"
+	},
+	{
+		"#text": "Авторизация",
+		"@_name": "wa_wifi_goto_authenticate"
+	},
+	{
+		"#text": "Перейти к настройкам",
+		"@_name": "wa_wifi_goto_set"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "wa_wifi_handle_wifi_disconnect"
+	},
+	{
+		"#text": "Wi-Fi отключён",
+		"@_name": "wa_wifi_has_disconnected"
+	},
+	{
+		"#text": "Рядом нет доступных Wi-Fi сетей",
+		"@_name": "wa_wifi_list_empty_text"
+	},
+	{
+		"#text": "Если сети недоступны в течение длительного времени, дайте доступ к местоположению для менеджера Wi-Fi в Системных настройках.",
+		"@_name": "wa_wifi_list_empty_without_location_permission_text"
+	},
+	{
+		"#text": "Открытые сети",
+		"@_name": "wa_wifi_list_free_wifi_partition_title"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "wa_wifi_list_menu_title"
+	},
+	{
+		"#text": "Открытые сети",
+		"@_name": "wa_wifi_list_open_wifi_partition_title"
+	},
+	{
+		"#text": "Другие сети",
+		"@_name": "wa_wifi_list_other_wifi_partition_title"
+	},
+	{
+		"#text": "Для получения информации о сети Wi-Fi необходимо включить определение местоположения.",
+		"@_name": "wa_wifi_location_disabled_tip"
+	},
+	{
+		"#text": "Сканирование и подключение к бесплатной Wi-Fi сети потребляет небольшой объем данных. Включите моб. данные.",
+		"@_name": "wa_wifi_mobile_data_dialog_message"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "wa_wifi_mobile_data_dialog_positive"
+	},
+	{
+		"#text": "Неверный пароль",
+		"@_name": "wa_wifi_password_error"
+	},
+	{
+		"#text": "Пароль",
+		"@_name": "wa_wifi_password_hint"
+	},
+	{
+		"#text": "Логин обязателен",
+		"@_name": "wa_wifi_portal_network"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "wa_wifi_remove_ap_dialog_positive"
+	},
+	{
+		"#text": "После отключения вы больше не будете автоматически подключаться к этой сети.",
+		"@_name": "wa_wifi_remove_ap_dialog_title"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "wa_wifi_turn_on_bt_text"
+	},
+	{
+		"#text": "Сеть недоступна",
+		"@_name": "wa_wifi_unvailable"
+	},
+	{
+		"#text": "Проводится бета-тест.",
+		"@_name": "wa_wifi_user_invalid_tip"
+	},
+	{
+		"#text": "СТАРТ",
+		"@_name": "wa_wifi_wizard_start_bt_text"
+	},
+	{
+		"#text": "\"Я прочитал и принимаю \"",
+		"@_name": "wa_wifi_wizard_text_agree"
+	},
+	{
+		"#text": "Пользовательское соглашение Meizu WLAN Manager",
+		"@_name": "wa_wifi_wizard_text_protocol"
+	},
+	{
+		"#text": "Ждите",
+		"@_name": "waitTip"
+	},
+	{
+		"#text": "Автовыбор",
+		"@_name": "wapi_auto_sel_cert"
+	},
+	{
+		"#text": "WAPI сертификат",
+		"@_name": "wapi_cert_select"
+	},
+	{
+		"#text": "Расширенные настройки",
+		"@_name": "wifi_advanced_titlebar"
+	},
+	{
+		"#text": "Точка доступа временно занята",
+		"@_name": "wifi_ap_unable_to_handle_new_sta"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "wifi_cancel"
+	},
+	{
+		"#text": "Установка или просмотр сертификата",
+		"@_name": "wifi_certinstall"
+	},
+	{
+		"#text": "Выбор сети",
+		"@_name": "wifi_choose_network"
+	},
+	{
+		"#text": "Подключить",
+		"@_name": "wifi_connect"
+	},
+	{
+		"#text": "Подключено без доступа к интернету",
+		"@_name": "wifi_connected_no_internet"
+	},
+	{
+		"#text": "Опасный",
+		"@_name": "wifi_detect_states_dangerous"
+	},
+	{
+		"#text": "Незашифрованный",
+		"@_name": "wifi_detect_states_risk"
+	},
+	{
+		"#text": "Safe",
+		"@_name": "wifi_detect_states_safe"
+	},
+	{
+		"#text": "Бесплатные сети Wi-Fi рядом",
+		"@_name": "wifi_free_titlebar"
+	},
+	{
+		"#text": "Инф. о сети",
+		"@_name": "wifi_network_connected_info"
+	},
+	{
+		"#text": "WLAN Doktor",
+		"@_name": "wifi_network_diagn"
+	},
+	{
+		"#text": "\"Не могу получить доступ к интернету\"",
+		"@_name": "wifi_no_internet"
+	},
+	{
+		"#text": "Ппароль",
+		"@_name": "wifi_password"
+	},
+	{
+		"#text": "Неверный пароль",
+		"@_name": "wifi_password_error_hint"
+	},
+	{
+		"#text": "Обнаружение",
+		"@_name": "wifi_security_detecting"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_dpp"
+	},
+	{
+		"#text": "802.1x EAP",
+		"@_name": "wifi_security_eap"
+	},
+	{
+		"#text": "Открытая",
+		"@_name": "wifi_security_none"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_owe"
+	},
+	{
+		"#text": "Passpoint",
+		"@_name": "wifi_security_passpoint"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_sae"
+	},
+	{
+		"#text": "DPP",
+		"@_name": "wifi_security_short_dpp"
+	},
+	{
+		"#text": "802.1x",
+		"@_name": "wifi_security_short_eap"
+	},
+	{
+		"#text": "OWE",
+		"@_name": "wifi_security_short_owe"
+	},
+	{
+		"#text": "SAE",
+		"@_name": "wifi_security_short_sae"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_short_wep"
+	},
+	{
+		"#text": "WPA",
+		"@_name": "wifi_security_short_wpa"
+	},
+	{
+		"#text": "WPA2",
+		"@_name": "wifi_security_short_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2",
+		"@_name": "wifi_security_short_wpa_wpa2"
+	},
+	{
+		"#text": "WAPI CERT",
+		"@_name": "wifi_security_wapi_cert"
+	},
+	{
+		"#text": "WAPI сертификат",
+		"@_name": "wifi_security_wapi_certificate"
+	},
+	{
+		"#text": "WAPI PSK",
+		"@_name": "wifi_security_wapi_psk"
+	},
+	{
+		"#text": "WAPI PSK ASCII",
+		"@_name": "wifi_security_wapi_psk_ascii"
+	},
+	{
+		"#text": "WAPI PSK шестнадцатеричный",
+		"@_name": "wifi_security_wapi_psk_hexadecimal"
+	},
+	{
+		"#text": "WEP",
+		"@_name": "wifi_security_wep"
+	},
+	{
+		"#text": "WPA PSK",
+		"@_name": "wifi_security_wpa"
+	},
+	{
+		"#text": "WPA2 PSK",
+		"@_name": "wifi_security_wpa2"
+	},
+	{
+		"#text": "WPA/WPA2 PSK",
+		"@_name": "wifi_security_wpa_wpa2"
+	},
+	{
+		"#text": "Wi-FI",
+		"@_name": "wifi_settings"
+	},
+	{
+		"#text": "Открытые и безопасные",
+		"@_name": "wifi_settings_access_point_free_wifi_tips"
+	},
+	{
+		"#text": "Пожалуйста, подключитесь к другим открытым и безопасным сетям",
+		"@_name": "wifi_settings_free_wifi_connect_other"
+	},
+	{
+		"#text": "\"Я принимаю \"",
+		"@_name": "wifi_settings_free_wifi_dialog_checkbox_agree"
+	},
+	{
+		"#text": "Пользовательское соглашение о бесплатных безопасных Wi-Fi сетях",
+		"@_name": "wifi_settings_free_wifi_dialog_checkbox_protocol"
+	},
+	{
+		"#text": "Доступные в различных общественных местах, эти Meizu-аутентифицированные сети Wi-Fi позволяют подключаться без пароля, и являются бесплатными.",
+		"@_name": "wifi_settings_free_wifi_dialog_message"
+	},
+	{
+		"#text": "Приступить",
+		"@_name": "wifi_settings_free_wifi_dialog_start"
+	},
+	{
+		"#text": "Бесплатные безопасные сети Wi-Fi Meizu",
+		"@_name": "wifi_settings_free_wifi_dialog_title"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "wifi_settings_free_wifi_exit"
+	},
+	{
+		"#text": "Пользовательское соглашение о бесплатных безопасных Wi-Fi сетях",
+		"@_name": "wifi_settings_free_wifi_protocol_title"
+	},
+	{
+		"#text": "Бесплатные безопасные сети Wi-Fi Meizu",
+		"@_name": "wifi_settings_free_wifi_tis"
+	},
+	{
+		"#text": "Ускорение сети",
+		"@_name": "wifi_speed_more"
+	},
+	{
+		"#text": "Тест скорости",
+		"@_name": "wifi_speed_test"
+	},
+	{
+		"#text": "Не удалось подключиться",
+		"@_name": "wifi_status_connect_fail"
+	},
+	{
+		"#text": "Отключен от сети",
+		"@_name": "wifi_status_disconnected"
+	},
+	{
+		"#text": "Неизвестный",
+		"@_name": "wifi_unspecified"
+	},
+	{
+		"#text": "Тип пароля",
+		"@_name": "wifi_wapi_psk_type"
+	},
+	{
+		"#text": "Установка сертификата",
+		"@_name": "wifi_wapicertmanager"
+	}
+]

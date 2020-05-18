@@ -1,0 +1,6022 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Alt+",
+		"@_name": "abc_menu_alt_shortcut_label"
+	},
+	{
+		"#text": "Ctrl+",
+		"@_name": "abc_menu_ctrl_shortcut_label"
+	},
+	{
+		"#text": "delete",
+		"@_name": "abc_menu_delete_shortcut_label"
+	},
+	{
+		"#text": "enter",
+		"@_name": "abc_menu_enter_shortcut_label"
+	},
+	{
+		"#text": "Function+",
+		"@_name": "abc_menu_function_shortcut_label"
+	},
+	{
+		"#text": "Meta+",
+		"@_name": "abc_menu_meta_shortcut_label"
+	},
+	{
+		"#text": "Shift+",
+		"@_name": "abc_menu_shift_shortcut_label"
+	},
+	{
+		"#text": "space",
+		"@_name": "abc_menu_space_shortcut_label"
+	},
+	{
+		"#text": "Sym+",
+		"@_name": "abc_menu_sym_shortcut_label"
+	},
+	{
+		"#text": "Menu+",
+		"@_name": "abc_prepend_shortcut_label"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "About",
+		"@_name": "about_card_title"
+	},
+	{
+		"#text": "Phone-only, unsynced",
+		"@_name": "account_phone"
+	},
+	{
+		"#text": "%1$s contact",
+		"@_name": "account_type_format"
+	},
+	{
+		"#text": "Incoming calls",
+		"@_name": "actionIncomingCall"
+	},
+	{
+		"#text": "add new contact",
+		"@_name": "action_menu_add_new_contact_button"
+	},
+	{
+		"#text": "stop searching",
+		"@_name": "action_menu_back_from_search"
+	},
+	{
+		"#text": "Call History",
+		"@_name": "action_menu_call_history_description"
+	},
+	{
+		"#text": "dial pad",
+		"@_name": "action_menu_dialpad_button"
+	},
+	{
+		"#text": "More options",
+		"@_name": "action_menu_overflow_description"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "No app for that on this device",
+		"@_name": "activity_not_available"
+	},
+	{
+		"#text": "Add to contact",
+		"@_name": "activity_title_confirm_add_detail"
+	},
+	{
+		"#text": "Contacts to display",
+		"@_name": "activity_title_contacts_filter"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "activity_title_settings"
+	},
+	{
+		"#text": "To add some, edit the group.",
+		"@_name": "addPeopleToGroup"
+	},
+	{
+		"#text": "Add 2-sec pause",
+		"@_name": "add_2sec_pause"
+	},
+	{
+		"#text": "Add Account",
+		"@_name": "add_account"
+	},
+	{
+		"#text": "Add connection",
+		"@_name": "add_connection_button"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "add_contact"
+	},
+	{
+		"#text": "Add \\\"%s\\\" to contacts?",
+		"@_name": "add_contact_dlg_message_fmt"
+	},
+	{
+		"#text": "No contacts app available",
+		"@_name": "add_contact_not_available"
+	},
+	{
+		"#text": "Add new account",
+		"@_name": "add_new_account"
+	},
+	{
+		"#text": "Add new",
+		"@_name": "add_new_entry_for_section"
+	},
+	{
+		"#text": "Add organization",
+		"@_name": "add_organization"
+	},
+	{
+		"#text": "Add to My Contacts",
+		"@_name": "add_to_my_contacts"
+	},
+	{
+		"#text": "Add wait",
+		"@_name": "add_wait"
+	},
+	{
+		"#text": "Switch to editing the selected contact? Information you entered so far will be copied.",
+		"@_name": "aggregation_suggestion_edit_dialog_message"
+	},
+	{
+		"#text": "Join the current contact with the selected contact?",
+		"@_name": "aggregation_suggestion_join_dialog_message"
+	},
+	{
+		"#text": "No Contacts",
+		"@_name": "all_contacts_empty"
+	},
+	{
+		"#text": "All contacts",
+		"@_name": "all_contacts_tab_label"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "SIM card contacts",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "app_name_contact"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "Dialer",
+		"@_name": "applicationLabel"
+	},
+	{
+		"#text": "Contact photo",
+		"@_name": "attach_photo_dialog_title"
+	},
+	{
+		"#text": "Voice chat",
+		"@_name": "audio_chat"
+	},
+	{
+		"#text": "Choose the contact you want to join with %s:",
+		"@_name": "blurbJoinContactDataWith"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "Caching vCard(s) to local temporary storage. The actual import will start soon",
+		"@_name": "caching_vcard_message"
+	},
+	{
+		"#text": "Caching",
+		"@_name": "caching_vcard_title"
+	},
+	{
+		"#text": "Call again",
+		"@_name": "callAgain"
+	},
+	{
+		"#text": "Call back",
+		"@_name": "callBack"
+	},
+	{
+		"#text": "Call details",
+		"@_name": "callDetailTitle"
+	},
+	{
+		"#text": "%s m %s s",
+		"@_name": "callDetailsDurationFormat",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Choose a number to call",
+		"@_name": "callShortcutActivityTitle"
+	},
+	{
+		"#text": "Call %s",
+		"@_name": "call_assistant"
+	},
+	{
+		"#text": "Call callback",
+		"@_name": "call_callback"
+	},
+	{
+		"#text": "Call car",
+		"@_name": "call_car"
+	},
+	{
+		"#text": "Call company main",
+		"@_name": "call_company_main"
+	},
+	{
+		"#text": "Call %s",
+		"@_name": "call_custom"
+	},
+	{
+		"#text": "Calls list",
+		"@_name": "call_detail_list_header"
+	},
+	{
+		"#text": "Choose number",
+		"@_name": "call_disambig_title"
+	},
+	{
+		"#text": "Call home fax",
+		"@_name": "call_fax_home"
+	},
+	{
+		"#text": "Call work fax",
+		"@_name": "call_fax_work"
+	},
+	{
+		"#text": "Call home",
+		"@_name": "call_home"
+	},
+	{
+		"#text": "Call ISDN",
+		"@_name": "call_isdn"
+	},
+	{
+		"#text": "CALL",
+		"@_name": "call_log_action_call"
+	},
+	{
+		"#text": "CALL BACK",
+		"@_name": "call_log_action_call_back"
+	},
+	{
+		"#text": "DETAILS",
+		"@_name": "call_log_action_details"
+	},
+	{
+		"#text": "REDIAL",
+		"@_name": "call_log_action_redial"
+	},
+	{
+		"#text": "REPORT",
+		"@_name": "call_log_action_report"
+	},
+	{
+		"#text": "VIDEO CALL",
+		"@_name": "call_log_action_video_call"
+	},
+	{
+		"#text": "LISTEN",
+		"@_name": "call_log_action_voicemail"
+	},
+	{
+		"#text": "History",
+		"@_name": "call_log_activity_title"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "call_log_activity_title_font_family"
+	},
+	{
+		"#text": "All",
+		"@_name": "call_log_all_title"
+	},
+	{
+		"#text": "Earlier",
+		"@_name": "call_log_header_other"
+	},
+	{
+		"#text": "Today",
+		"@_name": "call_log_header_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "call_log_header_yesterday"
+	},
+	{
+		"#text": "Incoming calls only",
+		"@_name": "call_log_incoming_header"
+	},
+	{
+		"#text": "(%1$d) %2$s",
+		"@_name": "call_log_item_count_and_date"
+	},
+	{
+		"#text": "Missed calls only",
+		"@_name": "call_log_missed_header"
+	},
+	{
+		"#text": "Missed",
+		"@_name": "call_log_missed_title"
+	},
+	{
+		"#text": "Outgoing calls only",
+		"@_name": "call_log_outgoing_header"
+	},
+	{
+		"#text": "Calls with voicemail only",
+		"@_name": "call_log_voicemail_header"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "call_log_voicemail_title"
+	},
+	{
+		"#text": "Call main",
+		"@_name": "call_main"
+	},
+	{
+		"#text": "Call MMS",
+		"@_name": "call_mms"
+	},
+	{
+		"#text": "Call mobile",
+		"@_name": "call_mobile"
+	},
+	{
+		"#text": "Cannot make a phone call because the Phone application has been disabled.",
+		"@_name": "call_not_available"
+	},
+	{
+		"#text": "Call",
+		"@_name": "call_other"
+	},
+	{
+		"#text": "Call fax",
+		"@_name": "call_other_fax"
+	},
+	{
+		"#text": "Call pager",
+		"@_name": "call_pager"
+	},
+	{
+		"#text": "Call radio",
+		"@_name": "call_radio"
+	},
+	{
+		"#text": "Calls",
+		"@_name": "call_settings_label"
+	},
+	{
+		"#text": "Call telex",
+		"@_name": "call_telex"
+	},
+	{
+		"#text": "Call TTY/TDD",
+		"@_name": "call_tty_tdd"
+	},
+	{
+		"#text": "%1$s %2$s",
+		"@_name": "call_type_and_date"
+	},
+	{
+		"#text": "Call work",
+		"@_name": "call_work"
+	},
+	{
+		"#text": "Call work mobile",
+		"@_name": "call_work_mobile"
+	},
+	{
+		"#text": "Call work pager",
+		"@_name": "call_work_pager"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Discard your changes?",
+		"@_name": "cancel_confirmation_dialog_message"
+	},
+	{
+		"#text": "Cancel export of %s?",
+		"@_name": "cancel_export_confirmation_message"
+	},
+	{
+		"#text": "Cancel import of %s?",
+		"@_name": "cancel_import_confirmation_message"
+	},
+	{
+		"#text": "\"Couldn't cancel vCard import/export\"",
+		"@_name": "cancel_vcard_import_or_export_failed"
+	},
+	{
+		"#text": "\" - %s\"",
+		"@_name": "card_name"
+	},
+	{
+		"#text": "No SIM card",
+		"@_name": "card_name_no_sim"
+	},
+	{
+		"#text": "Change",
+		"@_name": "change_photo"
+	},
+	{
+		"#text": "Character limit exceeded %1$d of %2$d",
+		"@_name": "character_counter_content_description"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "Chat",
+		"@_name": "chat"
+	},
+	{
+		"#text": "Chat using AIM",
+		"@_name": "chat_aim"
+	},
+	{
+		"#text": "Chat using Google Talk",
+		"@_name": "chat_gtalk"
+	},
+	{
+		"#text": "Chat using ICQ",
+		"@_name": "chat_icq"
+	},
+	{
+		"#text": "Chat using Jabber",
+		"@_name": "chat_jabber"
+	},
+	{
+		"#text": "Chat using Windows Live",
+		"@_name": "chat_msn"
+	},
+	{
+		"#text": "Chat using QQ",
+		"@_name": "chat_qq"
+	},
+	{
+		"#text": "Chat using Skype",
+		"@_name": "chat_skype"
+	},
+	{
+		"#text": "Chat using Yahoo",
+		"@_name": "chat_yahoo"
+	},
+	{
+		"#text": "This will delete all calls from your history",
+		"@_name": "clearCallLogConfirmation"
+	},
+	{
+		"#text": "Clear call history?",
+		"@_name": "clearCallLogConfirmation_title"
+	},
+	{
+		"#text": "Clearing call history…",
+		"@_name": "clearCallLogProgress_title"
+	},
+	{
+		"#text": "\"You'll clear the frequently contacted list in the People and Phone apps, and force email apps to learn your addressing preferences from scratch.\"",
+		"@_name": "clearFrequentsConfirmation"
+	},
+	{
+		"#text": "Clear favorite contacts?",
+		"@_name": "clearFrequentsConfirmation_title"
+	},
+	{
+		"#text": "Clearing favorite contacts...",
+		"@_name": "clearFrequentsProgress_title"
+	},
+	{
+		"#text": "Clear default",
+		"@_name": "clear_default"
+	},
+	{
+		"@_name": "common_last_name_prefixes"
+	},
+	{
+		"@_name": "common_name_conjunctions"
+	},
+	{
+		"@_name": "common_name_prefixes"
+	},
+	{
+		"@_name": "common_name_suffixes"
+	},
+	{
+		"#text": "\"Couldn't get database information\"",
+		"@_name": "composer_failed_to_get_database_infomation"
+	},
+	{
+		"#text": "There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone",
+		"@_name": "composer_has_no_exportable_contact"
+	},
+	{
+		"#text": "\"The vCard composer didn't start properly\"",
+		"@_name": "composer_not_initialized"
+	},
+	{
+		"@_name": "config_export_extensions_to_consider"
+	},
+	{
+		"#text": "vcf",
+		"@_name": "config_export_file_extension"
+	},
+	{
+		"@_name": "config_export_file_prefix"
+	},
+	{
+		"@_name": "config_export_file_suffix"
+	},
+	{
+		"#text": "default",
+		"@_name": "config_export_vcard_type"
+	},
+	{
+		"#text": "default",
+		"@_name": "config_import_vcard_type"
+	},
+	{
+		"@_name": "config_prohibited_phone_number_regexp"
+	},
+	{
+		"#text": "Your contact list will be exported to file: %s",
+		"@_name": "confirm_export_message"
+	},
+	{
+		"#text": "Export contacts?",
+		"@_name": "confirm_export_title"
+	},
+	{
+		"#text": "Connections",
+		"@_name": "connections"
+	},
+	{
+		"#text": "About",
+		"@_name": "contactDetailAbout"
+	},
+	{
+		"#text": "Updates",
+		"@_name": "contactDetailUpdates"
+	},
+	{
+		"#text": "Add to contact",
+		"@_name": "contactInsertOrEditActivityTitle"
+	},
+	{
+		"#text": "Choose a contact",
+		"@_name": "contactPickerActivityTitle"
+	},
+	{
+		"#text": "\"Couldn't save contact changes.\"",
+		"@_name": "contactSavedErrorToast"
+	},
+	{
+		"#text": "Contact saved.",
+		"@_name": "contactSavedToast"
+	},
+	{
+		"#text": "Directory %1$s",
+		"@_name": "contact_directory_description"
+	},
+	{
+		"#text": "Contact display options",
+		"@_name": "contact_display_options_category_title"
+	},
+	{
+		"#text": "\"Hangouts works better when you enter the person's Hangouts identifier into the email field or phone field.\"",
+		"@_name": "contact_editor_hangouts_im_alert"
+	},
+	{
+		"#text": "You can synchronize your new contact with one of the following accounts. Which do you want to use?",
+		"@_name": "contact_editor_prompt_multiple_accounts"
+	},
+	{
+		"#text": "Your new contact will be synchronized with %1$s.",
+		"@_name": "contact_editor_prompt_one_account"
+	},
+	{
+		"#text": "\"Your new contact won't be backed up. Add an account that backs up contacts online?\"",
+		"@_name": "contact_editor_prompt_zero_accounts"
+	},
+	{
+		"#text": "Edit contact",
+		"@_name": "contact_editor_title_existing_contact"
+	},
+	{
+		"#text": "Add new contact",
+		"@_name": "contact_editor_title_new_contact"
+	},
+	{
+		"#text": "Loading…",
+		"@_name": "contact_list_loading"
+	},
+	{
+		"#text": "Not editable from this app.",
+		"@_name": "contact_read_only"
+	},
+	{
+		"#text": "via %1$s",
+		"@_name": "contact_status_update_attribution"
+	},
+	{
+		"#text": "%1$s via %2$s",
+		"@_name": "contact_status_update_attribution_with_date"
+	},
+	{
+		"#text": "Touch image to see all numbers or touch &amp; hold to reorder",
+		"@_name": "contact_tooltip"
+	},
+	{
+		"#text": "Favorites",
+		"@_name": "contactsFavoritesLabel"
+	},
+	{
+		"#text": "Contacts joined",
+		"@_name": "contactsJoinedMessage"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "contactsList"
+	},
+	{
+		"#text": "Sign in to an account",
+		"@_name": "contacts_unavailable_add_account"
+	},
+	{
+		"#text": "Create a new contact",
+		"@_name": "contacts_unavailable_create_contact"
+	},
+	{
+		"#text": "Import contacts",
+		"@_name": "contacts_unavailable_import_contacts"
+	},
+	{
+		"#text": "Tap to collapse contact editor",
+		"@_name": "content_description_collapse_editor"
+	},
+	{
+		"#text": "directions to location",
+		"@_name": "content_description_directions"
+	},
+	{
+		"#text": "Tap to expand contact editor.",
+		"@_name": "content_description_expand_editor"
+	},
+	{
+		"#text": "Recent call. %s. %s. %s. Tap to call back",
+		"@_name": "content_description_recent_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "incoming",
+		"@_name": "content_description_recent_call_type_incoming"
+	},
+	{
+		"#text": "missed",
+		"@_name": "content_description_recent_call_type_missed"
+	},
+	{
+		"#text": "outgoing",
+		"@_name": "content_description_recent_call_type_outgoing"
+	},
+	{
+		"#text": "Recent SMS: %s. %s, %s. Tap to reply",
+		"@_name": "content_description_recent_sms",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Copy to clipboard",
+		"@_name": "copy_text"
+	},
+	{
+		"#text": "Contact widget added to Home screen.",
+		"@_name": "createContactShortcutSuccessful"
+	},
+	{
+		"#text": "Create new group",
+		"@_name": "create_group_dialog_title"
+	},
+	{
+		"#text": "Create new group",
+		"@_name": "create_group_item_label"
+	},
+	{
+		"#text": "Custom label name",
+		"@_name": "customLabelPickerTitle"
+	},
+	{
+		"#text": "Define custom view",
+		"@_name": "custom_list_filter"
+	},
+	{
+		"#text": "%s, %s",
+		"@_name": "date_time_fmt",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Provide a year",
+		"@_name": "date_year_toggle"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "This contact will be deleted.",
+		"@_name": "deleteConfirmation"
+	},
+	{
+		"#text": "Delete the group \\\"%1$s\\\"? (Contacts themselves will not be deleted.)",
+		"@_name": "delete_group_dialog_message"
+	},
+	{
+		"#text": "Added to favorites",
+		"@_name": "description_action_menu_add_star"
+	},
+	{
+		"#text": "Removed from favorites",
+		"@_name": "description_action_menu_remove_star"
+	},
+	{
+		"#text": "Call %1$s",
+		"@_name": "description_call"
+	},
+	{
+		"#text": "Call back ^1",
+		"@_name": "description_call_back_action"
+	},
+	{
+		"#text": "Play voicemail",
+		"@_name": "description_call_log_play_button"
+	},
+	{
+		"#text": "Unheard voicemail",
+		"@_name": "description_call_log_unheard_voicemail"
+	},
+	{
+		"#text": "Clear search",
+		"@_name": "description_clear_search"
+	},
+	{
+		"#text": "Contact details for %1$s",
+		"@_name": "description_contact_details"
+	},
+	{
+		"#text": "contact photo",
+		"@_name": "description_contact_photo"
+	},
+	{
+		"#text": "Call details for ^1",
+		"@_name": "description_details_action"
+	},
+	{
+		"#text": "dial",
+		"@_name": "description_dial_button"
+	},
+	{
+		"#text": "number to dial",
+		"@_name": "description_digits_edittext"
+	},
+	{
+		"#text": "Dismiss",
+		"@_name": "description_dismiss"
+	},
+	{
+		"#text": "Answered call from ^1, ^2, ^3, ^4.",
+		"@_name": "description_incoming_answered_call"
+	},
+	{
+		"#text": "Missed call from ^1, ^2, ^3, ^4.",
+		"@_name": "description_incoming_missed_call"
+	},
+	{
+		"#text": "delete",
+		"@_name": "description_minus_button"
+	},
+	{
+		"#text": "New voicemail.",
+		"@_name": "description_new_voicemail"
+	},
+	{
+		"#text": "%1$s calls.",
+		"@_name": "description_num_calls"
+	},
+	{
+		"#text": "Call to ^1, ^2, ^3, ^4.",
+		"@_name": "description_outgoing_call"
+	},
+	{
+		"#text": "on ^1",
+		"@_name": "description_phone_account"
+	},
+	{
+		"#text": "Seek playback position",
+		"@_name": "description_playback_seek"
+	},
+	{
+		"#text": "Switch on or off speakerphone",
+		"@_name": "description_playback_speakerphone"
+	},
+	{
+		"#text": "Play or stop playback",
+		"@_name": "description_playback_start_stop"
+	},
+	{
+		"#text": "plus",
+		"@_name": "description_plus_button"
+	},
+	{
+		"#text": "Quick contact for %1$s",
+		"@_name": "description_quick_contact_for"
+	},
+	{
+		"#text": "Decrease playback rate",
+		"@_name": "description_rate_decrease"
+	},
+	{
+		"#text": "Increase playback rate",
+		"@_name": "description_rate_increase"
+	},
+	{
+		"#text": "Search",
+		"@_name": "description_search_button"
+	},
+	{
+		"#text": "Send SMS to %1$s",
+		"@_name": "description_send_text_message"
+	},
+	{
+		"#text": "favorite",
+		"@_name": "description_star"
+	},
+	{
+		"#text": "Start voice search",
+		"@_name": "description_start_voice_search"
+	},
+	{
+		"#text": "Video call.",
+		"@_name": "description_video_call"
+	},
+	{
+		"#text": "Video call to ^1.",
+		"@_name": "description_video_call_action"
+	},
+	{
+		"#text": "View contact %1$s",
+		"@_name": "description_view_contact"
+	},
+	{
+		"#text": "View contact",
+		"@_name": "description_view_contact_detail"
+	},
+	{
+		"#text": "Listen to voicemail from ^1",
+		"@_name": "description_voicemail_action"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "dialerIconLabel"
+	},
+	{
+		"#text": "Add call",
+		"@_name": "dialer_addAnotherCall"
+	},
+	{
+		"#text": "Enter a name or phone number",
+		"@_name": "dialer_hint_find_contact"
+	},
+	{
+		"#text": "Return to call in progress",
+		"@_name": "dialer_returnToInCallScreen"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "dialer_settings_label"
+	},
+	{
+		"#text": "Use touch tone keypad",
+		"@_name": "dialer_useDtmfDialpad"
+	},
+	{
+		"#text": "Import contacts",
+		"@_name": "dialog_import"
+	},
+	{
+		"#text": "Import/export contacts",
+		"@_name": "dialog_import_export"
+	},
+	{
+		"#text": "Create contact under account",
+		"@_name": "dialog_new_contact_account"
+	},
+	{
+		"#text": "Create group under account",
+		"@_name": "dialog_new_group_account"
+	},
+	{
+		"#text": "\"Can't call this number\"",
+		"@_name": "dialog_phone_call_prohibited_message"
+	},
+	{
+		"#text": "Add sync group",
+		"@_name": "dialog_sync_add"
+	},
+	{
+		"#text": "To call voicemail, first turn off Airplane mode.",
+		"@_name": "dialog_voicemail_airplane_mode_message"
+	},
+	{
+		"#text": "To set up voicemail, go to Menu > Settings.",
+		"@_name": "dialog_voicemail_not_ready_message"
+	},
+	{
+		"#text": "Directory",
+		"@_name": "directory_search_label"
+	},
+	{
+		"#text": "All contacts",
+		"@_name": "display_all_contacts"
+	},
+	{
+		"#text": "More groups…",
+		"@_name": "display_more_groups"
+	},
+	{
+		"#text": "Last name",
+		"@_name": "display_options_sort_by_family_name"
+	},
+	{
+		"#text": "First name",
+		"@_name": "display_options_sort_by_given_name"
+	},
+	{
+		"#text": "Sort by",
+		"@_name": "display_options_sort_list_by"
+	},
+	{
+		"#text": "Last name first",
+		"@_name": "display_options_view_family_name_first"
+	},
+	{
+		"#text": "First name first",
+		"@_name": "display_options_view_given_name_first"
+	},
+	{
+		"#text": "Name format",
+		"@_name": "display_options_view_names_as"
+	},
+	{
+		"#text": "All other contacts",
+		"@_name": "display_ungrouped"
+	},
+	{
+		"#text": "Removing \\\"%s\\\" from sync will also remove any ungrouped contacts from sync",
+		"@_name": "display_warn_remove_ungrouped"
+	},
+	{
+		"#text": "Dialpad tones",
+		"@_name": "dtmf_tone_enable_title"
+	},
+	{
+		"#text": "Edit contact",
+		"@_name": "editContactDescription"
+	},
+	{
+		"#text": "Edit group",
+		"@_name": "editGroupDescription"
+	},
+	{
+		"#text": "Edit contact",
+		"@_name": "edit_contact"
+	},
+	{
+		"#text": "Email",
+		"@_name": "email"
+	},
+	{
+		"#text": "Email",
+		"@_name": "emailLabelsGroup"
+	},
+	{
+		"#text": "Email %s",
+		"@_name": "email_custom"
+	},
+	{
+		"#text": "Email home",
+		"@_name": "email_home"
+	},
+	{
+		"#text": "Email mobile",
+		"@_name": "email_mobile"
+	},
+	{
+		"#text": "Email",
+		"@_name": "email_other"
+	},
+	{
+		"#text": "Email work",
+		"@_name": "email_work"
+	},
+	{
+		"#text": "No people in this group.",
+		"@_name": "emptyGroup"
+	},
+	{
+		"#text": "\"Type person's name\"",
+		"@_name": "enter_contact_name"
+	},
+	{
+		"#text": "Contacts exported to SIM card",
+		"@_name": "error_import_done_title"
+	},
+	{
+		"#text": "Reason: Illegal characters or number too long",
+		"@_name": "error_import_failure_reason"
+	},
+	{
+		"#text": "SIM card busy, please retry later",
+		"@_name": "error_sim_busy"
+	},
+	{
+		"#text": "SIM card is full",
+		"@_name": "error_sim_memory_full"
+	},
+	{
+		"#text": "Details: %s succeeded, %s failed",
+		"@_name": "error_success_missing_count",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Special dates",
+		"@_name": "eventLabelsGroup"
+	},
+	{
+		"#text": "Lunar Birthday",
+		"@_name": "eventTypeLunarBirthday"
+	},
+	{
+		"#text": "Date",
+		"@_name": "event_edit_field_hint_text"
+	},
+	{
+		"#text": "Expand or collapse name fields",
+		"@_name": "expand_collapse_name_fields_description"
+	},
+	{
+		"#text": "View all",
+		"@_name": "expanding_entry_card_view_see_all"
+	},
+	{
+		"#text": "See less",
+		"@_name": "expanding_entry_card_view_see_less"
+	},
+	{
+		"#text": "See more",
+		"@_name": "expanding_entry_card_view_see_more"
+	},
+	{
+		"#text": "Export to storage",
+		"@_name": "export_to_sdcard"
+	},
+	{
+		"#text": "\"The contact data wasn't exported.\nReason: \\\"%s\\\"\"",
+		"@_name": "exporting_contact_failed_message"
+	},
+	{
+		"#text": "\"Couldn't export\"",
+		"@_name": "exporting_contact_failed_title"
+	},
+	{
+		"#text": "Your contact data is being exported to: %s",
+		"@_name": "exporting_contact_list_message"
+	},
+	{
+		"#text": "%s of %s contacts",
+		"@_name": "exporting_contact_list_progress",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Exporting contact data",
+		"@_name": "exporting_contact_list_title"
+	},
+	{
+		"#text": "Exporting %s canceled",
+		"@_name": "exporting_vcard_canceled_title"
+	},
+	{
+		"#text": "Finished exporting %s",
+		"@_name": "exporting_vcard_finished_title"
+	},
+	{
+		"#text": "My %1$s profile",
+		"@_name": "external_profile_title"
+	},
+	{
+		"#text": "android.support.design.transformation.FabTransformationScrimBehavior",
+		"@_name": "fab_transformation_scrim_behavior"
+	},
+	{
+		"#text": "android.support.design.transformation.FabTransformationSheetBehavior",
+		"@_name": "fab_transformation_sheet_behavior"
+	},
+	{
+		"#text": "\"\nPossible reason:\n1. SIM card full \n2. Name or number in wrong format\"",
+		"@_name": "fail_reason"
+	},
+	{
+		"#text": "\"Couldn't start the exporter: \\\"%s\\\"\"",
+		"@_name": "fail_reason_could_not_initialize_exporter"
+	},
+	{
+		"#text": "\"Couldn't open \\\"%s\\\": %s\"",
+		"@_name": "fail_reason_could_not_open_file",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "An error occurred during export: \\\"%s\\\"",
+		"@_name": "fail_reason_error_occurred_during_export"
+	},
+	{
+		"#text": "\"Couldn't collect meta information of given vCard file(s)\"",
+		"@_name": "fail_reason_failed_to_collect_vcard_meta_info"
+	},
+	{
+		"#text": "\"One or more files couldn't be imported (%s)\"",
+		"@_name": "fail_reason_failed_to_read_files"
+	},
+	{
+		"#text": "I/O error",
+		"@_name": "fail_reason_io_error"
+	},
+	{
+		"#text": "Not enough memory. The file may be too large",
+		"@_name": "fail_reason_low_memory_during_import"
+	},
+	{
+		"#text": "There is no exportable contact",
+		"@_name": "fail_reason_no_exportable_contact"
+	},
+	{
+		"#text": "\"The format isn't supported\"",
+		"@_name": "fail_reason_not_supported"
+	},
+	{
+		"#text": "Required filename is too long (\\\"%s\\\")",
+		"@_name": "fail_reason_too_long_filename"
+	},
+	{
+		"#text": "Too many vCard files are on the SD card",
+		"@_name": "fail_reason_too_many_vcard"
+	},
+	{
+		"#text": "Unknown error",
+		"@_name": "fail_reason_unknown"
+	},
+	{
+		"#text": "\"Couldn't parse vCard for an unexpected reason\"",
+		"@_name": "fail_reason_vcard_parse_error"
+	},
+	{
+		"#text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ#",
+		"@_name": "fast_scroll_alphabet_simc"
+	},
+	{
+		"#text": "Removed from favorites",
+		"@_name": "favorite_hidden"
+	},
+	{
+		"#text": "Undo",
+		"@_name": "favorite_hidden_undo"
+	},
+	{
+		"#text": "Frequently called",
+		"@_name": "favoritesFrequentCalled"
+	},
+	{
+		"#text": "Frequently contacted",
+		"@_name": "favoritesFrequentContacted"
+	},
+	{
+		"#text": "ALL CONTACTS",
+		"@_name": "favorites_menu_all_contacts"
+	},
+	{
+		"#text": "Favorites",
+		"@_name": "favorites_tab_label"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "More than %d found",
+		"@_name": "foundTooManyContacts"
+	},
+	{
+		"#text": "Frequent",
+		"@_name": "frequentList"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "from_account_format"
+	},
+	{
+		"#text": "Name",
+		"@_name": "full_name"
+	},
+	{
+		"#text": "General",
+		"@_name": "general_settings_label"
+	},
+	{
+		"#text": "Keep your contacts safe even if you lose your phone: synchronize with an online service.",
+		"@_name": "generic_no_account_prompt"
+	},
+	{
+		"#text": "Add an account",
+		"@_name": "generic_no_account_prompt_title"
+	},
+	{
+		"#text": "Work",
+		"@_name": "ghostData_company"
+	},
+	{
+		"#text": "Title",
+		"@_name": "ghostData_title"
+	},
+	{
+		"#text": "\"Couldn't save group changes.\"",
+		"@_name": "groupSavedErrorToast"
+	},
+	{
+		"#text": "Group saved.",
+		"@_name": "groupSavedToast"
+	},
+	{
+		"#text": "Group name",
+		"@_name": "group_edit_field_hint_text"
+	},
+	{
+		"#text": "\"Group's name\"",
+		"@_name": "group_name_hint"
+	},
+	{
+		"#text": "Not editable on this device.",
+		"@_name": "group_read_only"
+	},
+	{
+		"#text": "Group",
+		"@_name": "groupsLabel"
+	},
+	{
+		"#text": "Account",
+		"@_name": "header_account_entry"
+	},
+	{
+		"#text": "Email",
+		"@_name": "header_email_entry"
+	},
+	{
+		"#text": "Create new contact",
+		"@_name": "header_entry_contact_list_adapter_header_title"
+	},
+	{
+		"#text": "Event",
+		"@_name": "header_event_entry"
+	},
+	{
+		"#text": "IM",
+		"@_name": "header_im_entry"
+	},
+	{
+		"#text": "Name",
+		"@_name": "header_name_entry"
+	},
+	{
+		"#text": "Nickname",
+		"@_name": "header_nickname_entry"
+	},
+	{
+		"#text": "Note",
+		"@_name": "header_note_entry"
+	},
+	{
+		"#text": "Organization",
+		"@_name": "header_organization_entry"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "header_phone_entry"
+	},
+	{
+		"#text": "Photo",
+		"@_name": "header_photo_entry"
+	},
+	{
+		"#text": "Relation",
+		"@_name": "header_relation_entry"
+	},
+	{
+		"#text": "Website",
+		"@_name": "header_website_entry"
+	},
+	{
+		"@_name": "help_url_people_add"
+	},
+	{
+		"@_name": "help_url_people_edit"
+	},
+	{
+		"@_name": "help_url_people_main"
+	},
+	{
+		"#text": "android.support.design.behavior.HideBottomViewOnScrollBehavior",
+		"@_name": "hide_bottom_view_on_scroll_behavior"
+	},
+	{
+		"#text": "Find contacts",
+		"@_name": "hint_findContacts"
+	},
+	{
+		"#text": "SIM 2",
+		"@_name": "home"
+	},
+	{
+		"#text": "Hardware version",
+		"@_name": "hw_version"
+	},
+	{
+		"#text": "IM",
+		"@_name": "imLabelsGroup"
+	},
+	{
+		"#text": "IMEI",
+		"@_name": "imei"
+	},
+	{
+		"#text": "Import all vCard files",
+		"@_name": "import_all_vcard_string"
+	},
+	{
+		"#text": "No vCard file found on the SD card",
+		"@_name": "import_failure_no_vcard_file"
+	},
+	{
+		"#text": "Import from storage",
+		"@_name": "import_from_sdcard"
+	},
+	{
+		"#text": "Import from SIM card",
+		"@_name": "import_from_sim"
+	},
+	{
+		"#text": "Import from SIM ^1 - ^2",
+		"@_name": "import_from_sim_summary"
+	},
+	{
+		"#text": "Import from SIM %1$s",
+		"@_name": "import_from_sim_summary_no_number"
+	},
+	{
+		"#text": "Importing",
+		"@_name": "import_in_progress"
+	},
+	{
+		"#text": "Import multiple vCard files",
+		"@_name": "import_multiple_vcard_string"
+	},
+	{
+		"#text": "Import one vCard file",
+		"@_name": "import_one_vcard_string"
+	},
+	{
+		"#text": "Export to",
+		"@_name": "import_to"
+	},
+	{
+		"#text": "Importing %s canceled",
+		"@_name": "importing_vcard_canceled_title"
+	},
+	{
+		"#text": "Importing %s",
+		"@_name": "importing_vcard_description"
+	},
+	{
+		"#text": "VCard %s imported",
+		"@_name": "importing_vcard_finished_title"
+	},
+	{
+		"#text": "Initializing",
+		"@_name": "initializing_message"
+	},
+	{
+		"#text": "Create contact",
+		"@_name": "insertContactDescription"
+	},
+	{
+		"#text": "Create group",
+		"@_name": "insertGroupDescription"
+	},
+	{
+		"#text": "Export to phone",
+		"@_name": "intent_confirm_button_text_export"
+	},
+	{
+		"#text": "Import phone contacts to SIM card",
+		"@_name": "intent_window_title"
+	},
+	{
+		"#text": "\"The contact doesn't exist.\"",
+		"@_name": "invalidContactMessage"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Keep local",
+		"@_name": "keep_local"
+	},
+	{
+		"#text": "Add",
+		"@_name": "labelSimcBtnCreateContact"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "label_notes"
+	},
+	{
+		"#text": "SIP",
+		"@_name": "label_sip_address"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "lableBtnDeleteSelected"
+	},
+	{
+		"#text": "No name",
+		"@_name": "lable_no_name"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "launcherActivityLabel"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "letter_tile_letter_font_family"
+	},
+	{
+		"#text": "Contacts in %s",
+		"@_name": "listAllContactsInAccount"
+	},
+	{
+		"#text": "Contacts in custom view",
+		"@_name": "listCustomView"
+	},
+	{
+		"#text": "No Contacts",
+		"@_name": "listFoundAllContactsZero"
+	},
+	{
+		"#text": "Single contact",
+		"@_name": "listSingleContact"
+	},
+	{
+		"#text": "No Contacts",
+		"@_name": "listTotalAllContactsZero"
+	},
+	{
+		"#text": "No visible contacts",
+		"@_name": "listTotalAllContactsZeroCustom"
+	},
+	{
+		"#text": "No contacts in %s",
+		"@_name": "listTotalAllContactsZeroGroup"
+	},
+	{
+		"#text": "No Favorites",
+		"@_name": "listTotalAllContactsZeroStarred"
+	},
+	{
+		"#text": "No contacts with phone numbers",
+		"@_name": "listTotalPhoneContactsZero"
+	},
+	{
+		"#text": "\", \"",
+		"@_name": "list_delimeter"
+	},
+	{
+		"#text": "All contacts",
+		"@_name": "list_filter_all_accounts"
+	},
+	{
+		"#text": "Starred",
+		"@_name": "list_filter_all_starred"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "list_filter_custom"
+	},
+	{
+		"#text": "Customize",
+		"@_name": "list_filter_customize"
+	},
+	{
+		"#text": "All contacts with phone numbers",
+		"@_name": "list_filter_phones"
+	},
+	{
+		"#text": "Contact",
+		"@_name": "list_filter_single"
+	},
+	{
+		"#text": "Other",
+		"@_name": "local_invisible_directory"
+	},
+	{
+		"#text": "Local number",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "My local profile",
+		"@_name": "local_profile_title"
+	},
+	{
+		"#text": "All contacts",
+		"@_name": "local_search_label"
+	},
+	{
+		"#text": "Contact list is being updated to reflect the change of language.",
+		"@_name": "locale_change_in_progress"
+	},
+	{
+		"#text": "Remember this choice",
+		"@_name": "make_primary"
+	},
+	{
+		"#text": "View %s address",
+		"@_name": "map_custom"
+	},
+	{
+		"#text": "View home address",
+		"@_name": "map_home"
+	},
+	{
+		"#text": "View address",
+		"@_name": "map_other"
+	},
+	{
+		"#text": "View work address",
+		"@_name": "map_work"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "MEID",
+		"@_name": "meid"
+	},
+	{
+		"#text": "Accounts",
+		"@_name": "menu_accounts"
+	},
+	{
+		"#text": "Add to favorites",
+		"@_name": "menu_addStar"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "menu_add_contact"
+	},
+	{
+		"#text": "All contacts",
+		"@_name": "menu_allContacts"
+	},
+	{
+		"#text": "Call contact",
+		"@_name": "menu_call"
+	},
+	{
+		"#text": "Call %s",
+		"@_name": "menu_callNumber"
+	},
+	{
+		"#text": "Clear favorite contacts",
+		"@_name": "menu_clear_frequents"
+	},
+	{
+		"#text": "Contacts to display",
+		"@_name": "menu_contacts_filter"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "menu_copy"
+	},
+	{
+		"#text": "Copy to My Contacts",
+		"@_name": "menu_copyContact"
+	},
+	{
+		"#text": "Place on Home screen",
+		"@_name": "menu_create_contact_shortcut"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "menu_deleteContact"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "menu_deleteGroup"
+	},
+	{
+		"#text": "Discard changes",
+		"@_name": "menu_discard"
+	},
+	{
+		"#text": "Show all",
+		"@_name": "menu_display_all"
+	},
+	{
+		"#text": "Show selected",
+		"@_name": "menu_display_selected"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "menu_doNotSave"
+	},
+	{
+		"#text": "Done",
+		"@_name": "menu_done"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "menu_editContact"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "menu_editGroup"
+	},
+	{
+		"#text": "Export database files",
+		"@_name": "menu_export_database"
+	},
+	{
+		"#text": "Help",
+		"@_name": "menu_help"
+	},
+	{
+		"#text": "Import/export",
+		"@_name": "menu_import_export"
+	},
+	{
+		"#text": "Join",
+		"@_name": "menu_joinAggregate"
+	},
+	{
+		"#text": "New contact",
+		"@_name": "menu_newContact"
+	},
+	{
+		"#text": "Add Contact",
+		"@_name": "menu_new_contact_action_bar"
+	},
+	{
+		"#text": "Add Group",
+		"@_name": "menu_new_group_action_bar"
+	},
+	{
+		"#text": "All calls to voicemail",
+		"@_name": "menu_redirect_calls_to_vm"
+	},
+	{
+		"#text": "Remove from favorites",
+		"@_name": "menu_removeStar"
+	},
+	{
+		"#text": "Search",
+		"@_name": "menu_search"
+	},
+	{
+		"#text": "Select all",
+		"@_name": "menu_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "menu_select_none"
+	},
+	{
+		"#text": "Select SIM card",
+		"@_name": "menu_select_sim"
+	},
+	{
+		"#text": "Text contact",
+		"@_name": "menu_sendSMS"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "menu_sendTextMessage"
+	},
+	{
+		"#text": "Set ringtone",
+		"@_name": "menu_set_ring_tone"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "menu_settings"
+	},
+	{
+		"#text": "Share",
+		"@_name": "menu_share"
+	},
+	{
+		"#text": "Show all calls",
+		"@_name": "menu_show_all_calls"
+	},
+	{
+		"#text": "Show incoming only",
+		"@_name": "menu_show_incoming_only"
+	},
+	{
+		"#text": "Show missed only",
+		"@_name": "menu_show_missed_only"
+	},
+	{
+		"#text": "Show outgoing only",
+		"@_name": "menu_show_outgoing_only"
+	},
+	{
+		"#text": "Show voicemails only",
+		"@_name": "menu_show_voicemails_only"
+	},
+	{
+		"#text": "Separate",
+		"@_name": "menu_splitAggregate"
+	},
+	{
+		"#text": "Remove sync group",
+		"@_name": "menu_sync_remove"
+	},
+	{
+		"#text": "View contact",
+		"@_name": "menu_viewContact"
+	},
+	{
+		"#text": "Choose a number to message",
+		"@_name": "messageShortcutActivityTitle"
+	},
+	{
+		"#text": "You: %s",
+		"@_name": "message_from_you_prefix"
+	},
+	{
+		"#text": "This account does not support Web call",
+		"@_name": "message_sip_address"
+	},
+	{
+		"#text": "No app for this operation.",
+		"@_name": "missing_app"
+	},
+	{
+		"#text": "(No name)",
+		"@_name": "missing_name"
+	},
+	{
+		"#text": "Model",
+		"@_name": "model_name"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Remove %1$s",
+		"@_name": "mtrl_chip_close_icon_content_description"
+	},
+	{
+		"#text": "Deleting this contact will delete information from multiple accounts.",
+		"@_name": "multipleContactDeleteConfirmation"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "com.android.contacts.files",
+		"@_name": "mz_photo_file_provider_authority"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "SIM",
+		"@_name": "mzc_account_name_base"
+	},
+	{
+		"#text": "SIM 2",
+		"@_name": "mzc_account_name_home"
+	},
+	{
+		"#text": "SIM 1",
+		"@_name": "mzc_account_name_work"
+	},
+	{
+		"#text": "%s contacts",
+		"@_name": "mzc_account_type_lable"
+	},
+	{
+		"#text": "Local",
+		"@_name": "mzc_account_type_lable_device_only"
+	},
+	{
+		"#text": "Gmail",
+		"@_name": "mzc_account_type_lable_eas_gmail"
+	},
+	{
+		"#text": "Meizu",
+		"@_name": "mzc_account_type_lable_eas_meizu"
+	},
+	{
+		"#text": "QQ",
+		"@_name": "mzc_account_type_lable_eas_qq"
+	},
+	{
+		"#text": "Flyme",
+		"@_name": "mzc_account_type_lable_flyme"
+	},
+	{
+		"#text": "Online Yellow Pages",
+		"@_name": "mzc_account_type_lable_net_contact"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "mzc_add_contact"
+	},
+	{
+		"#text": "Add more info",
+		"@_name": "mzc_add_field"
+	},
+	{
+		"#text": "Add tag",
+		"@_name": "mzc_add_mark"
+	},
+	{
+		"#text": "Add to blacklist",
+		"@_name": "mzc_add_spam"
+	},
+	{
+		"#text": "Add to existing contact",
+		"@_name": "mzc_add_to_exist_contact"
+	},
+	{
+		"#text": "Merging",
+		"@_name": "mzc_aggregating"
+	},
+	{
+		"#text": "Merge",
+		"@_name": "mzc_aggregating_join_button"
+	},
+	{
+		"#text": "Contacts with the same name or the same number",
+		"@_name": "mzc_aggregation_banner_title"
+	},
+	{
+		"#text": "Aggregate Duplicate Contacts",
+		"@_name": "mzc_aggregation_contact_title"
+	},
+	{
+		"#text": "No Duplicate Contacts",
+		"@_name": "mzc_aggregation_empty"
+	},
+	{
+		"#text": "Merge",
+		"@_name": "mzc_aggregation_menu"
+	},
+	{
+		"#text": "%s duplicates merged successfully",
+		"@_name": "mzc_aggregation_notify_complete_content"
+	},
+	{
+		"#text": "%s contact(s) merged, %s contact(s) failed",
+		"@_name": "mzc_aggregation_notify_complete_content1",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Merging completed",
+		"@_name": "mzc_aggregation_notify_complete_title"
+	},
+	{
+		"#text": "Add the current data to the same name of the contact for editing?",
+		"@_name": "mzc_aggregation_suggestion_edit_dialog_message"
+	},
+	{
+		"#text": "Select contacts",
+		"@_name": "mzc_aggregation_title"
+	},
+	{
+		"#text": "Pay to",
+		"@_name": "mzc_ali_payment_dilog_title"
+	},
+	{
+		"#text": "Alipay",
+		"@_name": "mzc_alipay"
+	},
+	{
+		"#text": "Alipay transfer",
+		"@_name": "mzc_alipay_transfer"
+	},
+	{
+		"#text": "All call logs",
+		"@_name": "mzc_all_call_log"
+	},
+	{
+		"#text": "@string/launcherActivityLabel",
+		"@_name": "mzc_applicationLabel"
+	},
+	{
+		"#text": "Set as default account",
+		"@_name": "mzc_as_default_account"
+	},
+	{
+		"#text": "Auto-sync changed contacts to each account",
+		"@_name": "mzc_auto_sync_account_tip_sub_title"
+	},
+	{
+		"#text": "Auto-sync",
+		"@_name": "mzc_auto_sync_account_tip_title"
+	},
+	{
+		"#text": "%s m %s s",
+		"@_name": "mzc_callDetailsDurationFormat",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Rang %s time(s)",
+		"@_name": "mzc_callDetailsDurationFormat3"
+	},
+	{
+		"#text": "%s s",
+		"@_name": "mzc_callDetailsDurationFormatSecond"
+	},
+	{
+		"#text": "%s h %s m %s s",
+		"@_name": "mzc_callDetailsDurationFormatWithHour",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mzc_call_detail_all_entries_delete_call"
+	},
+	{
+		"#text": "Dial IP numbers",
+		"@_name": "mzc_call_ip_number"
+	},
+	{
+		"#text": "Call logs",
+		"@_name": "mzc_call_log"
+	},
+	{
+		"#text": "%s / %s",
+		"@_name": "mzc_call_log_date_format",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Delete %s Call Log(s)",
+		"@_name": "mzc_call_log_delete_dialog_ok_text"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "mzc_call_log_deleting"
+	},
+	{
+		"#text": "Select Call Log",
+		"@_name": "mzc_call_log_no_choiced_title"
+	},
+	{
+		"#text": "Rang one time",
+		"@_name": "mzc_call_missed_ring_one_time"
+	},
+	{
+		"#text": "Discard your changes?",
+		"@_name": "mzc_cancel_confirmation_dialog_message"
+	},
+	{
+		"#text": "Cancel copying of contacts?",
+		"@_name": "mzc_cancel_copy_confirmation_message"
+	},
+	{
+		"#text": "Change label",
+		"@_name": "mzc_change_label"
+	},
+	{
+		"#text": "Clear call logs",
+		"@_name": "mzc_clear_call_log"
+	},
+	{
+		"#text": "/sdcard",
+		"@_name": "mzc_config_export_dir"
+	},
+	{
+		"@_name": "mzc_config_export_file_suffix"
+	},
+	{
+		"#text": "sd",
+		"@_name": "mzc_config_export_sd_file_suffix"
+	},
+	{
+		"#text": "Save failed",
+		"@_name": "mzc_contactSavedErrorToast"
+	},
+	{
+		"#text": "Create and insert",
+		"@_name": "mzc_contact_edit_create_insert_group"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "mzc_contact_edit_custom_label"
+	},
+	{
+		"#text": "Discard",
+		"@_name": "mzc_contact_edit_discard"
+	},
+	{
+		"#text": "Unsupported characters are entered",
+		"@_name": "mzc_contact_edit_filter_info"
+	},
+	{
+		"#text": "The number is in %1$s",
+		"@_name": "mzc_contact_edit_has_same_phone"
+	},
+	{
+		"#text": "Insert groups",
+		"@_name": "mzc_contact_edit_insert_group"
+	},
+	{
+		"#text": "Contact will be saved to %1$s account",
+		"@_name": "mzc_contact_edit_save_in_account"
+	},
+	{
+		"#text": "Edit contact",
+		"@_name": "mzc_contact_editor_title_editor_contact"
+	},
+	{
+		"#text": "New contact",
+		"@_name": "mzc_contact_editor_title_new_contact"
+	},
+	{
+		"#text": "Update avatar",
+		"@_name": "mzc_contact_editor_update_photo"
+	},
+	{
+		"#text": "photo",
+		"@_name": "mzc_contact_photo"
+	},
+	{
+		"#text": "Sorting method",
+		"@_name": "mzc_contact_sort_description"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "mzc_contacts_delete_progress"
+	},
+	{
+		"#text": "Import contacts",
+		"@_name": "mzc_contacts_from_other"
+	},
+	{
+		"#text": "1. Enable Bluetooth on the other phone",
+		"@_name": "mzc_contacts_from_other_bluetooth_one"
+	},
+	{
+		"#text": "• On Android devices \\\"Bluetooth\\\" is usually found in Settings > Wireless and Networks.",
+		"@_name": "mzc_contacts_from_other_bluetooth_one_first"
+	},
+	{
+		"#text": "• On iPhones with older versions of iOS, \\\"Bluetooth\\\" is usually found in Settings > General.",
+		"@_name": "mzc_contacts_from_other_bluetooth_one_second"
+	},
+	{
+		"#text": "To avoid link break-off, please keep the two devices close while transferring files.",
+		"@_name": "mzc_contacts_from_other_bluetooth_tibs"
+	},
+	{
+		"#text": "2. Allow other devices to discover the phone",
+		"@_name": "mzc_contacts_from_other_bluetooth_two"
+	},
+	{
+		"#text": "• Certain Android devices may be described as \\\"discoverable\\\" or \\\"detectable\\\".",
+		"@_name": "mzc_contacts_from_other_bluetooth_two_first"
+	},
+	{
+		"#text": "• iOS devices can skip this step.",
+		"@_name": "mzc_contacts_from_other_bluetooth_two_second"
+	},
+	{
+		"#text": "Please insert Sim",
+		"@_name": "mzc_contacts_from_other_fail_no_sim"
+	},
+	{
+		"#text": "Import contacts by bluetooth fail",
+		"@_name": "mzc_contacts_from_other_fail_one"
+	},
+	{
+		"#text": "you can try to",
+		"@_name": "mzc_contacts_from_other_fail_two"
+	},
+	{
+		"#text": "\"  imported by SIM Card\"",
+		"@_name": "mzc_contacts_from_other_fail_two_click"
+	},
+	{
+		"#text": "Next",
+		"@_name": "mzc_contacts_from_other_menu_next"
+	},
+	{
+		"#text": "Try again",
+		"@_name": "mzc_contacts_from_other_menu_retry"
+	},
+	{
+		"#text": "Stop transmission",
+		"@_name": "mzc_contacts_from_other_menu_stop_trans"
+	},
+	{
+		"#text": "Reading contacts again",
+		"@_name": "mzc_contacts_from_other_open_bluetooth"
+	},
+	{
+		"#text": "Receiving %1$s contacts",
+		"@_name": "mzc_contacts_from_other_receive_contact"
+	},
+	{
+		"#text": "%",
+		"@_name": "mzc_contacts_from_other_receive_percent"
+	},
+	{
+		"#text": "Reading contacts",
+		"@_name": "mzc_contacts_from_other_receive_reading"
+	},
+	{
+		"#text": "Stop receiving contacts？",
+		"@_name": "mzc_contacts_from_other_receive_stop_dialog"
+	},
+	{
+		"#text": "recent call. %s. %s. %s",
+		"@_name": "mzc_content_description_recent_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Batch delete",
+		"@_name": "mzc_context_menu_batch_edit"
+	},
+	{
+		"#text": "Web call to enterprise",
+		"@_name": "mzc_context_menu_enterprise_call"
+	},
+	{
+		"#text": "Regular call",
+		"@_name": "mzc_context_menu_normal_call"
+	},
+	{
+		"#text": "\" - Regular call\"",
+		"@_name": "mzc_context_menu_normal_call_suffix"
+	},
+	{
+		"#text": "Special line call",
+		"@_name": "mzc_context_menu_private_call"
+	},
+	{
+		"#text": "\" - Special line call\"",
+		"@_name": "mzc_context_menu_private_call_suffix"
+	},
+	{
+		"#text": "internet phone call",
+		"@_name": "mzc_context_menu_sip_call"
+	},
+	{
+		"#text": "\" - Web Call\"",
+		"@_name": "mzc_context_menu_sip_call_suffix"
+	},
+	{
+		"#text": "Make video call",
+		"@_name": "mzc_context_menu_video_call"
+	},
+	{
+		"#text": "Copying",
+		"@_name": "mzc_copying"
+	},
+	{
+		"#text": "Copying canceled",
+		"@_name": "mzc_copying_canceled_title"
+	},
+	{
+		"#text": "Contacts copied",
+		"@_name": "mzc_copying_contact_finished_title"
+	},
+	{
+		"#text": "Copying of contacts canceled",
+		"@_name": "mzc_copying_contacts_canceled_title"
+	},
+	{
+		"#text": "Contacts copied to %s",
+		"@_name": "mzc_copying_contacts_notifier_title"
+	},
+	{
+		"#text": "The system is busy. Please try again later.",
+		"@_name": "mzc_copying_request_rejected_message"
+	},
+	{
+		"#text": "Flyme Account",
+		"@_name": "mzc_copying_target_flyme_account"
+	},
+	{
+		"#text": "Phone needs to access the internet and use your location to identify numbers",
+		"@_name": "mzc_cta_dialog_message"
+	},
+	{
+		"#text": "Ringtone",
+		"@_name": "mzc_custom_ringtone"
+	},
+	{
+		"#text": "You need to: 1) make a copy of your database which includes all contact information and all call logs to the internal storage, and 2) email it. Remember to delete the copy asap after you have copied it from the device or the email is received.",
+		"@_name": "mzc_debug_dump_database_message"
+	},
+	{
+		"#text": "Delete now",
+		"@_name": "mzc_debug_dump_delete_button"
+	},
+	{
+		"#text": "Attached is my dialer database with all my contact information. Be careful when handling it!",
+		"@_name": "mzc_debug_dump_email_body"
+	},
+	{
+		"#text": "Choose a program to send your file",
+		"@_name": "mzc_debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "Dialer database attached",
+		"@_name": "mzc_debug_dump_email_subject"
+	},
+	{
+		"#text": "Start",
+		"@_name": "mzc_debug_dump_start_button"
+	},
+	{
+		"#text": "Copy dialer database",
+		"@_name": "mzc_debug_dump_title"
+	},
+	{
+		"#text": "Default account",
+		"@_name": "mzc_default_account"
+	},
+	{
+		"#text": "New contact will be saved to default account",
+		"@_name": "mzc_default_account_tip_text"
+	},
+	{
+		"#text": "Recommended",
+		"@_name": "mzc_default_recommend_flyme_account"
+	},
+	{
+		"#text": "Default ringtone",
+		"@_name": "mzc_default_ringtone"
+	},
+	{
+		"#text": "This contact will be deleted",
+		"@_name": "mzc_deleteContactConfirmation"
+	},
+	{
+		"#text": "Delete Contact",
+		"@_name": "mzc_delete_contact"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzc_delete_vcard"
+	},
+	{
+		"#text": "Details of %1$s",
+		"@_name": "mzc_description_detail_of"
+	},
+	{
+		"#text": "Backspace",
+		"@_name": "mzc_description_dialpad_delete_button"
+	},
+	{
+		"#text": "Card 1 dial",
+		"@_name": "mzc_description_dialpad_dial_button1"
+	},
+	{
+		"#text": "Card 2 dial",
+		"@_name": "mzc_description_dialpad_dial_button2"
+	},
+	{
+		"#text": "Collapse dialpad",
+		"@_name": "mzc_description_dialpad_hide_button"
+	},
+	{
+		"#text": "Clear input",
+		"@_name": "mzc_description_search_clear"
+	},
+	{
+		"#text": "Details",
+		"@_name": "mzc_detail"
+	},
+	{
+		"#text": "Contact infomation",
+		"@_name": "mzc_detail_contact_info"
+	},
+	{
+		"#text": "Invalid dialing",
+		"@_name": "mzc_dialer_invalid_dialing"
+	},
+	{
+		"#text": "Please insert SIM card",
+		"@_name": "mzc_dialog_voicemail_no_sim_message"
+	},
+	{
+		"#text": "Input the initials of contact",
+		"@_name": "mzc_driver_input_hint"
+	},
+	{
+		"#text": "Driver Mode",
+		"@_name": "mzc_driver_title"
+	},
+	{
+		"#text": "Edit contact",
+		"@_name": "mzc_easy_mode_edit_contact"
+	},
+	{
+		"#text": "Favorite contact",
+		"@_name": "mzc_easy_mode_is_not_starred"
+	},
+	{
+		"#text": "Share contact",
+		"@_name": "mzc_easy_mode_share_contact"
+	},
+	{
+		"#text": "Call",
+		"@_name": "mzc_easymode_call"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "mzc_edit_contact"
+	},
+	{
+		"#text": "Modify",
+		"@_name": "mzc_editor"
+	},
+	{
+		"#text": "\"Save contacts without a name?\n\"",
+		"@_name": "mzc_editor_contacts_no_name"
+	},
+	{
+		"#text": "Save",
+		"@_name": "mzc_editor_contacts_save"
+	},
+	{
+		"#text": "Work",
+		"@_name": "mzc_emailTypeWork"
+	},
+	{
+		"#text": "Web call made to customer service of",
+		"@_name": "mzc_enterprise_call"
+	},
+	{
+		"#text": "Web call to enterprise",
+		"@_name": "mzc_enterprise_call_label"
+	},
+	{
+		"#text": "Visual menu service",
+		"@_name": "mzc_enterprise_call_message"
+	},
+	{
+		"#text": "Error correction",
+		"@_name": "mzc_error_correction"
+	},
+	{
+		"#text": "Details: %d succeeded, %d failed",
+		"@_name": "mzc_error_success_missing_count",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Date",
+		"@_name": "mzc_eventLabelsGroup"
+	},
+	{
+		"#text": "Anniversary",
+		"@_name": "mzc_eventTypeAnniversary"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mzc_export_to_item_bluetooth"
+	},
+	{
+		"#text": "Preparing vCard",
+		"@_name": "mzc_export_to_prepare_vcard"
+	},
+	{
+		"#text": "Export contacts",
+		"@_name": "mzc_export_vcard_activity_title"
+	},
+	{
+		"#text": "Exporting completed",
+		"@_name": "mzc_exporting_contact_finished_title"
+	},
+	{
+		"#text": "Exporting contact",
+		"@_name": "mzc_exporting_contact_list_message"
+	},
+	{
+		"#text": "Exporting contacts",
+		"@_name": "mzc_exporting_contacts"
+	},
+	{
+		"#text": "Contacts file exported: %1$s",
+		"@_name": "mzc_exporting_file_finish_sub_title"
+	},
+	{
+		"#text": "\"\nPossible reason:\n1. SIM card full \n2. Name or number in wrong format\"",
+		"@_name": "mzc_fail_reason"
+	},
+	{
+		"#text": "Unable to start exporter: %s",
+		"@_name": "mzc_fail_reason_could_not_initialize_exporter"
+	},
+	{
+		"#text": "Unable to open %s: %s",
+		"@_name": "mzc_fail_reason_could_not_open_file",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Error exporting: %s",
+		"@_name": "mzc_fail_reason_error_occurred_during_export"
+	},
+	{
+		"#text": "Unable to collect meta information of specified vCard file(s)",
+		"@_name": "mzc_fail_reason_failed_to_collect_vcard_meta_info"
+	},
+	{
+		"#text": "One or more files cannot be imported (%s)",
+		"@_name": "mzc_fail_reason_failed_to_read_files"
+	},
+	{
+		"#text": "I/O Error",
+		"@_name": "mzc_fail_reason_io_error"
+	},
+	{
+		"#text": "Out of space. File may be too large",
+		"@_name": "mzc_fail_reason_low_memory_during_import"
+	},
+	{
+		"#text": "No contacts to export",
+		"@_name": "mzc_fail_reason_no_exportable_contact"
+	},
+	{
+		"#text": "No files to import",
+		"@_name": "mzc_fail_reason_no_importable_file"
+	},
+	{
+		"#text": "Insufficient space",
+		"@_name": "mzc_fail_reason_no_space"
+	},
+	{
+		"#text": "Unsupported format",
+		"@_name": "mzc_fail_reason_not_supported"
+	},
+	{
+		"#text": "Specified filename too long (%s)",
+		"@_name": "mzc_fail_reason_too_long_filename"
+	},
+	{
+		"#text": "Too many vCard files in the storage",
+		"@_name": "mzc_fail_reason_too_many_vcard"
+	},
+	{
+		"#text": "Unknown error",
+		"@_name": "mzc_fail_reason_unknown"
+	},
+	{
+		"#text": "Could not open vCard",
+		"@_name": "mzc_fail_reason_vcard_can_not_parse_error"
+	},
+	{
+		"#text": "Unable to parse vCard for unexpected reason",
+		"@_name": "mzc_fail_reason_vcard_parse_error"
+	},
+	{
+		"#text": "Web call made to",
+		"@_name": "mzc_flyme_sip_call"
+	},
+	{
+		"#text": "Web message sent to",
+		"@_name": "mzc_flyme_sip_mms"
+	},
+	{
+		"#text": "Import contacts",
+		"@_name": "mzc_footer_import"
+	},
+	{
+		"#text": "%s company contacts",
+		"@_name": "mzc_gal_lable"
+	},
+	{
+		"#text": "Work",
+		"@_name": "mzc_ghostData_company"
+	},
+	{
+		"#text": "Groups",
+		"@_name": "mzc_group_manager"
+	},
+	{
+		"#text": "Add contacts",
+		"@_name": "mzc_group_manager_add_contacts"
+	},
+	{
+		"#text": "Adding contacts",
+		"@_name": "mzc_group_manager_adding_contacts_message"
+	},
+	{
+		"#text": "Create group",
+		"@_name": "mzc_group_manager_create_new_group"
+	},
+	{
+		"#text": "Delete group",
+		"@_name": "mzc_group_manager_delete"
+	},
+	{
+		"#text": "Removing this group will not delete the contact",
+		"@_name": "mzc_group_manager_delete_group_sub_title"
+	},
+	{
+		"#text": "Delete group",
+		"@_name": "mzc_group_manager_delete_group_title"
+	},
+	{
+		"#text": "Do not delete read-only group",
+		"@_name": "mzc_group_manager_delete_readonly"
+	},
+	{
+		"#text": "Has same tag",
+		"@_name": "mzc_group_manager_input_same_tip"
+	},
+	{
+		"#text": "Add",
+		"@_name": "mzc_group_manager_menu_insert"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "mzc_group_manager_menu_remove"
+	},
+	{
+		"#text": "Modify title",
+		"@_name": "mzc_group_manager_modify"
+	},
+	{
+		"#text": "Input title of group",
+		"@_name": "mzc_group_manager_new_group_hint_text"
+	},
+	{
+		"#text": "Removing a member will not delete the contact",
+		"@_name": "mzc_group_manager_remove_contacts_from_item_tips"
+	},
+	{
+		"#text": "Removing contacts",
+		"@_name": "mzc_group_manager_removing_contacts_from_tag"
+	},
+	{
+		"#text": "%1$s people",
+		"@_name": "mzc_group_manager_total_people"
+	},
+	{
+		"#text": "Weibo contacts",
+		"@_name": "mzc_group_title_weibo_contacts"
+	},
+	{
+		"#text": "Sync disabled",
+		"@_name": "mzc_has_not_open_auto_sync"
+	},
+	{
+		"#text": "Sync enabled",
+		"@_name": "mzc_has_open_auto_sync"
+	},
+	{
+		"#text": "Hour",
+		"@_name": "mzc_hour"
+	},
+	{
+		"#text": "IM",
+		"@_name": "mzc_imLabelsGroup"
+	},
+	{
+		"#text": "Import to phone",
+		"@_name": "mzc_import_contact"
+	},
+	{
+		"#text": "Import to",
+		"@_name": "mzc_import_contact_to"
+	},
+	{
+		"#text": "Import",
+		"@_name": "mzc_import_vcard"
+	},
+	{
+		"#text": "Import from local",
+		"@_name": "mzc_import_vcard_activity_title"
+	},
+	{
+		"#text": "Importing",
+		"@_name": "mzc_importing"
+	},
+	{
+		"#text": "Importing contacts",
+		"@_name": "mzc_importing_contacts"
+	},
+	{
+		"#text": "%1$s contact(s) imported successfully",
+		"@_name": "mzc_importing_finish_sub_title"
+	},
+	{
+		"#text": "Importing completed",
+		"@_name": "mzc_importing_vcard_finished_title"
+	},
+	{
+		"#text": "Search Global Contacts",
+		"@_name": "mzc_international_search_exchange_directory"
+	},
+	{
+		"#text": "Delete unnamed or unnumbered contacts",
+		"@_name": "mzc_invalid_contacts_banner_title"
+	},
+	{
+		"#text": "Deleted",
+		"@_name": "mzc_invalid_contacts_done"
+	},
+	{
+		"#text": "No name",
+		"@_name": "mzc_invalid_contacts_no_name"
+	},
+	{
+		"#text": "No number",
+		"@_name": "mzc_invalid_contacts_no_number"
+	},
+	{
+		"#text": "No invalid contacts found",
+		"@_name": "mzc_invalid_contacts_none"
+	},
+	{
+		"#text": "Delete invalid contacts",
+		"@_name": "mzc_invalid_contacts_title"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mzc_is_not_starred"
+	},
+	{
+		"#text": "Unfavorite",
+		"@_name": "mzc_is_starred"
+	},
+	{
+		"#text": "The feature is not supported in the current mode",
+		"@_name": "mzc_is_supper_power_mode_warning"
+	},
+	{
+		"#text": "Edit before dialing",
+		"@_name": "mzc_item_call_edit"
+	},
+	{
+		"#text": "Copy phone number",
+		"@_name": "mzc_item_copy_phone_number"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "mzc_item_copy_text"
+	},
+	{
+		"#text": "+ %s",
+		"@_name": "mzc_item_default_sim_ip_call"
+	},
+	{
+		"#text": "SIM%s + %s",
+		"@_name": "mzc_item_sim_card_ip_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Show less",
+		"@_name": "mzc_less"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mzc_loading"
+	},
+	{
+		"#text": "My profile",
+		"@_name": "mzc_local_profile_title"
+	},
+	{
+		"#text": "Manager",
+		"@_name": "mzc_manager_menu"
+	},
+	{
+		"#text": "Support %1$s item(s) maximum",
+		"@_name": "mzc_max_limit"
+	},
+	{
+		"#text": "珠海市唐家湾科技创新海岸魅族科技楼",
+		"@_name": "mzc_meizu_address"
+	},
+	{
+		"#text": "魅族科技",
+		"@_name": "mzc_meizu_company"
+	},
+	{
+		"#text": "Call recording history",
+		"@_name": "mzc_menu_call_recording"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzc_menu_delete"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzc_menu_delete_text"
+	},
+	{
+		"#text": "Export to %s",
+		"@_name": "mzc_menu_export_to"
+	},
+	{
+		"#text": "Export to local",
+		"@_name": "mzc_menu_export_to_disk"
+	},
+	{
+		"#text": "Import",
+		"@_name": "mzc_menu_import"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mzc_menu_share"
+	},
+	{
+		"#text": "The other phone does not support network",
+		"@_name": "mzc_message_sip_address"
+	},
+	{
+		"#text": "No name",
+		"@_name": "mzc_missing_name"
+	},
+	{
+		"#text": "None",
+		"@_name": "mzc_missing_name_index"
+	},
+	{
+		"#text": "Modify tag",
+		"@_name": "mzc_modify_mark"
+	},
+	{
+		"#text": "Show more",
+		"@_name": "mzc_more"
+	},
+	{
+		"#text": "Adding",
+		"@_name": "mzc_mspace_add_message"
+	},
+	{
+		"#text": "Private",
+		"@_name": "mzc_mspace_add_privacy"
+	},
+	{
+		"#text": "Add private contacts",
+		"@_name": "mzc_mspace_add_privacy_contacts"
+	},
+	{
+		"#text": "You can add 100 private contacts at most.",
+		"@_name": "mzc_mspace_add_privacy_error"
+	},
+	{
+		"#text": "Unprivate",
+		"@_name": "mzc_mspace_cancel"
+	},
+	{
+		"#text": "Canceling",
+		"@_name": "mzc_mspace_cancel_message"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mzc_mspace_change_message"
+	},
+	{
+		"#text": "Revert %s to regular contact and restore the call logs and messages",
+		"@_name": "mzc_mspace_delete_contacts_message"
+	},
+	{
+		"#text": "Revert %s contacts inlcuding %s to regular contacts and recover their call logs and messages",
+		"@_name": "mzc_mspace_delete_contacts_message_more_than_tree",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "mzc_mspace_delete_message"
+	},
+	{
+		"#text": "No Private Contacts",
+		"@_name": "mzc_mspace_no_privacy_contacts"
+	},
+	{
+		"#text": "Private contacts",
+		"@_name": "mzc_mspace_title"
+	},
+	{
+		"#text": "Yellow page",
+		"@_name": "mzc_net_contact_app_label"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mzc_net_type_wlan"
+	},
+	{
+		"#text": "Web Communications",
+		"@_name": "mzc_network_communications"
+	},
+	{
+		"#text": "New",
+		"@_name": "mzc_new"
+	},
+	{
+		"#text": "Add to account",
+		"@_name": "mzc_new_contact_in"
+	},
+	{
+		"#text": "The contact is read and saved",
+		"@_name": "mzc_nfc_vcard_save_successed"
+	},
+	{
+		"#text": "No Contacts",
+		"@_name": "mzc_no_contacts"
+	},
+	{
+		"#text": "No SD card",
+		"@_name": "mzc_no_sdcard_title"
+	},
+	{
+		"#text": "No search results",
+		"@_name": "mzc_no_search_result"
+	},
+	{
+		"#text": "One week ago",
+		"@_name": "mzc_one_week_ago"
+	},
+	{
+		"#text": "Other operations",
+		"@_name": "mzc_other"
+	},
+	{
+		"#text": "Work fax",
+		"@_name": "mzc_phoneTypeFaxWork"
+	},
+	{
+		"#text": "Work",
+		"@_name": "mzc_phoneTypeWork"
+	},
+	{
+		"#text": "Call",
+		"@_name": "mzc_phone_call"
+	},
+	{
+		"#text": "Regular call",
+		"@_name": "mzc_phone_normal_call"
+	},
+	{
+		"#text": "SIM %s - Regular call",
+		"@_name": "mzc_phone_normal_slot_call"
+	},
+	{
+		"#text": "Use SIM %s for calls",
+		"@_name": "mzc_phone_slot_call"
+	},
+	{
+		"#text": "Video call",
+		"@_name": "mzc_phone_video_call"
+	},
+	{
+		"#text": "SIM %s - Video call",
+		"@_name": "mzc_phone_video_call_slot_call"
+	},
+	{
+		"#text": "Reset to default avatar?",
+		"@_name": "mzc_photo_restore_message"
+	},
+	{
+		"#text": "Select contact",
+		"@_name": "mzc_pick_contacts_title"
+	},
+	{
+		"#text": "Add",
+		"@_name": "mzc_pick_menu_add"
+	},
+	{
+		"#text": "Share contact",
+		"@_name": "mzc_pick_share_contact"
+	},
+	{
+		"#text": "Select vCard",
+		"@_name": "mzc_pick_vcard_title"
+	},
+	{
+		"#text": "Work",
+		"@_name": "mzc_postalTypeWork"
+	},
+	{
+		"#text": "Set up a default account for the new contact",
+		"@_name": "mzc_preference_account_dialog_subtitle"
+	},
+	{
+		"#text": "Manage account",
+		"@_name": "mzc_preference_account_manager_title"
+	},
+	{
+		"#text": "Merge duplicates",
+		"@_name": "mzc_preference_aggregation"
+	},
+	{
+		"#text": "Default account",
+		"@_name": "mzc_preference_default_account_title"
+	},
+	{
+		"#text": "Export contacts",
+		"@_name": "mzc_preference_export_contacts_title"
+	},
+	{
+		"#text": "Import from another phone",
+		"@_name": "mzc_preference_import_contacts_from_otherphone_title"
+	},
+	{
+		"#text": "Import from SIM card",
+		"@_name": "mzc_preference_import_contacts_from_sim_title"
+	},
+	{
+		"#text": "Import from local",
+		"@_name": "mzc_preference_import_contacts_from_storagedisk_title"
+	},
+	{
+		"#text": "Delete invalid contacts",
+		"@_name": "mzc_preference_invalid_contacts_title"
+	},
+	{
+		"#text": "Select account visible in contact",
+		"@_name": "mzc_preference_show_account_summary"
+	},
+	{
+		"#text": "Visible accounts",
+		"@_name": "mzc_preference_show_account_title"
+	},
+	{
+		"#text": "SIM card contacts",
+		"@_name": "mzc_preference_sim_contacts_title"
+	},
+	{
+		"#text": "Keep contacts consistent in accounts",
+		"@_name": "mzc_preference_sync_account_summary"
+	},
+	{
+		"#text": "Cross-account Sync",
+		"@_name": "mzc_preference_sync_account_title"
+	},
+	{
+		"#text": "Manage contacts",
+		"@_name": "mzc_preference_title"
+	},
+	{
+		"#text": "Add avatar",
+		"@_name": "mzc_preset_head_add"
+	},
+	{
+		"#text": "Done",
+		"@_name": "mzc_preset_head_finish"
+	},
+	{
+		"#text": "Update avatar",
+		"@_name": "mzc_preset_head_replace"
+	},
+	{
+		"#text": "Select",
+		"@_name": "mzc_preset_head_select"
+	},
+	{
+		"#text": "No preset avatars available, please update the firmware",
+		"@_name": "mzc_preset_select_empty"
+	},
+	{
+		"#text": "\" - SIM 1\"",
+		"@_name": "mzc_private_call_suffix_one"
+	},
+	{
+		"#text": "\" - SIM 2\"",
+		"@_name": "mzc_private_call_suffix_two"
+	},
+	{
+		"#text": "Copying contacts",
+		"@_name": "mzc_progress_copying_notifier_message"
+	},
+	{
+		"#text": "Importing %1$s/%2$s: %3$s",
+		"@_name": "mzc_progress_notifier_message"
+	},
+	{
+		"#text": "%1$s/%2$s %3$s%%",
+		"@_name": "mzc_progress_number"
+	},
+	{
+		"#text": "Share contact",
+		"@_name": "mzc_qr_code_action_bar_control_title"
+	},
+	{
+		"#text": "View All",
+		"@_name": "mzc_quick_contact_all_call_log"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzc_quick_contact_delete_contact"
+	},
+	{
+		"#text": "%s Data from %s",
+		"@_name": "mzc_quick_cp_source_from",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Data from %s",
+		"@_name": "mzc_quick_cp_source_from_without_marker"
+	},
+	{
+		"#text": "The contact is read-only",
+		"@_name": "mzc_read_only_contact"
+	},
+	{
+		"#text": "\"Can't export read-only contacts\"",
+		"@_name": "mzc_read_only_contacts_export_failed"
+	},
+	{
+		"#text": "Recent",
+		"@_name": "mzc_recent"
+	},
+	{
+		"#text": "No Recent Calls",
+		"@_name": "mzc_recentMissed_empty"
+	},
+	{
+		"#text": "Remove from blacklist",
+		"@_name": "mzc_remove_spam"
+	},
+	{
+		"#text": "Save to",
+		"@_name": "mzc_save_to"
+	},
+	{
+		"#text": "Unable to scan this SD card",
+		"@_name": "mzc_scanning_sdcard_failed_title"
+	},
+	{
+		"#text": "Search contacts",
+		"@_name": "mzc_search_contacts"
+	},
+	{
+		"#text": "Search for company contacts",
+		"@_name": "mzc_search_exchange_directory"
+	},
+	{
+		"#text": "The other party has no number to call",
+		"@_name": "mzc_search_result_dial_message"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "mzc_search_shortcut_add_to_contacts"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mzc_searching_vcard_message"
+	},
+	{
+		"#text": "Copying contacts",
+		"@_name": "mzc_select_contacts_copying_message"
+	},
+	{
+		"#text": "Copy Selected Contacts Later",
+		"@_name": "mzc_select_contacts_will_copy_message"
+	},
+	{
+		"#text": "Gallery",
+		"@_name": "mzc_select_photo_gallery"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "mzc_select_photo_restore"
+	},
+	{
+		"#text": "Camera",
+		"@_name": "mzc_select_photo_shot"
+	},
+	{
+		"#text": "Selected contact(s) will be imported later",
+		"@_name": "mzc_select_vcard_import_will_start_message"
+	},
+	{
+		"#text": "Send message",
+		"@_name": "mzc_send_sms"
+	},
+	{
+		"#text": "Set as default number",
+		"@_name": "mzc_set_default_phone_number"
+	},
+	{
+		"#text": "Set Blacklist",
+		"@_name": "mzc_set_spam"
+	},
+	{
+		"#text": "Share",
+		"@_name": "mzc_share_contact"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "mzc_share_contact_to"
+	},
+	{
+		"#text": "Share failed",
+		"@_name": "mzc_share_error"
+	},
+	{
+		"#text": "Learn more about Web Call",
+		"@_name": "mzc_show_Understanding_internet_telephony"
+	},
+	{
+		"#text": "Show contacts of this account",
+		"@_name": "mzc_show_account_contacts"
+	},
+	{
+		"#text": "Tap to enjoy unlimited, free web calls now!",
+		"@_name": "mzc_show_flyme_internet_telephony_message"
+	},
+	{
+		"#text": "Make internet phone calls",
+		"@_name": "mzc_sip_call"
+	},
+	{
+		"#text": "Web call",
+		"@_name": "mzc_sip_call_label"
+	},
+	{
+		"#text": "Web Call",
+		"@_name": "mzc_sip_label"
+	},
+	{
+		"#text": "Send a network message",
+		"@_name": "mzc_sip_mms"
+	},
+	{
+		"#text": "Add emergency contacts (%1$d/%2$d)",
+		"@_name": "mzc_sos_add_contacts"
+	},
+	{
+		"#text": "Add up to %d emergency contacts",
+		"@_name": "mzc_sos_add_contacts_max"
+	},
+	{
+		"#text": "Auto-call police",
+		"@_name": "mzc_sos_auto_call"
+	},
+	{
+		"#text": "Police assistant",
+		"@_name": "mzc_sos_auto_call_assist"
+	},
+	{
+		"#text": "Auto-send location to Police when dialing 110/119/120/122",
+		"@_name": "mzc_sos_auto_call_assist_desc"
+	},
+	{
+		"#text": "Auto-dial %1$s when entering Emergency SOS",
+		"@_name": "mzc_sos_auto_call_des"
+	},
+	{
+		"#text": "Auto-ask emergency contacts for help",
+		"@_name": "mzc_sos_auto_send_position"
+	},
+	{
+		"#text": "When entering Emergency SOS, auto-dial and notify emergency contacts, and send them location messages",
+		"@_name": "mzc_sos_auto_send_position_des"
+	},
+	{
+		"#text": "When entering Emergency SOS, auto-send emergency contacts location messages",
+		"@_name": "mzc_sos_auto_send_position_des2"
+	},
+	{
+		"#text": "Automatically send location SMS to all emergency contacts every %d minutes",
+		"@_name": "mzc_sos_auto_send_service_text"
+	},
+	{
+		"#text": "Automatically send location SMS is on",
+		"@_name": "mzc_sos_auto_send_service_title"
+	},
+	{
+		"#text": "Stop sending automatically",
+		"@_name": "mzc_sos_auto_send_stop"
+	},
+	{
+		"#text": "Emergency SOS phone card",
+		"@_name": "mzc_sos_auto_sim"
+	},
+	{
+		"#text": "Ambulance call",
+		"@_name": "mzc_sos_call_ambulance"
+	},
+	{
+		"#text": "Emergency call",
+		"@_name": "mzc_sos_call_emergency"
+	},
+	{
+		"#text": "Fire call",
+		"@_name": "mzc_sos_call_fire"
+	},
+	{
+		"#text": "Police call",
+		"@_name": "mzc_sos_call_police"
+	},
+	{
+		"#text": "Police call",
+		"@_name": "mzc_sos_emergency"
+	},
+	{
+		"#text": "Emergency contacts",
+		"@_name": "mzc_sos_emergency_contacts"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mzc_sos_exit"
+	},
+	{
+		"#text": "Family Guard",
+		"@_name": "mzc_sos_family_guard"
+	},
+	{
+		"#text": "Guard your family all the time",
+		"@_name": "mzc_sos_family_guard_description"
+	},
+	{
+		"#text": "Notes:",
+		"@_name": "mzc_sos_help"
+	},
+	{
+		"#text": "\"Emergency SOS \n%s, help me! This is my current location, please call the police!\"",
+		"@_name": "mzc_sos_message"
+	},
+	{
+		"#text": "I have set you as my emergency contact. When I am in danger, you will receive a text message with my phone location. Please check my location and help me. [From Meizu SOS Emergency Help]",
+		"@_name": "mzc_sos_message_content"
+	},
+	{
+		"#text": "It is suggested to send a text message to the emergency contact that you have added him/her as your emergency contact. Therefor he/she can respond and help in case of SOS Emergency.",
+		"@_name": "mzc_sos_message_dialog"
+	},
+	{
+		"#text": "Send",
+		"@_name": "mzc_sos_message_dialog_ok"
+	},
+	{
+		"#text": "Automatically send location SMS is on",
+		"@_name": "mzc_sos_mode"
+	},
+	{
+		"#text": "Stop sending automatically",
+		"@_name": "mzc_sos_mode_cancel"
+	},
+	{
+		"#text": "Automatically send location SMS to all emergency contacts every %d minutes",
+		"@_name": "mzc_sos_mode_des"
+	},
+	{
+		"#text": "Tap to change Emergency SOS phone card",
+		"@_name": "mzc_sos_notify_sim_chanaged_desc"
+	},
+	{
+		"#text": "%s has been set as Emergency SOS phone card",
+		"@_name": "mzc_sos_notify_sim_chanaged_title"
+	},
+	{
+		"#text": "Public security",
+		"@_name": "mzc_sos_public_security"
+	},
+	{
+		"#text": "Remove %s from emergency contacts",
+		"@_name": "mzc_sos_remove_contacts"
+	},
+	{
+		"#text": "Send location SMS",
+		"@_name": "mzc_sos_send_position"
+	},
+	{
+		"#text": "Send location SMS in %ss",
+		"@_name": "mzc_sos_send_position_count"
+	},
+	{
+		"#text": "Has sent location SMS",
+		"@_name": "mzc_sos_send_position_disable"
+	},
+	{
+		"#text": "%ss",
+		"@_name": "mzc_sos_send_position_disable_count_down"
+	},
+	{
+		"#text": "No emergency contacts added! Can be added in the system settings or phone settings. Automatically send location SMS in case of emergency, to ensure personal safety",
+		"@_name": "mzc_sos_send_position_empty"
+	},
+	{
+		"#text": "Automatically sent every %d minutes",
+		"@_name": "mzc_sos_send_position_other"
+	},
+	{
+		"#text": "Continuously click the power button 5 times to call for emergency help",
+		"@_name": "mzc_sos_settings_guid"
+	},
+	{
+		"#text": "Click 5 times",
+		"@_name": "mzc_sos_settings_guid_press"
+	},
+	{
+		"#text": "SOS settings",
+		"@_name": "mzc_sos_settings_title"
+	},
+	{
+		"#text": "Stop",
+		"@_name": "mzc_sos_stop"
+	},
+	{
+		"#text": "About Emergency SOS",
+		"@_name": "mzc_sos_tibs"
+	},
+	{
+		"#text": "Emergency SOS",
+		"@_name": "mzc_sos_title"
+	},
+	{
+		"#text": "Automatically call in %ss",
+		"@_name": "mzc_sos_title_for_call"
+	},
+	{
+		"#text": "Free",
+		"@_name": "mzc_status_available"
+	},
+	{
+		"#text": "Selected %1$s account(s)",
+		"@_name": "mzc_sync_account_has_select_text"
+	},
+	{
+		"#text": "Select account(s) to sync",
+		"@_name": "mzc_sync_account_no_select_text"
+	},
+	{
+		"#text": "Sync selected account(s) to keep contacts consistent",
+		"@_name": "mzc_sync_account_tip"
+	},
+	{
+		"#text": "Done",
+		"@_name": "mzc_sync_finish"
+	},
+	{
+		"#text": "Syncing",
+		"@_name": "mzc_sync_loading"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzc_sync_retry"
+	},
+	{
+		"#text": "Sync now",
+		"@_name": "mzc_sync_start"
+	},
+	{
+		"#text": "Dialer",
+		"@_name": "mzc_tab_call_log"
+	},
+	{
+		"#text": "Dialpad",
+		"@_name": "mzc_tab_dialpad"
+	},
+	{
+		"#text": "Yellow Pages",
+		"@_name": "mzc_tab_net_contacts"
+	},
+	{
+		"#text": "Incoming",
+		"@_name": "mzc_type_incoming"
+	},
+	{
+		"#text": "Rejected",
+		"@_name": "mzc_type_incoming_reject"
+	},
+	{
+		"#text": "Missed",
+		"@_name": "mzc_type_missed"
+	},
+	{
+		"#text": "Outgoing",
+		"@_name": "mzc_type_outgoing"
+	},
+	{
+		"#text": "Cancelled",
+		"@_name": "mzc_type_outgoing_cancelled"
+	},
+	{
+		"#text": "Failed",
+		"@_name": "mzc_type_outgoing_failed"
+	},
+	{
+		"#text": "Not connected",
+		"@_name": "mzc_type_outgoing_not_connected"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "mzc_type_voicemail"
+	},
+	{
+		"#text": "No voicemails",
+		"@_name": "mzc_type_voicemail_fail"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "mzc_unknown"
+	},
+	{
+		"#text": "vCard file preview",
+		"@_name": "mzc_vcard_detail_info"
+	},
+	{
+		"#text": "No vCard",
+		"@_name": "mzc_vcard_empty"
+	},
+	{
+		"#text": "Export failed",
+		"@_name": "mzc_vcard_export_failed"
+	},
+	{
+		"#text": "Parsing",
+		"@_name": "mzc_vcard_file_parse"
+	},
+	{
+		"#text": "Import failed",
+		"@_name": "mzc_vcard_import_failed"
+	},
+	{
+		"#text": "\"Couldn't import vCard\"",
+		"@_name": "mzc_vcard_import_failed_notification"
+	},
+	{
+		"#text": "vCard import request was rejected. Try again later.",
+		"@_name": "mzc_vcard_import_request_rejected_message"
+	},
+	{
+		"#text": "View electronic business cards",
+		"@_name": "mzc_view_electronic_business_cards"
+	},
+	{
+		"#text": "Read-only",
+		"@_name": "mzc_visible_account_only_read_text"
+	},
+	{
+		"#text": "When turned on, contacts in account will be visible",
+		"@_name": "mzc_visible_account_tip_text"
+	},
+	{
+		"#text": "Contacts in local account always visible",
+		"@_name": "mzc_visible_device_account_visible_tip"
+	},
+	{
+		"#text": "When closed, contacts in account will be invisible",
+		"@_name": "mzc_visible_hide_account_tip"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mzc_visible_hide_alert_dialog_ok"
+	},
+	{
+		"#text": "Select the number you want to dial",
+		"@_name": "mzc_voice_choose"
+	},
+	{
+		"#text": "%s not found in Contacts",
+		"@_name": "mzc_voice_contact_not_found"
+	},
+	{
+		"#text": "Hold to use voice dial",
+		"@_name": "mzc_voice_guide_dialpad"
+	},
+	{
+		"#text": "For example, call Bian Xiaoxi",
+		"@_name": "mzc_voice_hint"
+	},
+	{
+		"#text": "Release the finger to dial",
+		"@_name": "mzc_voice_hint_call"
+	},
+	{
+		"#text": "Voice recognition failed",
+		"@_name": "mzc_voice_not_recognize"
+	},
+	{
+		"#text": "Voice dial",
+		"@_name": "mzc_voice_text"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "mzc_voicemail"
+	},
+	{
+		"#text": "%d Contact(s)",
+		"@_name": "mzs_contact_list_count"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzs_contact_viewer_split_bottom_delete"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "mzs_contact_viewer_split_bottom_edit"
+	},
+	{
+		"#text": "Save to phone",
+		"@_name": "mzs_contact_viewer_split_bottom_import"
+	},
+	{
+		"#text": "Failed to delete",
+		"@_name": "mzs_detail_delete_fail"
+	},
+	{
+		"#text": "Personal information",
+		"@_name": "mzs_detail_head"
+	},
+	{
+		"#text": "Import complete",
+		"@_name": "mzs_detail_import_success"
+	},
+	{
+		"#text": "Delete contact",
+		"@_name": "mzs_detail_menu_delete"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "mzs_detail_menu_edit"
+	},
+	{
+		"#text": "Save to phone",
+		"@_name": "mzs_detail_menu_import"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mzs_detail_other"
+	},
+	{
+		"#text": "Details",
+		"@_name": "mzs_detail_title"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mzs_edit_hint_email"
+	},
+	{
+		"#text": "Phone number",
+		"@_name": "mzs_edit_hint_phone"
+	},
+	{
+		"#text": "Email",
+		"@_name": "mzs_edit_label_email"
+	},
+	{
+		"#text": "Number",
+		"@_name": "mzs_edit_label_phone"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzs_edit_menu_cancle"
+	},
+	{
+		"#text": "Save",
+		"@_name": "mzs_edit_menu_done"
+	},
+	{
+		"#text": "Name",
+		"@_name": "mzs_edit_name"
+	},
+	{
+		"#text": "Import from another phone",
+		"@_name": "mzs_from_otherphone_title"
+	},
+	{
+		"#text": "No Contacts",
+		"@_name": "mzs_guide_head"
+	},
+	{
+		"#text": "Try again",
+		"@_name": "mzs_guide_retry"
+	},
+	{
+		"#text": "• Copy contacts to SIM can be found in options of Contacts on regular devices.",
+		"@_name": "mzs_guide_text_first"
+	},
+	{
+		"#text": "• Make sure the SIM card inserted into the phone can be identified.",
+		"@_name": "mzs_guide_text_second"
+	},
+	{
+		"#text": "You can remove the SIM card and install it in another device to copy contacts.",
+		"@_name": "mzs_guide_title"
+	},
+	{
+		"#text": "Edit before dialing",
+		"@_name": "mzs_item_call_edit"
+	},
+	{
+		"#text": "Copy phone number",
+		"@_name": "mzs_item_copy_phone_text"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "mzs_item_copy_text"
+	},
+	{
+		"#text": "+ %s dial",
+		"@_name": "mzs_item_default_sim_ip_call"
+	},
+	{
+		"#text": "Use SIM %s to call",
+		"@_name": "mzs_item_sim_card_call"
+	},
+	{
+		"#text": "Use SIM %s + %s to call",
+		"@_name": "mzs_item_sim_card_ip_call",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Failed to import %s contact(s)",
+		"@_name": "mzs_more_contacts_import_fail"
+	},
+	{
+		"#text": "Imported failed",
+		"@_name": "mzs_one_contact_import_fail"
+	},
+	{
+		"#text": "Select contact",
+		"@_name": "mzs_pick_contacts"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Name",
+		"@_name": "nameLabelsGroup"
+	},
+	{
+		"#text": "Last name",
+		"@_name": "name_family"
+	},
+	{
+		"#text": "First name",
+		"@_name": "name_given"
+	},
+	{
+		"#text": "Middle name",
+		"@_name": "name_middle"
+	},
+	{
+		"#text": "Phonetic name",
+		"@_name": "name_phonetic"
+	},
+	{
+		"#text": "Phonetic last name",
+		"@_name": "name_phonetic_family"
+	},
+	{
+		"#text": "Phonetic first name",
+		"@_name": "name_phonetic_given"
+	},
+	{
+		"#text": "Phonetic middle name",
+		"@_name": "name_phonetic_middle"
+	},
+	{
+		"#text": "Name prefix",
+		"@_name": "name_prefix"
+	},
+	{
+		"#text": "Name suffix",
+		"@_name": "name_suffix"
+	},
+	{
+		"#text": "Contact received over NFC",
+		"@_name": "nfc_vcard_file_name"
+	},
+	{
+		"#text": "Nickname",
+		"@_name": "nicknameLabelsGroup"
+	},
+	{
+		"#text": "To create groups you need an account.",
+		"@_name": "noAccounts"
+	},
+	{
+		"#text": "No Contacts",
+		"@_name": "noContacts"
+	},
+	{
+		"#text": "No groups.",
+		"@_name": "noGroups"
+	},
+	{
+		"#text": "\"Contacts works better with a Google Account.\n\n• Access from any web browser.\n• Back up your contacts securely.\"",
+		"@_name": "no_account_prompt"
+	},
+	{
+		"#text": "No SD card was found",
+		"@_name": "no_sdcard_message"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "non_phone_add_to_contacts"
+	},
+	{
+		"#text": "Phone number",
+		"@_name": "non_phone_caption"
+	},
+	{
+		"#text": "Close",
+		"@_name": "non_phone_close"
+	},
+	{
+		"#text": "Play",
+		"@_name": "notification_action_voicemail_play"
+	},
+	{
+		"#text": "New voicemail from %1$s",
+		"@_name": "notification_new_voicemail_ticker"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "notification_voicemail_callers_list"
+	},
+	{
+		"#text": "%s new missed call(s)",
+		"@_name": "num_missed_calls"
+	},
+	{
+		"#text": "Organization",
+		"@_name": "organizationLabelsGroup"
+	},
+	{
+		"#text": "%2$s, %1$s",
+		"@_name": "organization_company_and_title"
+	},
+	{
+		"#text": "Other",
+		"@_name": "other_settings_title"
+	},
+	{
+		"#text": "Show password",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "Payphone",
+		"@_name": "payphone"
+	},
+	{
+		"#text": "%s%%",
+		"@_name": "percentage"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "phoneLabelsGroup"
+	},
+	{
+		"#text": "Calling accounts",
+		"@_name": "phone_account_settings_label"
+	},
+	{
+		"#text": "No pictures are available on the phone.",
+		"@_name": "photoPickerNotFoundText"
+	},
+	{
+		"#text": "com.android.contacts.files",
+		"@_name": "photo_file_provider_authority"
+	},
+	{
+		"#text": "Select new photo",
+		"@_name": "pick_new_photo"
+	},
+	{
+		"#text": "Choose photo",
+		"@_name": "pick_photo"
+	},
+	{
+		"#text": "Create new contact",
+		"@_name": "pickerNewContactHeader"
+	},
+	{
+		"#text": "Create new contact",
+		"@_name": "pickerNewContactText"
+	},
+	{
+		"#text": "Address",
+		"@_name": "postalLabelsGroup"
+	},
+	{
+		"#text": "Address",
+		"@_name": "postal_address"
+	},
+	{
+		"#text": "City",
+		"@_name": "postal_city"
+	},
+	{
+		"#text": "Country",
+		"@_name": "postal_country"
+	},
+	{
+		"#text": "Neighborhood",
+		"@_name": "postal_neighborhood"
+	},
+	{
+		"#text": "PO box",
+		"@_name": "postal_pobox"
+	},
+	{
+		"#text": "ZIP code",
+		"@_name": "postal_postcode"
+	},
+	{
+		"#text": "State",
+		"@_name": "postal_region"
+	},
+	{
+		"#text": "Street",
+		"@_name": "postal_street"
+	},
+	{
+		"#text": "Display options",
+		"@_name": "preference_displayOptions"
+	},
+	{
+		"#text": "Preset avatar",
+		"@_name": "preset_head_label"
+	},
+	{
+		"#text": "Primary photo",
+		"@_name": "primary_photo"
+	},
+	{
+		"#text": "Private number",
+		"@_name": "private_num"
+	},
+	{
+		"#text": "PRL version",
+		"@_name": "prl_version"
+	},
+	{
+		"#text": "Set up my profile",
+		"@_name": "profile_display_name"
+	},
+	{
+		"#text": "Importing %s/%s: %s",
+		"@_name": "progress_notifier_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Delete contact",
+		"@_name": "promptDeleteSelectedContactConfirm"
+	},
+	{
+		"#text": "Deleting",
+		"@_name": "promptDeletingSimContact"
+	},
+	{
+		"#text": "Exporting contacts to SIM card",
+		"@_name": "promptImportingContactToSim"
+	},
+	{
+		"#text": "Exporting",
+		"@_name": "promptImportingSimContact"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "promptQuerySimContacts"
+	},
+	{
+		"#text": "Failed to save, entry too long or illegal",
+		"@_name": "promptSaveFailed"
+	},
+	{
+		"#text": "Saving contact",
+		"@_name": "promptSavingSimContact"
+	},
+	{
+		"#text": "SIM card is full",
+		"@_name": "promptSimFull"
+	},
+	{
+		"#text": "Add email",
+		"@_name": "quickcontact_add_email"
+	},
+	{
+		"#text": "Add phone number",
+		"@_name": "quickcontact_add_phone_number"
+	},
+	{
+		"#text": "No app was found to handle this action.",
+		"@_name": "quickcontact_missing_app"
+	},
+	{
+		"#text": "Tap to return to previous screen",
+		"@_name": "quickcontact_transparent_view_description"
+	},
+	{
+		"#text": "This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.",
+		"@_name": "readOnlyContactDeleteConfirmation"
+	},
+	{
+		"#text": "\"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists.\"",
+		"@_name": "readOnlyContactWarning"
+	},
+	{
+		"#text": "Reading vCard data canceled",
+		"@_name": "reading_vcard_canceled_title"
+	},
+	{
+		"#text": "\"Couldn't read vCard data\"",
+		"@_name": "reading_vcard_failed_title"
+	},
+	{
+		"#text": "Recent",
+		"@_name": "recent"
+	},
+	{
+		"#text": "Call history",
+		"@_name": "recentCallsIconLabel"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "recentCalls_addToContact"
+	},
+	{
+		"#text": "Call %s",
+		"@_name": "recentCalls_callNumber"
+	},
+	{
+		"#text": "Clear call history",
+		"@_name": "recentCalls_deleteAll"
+	},
+	{
+		"#text": "Edit number before call",
+		"@_name": "recentCalls_editNumberBeforeCall"
+	},
+	{
+		"#text": "No Calls",
+		"@_name": "recentCalls_empty"
+	},
+	{
+		"#text": "Delete from call history",
+		"@_name": "recentCalls_removeFromRecentList"
+	},
+	{
+		"#text": "Share voicemail",
+		"@_name": "recentCalls_shareVoicemail"
+	},
+	{
+		"#text": "Delete voicemail",
+		"@_name": "recentCalls_trashVoicemail"
+	},
+	{
+		"#text": "No Missed Calls",
+		"@_name": "recentMissed_empty"
+	},
+	{
+		"#text": "No recent voicemails",
+		"@_name": "recentVoicemails_empty"
+	},
+	{
+		"#text": "Recent",
+		"@_name": "recent_card_title"
+	},
+	{
+		"#text": "Recent updates",
+		"@_name": "recent_updates"
+	},
+	{
+		"#text": "View full call history",
+		"@_name": "recents_footer_text"
+	},
+	{
+		"#text": "Relationship",
+		"@_name": "relationLabelsGroup"
+	},
+	{
+		"#text": "Remove photo",
+		"@_name": "removePhoto"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "remove_contact"
+	},
+	{
+		"#text": "Quick responses",
+		"@_name": "respond_via_sms_setting_title"
+	},
+	{
+		"#text": "Contacts Restoring",
+		"@_name": "restore_contacts"
+	},
+	{
+		"#text": "Do you want to restore the contacts to the data before %1$s ?",
+		"@_name": "restore_contacts_dialog_msg"
+	},
+	{
+		"#text": "Return call",
+		"@_name": "returnCall"
+	},
+	{
+		"#text": "Phone ringtone",
+		"@_name": "ringtone_title"
+	},
+	{
+		"#text": "Save to",
+		"@_name": "save_to"
+	},
+	{
+		"#text": "Saving contact…",
+		"@_name": "savingContact"
+	},
+	{
+		"#text": "Saving display options…",
+		"@_name": "savingDisplayGroups"
+	},
+	{
+		"#text": "\"The SD card couldn't be scanned. (Reason: \\\"%s\\\")\"",
+		"@_name": "scanning_sdcard_failed_message"
+	},
+	{
+		"#text": "Search contacts",
+		"@_name": "searchHint"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "search_font_family"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Searching…",
+		"@_name": "search_results_searching"
+	},
+	{
+		"#text": "Names of your contacts",
+		"@_name": "search_settings_description"
+	},
+	{
+		"#text": "Add to contacts",
+		"@_name": "search_shortcut_add_to_contacts"
+	},
+	{
+		"#text": "Call %s",
+		"@_name": "search_shortcut_call_number"
+	},
+	{
+		"#text": "Make video call",
+		"@_name": "search_shortcut_make_video_call"
+	},
+	{
+		"#text": "Searching for vCard data on SD card…",
+		"@_name": "searching_vcard_message"
+	},
+	{
+		"#text": "Account",
+		"@_name": "select_account_dialog_title"
+	},
+	{
+		"#text": "Call with",
+		"@_name": "select_phone_account_for_calls"
+	},
+	{
+		"#text": "Choose vCard file",
+		"@_name": "select_vcard_title"
+	},
+	{
+		"#text": "Send message",
+		"@_name": "send_message"
+	},
+	{
+		"#text": "Send calls directly to voicemail",
+		"@_name": "send_to_voicemail_checkbox"
+	},
+	{
+		"#text": "All contacts",
+		"@_name": "separatorJoinAggregateAll"
+	},
+	{
+		"#text": "Suggested contacts",
+		"@_name": "separatorJoinAggregateSuggestions"
+	},
+	{
+		"#text": "Set default",
+		"@_name": "set_default"
+	},
+	{
+		"#text": "Always use this for calls",
+		"@_name": "set_default_account"
+	},
+	{
+		"#text": "Contact display options",
+		"@_name": "settings_contact_display_options_title"
+	},
+	{
+		"#text": "\"This contact can't be shared\"",
+		"@_name": "share_error"
+	},
+	{
+		"#text": "Share contact via",
+		"@_name": "share_via"
+	},
+	{
+		"#text": "Share visible contacts",
+		"@_name": "share_visible_contacts"
+	},
+	{
+		"#text": "Choose a contact shortcut",
+		"@_name": "shortcutActivityTitle"
+	},
+	{
+		"#text": "Contact",
+		"@_name": "shortcutContact"
+	},
+	{
+		"#text": "Direct dial",
+		"@_name": "shortcutDialContact"
+	},
+	{
+		"#text": "Direct message",
+		"@_name": "shortcutMessageContact"
+	},
+	{
+		"#text": "Show all contacts",
+		"@_name": "showAllContactsJoinItem"
+	},
+	{
+		"#text": "Show favorites only",
+		"@_name": "show_favorites_only"
+	},
+	{
+		"#text": "Loading from SIM card…",
+		"@_name": "simContacts_emptyLoading"
+	},
+	{
+		"#text": "SIM card contacts",
+		"@_name": "simContacts_title"
+	},
+	{
+		"#text": "SIM card unavailable",
+		"@_name": "sim_not_available"
+	},
+	{
+		"#text": "Contacts on SIM 1",
+		"@_name": "sim_one_title"
+	},
+	{
+		"#text": "Contacts on SIM 2",
+		"@_name": "sim_two_title"
+	},
+	{
+		"#text": "Text message",
+		"@_name": "sms"
+	},
+	{
+		"#text": "Text %s",
+		"@_name": "sms_assistant"
+	},
+	{
+		"#text": "Text callback",
+		"@_name": "sms_callback"
+	},
+	{
+		"#text": "Text car",
+		"@_name": "sms_car"
+	},
+	{
+		"#text": "Text company main",
+		"@_name": "sms_company_main"
+	},
+	{
+		"#text": "Text %s",
+		"@_name": "sms_custom"
+	},
+	{
+		"#text": "Choose number",
+		"@_name": "sms_disambig_title"
+	},
+	{
+		"#text": "Text home fax",
+		"@_name": "sms_fax_home"
+	},
+	{
+		"#text": "Text work fax",
+		"@_name": "sms_fax_work"
+	},
+	{
+		"#text": "Text home",
+		"@_name": "sms_home"
+	},
+	{
+		"#text": "Text ISDN",
+		"@_name": "sms_isdn"
+	},
+	{
+		"#text": "Text main",
+		"@_name": "sms_main"
+	},
+	{
+		"#text": "Text MMS",
+		"@_name": "sms_mms"
+	},
+	{
+		"#text": "Text mobile",
+		"@_name": "sms_mobile"
+	},
+	{
+		"#text": "Text",
+		"@_name": "sms_other"
+	},
+	{
+		"#text": "Text fax",
+		"@_name": "sms_other_fax"
+	},
+	{
+		"#text": "Text pager",
+		"@_name": "sms_pager"
+	},
+	{
+		"#text": "Text radio",
+		"@_name": "sms_radio"
+	},
+	{
+		"#text": "Text telex",
+		"@_name": "sms_telex"
+	},
+	{
+		"#text": "Text TTY/TDD",
+		"@_name": "sms_tty_tdd"
+	},
+	{
+		"#text": "Text work",
+		"@_name": "sms_work"
+	},
+	{
+		"#text": "Text work mobile",
+		"@_name": "sms_work_mobile"
+	},
+	{
+		"#text": "Text work pager",
+		"@_name": "sms_work_pager"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "socialProfileTypeCustom"
+	},
+	{
+		"#text": "Other",
+		"@_name": "socialProfileTypeOther"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "socialProfileTypeSinaWeibo"
+	},
+	{
+		"#text": "Contact",
+		"@_name": "social_widget_label"
+	},
+	{
+		"#text": "Loading…",
+		"@_name": "social_widget_loading"
+	},
+	{
+		"#text": "Sounds and vibrate",
+		"@_name": "sounds_and_vibrate_category_title"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "中国大地财产保险股份有限公司",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "国家电力公司",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "中国电信客服热线",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "中国工商银行",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "中国光大银行",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "环保监督服务热线",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "价格监督服务热线",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "中国人民健康保险股份有限公司",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "中国联通客服热线",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "魅族客服热线",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "中国农业银行",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "民生人寿保险股份有限公司",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "司法服务热线",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "太平人寿保险有限公司",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "天气预报",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "中国铁通客服热线",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "消费者协会服务热线",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "中国移动客服热线",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "Speed dial is one-touch dialing for favorites and numbers you call often",
+		"@_name": "speed_dial_empty"
+	},
+	{
+		"#text": "This contact will be separated into multiple contacts.",
+		"@_name": "splitConfirmation"
+	},
+	{
+		"#text": "Separate contact?",
+		"@_name": "splitConfirmation_title"
+	},
+	{
+		"#text": "Starred",
+		"@_name": "starredList"
+	},
+	{
+		"#text": "Available",
+		"@_name": "status_available"
+	},
+	{
+		"#text": "Away",
+		"@_name": "status_away"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Busy",
+		"@_name": "status_busy"
+	},
+	{
+		"#text": "Favorites",
+		"@_name": "strequentList"
+	},
+	{
+		"#text": "Software version",
+		"@_name": "sw_version"
+	},
+	{
+		"#text": "Contacts",
+		"@_name": "tab_all_contacts"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "tab_font_family"
+	},
+	{
+		"#text": "Recent calls",
+		"@_name": "tab_recents"
+	},
+	{
+		"#text": "Speed dial",
+		"@_name": "tab_speed_dial"
+	},
+	{
+		"#text": "Take new photo",
+		"@_name": "take_new_photo"
+	},
+	{
+		"#text": "Take photo",
+		"@_name": "take_photo"
+	},
+	{
+		"#text": "输入内容",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Join contacts",
+		"@_name": "titleJoinContactDataWith"
+	},
+	{
+		"#text": "New contact",
+		"@_name": "titleSimContactCreate"
+	},
+	{
+		"#text": "Edit contact",
+		"@_name": "titleSimContactEdit"
+	},
+	{
+		"#text": "SIM card contacts",
+		"@_name": "titleSimContacts"
+	},
+	{
+		"#text": "Choose contact",
+		"@_name": "title_pick_contacts"
+	},
+	{
+		"#text": "Details not available",
+		"@_name": "toast_call_detail_error"
+	},
+	{
+		"#text": "Number reported to Google",
+		"@_name": "toast_caller_id_reported"
+	},
+	{
+		"#text": "Displaying all contacts",
+		"@_name": "toast_displaying_all_contacts"
+	},
+	{
+		"#text": "Deleted from call history",
+		"@_name": "toast_entry_removed"
+	},
+	{
+		"#text": "Type contact name before joining with another.",
+		"@_name": "toast_join_with_empty_contact"
+	},
+	{
+		"#text": "Creating a personal copy...",
+		"@_name": "toast_making_personal_copy"
+	},
+	{
+		"#text": "Text copied",
+		"@_name": "toast_text_copied"
+	},
+	{
+		"#text": "Today",
+		"@_name": "today"
+	},
+	{
+		"#text": "Today at %s",
+		"@_name": "today_at_time_fmt"
+	},
+	{
+		"#text": "Tomorrow",
+		"@_name": "tomorrow"
+	},
+	{
+		"#text": "Tomorrow at %s",
+		"@_name": "tomorrow_at_time_fmt"
+	},
+	{
+		"#text": "Incoming call",
+		"@_name": "type_incoming"
+	},
+	{
+		"#text": "Incoming video call",
+		"@_name": "type_incoming_video"
+	},
+	{
+		"#text": "Missed call",
+		"@_name": "type_missed"
+	},
+	{
+		"#text": "Missed video call",
+		"@_name": "type_missed_video"
+	},
+	{
+		"#text": "Outgoing call",
+		"@_name": "type_outgoing"
+	},
+	{
+		"#text": "Outgoing video call",
+		"@_name": "type_outgoing_video"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "type_voicemail"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknow"
+	},
+	{
+		"#text": "Unknown",
+		"@_name": "unknown"
+	},
+	{
+		"#text": "(Untitled event)",
+		"@_name": "untitled_event"
+	},
+	{
+		"#text": "Contact list is being updated.",
+		"@_name": "upgrade_in_progress"
+	},
+	{
+		"#text": "\"Contacts are in the process of being upgraded. \n\nThe upgrade process requires approximately %s MB of internal storage.\n\nChoose one of the following options:\"",
+		"@_name": "upgrade_out_of_memory"
+	},
+	{
+		"#text": "Retry upgrade",
+		"@_name": "upgrade_out_of_memory_retry"
+	},
+	{
+		"#text": "Uninstall some applications",
+		"@_name": "upgrade_out_of_memory_uninstall"
+	},
+	{
+		"#text": "Me",
+		"@_name": "user_profile_contacts_list_header"
+	},
+	{
+		"#text": "vCard export request was rejected. Try again later",
+		"@_name": "vcard_export_request_rejected_message"
+	},
+	{
+		"#text": "%s will be exported shortly",
+		"@_name": "vcard_export_will_start_message"
+	},
+	{
+		"#text": "\"Couldn't import vCard\"",
+		"@_name": "vcard_import_failed"
+	},
+	{
+		"#text": "vCard import request was rejected. Try again later",
+		"@_name": "vcard_import_request_rejected_message"
+	},
+	{
+		"#text": "%s will be imported shortly",
+		"@_name": "vcard_import_will_start_message"
+	},
+	{
+		"#text": "The file will be imported shortly",
+		"@_name": "vcard_import_will_start_message_with_default_name"
+	},
+	{
+		"#text": "contact",
+		"@_name": "vcard_unknown_filename"
+	},
+	{
+		"#text": "Version",
+		"@_name": "version"
+	},
+	{
+		"#text": "Also vibrate for calls",
+		"@_name": "vibrate_on_ring_title"
+	},
+	{
+		"#text": "Video chat",
+		"@_name": "video_chat"
+	},
+	{
+		"#text": "Contact details",
+		"@_name": "viewContactTitle"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "view_full_call_history_font_family"
+	},
+	{
+		"#text": "View updates",
+		"@_name": "view_updates_from_group"
+	},
+	{
+		"#text": "Voice search not available",
+		"@_name": "voice_search_not_available"
+	},
+	{
+		"#text": "Voicemail",
+		"@_name": "voicemail"
+	},
+	{
+		"#text": "Buffering…",
+		"@_name": "voicemail_buffering"
+	},
+	{
+		"#text": "Loading voicemail…",
+		"@_name": "voicemail_fetching_content"
+	},
+	{
+		"#text": "\"Couldn't load voicemail\"",
+		"@_name": "voicemail_fetching_timout"
+	},
+	{
+		"#text": "Play faster.",
+		"@_name": "voicemail_play_faster"
+	},
+	{
+		"#text": "Play slower.",
+		"@_name": "voicemail_play_slower"
+	},
+	{
+		"#text": "Start or pause playback.",
+		"@_name": "voicemail_play_start_pause"
+	},
+	{
+		"#text": "\"Couldn't play voicemail\"",
+		"@_name": "voicemail_playback_error"
+	},
+	{
+		"#text": "Turn speaker off.",
+		"@_name": "voicemail_speaker_off"
+	},
+	{
+		"#text": "Turn speaker on.",
+		"@_name": "voicemail_speaker_on"
+	},
+	{
+		"#text": "Fast speed",
+		"@_name": "voicemail_speed_faster"
+	},
+	{
+		"#text": "Fastest speed",
+		"@_name": "voicemail_speed_fastest"
+	},
+	{
+		"#text": "Normal speed",
+		"@_name": "voicemail_speed_normal"
+	},
+	{
+		"#text": "Slow speed",
+		"@_name": "voicemail_speed_slower"
+	},
+	{
+		"#text": "Slowest speed",
+		"@_name": "voicemail_speed_slowest"
+	},
+	{
+		"#text": "Call voicemail",
+		"@_name": "voicemail_status_action_call_server"
+	},
+	{
+		"#text": "Set up",
+		"@_name": "voicemail_status_action_configure"
+	},
+	{
+		"#text": "Audio not available",
+		"@_name": "voicemail_status_audio_not_available"
+	},
+	{
+		"#text": "Set up your voicemail",
+		"@_name": "voicemail_status_configure_voicemail"
+	},
+	{
+		"#text": "\"New voicemail waiting. Can't load right now.\"",
+		"@_name": "voicemail_status_messages_waiting"
+	},
+	{
+		"#text": "Voicemail updates not available",
+		"@_name": "voicemail_status_voicemail_not_available"
+	},
+	{
+		"#text": "Website",
+		"@_name": "websiteLabelsGroup"
+	},
+	{
+		"#text": "WeChat Friends",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "%1$s (%2$s)",
+		"@_name": "widget_name_and_phonetic"
+	},
+	{
+		"#text": "SIM 1",
+		"@_name": "work"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "yesterday"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "yp_dialog_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "yp_dialog_confirm"
+	},
+	{
+		"#text": "Tap to install the Flyme Yellow Page",
+		"@_name": "yp_dialog_not_install_msg"
+	}
+]

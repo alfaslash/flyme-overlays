@@ -1,0 +1,7153 @@
+[
+	{
+		"#text": "На рабочий стол",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Перейти вверх",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "Другие параметры",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "Показать все",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Выбрать приложение",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "ОТКЛ.",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ВКЛ.",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Удалить запрос",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Поисковый запрос",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Отправить запрос",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Открыть доступ",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Открыть доступ приложению «%s»",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Свернуть",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Освободите память, чтобы ускорить работу телефона",
+		"@_name": "acceleration_summary"
+	},
+	{
+		"#text": "Ускоритель",
+		"@_name": "acceleration_title"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "Current mode",
+		"@_name": "active_block_mode"
+	},
+	{
+		"#text": "Пропустить %d",
+		"@_name": "ad_close_tip"
+	},
+	{
+		"#text": "Ознакомьтесь с рекомендованными приложениями",
+		"@_name": "ad_download_desc_text"
+	},
+	{
+		"#text": "Добавить контакт",
+		"@_name": "add_black"
+	},
+	{
+		"#text": "Метка",
+		"@_name": "add_phone_num_tag"
+	},
+	{
+		"#text": "Добавить ключевые слова",
+		"@_name": "add_sms_key_word"
+	},
+	{
+		"#text": "Добавить номер",
+		"@_name": "add_spam_number"
+	},
+	{
+		"#text": "Добавить в белый список",
+		"@_name": "add_to_whitelist"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "add_trust_app_switch"
+	},
+	{
+		"#text": "Добавить ПО",
+		"@_name": "add_trust_apps"
+	},
+	{
+		"#text": "Доверенные приложения не будут сканироваться",
+		"@_name": "add_trust_apps_summary"
+	},
+	{
+		"#text": "Добавить в белый список",
+		"@_name": "add_white"
+	},
+	{
+		"#text": "Добавить в белый список",
+		"@_name": "add_white_list"
+	},
+	{
+		"#text": "AI-обнаружение",
+		"@_name": "ai_detect"
+	},
+	{
+		"#text": "Под защитой AI",
+		"@_name": "ai_detect_support"
+	},
+	{
+		"#text": "Мониторинга приложений в реальном времени для поиска вирусов",
+		"@_name": "ai_detect_switch_summary"
+	},
+	{
+		"#text": "AI-механизм поиска вирусов",
+		"@_name": "ai_detect_switch_title"
+	},
+	{
+		"#text": "За месяц",
+		"@_name": "allow_mobile_data_usage"
+	},
+	{
+		"#text": "Удалено ненужных APK: %1$s",
+		"@_name": "already_clean_apk"
+	},
+	{
+		"#text": "Удалено кэша системы и приложений: %1$s",
+		"@_name": "already_clean_app_cache"
+	},
+	{
+		"#text": "Удалено ненужных файлов: %1$s",
+		"@_name": "already_clean_rubbish_files"
+	},
+	{
+		"#text": "Удалено остатков удалённого ПО: %1$s",
+		"@_name": "already_clean_uninstall"
+	},
+	{
+		"#text": "Использовать по умолчанию",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Anonymous numbers",
+		"@_name": "anonymous_number"
+	},
+	{
+		"#text": "Резервное копирование",
+		"@_name": "apk_type_backup"
+	},
+	{
+		"#text": "Поврежден",
+		"@_name": "apk_type_damged"
+	},
+	{
+		"#text": "Обновление пакета",
+		"@_name": "apk_type_update"
+	},
+	{
+		"#text": "Папка установочного пакета: %1$s",
+		"@_name": "apk_white_count"
+	},
+	{
+		"#text": "Кэш приложений: %1$s",
+		"@_name": "app_cache_white_count"
+	},
+	{
+		"#text": "приложен.",
+		"@_name": "app_count"
+	},
+	{
+		"#text": "Автопоиск и фильтрация редко используемых приложений во время зарядки для оптимизации работы телефона",
+		"@_name": "app_desc_text"
+	},
+	{
+		"#text": "Безопасность",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Разрешения для ПО",
+		"@_name": "app_permission_manager"
+	},
+	{
+		"#text": "разрешён запуск для %1$s приложен.",
+		"@_name": "app_waken_allowed_from_cnt"
+	},
+	{
+		"#text": "Нет истории связанного запуска",
+		"@_name": "app_waken_details_empty_txt"
+	},
+	{
+		"#text": "Попытка запуска %1$s раз, %2$s сек назад",
+		"@_name": "app_waken_details_info1_0"
+	},
+	{
+		"#text": "Попыток запуска %1$s раз, %2$s мин назад",
+		"@_name": "app_waken_details_info1_1"
+	},
+	{
+		"#text": "Попыток запуска %1$s раз, %2$s ч. назад",
+		"@_name": "app_waken_details_info1_2"
+	},
+	{
+		"#text": "Попыток запуска %1$s раз, %2$s д. назад",
+		"@_name": "app_waken_details_info1_3"
+	},
+	{
+		"#text": "Запрет на запуск след. приложениям: %1$s мес.",
+		"@_name": "app_waken_details_list_title"
+	},
+	{
+		"#text": "Запрещён запуск другими приложениями",
+		"@_name": "app_waken_details_list_title_empty"
+	},
+	{
+		"#text": "разрешён запуск приложений",
+		"@_name": "app_waken_details_list_title_empty_off"
+	},
+	{
+		"#text": "разрешён запуск следующ. ПО: %1$s",
+		"@_name": "app_waken_details_list_title_off"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "app_waken_details_title"
+	},
+	{
+		"#text": "запрет запуска %1$s приложений",
+		"@_name": "app_waken_from_cnt"
+	},
+	{
+		"#text": "Связанный запуск отключен",
+		"@_name": "app_waken_from_empty"
+	},
+	{
+		"#text": "%1$s сек назад",
+		"@_name": "app_waken_item_time0"
+	},
+	{
+		"#text": "%1$s мин назад",
+		"@_name": "app_waken_item_time1"
+	},
+	{
+		"#text": "%1$s ч. назад",
+		"@_name": "app_waken_item_time2"
+	},
+	{
+		"#text": "%1$s д. назад",
+		"@_name": "app_waken_item_time3"
+	},
+	{
+		"#text": "Связанный запуск: %1$s",
+		"@_name": "app_waken_list_title_allow"
+	},
+	{
+		"#text": "Запрет на связанный запуск: %1$s",
+		"@_name": "app_waken_list_title_forbid"
+	},
+	{
+		"#text": "Запретить связанный запуск приложений",
+		"@_name": "app_waken_setting_switch"
+	},
+	{
+		"#text": "Другие файлы",
+		"@_name": "appcache_uninstalled_trash_other"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "appdownloader_button_cancel_download"
+	},
+	{
+		"#text": "Ожидание Wi-Fi",
+		"@_name": "appdownloader_button_queue_for_wifi"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "appdownloader_button_start_now"
+	},
+	{
+		"#text": "%1$d%%",
+		"@_name": "appdownloader_download_percent"
+	},
+	{
+		"#text": "До завершения: %1$s",
+		"@_name": "appdownloader_download_remaining"
+	},
+	{
+		"#text": "&lt;unknown>",
+		"@_name": "appdownloader_download_unknown_title"
+	},
+	{
+		"#text": "%1$d ч.",
+		"@_name": "appdownloader_duration_hours"
+	},
+	{
+		"#text": "%1$d мин.",
+		"@_name": "appdownloader_duration_minutes"
+	},
+	{
+		"#text": "%1$d сек.",
+		"@_name": "appdownloader_duration_seconds"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "appdownloader_label_cancel"
+	},
+	{
+		"#text": "Ок",
+		"@_name": "appdownloader_label_ok"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "appdownloader_notification_download"
+	},
+	{
+		"#text": "Скачивание завершено, нажмите для открытия.",
+		"@_name": "appdownloader_notification_download_complete_open"
+	},
+	{
+		"#text": "После завершения загрузки нажмите Установить.",
+		"@_name": "appdownloader_notification_download_complete_with_install"
+	},
+	{
+		"#text": "Скачать полную версию",
+		"@_name": "appdownloader_notification_download_complete_without_install"
+	},
+	{
+		"#text": "Действительно хотите удалить？",
+		"@_name": "appdownloader_notification_download_delete"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "appdownloader_notification_download_failed"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "appdownloader_notification_download_install"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "appdownloader_notification_download_open"
+	},
+	{
+		"#text": "Пауза",
+		"@_name": "appdownloader_notification_download_pause"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "appdownloader_notification_download_restart"
+	},
+	{
+		"#text": "Возобновить",
+		"@_name": "appdownloader_notification_download_resume"
+	},
+	{
+		"#text": "Недостаточно места на карте памяти",
+		"@_name": "appdownloader_notification_download_space_failed"
+	},
+	{
+		"#text": "Скачивание",
+		"@_name": "appdownloader_notification_downloading"
+	},
+	{
+		"#text": "Файл слишком большой и должен быть загружен через Wi-Fi.",
+		"@_name": "appdownloader_notification_need_wifi_for_size"
+	},
+	{
+		"#text": "Было остановлено в фоне",
+		"@_name": "appdownloader_notification_paused_in_background"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "appdownloader_notification_prepare"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "appdownloader_notification_request_btn_no"
+	},
+	{
+		"#text": "Да",
+		"@_name": "appdownloader_notification_request_btn_yes"
+	},
+	{
+		"#text": "Для того, чтобы вы могли управлять состоянием загрузки с панели уведомлений в любое время, перейдите в раздел \"Настройки\" и включите уведомления, или скачайте напрямую.",
+		"@_name": "appdownloader_notification_request_message"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "appdownloader_notification_request_title"
+	},
+	{
+		"#text": "Подсказка",
+		"@_name": "appdownloader_tip"
+	},
+	{
+		"#text": "\"Начало загрузки прямо сейчас (%1$s ) может сократить время автономной работы и/или привести к чрезмерному использованию мобильного трафика (что может привести к дополнительным расходам, в зависимости от вашего пакета трафика).\n\nНажмите \"%2$s\", чтобы начать загрузку при следующем подключении к сети Wi-Fi.\"",
+		"@_name": "appdownloader_wifi_recommended_body"
+	},
+	{
+		"#text": "Присоединишься к очереди на скачивание позже?",
+		"@_name": "appdownloader_wifi_recommended_title"
+	},
+	{
+		"#text": "\"Вы должны использовать WLAN для завершения загрузки (%1$s ).\n\nНажмите \"%2$s\", чтобы начать загрузку при следующем подключении к Wi-Fi сети\".",
+		"@_name": "appdownloader_wifi_required_body"
+	},
+	{
+		"#text": "Файл слишком большой, чтобы его можно было загрузить по мобильной сети.",
+		"@_name": "appdownloader_wifi_required_title"
+	},
+	{
+		"#text": "Список приложений",
+		"@_name": "application_list"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "application_managerment"
+	},
+	{
+		"#text": "Разрешить все",
+		"@_name": "appsec_allowall"
+	},
+	{
+		"#text": "Всегда спрашивать",
+		"@_name": "appsec_prompt"
+	},
+	{
+		"#text": "Блокировать все",
+		"@_name": "appsec_rejall"
+	},
+	{
+		"#text": "Разблокировать этот номер",
+		"@_name": "ask_cancel_block"
+	},
+	{
+		"#text": "Звукозапись",
+		"@_name": "audio_permission_summary"
+	},
+	{
+		"#text": "Запись",
+		"@_name": "audio_permission_title"
+	},
+	{
+		"#text": "Частота сканирования",
+		"@_name": "auto_clean_frequency"
+	},
+	{
+		"#text": "Автокоррекция",
+		"@_name": "autoCheck"
+	},
+	{
+		"#text": "Регулярная калибровка статистики",
+		"@_name": "autoCheckTitle"
+	},
+	{
+		"#text": "Автокалибровка не только бесплатна, но также синхронизирует данные трафика с оператором сети, чтобы предотвратить перерасход",
+		"@_name": "automatically_correct_flow_msg"
+	},
+	{
+		"#text": "Приложения с автозапуском",
+		"@_name": "autorun_managerment"
+	},
+	{
+		"#text": "AVL Engine",
+		"@_name": "avl_permissionDescription"
+	},
+	{
+		"#text": "AVL Engine",
+		"@_name": "avl_permissionGroup"
+	},
+	{
+		"#text": "AVL Engine",
+		"@_name": "avl_permissionLabel"
+	},
+	{
+		"#text": "Сообщения и звонки из белого списка будут разрешены",
+		"@_name": "ba_whitelist_set_pfs_summary"
+	},
+	{
+		"#text": "Белый список",
+		"@_name": "ba_whitelist_set_pfs_title"
+	},
+	{
+		"#text": "Запуск в фоновом режиме",
+		"@_name": "backgroundstart"
+	},
+	{
+		"#text": "Будет очищено",
+		"@_name": "be_thin"
+	},
+	{
+		"#text": "Фоновое изображение",
+		"@_name": "BG_Description"
+	},
+	{
+		"#text": "Автопоиск и фильтрация редко используемых больших файлов во время зарядки для оптимизации работы телефона",
+		"@_name": "bigfile_desc_text"
+	},
+	{
+		"#text": "Отклонить все",
+		"@_name": "block_all"
+	},
+	{
+		"#text": "Блокировать только черный список",
+		"@_name": "block_by_blacklist"
+	},
+	{
+		"#text": "Разрешить только контакты",
+		"@_name": "block_by_contacts"
+	},
+	{
+		"#text": "Режим кастомизации",
+		"@_name": "block_by_custom_rule"
+	},
+	{
+		"#text": "Стандартный режим",
+		"@_name": "block_by_default_rule"
+	},
+	{
+		"#text": "Разрешить только белый список",
+		"@_name": "block_by_whitelist"
+	},
+	{
+		"#text": "Блокировать все",
+		"@_name": "block_choice_block_all"
+	},
+	{
+		"#text": "Блокировать, если пометили более, чем %1$d чел.",
+		"@_name": "block_choice_block_count"
+	},
+	{
+		"#text": "Не блокировать",
+		"@_name": "block_choice_unblock"
+	},
+	{
+		"#text": "Возможно фальшивая базовая станция",
+		"@_name": "block_fake_basestation"
+	},
+	{
+		"#text": "[Дата]",
+		"@_name": "block_filter_date"
+	},
+	{
+		"#text": "Режим блокировки - блокировать все",
+		"@_name": "block_reason_all"
+	},
+	{
+		"#text": "Блокировка по регионам",
+		"@_name": "block_reason_area"
+	},
+	{
+		"#text": "Номера чёрного списка",
+		"@_name": "block_reason_blacklist"
+	},
+	{
+		"#text": "Облачная блокировка по тегам",
+		"@_name": "block_reason_cloud_marker"
+	},
+	{
+		"#text": "Блокировать рекламный звонок-сброс",
+		"@_name": "block_reason_cloud_ringonce"
+	},
+	{
+		"#text": "Контактный номер",
+		"@_name": "block_reason_contact"
+	},
+	{
+		"#text": "Умная облачная блокировка",
+		"@_name": "block_reason_contains_keyword"
+	},
+	{
+		"#text": "Возможно фальшивая базовая станция",
+		"@_name": "block_reason_fake_base_station"
+	},
+	{
+		"#text": "Скрытый номер",
+		"@_name": "block_reason_hidenumber"
+	},
+	{
+		"#text": "Фальшивые номера",
+		"@_name": "block_reason_highly_suspected_fraud"
+	},
+	{
+		"#text": "Блокировка по тегам",
+		"@_name": "block_reason_local_marker"
+	},
+	{
+		"#text": "Режим блокировки - разрешить только контакты",
+		"@_name": "block_reason_none_contact"
+	},
+	{
+		"#text": "Режим блокировки - разрешить только белый список",
+		"@_name": "block_reason_none_white"
+	},
+	{
+		"#text": "Режим блокировки - блокировать все, кроме белых списков и контактов",
+		"@_name": "block_reason_none_white_contact"
+	},
+	{
+		"#text": "Ррекламный звонок-сброс",
+		"@_name": "block_reason_normal_ringonce"
+	},
+	{
+		"#text": "Номера чёрного списка",
+		"@_name": "block_reason_public_black_number"
+	},
+	{
+		"#text": "Сообщение передано",
+		"@_name": "block_reason_reported_msg"
+	},
+	{
+		"#text": "Смарт-фильтр",
+		"@_name": "block_reason_smart"
+	},
+	{
+		"#text": "Умная блокировка MMS",
+		"@_name": "block_reason_stranger_mms"
+	},
+	{
+		"#text": "Неизвестный номер",
+		"@_name": "block_reason_stranger_number"
+	},
+	{
+		"#text": "Содержащий опасный URL",
+		"@_name": "block_reason_url_check_dangerous"
+	},
+	{
+		"#text": "Содержащий подозрительный URL",
+		"@_name": "block_reason_url_check_risky"
+	},
+	{
+		"#text": "Умная блокировка WAP Push",
+		"@_name": "block_reason_wappush"
+	},
+	{
+		"#text": "SMS типа \\\"TD для отмены отписки\\\"",
+		"@_name": "block_sms_unsubscribe_pref_summary"
+	},
+	{
+		"#text": "Блокировка SMS отписки",
+		"@_name": "block_sms_unsubscribe_pref_title"
+	},
+	{
+		"#text": "Чёрный список",
+		"@_name": "block_tag_black"
+	},
+	{
+		"#text": "Ключевые слова",
+		"@_name": "block_tag_keyword"
+	},
+	{
+		"#text": "Незнакомец",
+		"@_name": "block_tag_stranger"
+	},
+	{
+		"#text": "Отмена подписки",
+		"@_name": "block_tag_subscribe"
+	},
+	{
+		"#text": "Доступ к сенсору",
+		"@_name": "body_sensors"
+	},
+	{
+		"#text": "Марка",
+		"@_name": "brands"
+	},
+	{
+		"#text": "Добавить в чёрный список",
+		"@_name": "bs_add_black_list_dialog_title"
+	},
+	{
+		"#text": "Удалить все записи вызовов",
+		"@_name": "bs_add_blacklist_dialog_summary_line2_text"
+	},
+	{
+		"#text": "%1$s будет добавлен в чёрный список",
+		"@_name": "bs_add_blacklist_dialog_text"
+	},
+	{
+		"#text": "%1$s и другие будут добавлены в чёрный список",
+		"@_name": "bs_add_blacklists_dialog_text"
+	},
+	{
+		"#text": "Сообщения и звонки из чёрного списка будут блокироваться",
+		"@_name": "bs_blacklist_set_pfs_summary"
+	},
+	{
+		"#text": "Чёрный список",
+		"@_name": "bs_blacklist_set_pfs_title"
+	},
+	{
+		"#text": "Фильтр чёрного списка",
+		"@_name": "bs_blacklist_spam_spfs_title"
+	},
+	{
+		"#text": "отмеченное время",
+		"@_name": "bs_block_call_mark_cp_amount"
+	},
+	{
+		"#text": "Отмечено %1$s",
+		"@_name": "bs_block_call_tag_count"
+	},
+	{
+		"#text": "Удаление номеров чёрного списка: %1$s",
+		"@_name": "bs_confirm_delete_black"
+	},
+	{
+		"#text": "Удалить %1$s запись(ей)",
+		"@_name": "bs_confirm_delete_record"
+	},
+	{
+		"#text": "Удаление номеров белого списка: %1$s",
+		"@_name": "bs_confirm_delete_white"
+	},
+	{
+		"#text": "При обновлении используется передача данных. Продолжить?",
+		"@_name": "bs_data_update_confirm"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "bs_data_update_continue"
+	},
+	{
+		"#text": "Данные обновлены",
+		"@_name": "bs_data_update_finish"
+	},
+	{
+		"#text": "Нет обновлений",
+		"@_name": "bs_data_update_never"
+	},
+	{
+		"#text": "Обновление базы данных",
+		"@_name": "bs_data_update_title"
+	},
+	{
+		"#text": "Управление списками",
+		"@_name": "bs_list_manager_pfc_title"
+	},
+	{
+		"#text": "Выбрать из заблокированных SMS",
+		"@_name": "bs_multiChoice_no_options_title1"
+	},
+	{
+		"#text": "Выбрать из заблокированных вызовов",
+		"@_name": "bs_multiChoice_no_options_title2"
+	},
+	{
+		"#text": "Выбрать чёрный список",
+		"@_name": "bs_multiChoice_no_options_title3"
+	},
+	{
+		"#text": "Выбрать белый список",
+		"@_name": "bs_multiChoice_no_options_title4"
+	},
+	{
+		"#text": "Нет номеров в белом списке",
+		"@_name": "bs_no_white_list_empty_summary"
+	},
+	{
+		"#text": "Фильтрация вызовов",
+		"@_name": "bs_phone"
+	},
+	{
+		"#text": 123456789,
+		"@_name": "bs_phone_digits"
+	},
+	{
+		"#text": "Блокировка неизв. номеров",
+		"@_name": "bs_private_number_spam_pfs_title"
+	},
+	{
+		"#text": "SMS-уведомление",
+		"@_name": "bs_remind_spam_pfc_title"
+	},
+	{
+		"#text": "Уведомл. о блокир. элементах",
+		"@_name": "bs_remind_spam_pfs_title"
+	},
+	{
+		"#text": "Удалить из чёрного списка",
+		"@_name": "bs_remove_black_list_dialog_title"
+	},
+	{
+		"#text": "%1$s будет удалён из чёрного списка",
+		"@_name": "bs_remove_blacklist_dialog_text"
+	},
+	{
+		"#text": "%1$s и другие будут удалены из чёрного списка",
+		"@_name": "bs_remove_blacklists_dialog_text"
+	},
+	{
+		"#text": "О приложении",
+		"@_name": "bs_settings_about"
+	},
+	{
+		"#text": "Фильтрация сообщений",
+		"@_name": "bs_sms"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "bs_spam_phone_tab_text"
+	},
+	{
+		"#text": "Сообщения",
+		"@_name": "bs_spam_sms_tab_text"
+	},
+	{
+		"#text": "Блокировка вызовов от неизвестных",
+		"@_name": "bs_stranger_spam_phone_pfs_title"
+	},
+	{
+		"#text": "Блокировка SMS от неизвестных",
+		"@_name": "bs_stranger_spam_sms_pfs_title"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "btn_clear"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "btn_done"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "btn_open"
+	},
+	{
+		"#text": "Включить +%1$d",
+		"@_name": "btn_open_param"
+	},
+	{
+		"#text": "Управление",
+		"@_name": "btn_opt_permission"
+	},
+	{
+		"#text": "Обновить +%1$d",
+		"@_name": "btn_sys_update"
+	},
+	{
+		"#text": "Сканировать +%1$d",
+		"@_name": "btn_virus_scan"
+	},
+	{
+		"#text": "Б",
+		"@_name": "byteShort"
+	},
+	{
+		"#text": "Совершение телефонных вызовов",
+		"@_name": "call"
+	},
+	{
+		"#text": "совершение телефонных вызовов",
+		"@_name": "call_c"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "call_cate_adv"
+	},
+	{
+		"#text": "Риелтор",
+		"@_name": "call_cate_agent"
+	},
+	{
+		"#text": "Страхование и финансы",
+		"@_name": "call_cate_fiance"
+	},
+	{
+		"#text": "Спам-вызов",
+		"@_name": "call_cate_fraud"
+	},
+	{
+		"#text": "Преследование",
+		"@_name": "call_cate_harass"
+	},
+	{
+		"#text": "Стоимость звонка",
+		"@_name": "call_charges"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "call_log"
+	},
+	{
+		"#text": "чтение журнала вызовов",
+		"@_name": "call_log_c"
+	},
+	{
+		"#text": "Номера группы",
+		"@_name": "call_show_display_type_short_number_enterprise"
+	},
+	{
+		"#text": "Семейные номера",
+		"@_name": "call_show_display_type_short_number_family"
+	},
+	{
+		"#text": "\"Отмечено &lt;font color='#1eff00'>%1$s&lt;/font> пользоват. как\"",
+		"@_name": "call_show_mark_little"
+	},
+	{
+		"#text": "\"Отмечено &lt;font color='#1eff00'>%1$sk&lt;/font>+ пользователями\"",
+		"@_name": "call_show_mark_more"
+	},
+	{
+		"#text": "Использование камеры",
+		"@_name": "camera_permission_summary"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "camera_permission_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "cancel_compress"
+	},
+	{
+		"#text": "В следующий раз сжатие начнётся заново. Хотите остановить?",
+		"@_name": "cancel_compress_confirm_message"
+	},
+	{
+		"#text": "SIM-карта не обнаружена",
+		"@_name": "canNotSetupTips"
+	},
+	{
+		"#text": "Образец карты",
+		"@_name": "card_sample"
+	},
+	{
+		"#text": "С осторожностью",
+		"@_name": "carefully_remove"
+	},
+	{
+		"#text": "Мошеннические звонки",
+		"@_name": "cheat_call"
+	},
+	{
+		"#text": "Не установлен App Center, необходимый для загрузки DirectService",
+		"@_name": "check_appcenter_failure"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "check_for_restore_message_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "check_for_restore_message_ok"
+	},
+	{
+		"#text": "Проверить использование трафика",
+		"@_name": "check_traffic_button_text"
+	},
+	{
+		"#text": "Для проверки использования данных оператору будет отправлено бесплатное SMS",
+		"@_name": "check_traffic_title"
+	},
+	{
+		"#text": "Проверить содержимое",
+		"@_name": "checkContent"
+	},
+	{
+		"#text": "Проверить использование трафика",
+		"@_name": "checkTraffic"
+	},
+	{
+		"#text": "China Mobile",
+		"@_name": "china_mobile"
+	},
+	{
+		"#text": "Город",
+		"@_name": "citys"
+	},
+	{
+		"#text": "Очистить сейчас",
+		"@_name": "clean"
+	},
+	{
+		"#text": "Очищено",
+		"@_name": "clean_done"
+	},
+	{
+		"#text": "%s освобождено",
+		"@_name": "clean_result"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "clean_short"
+	},
+	{
+		"#text": "Удалено ненужного: %1$s",
+		"@_name": "cleaned_junk_files"
+	},
+	{
+		"#text": "Можно удалить:",
+		"@_name": "cleaner_all_can_be_deleted"
+	},
+	{
+		"#text": "APK",
+		"@_name": "cleaner_apk"
+	},
+	{
+		"#text": "Данные приложений",
+		"@_name": "cleaner_app_data"
+	},
+	{
+		"#text": "Удаление приложений",
+		"@_name": "cleaner_app_uninstall"
+	},
+	{
+		"#text": "Часто используемое ПО",
+		"@_name": "cleaner_app_uninstall_frequent"
+	},
+	{
+		"#text": "Редко используемое ПО",
+		"@_name": "cleaner_app_uninstall_not_frequent"
+	},
+	{
+		"#text": "После очистки приложения и их клоны будут удалены",
+		"@_name": "cleaner_app_uninstall_warning_dialog_title"
+	},
+	{
+		"#text": "Аудио",
+		"@_name": "cleaner_audio"
+	},
+	{
+		"#text": "Автоочистка мусора",
+		"@_name": "cleaner_auto_clean"
+	},
+	{
+		"#text": "%1$s очищено",
+		"@_name": "cleaner_auto_clean_all_cleaned_size"
+	},
+	{
+		"#text": "%1$s ненужных файлов удалено",
+		"@_name": "cleaner_auto_clean_notify_clean_title"
+	},
+	{
+		"#text": "Просмотреть детали",
+		"@_name": "cleaner_auto_clean_notify_content_text"
+	},
+	{
+		"#text": "Менее чем %1$s свободного места, может повлиять на производительность",
+		"@_name": "cleaner_auto_clean_notify_no_enough_space_title"
+	},
+	{
+		"#text": "%1$s ненужных файлов найдено",
+		"@_name": "cleaner_auto_clean_notify_scan_title"
+	},
+	{
+		"#text": "Нажмите для очистки",
+		"@_name": "cleaner_auto_clean_notify_to_clean_content_text"
+	},
+	{
+		"#text": "Ненужных файлов: %1$s.",
+		"@_name": "cleaner_auto_clean_notify_to_cleaner_title"
+	},
+	{
+		"#text": "Большие файлы",
+		"@_name": "cleaner_big_file"
+	},
+	{
+		"#text": "Недавние",
+		"@_name": "cleaner_big_file_frequent"
+	},
+	{
+		"#text": "Редко используемые",
+		"@_name": "cleaner_big_file_not_frequent"
+	},
+	{
+		"#text": "Ненужные кэши",
+		"@_name": "cleaner_cache"
+	},
+	{
+		"#text": "Рекламные сообщения",
+		"@_name": "cleaner_cache_ad_plugin"
+	},
+	{
+		"#text": "Кэши неустановленного ПО",
+		"@_name": "cleaner_cache_apk_file_not_install"
+	},
+	{
+		"#text": "Кэши нового или неустановленного ПО",
+		"@_name": "cleaner_cache_apk_file_not_install_desc"
+	},
+	{
+		"#text": "Ненужные APK",
+		"@_name": "cleaner_cache_apk_file_redundant"
+	},
+	{
+		"#text": "Кэши старого или неустановленного ПО",
+		"@_name": "cleaner_cache_apk_file_redundant_desc"
+	},
+	{
+		"#text": "Кэши приложений",
+		"@_name": "cleaner_cache_app_cache"
+	},
+	{
+		"#text": "Ненужные файлы ПО",
+		"@_name": "cleaner_cache_app_trash"
+	},
+	{
+		"#text": "Фоновые приложения",
+		"@_name": "cleaner_cache_background_app"
+	},
+	{
+		"#text": "Закрыть фоновые приложения",
+		"@_name": "cleaner_cache_background_app_desc"
+	},
+	{
+		"#text": "Содержимое корзины",
+		"@_name": "cleaner_cache_trash"
+	},
+	{
+		"#text": "Удаление остатков ПО",
+		"@_name": "cleaner_cache_uninstall_remain"
+	},
+	{
+		"#text": "Удаляемо",
+		"@_name": "cleaner_can_be_deleted"
+	},
+	{
+		"#text": "Все %1$s",
+		"@_name": "cleaner_category_select_all"
+	},
+	{
+		"#text": "Выбрано %1$s",
+		"@_name": "cleaner_category_select_part"
+	},
+	{
+		"#text": "Всего: %1$s",
+		"@_name": "cleaner_category_total"
+	},
+	{
+		"#text": "Все",
+		"@_name": "cleaner_check_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "cleaner_check_none"
+	},
+	{
+		"#text": "Проверено %1$s",
+		"@_name": "cleaner_checked_size"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "cleaner_checked_text"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "cleaner_clean_now"
+	},
+	{
+		"#text": "Удалено мусора",
+		"@_name": "cleaner_cleaned_up_trash_total"
+	},
+	{
+		"#text": "Глубокая очистка",
+		"@_name": "cleaner_deep_clean"
+	},
+	{
+		"#text": "Можно повторно загрузить через Интернет",
+		"@_name": "cleaner_desc_can_be_downloaded"
+	},
+	{
+		"#text": "Очистка не повлияет на историю чата",
+		"@_name": "cleaner_desc_chat_delete_safely"
+	},
+	{
+		"#text": "Нельзя восстановить после очистки",
+		"@_name": "cleaner_desc_delete_carefully"
+	},
+	{
+		"#text": "Очистка не повлияет на нормальное использование",
+		"@_name": "cleaner_desc_delete_safely"
+	},
+	{
+		"#text": "Можно повторно загрузить через Интернет (не удалось просмотреть)",
+		"@_name": "cleaner_desc_image_no_preview"
+	},
+	{
+		"#text": "Clean to make your phone smooth",
+		"@_name": "cleaner_desc_phone_fast"
+	},
+	{
+		"#text": "Изменено",
+		"@_name": "cleaner_detail_dialog_modify"
+	},
+	{
+		"#text": "Путь к файлу",
+		"@_name": "cleaner_detail_dialog_path"
+	},
+	{
+		"#text": "Источник",
+		"@_name": "cleaner_detail_dialog_source"
+	},
+	{
+		"#text": "Еще больше подарков! Оставайтесь с нами!",
+		"@_name": "cleaner_entrance_app_store_summary"
+	},
+	{
+		"#text": "Изучение приложений",
+		"@_name": "cleaner_entrance_app_store_title"
+	},
+	{
+		"#text": "Обновите сейчас.",
+		"@_name": "cleaner_entrance_app_update_summary"
+	},
+	{
+		"#text": "Обновите сейчас для экономии %1$s трафика",
+		"@_name": "cleaner_entrance_app_update_summary_x"
+	},
+	{
+		"#text": "%1$s приложения должны быть обновлены",
+		"@_name": "cleaner_entrance_app_update_title"
+	},
+	{
+		"#text": "Значительно экономит место благодаря высокому качеству сжатия",
+		"@_name": "cleaner_entrance_photo_compress_desc"
+	},
+	{
+		"#text": "Сжать фото",
+		"@_name": "cleaner_entrance_photo_compress_title"
+	},
+	{
+		"#text": "Очистка видео, аудио и файлов",
+		"@_name": "cleaner_entrance_qq_desc"
+	},
+	{
+		"#text": "Очистка QQ",
+		"@_name": "cleaner_entrance_qq_title"
+	},
+	{
+		"#text": "3 режима сжатия",
+		"@_name": "cleaner_entrance_video_compress_desc"
+	},
+	{
+		"#text": "Сжать видео",
+		"@_name": "cleaner_entrance_video_compress_title"
+	},
+	{
+		"#text": "Очистка изображения, видео и файлов",
+		"@_name": "cleaner_entrance_we_chat_desc"
+	},
+	{
+		"#text": "Очистка WeChat",
+		"@_name": "cleaner_entrance_we_chat_title"
+	},
+	{
+		"#text": "Не удалось просмотреть",
+		"@_name": "cleaner_item_no_preview_toast"
+	},
+	{
+		"#text": "Очень мало места",
+		"@_name": "cleaner_low_storage_notify_1g_title"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "cleaner_low_storage_notify_5g_title"
+	},
+	{
+		"#text": "Очистить сейчас",
+		"@_name": "cleaner_low_storage_notify_content_text"
+	},
+	{
+		"#text": "Нет элементов для очистки",
+		"@_name": "cleaner_no_trash_item"
+	},
+	{
+		"#text": "Большие файлы",
+		"@_name": "cleaner_not_frequent_big_file"
+	},
+	{
+		"#text": "Фото",
+		"@_name": "cleaner_photo_model"
+	},
+	{
+		"#text": "Фото",
+		"@_name": "cleaner_pic"
+	},
+	{
+		"#text": "Очистка QQ",
+		"@_name": "cleaner_qq"
+	},
+	{
+		"#text": "Изображения QQ",
+		"@_name": "cleaner_qq_chat_pic"
+	},
+	{
+		"#text": "Видео QQ",
+		"@_name": "cleaner_qq_chat_video"
+	},
+	{
+		"#text": "Видео знаменитостей",
+		"@_name": "cleaner_qq_chat_video_ai"
+	},
+	{
+		"#text": "Голосовые чаты",
+		"@_name": "cleaner_qq_chat_voice"
+	},
+	{
+		"#text": "Голосовой чат зашифрован. Воспроизведение в QQ",
+		"@_name": "cleaner_qq_chat_voice_dialog_title"
+	},
+	{
+		"#text": "Пользовательские стикеры",
+		"@_name": "cleaner_qq_expression_custom"
+	},
+	{
+		"#text": "Стикеры QQ не поддерживают предпросмотр",
+		"@_name": "cleaner_qq_expression_dialog_title"
+	},
+	{
+		"#text": "Загруженные стикеры",
+		"@_name": "cleaner_qq_expression_download"
+	},
+	{
+		"#text": "Аватары QQ",
+		"@_name": "cleaner_qq_friend_portrait"
+	},
+	{
+		"#text": "Принятые файлы",
+		"@_name": "cleaner_qq_receive_file"
+	},
+	{
+		"#text": "Сохранённые изображения",
+		"@_name": "cleaner_qq_save_pic"
+	},
+	{
+		"#text": "Ненужные файлы",
+		"@_name": "cleaner_qq_trash_file"
+	},
+	{
+		"#text": "Кэши QQ",
+		"@_name": "cleaner_qq_zone_cache"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "cleaner_recommend_clean"
+	},
+	{
+		"#text": "Сканирование",
+		"@_name": "cleaner_scanning"
+	},
+	{
+		"#text": "Автоматически",
+		"@_name": "cleaner_similar_photo_auto_check"
+	},
+	{
+		"#text": "Отменить выбор",
+		"@_name": "cleaner_similar_photo_cancel_check"
+	},
+	{
+		"#text": "HD",
+		"@_name": "cleaner_similar_photo_clearest"
+	},
+	{
+		"#text": "Из альбома",
+		"@_name": "cleaner_similar_photo_source_tip"
+	},
+	{
+		"#text": "Достаточно места",
+		"@_name": "cleaner_space_ample"
+	},
+	{
+		"#text": "\"Свободно \"",
+		"@_name": "cleaner_space_usable_tip"
+	},
+	{
+		"#text": "\"Используется \"",
+		"@_name": "cleaner_space_used_tip"
+	},
+	{
+		"#text": "Можно очистить",
+		"@_name": "cleaner_suggest_clean"
+	},
+	{
+		"#text": "Кеш системы",
+		"@_name": "cleaner_system_cache"
+	},
+	{
+		"#text": "Освобождение памяти",
+		"@_name": "cleaner_toast_free_memory"
+	},
+	{
+		"#text": "Используется",
+		"@_name": "cleaner_used"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "cleaner_video"
+	},
+	{
+		"#text": "Можно сжать",
+		"@_name": "cleaner_video_can_trim"
+	},
+	{
+		"#text": "Можно освободить %1$s",
+		"@_name": "cleaner_video_can_trim_x"
+	},
+	{
+		"#text": "Значительно увеличит свободное место",
+		"@_name": "cleaner_video_header_summary"
+	},
+	{
+		"#text": "Сжатие видео",
+		"@_name": "cleaner_video_header_title"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "cleaner_video_stop_trim_dialog_continue"
+	},
+	{
+		"#text": "Стоп",
+		"@_name": "cleaner_video_stop_trim_dialog_stop"
+	},
+	{
+		"#text": "В следующий раз прогресс начнется заново. Хотите завершить?",
+		"@_name": "cleaner_video_stop_trim_dialog_title"
+	},
+	{
+		"#text": "Сжатие видео",
+		"@_name": "cleaner_video_trim"
+	},
+	{
+		"#text": "Удалить оригиналы видео после сжатия",
+		"@_name": "cleaner_video_trim_dialog_auto_delete_summary"
+	},
+	{
+		"#text": "Сжатие",
+		"@_name": "cleaner_video_trim_dialog_button"
+	},
+	{
+		"#text": "Нормальное сжатие",
+		"@_name": "cleaner_video_trim_dialog_normal_title"
+	},
+	{
+		"#text": "Максимальное сжатие",
+		"@_name": "cleaner_video_trim_dialog_quality_title"
+	},
+	{
+		"#text": "Предпочтительная скорость",
+		"@_name": "cleaner_video_trim_dialog_quick_title"
+	},
+	{
+		"#text": "Требуемое время: %1$s. Можно освободить %2$s",
+		"@_name": "cleaner_video_trim_dialog_summary"
+	},
+	{
+		"#text": "%1$s выбрано",
+		"@_name": "cleaner_video_trim_dialog_title"
+	},
+	{
+		"#text": "Начать",
+		"@_name": "cleaner_video_trim_dialog_trimed_button"
+	},
+	{
+		"#text": "%1$s видео сжато в том же режиме",
+		"@_name": "cleaner_video_trim_dialog_trimed_title"
+	},
+	{
+		"#text": "Пусто",
+		"@_name": "cleaner_video_trim_empty_view_tip"
+	},
+	{
+		"#text": "%1$s видео сжато с ошибкой",
+		"@_name": "cleaner_video_trim_finish_fail_tip"
+	},
+	{
+		"#text": "%1$s видео успешно сжато",
+		"@_name": "cleaner_video_trim_finish_success_tip"
+	},
+	{
+		"#text": "Показать подробности",
+		"@_name": "cleaner_video_trim_notify_content"
+	},
+	{
+		"#text": "%1$s видео сжато с ошибкой",
+		"@_name": "cleaner_video_trim_notify_title_fail"
+	},
+	{
+		"#text": "%1$s видео успешно сжато. %2$s видео сжато с ошибкой",
+		"@_name": "cleaner_video_trim_notify_title_part"
+	},
+	{
+		"#text": "%1$s видео успешно сжато",
+		"@_name": "cleaner_video_trim_notify_title_success"
+	},
+	{
+		"#text": "Сжатие видео %1$s%%",
+		"@_name": "cleaner_video_trim_notify_title_trimming"
+	},
+	{
+		"#text": "Сжатие",
+		"@_name": "cleaner_video_trim_now"
+	},
+	{
+		"#text": "Нормальное",
+		"@_name": "cleaner_video_trim_tip_normal"
+	},
+	{
+		"#text": "Максимальное",
+		"@_name": "cleaner_video_trim_tip_quality"
+	},
+	{
+		"#text": "Скорость",
+		"@_name": "cleaner_video_trim_tip_quick"
+	},
+	{
+		"#text": "Сжатые",
+		"@_name": "cleaner_video_trimed"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "cleaner_warning_dialog_cancel"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "cleaner_warning_dialog_delete"
+	},
+	{
+		"#text": "После очистки выбранные данные нельзя будет восстановить",
+		"@_name": "cleaner_warning_dialog_title"
+	},
+	{
+		"#text": "После очистки выбранные данные не могут быть восстановлены и их будет необходимо загрузить снова. Приложения и их клоны будут удалены.",
+		"@_name": "cleaner_warning_dialog_title_clone_app"
+	},
+	{
+		"#text": "Очистка WeChat",
+		"@_name": "cleaner_we_chat"
+	},
+	{
+		"#text": "Стикеры WeChat",
+		"@_name": "cleaner_we_chat_chat_expression"
+	},
+	{
+		"#text": "Стикеры",
+		"@_name": "cleaner_we_chat_chat_expression_browser"
+	},
+	{
+		"#text": "Стикеры избранного",
+		"@_name": "cleaner_we_chat_chat_expression_collect"
+	},
+	{
+		"#text": "Стикеры WeChat не поддерживают предпросмотр",
+		"@_name": "cleaner_we_chat_chat_expression_dialog_title"
+	},
+	{
+		"#text": "Изображения в чатах",
+		"@_name": "cleaner_we_chat_chat_original_pic"
+	},
+	{
+		"#text": "Миниатюры WeChat",
+		"@_name": "cleaner_we_chat_chat_thumbnail_pic"
+	},
+	{
+		"#text": "Видео WeChat",
+		"@_name": "cleaner_we_chat_chat_video"
+	},
+	{
+		"#text": "Видео знаменитостей",
+		"@_name": "cleaner_we_chat_chat_video_ai"
+	},
+	{
+		"#text": "Голосовые чаты",
+		"@_name": "cleaner_we_chat_chat_voice"
+	},
+	{
+		"#text": "Голосовой чат зашифрован. Воспроизведение в WeChat",
+		"@_name": "cleaner_we_chat_chat_voice_dialog_title"
+	},
+	{
+		"#text": "Загруженные файлы",
+		"@_name": "cleaner_we_chat_download_file"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "cleaner_we_chat_favorite_cache"
+	},
+	{
+		"#text": "Содержимое Моментов",
+		"@_name": "cleaner_we_chat_friend_cache"
+	},
+	{
+		"#text": "Изображения WeChat",
+		"@_name": "cleaner_we_chat_friend_pic"
+	},
+	{
+		"#text": "Видео WeChat",
+		"@_name": "cleaner_we_chat_friend_video"
+	},
+	{
+		"#text": "Установщик игр",
+		"@_name": "cleaner_we_chat_game_apk_cache"
+	},
+	{
+		"#text": "Кэши мини-программ",
+		"@_name": "cleaner_we_chat_mini_app_cache"
+	},
+	{
+		"#text": "Аватары в кэшах",
+		"@_name": "cleaner_we_chat_portrait_cache"
+	},
+	{
+		"#text": "Красные изображения пакетов",
+		"@_name": "cleaner_we_chat_red_packet_pic"
+	},
+	{
+		"#text": "Сохранённые изображения",
+		"@_name": "cleaner_we_chat_save_pic"
+	},
+	{
+		"#text": "Фотографии",
+		"@_name": "cleaner_we_chat_shoot_pic"
+	},
+	{
+		"#text": "Ненужные файлы",
+		"@_name": "cleaner_we_chat_trash_file"
+	},
+	{
+		"#text": "Ярлыки видео",
+		"@_name": "cleaner_we_chat_video_preview_image"
+	},
+	{
+		"#text": "Пустая папка",
+		"@_name": "clear_sdk_empty_dir"
+	},
+	{
+		"#text": "Файл журнала",
+		"@_name": "clear_sdk_log_file"
+	},
+	{
+		"#text": "Потерянные системные файлы",
+		"@_name": "clear_sdk_lost_dir"
+	},
+	{
+		"#text": "Временные файлы",
+		"@_name": "clear_sdk_temp_file"
+	},
+	{
+		"#text": "Эскиз галереи",
+		"@_name": "clear_sdk_thumbnail"
+	},
+	{
+		"#text": "Недопустимый эскиз галереи",
+		"@_name": "clear_sdk_thumbnail_invalid"
+	},
+	{
+		"#text": "Посмотреть детали",
+		"@_name": "click_get_description"
+	},
+	{
+		"#text": "Конфликт с Security lite версией! Блокировка преследования будет временно отключена",
+		"@_name": "collision_lite_version_toast"
+	},
+	{
+		"#text": "Конфликт с безопасностью! Блокировка преследования будет временно отключена",
+		"@_name": "collision_mobilesafe_version_toast"
+	},
+	{
+		"#text": "Сжать",
+		"@_name": "compress"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "compress_example_dialog_button_title"
+	},
+	{
+		"#text": "Пример",
+		"@_name": "compress_example_dialog_title"
+	},
+	{
+		"#text": "%1$s фото не удалось сжать",
+		"@_name": "compress_failed_num"
+	},
+	{
+		"#text": "Оригинальный размер %1$s",
+		"@_name": "compress_photo_origin_size"
+	},
+	{
+		"#text": "Размер после сжатия %1$s",
+		"@_name": "compress_photo_size"
+	},
+	{
+		"#text": "%1$s/%2$s",
+		"@_name": "compress_progress_text"
+	},
+	{
+		"#text": "%1$s%%",
+		"@_name": "compress_progress_text_video"
+	},
+	{
+		"#text": "%1$s фото успешно сжато",
+		"@_name": "compress_successed_num"
+	},
+	{
+		"#text": "Всего освобождено %1$s",
+		"@_name": "compress_total_freed_size"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Чтение списка контактов",
+		"@_name": "contacts"
+	},
+	{
+		"#text": "чтение списка контактов",
+		"@_name": "contacts_c"
+	},
+	{
+		"#text": "Чтение контактной информации",
+		"@_name": "contacts_permission_summary"
+	},
+	{
+		"#text": "Контакты",
+		"@_name": "contacts_permission_title"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "continue_compress"
+	},
+	{
+		"#text": "Продолжить использование",
+		"@_name": "continue_use"
+	},
+	{
+		"#text": "%1$s фото выбрано",
+		"@_name": "count_select_image"
+	},
+	{
+		"#text": "Черный список",
+		"@_name": "custom_blacklist"
+	},
+	{
+		"#text": "Другие IP номера",
+		"@_name": "custom_ip_header"
+	},
+	{
+		"#text": "Удаление журанала вызовов",
+		"@_name": "d_call_log"
+	},
+	{
+		"#text": "удаление журанала вызовов",
+		"@_name": "d_call_log_c"
+	},
+	{
+		"#text": "Удаление контактов",
+		"@_name": "d_contacts"
+	},
+	{
+		"#text": "удаление контактов",
+		"@_name": "d_contacts_c"
+	},
+	{
+		"#text": "Удаление журнала MMS",
+		"@_name": "d_mms"
+	},
+	{
+		"#text": "удаление журнала MMS",
+		"@_name": "d_mms_c"
+	},
+	{
+		"#text": "Удаление SMS или MMS",
+		"@_name": "d_sms"
+	},
+	{
+		"#text": "удаление SMS или MMS",
+		"@_name": "d_sms_c"
+	},
+	{
+		"#text": "Удаление SMS/MMS",
+		"@_name": "d_sms_mms"
+	},
+	{
+		"#text": "Ежедневное предупреждение о расходе",
+		"@_name": "daily_warning_net_dialog_title"
+	},
+	{
+		"#text": "Предупреждать при расходе более %1$s",
+		"@_name": "daily_warning_net_summary"
+	},
+	{
+		"#text": "Предупреждать, когда ежедневное использование превышает %1$s",
+		"@_name": "daily_warning_net_switch_summary"
+	},
+	{
+		"#text": "Ежедневное напоминание о расходе трафика",
+		"@_name": "daily_warning_net_switch_title"
+	},
+	{
+		"#text": "Значение напоминания",
+		"@_name": "daily_warning_net_title"
+	},
+	{
+		"#text": "Удалённые приложения",
+		"@_name": "data_usage_uninstalled_apps"
+	},
+	{
+		"#text": "Удалённые приложения и пользователи",
+		"@_name": "data_usage_uninstalled_apps_users"
+	},
+	{
+		"#text": "1-й день каждого месяца",
+		"@_name": "date_1"
+	},
+	{
+		"#text": "10-й день каждого месяца",
+		"@_name": "date_10"
+	},
+	{
+		"#text": "11-й день каждого месяца",
+		"@_name": "date_11"
+	},
+	{
+		"#text": "12-й день каждого месяца",
+		"@_name": "date_12"
+	},
+	{
+		"#text": "13-й день каждого месяца",
+		"@_name": "date_13"
+	},
+	{
+		"#text": "14-й день каждого месяца",
+		"@_name": "date_14"
+	},
+	{
+		"#text": "15-й день каждого месяца",
+		"@_name": "date_15"
+	},
+	{
+		"#text": "16-й день каждого месяца",
+		"@_name": "date_16"
+	},
+	{
+		"#text": "17-й день каждого месяца",
+		"@_name": "date_17"
+	},
+	{
+		"#text": "18-й день каждого месяца",
+		"@_name": "date_18"
+	},
+	{
+		"#text": "19-й день каждого месяца",
+		"@_name": "date_19"
+	},
+	{
+		"#text": "2-й день каждого месяца",
+		"@_name": "date_2"
+	},
+	{
+		"#text": "20-й день каждого месяца",
+		"@_name": "date_20"
+	},
+	{
+		"#text": "21-й день каждого месяца",
+		"@_name": "date_21"
+	},
+	{
+		"#text": "22-й день каждого месяца",
+		"@_name": "date_22"
+	},
+	{
+		"#text": "23-й день каждого месяца",
+		"@_name": "date_23"
+	},
+	{
+		"#text": "24-й день каждого месяца",
+		"@_name": "date_24"
+	},
+	{
+		"#text": "25-й день каждого месяца",
+		"@_name": "date_25"
+	},
+	{
+		"#text": "26-й день каждого месяца",
+		"@_name": "date_26"
+	},
+	{
+		"#text": "27-й день каждого месяца",
+		"@_name": "date_27"
+	},
+	{
+		"#text": "28-й день каждого месяца",
+		"@_name": "date_28"
+	},
+	{
+		"#text": "29-й день каждого месяца",
+		"@_name": "date_29"
+	},
+	{
+		"#text": "3-й день каждого месяца",
+		"@_name": "date_3"
+	},
+	{
+		"#text": "30-й день каждого месяца",
+		"@_name": "date_30"
+	},
+	{
+		"#text": "31-й день каждого месяца",
+		"@_name": "date_31"
+	},
+	{
+		"#text": "4-й день каждого месяца",
+		"@_name": "date_4"
+	},
+	{
+		"#text": "5-й день каждого месяца",
+		"@_name": "date_5"
+	},
+	{
+		"#text": "6-й день каждого месяца",
+		"@_name": "date_6"
+	},
+	{
+		"#text": "7-й день каждого месяца",
+		"@_name": "date_7"
+	},
+	{
+		"#text": "8-й день каждого месяца",
+		"@_name": "date_8"
+	},
+	{
+		"#text": "9-й день каждого месяца",
+		"@_name": "date_9"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "д.",
+		"@_name": "day"
+	},
+	{
+		"#text": "д.",
+		"@_name": "Day"
+	},
+	{
+		"#text": "Остаток трафика не должен превышать ежедневного объёма",
+		"@_name": "day_plan_left_set_error_msg"
+	},
+	{
+		"#text": "Ежедневный объём трафика не может быть меньше оставшегося",
+		"@_name": "day_plan_total_set_error_msg"
+	},
+	{
+		"#text": "Ежедневное предупреждение",
+		"@_name": "day_warning_title"
+	},
+	{
+		"#text": "дн.",
+		"@_name": "days"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "DayUsed"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "deep_clear"
+	},
+	{
+		"#text": "(MMS: без темы)",
+		"@_name": "defalut_mms_body"
+	},
+	{
+		"#text": "Пекин",
+		"@_name": "defualt_entry"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "del_confirm"
+	},
+	{
+		"#text": "После очистки выбранные данные не могут быть восстановлены",
+		"@_name": "del_confirm_dlg_title"
+	},
+	{
+		"#text": "После очистки выбранные данные не могут быть восстановлены",
+		"@_name": "del_confirm_dlg_title2"
+	},
+	{
+		"#text": "После очистки выбранные данные не могут быть восстановлены. Клонированные приложения будут удалены вместе с оригинальными приложениями.",
+		"@_name": "del_confirm_dlg_title_multiapp"
+	},
+	{
+		"#text": "Удалить %1$s ключевых слов",
+		"@_name": "delete_block_key_word"
+	},
+	{
+		"#text": "Удалить журналы вызовов",
+		"@_name": "delete_call_log"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_now"
+	},
+	{
+		"#text": "Удалить SMS",
+		"@_name": "delete_sms"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "delete_trust_app"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "deleting"
+	},
+	{
+		"#text": "Настройки оригинальных приложений также применяются к клонам.",
+		"@_name": "dialog_clone_app_confirm"
+	},
+	{
+		"#text": "Приложение должно иметь доступ к сети и местоположению для обновления вирусных баз данных и калибровки использования передачи данных",
+		"@_name": "dialog_message_summary"
+	},
+	{
+		"#text": "Для идентификации вредоносных QR-кодов",
+		"@_name": "dialog_permission_summary_camera"
+	},
+	{
+		"#text": "Для обновления базы вирусов",
+		"@_name": "dialog_permission_summary_internet"
+	},
+	{
+		"#text": "Для калибровки использования моб. данных",
+		"@_name": "dialog_permission_summary_location"
+	},
+	{
+		"#text": "Сертификат безопасности сайта, который вы пытались посетить, истёк или недоступен.",
+		"@_name": "dialog_ssl_alert_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "dialog_ssl_cancel"
+	},
+	{
+		"#text": "Далее",
+		"@_name": "dialog_ssl_confirm"
+	},
+	{
+		"#text": "Спам звонки",
+		"@_name": "disturb_call"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "done"
+	},
+	{
+		"#text": "9 значков внизу",
+		"@_name": "edittext_with_unit_preference_dialog_buttom_imageview_descrition"
+	},
+	{
+		"#text": "Агентство недвижимости",
+		"@_name": "estate_agent"
+	},
+	{
+		"#text": "Ежемесячно",
+		"@_name": "everyMouth"
+	},
+	{
+		"#text": "Express &amp; order-in",
+		"@_name": "express"
+	},
+	{
+		"#text": "Анти-спам и блокировка",
+		"@_name": "feature_block_summary"
+	},
+	{
+		"#text": "ВКЛЮЧИТЬ",
+		"@_name": "feature_button_on"
+	},
+	{
+		"#text": "Очистка ненужного мусора. Освобождение места",
+		"@_name": "feature_clear_summary"
+	},
+	{
+		"#text": "Сведения о потреблении энергии. Различные режимы энергосбережения",
+		"@_name": "feature_power_summary"
+	},
+	{
+		"#text": "Управление функциями",
+		"@_name": "feature_title"
+	},
+	{
+		"#text": "Идентификатор личности",
+		"@_name": "fetion_number"
+	},
+	{
+		"#text": "Путь:",
+		"@_name": "file_path"
+	},
+	{
+		"#text": "Выбрано файлов %1$s, всего %2$sМб",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "finish_setup"
+	},
+	{
+		"#text": "Данные",
+		"@_name": "flow_management"
+	},
+	{
+		"#text": "Блокировать вредоносные процессы при оплате",
+		"@_name": "flyme_security_pay_summary"
+	},
+	{
+		"#text": "Защита платежей Flyme",
+		"@_name": "flyme_security_pay_title"
+	},
+	{
+		"#text": "Освободить %1$s",
+		"@_name": "freed_file_size"
+	},
+	{
+		"#text": "Освободить %1$s%%",
+		"@_name": "freed_size"
+	},
+	{
+		"#text": "Использовано бесплатных данных",
+		"@_name": "FreeUsed"
+	},
+	{
+		"#text": "Полное сканирование",
+		"@_name": "full_scan"
+	},
+	{
+		"#text": "Сканировать неустановленные APK (требуется больше времени)",
+		"@_name": "full_scan_summary"
+	},
+	{
+		"#text": "Гб",
+		"@_name": "gigabyteShort"
+	},
+	{
+		"#text": "Освобождение памяти",
+		"@_name": "goto_deep_clean_text"
+	},
+	{
+		"#text": "Спам-блок",
+		"@_name": "harass_intercept"
+	},
+	{
+		"#text": "Этот сайт содержит вредоносное ПО. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_COCKHORSE"
+	},
+	{
+		"#text": "Атакующие с этого сайта могут попытаться украсть вашу личную и конфиденциальную информацию, что приведёт к компрометации персональных данных, финансовым потерям и другому вреду. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_DEFAULT_CHEAT"
+	},
+	{
+		"#text": "Этот сайт содержит игрового бота. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_GAMES_HANG"
+	},
+	{
+		"#text": "Этот сайт содержит обманчивую информацию о том, как зарабатывать деньги в Интернете. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MAKE_MONEY"
+	},
+	{
+		"#text": "Этот сайт участвовал в мошеннических аферах или мошенничестве с денежными переводами. Здесь могут обмануть вас, попросить предоставить коды подтверждения и оплатить «денежные переводы». Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MONEY_CHEAT"
+	},
+	{
+		"#text": "Этот сайт является подозрительным блогом. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MSG_BLOG"
+	},
+	{
+		"#text": "Этот сайт содержит вредоносную информацию, реакционные реплики и другое вредное содержимое. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MSG_REACTIONARY"
+	},
+	{
+		"#text": "Этот сайт может направить вас на подозрительный сайт. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_MSG_SHADINESS"
+	},
+	{
+		"#text": "Этот сайт находится на частном игровом сервере. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_PRIVATE_SERVER"
+	},
+	{
+		"#text": "Нормально",
+		"@_name": "harm_url_desc_HARM_REGULAR"
+	},
+	{
+		"#text": "Этот сайт содержит порнографический контент. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_SEX"
+	},
+	{
+		"#text": "Этот веб-сайт был вовлечён во вредоносную или вводящую в заблуждение услугу связи с добавленной стоимостью. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_SP_SERVICE"
+	},
+	{
+		"#text": "Этот сайт был вовлечён в фишинг и взлом аккаунтов. Атакующие могут украсть ваши учётные записи в Viber, Skype и т.д.. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_STEAL_ACCOUNT"
+	},
+	{
+		"#text": "Этот сайт участвовал в мошеннических аферах с призами. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_TIPS_CHEAT"
+	},
+	{
+		"#text": "Этот сайт содержит элементы с другого опасного сайта. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_TIPS_DEFAULT"
+	},
+	{
+		"#text": "Этот сайт может содержать потенциально опасный контент. Рекомендуем НЕ посещать этот сайт.",
+		"@_name": "harm_url_desc_HARM_UNKNOWN"
+	},
+	{
+		"#text": "Мошенничество в соц. Сфере",
+		"@_name": "harm_url_type_EVIL_CHEAT1"
+	},
+	{
+		"#text": "Мошенничество",
+		"@_name": "harm_url_type_EVIL_CHEAT2"
+	},
+	{
+		"#text": "Поддельная торговая площадка",
+		"@_name": "harm_url_type_EVIL_FAULTSALES"
+	},
+	{
+		"#text": "Незаконный контент",
+		"@_name": "harm_url_type_EVIL_ILLEGALCONTENT"
+	},
+	{
+		"#text": "Сайт азартных игр",
+		"@_name": "harm_url_type_EVIL_LOTTERYWEB"
+	},
+	{
+		"#text": "Вредоносный файл",
+		"@_name": "harm_url_type_EVIL_MALICEFILE"
+	},
+	{
+		"#text": "Безопасный сайт",
+		"@_name": "harm_url_type_EVIL_NOEVIL"
+	},
+	{
+		"#text": "Опасный сайт",
+		"@_name": "harm_url_type_EVIL_RISKWEB"
+	},
+	{
+		"#text": "Порносайт",
+		"@_name": "harm_url_type_EVIL_SEXYWEB"
+	},
+	{
+		"#text": "Нет приложений для управления",
+		"@_name": "have_no_app_summary"
+	},
+	{
+		"#text": "Не настроено",
+		"@_name": "haveNotSetup"
+	},
+	{
+		"#text": "TouTiao",
+		"@_name": "header_line"
+	},
+	{
+		"#text": "Отменен",
+		"@_name": "hybrid_cancel"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "hybrid_msg_loading"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для перезагрузки",
+		"@_name": "hybrid_network_error_to_refresh"
+	},
+	{
+		"#text": "Нет подключения к сети, проверьте настройки.",
+		"@_name": "hybrid_no_network_to_setting"
+	},
+	{
+		"#text": "Ok",
+		"@_name": "hybrid_ok"
+	},
+	{
+		"#text": "Настройка сети",
+		"@_name": "hybrid_setting_network"
+	},
+	{
+		"#text": "Фоновое кольцо в начальном состоянии",
+		"@_name": "inint_stat_circle"
+	},
+	{
+		"#text": "1-й день каждого месяца",
+		"@_name": "initMounthAccountDate"
+	},
+	{
+		"#text": "Пожалуйста, введите",
+		"@_name": "input_num"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "install_button_cancel"
+	},
+	{
+		"#text": "Скрыть",
+		"@_name": "install_button_hide"
+	},
+	{
+		"#text": "Установить",
+		"@_name": "install_button_install"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "install_complete_text"
+	},
+	{
+		"#text": "Возникла ошибка, код = %d",
+		"@_name": "install_error"
+	},
+	{
+		"#text": "Ошибка установки DirectService",
+		"@_name": "install_failure"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "install_idle_text"
+	},
+	{
+		"#text": "0%",
+		"@_name": "install_progress_default"
+	},
+	{
+		"#text": "Install successful, open quick app immediately",
+		"@_name": "install_success"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "install_title_downloading"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "install_title_installing"
+	},
+	{
+		"#text": "Запуск",
+		"@_name": "install_title_launching"
+	},
+	{
+		"#text": "Install DirectService to open quick app",
+		"@_name": "install_title_prompt"
+	},
+	{
+		"#text": "Установлено",
+		"@_name": "installed"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "installing_text"
+	},
+	{
+		"#text": "Страхование от несчастных случаев",
+		"@_name": "insurance_name"
+	},
+	{
+		"#text": "IP Dial",
+		"@_name": "ip_call"
+	},
+	{
+		"#text": "Выбрано: %1$s",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Перейти",
+		"@_name": "jump"
+	},
+	{
+		"#text": "Нажмите для входа на страницу настроек",
+		"@_name": "jumpToSetup"
+	},
+	{
+		"#text": "Неиспользуемых APK: %1$s",
+		"@_name": "junk_apk_num"
+	},
+	{
+		"#text": "Кэш ПО: %1$s",
+		"@_name": "junk_app_cache_num"
+	},
+	{
+		"#text": "Автоочистка",
+		"@_name": "junk_clean_auto_task_title"
+	},
+	{
+		"#text": "%1$s файл(ов) удалено",
+		"@_name": "junk_clean_auto_total_size"
+	},
+	{
+		"#text": "Очистка мусора",
+		"@_name": "junk_clear_mode"
+	},
+	{
+		"#text": "Ежедневно",
+		"@_name": "junk_clear_rate1"
+	},
+	{
+		"#text": "Каждую неделю",
+		"@_name": "junk_clear_rate2"
+	},
+	{
+		"#text": "Каждый месяц",
+		"@_name": "junk_clear_rate3"
+	},
+	{
+		"#text": "Сканирование: %s",
+		"@_name": "junk_scan_txt"
+	},
+	{
+		"#text": "Удаляемо",
+		"@_name": "junk_size_can_del"
+	},
+	{
+		"#text": "%1$s можно удалить",
+		"@_name": "junk_size_f8"
+	},
+	{
+		"#text": "\"Используется \"",
+		"@_name": "junk_size_used"
+	},
+	{
+		"#text": "Системный кэш: %1$s",
+		"@_name": "junk_system_cache_num"
+	},
+	{
+		"#text": "Ненужных файлов: %1$s",
+		"@_name": "junk_system_num"
+	},
+	{
+		"#text": "Автоочистка",
+		"@_name": "junk_timer_clear_mode1"
+	},
+	{
+		"#text": "Сканирование",
+		"@_name": "junk_timer_clear_mode2"
+	},
+	{
+		"#text": "Не сканировать",
+		"@_name": "junk_timer_clear_mode3"
+	},
+	{
+		"#text": "Всего",
+		"@_name": "junk_total_clear"
+	},
+	{
+		"#text": "Кэш ПО и системы",
+		"@_name": "junk_type_sys_app_cache"
+	},
+	{
+		"#text": "Удалено остатков: %1$s",
+		"@_name": "junk_uninstalled_num"
+	},
+	{
+		"#text": "Оптимизировано до лучшего уровня",
+		"@_name": "just_memory_clear"
+	},
+	{
+		"#text": "К",
+		"@_name": "kilobyteShort"
+	},
+	{
+		"#text": "Напоминать, когда использованные данные превышают 40 Гб",
+		"@_name": "king_card_remind_switch_summary"
+	},
+	{
+		"#text": "Оповещение при 40 Гб",
+		"@_name": "king_card_remind_switch_title"
+	},
+	{
+		"#text": "дн. назад",
+		"@_name": "last_scan_day"
+	},
+	{
+		"#text": "полгода назад",
+		"@_name": "last_scan_half_a_year"
+	},
+	{
+		"#text": "сейчас",
+		"@_name": "last_scan_moment"
+	},
+	{
+		"#text": "мес. назад",
+		"@_name": "last_scan_moth"
+	},
+	{
+		"#text": "сегодня",
+		"@_name": "last_scan_today"
+	},
+	{
+		"#text": "лет назад",
+		"@_name": "last_scan_year"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "last_scan_yesterday"
+	},
+	{
+		"#text": "Загрузка предварительно сжатого изображения",
+		"@_name": "loading_preview_compress_photo"
+	},
+	{
+		"#text": "Местный номер",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "Определение местоположения через gps или моб. сеть",
+		"@_name": "location"
+	},
+	{
+		"#text": "определение местоположения через gps или моб. сеть",
+		"@_name": "location_c"
+	},
+	{
+		"#text": "Определение местоположения через моб. сеть и GPS",
+		"@_name": "location_permission_summary"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "location_permission_title"
+	},
+	{
+		"#text": "Без использования кнопки питания",
+		"@_name": "lock_screen_summary"
+	},
+	{
+		"#text": "Блокировка экрана",
+		"@_name": "lock_screen_title"
+	},
+	{
+		"#text": "Длительное нажатие для просмотра исходного изображения",
+		"@_name": "long_press_review_original_image"
+	},
+	{
+		"#text": "Напоминание о низком балансе",
+		"@_name": "low_call_remind"
+	},
+	{
+		"#text": "Премиум-пакет готов для вас. Получите его сейчас",
+		"@_name": "low_call_remind_notify_summary"
+	},
+	{
+		"#text": "Баланс составляет менее 10 юаней",
+		"@_name": "low_call_remind_notify_title"
+	},
+	{
+		"#text": "Баланс карты %1$s составляет менее 10 юаней",
+		"@_name": "low_call_remind_notify_title_card"
+	},
+	{
+		"#text": "Регулярная отправка бесплатных SMS-запросов с напоминанием о балансе менее 10 юаней",
+		"@_name": "low_call_remind_summary"
+	},
+	{
+		"#text": "Напоминание",
+		"@_name": "low_reminder"
+	},
+	{
+		"#text": "Напомнить при снижении баланса и остатка трафика",
+		"@_name": "low_reminder_summary"
+	},
+	{
+		"#text": "Очистить сейчас",
+		"@_name": "low_storage_notice_desc"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "low_storage_notice_title_less_1G"
+	},
+	{
+		"#text": "Недостаточно места",
+		"@_name": "low_storage_notice_title_less_5G"
+	},
+	{
+		"#text": "%1$s осталось",
+		"@_name": "main_page_cleaner_usable_size_f8"
+	},
+	{
+		"#text": "Можно очистить %1$s",
+		"@_name": "main_page_phone_clean_sum_f8"
+	},
+	{
+		"#text": "Вредоносные файлы",
+		"@_name": "malicious_files"
+	},
+	{
+		"#text": "Ручная настройка",
+		"@_name": "manualSetupDialogFragmentTitle"
+	},
+	{
+		"#text": "Страхование и финансы",
+		"@_name": "marker_type_finance"
+	},
+	{
+		"#text": "Хедхантер",
+		"@_name": "marker_type_recruit"
+	},
+	{
+		"#text": "Такси",
+		"@_name": "marker_type_taxi"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Отменить",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Удалено из избранного",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Избранное",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d дней спустя",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d дней назад",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Григорианский",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Скрыть лунный календарь",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Лунный",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 день спустя",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 день назад",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Показать григорианский календарь",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Показать лунный календарь",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Настроить",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Ответ",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Загрузить обновление",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Загружено",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Использовать ползунок. Текущая установка %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Каждый день",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "ПТ",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "последнее обновление",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "ч. назад",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "только что",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "сек. назад",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Сохранение изображения",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "ПН",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Один раз",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "час назад",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "минуту назад",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", ч. назад",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": ", мин. назад",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Сегодня",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a %-e.%-m %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e.%-m %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m.%Y",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вчера",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Запрос разрешений",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен., включая %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Разрешить Push-уведомления",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Вызов",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Всплывающие Push-уведомления",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Геолокация",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Интернет",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Открыть",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Управление передачей данных",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Управление Wi-Fi",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Как",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Потяните вниз для обновления",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "СБ",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-e.%-m",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e.%-m.%Y",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "ВС",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "ЧТ",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Расписание",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Високосный месяц",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "ВТ",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Выбрано",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Не выбрано",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Голосовой поиск",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "СР",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Выходные",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Рабочие дни",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "megabyteShort"
+	},
+	{
+		"#text": "%1$s памяти очищено",
+		"@_name": "memory_clear_toast"
+	},
+	{
+		"#text": "Добавить",
+		"@_name": "menu_add"
+	},
+	{
+		"#text": "Изменено:",
+		"@_name": "modified_time"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Системные приложения",
+		"@_name": "more_settings_title"
+	},
+	{
+		"#text": "Ежемесячный расчётный день",
+		"@_name": "mouthAccount"
+	},
+	{
+		"#text": "Перерасход за месяц",
+		"@_name": "mouthOverFlow"
+	},
+	{
+		"#text": "Осталось на месяц",
+		"@_name": "mouthRemain"
+	},
+	{
+		"#text": "Месячный пакет трафика",
+		"@_name": "mouthTraffic"
+	},
+	{
+		"#text": "За месяц",
+		"@_name": "MouthUsed"
+	},
+	{
+		"#text": "Предупреждать, если ежемесячный трафик превышает %1$s",
+		"@_name": "mouthWarming"
+	},
+	{
+		"#text": "Контактная информация пуста",
+		"@_name": "msg_empty_contact"
+	},
+	{
+		"#text": "Запретить уведомления поверх всего для всех приложений?",
+		"@_name": "msg_reject_all_heads_up_notify"
+	},
+	{
+		"#text": "Запретить уведомления для всех приложений?",
+		"@_name": "msg_reject_all_notify"
+	},
+	{
+		"#text": "Интервал между включением и выключением должен быть не менее %1$d мин.",
+		"@_name": "msg_start_end_too_small"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "Все",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "Выбрано %d",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "Нет номеров в чёрном списке",
+		"@_name": "mz_black_list_no_list"
+	},
+	{
+		"#text": "день",
+		"@_name": "mz_block_day"
+	},
+	{
+		"#text": "/",
+		"@_name": "mz_block_mouth"
+	},
+	{
+		"#text": "Нет заблокированных записей",
+		"@_name": "mz_block_no_list_title"
+	},
+	{
+		"#text": "MMS не поддерживает восстановление",
+		"@_name": "mz_block_reject_mms_restore"
+	},
+	{
+		"#text": "Восстановить",
+		"@_name": "mz_block_restore"
+	},
+	{
+		"#text": "/",
+		"@_name": "mz_block_year"
+	},
+	{
+		"#text": "д.",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "ч.",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "мин.",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "мес.",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "с.",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "г.",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настройки сети",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Не предлагать запрос после отказа",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Всегда разрешать",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Запрос разрешения",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s запрашивает %3$d разрешен. на %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s требует %2$s %3$d разрешен.",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Для получения вышеуказанных функций и услуг вы должны согласиться с %1$s (ребенок, не достигший четырнадцатилетнего возраста, должен получить согласие опекуна).",
+		"@_name": "mz_permission_policy_description"
+	},
+	{
+		"#text": "Запрос следующих разрешений",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Разрешения и заявления",
+		"@_name": "mz_permission_title_terms"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Сетевые соединения",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Управление Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Вызовы",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Чтение журнала вызовов",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Камера (Фото/Видео)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Выкл.",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Чтение контактов",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push-уведомления",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Местоположение",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Передача данных",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "Управление NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Откл.",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Доступ в интернет",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Чтение MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Чтение SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Запись вызовов",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Включение передачи данных",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "Доступ к Wi-Fi",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Политика конфиденциальности Meizu",
+		"@_name": "mz_privacy_policy"
+	},
+	{
+		"#text": "Выход",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Удалить после передачи",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Все ещё разрешено",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Отказать в разрешении",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "Не удалось откалибровать использование трафика",
+		"@_name": "mz_teffic_analyze_fail"
+	},
+	{
+		"#text": "Тайм-аут запроса данных",
+		"@_name": "mz_traffic_get_sms_timeout"
+	},
+	{
+		"#text": "SIM-карта не обнаружена. Установите SIM-карту и попробуйте снова.",
+		"@_name": "mz_traffic_no_sim_card"
+	},
+	{
+		"#text": "Отправлено сообщений оператору",
+		"@_name": "mz_traffic_send_sms_to_operator"
+	},
+	{
+		"#text": "Пользовательское соглашение",
+		"@_name": "mz_user_agreement"
+	},
+	{
+		"#text": "Сеть недоступна. Проверьте настрйоки сети.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Настройки сети",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Отменить загрузку",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Отменить установку",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Загрузка завершена, нажмите для установки",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s - загрузка завершена",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Загружается",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "Будет потреблено %s данных",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Доступно обновление: %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Установить сейчас",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Установить позже",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Установка",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Проверка обновления",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Текущая версия %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Загрузка отменена",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Ошибка загрузки",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Загрузка %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "Найдена новая версия. Нажмите для обновления",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Ошибка установки",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Обновление загружено, нажмите для установки",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Установка…",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Текущая версия - актуальная",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Загрузить последнюю версию",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Проверить обновления",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "Что нового:",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Перезапустить обновление",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "Если пропустить эту версию, то предложение об установке не последует",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Обновление завершено",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Обновлено до последней версии %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Обновить сейчас",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Обновление в сети (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Загрузить через мобильную сеть?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Вышла %s %s",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Пожалуйста, подождите",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Напомнить позже",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Ошибка сети, попробуйте позже.",
+		"@_name": "network_execption"
+	},
+	{
+		"#text": "Нет подключения к сети, проверьте настройки.",
+		"@_name": "network_fail"
+	},
+	{
+		"#text": "Переключатель передачи данных",
+		"@_name": "network_switch"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "news_cancel"
+	},
+	{
+		"#text": "Изменить",
+		"@_name": "news_change"
+	},
+	{
+		"#text": "Подтвердить",
+		"@_name": "news_confirm"
+	},
+	{
+		"#text": "Не нравится",
+		"@_name": "news_dislike"
+	},
+	{
+		"#text": "Не нравится",
+		"@_name": "news_dislike_hint"
+	},
+	{
+		"#text": "Ошибка сети, нажмите для повтора",
+		"@_name": "news_error_click_retry"
+	},
+	{
+		"#text": "Больше ничего нет",
+		"@_name": "news_error_no_more"
+	},
+	{
+		"#text": "Отправить",
+		"@_name": "news_feedback_commit"
+	},
+	{
+		"#text": "Только что",
+		"@_name": "news_lite_just_now"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "news_lite_smv_entrance_title"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "news_lite_smv_view_more"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "news_loading_text"
+	},
+	{
+		"#text": "Еще",
+		"@_name": "news_more"
+	},
+	{
+		"#text": "Ошибка сети, попробуйте позже",
+		"@_name": "news_network_error"
+	},
+	{
+		"#text": "Воспроизвести: %s",
+		"@_name": "news_play_count"
+	},
+	{
+		"#text": "Сократит количество похожих рекомендаций по содержанию",
+		"@_name": "news_reduce_recommendation"
+	},
+	{
+		"#text": "Сообщить о спаме",
+		"@_name": "news_report"
+	},
+	{
+		"#text": "\\\"Желтые\\\" заголовки",
+		"@_name": "news_report_reason"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "news_slide_more"
+	},
+	{
+		"#text": "Версия слишком старая, ошибка воспроизведения",
+		"@_name": "news_tip_dialog_app_version_too_low"
+	},
+	{
+		"#text": "Нет подключения к сети, проверьте настройки.",
+		"@_name": "news_tip_dialog_wifi_not_connected"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "news_update"
+	},
+	{
+		"#text": "Значок для перехода к интерфейсу системных приложений",
+		"@_name": "next_system_app_list_guid_drawable_descrition"
+	},
+	{
+		"#text": "Нечего удалять",
+		"@_name": "no_clean_item"
+	},
+	{
+		"#text": "SIM-карта не установлена",
+		"@_name": "no_sim_card"
+	},
+	{
+		"#text": "Нет доверенных приложений",
+		"@_name": "no_trust_app"
+	},
+	{
+		"#text": "No usage record",
+		"@_name": "no_use_record"
+	},
+	{
+		"#text": "Белый список пуст",
+		"@_name": "no_white_list"
+	},
+	{
+		"#text": "Не установлено",
+		"@_name": "non_install"
+	},
+	{
+		"#text": "Уведомления приложений",
+		"@_name": "notification_managerment"
+	},
+	{
+		"#text": "Слишком много уведомлений?",
+		"@_name": "notification_too_much"
+	},
+	{
+		"#text": "Нажмите для управления разрешениями",
+		"@_name": "notification_too_much_managerment"
+	},
+	{
+		"#text": "Автообновление через WLAN",
+		"@_name": "notification_update_virus_lib_button_setting"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "notification_update_virus_lib_button_update"
+	},
+	{
+		"#text": "Добавлены образцы вирусов",
+		"@_name": "notification_update_virus_lib_content"
+	},
+	{
+		"#text": "Обновление БД вирусов",
+		"@_name": "notification_update_virus_lib_title"
+	},
+	{
+		"#text": "Поиск вирусов",
+		"@_name": "notification_updated_virus_lib_content"
+	},
+	{
+		"#text": "БД вирусов обновлена",
+		"@_name": "notification_updated_virus_lib_title"
+	},
+	{
+		"#text": "Обновление…",
+		"@_name": "notification_updating_virus_lib_content"
+	},
+	{
+		"#text": "Обновление БД вирусов",
+		"@_name": "notification_updating_virus_lib_title"
+	},
+	{
+		"#text": "Сжатие фото %1$s",
+		"@_name": "notify_compressing_photo"
+	},
+	{
+		"#text": "Сжатие фото %1$s%%",
+		"@_name": "notify_compressing_photo_percent"
+	},
+	{
+		"#text": "%1$s, %2$s",
+		"@_name": "notify_message_splite"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "notify_msg"
+	},
+	{
+		"#text": "%1$s пытается отобразить содержимое на экране блокировки",
+		"@_name": "notify_sub_title_lsvm"
+	},
+	{
+		"#text": "Разрешения для экрана блокировки",
+		"@_name": "notify_title_lsvm"
+	},
+	{
+		"#text": "\"SMS заблокировано: &lt;font color='#ff6c00'>%1$s&lt;/font>\"",
+		"@_name": "notify_title_unread_blocked_message"
+	},
+	{
+		"#text": "\"Новых &lt;font color='#ff6c00'>всплавающие WAP сообщений&lt;/font> заблокировано\"",
+		"@_name": "notify_title_web_push_message"
+	},
+	{
+		"#text": "Очистить",
+		"@_name": "now_slimming"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "oaid_access_dialog_cancel"
+	},
+	{
+		"#text": "В случае запрета показывается то же количество объявлений, но не персонализированных. Персонализация некоторых приложений также будет затронута.",
+		"@_name": "oaid_access_dialog_message"
+	},
+	{
+		"#text": "OK",
+		"@_name": "oaid_access_dialog_ok"
+	},
+	{
+		"#text": "Запретить чтение идентификатора устройства?",
+		"@_name": "oaid_access_dialog_title"
+	},
+	{
+		"#text": "Разрешить чтение идентификатора устройства",
+		"@_name": "oaid_access_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "oaid_reset_dialog_cancel"
+	},
+	{
+		"#text": "После сброса необходимо некоторое время для персонализации рекламы и некоторых приложений",
+		"@_name": "oaid_reset_dialog_message"
+	},
+	{
+		"#text": "Сброс",
+		"@_name": "oaid_reset_dialog_ok"
+	},
+	{
+		"#text": "Сбросить идентификатор устройства?",
+		"@_name": "oaid_reset_dialog_title"
+	},
+	{
+		"#text": "Сброс идентификатора устройства",
+		"@_name": "oaid_reset_title"
+	},
+	{
+		"#text": "Чтение идентификатора устройства",
+		"@_name": "oaid_settings"
+	},
+	{
+		"#text": "Анонимный идентификатор устройства позволяет приложениям и рекламодателям предоставлять персонализированные объявления, сохраняя при этом конфиденциальность и безопасность личных данных.",
+		"@_name": "oaid_tip"
+	},
+	{
+		"#text": "Старая версия",
+		"@_name": "old_version"
+	},
+	{
+		"#text": "Использование камеры",
+		"@_name": "op_camera"
+	},
+	{
+		"#text": "использование камеры",
+		"@_name": "op_camera_c"
+	},
+	{
+		"#text": "Чтение списка установленных приложений",
+		"@_name": "op_getinstallpkg"
+	},
+	{
+		"#text": "чтение списка установленных приложений",
+		"@_name": "op_getinstallpkg_c"
+	},
+	{
+		"#text": "Получение идентификатора устройства",
+		"@_name": "op_imei"
+	},
+	{
+		"#text": "Получение идентификатора устройства",
+		"@_name": "op_imei_c"
+	},
+	{
+		"#text": "Использование микрофона",
+		"@_name": "op_record_audio"
+	},
+	{
+		"#text": "использование микрофона",
+		"@_name": "op_record_audio_c"
+	},
+	{
+		"#text": "Изменение системных настроек",
+		"@_name": "op_setting"
+	},
+	{
+		"#text": "изменение системных настроек",
+		"@_name": "op_setting_c"
+	},
+	{
+		"#text": "Создание ярлыков",
+		"@_name": "op_shortcut"
+	},
+	{
+		"#text": "создание ярлыков",
+		"@_name": "op_shortcut_c"
+	},
+	{
+		"#text": "Выберите действующего оператора",
+		"@_name": "operator_error_tip"
+	},
+	{
+		"#text": "Оператор",
+		"@_name": "operators"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "opt_app_update_hint"
+	},
+	{
+		"#text": "Обновить сейчас. Более безопасный",
+		"@_name": "opt_app_update_summary"
+	},
+	{
+		"#text": "Обновите сейчас, это сэкономит %1$s трафика",
+		"@_name": "opt_app_update_summary_x"
+	},
+	{
+		"#text": "%1$s приложения должны быть обновлены",
+		"@_name": "opt_app_update_title"
+	},
+	{
+		"#text": "Оставшееся место",
+		"@_name": "opt_done_deep_clean"
+	},
+	{
+		"#text": "Поиск телефона",
+		"@_name": "opt_done_find_phone"
+	},
+	{
+		"#text": "Мусор удалён",
+		"@_name": "opt_done_junk"
+	},
+	{
+		"#text": "Очистка мусорных кешей",
+		"@_name": "opt_done_junk_f8"
+	},
+	{
+		"#text": "Частые фоновые процессы",
+		"@_name": "opt_done_permission"
+	},
+	{
+		"#text": "Память освобождена",
+		"@_name": "opt_done_ram"
+	},
+	{
+		"#text": "Пароль телефона",
+		"@_name": "opt_done_screen_lock"
+	},
+	{
+		"#text": "Версия системы проверена",
+		"@_name": "opt_done_sys_update"
+	},
+	{
+		"#text": "Осталось данных",
+		"@_name": "opt_done_traffic"
+	},
+	{
+		"#text": "На SIM %1$d осталось трафика",
+		"@_name": "opt_done_traffic_sim"
+	},
+	{
+		"#text": "Недостаточно места на телефоне",
+		"@_name": "opt_fail_deep_junk"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "opt_fail_deep_junk_f8"
+	},
+	{
+		"#text": "Освободите место с помощью мастера очистки",
+		"@_name": "opt_fail_deep_junk_sum"
+	},
+	{
+		"#text": "Возможна глубокая очистка %1$s",
+		"@_name": "opt_fail_deep_junk_sum_f8"
+	},
+	{
+		"#text": "Риск утери телефона",
+		"@_name": "opt_fail_find_phone"
+	},
+	{
+		"#text": "Включить поиска телефона для снижения рисков",
+		"@_name": "opt_fail_find_phone_sum"
+	},
+	{
+		"#text": "Работа системы тормозится работающими приложениями",
+		"@_name": "opt_fail_permission"
+	},
+	{
+		"#text": "Запретить автозапуск для ускорения системы",
+		"@_name": "opt_fail_permissions_sum"
+	},
+	{
+		"#text": "Пароль телефона не установлен",
+		"@_name": "opt_fail_screen_lock"
+	},
+	{
+		"#text": "Включить пароль телефона для защиты данных",
+		"@_name": "opt_fail_screen_lock_sum"
+	},
+	{
+		"#text": "Доступно обновление системы",
+		"@_name": "opt_fail_sys_update"
+	},
+	{
+		"#text": "Регулярные обновления для большей стабильности",
+		"@_name": "opt_fail_sys_update_sum"
+	},
+	{
+		"#text": "Передача данных ограничена",
+		"@_name": "opt_fail_traffic_insufficient"
+	},
+	{
+		"#text": "Передача данных ограничена на SIM %1$d",
+		"@_name": "opt_fail_traffic_insufficient_sim"
+	},
+	{
+		"#text": "Перерасход данных",
+		"@_name": "opt_fail_traffic_over"
+	},
+	{
+		"#text": "Перерасход данных на SIM %1$d",
+		"@_name": "opt_fail_traffic_over_sim"
+	},
+	{
+		"#text": "Купить пакет данных для предотвращения перерасхода трафика",
+		"@_name": "opt_fail_traffic_over_sum"
+	},
+	{
+		"#text": "Включить монитор трафика для предотвращения перерасхода моб. данных",
+		"@_name": "opt_fail_traffic_sum"
+	},
+	{
+		"#text": "Монитор трафика не включён",
+		"@_name": "opt_fail_traffic_unset"
+	},
+	{
+		"#text": "Монитор трафика для SIM %1$d не включён",
+		"@_name": "opt_fail_traffic_unset_sim"
+	},
+	{
+		"#text": "Сканирование системы не проводилось",
+		"@_name": "opt_fail_virus"
+	},
+	{
+		"#text": "Регулярное сканирование в целях безопасности",
+		"@_name": "opt_fail_virus_sum"
+	},
+	{
+		"#text": "Обработано элементов: %1$s",
+		"@_name": "opt_fail_virus_sum2"
+	},
+	{
+		"#text": "Обработано элементов: %1$s",
+		"@_name": "opt_fail_virus_sum2_multi"
+	},
+	{
+		"#text": "Обработано элементов: %1$s",
+		"@_name": "opt_fail_virus_sum2_single"
+	},
+	{
+		"#text": "%1$d",
+		"@_name": "opt_permission_value"
+	},
+	{
+		"#text": "Оптимизация",
+		"@_name": "optimize"
+	},
+	{
+		"#text": "Связанные настройки",
+		"@_name": "other_settings_key"
+	},
+	{
+		"#text": "Другое",
+		"@_name": "others"
+	},
+	{
+		"#text": "Показывать на экране блокировки",
+		"@_name": "perm_activity_on_locked_screen"
+	},
+	{
+		"#text": "Всплывающие окна",
+		"@_name": "perm_alert"
+	},
+	{
+		"#text": "Удалять журналы вызовов",
+		"@_name": "PERM_ID_DELETE_CALLLOG"
+	},
+	{
+		"#text": "Удалять контакты",
+		"@_name": "PERM_ID_DELETE_CONTACT"
+	},
+	{
+		"#text": "Удалять MMS",
+		"@_name": "PERM_ID_DELETE_MMSDB"
+	},
+	{
+		"#text": "Удалять SMS",
+		"@_name": "PERM_ID_DELETE_SMSDB"
+	},
+	{
+		"#text": "Запись журналов вызовов",
+		"@_name": "PERM_ID_WRITE_CALLLOG"
+	},
+	{
+		"#text": "Изменять журналы контактов",
+		"@_name": "PERM_ID_WRITE_CONTACT"
+	},
+	{
+		"#text": "Запись журналов MMS",
+		"@_name": "PERM_ID_WRITE_MMSDB"
+	},
+	{
+		"#text": "Запись журналов SMS",
+		"@_name": "PERM_ID_WRITE_SMSDB"
+	},
+	{
+		"#text": "Уведомления",
+		"@_name": "perm_notification"
+	},
+	{
+		"#text": "Разрешения",
+		"@_name": "permision_management"
+	},
+	{
+		"#text": "Политика конфиденциальности",
+		"@_name": "permission_argument_title"
+	},
+	{
+		"#text": "разрешен.",
+		"@_name": "permission_count"
+	},
+	{
+		"#text": "Всего: %1$s",
+		"@_name": "permission_detail_count"
+	},
+	{
+		"#text": "Сетевые разрешения",
+		"@_name": "permission_internet"
+	},
+	{
+		"#text": "Конфиденциальность",
+		"@_name": "permission_privacy"
+	},
+	{
+		"#text": "Разрешение безопасности",
+		"@_name": "permission_security"
+	},
+	{
+		"#text": "П",
+		"@_name": "petabyteShort"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "phone_clean"
+	},
+	{
+		"#text": "Очистка",
+		"@_name": "phone_clean_f8"
+	},
+	{
+		"#text": "%1$s осталось",
+		"@_name": "phone_clean_summary_f8"
+	},
+	{
+		"#text": "%1$s удаляемых",
+		"@_name": "phone_could_clean_summary_f8"
+	},
+	{
+		"#text": "Сжимающийся",
+		"@_name": "photo_can_compress"
+	},
+	{
+		"#text": "Камера",
+		"@_name": "photo_category_camera"
+	},
+	{
+		"#text": "WeChat",
+		"@_name": "photo_category_we_chat"
+	},
+	{
+		"#text": "Размытые фото",
+		"@_name": "photo_clean_blur"
+	},
+	{
+		"#text": "Сжатие фото",
+		"@_name": "photo_clean_compress"
+	},
+	{
+		"#text": "Значительно экономит место благодаря высокому качеству сжатия",
+		"@_name": "photo_clean_compress_summary"
+	},
+	{
+		"#text": "Burst Photos",
+		"@_name": "photo_clean_continuous_shooting"
+	},
+	{
+		"#text": "Похожие фото",
+		"@_name": "photo_clean_similar"
+	},
+	{
+		"#text": "Скриншоты",
+		"@_name": "photo_clean_snapshot"
+	},
+	{
+		"#text": "Сжать, чтобы освободить",
+		"@_name": "photo_compress_button_title"
+	},
+	{
+		"#text": "Удалить оригиналы изображений после сжатия",
+		"@_name": "photo_compress_confirm_message"
+	},
+	{
+		"#text": "Освобождено %1$s",
+		"@_name": "photo_compress_free_space_toast"
+	},
+	{
+		"#text": "Нет элементов",
+		"@_name": "photo_compress_null_content"
+	},
+	{
+		"#text": "Сжатый",
+		"@_name": "photo_compressed"
+	},
+	{
+		"#text": "Можно освободить %1$s",
+		"@_name": "photo_compressed_release_space"
+	},
+	{
+		"#text": "Всего освобождено %1$s",
+		"@_name": "photo_compressed_total_freed_space"
+	},
+	{
+		"#text": "Выберите фото",
+		"@_name": "photo_review_select"
+	},
+	{
+		"#text": "Оповещения поверх всего",
+		"@_name": "pop_notice"
+	},
+	{
+		"#text": "Системная энергосберегающая конфигурация завершится с ошибкой, что может привести к увеличению потребления энергии, и некоторые ручные настройки энергосбережения могут быть недоступны для изменения",
+		"@_name": "power_dialog_summary"
+	},
+	{
+		"#text": "Отключить управление питанием?",
+		"@_name": "power_dialog_title"
+	},
+	{
+		"#text": "Батарея",
+		"@_name": "power_mode"
+	},
+	{
+		"#text": "Категории сканирования",
+		"@_name": "preference_auto_clean_items"
+	},
+	{
+		"#text": "Автосканирование",
+		"@_name": "preference_auto_clean_summary"
+	},
+	{
+		"#text": "Автосканирование и очистка мусора",
+		"@_name": "preference_auto_clean_title"
+	},
+	{
+		"#text": "Блокировать вызовы, помеченные большинством пользователей",
+		"@_name": "preference_bc_summary"
+	},
+	{
+		"#text": "Блокировать SMS, помеченные большинством пользователей",
+		"@_name": "preference_bs_summary"
+	},
+	{
+		"#text": "Кэши приложений",
+		"@_name": "preference_title_app_cache"
+	},
+	{
+		"#text": "Кэши приложений",
+		"@_name": "preference_title_app_cache_title"
+	},
+	{
+		"#text": "Кэш QQ",
+		"@_name": "preference_title_QQ_cache"
+	},
+	{
+		"#text": "Остатки удалённого ПО",
+		"@_name": "preference_title_uninstalled_trash"
+	},
+	{
+		"#text": "Кэш WeChat",
+		"@_name": "preference_title_wechat_cache"
+	},
+	{
+		"#text": "Спам-блок",
+		"@_name": "preferences_title"
+	},
+	{
+		"#text": "Журнал доступа к приватным данным",
+		"@_name": "privacy_permission_usage_record"
+	},
+	{
+		"#text": "Конфиденциальность",
+		"@_name": "privacy_permissions"
+	},
+	{
+		"#text": "ОС Android",
+		"@_name": "process_kernel_label"
+	},
+	{
+		"#text": "Импорт чёрного списка",
+		"@_name": "progress_message_importing_blacklist"
+	},
+	{
+		"#text": "Импорт белого списка",
+		"@_name": "progress_message_importing_white_list"
+	},
+	{
+		"#text": "Выполняется",
+		"@_name": "progress_msg"
+	},
+	{
+		"#text": "Провинция",
+		"@_name": "provinces"
+	},
+	{
+		"#text": "Отпустите для обновления",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "Последнее обновление",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "ч назад",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "сейчас",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "мин. назад",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "с. назад",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Потянуть вниз для обновления",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "Очистка QQ",
+		"@_name": "qq_title_f8"
+	},
+	{
+		"#text": "Скопировано в буфер обмена",
+		"@_name": "qr_code_copy_ok_toast"
+	},
+	{
+		"#text": "Невозможно запустить запрашиваемое приложение",
+		"@_name": "qr_code_launch_err_toast"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "qr_code_result_btn_close"
+	},
+	{
+		"#text": "Копия",
+		"@_name": "qr_code_result_btn_copy"
+	},
+	{
+		"#text": "Всё-равно продолжить",
+		"@_name": "qr_code_result_btn_insist_access"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "qr_code_result_btn_share"
+	},
+	{
+		"#text": "Безопасный сайт",
+		"@_name": "qr_code_result_security_title"
+	},
+	{
+		"#text": "Работает на Tencent",
+		"@_name": "qr_code_result_support"
+	},
+	{
+		"#text": "Приложение Безопасность не может обнаружить этот сайт, потому что телефон отключён от интернета. Рекомендуется проверить достоверность этого сайта.",
+		"@_name": "qr_code_result_unknown_cause_net_desc"
+	},
+	{
+		"#text": "Безопасность этого сайта неизвестна. Рекомендуется проверить достоверность этого сайта.",
+		"@_name": "qr_code_result_unknown_desc"
+	},
+	{
+		"#text": "Безопасность неизвестна",
+		"@_name": "qr_code_result_unknown_title"
+	},
+	{
+		"#text": "Сканирование QR-кода",
+		"@_name": "qr_code_scan_activity_title"
+	},
+	{
+		"#text": "Проверьте, нормально ли работает камера, или не используется ли она другим приложением.",
+		"@_name": "qr_code_scan_camera_err_desc"
+	},
+	{
+		"#text": "Не удалось запустить камеру",
+		"@_name": "qr_code_scan_camera_err_title"
+	},
+	{
+		"#text": "Выявление вредоносного QR-кода для защиты вашей безопасности",
+		"@_name": "qr_code_scan_desc"
+	},
+	{
+		"#text": "Сканирование QR-кода",
+		"@_name": "qr_code_scan_note"
+	},
+	{
+		"#text": "Ошибка передачи",
+		"@_name": "qr_code_share_err_toast"
+	},
+	{
+		"#text": "Адрес",
+		"@_name": "qr_code_type_ADDRESSBOOK"
+	},
+	{
+		"#text": "Календарь",
+		"@_name": "qr_code_type_CALENDAR"
+	},
+	{
+		"#text": "Адрес эл. почты",
+		"@_name": "qr_code_type_EMAIL_ADDRESS"
+	},
+	{
+		"#text": "Геоданные",
+		"@_name": "qr_code_type_GEO"
+	},
+	{
+		"#text": "ISBN",
+		"@_name": "qr_code_type_ISBN"
+	},
+	{
+		"#text": "Продукт",
+		"@_name": "qr_code_type_PRODUCT"
+	},
+	{
+		"#text": "SMS",
+		"@_name": "qr_code_type_SMS"
+	},
+	{
+		"#text": "Телефон",
+		"@_name": "qr_code_type_TEL"
+	},
+	{
+		"#text": "Текст",
+		"@_name": "qr_code_type_TEXT"
+	},
+	{
+		"#text": "Ссылка",
+		"@_name": "qr_code_type_URI"
+	},
+	{
+		"#text": "VIN",
+		"@_name": "qr_code_type_VIN"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "qr_code_type_WIFI"
+	},
+	{
+		"#text": "Калибровка через оператора",
+		"@_name": "question"
+	},
+	{
+		"#text": "Быстрое сканирование",
+		"@_name": "quick_sacn"
+	},
+	{
+		"#text": "Сканирование основных элементов и приложений",
+		"@_name": "quick_scan_summary"
+	},
+	{
+		"#text": "Просмотр календаря",
+		"@_name": "r_calendar"
+	},
+	{
+		"#text": "Чтение журанала MMS",
+		"@_name": "r_mms"
+	},
+	{
+		"#text": "чтение журнала MMS",
+		"@_name": "r_mms_c"
+	},
+	{
+		"#text": "Чтение SMS и MMS",
+		"@_name": "r_sms"
+	},
+	{
+		"#text": "чтение SMS и MMS",
+		"@_name": "r_sms_c"
+	},
+	{
+		"#text": "Чтение SMS и MMS",
+		"@_name": "r_sms_mms"
+	},
+	{
+		"#text": "Ускоритель",
+		"@_name": "ram_cleaner_0005"
+	},
+	{
+		"#text": "Пополнение счета",
+		"@_name": "recharge_call"
+	},
+	{
+		"#text": "Рекомендуется очистка",
+		"@_name": "recommend_cleanup"
+	},
+	{
+		"#text": "Регулярная калибровка",
+		"@_name": "regularCorrect"
+	},
+	{
+		"#text": "Необязательно",
+		"@_name": "reject_recommend"
+	},
+	{
+		"#text": "Остаток трафика не должен превышать общий ежемесячный трафик",
+		"@_name": "remain_set_error_msg"
+	},
+	{
+		"#text": "Доступно",
+		"@_name": "remainTraffic"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "remove"
+	},
+	{
+		"#text": "Убрать из белого списка",
+		"@_name": "remove_from_whitelist"
+	},
+	{
+		"#text": "Повтор",
+		"@_name": "repeat_apk"
+	},
+	{
+		"#text": "Замена",
+		"@_name": "replace"
+	},
+	{
+		"#text": "Заменить все. Сохранить",
+		"@_name": "replace_all"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "replace_warning_dialog_cancel"
+	},
+	{
+		"#text": "Замена",
+		"@_name": "replace_warning_dialog_delete"
+	},
+	{
+		"#text": "Удалится приложение и добавится ярлык облегчённой версии приложения на рабочий стол",
+		"@_name": "replace_warning_dialog_title"
+	},
+	{
+		"#text": "Удалится приложение и его клон, и добавится ярлык облегчённой версии приложения на рабочий стол",
+		"@_name": "replace_warning_dialog_title_clone_app"
+	},
+	{
+		"#text": "Восстановить SMS",
+		"@_name": "restore_sms"
+	},
+	{
+		"#text": "Восстановить выбранные сообщения?",
+		"@_name": "restore_tittle"
+	},
+	{
+		"#text": "результатов",
+		"@_name": "result_count"
+	},
+	{
+		"#text": "Повторить",
+		"@_name": "retry"
+	},
+	{
+		"#text": "Исходное изображение",
+		"@_name": "review_original_image"
+	},
+	{
+		"#text": "Вредоносные действия",
+		"@_name": "risk_action"
+	},
+	{
+		"#text": "Фоновая загрузка файлов",
+		"@_name": "risk_ad_tag_3"
+	},
+	{
+		"#text": "Вредоносные объявления",
+		"@_name": "risk_adv"
+	},
+	{
+		"#text": "Вредоносное распространение",
+		"@_name": "risk_chanel_ad_1"
+	},
+	{
+		"#text": "Загрузка рекламы",
+		"@_name": "risk_chanel_ad_2"
+	},
+	{
+		"#text": "Вредоносный код",
+		"@_name": "risk_code"
+	},
+	{
+		"#text": "Потребление трафика",
+		"@_name": "risk_consume_data"
+	},
+	{
+		"#text": "Скрытые игровые платежи",
+		"@_name": "risk_game_1"
+	},
+	{
+		"#text": "Утечка личных данных",
+		"@_name": "risk_game_2"
+	},
+	{
+		"#text": "Создание рекл. ярлыков",
+		"@_name": "risk_malicious_icon_1"
+	},
+	{
+		"#text": "Платежи",
+		"@_name": "risk_pay_tag_1"
+	},
+	{
+		"#text": "Утечка паролей",
+		"@_name": "risk_pay_tag_2"
+	},
+	{
+		"#text": "Вредоносный плагин",
+		"@_name": "risk_plug_in_1"
+	},
+	{
+		"#text": "Всплывающие окна",
+		"@_name": "risk_plug_in_2"
+	},
+	{
+		"#text": "Порнография",
+		"@_name": "risk_porno_tag_1"
+	},
+	{
+		"#text": "Нежелательный контент",
+		"@_name": "risk_porno_tag_2"
+	},
+	{
+		"#text": "Вредоносная реклама",
+		"@_name": "risk_promote_1"
+	},
+	{
+		"#text": "Рекламные плагины",
+		"@_name": "risk_promote_2"
+	},
+	{
+		"#text": "Перехват PIN",
+		"@_name": "risk_ransom_1"
+	},
+	{
+		"#text": "Блокировка вредоносного",
+		"@_name": "risk_ransom_2"
+	},
+	{
+		"#text": "Вредоносное содержимое",
+		"@_name": "risk_rogue_tag"
+	},
+	{
+		"#text": "Скрытая передача файлов",
+		"@_name": "risk_share"
+	},
+	{
+		"#text": "Скрытые SMS-платежи",
+		"@_name": "risk_sms_1"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "risk_sms_2"
+	},
+	{
+		"#text": "Поддельный сторонний инструмент",
+		"@_name": "risk_tool_1"
+	},
+	{
+		"#text": "Утечка данных аккаунта",
+		"@_name": "risk_tool_2"
+	},
+	{
+		"#text": "Мошенничество",
+		"@_name": "risk_trick_tag_1"
+	},
+	{
+		"#text": "Вредоносный код",
+		"@_name": "risk_trick_tag_2"
+	},
+	{
+		"#text": "Новые файлы APK",
+		"@_name": "rubbish_apk"
+	},
+	{
+		"#text": "Вышло позже или ещё не установлено",
+		"@_name": "rubbish_apk_desc"
+	},
+	{
+		"#text": "Ненужные файлы",
+		"@_name": "rubbish_files"
+	},
+	{
+		"#text": "Очистка не повлияет на нормальное использование",
+		"@_name": "rubbish_files_desc"
+	},
+	{
+		"#text": "Ненужные APK",
+		"@_name": "rubbish_overapk"
+	},
+	{
+		"#text": "APK-файлы установленного ПО",
+		"@_name": "rubbish_overapk_desc"
+	},
+	{
+		"#text": "Остатки удалённого ПО",
+		"@_name": "rubbish_overuninstall"
+	},
+	{
+		"#text": "Восстановление после очистки невозможно",
+		"@_name": "rubbish_overuninstall_desc"
+	},
+	{
+		"#text": "Пользователь: %1$s",
+		"@_name": "running_process_item_user_label"
+	},
+	{
+		"#text": "Отправка MMS",
+		"@_name": "s_mms"
+	},
+	{
+		"#text": "отправка MMS",
+		"@_name": "s_mms_c"
+	},
+	{
+		"#text": "Отправка SMS",
+		"@_name": "s_sms"
+	},
+	{
+		"#text": "отправка SMS",
+		"@_name": "s_sms_c"
+	},
+	{
+		"#text": "Версия: %1$s",
+		"@_name": "safe_version"
+	},
+	{
+		"#text": "Облачная проверка на вирусы",
+		"@_name": "scan_cloud"
+	},
+	{
+		"#text": "Определение вредоносных QR-кодов",
+		"@_name": "scan_code_summary"
+	},
+	{
+		"#text": "Сканер безопасности",
+		"@_name": "scan_code_title"
+	},
+	{
+		"#text": "Найдено угроз: %1$s",
+		"@_name": "scan_done_no_safe"
+	},
+	{
+		"#text": "Сканирование окончено, ваш телефон в безопасности",
+		"@_name": "scan_done_safe"
+	},
+	{
+		"#text": "Проверка мониторинга трафика",
+		"@_name": "scan_traffic"
+	},
+	{
+		"#text": "Режим сканирования",
+		"@_name": "scan_type_key"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "scan_virus_complete"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "scan_virus_no_found"
+	},
+	{
+		"#text": "%1$s ненужных файлов найдено",
+		"@_name": "scanned_result"
+	},
+	{
+		"#text": "Сканирование",
+		"@_name": "scanning"
+	},
+	{
+		"#text": "Поиск",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Безопасность",
+		"@_name": "security_center"
+	},
+	{
+		"#text": "Советы по безопасности",
+		"@_name": "security_news"
+	},
+	{
+		"#text": "Передать",
+		"@_name": "security_news_action_share"
+	},
+	{
+		"#text": "Видели: %1$s",
+		"@_name": "security_news_item_view_info"
+	},
+	{
+		"#text": "Видели: %1$s",
+		"@_name": "security_news_item_view_info_x_wan"
+	},
+	{
+		"#text": "Нет больше информации",
+		"@_name": "security_news_loaded_all"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "security_news_loading"
+	},
+	{
+		"#text": "Безопасность",
+		"@_name": "security_permissions"
+	},
+	{
+		"#text": "Разрешения",
+		"@_name": "security_privacy"
+	},
+	{
+		"#text": "Просмотреть детали",
+		"@_name": "see_detail"
+	},
+	{
+		"#text": "Все",
+		"@_name": "sel_all"
+	},
+	{
+		"#text": "Отправка бесплатных сообщений оператору для калибровки трафика.",
+		"@_name": "sendMessageToOperators"
+	},
+	{
+		"#text": "Отправить SMS",
+		"@_name": "sendSms"
+	},
+	{
+		"#text": "Расширенные настройки",
+		"@_name": "Senior"
+	},
+	{
+		"#text": "Включение Bluetooth",
+		"@_name": "set_bluetooth_on"
+	},
+	{
+		"#text": "включение/отключение Bluetooth",
+		"@_name": "set_bluetooth_on_c"
+	},
+	{
+		"#text": "Включение мобильной сети",
+		"@_name": "set_gprs_on"
+	},
+	{
+		"#text": "включение/выключение мобильной сети",
+		"@_name": "set_gprs_on_c"
+	},
+	{
+		"#text": "Настройка сети",
+		"@_name": "set_network"
+	},
+	{
+		"#text": "Включение Wi-Fi",
+		"@_name": "set_wifi_on"
+	},
+	{
+		"#text": "включение/отключение Wi-Fi",
+		"@_name": "set_wifi_on_c"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "settings"
+	},
+	{
+		"#text": "Функциональные модули",
+		"@_name": "settings_category_title"
+	},
+	{
+		"#text": "Настроить трафик",
+		"@_name": "setupEntrance_textView"
+	},
+	{
+		"#text": "Настройки",
+		"@_name": "setupTraffic"
+	},
+	{
+		"#text": "Всего данных за месяц",
+		"@_name": "setupTrafficDialogTitle"
+	},
+	{
+		"#text": "Рекламный звонок-сброс",
+		"@_name": "short_time_ring"
+	},
+	{
+		"#text": "Добавить на рабочий стол",
+		"@_name": "shortcut_manager_key"
+	},
+	{
+		"#text": "Сканер безопасности, ускоритель, экран блокировки",
+		"@_name": "shortcut_manager_summary"
+	},
+	{
+		"#text": "Ярлык на рабочем столе",
+		"@_name": "shortcut_notice"
+	},
+	{
+		"#text": "Ярлык на рабочем столе",
+		"@_name": "shortcut_settings_key"
+	},
+	{
+		"#text": "Одинаковые фото",
+		"@_name": "similar_photo"
+	},
+	{
+		"#text": "Автопоиск и фильтрация похожих изображений во время зарядки для оптимизации работы телефона",
+		"@_name": "similar_pic_desc_text"
+	},
+	{
+		"#text": "Смарт-Фон контролирует автоматический запуск и работу приложений, ограничивая права доступа для фоновых процессов, замораживая или отключая приложения для экономии заряда батареи и объёма памяти.",
+		"@_name": "smart_bg_introduction"
+	},
+	{
+		"#text": "Смарт-Фон (рекомендуется)",
+		"@_name": "smart_bg_mode0"
+	},
+	{
+		"#text": "Приложения в фоне: %1$d",
+		"@_name": "smart_bg_mode0_group"
+	},
+	{
+		"#text": "Разрешить работу в фоне",
+		"@_name": "smart_bg_mode1"
+	},
+	{
+		"#text": "ПО с разрешением работы в фоне: %1$d",
+		"@_name": "smart_bg_mode1_group"
+	},
+	{
+		"#text": "Запретить работу в фоне",
+		"@_name": "smart_bg_mode2"
+	},
+	{
+		"#text": "Запрещена работа в фоне: %1$d",
+		"@_name": "smart_bg_mode2_group"
+	},
+	{
+		"#text": "Работа в фоне",
+		"@_name": "smart_bg_title"
+	},
+	{
+		"#text": "Просмотреть все (%1$s)",
+		"@_name": "smart_card_action_detail"
+	},
+	{
+		"#text": "Ещё",
+		"@_name": "smart_card_action_more_news"
+	},
+	{
+		"#text": "Замена на облегчённую версию приложения. Удаление полной версии для экономии места",
+		"@_name": "smart_card_detail_quick_app_title"
+	},
+	{
+		"#text": "Смарт-карта",
+		"@_name": "smart_card_key"
+	},
+	{
+		"#text": "После удаления нельзя восстановить",
+		"@_name": "smart_card_summary_file"
+	},
+	{
+		"#text": "Определите местоположение своего телефона и защитите конфиденциальные данные в нём",
+		"@_name": "smart_card_summary_find_phone"
+	},
+	{
+		"#text": "Клонируйте приложения, разделите свою личную жизнь и работу",
+		"@_name": "smart_card_summary_multi_app"
+	},
+	{
+		"#text": "Актуальные советы по избежанию мошеннических схем",
+		"@_name": "smart_card_summary_news"
+	},
+	{
+		"#text": "Замена полной версии облегчённой версией приложения",
+		"@_name": "smart_card_summary_quick_app"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "smart_card_summary_sam_pic"
+	},
+	{
+		"#text": "Возможны риски вторжения вирусов",
+		"@_name": "smart_card_summary_virus"
+	},
+	{
+		"#text": "Оберегайте близких от спам-звонков и иных подобных проблем",
+		"@_name": "smart_card_summarye_se_family"
+	},
+	{
+		"#text": "Редко используемое ПО",
+		"@_name": "smart_card_title_app"
+	},
+	{
+		"#text": "Большие файлы",
+		"@_name": "smart_card_title_file"
+	},
+	{
+		"#text": "Поиск телефона",
+		"@_name": "smart_card_title_find_phone"
+	},
+	{
+		"#text": "Клонирование ПО",
+		"@_name": "smart_card_title_multi_app"
+	},
+	{
+		"#text": "Советы по безопасности",
+		"@_name": "smart_card_title_news"
+	},
+	{
+		"#text": "Оптимизация ПО",
+		"@_name": "smart_card_title_quick_app"
+	},
+	{
+		"#text": "Похожих изображений: %1$d",
+		"@_name": "smart_card_title_sam_pic"
+	},
+	{
+		"#text": "Безопасность семьи",
+		"@_name": "smart_card_title_se_family"
+	},
+	{
+		"#text": "Найдено вирусов: %1$d",
+		"@_name": "smart_card_title_virus"
+	},
+	{
+		"#text": "Скачать рекомендованное приложение",
+		"@_name": "smartcard_ad_download_title"
+	},
+	{
+		"#text": "Удалить редко используемое ПО",
+		"@_name": "smartcard_app_title"
+	},
+	{
+		"#text": "Удалить редко используемые большие файлы",
+		"@_name": "smartcard_big_file_title"
+	},
+	{
+		"#text": "Смарт-карты будут основаны на состоянии телефона",
+		"@_name": "smartcard_des1"
+	},
+	{
+		"#text": "Показ полезных функций на главной странице",
+		"@_name": "smartcard_des2"
+	},
+	{
+		"#text": "Советы по безопасности",
+		"@_name": "smartcard_news_title"
+	},
+	{
+		"#text": "Смарт-карты можно редактировать",
+		"@_name": "smartcard_notice"
+	},
+	{
+		"#text": "Очистка QQ",
+		"@_name": "smartcard_qq_clean_title_f8"
+	},
+	{
+		"#text": "Оптимизация ПО",
+		"@_name": "smartcard_quick_app_title"
+	},
+	{
+		"#text": "Удалить похожие фотографии",
+		"@_name": "smartcard_similar_pic_title"
+	},
+	{
+		"#text": "Антивирус",
+		"@_name": "smartcard_virus_clean_title"
+	},
+	{
+		"#text": "Очистка WeChat",
+		"@_name": "smartcard_wechat_clean_title_f8"
+	},
+	{
+		"#text": "Блокировать по ключевым словам",
+		"@_name": "sms_block_key_word"
+	},
+	{
+		"#text": "Реклама в приложении",
+		"@_name": "sms_cate_name_app_spread"
+	},
+	{
+		"#text": "Реклама от оператора",
+		"@_name": "sms_cate_name_cp_ad"
+	},
+	{
+		"#text": "Страхование и финансы",
+		"@_name": "sms_cate_name_finance_ad"
+	},
+	{
+		"#text": "Мошенничество",
+		"@_name": "sms_cate_name_fraud"
+	},
+	{
+		"#text": "Реклама в играх",
+		"@_name": "sms_cate_name_game_ad"
+	},
+	{
+		"#text": "SMS-реклама",
+		"@_name": "sms_cate_name_orther"
+	},
+	{
+		"#text": "Блокировать SMS с ключевыми словами",
+		"@_name": "sms_keyword_blank_hint"
+	},
+	{
+		"#text": "%1$s/%2$s",
+		"@_name": "sms_keyword_length_hint"
+	},
+	{
+		"#text": "Источник:",
+		"@_name": "source"
+	},
+	{
+		"#text": "Добавить из журнала вызовов",
+		"@_name": "spam_add_calllog_tittle"
+	},
+	{
+		"#text": "Добавить из контактов",
+		"@_name": "spam_add_contact_tittle"
+	},
+	{
+		"#text": "Добавить из истории сообщений",
+		"@_name": "spam_add_messagelog_tittle"
+	},
+	{
+		"#text": "Добавить номер вручную",
+		"@_name": "spam_add_number_title"
+	},
+	{
+		"#text": "Ads",
+		"@_name": "spam_call"
+	},
+	{
+		"#text": "Заметка",
+		"@_name": "spam_desc_input_hint"
+	},
+	{
+		"#text": "Номер",
+		"@_name": "spam_number_input_hint"
+	},
+	{
+		"#text": "\"Всего: %1$s раз(а)\nПоследнее обращение: %2$s\"",
+		"@_name": "specific_permission_summary"
+	},
+	{
+		"#text": "Очистка и ускорение",
+		"@_name": "speed_up_by_clean_f8"
+	},
+	{
+		"#text": "Ваш лучший защитник",
+		"@_name": "splash_page_summary"
+	},
+	{
+		"#text": "Получайте призы за участие в мероприятиях",
+		"@_name": "splash_settings_summary"
+	},
+	{
+		"#text": "Разрешить рекламу на заставке",
+		"@_name": "splash_settings_title"
+	},
+	{
+		"#text": "Запуск",
+		"@_name": "startup"
+	},
+	{
+		"#text": ">999",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Удаление ненужных файлов",
+		"@_name": "status_clean_junk"
+	},
+	{
+		"#text": "Оптимизация",
+		"@_name": "status_clean_optimize_f8"
+	},
+	{
+		"#text": "Ускорение",
+		"@_name": "status_clean_ram"
+	},
+	{
+		"#text": "Сканер безопасности работает",
+		"@_name": "status_detect_secure_item"
+	},
+	{
+		"#text": "Обнаружение",
+		"@_name": "status_detecting"
+	},
+	{
+		"#text": "Готово",
+		"@_name": "status_done"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "status_null"
+	},
+	{
+		"#text": "Рекомендуется оптимизация",
+		"@_name": "status_opt_commend"
+	},
+	{
+		"#text": "Рекомендуется очистка",
+		"@_name": "status_opt_commend_clean_f8"
+	},
+	{
+		"#text": "Оптимизировано",
+		"@_name": "status_opt_done"
+	},
+	{
+		"#text": "Оптимально",
+		"@_name": "status_opt_finish"
+	},
+	{
+		"#text": "Оптимизация",
+		"@_name": "status_optmize"
+	},
+	{
+		"#text": "Достаточно",
+		"@_name": "status_space_enough"
+	},
+	{
+		"#text": "Вкл.",
+		"@_name": "status_switch_open"
+	},
+	{
+		"#text": "Установлена актуальная версия",
+		"@_name": "status_sys_update_done"
+	},
+	{
+		"#text": "Купить",
+		"@_name": "status_traffic_over"
+	},
+	{
+		"#text": "Ещё закр.",
+		"@_name": "still_close"
+	},
+	{
+		"#text": "Внутренняя память",
+		"@_name": "storage"
+	},
+	{
+		"#text": "Нет заметки",
+		"@_name": "str_no_note"
+	},
+	{
+		"#text": "%1$s спам-вызовов блокировано",
+		"@_name": "str_notify_more_than_one_call"
+	},
+	{
+		"#text": "%1$s спам-сообщения блокируются",
+		"@_name": "str_notify_more_than_one_sms"
+	},
+	{
+		"#text": "Журналы блокировки",
+		"@_name": "str_pref_block_record"
+	},
+	{
+		"#text": "Смарт-фильтр",
+		"@_name": "str_pref_smart_block"
+	},
+	{
+		"#text": "Чёрный список пользователя",
+		"@_name": "str_pref_user_blacklist"
+	},
+	{
+		"#text": "%1$s всего",
+		"@_name": "str_summary_blacklist"
+	},
+	{
+		"#text": "Чёрный список пуст",
+		"@_name": "str_summary_blacklist_null"
+	},
+	{
+		"#text": "%1$s новых записей",
+		"@_name": "str_summary_unread"
+	},
+	{
+		"#text": "Нет новых заблокированных записей",
+		"@_name": "str_summary_unread_null"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "submenu_delete_label"
+	},
+	{
+		"#text": "Один",
+		"@_name": "SummaryUItempText"
+	},
+	{
+		"#text": "Резервная копия восстановления",
+		"@_name": "sysclear_trash_backups"
+	},
+	{
+		"#text": "Ошибка системного журнала",
+		"@_name": "sysclear_trash_bugreports"
+	},
+	{
+		"#text": "Кэш",
+		"@_name": "sysclear_trash_cache"
+	},
+	{
+		"#text": "Журнал системного диска",
+		"@_name": "sysclear_trash_data_log"
+	},
+	{
+		"#text": "Недопустимые эскизы галереи",
+		"@_name": "sysclear_trash_gallery_invalid_thumbnail"
+	},
+	{
+		"#text": "Эскизы галереи",
+		"@_name": "sysclear_trash_gallery_thumbnail"
+	},
+	{
+		"#text": "Удаление может вызвать ошибку камеры",
+		"@_name": "sysclear_trash_gallery_thumbnail_warn"
+	},
+	{
+		"#text": "Общие системные журналы",
+		"@_name": "sysclear_trash_logs"
+	},
+	{
+		"#text": "Корзина SD-карты",
+		"@_name": "sysclear_trash_lost_dir"
+	},
+	{
+		"#text": "Фрагментированные файлы SD-карты",
+		"@_name": "sysclear_trash_lost_find"
+	},
+	{
+		"#text": "Журнал GDC push",
+		"@_name": "sysclear_trash_pushLog"
+	},
+	{
+		"#text": "Журнал зависания системы",
+		"@_name": "sysclear_trash_rt_anr"
+	},
+	{
+		"#text": "Встроенный APK",
+		"@_name": "sysclear_trash_rt_apps"
+	},
+	{
+		"#text": "Остатки Dalvik-кэша",
+		"@_name": "sysclear_trash_rt_dalvik"
+	},
+	{
+		"#text": "Журнал запуска системы",
+		"@_name": "sysclear_trash_rt_log"
+	},
+	{
+		"#text": "Корзина системы",
+		"@_name": "sysclear_trash_rt_lost"
+	},
+	{
+		"#text": "Временные файлы системы",
+		"@_name": "sysclear_trash_rt_tmp"
+	},
+	{
+		"#text": "Ошибка системного журнала",
+		"@_name": "sysclear_trash_rt_tombstone"
+	},
+	{
+		"#text": "Журнал спящего режима",
+		"@_name": "sysclear_trash_sleeplog"
+	},
+	{
+		"#text": "Системный кэш",
+		"@_name": "sysclear_trash_system_app_cache"
+	},
+	{
+		"#text": "Остатки кэша",
+		"@_name": "sysclear_trash_uninstalled_cache"
+	},
+	{
+		"#text": "Данные приложений",
+		"@_name": "system_and_app_cache"
+	},
+	{
+		"#text": "Данные приложений могут быть утеряны после очистки",
+		"@_name": "system_and_app_cache_desc"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "tab_safe"
+	},
+	{
+		"#text": "Последнее сканирование:",
+		"@_name": "tab_safe_show_day"
+	},
+	{
+		"#text": "Т",
+		"@_name": "terabyteShort"
+	},
+	{
+		"#text": "Модем и точка доступа",
+		"@_name": "tether_settings_title_all"
+	},
+	{
+		"#text": "Bluetooth-модем",
+		"@_name": "tether_settings_title_bluetooth"
+	},
+	{
+		"#text": "USB-модем",
+		"@_name": "tether_settings_title_usb"
+	},
+	{
+		"#text": "Режим модема",
+		"@_name": "tether_settings_title_usb_bluetooth"
+	},
+	{
+		"#text": "Точка доступа",
+		"@_name": "tether_settings_title_wifi"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "text_accept"
+	},
+	{
+		"#text": "Введите текст",
+		"@_name": "text_input_hint_text"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "text_loading"
+	},
+	{
+		"#text": "Нет приложений для управления",
+		"@_name": "text_no_app"
+	},
+	{
+		"#text": "Нет результатов поиска",
+		"@_name": "text_no_search_app"
+	},
+	{
+		"#text": "По запросу",
+		"@_name": "text_prompt"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "text_reject"
+	},
+	{
+		"#text": "Версия:",
+		"@_name": "text_version"
+	},
+	{
+		"#text": "Данные",
+		"@_name": "title"
+	},
+	{
+		"#text": "Приложения",
+		"@_name": "title_activity_app_sec"
+	},
+	{
+		"#text": "Разрешено - %1$s: %2$s",
+		"@_name": "title_allow_item"
+	},
+	{
+		"#text": "Оплата трафика",
+		"@_name": "title_buy_data"
+	},
+	{
+		"#text": "Оплата минут",
+		"@_name": "title_buy_tel"
+	},
+	{
+		"#text": "Карта",
+		"@_name": "title_mz_card"
+	},
+	{
+		"#text": "Пополнение баланса",
+		"@_name": "title_phone_recharge"
+	},
+	{
+		"#text": "По запросу - %1$s: %2$s",
+		"@_name": "title_prompt_item"
+	},
+	{
+		"#text": "Запрещено - %1$s: %2$s",
+		"@_name": "title_reject_item"
+	},
+	{
+		"#text": "Блокировка входящих вызовов",
+		"@_name": "tittle_block_noti_call"
+	},
+	{
+		"#text": "Сообщение блокировано",
+		"@_name": "tittle_block_noti_mms"
+	},
+	{
+		"#text": "Содержит недопустимый номер",
+		"@_name": "toast_invalid_number"
+	},
+	{
+		"#text": "Номер уже существует",
+		"@_name": "toast_repeated"
+	},
+	{
+		"#text": "Сброс",
+		"@_name": "toClearDay"
+	},
+	{
+		"#text": "Месячный объём трафика должен быть не меньше оставшегося трафика",
+		"@_name": "total_set_error_msg"
+	},
+	{
+		"#text": "Мобильных данных за месяц",
+		"@_name": "TraffciManagerTitle"
+	},
+	{
+		"#text": "Добавить ПО",
+		"@_name": "traffic_add_directional_app"
+	},
+	{
+		"#text": "Невозможно включить \\\"Режим полета\\\"",
+		"@_name": "traffic_airplanemode"
+	},
+	{
+		"#text": "Список приложений",
+		"@_name": "traffic_app_list"
+	},
+	{
+		"#text": "Нет приложений",
+		"@_name": "traffic_app_list_no"
+	},
+	{
+		"#text": "Передача данных в фоне разрешена",
+		"@_name": "traffic_background_allow"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "traffic_background_app_detail"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "traffic_background_detail_header_title"
+	},
+	{
+		"#text": "Смарт-передача данных в фоне",
+		"@_name": "traffic_background_intelligence"
+	},
+	{
+		"#text": "Моб. данные в фоне",
+		"@_name": "traffic_background_mobile_title"
+	},
+	{
+		"#text": "Передача данных в фоне",
+		"@_name": "traffic_background_network"
+	},
+	{
+		"#text": "Передача данных в фоне запрещена",
+		"@_name": "traffic_background_reject"
+	},
+	{
+		"#text": "Wi-Fi в фоне",
+		"@_name": "traffic_background_wifi_title"
+	},
+	{
+		"#text": "Б",
+		"@_name": "traffic_byteShort"
+	},
+	{
+		"#text": "Калибровка",
+		"@_name": "traffic_click_to_correct"
+	},
+	{
+		"#text": "Нажмите для настройки",
+		"@_name": "traffic_click_to_setUp"
+	},
+	{
+		"#text": "Оповещение и отключение при перерасходе",
+		"@_name": "traffic_controll_hint"
+	},
+	{
+		"#text": "Базовые настройки",
+		"@_name": "traffic_correct"
+	},
+	{
+		"#text": "Автокалибровка трафика",
+		"@_name": "traffic_correct_auto"
+	},
+	{
+		"#text": "Выбрать марку",
+		"@_name": "traffic_correct_brand_dialog_title"
+	},
+	{
+		"#text": "Выбрать город",
+		"@_name": "traffic_correct_city_dialog_title"
+	},
+	{
+		"#text": "Если автокалибровка включена, то оператору будут отправляться периодические бесплатные сообщения для корректировки учёта трафика",
+		"@_name": "traffic_correct_content_hint"
+	},
+	{
+		"#text": "Выберите",
+		"@_name": "traffic_correct_default_dialog_title"
+	},
+	{
+		"#text": "Зарегистрированное местоположение SIM-карты не соответствует определенному системой.",
+		"@_name": "traffic_correct_diff_dialog_message"
+	},
+	{
+		"#text": "SIM %1$d - ошибка калибровки",
+		"@_name": "traffic_correct_fail_hint"
+	},
+	{
+		"#text": "Ошибка калибровки, повторите попытку!",
+		"@_name": "traffic_correct_failed_tips"
+	},
+	{
+		"#text": "Для использования необходимо подключение к сети, попробуйте снова.",
+		"@_name": "traffic_correct_need_network_hint"
+	},
+	{
+		"#text": "Выбрать оператора",
+		"@_name": "traffic_correct_operator_dialog_title"
+	},
+	{
+		"#text": "Выбрать провинцию",
+		"@_name": "traffic_correct_province_dialog_titile"
+	},
+	{
+		"#text": "Калибровать в любом случае",
+		"@_name": "traffic_correct_still_calibration"
+	},
+	{
+		"#text": "SIM %1$d - калибровка выполнена",
+		"@_name": "traffic_correct_success_hint"
+	},
+	{
+		"#text": "Использовать настраиваемый запрос",
+		"@_name": "traffic_custom_correct_code"
+	},
+	{
+		"#text": "Отправить %1$s на %2$s",
+		"@_name": "traffic_custom_correct_code_complete"
+	},
+	{
+		"#text": "Настроить код запроса (необязательно)",
+		"@_name": "traffic_custom_correct_code_hint"
+	},
+	{
+		"#text": "Незавершённый код, пожалуйста, завершите его",
+		"@_name": "traffic_custom_correct_code_incomplete"
+	},
+	{
+		"#text": "Запрос SMS будет отправлен в соответствии с вашим кодом",
+		"@_name": "traffic_custom_correct_code_summary"
+	},
+	{
+		"#text": "Настройте код запроса данных",
+		"@_name": "traffic_custom_correct_code_title"
+	},
+	{
+		"#text": "Команда запроса трафика",
+		"@_name": "traffic_custom_Instruction"
+	},
+	{
+		"#text": "Отправить сообщение с запросом",
+		"@_name": "traffic_custom_Send_query_SMS"
+	},
+	{
+		"#text": "Инструкция по настройке",
+		"@_name": "traffic_custom_Setup_instructions"
+	},
+	{
+		"#text": "На сегодня данные израсходованы",
+		"@_name": "traffic_daily_warning_title"
+	},
+	{
+		"#text": "За день",
+		"@_name": "traffic_day_allow_mobile_data_usage"
+	},
+	{
+		"#text": "Осталось сегодня",
+		"@_name": "traffic_day_left"
+	},
+	{
+		"#text": "Перерасход сегодня",
+		"@_name": "traffic_day_over"
+	},
+	{
+		"#text": "Ежедневный поток трафика",
+		"@_name": "traffic_day_plan"
+	},
+	{
+		"#text": "Сегодняшний план",
+		"@_name": "traffic_day_plan_title"
+	},
+	{
+		"#text": "Ежедневный поток трафика",
+		"@_name": "traffic_day_plan_total"
+	},
+	{
+		"#text": "Передача по Wi-Fi за день",
+		"@_name": "traffic_day_wifi_list_summary"
+	},
+	{
+		"#text": "Предупреждение. %1$s осталось.",
+		"@_name": "traffic_dayplan_daily_warning_summary"
+	},
+	{
+		"#text": "Ежедневное предупреждение",
+		"@_name": "traffic_dayplan_daily_warning_title"
+	},
+	{
+		"#text": "Дневной лимит данных израсходован",
+		"@_name": "traffic_daywarning_dialog_title"
+	},
+	{
+		"#text": "Дневной трафик SIM-карты %1$s израсходован",
+		"@_name": "traffic_daywarning_gemini_dialog_title"
+	},
+	{
+		"#text": "Было использовано %1$s среднесуточного объёма данных. В этом месяце доступно ещё %2$s данных.",
+		"@_name": "traffic_daywarning_switch_dialog_summary"
+	},
+	{
+		"#text": "Предупреждение о лимите",
+		"@_name": "traffic_daywarning_switch_preference_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "traffic_dialog_ok"
+	},
+	{
+		"#text": "Нет приложений с ненаправленными данными",
+		"@_name": "traffic_direction_app_empty"
+	},
+	{
+		"#text": "Добавлено %1$d ПО без трафика",
+		"@_name": "traffic_directional_app_hint"
+	},
+	{
+		"#text": "ПО направленного трафика",
+		"@_name": "traffic_directional_app_setting"
+	},
+	{
+		"#text": ", всего используется %1$s",
+		"@_name": "traffic_directional_app_usage"
+	},
+	{
+		"#text": "Приложения с направленным трафиком",
+		"@_name": "traffic_directional_apps"
+	},
+	{
+		"#text": "Вы используете выделенную сеть для покупки международного тарифного плана",
+		"@_name": "traffic_free_activity_one_summary"
+	},
+	{
+		"#text": "Выделенная сеть",
+		"@_name": "traffic_free_activity_title"
+	},
+	{
+		"#text": "Управление данными недоступно",
+		"@_name": "traffic_free_activity_two_summary"
+	},
+	{
+		"#text": ", общее использование %1$s",
+		"@_name": "traffic_free_app_usage"
+	},
+	{
+		"#text": "Пакет трафика для карты %1$s не установлен",
+		"@_name": "traffic_gemini_guide_users_setup_dialog_title"
+	},
+	{
+		"#text": "Месячный трафик SIM-карты %1$s израсходован",
+		"@_name": "traffic_gemini_used_all_dialog_title"
+	},
+	{
+		"#text": "Предупреждение о расходе трафика карты %1$s",
+		"@_name": "traffic_gemini_warning_dialog_title"
+	},
+	{
+		"#text": "Гб",
+		"@_name": "traffic_gigabyteShort"
+	},
+	{
+		"#text": "Добавить виджет трафика на рабочий стол?",
+		"@_name": "traffic_guide_add_wp_dialog_message_line1"
+	},
+	{
+		"#text": "Добавить виджет на рабочий стол?",
+		"@_name": "traffic_guide_add_wp_dialog_title"
+	},
+	{
+		"#text": "В этом месяце использовано %1$s для мобильной передачи данных. Рекомендуется настроить пакет трафика.",
+		"@_name": "traffic_guide_users_setup_dialog_message"
+	},
+	{
+		"#text": "Настроить сейчас",
+		"@_name": "traffic_guide_users_setup_dialog_pbt"
+	},
+	{
+		"#text": "Пакет трафика не настроен",
+		"@_name": "traffic_guide_users_setup_dialog_title"
+	},
+	{
+		"#text": "Уведомление о работе в фоне",
+		"@_name": "traffic_high_activity_title"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "traffic_high_add_action_cancel"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "traffic_high_add_action_okay"
+	},
+	{
+		"#text": "Добавить приложение в белый список",
+		"@_name": "traffic_high_add_no_remind_apps_title"
+	},
+	{
+		"#text": "Высокая степень сжатия",
+		"@_name": "traffic_high_compression_rate"
+	},
+	{
+		"#text": "Лимит трафика в фоне",
+		"@_name": "traffic_high_dialog_title"
+	},
+	{
+		"#text": "Мб/день",
+		"@_name": "traffic_high_dialog_unit"
+	},
+	{
+		"#text": "Нет приложений для добавления",
+		"@_name": "traffic_high_empty_apps_add"
+	},
+	{
+		"#text": "Нет приложений в белом списке",
+		"@_name": "traffic_high_empty_remind_apps"
+	},
+	{
+		"#text": "Включено",
+		"@_name": "traffic_high_hava_open"
+	},
+	{
+		"#text": "Приложения из белого списка будут исключены из оповещения",
+		"@_name": "traffic_high_no_remind_apps_detail_message"
+	},
+	{
+		"#text": "%1$s прилож.",
+		"@_name": "traffic_high_no_remind_apps_num"
+	},
+	{
+		"#text": "Белый список",
+		"@_name": "traffic_high_no_remind_apps_title"
+	},
+	{
+		"#text": "Добавить приложение",
+		"@_name": "traffic_high_no_remind_btn_title"
+	},
+	{
+		"#text": "Отключено",
+		"@_name": "traffic_high_not_open"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "traffic_high_notify_ignore_action"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "traffic_high_notify_kill_action"
+	},
+	{
+		"#text": "; передача данных в фоне превышает %1$s",
+		"@_name": "traffic_high_notify_remind_summary"
+	},
+	{
+		"#text": ",",
+		"@_name": "traffic_high_notify_remind_summary_dayton"
+	},
+	{
+		"#text": "Высокое использование данных в фоне",
+		"@_name": "traffic_high_notify_remind_title"
+	},
+	{
+		"#text": "Уведомлять при расходе приложением %1$s/день",
+		"@_name": "traffic_high_remind_detail_message"
+	},
+	{
+		"#text": "Уведомление о работе в фоне",
+		"@_name": "traffic_high_remind_message"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "traffic_high_remove_app_btn"
+	},
+	{
+		"#text": "Уведомление о работе в фоне",
+		"@_name": "traffic_high_traffic_title"
+	},
+	{
+		"#text": "Начало",
+		"@_name": "traffic_idle_begin_title"
+	},
+	{
+		"#text": "Окончание",
+		"@_name": "traffic_idle_end_title"
+	},
+	{
+		"#text": "Трафик в простое",
+		"@_name": "traffic_idle_overlimit"
+	},
+	{
+		"#text": "Свободное время",
+		"@_name": "traffic_idle_setting_summary"
+	},
+	{
+		"#text": "Пожалуйста, вставьте SIM-карту",
+		"@_name": "traffic_insert_sim"
+	},
+	{
+		"#text": "Кб",
+		"@_name": "traffic_kilobyteShort"
+	},
+	{
+		"#text": "Бесплатный трафик для карты King Card",
+		"@_name": "traffic_king_free"
+	},
+	{
+		"#text": "Приложения без расхода трафика для карты King Card",
+		"@_name": "traffic_king_free_app"
+	},
+	{
+		"#text": "(",
+		"@_name": "traffic_left_brackets"
+	},
+	{
+		"#text": "Загрузка",
+		"@_name": "traffic_loading_dialog_msg"
+	},
+	{
+		"#text": "Низкая степень сжатия",
+		"@_name": "traffic_low_compression_rate"
+	},
+	{
+		"#text": "Стандартный пакет трафика",
+		"@_name": "traffic_main_packages"
+	},
+	{
+		"#text": "Управление",
+		"@_name": "traffic_manager"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "traffic_megabyteShort"
+	},
+	{
+		"#text": "Средняя степень сжатия",
+		"@_name": "traffic_middle_compression_rate"
+	},
+	{
+		"#text": "Мониторинг трафика",
+		"@_name": "traffic_monitor"
+	},
+	{
+		"#text": "Месячный тариф",
+		"@_name": "traffic_month_plan"
+	},
+	{
+		"#text": "За месяц",
+		"@_name": "traffic_month_saved"
+	},
+	{
+		"#text": "Месячный лимит трафика израсходован. Рекомендуется отключить передачу данных.",
+		"@_name": "traffic_month_used_out"
+	},
+	{
+		"#text": "Ежемесячное предупреждение",
+		"@_name": "traffic_month_warning_title"
+	},
+	{
+		"#text": "Настройки можно изменить в разделе Безопасность > Данные.",
+		"@_name": "traffic_net_tip_msg"
+	},
+	{
+		"#text": "Доступ к сети для приложений отключен.",
+		"@_name": "traffic_net_tip_title"
+	},
+	{
+		"#text": "Доступ к интернету",
+		"@_name": "traffic_network_control"
+	},
+	{
+		"#text": "Трафик в простое",
+		"@_name": "traffic_non_busy_hour_data"
+	},
+	{
+		"#text": "Количество оставшегося трафика неизвестно или некорректно",
+		"@_name": "traffic_not_know_usage"
+	},
+	{
+		"#text": "Мониторинг трафика не настроен",
+		"@_name": "traffic_not_set"
+	},
+	{
+		"#text": "Мониторинг трафика для SIM %1$s выключен",
+		"@_name": "traffic_not_set_card"
+	},
+	{
+		"#text": "Пакет трафика не установлен, %1$s израсходовано в этом месяце",
+		"@_name": "traffic_not_set_dialog_title"
+	},
+	{
+		"#text": "В этом месяце вы израсходовали около 40 Гб данных карты King Card.",
+		"@_name": "traffic_notify_warning_content"
+	},
+	{
+		"#text": "Отключение от сети при превышении 40 Гб",
+		"@_name": "traffic_notify_warning_summary"
+	},
+	{
+		"#text": "Установите лимит расхода данных",
+		"@_name": "traffic_notset_warning_summary"
+	},
+	{
+		"#text": "Использовано за месяц %1$s",
+		"@_name": "traffic_notset_warning_title"
+	},
+	{
+		"#text": "Другие настройки",
+		"@_name": "traffic_other_setup_category"
+	},
+	{
+		"#text": "Автовыключение передачи данных при перерасходе",
+		"@_name": "traffic_over_auto_close_net"
+	},
+	{
+		"#text": "при превышении среднесуточного лимита",
+		"@_name": "traffic_over_average_remind_daily"
+	},
+	{
+		"#text": "Предупреждение при достижении лимита",
+		"@_name": "traffic_over_break_network_auto"
+	},
+	{
+		"#text": "Понятно",
+		"@_name": "traffic_over_hint_ignore"
+	},
+	{
+		"#text": "Премиум-предложение уже доступно для вас. Получите его немедленно.",
+		"@_name": "traffic_over_notice_sumary"
+	},
+	{
+		"#text": "Лимит трафика превышен",
+		"@_name": "traffic_over_used"
+	},
+	{
+		"#text": "Лимит трафика SIM %1$s превышен",
+		"@_name": "traffic_over_used_card"
+	},
+	{
+		"#text": "Перерасход данных %1$s",
+		"@_name": "traffic_over_warning_sumary"
+	},
+	{
+		"#text": "Пакет трафика",
+		"@_name": "traffic_packages"
+	},
+	{
+		"#text": "Пб",
+		"@_name": "traffic_petabyte"
+	},
+	{
+		"#text": "Настройки плана",
+		"@_name": "traffic_plan_setting"
+	},
+	{
+		"#text": "Тип плана",
+		"@_name": "traffic_plan_type"
+	},
+	{
+		"#text": "Дневная карта",
+		"@_name": "traffic_plan_type_day_pay"
+	},
+	{
+		"#text": "Ежемесячная карта",
+		"@_name": "traffic_plan_type_month_pay"
+	},
+	{
+		"#text": "Выберите тип плана",
+		"@_name": "traffic_plan_type_title"
+	},
+	{
+		"#text": "Регулярная калибровка",
+		"@_name": "traffic_regular_correct"
+	},
+	{
+		"#text": ")",
+		"@_name": "traffic_right_brackets"
+	},
+	{
+		"#text": "Сохранить и калибровать",
+		"@_name": "traffic_saveAndCorrect"
+	},
+	{
+		"#text": "Изображения, видео и музыка будут сжиматься при использовании мобильной передачи данных. Это может повлиять на качество.",
+		"@_name": "traffic_saving_compress_summary"
+	},
+	{
+		"#text": "Сжимать контент для экономии трафика",
+		"@_name": "traffic_saving_item_hint"
+	},
+	{
+		"#text": "Экономия трафика",
+		"@_name": "traffic_saving_item_name"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "traffic_saving_learn_more"
+	},
+	{
+		"#text": "Показать сжатые данные в панели уведомлений",
+		"@_name": "traffic_saving_notify_switch_summary"
+	},
+	{
+		"#text": "Показать сжатые данные",
+		"@_name": "traffic_saving_notify_switch_title"
+	},
+	{
+		"#text": "Нажмите для настройки экономии трафика",
+		"@_name": "traffic_saving_setting_hint"
+	},
+	{
+		"#text": "Экономия трафика отключена",
+		"@_name": "traffic_saving_status_disable"
+	},
+	{
+		"#text": "Экономия трафика включена",
+		"@_name": "traffic_saving_status_enable"
+	},
+	{
+		"#text": "Представлено OperaMax",
+		"@_name": "traffic_saving_technical_support"
+	},
+	{
+		"#text": "Служба экономии трафика отключит VPN, продолжить?",
+		"@_name": "traffic_saving_vpn_hint"
+	},
+	{
+		"#text": "Периодическая отправка бесплатных сообщений оператору для корректировки трафика",
+		"@_name": "traffic_send_correct_msg_to_operator_regular"
+	},
+	{
+		"#text": "Настройки оператора",
+		"@_name": "traffic_set_operator_info"
+	},
+	{
+		"#text": "SIM-карта",
+		"@_name": "traffic_setup_sim_title"
+	},
+	{
+		"#text": "Мониторинг трафика в панели",
+		"@_name": "traffic_show_in_notifi_bar"
+	},
+	{
+		"#text": "SIM%1$d",
+		"@_name": "traffic_sim"
+	},
+	{
+		"#text": "Атрибуты SIM",
+		"@_name": "traffic_sim_attribution"
+	},
+	{
+		"#text": "SIM %1$d",
+		"@_name": "traffic_sim_card_no"
+	},
+	{
+		"#text": "Специальные данные",
+		"@_name": "traffic_special_plan"
+	},
+	{
+		"#text": "Ночные данные, приложения без трафика",
+		"@_name": "traffic_special_plan_summary"
+	},
+	{
+		"#text": "ПО без использования трафика",
+		"@_name": "traffic_special_plan_summary_dayplan"
+	},
+	{
+		"#text": "Приложения без расхода трафика",
+		"@_name": "traffic_special_plan_summary_king_card"
+	},
+	{
+		"#text": "Включить",
+		"@_name": "traffic_start_saving"
+	},
+	{
+		"#text": "Отключить",
+		"@_name": "traffic_stop_saving"
+	},
+	{
+		"#text": "Купить трафик",
+		"@_name": "traffic_subscribe_data"
+	},
+	{
+		"#text": "Купить пакет трафика",
+		"@_name": "traffic_subscribe_data_plan"
+	},
+	{
+		"#text": "Доступ ПО к передаче данных",
+		"@_name": "traffic_summary_mobile_item_summary"
+	},
+	{
+		"#text": "Доступ приложений к интернету",
+		"@_name": "traffic_summary_network_item_summary"
+	},
+	{
+		"#text": "Удобные и выгодные предложения",
+		"@_name": "traffic_summary_packet_buy_item_summary"
+	},
+	{
+		"#text": "Доступ ПО к Wi-Fi",
+		"@_name": "traffic_summary_wlan_item_summary"
+	},
+	{
+		"#text": "Данные",
+		"@_name": "traffic_summmary_title"
+	},
+	{
+		"#text": "Разрешить все",
+		"@_name": "traffic_switch_allow"
+	},
+	{
+		"#text": "Отклонить все",
+		"@_name": "traffic_switch_reject"
+	},
+	{
+		"#text": "В фоне",
+		"@_name": "traffic_tab_background_title"
+	},
+	{
+		"#text": "Мобильная сеть",
+		"@_name": "traffic_tab_mobile_title"
+	},
+	{
+		"#text": "Купить тарифный план",
+		"@_name": "traffic_tab_packet_buy_title"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "traffic_tab_wifi_title"
+	},
+	{
+		"#text": "Тб",
+		"@_name": "traffic_terabyte"
+	},
+	{
+		"#text": "За сегодня",
+		"@_name": "traffic_today_saved"
+	},
+	{
+		"#text": "Средний за день объём данных израсходован, %1$s осталось в этом месяце",
+		"@_name": "traffic_today_used_dialog_title"
+	},
+	{
+		"#text": "Перерасход",
+		"@_name": "traffic_traffic_overlimit"
+	},
+	{
+		"#text": "Использование трафика в норме",
+		"@_name": "traffic_used_normal"
+	},
+	{
+		"#text": "Стандартный объём трафика в этом месяце израсходован. Мобильная передача данных отключена.",
+		"@_name": "traffic_used_up_dialog_title"
+	},
+	{
+		"#text": "Ваш стандартный ежемесячный пакет данных исчерпан",
+		"@_name": "traffic_used_up_notice_title"
+	},
+	{
+		"#text": "Доступно данных менее %1$s",
+		"@_name": "traffic_warning_common_summary"
+	},
+	{
+		"#text": "Использовать передачу данных",
+		"@_name": "traffic_warning_dialog_text1"
+	},
+	{
+		"#text": "Осталось",
+		"@_name": "traffic_warning_dialog_text2"
+	},
+	{
+		"#text": "%1$s использовано в этом месяце, %2$s осталось.",
+		"@_name": "traffic_warning_dialog_title"
+	},
+	{
+		"#text": "Предупреждение о лимите",
+		"@_name": "traffic_warning_setting"
+	},
+	{
+		"#text": "За неделю",
+		"@_name": "traffic_week_allow_mobile_data_usage"
+	},
+	{
+		"#text": "Передача по Wi-Fi за неделю",
+		"@_name": "traffic_week_wifi_list_summary"
+	},
+	{
+		"#text": "Виджет на главном экране",
+		"@_name": "traffic_widget_add_switch"
+	},
+	{
+		"#text": "/",
+		"@_name": "traffic_widget_not_applicable"
+	},
+	{
+		"#text": "Остаток трафика в простое",
+		"@_name": "traffic_widget_remain_idle_summary"
+	},
+	{
+		"#text": "Доступно",
+		"@_name": "traffic_widget_remain_summary"
+	},
+	{
+		"#text": "Передача по Wi-Fi за месяц",
+		"@_name": "traffic_wifi_list_summary"
+	},
+	{
+		"#text": "Wi-Fi",
+		"@_name": "traffic_wifi_swtich_summary"
+	},
+	{
+		"#text": "Калибровка трафика",
+		"@_name": "trafficCorrection"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "TrafficDialogNegativeButton"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "TrafficDialogPositiveButton"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "trafficUnit"
+	},
+	{
+		"#text": "23:00",
+		"@_name": "trafic_idle_begin_summary"
+	},
+	{
+		"#text": "07:00",
+		"@_name": "trafic_idle_end_summary"
+	},
+	{
+		"#text": "Трафик в простое",
+		"@_name": "trafic_idle_traffic_title"
+	},
+	{
+		"#text": "Мониторинг трафика",
+		"@_name": "trafic_monitor"
+	},
+	{
+		"#text": "Ежемесячный лимит",
+		"@_name": "trafic_mouth_idle_traffic_title"
+	},
+	{
+		"#text": "Использовано трафика в простое",
+		"@_name": "trafic_mouth_used_idle_traffic_title"
+	},
+	{
+		"#text": "Нет приложений для добавления",
+		"@_name": "trus_app_empty"
+	},
+	{
+		"#text": "%1$s приложен.",
+		"@_name": "trust_app_count_num"
+	},
+	{
+		"#text": "Доверенные приложения",
+		"@_name": "trust_apps_title"
+	},
+	{
+		"#text": "00:00",
+		"@_name": "tt_00_00"
+	},
+	{
+		"#text": "Рекл.",
+		"@_name": "tt_ad"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "tt_ad_logo_txt"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "tt_auto_play_cancel_text"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "tt_cancel"
+	},
+	{
+		"#text": "Рейтинг: %1$s",
+		"@_name": "tt_comment_num"
+	},
+	{
+		"#text": "(Комментарии: %1$s)",
+		"@_name": "tt_comment_num_backup"
+	},
+	{
+		"#text": "Оценка",
+		"@_name": "tt_comment_score"
+	},
+	{
+		"#text": "Скачать с использованием мобильной сети?",
+		"@_name": "tt_confirm_download"
+	},
+	{
+		"#text": "Подготовка к загрузке приложения: %s",
+		"@_name": "tt_confirm_download_have_app_name"
+	},
+	{
+		"#text": "Назад",
+		"@_name": "tt_dislike_header_tv_back"
+	},
+	{
+		"#text": "Выбрать",
+		"@_name": "tt_dislike_header_tv_title"
+	},
+	{
+		"#text": "Пропустить 5с.",
+		"@_name": "tt_full_screen_skip_tx"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "tt_label_cancel"
+	},
+	{
+		"#text": "Ок",
+		"@_name": "tt_label_ok"
+	},
+	{
+		"#text": "Нет сети, попробуйте позже.",
+		"@_name": "tt_no_network"
+	},
+	{
+		"#text": "Отсутствуют разрешения, пожалуйста выдайте их.",
+		"@_name": "tt_permission_denied"
+	},
+	{
+		"#text": "Хранилище",
+		"@_name": "tt_request_permission_descript_external_storage"
+	},
+	{
+		"#text": "Информация о местоположении",
+		"@_name": "tt_request_permission_descript_location"
+	},
+	{
+		"#text": "Позвонить",
+		"@_name": "tt_request_permission_descript_read_phone_state"
+	},
+	{
+		"#text": "Отзыв",
+		"@_name": "tt_reward_feedback"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "tt_reward_screen_skip_tx"
+	},
+	{
+		"#text": "3s | Пропустить",
+		"@_name": "tt_splash_skip_tv_text"
+	},
+	{
+		"#text": "Подсказка",
+		"@_name": "tt_tip"
+	},
+	{
+		"#text": "Убрать из избранного",
+		"@_name": "tt_unlike"
+	},
+	{
+		"#text": "б",
+		"@_name": "tt_video_bytesize"
+	},
+	{
+		"#text": "М",
+		"@_name": "tt_video_bytesize_M"
+	},
+	{
+		"#text": "Мб",
+		"@_name": "tt_video_bytesize_MB"
+	},
+	{
+		"#text": "Продолжить",
+		"@_name": "tt_video_continue_play"
+	},
+	{
+		"#text": "Позвонить",
+		"@_name": "tt_video_dial_phone"
+	},
+	{
+		"#text": "Скачать",
+		"@_name": "tt_video_download_apk"
+	},
+	{
+		"#text": "Подробнее",
+		"@_name": "tt_video_mobile_go_detail"
+	},
+	{
+		"#text": "Не удалось загрузить, нажмите для повтора.",
+		"@_name": "tt_video_retry_des_txt"
+	},
+	{
+		"#text": "Для воспроизведения необходимо",
+		"@_name": "tt_video_without_wifi_tips"
+	},
+	{
+		"#text": "Реклама",
+		"@_name": "tt_web_title_default"
+	},
+	{
+		"#text": "Предстоящая трансляция",
+		"@_name": "tt_will_play"
+	},
+	{
+		"#text": "Редко используемое ПО",
+		"@_name": "type_app"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "type_app_back_del"
+	},
+	{
+		"#text": "Деинсталляция ПО",
+		"@_name": "type_app_mgr"
+	},
+	{
+		"#text": "Нечастые приложения",
+		"@_name": "type_app_unused_app"
+	},
+	{
+		"#text": "Частые приложения",
+		"@_name": "type_app_used_app"
+	},
+	{
+		"#text": "Музыка",
+		"@_name": "type_audio"
+	},
+	{
+		"#text": "Большие файлы",
+		"@_name": "type_bigfile"
+	},
+	{
+		"#text": "Мусор и кэши",
+		"@_name": "type_other"
+	},
+	{
+		"#text": "Уязвимые приложения",
+		"@_name": "type_risk"
+	},
+	{
+		"#text": "Риск скрытых платежей",
+		"@_name": "type_risk_pay"
+	},
+	{
+		"#text": "Риск взлома аккаунта",
+		"@_name": "type_risk_stealaccount"
+	},
+	{
+		"#text": "Документы",
+		"@_name": "type_text"
+	},
+	{
+		"#text": "Видео",
+		"@_name": "type_video"
+	},
+	{
+		"#text": "Аудио и видео",
+		"@_name": "type_video_sound"
+	},
+	{
+		"#text": "Вредоносное ПО",
+		"@_name": "type_virus"
+	},
+	{
+		"#text": "Очистка WeChat",
+		"@_name": "type_wechat"
+	},
+	{
+		"#text": "Очищенные данные могут быть повторно загружены через сеть",
+		"@_name": "type_wechat_chat_can_restore"
+	},
+	{
+		"#text": "Фотографии в чатах",
+		"@_name": "type_wechat_chat_pic"
+	},
+	{
+		"#text": "Видео в чатах",
+		"@_name": "type_wechat_chat_video"
+	},
+	{
+		"#text": "Невозможно восстановить после очистки",
+		"@_name": "type_wechat_desc_un_restore"
+	},
+	{
+		"#text": "Избранные файлы",
+		"@_name": "type_wechat_favorite"
+	},
+	{
+		"#text": "Фото-моменты",
+		"@_name": "type_wechat_moments_pic"
+	},
+	{
+		"#text": "Видео-моменты",
+		"@_name": "type_wechat_moments_video"
+	},
+	{
+		"#text": "Сохранено",
+		"@_name": "type_wechat_save"
+	},
+	{
+		"#text": "Архив",
+		"@_name": "type_zip"
+	},
+	{
+		"#text": "Удалить",
+		"@_name": "uninstall"
+	},
+	{
+		"#text": "Удалить все",
+		"@_name": "uninstall_all"
+	},
+	{
+		"#text": "Очистка для повторного подключения и установки",
+		"@_name": "uninstall_app_title"
+	},
+	{
+		"#text": "Удаление остатков: %1$s",
+		"@_name": "uninstall_white_count"
+	},
+	{
+		"#text": "Исправить",
+		"@_name": "unistall_virus"
+	},
+	{
+		"#text": "Неизвестный номер",
+		"@_name": "unknown_number"
+	},
+	{
+		"#text": "Нет",
+		"@_name": "unsel_all"
+	},
+	{
+		"#text": "Отказаться от подписки",
+		"@_name": "unsubscribe_keyword_1"
+	},
+	{
+		"#text": "Ответить с Т",
+		"@_name": "unsubscribe_keyword_2"
+	},
+	{
+		"#text": "Ответить с Т",
+		"@_name": "unsubscribe_keyword_3"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "update_check"
+	},
+	{
+		"#text": "Последнее обновление:",
+		"@_name": "update_virus_lib_summary"
+	},
+	{
+		"#text": "Обновление БД вирусов",
+		"@_name": "update_virus_lib_title"
+	},
+	{
+		"#text": "Закрыть",
+		"@_name": "url_chk_alert_dlg_btn_close"
+	},
+	{
+		"#text": "Игнорировать",
+		"@_name": "url_chk_alert_dlg_btn_ignore"
+	},
+	{
+		"#text": "%1$s пытается посетить вредоносный веб-сайт. Рекомендуем немедленно закрыть это приложение.",
+		"@_name": "url_chk_alert_dlg_desc_v2"
+	},
+	{
+		"#text": "Вредоносная ссылка",
+		"@_name": "url_chk_alert_dlg_title"
+	},
+	{
+		"#text": "Разрешить",
+		"@_name": "usb_install_Entries_allow"
+	},
+	{
+		"#text": "Запрос",
+		"@_name": "usb_install_Entries_ask"
+	},
+	{
+		"#text": "Отклонить",
+		"@_name": "usb_install_Entries_deny"
+	},
+	{
+		"#text": 1,
+		"@_name": "usb_install_EntryValues_allow"
+	},
+	{
+		"#text": -1,
+		"@_name": "usb_install_EntryValues_deny"
+	},
+	{
+		"#text": "Нет приложений",
+		"@_name": "usb_install_item_no_record"
+	},
+	{
+		"#text": "Установка ПО через USB",
+		"@_name": "usb_install_management"
+	},
+	{
+		"#text": "ПО, устанавливаемое через USB: %1$d",
+		"@_name": "usb_install_monitor_title1"
+	},
+	{
+		"#text": "Отслеживание запросов с ПК на установку приложений",
+		"@_name": "usb_install_settings_summary"
+	},
+	{
+		"#text": "Установка ПО через USB",
+		"@_name": "usb_install_settings_title"
+	},
+	{
+		"#text": "Использовать память телефона",
+		"@_name": "use_storage"
+	},
+	{
+		"#text": "%1$s ежемесячного трафика было использовано. Рекомендуем отключить мобильную передачу данных",
+		"@_name": "use_up_the_traffic_summary"
+	},
+	{
+		"#text": "Продолжить использование",
+		"@_name": "used_all_dialog_negetive_button"
+	},
+	{
+		"#text": "Отключить передачу",
+		"@_name": "used_all_dialog_positive_button"
+	},
+	{
+		"#text": "Ежемесячный лимит трафика использован",
+		"@_name": "used_all_dialog_title"
+	},
+	{
+		"#text": "Использовано",
+		"@_name": "usedTraffic"
+	},
+	{
+		"#text": "Управление приложениями",
+		"@_name": "user_app_fragmetn_actionbar_title"
+	},
+	{
+		"#text": "Посмотреть больше новостей TouTiao",
+		"@_name": "view_more_header_line"
+	},
+	{
+		"#text": "Поиск вирусов",
+		"@_name": "virus_clean"
+	},
+	{
+		"#text": "AI-антивирус обеспечивает защиту в режиме реального времени путём немедленного обнаружения и оповещения",
+		"@_name": "virus_clean_desc_text"
+	},
+	{
+		"#text": "Без проверки в течение 7 д.",
+		"@_name": "virus_clean_over_7_days_f8"
+	},
+	{
+		"#text": "Высокий уровень безопасности",
+		"@_name": "virus_clean_summary_f8"
+	},
+	{
+		"#text": "Обработка: %s",
+		"@_name": "virus_clean_txt"
+	},
+	{
+		"#text": "Неофициальное ПО",
+		"@_name": "virus_detail_1000"
+	},
+	{
+		"#text": "Отмена",
+		"@_name": "virus_detail_1002"
+	},
+	{
+		"#text": "ОК",
+		"@_name": "virus_detail_1003"
+	},
+	{
+		"#text": "Детали:",
+		"@_name": "virus_details"
+	},
+	{
+		"#text": "%1$d угроз",
+		"@_name": "virus_find_num"
+	},
+	{
+		"#text": "1 риск",
+		"@_name": "virus_find_one"
+	},
+	{
+		"#text": "Обработка",
+		"@_name": "virus_in_processed"
+	},
+	{
+		"#text": "Уровень риска:",
+		"@_name": "virus_level"
+	},
+	{
+		"#text": "высокий",
+		"@_name": "virus_level_high"
+	},
+	{
+		"#text": "низкий",
+		"@_name": "virus_level_low"
+	},
+	{
+		"#text": "средний",
+		"@_name": "virus_level_middle"
+	},
+	{
+		"#text": "неизвестн.",
+		"@_name": "virus_level_unknown"
+	},
+	{
+		"#text": "Ошибка сети. Попробуй позже",
+		"@_name": "virus_lib_available_setting_no_network"
+	},
+	{
+		"#text": "Обновить",
+		"@_name": "virus_lib_available_setting_notify_button"
+	},
+	{
+		"#text": "Добавлены образцы вирусов",
+		"@_name": "virus_lib_available_setting_notify_content"
+	},
+	{
+		"#text": "Доступно",
+		"@_name": "virus_lib_available_setting_notify_tip"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "virus_lib_available_setting_updating_content"
+	},
+	{
+		"#text": "БД вирусов обновлена",
+		"@_name": "virus_lib_update_finished"
+	},
+	{
+		"#text": "База данных вирусов актуальна",
+		"@_name": "virus_lib_uptodate"
+	},
+	{
+		"#text": "БД вирусов не обновлена",
+		"@_name": "virus_libs_update_never"
+	},
+	{
+		"#text": "Вирус:",
+		"@_name": "virus_name"
+	},
+	{
+		"#text": "Вирусов обнаружено: %1$s",
+		"@_name": "virus_num_f8"
+	},
+	{
+		"#text": "Рекомендуется лечение",
+		"@_name": "virus_recommend_repair"
+	},
+	{
+		"#text": "Есть угрозы",
+		"@_name": "virus_scan_find_risk"
+	},
+	{
+		"#text": "Рисков нет",
+		"@_name": "virus_scan_no_risk"
+	},
+	{
+		"#text": "Проверка обновлений",
+		"@_name": "virus_settings_1000"
+	},
+	{
+		"#text": "Обновление",
+		"@_name": "virus_settings_1001"
+	},
+	{
+		"#text": "Ошибка обновления, повторите",
+		"@_name": "virus_settings_1002"
+	},
+	{
+		"#text": "Обновление расходует трафик",
+		"@_name": "virus_settings_1003"
+	},
+	{
+		"#text": "Сканирование: %1$s",
+		"@_name": "virus_start_scanning_tv"
+	},
+	{
+		"#text": "Проверка на вирусы",
+		"@_name": "virus_status_1"
+	},
+	{
+		"#text": "Сканирование",
+		"@_name": "virus_status_1020"
+	},
+	{
+		"#text": "Безопасно",
+		"@_name": "virus_status_1021"
+	},
+	{
+		"#text": "Облачная проверка",
+		"@_name": "virus_status_1024"
+	},
+	{
+		"#text": "Удаление",
+		"@_name": "virus_status_1027"
+	},
+	{
+		"#text": "Обработка: %1$s",
+		"@_name": "virus_status_1028_tv"
+	},
+	{
+		"#text": "Вирусы не найдены",
+		"@_name": "virus_uninstall_empty"
+	},
+	{
+		"#text": "Создание/удаление записей журнала вызовов",
+		"@_name": "w_call_log"
+	},
+	{
+		"#text": "создание/удаление записей журнала вызовов",
+		"@_name": "w_call_log_c"
+	},
+	{
+		"#text": "Изменение списка контактов",
+		"@_name": "w_contacts"
+	},
+	{
+		"#text": "добавление/удаление контактов",
+		"@_name": "w_contacts_c"
+	},
+	{
+		"#text": "Создание записей в журнале MMS",
+		"@_name": "w_mms"
+	},
+	{
+		"#text": "создание записей в журнале  MMS",
+		"@_name": "w_mms_c"
+	},
+	{
+		"#text": "Создание записей в журнале SMS или MMS",
+		"@_name": "w_sms"
+	},
+	{
+		"#text": "создание записей в журнале SMS или MMS",
+		"@_name": "w_sms_c"
+	},
+	{
+		"#text": "Написание SMS/MMS",
+		"@_name": "w_sms_mms"
+	},
+	{
+		"#text": "Предупреждение от 360 Security: опасное служебное сообщение",
+		"@_name": "wap_push_danger_content"
+	},
+	{
+		"#text": "WAP push",
+		"@_name": "wap_push_message_header"
+	},
+	{
+		"#text": "Пропустить",
+		"@_name": "warning_dialog_negative_button"
+	},
+	{
+		"#text": "Детали",
+		"@_name": "warning_dialog_positive_button"
+	},
+	{
+		"#text": "Использование мобильной передачи данных достигло предельного значения",
+		"@_name": "warning_dialog_title"
+	},
+	{
+		"#text": "Чтение/запись событий календаря",
+		"@_name": "wd_calendar"
+	},
+	{
+		"#text": "Запись/удаление журнала вызовов",
+		"@_name": "wd_call_log"
+	},
+	{
+		"#text": "Запись/удаление контактов",
+		"@_name": "wd_contacts"
+	},
+	{
+		"#text": "Запись/удаление SMS/MMS",
+		"@_name": "wd_sms_mms"
+	},
+	{
+		"#text": "Друзья WeChat",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "Моменты WeChat",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "Избранное WeChat",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "WeChat Cleaner",
+		"@_name": "wechat_title_f8"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "Автообновление БД через Wi-Fi",
+		"@_name": "wifi_update"
+	},
+	{
+		"#text": "%1$s мин.",
+		"@_name": "x_minute"
+	},
+	{
+		"#text": "%1$s сек.",
+		"@_name": "x_second"
+	}
+]

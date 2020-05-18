@@ -1,0 +1,5098 @@
+[
+	{
+		"#text": "https://api.mobitech-content.xyz",
+		"@_name": "CONTENT_BASE_URL"
+	},
+	{
+		"@_name": "MOBITECH_CONTENT_PUBLISHER_API_KEY"
+	},
+	{
+		"#text": "MEZSRCHD469A7",
+		"@_name": "PUBLISHER_API_KEY"
+	},
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "About",
+		"@_name": "about_browser"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "accessibility_button_refresh"
+	},
+	{
+		"#text": "Dismiss %s.",
+		"@_name": "accessibility_item_will_be_dismissed"
+	},
+	{
+		"#text": "Account",
+		"@_name": "account"
+	},
+	{
+		"#text": "Login",
+		"@_name": "account_login_result_default"
+	},
+	{
+		"#text": "Login expired",
+		"@_name": "account_login_result_expire"
+	},
+	{
+		"#text": "Login failed",
+		"@_name": "account_login_result_failed"
+	},
+	{
+		"#text": "Logged in",
+		"@_name": "account_login_result_success"
+	},
+	{
+		"#text": "Log in",
+		"@_name": "action"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "action_bar_multi_choice_title"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "action_settings"
+	},
+	{
+		"#text": "install",
+		"@_name": "ad_app_install"
+	},
+	{
+		"#text": "Add channel",
+		"@_name": "add_channel"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add_lightapp"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add_lightapps"
+	},
+	{
+		"#text": "New bookmark",
+		"@_name": "add_new_bookmark"
+	},
+	{
+		"#text": "Failed to added bookmark",
+		"@_name": "add_new_bookmark_fail"
+	},
+	{
+		"#text": "Added successfully",
+		"@_name": "add_new_bookmark_success"
+	},
+	{
+		"#text": "\"Can't name it as \\\"default directory\\\".Try another name\"",
+		"@_name": "add_new_folder_default_fail"
+	},
+	{
+		"#text": "A folder with the same name already exists",
+		"@_name": "add_new_folder_same_fail"
+	},
+	{
+		"#text": "Added by %s user(s)",
+		"@_name": "add_people_count"
+	},
+	{
+		"#text": "Failed to add Home Icons",
+		"@_name": "add_short_cut_fail"
+	},
+	{
+		"#text": "Add",
+		"@_name": "add_shotcut"
+	},
+	{
+		"#text": "Add bookmark",
+		"@_name": "add_to_bookmark"
+	},
+	{
+		"#text": "Bookmark",
+		"@_name": "add_to_bookmarks_menu_option"
+	},
+	{
+		"#text": "Send to Home screen",
+		"@_name": "add_to_home_shortcut"
+	},
+	{
+		"#text": "Add to homepage",
+		"@_name": "add_to_homepage"
+	},
+	{
+		"#text": "Home",
+		"@_name": "add_to_homescreen_menu_option"
+	},
+	{
+		"#text": "Other folder",
+		"@_name": "add_to_other_folder_menu_option"
+	},
+	{
+		"#text": "Bookmark",
+		"@_name": "add_to_stub_bookmark"
+	},
+	{
+		"#text": "Desktop",
+		"@_name": "add_to_stub_desktop"
+	},
+	{
+		"#text": "HomePage",
+		"@_name": "add_to_stub_homepage"
+	},
+	{
+		"#text": "Failed to add %s",
+		"@_name": "add_to_xxx_fail"
+	},
+	{
+		"#text": "Already add to %s",
+		"@_name": "add_to_xxx_success"
+	},
+	{
+		"#text": "Added",
+		"@_name": "added_text"
+	},
+	{
+		"#text": "Skill tips:##Long press tools icon#img#to close this tab##Long press back icon#img#to input url or search##Double tap status bar to back to top",
+		"@_name": "advance_tips"
+	},
+	{
+		"#text": "The URL is verified to be safe.",
+		"@_name": "alert_safe_tip"
+	},
+	{
+		"#text": "The site may contain deceptive and risky content. Please stop visiting it.",
+		"@_name": "alert_unsafe_tip"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "allow"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Scanner",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "android.support.design.widget.AppBarLayout$ScrollingViewBehavior",
+		"@_name": "appbar_scrolling_view_behavior"
+	},
+	{
+		"#text": "Browser",
+		"@_name": "application_name"
+	},
+	{
+		"#text": "Browser needs to access your location, read your contacts and use your camera to provide customized services and support code scanning.",
+		"@_name": "application_permission_message"
+	},
+	{
+		"#text": "Auto sync contents",
+		"@_name": "auto_sync_content"
+	},
+	{
+		"#text": "Only auto sync via Wi-Fi",
+		"@_name": "auto_sync_wifi"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "autofill_profile_editor_delete_profile"
+	},
+	{
+		"#text": "The browser can automatically complete web forms like this one. Set up auto-fill text?",
+		"@_name": "autofill_setup_dialog_message"
+	},
+	{
+		"#text": "\"Log in as \"",
+		"@_name": "autologin_account_name_prefix"
+	},
+	{
+		"@_name": "autologin_account_name_suffix"
+	},
+	{
+		"#text": "Unable to log in",
+		"@_name": "autologin_bar_error"
+	},
+	{
+		"#text": "Logging in",
+		"@_name": "autologin_bar_logging"
+	},
+	{
+		"#text": "Log in",
+		"@_name": "autologin_bar_login_text"
+	},
+	{
+		"#text": "Log in to account",
+		"@_name": "autologin_bar_text_prompt"
+	},
+	{
+		"#text": "LEARN MORE",
+		"@_name": "banner_btn_text"
+	},
+	{
+		"#text": "Block",
+		"@_name": "block"
+	},
+	{
+		"#text": "Unable to bookmark this URL.",
+		"@_name": "bookmark_cannot_save_url"
+	},
+	{
+		"#text": "\"Name can't be empty\"",
+		"@_name": "bookmark_name_empty"
+	},
+	{
+		"#text": "Bookmark must have a name.",
+		"@_name": "bookmark_needs_title"
+	},
+	{
+		"#text": "Bookmark must have a URL.",
+		"@_name": "bookmark_needs_url"
+	},
+	{
+		"#text": "Unable to save bookmark",
+		"@_name": "bookmark_not_saved"
+	},
+	{
+		"#text": "Bookmark saved",
+		"@_name": "bookmark_saved"
+	},
+	{
+		"#text": "Bookmark this page",
+		"@_name": "bookmark_this_page"
+	},
+	{
+		"#text": "\"URL can't be empty\"",
+		"@_name": "bookmark_url_empty"
+	},
+	{
+		"#text": "Invalid URL.",
+		"@_name": "bookmark_url_not_valid"
+	},
+	{
+		"#text": "Invalid URL",
+		"@_name": "bookmark_url_valid"
+	},
+	{
+		"#text": "Bookmarks",
+		"@_name": "bookmarks"
+	},
+	{
+		"#text": "Browser",
+		"@_name": "bookmarks_search"
+	},
+	{
+		"#text": "android.support.design.widget.BottomSheetBehavior",
+		"@_name": "bottom_sheet_behavior"
+	},
+	{
+		"#text": "LEARN MORE",
+		"@_name": "brand_learn_more_text"
+	},
+	{
+		"#text": "REPLAY",
+		"@_name": "brand_replay_text"
+	},
+	{
+		"#text": "SKIP",
+		"@_name": "brand_skip_text"
+	},
+	{
+		"#text": "Sponsored",
+		"@_name": "brand_sponsored_text"
+	},
+	{
+		"#text": "File issue",
+		"@_name": "browserFrameFileErrorLabel"
+	},
+	{
+		"@_name": "browserFrameFormResubmitLabel"
+	},
+	{
+		"#text": "The page you are trying to view contains data that has already been submitted (\\\"POSTDATA\\\"). If you resend the data, all actions the form on the page carried out (such as search or online purchase) will be repeated.",
+		"@_name": "browserFrameFormResubmitMessage"
+	},
+	{
+		"#text": "Connection issue",
+		"@_name": "browserFrameNetworkErrorLabel"
+	},
+	{
+		"#text": "Browser message",
+		"@_name": "browser_msg"
+	},
+	{
+		"#text": "Advanced function detail",
+		"@_name": "browser_setting_advance_detail"
+	},
+	{
+		"#text": "Home icons, bookmarks",
+		"@_name": "browser_sync_description"
+	},
+	{
+		"#text": "Browser",
+		"@_name": "browser_sync_title"
+	},
+	{
+		"#text": "Browser ID",
+		"@_name": "browser_useragent"
+	},
+	{
+		"#text": "App Version",
+		"@_name": "browser_version"
+	},
+	{
+		"#text": "Scan cover or poster",
+		"@_name": "business_display_cover"
+	},
+	{
+		"#text": "Scan QR code",
+		"@_name": "business_display_qr_code"
+	},
+	{
+		"#text": "Scan cover",
+		"@_name": "business_tab_cover"
+	},
+	{
+		"#text": "Scan code",
+		"@_name": "business_tab_qr_code"
+	},
+	{
+		"#text": "Change label",
+		"@_name": "businesscard_choose_type"
+	},
+	{
+		"#text": "No business card data found!",
+		"@_name": "businesscard_no_data"
+	},
+	{
+		"#text": "Exit without saving?",
+		"@_name": "businesscard_no_save_exit"
+	},
+	{
+		"#text": "Business Card Photo Not Found!",
+		"@_name": "businesscard_photo_not_found"
+	},
+	{
+		"#text": "Now saving contact...",
+		"@_name": "businesscard_saving_contact"
+	},
+	{
+		"#text": "Add to calender",
+		"@_name": "calendar_event_add"
+	},
+	{
+		"#text": "Camera is occupied, please scan after shut it down",
+		"@_name": "camera_error_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "cancel"
+	},
+	{
+		"#text": "Can only download \\\"http\\\" or \\\"https\\\" URLs",
+		"@_name": "cannot_download"
+	},
+	{
+		"#text": "No history",
+		"@_name": "card_most_visited_empty_msg"
+	},
+	{
+		"#text": "Frequently-visited",
+		"@_name": "card_most_visited_name"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "celltick_sports_game"
+	},
+	{
+		"#text": "Betting",
+		"@_name": "celltick_sports_guess"
+	},
+	{
+		"#text": "Rankings",
+		"@_name": "celltick_sports_rank"
+	},
+	{
+		"#text": "For you",
+		"@_name": "channel_name_for_you"
+	},
+	{
+		"#text": "%1$d / %2$d",
+		"@_name": "character_counter_pattern"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "check_network_setting"
+	},
+	{
+		"#text": "Choose reasons for accurate blocking",
+		"@_name": "choice_reasons"
+	},
+	{
+		"#text": "Chrome Version",
+		"@_name": "chrome_version"
+	},
+	{
+		"#text": "New bookmark",
+		"@_name": "classic_menu_add_new_bookmark"
+	},
+	{
+		"#text": "Desktop site",
+		"@_name": "classic_menu_desktop_mode"
+	},
+	{
+		"#text": "Forward",
+		"@_name": "classic_menu_forward"
+	},
+	{
+		"#text": "Night mode",
+		"@_name": "classic_menu_night_mode"
+	},
+	{
+		"#text": "No image mode",
+		"@_name": "classic_menu_no_image_mode"
+	},
+	{
+		"#text": "Incognito mode",
+		"@_name": "classic_menu_pri_mode"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "clear"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "clear_all"
+	},
+	{
+		"#text": "Delete all history?",
+		"@_name": "clear_all_history"
+	},
+	{
+		"#text": "History refers to your browsing records",
+		"@_name": "clear_all_history_message"
+	},
+	{
+		"#text": "Clear data",
+		"@_name": "clear_data"
+	},
+	{
+		"#text": "Accounts and passwords",
+		"@_name": "clear_data_account_passwords"
+	},
+	{
+		"#text": "Location access",
+		"@_name": "clear_data_authorized_location"
+	},
+	{
+		"#text": "Browsing history",
+		"@_name": "clear_data_browser_history"
+	},
+	{
+		"#text": "Cache files",
+		"@_name": "clear_data_cache_file"
+	},
+	{
+		"#text": "Cookies",
+		"@_name": "clear_data_cookies"
+	},
+	{
+		"#text": "Done",
+		"@_name": "clear_data_finish"
+	},
+	{
+		"#text": "Input history",
+		"@_name": "clear_data_input_record"
+	},
+	{
+		"#text": "Clearing...",
+		"@_name": "clear_data_now"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "clear_history"
+	},
+	{
+		"#text": "Clear search history",
+		"@_name": "clear_search_history"
+	},
+	{
+		"#text": "Quick open URL",
+		"@_name": "click_to_open_copied_url"
+	},
+	{
+		"#text": "Incognito mode disabled",
+		"@_name": "close_incognito_mode"
+	},
+	{
+		"#text": "Clear cloud accelerating cache",
+		"@_name": "cloud_clear_cache"
+	},
+	{
+		"#text": "Clear caches?",
+		"@_name": "cloud_clear_cache_dlg"
+	},
+	{
+		"#text": "%1$s saved this month, %2$s saved in total",
+		"@_name": "cloud_save_sumary"
+	},
+	{
+		"#text": "Save data and boost system",
+		"@_name": "cloud_title"
+	},
+	{
+		"#text": "All comments",
+		"@_name": "commentHint"
+	},
+	{
+		"#text": "No more contents",
+		"@_name": "comment_end"
+	},
+	{
+		"#text": "Comments are too long",
+		"@_name": "comment_overflow"
+	},
+	{
+		"#text": "Reply",
+		"@_name": "comment_prefix"
+	},
+	{
+		"#text": "No comments, come and write the first review",
+		"@_name": "comment_sofa_tip"
+	},
+	{
+		"#text": "评论",
+		"@_name": "comment_title"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "common_google_play_services_enable_button"
+	},
+	{
+		"#text": "\"%1$s won't work unless you enable Google Play services.\"",
+		"@_name": "common_google_play_services_enable_text"
+	},
+	{
+		"#text": "Enable Google Play services",
+		"@_name": "common_google_play_services_enable_title"
+	},
+	{
+		"#text": "Install",
+		"@_name": "common_google_play_services_install_button"
+	},
+	{
+		"#text": "\"%1$s won't run without Google Play services, which are missing from your device.\"",
+		"@_name": "common_google_play_services_install_text"
+	},
+	{
+		"#text": "Get Google Play services",
+		"@_name": "common_google_play_services_install_title"
+	},
+	{
+		"#text": "Google Play services availability",
+		"@_name": "common_google_play_services_notification_channel_name"
+	},
+	{
+		"#text": "Google Play services error",
+		"@_name": "common_google_play_services_notification_ticker"
+	},
+	{
+		"#text": "%1$s is having trouble with Google Play services. Please try again.",
+		"@_name": "common_google_play_services_unknown_issue"
+	},
+	{
+		"#text": "\"%1$s won't run without Google Play services, which are not supported by your device.\"",
+		"@_name": "common_google_play_services_unsupported_text"
+	},
+	{
+		"#text": "Update",
+		"@_name": "common_google_play_services_update_button"
+	},
+	{
+		"#text": "\"%1$s won't run unless you update Google Play services.\"",
+		"@_name": "common_google_play_services_update_text"
+	},
+	{
+		"#text": "Update Google Play services",
+		"@_name": "common_google_play_services_update_title"
+	},
+	{
+		"#text": "\"%1$s won't run without Google Play services, which are currently updating.\"",
+		"@_name": "common_google_play_services_updating_text"
+	},
+	{
+		"#text": "New version of Google Play services needed. It will update itself shortly.",
+		"@_name": "common_google_play_services_wear_update_text"
+	},
+	{
+		"#text": "Open on phone",
+		"@_name": "common_open_on_phone"
+	},
+	{
+		"#text": "Sign in",
+		"@_name": "common_signin_button_text"
+	},
+	{
+		"#text": "Sign in with Google",
+		"@_name": "common_signin_button_text_long"
+	},
+	{
+		"#text": "Complete",
+		"@_name": "complete"
+	},
+	{
+		"#text": "Task completed and got %s golden balls. Enter the activity",
+		"@_name": "complete_mission"
+	},
+	{
+		"#text": "OK",
+		"@_name": "confirm"
+	},
+	{
+		"#text": "Address",
+		"@_name": "contact_header_address"
+	},
+	{
+		"#text": "Birthday",
+		"@_name": "contact_header_birthday"
+	},
+	{
+		"#text": "Email",
+		"@_name": "contact_header_email"
+	},
+	{
+		"#text": "Geo",
+		"@_name": "contact_header_geo"
+	},
+	{
+		"#text": "IM",
+		"@_name": "contact_header_instantmessenger"
+	},
+	{
+		"#text": "Name",
+		"@_name": "contact_header_name"
+	},
+	{
+		"#text": "Nickname",
+		"@_name": "contact_header_nickname"
+	},
+	{
+		"#text": "Note",
+		"@_name": "contact_header_note"
+	},
+	{
+		"#text": "Work",
+		"@_name": "contact_header_org"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "contact_header_phonenumber"
+	},
+	{
+		"#text": "Pinyin",
+		"@_name": "contact_header_pronunciation"
+	},
+	{
+		"#text": "Title",
+		"@_name": "contact_header_title"
+	},
+	{
+		"#text": "Website",
+		"@_name": "contact_header_url"
+	},
+	{
+		"#text": "Address",
+		"@_name": "contact_hint_address"
+	},
+	{
+		"#text": "Birthday",
+		"@_name": "contact_hint_birthday"
+	},
+	{
+		"#text": "Email",
+		"@_name": "contact_hint_email"
+	},
+	{
+		"#text": "Location",
+		"@_name": "contact_hint_geo"
+	},
+	{
+		"#text": "IM",
+		"@_name": "contact_hint_instantmessenger"
+	},
+	{
+		"#text": "Full Name",
+		"@_name": "contact_hint_name"
+	},
+	{
+		"#text": "Nick Name",
+		"@_name": "contact_hint_nickname"
+	},
+	{
+		"#text": "Notes",
+		"@_name": "contact_hint_note"
+	},
+	{
+		"#text": "Work",
+		"@_name": "contact_hint_org"
+	},
+	{
+		"#text": "Phone",
+		"@_name": "contact_hint_phonenumber"
+	},
+	{
+		"#text": "Pinyin",
+		"@_name": "contact_hint_pronunciation"
+	},
+	{
+		"#text": "Title",
+		"@_name": "contact_hint_title"
+	},
+	{
+		"#text": "Website",
+		"@_name": "contact_hint_url"
+	},
+	{
+		"#text": "Other",
+		"@_name": "contact_type_other"
+	},
+	{
+		"#text": "Email",
+		"@_name": "contacts_email"
+	},
+	{
+		"#text": "Other",
+		"@_name": "contacts_item_no_type"
+	},
+	{
+		"#text": "Location",
+		"@_name": "contacts_location"
+	},
+	{
+		"#text": "Add to",
+		"@_name": "containing_folder"
+	},
+	{
+		"#text": "%d bookmark(s)",
+		"@_name": "contextheader_folder_bookmarkcount"
+	},
+	{
+		"#text": "Empty folder",
+		"@_name": "contextheader_folder_empty"
+	},
+	{
+		"#text": "Add to existing contact",
+		"@_name": "contextmenu_add_exist_contact"
+	},
+	{
+		"#text": "Create new contact",
+		"@_name": "contextmenu_add_new_contact"
+	},
+	{
+		"#text": "Block Ad",
+		"@_name": "contextmenu_adfilter_manual"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "contextmenu_copy"
+	},
+	{
+		"#text": "Select text",
+		"@_name": "contextmenu_copy_text"
+	},
+	{
+		"#text": "Copy link",
+		"@_name": "contextmenu_copylink"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "contextmenu_dial_dot"
+	},
+	{
+		"#text": "Save image",
+		"@_name": "contextmenu_download_image"
+	},
+	{
+		"#text": "Maps",
+		"@_name": "contextmenu_map"
+	},
+	{
+		"#text": "Open in new tab",
+		"@_name": "contextmenu_openlink_newwindow"
+	},
+	{
+		"#text": "Open in background",
+		"@_name": "contextmenu_openlink_newwindow_background"
+	},
+	{
+		"#text": "Recognize QR code",
+		"@_name": "contextmenu_qr_code"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "contextmenu_remove"
+	},
+	{
+		"#text": "Download link",
+		"@_name": "contextmenu_savelink"
+	},
+	{
+		"#text": "Send email",
+		"@_name": "contextmenu_send_mail"
+	},
+	{
+		"#text": "Share image",
+		"@_name": "contextmenu_share_imege"
+	},
+	{
+		"#text": "Show image",
+		"@_name": "contextmenu_show_image"
+	},
+	{
+		"#text": "Open image",
+		"@_name": "contextmenu_view_image"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "copy"
+	},
+	{
+		"#text": "Copy all",
+		"@_name": "copyAll"
+	},
+	{
+		"#text": "Copy URL",
+		"@_name": "copy_page_url"
+	},
+	{
+		"#text": "\"Couldn't create directory for saved page\"",
+		"@_name": "create_folder_fail"
+	},
+	{
+		"#text": "Connected to cellular network now. Continuing downloading will consume your data.",
+		"@_name": "currently_in_mobile_network"
+	},
+	{
+		"#text": "Using WLAN now",
+		"@_name": "currently_in_wifi_network"
+	},
+	{
+		"#text": "Network exception, please reconnect",
+		"@_name": "currently_network_error"
+	},
+	{
+		"#text": "Custom Type",
+		"@_name": "custom_type"
+	},
+	{
+		"#text": "Cut",
+		"@_name": "cut"
+	},
+	{
+		"#text": "\"Oops，Browser have an unexpected need to reset database\nPlease click repair and then restart Browser\"",
+		"@_name": "database_crash_empty_list_tip"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "New tab",
+		"@_name": "deck_view_default_title"
+	},
+	{
+		"#text": "Nothing here",
+		"@_name": "deck_view_empty_message"
+	},
+	{
+		"#text": "Bookmarks",
+		"@_name": "default_bookmarks_folder"
+	},
+	{
+		"#text": "Default directory",
+		"@_name": "default_folder"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "399020831188-4dun8oim3lqo49pd9avp0q9in82p7e4m.apps.googleusercontent.com",
+		"@_name": "default_web_client_id"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Delete bookmark \\\"%s\\\"?",
+		"@_name": "delete_bookmark_warning"
+	},
+	{
+		"#text": "Deletion failed",
+		"@_name": "delete_failture"
+	},
+	{
+		"#text": "Delete folder %1$s",
+		"@_name": "delete_folder"
+	},
+	{
+		"#text": "Deleted",
+		"@_name": "delete_success"
+	},
+	{
+		"#text": "Disable auto-fill",
+		"@_name": "disable_autofill"
+	},
+	{
+		"#text": "Disk",
+		"@_name": "disk_to_save"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "do_not_save"
+	},
+	{
+		"#text": "Do not track",
+		"@_name": "do_not_track"
+	},
+	{
+		"#text": "Third parties and advertisers only",
+		"@_name": "do_not_track_summary"
+	},
+	{
+		"#text": "Done",
+		"@_name": "done"
+	},
+	{
+		"#text": "This document is not supported",
+		"@_name": "dont_support_doc_type"
+	},
+	{
+		"#text": "Downloads",
+		"@_name": "download"
+	},
+	{
+		"#text": "Querying...",
+		"@_name": "download_dialog_query"
+	},
+	{
+		"#text": "Download error",
+		"@_name": "download_error"
+	},
+	{
+		"#text": "No available network",
+		"@_name": "download_interupter_error"
+	},
+	{
+		"#text": "Network unavailable. Please choose another network.",
+		"@_name": "download_interupter_error_no_network"
+	},
+	{
+		"#text": "Download",
+		"@_name": "download_management"
+	},
+	{
+		"#text": "Download",
+		"@_name": "download_management_drag_menu"
+	},
+	{
+		"#text": "SD card is required to download %s.",
+		"@_name": "download_no_sdcard_dlg_msg"
+	},
+	{
+		"#text": "No SD card",
+		"@_name": "download_no_sdcard_dlg_title"
+	},
+	{
+		"#text": "Repair",
+		"@_name": "download_now"
+	},
+	{
+		"#text": "Unknown download",
+		"@_name": "download_original_file"
+	},
+	{
+		"#text": "Download path",
+		"@_name": "download_path"
+	},
+	{
+		"#text": "Download pause",
+		"@_name": "download_pause"
+	},
+	{
+		"#text": "Starting download",
+		"@_name": "download_pending"
+	},
+	{
+		"#text": "Safe",
+		"@_name": "download_safe"
+	},
+	{
+		"#text": "SD card",
+		"@_name": "download_sdcard"
+	},
+	{
+		"#text": "The SD card is busy. To allow downloads, touch \\\"Turn Off USB Storage\\\" in the notification.",
+		"@_name": "download_sdcard_busy_dlg_msg"
+	},
+	{
+		"#text": "SD card unavailable",
+		"@_name": "download_sdcard_busy_dlg_title"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "downloading"
+	},
+	{
+		"#text": "Edit bookmark",
+		"@_name": "edit_bookmark"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "edit_channel"
+	},
+	{
+		"#text": "Edit file",
+		"@_name": "edit_file"
+	},
+	{
+		"#text": "No Bookmarks",
+		"@_name": "empty_bookmarks_folder"
+	},
+	{
+		"#text": "No History",
+		"@_name": "empty_history"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "empty_list_refresh"
+	},
+	{
+		"#text": "No Network Connection",
+		"@_name": "empty_list_tap_retry"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "empty_loading"
+	},
+	{
+		"#text": "You can save webpages to read later offline",
+		"@_name": "empty_offline_webpage_folder"
+	},
+	{
+		"#text": "No Saved Webpages",
+		"@_name": "empty_offline_webpage_folder_tips"
+	},
+	{
+		"#text": "Frequently reviewed. Please try later",
+		"@_name": "error_add_comment_limit_error"
+	},
+	{
+		"#text": "Submitting exception. Please try again",
+		"@_name": "error_add_comment_unauthorized_error"
+	},
+	{
+		"#text": "Network exception. Please try again",
+		"@_name": "error_comment_server_error"
+	},
+	{
+		"#text": "Evaluate",
+		"@_name": "error_console_eval_button_text"
+	},
+	{
+		"#text": "Evaluate JavaScript",
+		"@_name": "error_console_eval_text_hint"
+	},
+	{
+		"#text": "JavaScript console",
+		"@_name": "error_console_header_text_maximized"
+	},
+	{
+		"#text": "Show JavaScript console",
+		"@_name": "error_console_header_text_minimized"
+	},
+	{
+		"#text": "Network error. Please retry",
+		"@_name": "error_load_comment_unauthorized_error"
+	},
+	{
+		"#text": "Reload when network error occurs",
+		"@_name": "errornetreload"
+	},
+	{
+		"#text": "Expand",
+		"@_name": "expand"
+	},
+	{
+		"#text": "Contact package carrier",
+		"@_name": "express_dial_phone"
+	},
+	{
+		"#text": "Fast Install",
+		"@_name": "fast_install"
+	},
+	{
+		"#text": "Bug",
+		"@_name": "feedback_bug"
+	},
+	{
+		"#text": "Category",
+		"@_name": "feedback_category"
+	},
+	{
+		"#text": "Description",
+		"@_name": "feedback_des"
+	},
+	{
+		"#text": "Give your idea or suggestion",
+		"@_name": "feedback_des_hint"
+	},
+	{
+		"#text": "Email",
+		"@_name": "feedback_email"
+	},
+	{
+		"#text": "Enter your email address for us to contact you",
+		"@_name": "feedback_email_hint"
+	},
+	{
+		"#text": "Please enter a correct email address",
+		"@_name": "feedback_email_limit"
+	},
+	{
+		"#text": "Help",
+		"@_name": "feedback_help"
+	},
+	{
+		"#text": "Images should be no more than 4 MB each",
+		"@_name": "feedback_image_oversize"
+	},
+	{
+		"#text": "Submit",
+		"@_name": "feedback_submit"
+	},
+	{
+		"#text": "Feedback has been submitted successfully.",
+		"@_name": "feedback_submit_success"
+	},
+	{
+		"#text": "Submitting...",
+		"@_name": "feedback_submiting"
+	},
+	{
+		"#text": "Failed to submit. Please try again later.",
+		"@_name": "feedback_submiting_fail"
+	},
+	{
+		"#text": "Submitted",
+		"@_name": "feedback_submiting_success"
+	},
+	{
+		"#text": "At least 10 characters",
+		"@_name": "feedback_suggest_limit"
+	},
+	{
+		"#text": "Suggestion",
+		"@_name": "feedback_suggestion"
+	},
+	{
+		"#text": "File name",
+		"@_name": "file_name"
+	},
+	{
+		"#text": "File name cannot be empty",
+		"@_name": "file_name_empty"
+	},
+	{
+		"#text": "%1$s file(s) selected, %2$s MB in total",
+		"@_name": "file_selected_number"
+	},
+	{
+		"#text": "Find on page",
+		"@_name": "find_on_page"
+	},
+	{
+		"#text": "\"Find on page\n\"",
+		"@_name": "find_on_page_drag_menu"
+	},
+	{
+		"#text": "Done",
+		"@_name": "finish_edit_channel"
+	},
+	{
+		"#text": "https://test-6d12e.firebaseio.com",
+		"@_name": "firebase_database_url"
+	},
+	{
+		"#text": "%d floor",
+		"@_name": "floor_child_name"
+	},
+	{
+		"#text": "There are %d replies",
+		"@_name": "floor_count"
+	},
+	{
+		"#text": "Thread starter",
+		"@_name": "floor_master_name"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "Directory",
+		"@_name": "folder"
+	},
+	{
+		"#text": "New tab",
+		"@_name": "forcetouch_new_page"
+	},
+	{
+		"#text": "Go to Bookmark",
+		"@_name": "forcetouch_open_bookmark"
+	},
+	{
+		"#text": "Open custom screen",
+		"@_name": "forcetouch_open_custom"
+	},
+	{
+		"#text": "Search",
+		"@_name": "forcetouch_search"
+	},
+	{
+		"#text": "Forward",
+		"@_name": "forward"
+	},
+	{
+		"#text": "FrameAnimLib",
+		"@_name": "frame_anim_lib_name"
+	},
+	{
+		"#text": "Full screen mode",
+		"@_name": "full_screen_mode"
+	},
+	{
+		"#text": 399020831188,
+		"@_name": "gcm_defaultSenderId"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "geolocation_permissions_prompt_dont_share"
+	},
+	{
+		"#text": "The website %s needs to use your location to provide more accurate search results.",
+		"@_name": "geolocation_permissions_prompt_message"
+	},
+	{
+		"#text": "Remember my choice",
+		"@_name": "geolocation_permissions_prompt_remember"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "geolocation_permissions_prompt_share"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "geolocation_settings_page_dialog_cancel_button"
+	},
+	{
+		"#text": "Clear location access for this website?",
+		"@_name": "geolocation_settings_page_dialog_message"
+	},
+	{
+		"#text": "OK",
+		"@_name": "geolocation_settings_page_dialog_ok_button"
+	},
+	{
+		"#text": "This site can access your location.",
+		"@_name": "geolocation_settings_page_summary_allowed"
+	},
+	{
+		"#text": "\"This site can't access your location.\"",
+		"@_name": "geolocation_settings_page_summary_not_allowed"
+	},
+	{
+		"#text": "Clear location access for this website",
+		"@_name": "geolocation_settings_page_title"
+	},
+	{
+		"#text": "Swipe on the edge of the screen to operate",
+		"@_name": "gesture_back_forward_info"
+	},
+	{
+		"#text": "Go to",
+		"@_name": "go_to"
+	},
+	{
+		"#text": "AIzaSyCBb_6N5VS9VK9xifU3T0Vbzlq1N_nG_0s",
+		"@_name": "google_api_key"
+	},
+	{
+		"#text": "1:399020831188:android:1e1bba02a99b5401",
+		"@_name": "google_app_id"
+	},
+	{
+		"#text": "AIzaSyCBb_6N5VS9VK9xifU3T0Vbzlq1N_nG_0s",
+		"@_name": "google_crash_reporting_api_key"
+	},
+	{
+		"#text": "test-6d12e.appspot.com",
+		"@_name": "google_storage_bucket"
+	},
+	{
+		"#text": "Downloading with mobile network?",
+		"@_name": "gps_prompt_context"
+	},
+	{
+		"#text": "Tips",
+		"@_name": "gps_prompt_title"
+	},
+	{
+		"#text": "Slide right to go previous page",
+		"@_name": "guide_back_forward_back"
+	},
+	{
+		"#text": "Slide left to go next page",
+		"@_name": "guide_back_forward_forward"
+	},
+	{
+		"#text": "Data Backup",
+		"@_name": "guide_view_backup_title"
+	},
+	{
+		"#text": "Experience Now",
+		"@_name": "guide_view_btn_cancel_text"
+	},
+	{
+		"#text": "立即开启",
+		"@_name": "guide_view_cancel_text"
+	},
+	{
+		"#text": "跳过",
+		"@_name": "guide_view_jump"
+	},
+	{
+		"#text": "Safely save bookmark",
+		"@_name": "guide_view_olympic_sub_title"
+	},
+	{
+		"#text": "动手吧，这次绝不手软！",
+		"@_name": "guide_view_sub_title_1"
+	},
+	{
+		"#text": "换个方向，视界不一样",
+		"@_name": "guide_view_sub_title_2"
+	},
+	{
+		"#text": "手动屏蔽广告",
+		"@_name": "guide_view_title_1"
+	},
+	{
+		"#text": "首页横屏",
+		"@_name": "guide_view_title_2"
+	},
+	{
+		"#text": "极速开启",
+		"@_name": "guide_view_uc_cancel_btn_text"
+	},
+	{
+		"#text": "体积更小，加载更快",
+		"@_name": "guide_view_uc_sub_title"
+	},
+	{
+		"#text": "281 项优化，只为让你体验最佳",
+		"@_name": "guide_view_uc_sub_title_2"
+	},
+	{
+		"#text": "全新引擎，体积压缩 25%",
+		"@_name": "guide_view_uc_title"
+	},
+	{
+		"#text": "Has mark read",
+		"@_name": "has_mark_read"
+	},
+	{
+		"#text": "Has mark unread",
+		"@_name": "has_mark_unread"
+	},
+	{
+		"#text": "History",
+		"@_name": "history"
+	},
+	{
+		"#text": "Latest news for you",
+		"@_name": "home_zixun_tips"
+	},
+	{
+		"#text": "Use current page",
+		"@_name": "homepage_current_page"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "homepage_custom"
+	},
+	{
+		"#text": "Navigation page",
+		"@_name": "homepage_navigation"
+	},
+	{
+		"#text": "Homepage shortcuts",
+		"@_name": "homepage_shortcut"
+	},
+	{
+		"#text": "Wonderful comments",
+		"@_name": "hot_comment"
+	},
+	{
+		"#text": "Hot search",
+		"@_name": "hot_search"
+	},
+	{
+		"#text": "http://",
+		"@_name": "http"
+	},
+	{
+		"#text": "million x100",
+		"@_name": "hundredMillion"
+	},
+	{
+		"#text": "%d pictures",
+		"@_name": "image_card_text"
+	},
+	{
+		"#text": "Show image only on WLAN",
+		"@_name": "image_only_in_wifi"
+	},
+	{
+		"#text": "Saving failed",
+		"@_name": "image_save_fail"
+	},
+	{
+		"#text": "Saved to \\\"Download/Browser/\\\"",
+		"@_name": "image_save_title"
+	},
+	{
+		"#text": "Immersive browsing",
+		"@_name": "immersive_mode"
+	},
+	{
+		"#text": "Slide up to hide toolbar",
+		"@_name": "immersive_summary"
+	},
+	{
+		"#text": "Google Mobile Services is required to shop online. Download GMS?",
+		"@_name": "install_GMS"
+	},
+	{
+		"#text": "Install",
+		"@_name": "install_app"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "installing"
+	},
+	{
+		"#text": "Details",
+		"@_name": "interstitial_default_button_text"
+	},
+	{
+		"#text": "com.chaozh.iReader.plug.sdk",
+		"@_name": "ireader_plug_process_name"
+	},
+	{
+		"#text": "6E1C60016AA6CDAB4CC41F1049E03FD7",
+		"@_name": "ireader_sign_data"
+	},
+	{
+		"#text": "kEHrDooxWHCWt",
+		"@_name": "ireader_sign_pass_part1"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Set JS flags",
+		"@_name": "js_engine_flags"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "just_now"
+	},
+	{
+		"#text": "Feedback",
+		"@_name": "label_feedback"
+	},
+	{
+		"#text": "عربي(العربية)",
+		"@_name": "lan_ar_ab"
+	},
+	{
+		"#text": "العربية السعودية(العربية)",
+		"@_name": "lan_ar_sa"
+	},
+	{
+		"#text": "български(български)",
+		"@_name": "lan_bg_bg"
+	},
+	{
+		"#text": "Česká Republika(Čeština)",
+		"@_name": "lan_cs_cz"
+	},
+	{
+		"#text": "Danmark(Dansk)",
+		"@_name": "lan_da_dk"
+	},
+	{
+		"#text": "Österreich(Deutsch)",
+		"@_name": "lan_de_at"
+	},
+	{
+		"#text": "Schweiz(Deutsch)",
+		"@_name": "lan_de_ch"
+	},
+	{
+		"#text": "Deutschland(Deutsch)",
+		"@_name": "lan_de_de"
+	},
+	{
+		"#text": "Australia(English)",
+		"@_name": "lan_en_au"
+	},
+	{
+		"#text": "Canada(English)",
+		"@_name": "lan_en_ca"
+	},
+	{
+		"#text": "United Kingdom(English)",
+		"@_name": "lan_en_gb"
+	},
+	{
+		"#text": "India(English)",
+		"@_name": "lan_en_in"
+	},
+	{
+		"#text": "မြန်မာ(မြန်မာ)",
+		"@_name": "lan_en_mm"
+	},
+	{
+		"#text": "Malaysia(English)",
+		"@_name": "lan_en_my"
+	},
+	{
+		"#text": "Singapore(English)",
+		"@_name": "lan_en_sg"
+	},
+	{
+		"#text": "USA(English)",
+		"@_name": "lan_en_us"
+	},
+	{
+		"#text": "International(English)",
+		"@_name": "lan_en_wd"
+	},
+	{
+		"#text": "España(Español)",
+		"@_name": "lan_es_es"
+	},
+	{
+		"#text": "America latina(Español)",
+		"@_name": "lan_es_lm"
+	},
+	{
+		"#text": "México(Español)",
+		"@_name": "lan_es_mx"
+	},
+	{
+		"#text": "Suisse(Français)",
+		"@_name": "lan_fr_ch"
+	},
+	{
+		"#text": "France(Français)",
+		"@_name": "lan_fr_fr"
+	},
+	{
+		"#text": "इंडिया(हिंदी)",
+		"@_name": "lan_hi_in"
+	},
+	{
+		"#text": "Hrvatska(Hrvatski)",
+		"@_name": "lan_hr_hr"
+	},
+	{
+		"#text": "Magyarország(magyar)",
+		"@_name": "lan_hu_hu"
+	},
+	{
+		"#text": "Indonesia(Bahasa Indonesia)",
+		"@_name": "lan_id_id"
+	},
+	{
+		"#text": "Italia(Italiano)",
+		"@_name": "lan_it_it"
+	},
+	{
+		"#text": "日本(日本語)",
+		"@_name": "lan_ja_jp"
+	},
+	{
+		"#text": "Nederland(Nederlands)",
+		"@_name": "lan_nl_nl"
+	},
+	{
+		"#text": "Norge(Norsk språk)",
+		"@_name": "lan_no_no"
+	},
+	{
+		"#text": "Polska(Polski)",
+		"@_name": "lan_pl_pl"
+	},
+	{
+		"#text": "România(Românesc)",
+		"@_name": "lan_ro_ro"
+	},
+	{
+		"#text": "Россия(Pусский)",
+		"@_name": "lan_ru_ru"
+	},
+	{
+		"#text": "Україна(Український)",
+		"@_name": "lan_ru_ua"
+	},
+	{
+		"#text": "Slovensko(Slovenský jazyk)",
+		"@_name": "lan_sk_sk"
+	},
+	{
+		"#text": "Slovenija(Slovenski)",
+		"@_name": "lan_sl_si"
+	},
+	{
+		"#text": "Србија(Srpski језик)",
+		"@_name": "lan_sr_rs"
+	},
+	{
+		"#text": "Sverige(Svenska)",
+		"@_name": "lan_sv_se"
+	},
+	{
+		"#text": "இந்தியா(தமிழ்)",
+		"@_name": "lan_ta_in"
+	},
+	{
+		"#text": "ประเทศไทย(ไทย)",
+		"@_name": "lan_th_th"
+	},
+	{
+		"#text": "Türkiye(Türk)",
+		"@_name": "lan_tr_tr"
+	},
+	{
+		"#text": "Việt Nam(Tiếng Việt)",
+		"@_name": "lan_vi_vn"
+	},
+	{
+		"#text": "中国(简体中文)",
+		"@_name": "lan_zh_cn"
+	},
+	{
+		"#text": "香港(繁體中文)",
+		"@_name": "lan_zh_hk"
+	},
+	{
+		"#text": "台灣(繁體中文)",
+		"@_name": "lan_zh_tw"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loadding_more"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading_error"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading_more"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "loading_text"
+	},
+	{
+		"#text": "Local",
+		"@_name": "local_bookmarks"
+	},
+	{
+		"#text": "URL",
+		"@_name": "location"
+	},
+	{
+		"#text": "%d tabs at most",
+		"@_name": "max_tabs_warning"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "Days After",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "Days Before",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Meizu Headlines",
+		"@_name": "meizu_taotiao"
+	},
+	{
+		"#text": "Write a review",
+		"@_name": "menu_add_comment"
+	},
+	{
+		"#text": "Add reply",
+		"@_name": "menu_add_reply_comment"
+	},
+	{
+		"#text": "Clear history",
+		"@_name": "menu_clear_history"
+	},
+	{
+		"#text": "Desktop site",
+		"@_name": "menu_desktop_mode"
+	},
+	{
+		"#text": "Edit",
+		"@_name": "menu_edit"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "menu_exit"
+	},
+	{
+		"#text": "Log out",
+		"@_name": "menu_exit_drag_menu"
+	},
+	{
+		"#text": "Delete history",
+		"@_name": "menu_more_clear_history"
+	},
+	{
+		"#text": "Clear history",
+		"@_name": "menu_more_clear_history_dlg"
+	},
+	{
+		"#text": "Night mode",
+		"@_name": "menu_night_mode"
+	},
+	{
+		"#text": "\"Night\n\"",
+		"@_name": "menu_night_mode_drag_menu"
+	},
+	{
+		"#text": "No image mode",
+		"@_name": "menu_no_image_mode"
+	},
+	{
+		"#text": "No Images",
+		"@_name": "menu_no_image_mode_drag_menu"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "menu_preferences"
+	},
+	{
+		"#text": "\"Settings\n\"",
+		"@_name": "menu_preferences_drag_menu"
+	},
+	{
+		"#text": "Incognito",
+		"@_name": "menu_pri_mode"
+	},
+	{
+		"#text": "Save page",
+		"@_name": "menu_save_snapshot"
+	},
+	{
+		"#text": "\"Save page\n\"",
+		"@_name": "menu_save_snapshot_drag_menu"
+	},
+	{
+		"#text": "Share",
+		"@_name": "menu_share_url"
+	},
+	{
+		"#text": "\"Share\n\"",
+		"@_name": "menu_share_url_drag_menu"
+	},
+	{
+		"#text": "Open new tab",
+		"@_name": "menupage_toolbar_new_page"
+	},
+	{
+		"#text": "minutes ago",
+		"@_name": "minute_ago"
+	},
+	{
+		"#text": "minutes ago",
+		"@_name": "minutes_ago"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "mobile_data_connect_disable"
+	},
+	{
+		"#text": "Connect",
+		"@_name": "mobile_data_connect_enable"
+	},
+	{
+		"#text": "Desktop",
+		"@_name": "mobile_desktop"
+	},
+	{
+		"#text": "app desc",
+		"@_name": "mobvista_reward_appdesc"
+	},
+	{
+		"#text": "app title",
+		"@_name": "mobvista_reward_apptitle"
+	},
+	{
+		"#text": "Play Game",
+		"@_name": "mobvista_reward_clickable_cta_btntext"
+	},
+	{
+		"#text": "AD",
+		"@_name": "mobvista_reward_endcard_ad"
+	},
+	{
+		"#text": "Do you want to learn more?",
+		"@_name": "mobvista_reward_endcard_vast_notice"
+	},
+	{
+		"#text": "Install Now",
+		"@_name": "mobvista_reward_install"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "My channels",
+		"@_name": "my_channel"
+	},
+	{
+		"#text": "My messages",
+		"@_name": "my_remind"
+	},
+	{
+		"#text": "Reply %s:",
+		"@_name": "my_remind_edt_hint"
+	},
+	{
+		"#text": "Reply",
+		"@_name": "my_remind_reply"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Delete after sharing",
+		"@_name": "mz_share_view_checkbox_text"
+	},
+	{
+		"#text": "Share To",
+		"@_name": "mz_share_view_title"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Tag",
+		"@_name": "name"
+	},
+	{
+		"#text": "Name and URL",
+		"@_name": "name_and_url"
+	},
+	{
+		"#text": "Part of functions of the browser is temporarily unavailable according to the regulations of the Ministry of Public Security. Please try again later",
+		"@_name": "net_supervisor_info_default"
+	},
+	{
+		"#text": "New bookmark",
+		"@_name": "new_bookmark_title"
+	},
+	{
+		"#text": "New folder",
+		"@_name": "new_folder"
+	},
+	{
+		"#text": "New incognito tab",
+		"@_name": "new_incognito_tab"
+	},
+	{
+		"#text": "New tab",
+		"@_name": "new_tab"
+	},
+	{
+		"#text": "Here is where you stopped. Tap to refresh.",
+		"@_name": "news_article_read_hint"
+	},
+	{
+		"#text": "No subfolders",
+		"@_name": "no_subfolders"
+	},
+	{
+		"#text": "No longer prompt",
+		"@_name": "notTip"
+	},
+	{
+		"#text": "Not logged in",
+		"@_name": "not_login"
+	},
+	{
+		"#text": "Not yet synced",
+		"@_name": "not_yet_sync_info"
+	},
+	{
+		"#text": "OK",
+		"@_name": "ok"
+	},
+	{
+		"#text": "OK",
+		"@_name": "okay_action"
+	},
+	{
+		"#text": "Earlier",
+		"@_name": "older"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "onews__pr_load_more"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "onews__pr_refreshing_label"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "onews_settings_activity_title"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "onews_settings_clean_cache_dialog_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "onews_settings_clean_cache_dialog_clear"
+	},
+	{
+		"#text": "Clean all caches?",
+		"@_name": "onews_settings_clean_cache_dialog_tips"
+	},
+	{
+		"#text": "Clean cache",
+		"@_name": "onews_settings_clean_cache_label"
+	},
+	{
+		"#text": "1.0.0",
+		"@_name": "onews_settings_default_software_version"
+	},
+	{
+		"#text": "Language",
+		"@_name": "onews_settings_language_title"
+	},
+	{
+		"#text": "Night mode",
+		"@_name": "onews_settings_night_mode_label"
+	},
+	{
+		"#text": "NR detail",
+		"@_name": "onews_settings_nr_detail_label"
+	},
+	{
+		"#text": "Show image",
+		"@_name": "onews_settings_nr_list_label"
+	},
+	{
+		"#text": "Version",
+		"@_name": "onews_settings_software_version_label"
+	},
+	{
+		"#text": "Videos",
+		"@_name": "onews_tab_video"
+	},
+	{
+		"#text": "Open",
+		"@_name": "open_app"
+	},
+	{
+		"#text": "Incognito mode enabled",
+		"@_name": "open_incognito_mode"
+	},
+	{
+		"#text": "Other bookmarks",
+		"@_name": "other_bookmarks"
+	},
+	{
+		"#text": "Page info",
+		"@_name": "page_info"
+	},
+	{
+		"#text": "\"URL: \"",
+		"@_name": "page_info_address"
+	},
+	{
+		"#text": "View page info",
+		"@_name": "page_info_view"
+	},
+	{
+		"#text": "Oops, this page is temporarily unavailable",
+		"@_name": "page_temporarily_unavailable"
+	},
+	{
+		"#text": "Password",
+		"@_name": "password"
+	},
+	{
+		"#text": "Toggle password visibility",
+		"@_name": "password_toggle_content_description"
+	},
+	{
+		"#text": "Paste",
+		"@_name": "paste"
+	},
+	{
+		"#text": "Paste and go to",
+		"@_name": "paste_and_goto"
+	},
+	{
+		"#text": "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z",
+		"@_name": "path_password_eye"
+	},
+	{
+		"#text": "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_strike_through"
+	},
+	{
+		"#text": "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z",
+		"@_name": "path_password_eye_mask_visible"
+	},
+	{
+		"#text": "M3.27,4.27 L19.74,20.74",
+		"@_name": "path_password_strike_through"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "pengyouquan"
+	},
+	{
+		"#text": "Preload results",
+		"@_name": "permission_preload_label"
+	},
+	{
+		"#text": "Personal Center",
+		"@_name": "personal_center"
+	},
+	{
+		"#text": "Cloud Sync",
+		"@_name": "personal_sync_center_title"
+	},
+	{
+		"#text": "Picture quality",
+		"@_name": "pic_quality"
+	},
+	{
+		"#text": "WLAN network available. Connect?",
+		"@_name": "pick_wifi_message"
+	},
+	{
+		"#text": "No",
+		"@_name": "pick_wifi_no"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "pick_wifi_title"
+	},
+	{
+		"#text": "Yes",
+		"@_name": "pick_wifi_yes"
+	},
+	{
+		"#text": "Play online",
+		"@_name": "play_online"
+	},
+	{
+		"#text": "Allow this site to open a pop-up window?",
+		"@_name": "popup_window_attempt"
+	},
+	{
+		"#text": "Allow multiple tabs per app",
+		"@_name": "pref_allow_apptabs"
+	},
+	{
+		"#text": "Form auto-fill",
+		"@_name": "pref_autofill_enabled"
+	},
+	{
+		"#text": "Fill out web forms with a single tap",
+		"@_name": "pref_autofill_enabled_summary"
+	},
+	{
+		"#text": "Logging in to Google sites using %s",
+		"@_name": "pref_autologin_progress"
+	},
+	{
+		"#text": "Automatic Google login",
+		"@_name": "pref_autologin_title"
+	},
+	{
+		"#text": "Auto-fit pages",
+		"@_name": "pref_content_autofit"
+	},
+	{
+		"#text": "Format webpages to fit the screen",
+		"@_name": "pref_content_autofit_summary"
+	},
+	{
+		"#text": "Block pop-ups",
+		"@_name": "pref_content_block_popups"
+	},
+	{
+		"#text": "Set homepage",
+		"@_name": "pref_content_homepage"
+	},
+	{
+		"#text": "JavaScript",
+		"@_name": "pref_content_javascript"
+	},
+	{
+		"#text": "Landscape view",
+		"@_name": "pref_content_landscape_only"
+	},
+	{
+		"#text": "Load images",
+		"@_name": "pref_content_load_images"
+	},
+	{
+		"#text": "Show images on page",
+		"@_name": "pref_content_load_images_summary"
+	},
+	{
+		"#text": "Open pages in overview mode",
+		"@_name": "pref_content_load_page"
+	},
+	{
+		"#text": "Show overview of newly-opened pages",
+		"@_name": "pref_content_load_page_summary"
+	},
+	{
+		"#text": "Open in background",
+		"@_name": "pref_content_open_in_background"
+	},
+	{
+		"#text": "Open new tab behind current tab",
+		"@_name": "pref_content_open_in_background_summary"
+	},
+	{
+		"#text": "Enable Flash",
+		"@_name": "pref_content_plugins"
+	},
+	{
+		"#text": "Incognito mode",
+		"@_name": "pref_content_private_browse"
+	},
+	{
+		"#text": "Search engine",
+		"@_name": "pref_content_search_engine"
+	},
+	{
+		"#text": "Select search engine",
+		"@_name": "pref_content_search_engine_summary"
+	},
+	{
+		"#text": "Page content",
+		"@_name": "pref_content_title"
+	},
+	{
+		"#text": "WIFI_ONLY",
+		"@_name": "pref_data_preload_default_value"
+	},
+	{
+		"#text": "Preload search results",
+		"@_name": "pref_data_preload_dialogtitle"
+	},
+	{
+		"#text": "Allow browser to preload high confidence search results in the background",
+		"@_name": "pref_data_preload_summary"
+	},
+	{
+		"#text": "Preload search results",
+		"@_name": "pref_data_preload_title"
+	},
+	{
+		"#text": "ALWAYS",
+		"@_name": "pref_data_preload_value_always"
+	},
+	{
+		"#text": "WIFI_ONLY",
+		"@_name": "pref_data_preload_value_wifi_only"
+	},
+	{
+		"#text": "Text encoding",
+		"@_name": "pref_default_text_encoding"
+	},
+	{
+		"#text": "auto-detector",
+		"@_name": "pref_default_text_encoding_default"
+	},
+	{
+		"#text": "Text encoding",
+		"@_name": "pref_default_text_encoding_dialogtitle"
+	},
+	{
+		"#text": "Default zoom",
+		"@_name": "pref_default_zoom"
+	},
+	{
+		"#text": "Default zoom",
+		"@_name": "pref_default_zoom_dialogtitle"
+	},
+	{
+		"#text": "Enable Cpu Upload Path",
+		"@_name": "pref_development_cpu_upload_path"
+	},
+	{
+		"#text": "Show JavaScript Console",
+		"@_name": "pref_development_error_console"
+	},
+	{
+		"#text": "Enable OpenGL Rendering",
+		"@_name": "pref_development_hardware_accel"
+	},
+	{
+		"#text": "Enable HW Accelerated Skia",
+		"@_name": "pref_development_hardware_accel_skia"
+	},
+	{
+		"#text": "Enable nav cache dump",
+		"@_name": "pref_development_nav_dump"
+	},
+	{
+		"#text": "Normal rendering",
+		"@_name": "pref_development_normal_rendering"
+	},
+	{
+		"#text": "Reset prelogin",
+		"@_name": "pref_development_reset_prelogin"
+	},
+	{
+		"#text": "Single column rendering",
+		"@_name": "pref_development_single_column_rendering"
+	},
+	{
+		"#text": "Developer options",
+		"@_name": "pref_development_title"
+	},
+	{
+		"#text": "Enable tracing",
+		"@_name": "pref_development_trace"
+	},
+	{
+		"#text": "UAString",
+		"@_name": "pref_development_uastring"
+	},
+	{
+		"#text": "Use wide viewport",
+		"@_name": "pref_development_viewport"
+	},
+	{
+		"#text": "Enable Visual Indicator",
+		"@_name": "pref_development_visual_indicator"
+	},
+	{
+		"#text": "Reset to default",
+		"@_name": "pref_extras_reset_default"
+	},
+	{
+		"#text": "Reset to default",
+		"@_name": "pref_extras_reset_default_dlg"
+	},
+	{
+		"#text": "Reset to default",
+		"@_name": "pref_extras_reset_default_summary"
+	},
+	{
+		"#text": "Revert to default settings?",
+		"@_name": "pref_extras_reset_default_title"
+	},
+	{
+		"#text": "Website settings",
+		"@_name": "pref_extras_website_settings"
+	},
+	{
+		"#text": "Advanced settings for individual websites",
+		"@_name": "pref_extras_website_settings_summary"
+	},
+	{
+		"#text": "Auto-fill",
+		"@_name": "pref_general_autofill_title"
+	},
+	{
+		"#text": "Full screen",
+		"@_name": "pref_lab_fullscreen"
+	},
+	{
+		"#text": "Use full screen mode to hide the status bar",
+		"@_name": "pref_lab_fullscreen_summary"
+	},
+	{
+		"#text": "Quick controls",
+		"@_name": "pref_lab_quick_controls"
+	},
+	{
+		"#text": "Slide thumb from the left or right edge to open quick controls and hide app and URL bars",
+		"@_name": "pref_lab_quick_controls_summary"
+	},
+	{
+		"#text": "@string/pref_link_prefetch_value_wifi_only",
+		"@_name": "pref_link_prefetch_default_value"
+	},
+	{
+		"#text": "Page preloading",
+		"@_name": "pref_link_prefetch_dialogtitle"
+	},
+	{
+		"#text": "Allow browser to preload linked pages in the background",
+		"@_name": "pref_link_prefetch_summary"
+	},
+	{
+		"#text": "Page preloading",
+		"@_name": "pref_link_prefetch_title"
+	},
+	{
+		"#text": "ALWAYS",
+		"@_name": "pref_link_prefetch_value_always"
+	},
+	{
+		"#text": "WIFI_ONLY",
+		"@_name": "pref_link_prefetch_value_wifi_only"
+	},
+	{
+		"#text": "Clear cache",
+		"@_name": "pref_privacy_clear_cache"
+	},
+	{
+		"#text": "Delete locally cached content and databases?",
+		"@_name": "pref_privacy_clear_cache_dlg"
+	},
+	{
+		"#text": "Clear locally cached content and databases",
+		"@_name": "pref_privacy_clear_cache_summary"
+	},
+	{
+		"#text": "Clear cookies",
+		"@_name": "pref_privacy_clear_cookies"
+	},
+	{
+		"#text": "Delete all cookies?",
+		"@_name": "pref_privacy_clear_cookies_dlg"
+	},
+	{
+		"#text": "Clear all browser cookies",
+		"@_name": "pref_privacy_clear_cookies_summary"
+	},
+	{
+		"#text": "Clear form data",
+		"@_name": "pref_privacy_clear_form_data"
+	},
+	{
+		"#text": "Delete all saved form data?",
+		"@_name": "pref_privacy_clear_form_data_dlg"
+	},
+	{
+		"#text": "Clear all saved form data",
+		"@_name": "pref_privacy_clear_form_data_summary"
+	},
+	{
+		"#text": "Clear location access",
+		"@_name": "pref_privacy_clear_geolocation_access"
+	},
+	{
+		"#text": "Delete website location access?",
+		"@_name": "pref_privacy_clear_geolocation_access_dlg"
+	},
+	{
+		"#text": "Clear location access for all websites",
+		"@_name": "pref_privacy_clear_geolocation_access_summary"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "pref_privacy_clear_history"
+	},
+	{
+		"#text": "Delete the browser navigation history?",
+		"@_name": "pref_privacy_clear_history_dlg"
+	},
+	{
+		"#text": "Clear the browser navigation history",
+		"@_name": "pref_privacy_clear_history_summary"
+	},
+	{
+		"#text": "Clear passwords",
+		"@_name": "pref_privacy_clear_passwords"
+	},
+	{
+		"#text": "Delete all saved passwords?",
+		"@_name": "pref_privacy_clear_passwords_dlg"
+	},
+	{
+		"#text": "Clear all saved passwords",
+		"@_name": "pref_privacy_clear_passwords_summary"
+	},
+	{
+		"#text": "Cookies",
+		"@_name": "pref_privacy_cookies_title"
+	},
+	{
+		"#text": "Turn on location",
+		"@_name": "pref_privacy_enable_geolocation"
+	},
+	{
+		"#text": "Allow sites to request access to your location",
+		"@_name": "pref_privacy_enable_geolocation_summary"
+	},
+	{
+		"#text": "Form data",
+		"@_name": "pref_privacy_formdata_title"
+	},
+	{
+		"#text": "Location",
+		"@_name": "pref_privacy_location_title"
+	},
+	{
+		"#text": "Toolbar arrangement",
+		"@_name": "pref_privacy_toolbar_sort"
+	},
+	{
+		"#text": "Remember passwords",
+		"@_name": "pref_save_user_account_and_password"
+	},
+	{
+		"#text": "Save usernames and passwords for websites",
+		"@_name": "pref_save_user_account_and_password_summary"
+	},
+	{
+		"#text": "Accept cookies",
+		"@_name": "pref_security_accept_cookies"
+	},
+	{
+		"#text": "Allow sites to save and read cookie data",
+		"@_name": "pref_security_accept_cookies_summary"
+	},
+	{
+		"#text": "Push notifications",
+		"@_name": "pref_security_accept_push_msg"
+	},
+	{
+		"#text": "Passwords",
+		"@_name": "pref_security_passwords_title"
+	},
+	{
+		"#text": "Remember passwords",
+		"@_name": "pref_security_remember_passwords"
+	},
+	{
+		"#text": "Save usernames and passwords for websites",
+		"@_name": "pref_security_remember_passwords_summary"
+	},
+	{
+		"#text": "Remember form data",
+		"@_name": "pref_security_save_form_data"
+	},
+	{
+		"#text": "Remember data I type in forms for later use",
+		"@_name": "pref_security_save_form_data_summary"
+	},
+	{
+		"#text": "Show security warnings",
+		"@_name": "pref_security_show_security_warning"
+	},
+	{
+		"#text": "\"Show warning if there is a problem with a site's security\"",
+		"@_name": "pref_security_show_security_warning_summary"
+	},
+	{
+		"#text": "Set as",
+		"@_name": "pref_set_homepage_to"
+	},
+	{
+		"#text": "Font size",
+		"@_name": "pref_set_text_degree"
+	},
+	{
+		"#text": "Auto-update",
+		"@_name": "pref_silent_upgrade_switch"
+	},
+	{
+		"#text": "Toolbar style",
+		"@_name": "pref_toolbar_style"
+	},
+	{
+		"#text": "Meizu Headlines settings",
+		"@_name": "pref_topic_news_setting"
+	},
+	{
+		"#text": "Ads appears. Long press it and block it",
+		"@_name": "preference_ad_block_empty_bg_text"
+	},
+	{
+		"#text": "No blocked ads",
+		"@_name": "preference_ad_block_empty_bg_title"
+	},
+	{
+		"#text": "Blocked %1$s ad(s)",
+		"@_name": "preference_ad_block_hit_count"
+	},
+	{
+		"#text": "Unblock",
+		"@_name": "preference_ad_block_manual_delete"
+	},
+	{
+		"#text": "Adblock manual setting",
+		"@_name": "preference_ad_block_manual_title"
+	},
+	{
+		"#text": "Block ads",
+		"@_name": "preference_ad_block_title"
+	},
+	{
+		"#text": "More",
+		"@_name": "preference_more"
+	},
+	{
+		"#text": "Setting wallpaper...",
+		"@_name": "progress_dialog_setting_wallpaper"
+	},
+	{
+		"#text": "test-6d12e",
+		"@_name": "project_id"
+	},
+	{
+		"#text": "tips",
+		"@_name": "prompt_dialog_default_title"
+	},
+	{
+		"#text": "%s applies for personal information",
+		"@_name": "prompt_dialog_header_title"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "ptr_go_Refreshing"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "ptr_is_Refreshing"
+	},
+	{
+		"#text": "MzPullRefreshLayout",
+		"@_name": "ptr_label"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "ptr_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "ptr_last_refresh_hour"
+	},
+	{
+		"#text": "just now",
+		"@_name": "ptr_last_refresh_just_now"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "ptr_last_refresh_minute"
+	},
+	{
+		"#text": "seconds ago",
+		"@_name": "ptr_last_refresh_second"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "ptr_pull_refresh"
+	},
+	{
+		"#text": "Pull down to mark as read",
+		"@_name": "pull_to_mark_read"
+	},
+	{
+		"#text": "Pull down to mark as unread",
+		"@_name": "pull_to_mark_unread"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "pull_to_refresh_tip"
+	},
+	{
+		"#text": "Ad",
+		"@_name": "rank_ad_banner"
+	},
+	{
+		"#text": "Reading mode",
+		"@_name": "reader"
+	},
+	{
+		"#text": "Loading error",
+		"@_name": "reader_loading_error"
+	},
+	{
+		"#text": "Loading the next page",
+		"@_name": "reader_loading_next_page"
+	},
+	{
+		"#text": "This is the last page",
+		"@_name": "reader_reach_end"
+	},
+	{
+		"#text": "Related recommendations",
+		"@_name": "recomend_arcticle_head_title"
+	},
+	{
+		"#text": "Recommended channels",
+		"@_name": "recommend_channel"
+	},
+	{
+		"#text": "Reset",
+		"@_name": "recovery"
+	},
+	{
+		"#text": "Recover tab",
+		"@_name": "recovery_tab"
+	},
+	{
+		"#text": "Resume unclosed pages on startup",
+		"@_name": "recovery_tab_info"
+	},
+	{
+		"#text": "Server error, please retry later",
+		"@_name": "refresh_failed_server_error"
+	},
+	{
+		"#text": "Network unstable, please retry later",
+		"@_name": "refresh_failed_time_out"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "refresh_success_no_data"
+	},
+	{
+		"#text": "Updated %1$d pieces of news",
+		"@_name": "refresh_success_with_data"
+	},
+	{
+		"#text": "Updated %1$d images",
+		"@_name": "refresh_success_with_image"
+	},
+	{
+		"#text": "Updated %1$d videos",
+		"@_name": "refresh_success_with_video"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "refreshing_tip"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "reload"
+	},
+	{
+		"#text": "\"Refresh\n\"",
+		"@_name": "reload_drag_menu"
+	},
+	{
+		"#text": "Refresh",
+		"@_name": "reload_page_temporarily_unavailable"
+	},
+	{
+		"#text": "Remember",
+		"@_name": "remember"
+	},
+	{
+		"#text": "Remember my choice",
+		"@_name": "remember_choice"
+	},
+	{
+		"#text": "Remember the password?",
+		"@_name": "remember_passwords"
+	},
+	{
+		"#text": "Me: %s",
+		"@_name": "remind_item_content_prefix"
+	},
+	{
+		"#text": "...",
+		"@_name": "remind_item_love_name_more_fix_prefix"
+	},
+	{
+		"#text": "etc.",
+		"@_name": "remind_item_love_name_more_prefix"
+	},
+	{
+		"#text": "%d users agree with your point of view",
+		"@_name": "remind_item_love_name_more_suffix"
+	},
+	{
+		"#text": "Agree with your point of view",
+		"@_name": "remind_item_love_name_one_suffix"
+	},
+	{
+		"#text": "The above is the latest %d messages",
+		"@_name": "remind_item_new_comment"
+	},
+	{
+		"#text": "replied to you: %s",
+		"@_name": "remind_item_reply_prefix"
+	},
+	{
+		"#text": "Replied",
+		"@_name": "remind_reply_success"
+	},
+	{
+		"#text": "No news, go to comment it",
+		"@_name": "remind_sofa_tip"
+	},
+	{
+		"#text": "Remove",
+		"@_name": "remove"
+	},
+	{
+		"#text": "Delete %s Bookmark(s)",
+		"@_name": "remove_bookmark_number"
+	},
+	{
+		"#text": "Delete %s Record(s)",
+		"@_name": "remove_history_number"
+	},
+	{
+		"#text": "Remove %s offline records",
+		"@_name": "remove_snapshot_number"
+	},
+	{
+		"#text": "All Replies",
+		"@_name": "reply_comment"
+	},
+	{
+		"#text": "RMB",
+		"@_name": "rmb_yuan"
+	},
+	{
+		"#text": "Save image",
+		"@_name": "s1"
+	},
+	{
+		"#text": "Allow Ad to store image in Picture gallery?",
+		"@_name": "s2"
+	},
+	{
+		"#text": "Accept",
+		"@_name": "s3"
+	},
+	{
+		"#text": "Decline",
+		"@_name": "s4"
+	},
+	{
+		"#text": "Create calendar event",
+		"@_name": "s5"
+	},
+	{
+		"#text": "Allow Ad to create a calendar event?",
+		"@_name": "s6"
+	},
+	{
+		"#text": "Test Ad",
+		"@_name": "s7"
+	},
+	{
+		"#text": "OK",
+		"@_name": "save"
+	},
+	{
+		"#text": "Unknown error",
+		"@_name": "save_page_unknown_error"
+	},
+	{
+		"#text": "Save to Notes",
+		"@_name": "save_to_note"
+	},
+	{
+		"#text": "Failed to save webpage",
+		"@_name": "saved_page_failed"
+	},
+	{
+		"#text": "Webpage saved successfully",
+		"@_name": "saved_page_succeed"
+	},
+	{
+		"#text": "Saving...",
+		"@_name": "saving_snapshot"
+	},
+	{
+		"#text": "Needs to access your camera to support code scanning",
+		"@_name": "scan_application_permission_message"
+	},
+	{
+		"#text": "No Results",
+		"@_name": "scan_frame_no_result_text_1"
+	},
+	{
+		"#text": "Re-scan",
+		"@_name": "scan_frame_no_result_text_2"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "scan_network_unavailable"
+	},
+	{
+		"#text": "No network, tap to set",
+		"@_name": "scan_no_network"
+	},
+	{
+		"#text": "No Results Found",
+		"@_name": "scan_no_result"
+	},
+	{
+		"#text": "Server error, tap to re-scan",
+		"@_name": "scan_server_error"
+	},
+	{
+		"#text": "Games",
+		"@_name": "sdk_label_game"
+	},
+	{
+		"#text": "Books",
+		"@_name": "sdk_label_novel"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search"
+	},
+	{
+		"#text": "The following contents are from the Internet search:",
+		"@_name": "search_ad_tip"
+	},
+	{
+		"#text": "Enter",
+		"@_name": "search_bar_right_btn_enter"
+	},
+	{
+		"#text": "search",
+		"@_name": "search_bar_right_btn_search"
+	},
+	{
+		"#text": "Start",
+		"@_name": "search_button_text"
+	},
+	{
+		"#text": "Change",
+		"@_name": "search_change_data"
+	},
+	{
+		"#text": "Copied successfully",
+		"@_name": "search_copy_success"
+	},
+	{
+		"#text": "Search or type URL",
+		"@_name": "search_hint"
+	},
+	{
+		"#text": "Search history",
+		"@_name": "search_history"
+	},
+	{
+		"#text": "Browser",
+		"@_name": "search_label"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Bookmarks and web history",
+		"@_name": "search_settings_description"
+	},
+	{
+		"#text": "Security Warnings",
+		"@_name": "security_warning"
+	},
+	{
+		"#text": "Select",
+		"@_name": "select"
+	},
+	{
+		"#text": "Select all",
+		"@_name": "selectAll"
+	},
+	{
+		"#text": "Select Bookmark",
+		"@_name": "select_bookmark_hint"
+	},
+	{
+		"#text": "Select History",
+		"@_name": "select_history_hint"
+	},
+	{
+		"#text": "Choose an image",
+		"@_name": "select_image"
+	},
+	{
+		"#text": "Select Page",
+		"@_name": "select_page"
+	},
+	{
+		"#text": "Select to open",
+		"@_name": "select_to_open"
+	},
+	{
+		"#text": "Send to desktop",
+		"@_name": "send_to_desktop"
+	},
+	{
+		"#text": "Already exist in desktop",
+		"@_name": "send_to_desktop_duplicate"
+	},
+	{
+		"#text": "Not allow empty title",
+		"@_name": "send_to_desktop_empty"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "set_network"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "set_network_dialog_cancel"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "set_network_dialog_confirm"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "set_network_dialog_message"
+	},
+	{
+		"#text": "Redirect when copied URL",
+		"@_name": "setting_redirect_when_copied_url"
+	},
+	{
+		"#text": "Hey, I just found this cool page: \\\"%s. Check it out!",
+		"@_name": "share_desc"
+	},
+	{
+		"#text": "Share via",
+		"@_name": "share_title"
+	},
+	{
+		"#text": "URL already exists",
+		"@_name": "shotcut_already_exist"
+	},
+	{
+		"#text": "Dislike ads? Try long press it to block ads",
+		"@_name": "show_ad_filter_guide"
+	},
+	{
+		"#text": "You can revoke adblock in settings",
+		"@_name": "show_ad_filter_toast"
+	},
+	{
+		"#text": "Compare all price",
+		"@_name": "show_all_price"
+	},
+	{
+		"#text": "Hold and drag to arrange icons",
+		"@_name": "show_drag_menu_guide"
+	},
+	{
+		"#text": "Tap Forward to view preloaded page",
+		"@_name": "show_pre_read_guide"
+	},
+	{
+		"#text": "Hold and slide up to close current page",
+		"@_name": "show_scroll_bar_guide"
+	},
+	{
+		"#text": "Hold and slide down to close all pages",
+		"@_name": "show_scroll_bar_guide_land"
+	},
+	{
+		"#text": "Tap status bar to return to page header",
+		"@_name": "show_status_bar_guide"
+	},
+	{
+		"#text": "Hold Back button to enter URL quickly",
+		"@_name": "show_url_input_guide"
+	},
+	{
+		"#text": "Log in to %s1\\\"%s2\\\"",
+		"@_name": "sign_in_to",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Slide to customize",
+		"@_name": "slide_right_to_home_page"
+	},
+	{
+		"#text": "SmartReader",
+		"@_name": "smart_reader"
+	},
+	{
+		"#text": "Merge web page to SmartReader",
+		"@_name": "smart_reader_info"
+	},
+	{
+		"#text": "Cannot save for offline reading",
+		"@_name": "snapshot_failed"
+	},
+	{
+		"#text": "Need to download the latest version of Browser. Do you want to continue via cellular network?",
+		"@_name": "so_crash_download_tip"
+	},
+	{
+		"#text": "\"Ooops, error in Browser\nDownload the latest version to solve this problem.\"",
+		"@_name": "so_crash_empty_list_tip"
+	},
+	{
+		"#text": "\"Repairing...\nPlease reboot the browser when finished\"",
+		"@_name": "so_crash_restore_tip"
+	},
+	{
+		"#text": "Sponsored",
+		"@_name": "sponsored"
+	},
+	{
+		"#text": "Security certificate",
+		"@_name": "ssl_certificate"
+	},
+	{
+		"#text": "This certificate is valid.",
+		"@_name": "ssl_certificate_is_valid"
+	},
+	{
+		"#text": "Continue",
+		"@_name": "ssl_continue"
+	},
+	{
+		"#text": "This certificate has an invalid date.",
+		"@_name": "ssl_date_invalid"
+	},
+	{
+		"#text": "This certificate has expired.",
+		"@_name": "ssl_expired"
+	},
+	{
+		"#text": "Back",
+		"@_name": "ssl_go_back"
+	},
+	{
+		"#text": "This certificate is invalid.",
+		"@_name": "ssl_invalid"
+	},
+	{
+		"#text": "The name of the site does not match the name on the certificate.",
+		"@_name": "ssl_mismatch"
+	},
+	{
+		"#text": "\"This certificate isn't valid yet.\"",
+		"@_name": "ssl_not_yet_valid"
+	},
+	{
+		"#text": "Unknown certificate error.",
+		"@_name": "ssl_unknown"
+	},
+	{
+		"#text": "\"This certificate isn't from a trusted authority.\"",
+		"@_name": "ssl_untrusted"
+	},
+	{
+		"#text": "There are problems with the security certificate for this site.",
+		"@_name": "ssl_warnings_header"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Stopping...",
+		"@_name": "stopping"
+	},
+	{
+		"#text": "Author:%1$s",
+		"@_name": "string_book_author"
+	},
+	{
+		"#text": "Price:%1$s%2$s",
+		"@_name": "string_book_price"
+	},
+	{
+		"#text": "Press:%1$s",
+		"@_name": "string_book_publish"
+	},
+	{
+		"#text": "Copy",
+		"@_name": "string_copy"
+	},
+	{
+		"#text": "Express status",
+		"@_name": "string_express_info"
+	},
+	{
+		"#text": "No express info, please inquire later",
+		"@_name": "string_express_no_info"
+	},
+	{
+		"#text": "About",
+		"@_name": "string_introduce"
+	},
+	{
+		"#text": "Compare price",
+		"@_name": "string_price_compare"
+	},
+	{
+		"#text": "Reference price",
+		"@_name": "string_reference_price"
+	},
+	{
+		"#text": "Save contact",
+		"@_name": "string_save_contacts"
+	},
+	{
+		"#text": "Visit website",
+		"@_name": "string_visit_url"
+	},
+	{
+		"#text": "Reply to comment",
+		"@_name": "sub_comment_title"
+	},
+	{
+		"#text": "Submit",
+		"@_name": "submit"
+	},
+	{
+		"#text": "Done",
+		"@_name": "submited_done"
+	},
+	{
+		"#text": "Submitted. Thank you for your opinion",
+		"@_name": "submited_tip"
+	},
+	{
+		"#text": "Subscribe",
+		"@_name": "subscribe"
+	},
+	{
+		"#text": "Select seats",
+		"@_name": "suggest_btn_title_bug"
+	},
+	{
+		"#text": "Play",
+		"@_name": "suggest_btn_title_play"
+	},
+	{
+		"#text": "You are connected to a mobile network. Continuing downloading will consume (%s) of cellular data.",
+		"@_name": "suggest_install_app_over_size_alert"
+	},
+	{
+		"#text": "Apps",
+		"@_name": "suggest_symbol_app"
+	},
+	{
+		"#text": "Games",
+		"@_name": "suggest_symbol_game"
+	},
+	{
+		"#text": "Movies",
+		"@_name": "suggest_symbol_movie"
+	},
+	{
+		"#text": "Life",
+		"@_name": "suggest_symbol_o2o"
+	},
+	{
+		"#text": "Clear search history?",
+		"@_name": "sure_to_clear_search_history"
+	},
+	{
+		"#text": "Sync",
+		"@_name": "sync"
+	},
+	{
+		"#text": "Content of sync",
+		"@_name": "sync_content"
+	},
+	{
+		"#text": "Sync bookmarks and home icons",
+		"@_name": "sync_description"
+	},
+	{
+		"#text": "Home Icons",
+		"@_name": "sync_home_icon"
+	},
+	{
+		"#text": "Failed to sync",
+		"@_name": "sync_info_fail"
+	},
+	{
+		"#text": "Sync failed, please try again later",
+		"@_name": "sync_info_fail_msg"
+	},
+	{
+		"#text": "Last sync: %s",
+		"@_name": "sync_info_last_time"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "sync_info_last_time1"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "sync_info_last_time2"
+	},
+	{
+		"#text": "hr ago",
+		"@_name": "sync_info_last_time3"
+	},
+	{
+		"#text": "Backing up",
+		"@_name": "sync_loading"
+	},
+	{
+		"#text": "Sync now",
+		"@_name": "sync_now"
+	},
+	{
+		"#text": "Successfully synced",
+		"@_name": "sync_success"
+	},
+	{
+		"#text": "Way of sync",
+		"@_name": "sync_way"
+	},
+	{
+		"#text": "System account",
+		"@_name": "system_account"
+	},
+	{
+		"#text": "Bookmarks",
+		"@_name": "tab_bookmarks"
+	},
+	{
+		"#text": "Bookmarks/History",
+		"@_name": "tab_bookmarks_history"
+	},
+	{
+		"#text": "Categories",
+		"@_name": "tab_catalog"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "tab_feed"
+	},
+	{
+		"#text": "History",
+		"@_name": "tab_history"
+	},
+	{
+		"#text": "History",
+		"@_name": "tab_history_short"
+	},
+	{
+		"#text": "Home page",
+		"@_name": "tab_homepage"
+	},
+	{
+		"#text": "Saved pages",
+		"@_name": "tab_snapshots"
+	},
+	{
+		"#text": "Toolbox",
+		"@_name": "tab_tool_box"
+	},
+	{
+		"#text": "\"Toolbox\n\"",
+		"@_name": "tab_tool_box_drag_menu"
+	},
+	{
+		"#text": "thousand x10",
+		"@_name": "tenThousand"
+	},
+	{
+		"#text": "ten thousands more",
+		"@_name": "ten_thousands_more"
+	},
+	{
+		"#text": "Terms of use for newsfeed by Yandex",
+		"@_name": "terms_of_use_for_newsfeed_by_yandex"
+	},
+	{
+		"#text": "----------------------------------------------------------------------------------------",
+		"@_name": "test"
+	},
+	{
+		"#text": "Close all",
+		"@_name": "text_close_all_tab"
+	},
+	{
+		"#text": "thousand",
+		"@_name": "thousand"
+	},
+	{
+		"#text": "The day before yesterday",
+		"@_name": "time_day_before_yestoday"
+	},
+	{
+		"#text": "Today",
+		"@_name": "time_today"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "time_yestoday"
+	},
+	{
+		"#text": "No network. Please check your settings.",
+		"@_name": "tip_no_network"
+	},
+	{
+		"#text": "Title",
+		"@_name": "title"
+	},
+	{
+		"#text": "Loading...",
+		"@_name": "title_bar_loading"
+	},
+	{
+		"#text": "Book",
+		"@_name": "title_book"
+	},
+	{
+		"#text": "Event",
+		"@_name": "title_calendar"
+	},
+	{
+		"#text": "Open \\\"%s\\\"?",
+		"@_name": "title_open_extras_app"
+	},
+	{
+		"#text": "Product",
+		"@_name": "title_product"
+	},
+	{
+		"#text": "Text",
+		"@_name": "title_text"
+	},
+	{
+		"#text": "Website",
+		"@_name": "title_url"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "title_wifi"
+	},
+	{
+		"#text": "Maximum length of an URL reached",
+		"@_name": "too_long_url_dialog_title"
+	},
+	{
+		"#text": "Only one pop-up can be opened at a time.",
+		"@_name": "too_many_subwindows_dialog_message"
+	},
+	{
+		"#text": "Pop-up already open",
+		"@_name": "too_many_subwindows_dialog_title"
+	},
+	{
+		"#text": "Hold and drag to arrange icons",
+		"@_name": "toolbar_sort_text"
+	},
+	{
+		"#text": "Type",
+		"@_name": "type"
+	},
+	{
+		"#text": "Uninterested",
+		"@_name": "uninterested"
+	},
+	{
+		"#text": "Update",
+		"@_name": "update"
+	},
+	{
+		"#text": "Current version is up to date",
+		"@_name": "update_check_current_is_newest_version"
+	},
+	{
+		"#text": "Current version: V%1$s",
+		"@_name": "update_check_current_version"
+	},
+	{
+		"#text": "Current version: V%1$s. New version V%2$s is available.",
+		"@_name": "update_check_found_new_version"
+	},
+	{
+		"#text": "Checking...",
+		"@_name": "update_check_is_checking"
+	},
+	{
+		"#text": "Network error, tap to recheck",
+		"@_name": "update_check_is_failed"
+	},
+	{
+		"#text": "Updating in the background, please wait..",
+		"@_name": "update_check_is_updating"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "update_check_title"
+	},
+	{
+		"#text": "Update the password?",
+		"@_name": "update_passwords"
+	},
+	{
+		"#text": "The website has potential risks!",
+		"@_name": "url_warn"
+	},
+	{
+		"#text": "Use cellular data to play?",
+		"@_name": "use_mobile_play"
+	},
+	{
+		"#text": "UserAgent",
+		"@_name": "user_agent"
+	},
+	{
+		"#text": "Log in Now",
+		"@_name": "user_center_info_unlogin_button_login_now"
+	},
+	{
+		"#text": "Retry Login",
+		"@_name": "user_center_info_unlogin_button_re_login"
+	},
+	{
+		"#text": "Logging in",
+		"@_name": "user_center_info_unlogin_loading_text"
+	},
+	{
+		"#text": "Login Failed",
+		"@_name": "user_center_info_unlogin_tips_failed"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "user_center_quit_cancel"
+	},
+	{
+		"#text": "Log out",
+		"@_name": "user_center_quit_quit"
+	},
+	{
+		"#text": "Log out",
+		"@_name": "user_center_quit_quit_account"
+	},
+	{
+		"#text": "\"Clear account's local data?\"",
+		"@_name": "user_center_quit_quit_dialog_checkbox_text"
+	},
+	{
+		"#text": "Log out?",
+		"@_name": "user_center_quit_quit_dialog_message"
+	},
+	{
+		"#text": "OK",
+		"@_name": "user_center_quit_sure"
+	},
+	{
+		"#text": "Sync",
+		"@_name": "user_center_quit_sync"
+	},
+	{
+		"#text": "Part of the data has not been synced to Flyme account",
+		"@_name": "user_center_quit_unsync_dialog_message"
+	},
+	{
+		"#text": "Log in now. Bookmarks never lost",
+		"@_name": "user_menu_info_text"
+	},
+	{
+		"#text": "\"Browser's identification will affect page and video layout\"",
+		"@_name": "useragent_hint"
+	},
+	{
+		"#text": "Name",
+		"@_name": "username"
+	},
+	{
+		"#text": "Click for more details, if you are interested in the sponsorship.",
+		"@_name": "video_des_text"
+	},
+	{
+		"#text": "Currently on cellular network",
+		"@_name": "video_in_mobile_network"
+	},
+	{
+		"#text": "Hold screen to unlock",
+		"@_name": "video_longpress_unlock"
+	},
+	{
+		"#text": "plays",
+		"@_name": "video_play_text"
+	},
+	{
+		"#text": "Tap to unlock",
+		"@_name": "video_screen_click_to_unlock"
+	},
+	{
+		"#text": "Screen is locked",
+		"@_name": "video_screen_lock"
+	},
+	{
+		"#text": "Screen is unlocked",
+		"@_name": "video_screen_unlock"
+	},
+	{
+		"#text": "Click For More Details",
+		"@_name": "video_title_text"
+	},
+	{
+		"#text": "View certificate",
+		"@_name": "view_certificate"
+	},
+	{
+		"#text": "Install",
+		"@_name": "vp_app_install"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "vp_app_installing"
+	},
+	{
+		"#text": "VideoPlayerHelper",
+		"@_name": "vp_app_name"
+	},
+	{
+		"#text": "Auto-download and install over WLAN",
+		"@_name": "vp_auto_download"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "vp_cancel"
+	},
+	{
+		"#text": "Detail",
+		"@_name": "vp_detail"
+	},
+	{
+		"#text": "%s Views",
+		"@_name": "vp_have_viewed"
+	},
+	{
+		"#text": "network unavailable",
+		"@_name": "vp_network_unavailable"
+	},
+	{
+		"#text": "No network connection, please check the network settings",
+		"@_name": "vp_network_unavailable_please_check"
+	},
+	{
+		"#text": "Playing video will consume data traffic in mobile networks,continue playing?",
+		"@_name": "vp_newwork_warning_text"
+	},
+	{
+		"#text": "Videos needs connecting to network and tracking your location to provide online videos.",
+		"@_name": "vp_permission_dialog_msg"
+	},
+	{
+		"#text": "Play",
+		"@_name": "vp_play"
+	},
+	{
+		"#text": "\"Can't rotate when gravity sensor is on\"",
+		"@_name": "vp_player_rotate_invalid"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "vp_pull_to_refresh"
+	},
+	{
+		"#text": "The content has been refreshed",
+		"@_name": "vp_refresh_notice"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "vp_release_to_refresh"
+	},
+	{
+		"#text": "Replay",
+		"@_name": "vp_replay"
+	},
+	{
+		"#text": "Tap to play via mobile network",
+		"@_name": "vp_use_mobile_clickplay"
+	},
+	{
+		"#text": "Using the mobile network to download  (%s)",
+		"@_name": "vp_use_mobile_download_game"
+	},
+	{
+		"#text": "Fail. Click to exit",
+		"@_name": "vp_video_error_click_to_exit"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "vp_video_loading_text"
+	},
+	{
+		"#text": "Tap to unlock",
+		"@_name": "vp_video_screen_click_to_unlock"
+	},
+	{
+		"#text": "Screen is locked",
+		"@_name": "vp_video_screen_lock"
+	},
+	{
+		"#text": "%1$d%%",
+		"@_name": "vp_volume_light_info"
+	},
+	{
+		"#text": "There may be an unknown risk",
+		"@_name": "waring_dialog_header_text"
+	},
+	{
+		"#text": "Unknown website may have risks when applying for input information.",
+		"@_name": "waring_dialog_prompt_header_text"
+	},
+	{
+		"#text": "Reload when network signal is weak",
+		"@_name": "weaknetreload"
+	},
+	{
+		"#text": "Name",
+		"@_name": "web_name"
+	},
+	{
+		"#text": "URL",
+		"@_name": "web_url"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "website_settings_clear_all_dialog_cancel_button"
+	},
+	{
+		"#text": "Clear data and location access for all websites?",
+		"@_name": "website_settings_clear_all_dialog_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "webstorage_clear_data_dialog_cancel_button"
+	},
+	{
+		"#text": "Delete all saved data",
+		"@_name": "webstorage_clear_data_dialog_message"
+	},
+	{
+		"#text": "Clear stored data",
+		"@_name": "webstorage_clear_data_title"
+	},
+	{
+		"#text": "MB stored on your phone",
+		"@_name": "webstorage_origin_summary_mb_stored"
+	},
+	{
+		"#text": "Tap to free up space",
+		"@_name": "webstorage_outofspace_notification_text"
+	},
+	{
+		"#text": "Browser storage full",
+		"@_name": "webstorage_outofspace_notification_title"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_favorite"
+	},
+	{
+		"#text": "WeChat Friend",
+		"@_name": "wechat_friends"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "wechat_pengyouquan"
+	},
+	{
+		"#text": "WeChat friends",
+		"@_name": "wechat_session"
+	},
+	{
+		"#text": "WeChat Favorites",
+		"@_name": "wechat_shoucang"
+	},
+	{
+		"#text": "Weibo",
+		"@_name": "weibo_app"
+	},
+	{
+		"#text": "\"Don't ask again\"",
+		"@_name": "wifi_aps_unavailable_check"
+	},
+	{
+		"#text": "\"No available access point for WLAN. Connect over 3G network? If you don't have a data plan, this may incur additional charges.\"",
+		"@_name": "wifi_aps_unavailable_message"
+	},
+	{
+		"#text": "Notification",
+		"@_name": "wifi_aps_unavailable_title"
+	},
+	{
+		"#text": "Connect to WLAN",
+		"@_name": "wifi_connect"
+	},
+	{
+		"#text": "Type: %1$s",
+		"@_name": "wifi_encryption_string"
+	},
+	{
+		"#text": "Password: %1$s",
+		"@_name": "wifi_password_string"
+	},
+	{
+		"#text": "Connected",
+		"@_name": "wifi_status_connect"
+	},
+	{
+		"#text": "Disconnected",
+		"@_name": "wifi_status_disconnect"
+	},
+	{
+		"#text": "Status: %1$s",
+		"@_name": "wifi_status_string"
+	},
+	{
+		"#text": "Free wireless network may bring risks, please secure your property!",
+		"@_name": "wifi_warn"
+	},
+	{
+		"#text": "World cup",
+		"@_name": "world_cup_name"
+	},
+	{
+		"#text": "News terms of use",
+		"@_name": "yandex_news_terms_of_use"
+	},
+	{
+		"#text": "Connect your accounts",
+		"@_name": "zen_auth_header"
+	},
+	{
+		"#text": "Zen gives better recommendations the more it knows about you.",
+		"@_name": "zen_auth_snippet"
+	},
+	{
+		"#text": "Get started",
+		"@_name": "zen_auth_start"
+	},
+	{
+		"#text": "Copy URL",
+		"@_name": "zen_copy_url"
+	},
+	{
+		"#text": "\"device_id = %1$s \nuuid = %2$s \nclid = %3$s \nclient_name = %4$s \ncountry = %5$s \nversion_name = %6$s \nversion_code = %7$d\"",
+		"@_name": "zen_debug_multiTap_info"
+	},
+	{
+		"#text": "Debug info",
+		"@_name": "zen_debug_multiTap_info_label"
+	},
+	{
+		"#text": "Block website",
+		"@_name": "zen_feedback_block"
+	},
+	{
+		"#text": "Source blocked. You will no longer see %s",
+		"@_name": "zen_feedback_blocked"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "zen_feedback_cancel"
+	},
+	{
+		"#text": "Dislike",
+		"@_name": "zen_feedback_dislike"
+	},
+	{
+		"#text": "Less of this",
+		"@_name": "zen_feedback_less"
+	},
+	{
+		"#text": "Content has been hidden. You will see less content like this.",
+		"@_name": "zen_feedback_lessed"
+	},
+	{
+		"#text": "Like",
+		"@_name": "zen_feedback_like"
+	},
+	{
+		"#text": "More of this",
+		"@_name": "zen_feedback_more"
+	},
+	{
+		"#text": "Subscribe",
+		"@_name": "zen_item_browser_subscribe"
+	},
+	{
+		"#text": "en",
+		"@_name": "zen_language_code"
+	},
+	{
+		"#text": "Loading...",
+		"@_name": "zen_loading_button"
+	},
+	{
+		"#text": "Show images",
+		"@_name": "zen_menu_enable_images"
+	},
+	{
+		"#text": "Sign in to Zen",
+		"@_name": "zen_menu_login"
+	},
+	{
+		"#text": "Log out",
+		"@_name": "zen_menu_logout"
+	},
+	{
+		"#text": "Open in background",
+		"@_name": "zen_menu_open_in_background"
+	},
+	{
+		"#text": "Open in new tab",
+		"@_name": "zen_menu_open_in_new_tab"
+	},
+	{
+		"#text": "Open links in Zen",
+		"@_name": "zen_menu_open_links"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "zen_menu_title"
+	},
+	{
+		"#text": "Auto-play videos",
+		"@_name": "zen_menu_video_autoplay"
+	},
+	{
+		"#text": "New posts",
+		"@_name": "zen_more_button"
+	},
+	{
+		"#text": "Open in browser",
+		"@_name": "zen_open_browser"
+	},
+	{
+		"#text": "Выбрать с помощью:",
+		"@_name": "zen_post_editor_attachment_chooser_title"
+	},
+	{
+		"#text": "com.yandex.zenkit.channels.animation.AnimatorDefault",
+		"@_name": "zen_profile_view_animator"
+	},
+	{
+		"#text": "Share",
+		"@_name": "zen_share"
+	},
+	{
+		"#text": "\"Shared from Yandex Zen\n%1$s\"",
+		"@_name": "zen_share_msg"
+	},
+	{
+		"#text": "You might be interested",
+		"@_name": "zen_similar_header"
+	},
+	{
+		"#text": "@string/zen_similar_header",
+		"@_name": "zen_similar_helper_header"
+	},
+	{
+		"#text": "Ad",
+		"@_name": "zen_sponsored"
+	},
+	{
+		"@_name": "zen_subscribe"
+	},
+	{
+		"#text": "Show new posts",
+		"@_name": "zen_swipe_hint"
+	},
+	{
+		"#text": "com.yandex.zenkit.channels.animation.AnimatorDefault",
+		"@_name": "zen_top_view_animator"
+	},
+	{
+		"#text": "Unblock",
+		"@_name": "zen_unblock"
+	},
+	{
+		"#text": "Unsubscribe",
+		"@_name": "zen_unsubscribe"
+	},
+	{
+		"#text": "Mute",
+		"@_name": "zen_video_mute"
+	},
+	{
+		"#text": "No sound",
+		"@_name": "zen_video_nosound"
+	},
+	{
+		"#text": "Unmute",
+		"@_name": "zen_video_unmute"
+	},
+	{
+		"#text": "Could not load feed",
+		"@_name": "zeninit_header_error"
+	},
+	{
+		"#text": "No internet connection",
+		"@_name": "zeninit_header_nonet"
+	},
+	{
+		"#text": "@string/zeninit_header_error",
+		"@_name": "zeninit_welcome_error"
+	},
+	{
+		"#text": "Try again",
+		"@_name": "zeninit_welcome_error_retry"
+	},
+	{
+		"#text": "Oops! Something went wrong",
+		"@_name": "zeninit_welcome_error_title"
+	},
+	{
+		"#text": "Log in",
+		"@_name": "zeninit_welcome_login"
+	},
+	{
+		"#text": "Articles, news, and videos based on your interests",
+		"@_name": "zeninit_welcome_main"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "zeninit_welcome_nonet_settings"
+	},
+	{
+		"#text": "No network connection",
+		"@_name": "zeninit_welcome_nonet_title"
+	},
+	{
+		"#text": "The more you read Zen, the more interesting recommendations it gives you",
+		"@_name": "zeninit_welcome_second"
+	},
+	{
+		"#text": "Get started",
+		"@_name": "zeninit_welcome_start"
+	},
+	{
+		"#text": "Your personal feed",
+		"@_name": "zeninit_welcome_title"
+	},
+	{
+		"#text": "Refresh %1$s news, slide up to see",
+		"@_name": "zi_xun_card_tips"
+	},
+	{
+		"#text": "More News, slide up",
+		"@_name": "zi_xun_card_tips_default"
+	},
+	{
+		"#text": "下载错误",
+		"@_name": "zi_xun_liu_ad_download_error"
+	},
+	{
+		"#text": "安装",
+		"@_name": "zi_xun_liu_ad_download_install"
+	},
+	{
+		"#text": "继续",
+		"@_name": "zi_xun_liu_ad_download_paused"
+	},
+	{
+		"#text": "下载中...",
+		"@_name": "zi_xun_liu_ad_downloading"
+	},
+	{
+		"#text": "打开",
+		"@_name": "zi_xun_liu_ad_install_complete"
+	},
+	{
+		"#text": "安装失败",
+		"@_name": "zi_xun_liu_ad_install_error"
+	},
+	{
+		"#text": "正在安装",
+		"@_name": "zi_xun_liu_ad_installing"
+	},
+	{
+		"#text": "广告",
+		"@_name": "zi_xun_liu_ad_label"
+	},
+	{
+		"#text": "%s评",
+		"@_name": "zi_xun_liu_article_comments"
+	},
+	{
+		"#text": "Meizu Headlines",
+		"@_name": "zixun_card_simple_title"
+	},
+	{
+		"#text": "More",
+		"@_name": "zixun_card_simple_title_more"
+	},
+	{
+		"#text": "Try swiping up",
+		"@_name": "zixun_guide_text"
+	},
+	{
+		"#text": "%d hr ago",
+		"@_name": "zixun_item_time_hour"
+	},
+	{
+		"#text": "%d min ago",
+		"@_name": "zixun_item_time_minute"
+	},
+	{
+		"#text": "Now",
+		"@_name": "zixun_item_time_now"
+	},
+	{
+		"#text": "AD",
+		"@_name": "zixunliu_ad_label"
+	}
+]

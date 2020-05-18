@@ -1,0 +1,1879 @@
+[
+	{
+		"#text": "Navigate home",
+		"@_name": "abc_action_bar_home_description"
+	},
+	{
+		"#text": "Navigate up",
+		"@_name": "abc_action_bar_up_description"
+	},
+	{
+		"#text": "More options",
+		"@_name": "abc_action_menu_overflow_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "abc_action_mode_done"
+	},
+	{
+		"#text": "See all",
+		"@_name": "abc_activity_chooser_view_see_all"
+	},
+	{
+		"#text": "Choose an app",
+		"@_name": "abc_activitychooserview_choose_application"
+	},
+	{
+		"#text": "OFF",
+		"@_name": "abc_capital_off"
+	},
+	{
+		"#text": "ON",
+		"@_name": "abc_capital_on"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_body_1_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_body_2_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_button_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_caption_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_1_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_2_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_display_3_material"
+	},
+	{
+		"#text": "sans-serif-light",
+		"@_name": "abc_font_family_display_4_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_headline_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_menu_material"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "abc_font_family_subhead_material"
+	},
+	{
+		"#text": "sans-serif-medium",
+		"@_name": "abc_font_family_title_material"
+	},
+	{
+		"#text": "Search…",
+		"@_name": "abc_search_hint"
+	},
+	{
+		"#text": "Clear query",
+		"@_name": "abc_searchview_description_clear"
+	},
+	{
+		"#text": "Search query",
+		"@_name": "abc_searchview_description_query"
+	},
+	{
+		"#text": "Search",
+		"@_name": "abc_searchview_description_search"
+	},
+	{
+		"#text": "Submit query",
+		"@_name": "abc_searchview_description_submit"
+	},
+	{
+		"#text": "Voice search",
+		"@_name": "abc_searchview_description_voice"
+	},
+	{
+		"#text": "Share with",
+		"@_name": "abc_shareactionprovider_share_with"
+	},
+	{
+		"#text": "Share with %s",
+		"@_name": "abc_shareactionprovider_share_with_application"
+	},
+	{
+		"#text": "Collapse",
+		"@_name": "abc_toolbar_collapse_description"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "NetAdminDiagnLib",
+		"@_name": "app_name"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "Disconnect network",
+		"@_name": "disconnect_check_text"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Canceled",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Favorite",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "%1$d days after",
+		"@_name": "mc_custom_date_time_days_after"
+	},
+	{
+		"#text": "%1$d days before",
+		"@_name": "mc_custom_date_time_days_before"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "1 day after",
+		"@_name": "mc_custom_date_time_one_day_after"
+	},
+	{
+		"#text": "1 day before",
+		"@_name": "mc_custom_date_time_one_day_before"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Download Updates",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "h ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "Just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "min ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call Recordings",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "search_view_container_transition_name",
+		"@_name": "mc_search_view_container_transition_name"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "search_view_toolbar_transition_name",
+		"@_name": "mc_search_view_toolbar_transition_name"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_action_bar_multi_choice_cancel"
+	},
+	{
+		"#text": "All",
+		"@_name": "mz_action_bar_multi_choice_select_all"
+	},
+	{
+		"#text": "None",
+		"@_name": "mz_action_bar_multi_choice_select_all_cancel"
+	},
+	{
+		"#text": "%d Item(s) Selected",
+		"@_name": "mz_action_bar_multi_choice_title"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_allow"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_alway_allow"
+	},
+	{
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "mz_permission_allow"
+	},
+	{
+		"#text": "Never ask after denied",
+		"@_name": "mz_permission_almost_deny"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mz_permission_always_allow"
+	},
+	{
+		"#text": "Permission request",
+		"@_name": "mz_permission_apply"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_permission_deny"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) to %2$s",
+		"@_name": "mz_permission_message_content"
+	},
+	{
+		"#text": "%1$s needs %2$s %3$d permissions",
+		"@_name": "mz_permission_message_supplement"
+	},
+	{
+		"#text": "Ask for the following permissions",
+		"@_name": "mz_permission_title_supplement"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mz_permissiongroup_name_bluetooth"
+	},
+	{
+		"#text": "Wireless Network",
+		"@_name": "mz_permissiongroup_name_change_network"
+	},
+	{
+		"#text": "Network connections",
+		"@_name": "mz_permissiongroup_name_net"
+	},
+	{
+		"#text": "Other",
+		"@_name": "mz_permissiongroup_name_other"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_allow_check_app"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mz_pm_allow_dialog_push"
+	},
+	{
+		"#text": "control Bluetooth",
+		"@_name": "mz_pm_bluetooth"
+	},
+	{
+		"#text": "Dial",
+		"@_name": "mz_pm_call"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "mz_pm_call_log"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mz_pm_camera"
+	},
+	{
+		"#text": "Off",
+		"@_name": "mz_pm_close"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "mz_pm_contacts"
+	},
+	{
+		"#text": "Push pop-ups",
+		"@_name": "mz_pm_dialog_push"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_pm_dlg_cancel"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_pm_dlg_ok"
+	},
+	{
+		"#text": "Location",
+		"@_name": "mz_pm_location"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mz_pm_network"
+	},
+	{
+		"#text": "control NFC",
+		"@_name": "mz_pm_nfc"
+	},
+	{
+		"#text": "Deny",
+		"@_name": "mz_pm_not_allow_check_app"
+	},
+	{
+		"#text": "Block",
+		"@_name": "mz_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mz_pm_online_intenert"
+	},
+	{
+		"#text": "On",
+		"@_name": "mz_pm_open"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mz_pm_r_mms"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mz_pm_r_sms"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "mz_pm_recordaudio_local"
+	},
+	{
+		"#text": "Call recordings",
+		"@_name": "mz_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mz_pm_s_mms"
+	},
+	{
+		"#text": "send SMS",
+		"@_name": "mz_pm_s_sms"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mz_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on cellular data",
+		"@_name": "mz_pm_set_gprs_on"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mz_pm_set_wifi_on"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mz_pm_wlan"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mz_reject"
+	},
+	{
+		"#text": "Still allow",
+		"@_name": "mz_specific_permission_allow"
+	},
+	{
+		"#text": "Deny to give permission",
+		"@_name": "mz_specific_permission_deny"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mzuc_cancel"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_cancel_download"
+	},
+	{
+		"#text": "Cancel installation",
+		"@_name": "mzuc_cancel_install"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "mzuc_delete"
+	},
+	{
+		"#text": "Download",
+		"@_name": "mzuc_download"
+	},
+	{
+		"#text": "Download failed",
+		"@_name": "mzuc_download_fail"
+	},
+	{
+		"#text": "Download completed, tap to install",
+		"@_name": "mzuc_download_finish_install"
+	},
+	{
+		"#text": "%s %s download completed",
+		"@_name": "mzuc_download_finish_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading %s %s",
+		"@_name": "mzuc_download_progress_desc_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Downloading",
+		"@_name": "mzuc_downloading"
+	},
+	{
+		"#text": "It will consume %s of cellular data",
+		"@_name": "mzuc_file_size_s"
+	},
+	{
+		"#text": "Update available %s",
+		"@_name": "mzuc_found_update_s"
+	},
+	{
+		"#text": "Download canceled",
+		"@_name": "mzuc_install_cancel_tip"
+	},
+	{
+		"#text": "Installation failed",
+		"@_name": "mzuc_install_fail"
+	},
+	{
+		"#text": "Install now",
+		"@_name": "mzuc_install_immediately"
+	},
+	{
+		"#text": "Install later",
+		"@_name": "mzuc_install_later"
+	},
+	{
+		"#text": "Installing",
+		"@_name": "mzuc_installing"
+	},
+	{
+		"#text": "Checking for update",
+		"@_name": "mzuc_manual_checking_update"
+	},
+	{
+		"#text": "Current app version %s",
+		"@_name": "mzuc_manual_current_version"
+	},
+	{
+		"#text": "Cancel download",
+		"@_name": "mzuc_manual_download_cancel"
+	},
+	{
+		"#text": "Failed to download",
+		"@_name": "mzuc_manual_download_fail"
+	},
+	{
+		"#text": "Downloading %s%%",
+		"@_name": "mzuc_manual_downloading"
+	},
+	{
+		"#text": "New version found. Tap to update",
+		"@_name": "mzuc_manual_found_new_version"
+	},
+	{
+		"#text": "Failed to install",
+		"@_name": "mzuc_manual_install_fail"
+	},
+	{
+		"#text": "Update file is downloaded and tap to install",
+		"@_name": "mzuc_manual_install_new_version"
+	},
+	{
+		"#text": "Installing...",
+		"@_name": "mzuc_manual_installing"
+	},
+	{
+		"#text": "Current version is latest",
+		"@_name": "mzuc_manual_latest_version"
+	},
+	{
+		"#text": "Download the latest version",
+		"@_name": "mzuc_manual_update_for_new_version"
+	},
+	{
+		"#text": "Check for update",
+		"@_name": "mzuc_manual_update_title"
+	},
+	{
+		"#text": "\"What's new:\"",
+		"@_name": "mzuc_msg_indicator"
+	},
+	{
+		"#text": "%s",
+		"@_name": "mzuc_notification_message_s"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mzuc_ok"
+	},
+	{
+		"#text": "Restart to update",
+		"@_name": "mzuc_reboot_update_now"
+	},
+	{
+		"#text": "Retry",
+		"@_name": "mzuc_retry"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mzuc_skip_version"
+	},
+	{
+		"#text": "If you skip this version, you will not be prompted to install it",
+		"@_name": "mzuc_skip_warn_tip"
+	},
+	{
+		"#text": "Update completed",
+		"@_name": "mzuc_update_finish"
+	},
+	{
+		"#text": "Updated to the latest version %s",
+		"@_name": "mzuc_update_finish_format"
+	},
+	{
+		"#text": "Update now",
+		"@_name": "mzuc_update_immediately"
+	},
+	{
+		"#text": "Update in roam (%s)",
+		"@_name": "mzuc_update_immediately_roaming"
+	},
+	{
+		"#text": "Remind me later",
+		"@_name": "mzuc_update_later"
+	},
+	{
+		"#text": "Download via mobile network?",
+		"@_name": "mzuc_update_mobile_network"
+	},
+	{
+		"#text": "%s %s",
+		"@_name": "mzuc_update_msg_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s %s released",
+		"@_name": "mzuc_update_title_s",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Please wait",
+		"@_name": "mzuc_wait_tip"
+	},
+	{
+		"#text": "Remind Later",
+		"@_name": "mzuc_warn_later"
+	},
+	{
+		"#text": "Security scan",
+		"@_name": "na_activity_detect_title"
+	},
+	{
+		"#text": "Config Domain",
+		"@_name": "na_activity_diagn_config"
+	},
+	{
+		"#text": "Detailed Report",
+		"@_name": "na_activity_diagn_details"
+	},
+	{
+		"#text": "WLAN Doctor",
+		"@_name": "na_activity_diagnose"
+	},
+	{
+		"#text": "Remember WLAN locations",
+		"@_name": "na_activity_smart_wifi"
+	},
+	{
+		"#text": "Speed Test",
+		"@_name": "na_activity_speed_test"
+	},
+	{
+		"#text": "NetAdmin",
+		"@_name": "na_app_name"
+	},
+	{
+		"#text": "Detect ARP attacks",
+		"@_name": "na_detect_arp"
+	},
+	{
+		"#text": "Risky",
+		"@_name": "na_detect_dangerous"
+	},
+	{
+		"#text": "Detect DNS tampering",
+		"@_name": "na_detect_dns"
+	},
+	{
+		"#text": "Test done",
+		"@_name": "na_detect_done"
+	},
+	{
+		"#text": "Detect fake WLAN network",
+		"@_name": "na_detect_fake"
+	},
+	{
+		"#text": "No network connections. Please check WLAN settings",
+		"@_name": "na_detect_net_disconnected_summary"
+	},
+	{
+		"#text": "Detect phishing network",
+		"@_name": "na_detect_phishing"
+	},
+	{
+		"#text": "Dangerous network",
+		"@_name": "na_detect_result_dangerous"
+	},
+	{
+		"#text": "Network unencrypted",
+		"@_name": "na_detect_result_risk"
+	},
+	{
+		"#text": "Secure",
+		"@_name": "na_detect_result_safe"
+	},
+	{
+		"#text": "Network security is unknown. Please use it with caution.",
+		"@_name": "na_detect_result_unknown"
+	},
+	{
+		"#text": "Secure",
+		"@_name": "na_detect_safe"
+	},
+	{
+		"#text": "Detect network encryption",
+		"@_name": "na_detect_security"
+	},
+	{
+		"#text": "Unencrypted",
+		"@_name": "na_detect_security_none"
+	},
+	{
+		"#text": "Powered by Tencent WeSecure",
+		"@_name": "na_detect_support_firm_tip"
+	},
+	{
+		"#text": "Scanning",
+		"@_name": "na_detecting"
+	},
+	{
+		"#text": "No Risks Found",
+		"@_name": "na_detecting_no_risk"
+	},
+	{
+		"#text": "Add Host",
+		"@_name": "na_diagn_add_host"
+	},
+	{
+		"#text": "Router DNS or IP error, please re configure",
+		"@_name": "na_diagn_advice_ap_config_error"
+	},
+	{
+		"#text": "Router configuration error, please check the router configuration",
+		"@_name": "na_diagn_advice_ap_dns_error"
+	},
+	{
+		"#text": "Router signal is weak, please approach the router",
+		"@_name": "na_diagn_advice_ap_signal_so_weak"
+	},
+	{
+		"#text": "Signal is weak, please adjust the position of the router",
+		"@_name": "na_diagn_advice_ap_signal_weak"
+	},
+	{
+		"#text": "A delay can occur in data receiving. Please check the real-time speed to confirm whether there is a background process to take up the network",
+		"@_name": "na_diagn_advice_bandwidth_occupancy"
+	},
+	{
+		"#text": "The router load is too high, you can try to replace the signal hotspot or disconnect unnecessary equipments",
+		"@_name": "na_diagn_advice_client_connected_too_much"
+	},
+	{
+		"#text": "Network is normal",
+		"@_name": "na_diagn_advice_diagnose_success"
+	},
+	{
+		"#text": "DNS parse failed, please try again later",
+		"@_name": "na_diagn_advice_dns_parse_fail"
+	},
+	{
+		"#text": "DNS parsing is slow, please retry later",
+		"@_name": "na_diagn_advice_dns_slow"
+	},
+	{
+		"#text": "Unable to access the internet, please check whether the network needs to log in",
+		"@_name": "na_diagn_advice_interfere"
+	},
+	{
+		"#text": "Network access error, please check the router configuration or try to restart the router",
+		"@_name": "na_diagn_advice_internet_error"
+	},
+	{
+		"#text": "Unable to access the Internet, please check whether the network needs to log in",
+		"@_name": "na_diagn_advice_need_to_login"
+	},
+	{
+		"#text": "Network connection is failed, please retry later",
+		"@_name": "na_diagn_advice_net_connect_fail"
+	},
+	{
+		"#text": "Network connection is slow, please try again later",
+		"@_name": "na_diagn_advice_net_connect_slow"
+	},
+	{
+		"#text": "Router no response, please check the network configuration",
+		"@_name": "na_diagn_advice_no_response"
+	},
+	{
+		"#text": "Router response is slow, please check the status of the router or network bandwidth usage",
+		"@_name": "na_diagn_advice_slow_response"
+	},
+	{
+		"#text": "Weak network signal, please move closer to the router or adjust its position to get a stronger signal.",
+		"@_name": "na_diagn_advice_weak_signal"
+	},
+	{
+		"#text": "Phone DNS or IP error, please re configure",
+		"@_name": "na_diagn_advice_wifi_config_error"
+	},
+	{
+		"#text": "Local network configuration error, please check the DNS configuration",
+		"@_name": "na_diagn_advice_wifi_dns_error"
+	},
+	{
+		"#text": "Local network configuration error, please check the IP or gateway configuration",
+		"@_name": "na_diagn_advice_wifi_ip_gateway_error"
+	},
+	{
+		"#text": "Average latency",
+		"@_name": "na_diagn_average_delay"
+	},
+	{
+		"#text": "Bad",
+		"@_name": "na_diagn_bad"
+	},
+	{
+		"#text": "Access failed",
+		"@_name": "na_diagn_can_not_reach"
+	},
+	{
+		"#text": "Check Details",
+		"@_name": "na_diagn_check_details"
+	},
+	{
+		"#text": "Choose Domain",
+		"@_name": "na_diagn_choice_host"
+	},
+	{
+		"#text": "Config Host",
+		"@_name": "na_diagn_config_host"
+	},
+	{
+		"#text": "Delete %1$s Item(s)",
+		"@_name": "na_diagn_confirm_delete"
+	},
+	{
+		"#text": "Delay",
+		"@_name": "na_diagn_delay"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "na_diagn_delete"
+	},
+	{
+		"#text": "DNS Analysis",
+		"@_name": "na_diagn_dns_analysis"
+	},
+	{
+		"#text": "DNS analysis fail",
+		"@_name": "na_diagn_dns_analysis_fail"
+	},
+	{
+		"#text": "Duration",
+		"@_name": "na_diagn_duration"
+	},
+	{
+		"#text": "Excellent",
+		"@_name": "na_diagn_excellent"
+	},
+	{
+		"#text": "Feedback",
+		"@_name": "na_diagn_feedback"
+	},
+	{
+		"#text": "Done",
+		"@_name": "na_diagn_finish"
+	},
+	{
+		"#text": "Gateway Check",
+		"@_name": "na_diagn_gateway_check"
+	},
+	{
+		"#text": "Gateway check fail",
+		"@_name": "na_diagn_gateway_check_fail"
+	},
+	{
+		"#text": "Good",
+		"@_name": "na_diagn_good"
+	},
+	{
+		"#text": "Helpful",
+		"@_name": "na_diagn_helpful"
+	},
+	{
+		"#text": "Unhelpful",
+		"@_name": "na_diagn_helpless"
+	},
+	{
+		"#text": "IP",
+		"@_name": "na_diagn_ip"
+	},
+	{
+		"#text": "%1$s device(s)",
+		"@_name": "na_diagn_load_num"
+	},
+	{
+		"#text": "Loss",
+		"@_name": "na_diagn_loss"
+	},
+	{
+		"#text": "points",
+		"@_name": "na_diagn_marks_unit"
+	},
+	{
+		"#text": "Medium",
+		"@_name": "na_diagn_medium"
+	},
+	{
+		"#text": "Network Connectivity",
+		"@_name": "na_diagn_net_connect"
+	},
+	{
+		"#text": "Network connectivity fail",
+		"@_name": "na_diagn_net_connect_fail"
+	},
+	{
+		"#text": "Network Advice",
+		"@_name": "na_diagn_network_advice"
+	},
+	{
+		"#text": "Network connectivity:",
+		"@_name": "na_diagn_network_connectivity"
+	},
+	{
+		"#text": "Network delay:",
+		"@_name": "na_diagn_network_latency"
+	},
+	{
+		"#text": "Network Name",
+		"@_name": "na_diagn_network_name"
+	},
+	{
+		"#text": "Do not exist",
+		"@_name": "na_diagn_not_exist"
+	},
+	{
+		"#text": "Diagnosis not supported in IPv6 environment",
+		"@_name": "na_diagn_not_support_ipv6"
+	},
+	{
+		"#text": "Position",
+		"@_name": "na_diagn_position"
+	},
+	{
+		"#text": "Gateway",
+		"@_name": "na_diagn_position_gateway"
+	},
+	{
+		"#text": "Route",
+		"@_name": "na_diagn_position_route"
+	},
+	{
+		"#text": "Server",
+		"@_name": "na_diagn_position_server"
+	},
+	{
+		"#text": "Re-diagnose",
+		"@_name": "na_diagn_re_diagnose"
+	},
+	{
+		"#text": "Result",
+		"@_name": "na_diagn_result"
+	},
+	{
+		"#text": "Result",
+		"@_name": "na_diagn_result_list_title"
+	},
+	{
+		"#text": "Router load",
+		"@_name": "na_diagn_router_load"
+	},
+	{
+		"#text": "Devices online",
+		"@_name": "na_diagn_router_load_devices"
+	},
+	{
+		"#text": "Router status:",
+		"@_name": "na_diagn_router_status"
+	},
+	{
+		"#text": "Signal quality:",
+		"@_name": "na_diagn_signal_quality"
+	},
+	{
+		"#text": "\" abnormal\"",
+		"@_name": "na_diagn_status_abnormal"
+	},
+	{
+		"#text": "\" high\"",
+		"@_name": "na_diagn_status_latency_high"
+	},
+	{
+		"#text": "\" normal\"",
+		"@_name": "na_diagn_status_normal"
+	},
+	{
+		"#text": "\" poor\"",
+		"@_name": "na_diagn_status_signal_bad"
+	},
+	{
+		"#text": "\" good\"",
+		"@_name": "na_diagn_status_signal_good"
+	},
+	{
+		"#text": "\" average\"",
+		"@_name": "na_diagn_status_signal_ordinary"
+	},
+	{
+		"#text": "Router DNS or IP error",
+		"@_name": "na_diagn_tip_ap_config_error"
+	},
+	{
+		"#text": "Router signal is weak",
+		"@_name": "na_diagn_tip_ap_signal_so_weak"
+	},
+	{
+		"#text": "Network signal is weak",
+		"@_name": "na_diagn_tip_ap_signal_weak"
+	},
+	{
+		"#text": "Router load too high. You can try another hotspot or disconnect unnecessary devices",
+		"@_name": "na_diagn_tip_client_connected_too_much"
+	},
+	{
+		"#text": "Network is normal",
+		"@_name": "na_diagn_tip_diagnose_success"
+	},
+	{
+		"#text": "DNS parse failed",
+		"@_name": "na_diagn_tip_dns_parse_fail"
+	},
+	{
+		"#text": "DNS parsing failed, please retry later",
+		"@_name": "na_diagn_tip_dns_resolve_fail"
+	},
+	{
+		"#text": "Slow DNS parsing, please retry later",
+		"@_name": "na_diagn_tip_dns_resolve_slow"
+	},
+	{
+		"#text": "DNS parsing is slow",
+		"@_name": "na_diagn_tip_dns_slow"
+	},
+	{
+		"#text": "Login required to test the network",
+		"@_name": "na_diagn_tip_gateway_can_not_reach"
+	},
+	{
+		"#text": "Network interfered. Please try another channel or adjust router position",
+		"@_name": "na_diagn_tip_interfere"
+	},
+	{
+		"#text": "Network access error",
+		"@_name": "na_diagn_tip_internet_can_not_reach"
+	},
+	{
+		"#text": "Failed to access Internet. Please check router configuration or try rebooting it",
+		"@_name": "na_diagn_tip_internet_error"
+	},
+	{
+		"#text": "Unable to access the Internet",
+		"@_name": "na_diagn_tip_need_to_login"
+	},
+	{
+		"#text": "Network connection is failed, please retry later",
+		"@_name": "na_diagn_tip_net_connect_fail"
+	},
+	{
+		"#text": "Network connection is slow",
+		"@_name": "na_diagn_tip_net_connect_slow"
+	},
+	{
+		"#text": "Router no response",
+		"@_name": "na_diagn_tip_no_response"
+	},
+	{
+		"#text": "The router is overloaded. You can try changing your hotspot or disconnect unnecessary devices.",
+		"@_name": "na_diagn_tip_router_load_high"
+	},
+	{
+		"#text": "Weak network signal, please change the position of your router",
+		"@_name": "na_diagn_tip_signal_weak"
+	},
+	{
+		"#text": "Router slow in response. Please check router status or network bandwidth usage",
+		"@_name": "na_diagn_tip_slow_response"
+	},
+	{
+		"#text": "Network signal is weak",
+		"@_name": "na_diagn_tip_weak_signal"
+	},
+	{
+		"#text": "Phone DNS or IP error",
+		"@_name": "na_diagn_tip_wifi_config_error"
+	},
+	{
+		"#text": "WLAN disconnected. Please check your phone settings.",
+		"@_name": "na_diagn_wifi_disconnected"
+	},
+	{
+		"#text": "Done",
+		"@_name": "na_diagnose_done"
+	},
+	{
+		"#text": "NetAdmin would like to access your location",
+		"@_name": "na_permission_granted_msg"
+	},
+	{
+		"#text": "Auto-disable WLAN",
+		"@_name": "na_smart_wifi_set_wifi_disabled"
+	},
+	{
+		"#text": "Auto-enable WLAN",
+		"@_name": "na_smart_wifi_set_wifi_enabled"
+	},
+	{
+		"#text": "Preparing",
+		"@_name": "na_speed_being_prepared"
+	},
+	{
+		"#text": "Download",
+		"@_name": "na_speed_download_speed"
+	},
+	{
+		"#text": "Testing download speed",
+		"@_name": "na_speed_download_type_desc"
+	},
+	{
+		"#text": "0ms",
+		"@_name": "na_speed_example_latency"
+	},
+	{
+		"#text": "0MB/s",
+		"@_name": "na_speed_example_speed_mb"
+	},
+	{
+		"#text": "0MB/s",
+		"@_name": "na_speed_example_upload_kb"
+	},
+	{
+		"#text": "Latency",
+		"@_name": "na_speed_network_latency"
+	},
+	{
+		"#text": "Speed Test",
+		"@_name": "na_speed_network_speed"
+	},
+	{
+		"#text": "Failed to get IP configuration",
+		"@_name": "na_speed_portal_wifi"
+	},
+	{
+		"#text": "Ready",
+		"@_name": "na_speed_ready"
+	},
+	{
+		"#text": "Low speed network",
+		"@_name": "na_speed_reference"
+	},
+	{
+		"#text": "Downloading 1M image takes only %1$d sec",
+		"@_name": "na_speed_reference_1"
+	},
+	{
+		"#text": "Downloading 100M video takes only %1$d sec",
+		"@_name": "na_speed_reference_100"
+	},
+	{
+		"#text": "Downloading 20M video takes only %1$d sec",
+		"@_name": "na_speed_reference_20"
+	},
+	{
+		"#text": "Downloading 5M image takes only %1$d sec",
+		"@_name": "na_speed_reference_5"
+	},
+	{
+		"#text": "Downloading 50M video takes only %1$d sec",
+		"@_name": "na_speed_reference_50"
+	},
+	{
+		"#text": "Test again",
+		"@_name": "na_speed_restart_speed_test"
+	},
+	{
+		"#text": "Close",
+		"@_name": "na_speed_result_dialog_button_text"
+	},
+	{
+		"#text": "Start speed test",
+		"@_name": "na_speed_start_speed_test"
+	},
+	{
+		"#text": "Stop speed test",
+		"@_name": "na_speed_stop_speed_test"
+	},
+	{
+		"#text": "Equivalent to %1$s Broadband",
+		"@_name": "na_speed_test_dialog_bandwidth"
+	},
+	{
+		"#text": "Average Download Speed",
+		"@_name": "na_speed_test_dialog_summary1"
+	},
+	{
+		"#text": "Faster than %1$s of total users nationwide",
+		"@_name": "na_speed_test_dialog_summary2"
+	},
+	{
+		"#text": "Speed test result",
+		"@_name": "na_speed_test_dialog_title"
+	},
+	{
+		"#text": "Upload",
+		"@_name": "na_speed_upload_speed"
+	},
+	{
+		"#text": "Testing upload speed",
+		"@_name": "na_speed_upload_type_desc"
+	},
+	{
+		"#text": "Disconnected",
+		"@_name": "na_speed_wifi_disconnected"
+	},
+	{
+		"#text": "Unavailable",
+		"@_name": "na_speed_wifi_weak"
+	},
+	{
+		"#text": "Network Quality",
+		"@_name": "network_quality_title"
+	},
+	{
+		"#text": "Secure",
+		"@_name": "network_security_title"
+	},
+	{
+		"#text": "Restart check",
+		"@_name": "restart_check_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "search_menu_title"
+	},
+	{
+		"#text": "Done",
+		"@_name": "speed_test_done"
+	},
+	{
+		"#text": "999+",
+		"@_name": "status_bar_notification_info_overflow"
+	},
+	{
+		"#text": "Stop check",
+		"@_name": "stop_check_text"
+	},
+	{
+		"#text": "Detect ARP Attacks",
+		"@_name": "wa_check_detect_arp"
+	},
+	{
+		"#text": "Detect DNS Tampering",
+		"@_name": "wa_check_detect_dns"
+	},
+	{
+		"#text": "Detect Fake WLAN Hotspots",
+		"@_name": "wa_check_detect_fake"
+	},
+	{
+		"#text": "Detect Phishing WLAN Hotspots",
+		"@_name": "wa_check_detect_phishing"
+	},
+	{
+		"#text": "Detect Network Encryption",
+		"@_name": "wa_check_detect_security"
+	},
+	{
+		"#text": "Average Download Speed",
+		"@_name": "wa_check_download_speed"
+	},
+	{
+		"#text": "Done",
+		"@_name": "wa_check_finish"
+	},
+	{
+		"#text": "points",
+		"@_name": "wa_check_marks_unit"
+	},
+	{
+		"#text": "Network Connectivity",
+		"@_name": "wa_check_network_connectivity"
+	},
+	{
+		"#text": "Latency",
+		"@_name": "wa_check_network_latency"
+	},
+	{
+		"#text": "Network Quality",
+		"@_name": "wa_check_network_quality"
+	},
+	{
+		"#text": "Online Devices",
+		"@_name": "wa_check_online_device"
+	},
+	{
+		"#text": "Router status",
+		"@_name": "wa_check_router_status"
+	},
+	{
+		"#text": "Security",
+		"@_name": "wa_check_security"
+	},
+	{
+		"#text": "Signal Quality",
+		"@_name": "wa_check_signal_quality"
+	},
+	{
+		"#text": "Error",
+		"@_name": "wa_check_status_abnormal"
+	},
+	{
+		"#text": "\"\nEquivalent to %1$s broadband\"",
+		"@_name": "wa_check_status_band_width"
+	},
+	{
+		"#text": "Risky",
+		"@_name": "wa_check_status_dangerous"
+	},
+	{
+		"#text": "High",
+		"@_name": "wa_check_status_latency_high"
+	},
+	{
+		"#text": "%1$s",
+		"@_name": "wa_check_status_load_num"
+	},
+	{
+		"#text": "Normal",
+		"@_name": "wa_check_status_normal"
+	},
+	{
+		"#text": "Unchecked",
+		"@_name": "wa_check_status_not_yet_detected"
+	},
+	{
+		"#text": "Safe",
+		"@_name": "wa_check_status_safe"
+	},
+	{
+		"#text": "Unencrypted",
+		"@_name": "wa_check_status_security_none"
+	},
+	{
+		"#text": "Poor",
+		"@_name": "wa_check_status_signal_bad"
+	},
+	{
+		"#text": "Good",
+		"@_name": "wa_check_status_signal_good"
+	},
+	{
+		"#text": "Average",
+		"@_name": "wa_check_status_signal_ordinary"
+	},
+	{
+		"#text": "View Devices",
+		"@_name": "wa_check_view_online_devices"
+	},
+	{
+		"#text": "WLAN disconnected, please connect and retry",
+		"@_name": "wa_check_wifi_disconnected"
+	},
+	{
+		"#text": "Examine",
+		"@_name": "wa_depth_check"
+	},
+	{
+		"#text": "Checking",
+		"@_name": "wa_depth_checking"
+	},
+	{
+		"#text": "Checking network quality…",
+		"@_name": "wa_doing_diagnose"
+	},
+	{
+		"#text": "Checking security…",
+		"@_name": "wa_doing_secure_detect"
+	},
+	{
+		"#text": "Testing network speed…",
+		"@_name": "wa_doing_speed_test"
+	},
+	{
+		"#text": "Network quality test completed",
+		"@_name": "wa_done_diagnose"
+	},
+	{
+		"#text": "Security check completed",
+		"@_name": "wa_done_secure_detect"
+	},
+	{
+		"#text": "Speed test completed",
+		"@_name": "wa_done_speed_test"
+	},
+	{
+		"#text": "Local",
+		"@_name": "wa_online_devices_local_device"
+	},
+	{
+		"#text": "%1$s devices connected",
+		"@_name": "wa_online_devices_num"
+	},
+	{
+		"#text": "Unknown device",
+		"@_name": "wa_online_devices_unknown"
+	}
+]

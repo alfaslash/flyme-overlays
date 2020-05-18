@@ -1,0 +1,34 @@
+[
+	{
+		"#text": "Память – звонки и SMS/MMS",
+		"@_name": "app_label"
+	},
+	{
+		"#text": "Вам необходимо: 1) сделать копию базы данных SMS во внутреннюю память и 2) отправить её по электронной почте (не забудьте удалить копию с устройства после её передаче по электронной почте). Пожалуйста, подождите одну минуту после того, как нажмёте Старт",
+		"@_name": "mzc_debug_dump_database_message"
+	},
+	{
+		"#text": "Удалить сейчас",
+		"@_name": "mzc_debug_dump_delete_button"
+	},
+	{
+		"#text": "Прилагается моя база данных SMS. Будьте осторожны при её обработке!",
+		"@_name": "mzc_debug_dump_email_body"
+	},
+	{
+		"#text": "Выберите программу для отправки файла",
+		"@_name": "mzc_debug_dump_email_sender_picker"
+	},
+	{
+		"#text": "Добавлена база данных SMS",
+		"@_name": "mzc_debug_dump_email_subject"
+	},
+	{
+		"#text": "Старт",
+		"@_name": "mzc_debug_dump_start_button"
+	},
+	{
+		"#text": "Копия базы данных SMS",
+		"@_name": "mzc_debug_dump_title"
+	}
+]

@@ -1,0 +1,2362 @@
+[
+	{
+		"#text": "45, 0, 62, 20.5",
+		"@_name": "mz_smart_bar_configuration_default"
+	},
+	{
+		"#text": "auto",
+		"@_name": "config_default_location_provider_mode"
+	},
+	{
+		"@_name": "cover_control_path_string"
+	},
+	{
+		"@_name": "hall_state_path_string"
+	},
+	{
+		"#text": "/sys/class/meizu/tp/gesture_control",
+		"@_name": "gesture_control_path_string"
+	},
+	{
+		"#text": "/sys/class/meizu/tp/gesture_data",
+		"@_name": "gesture_data_path_string"
+	},
+	{
+		"#text": "/sys/class/meizu/sub_tp/gesture_control",
+		"@_name": "sub_gesture_control_path_string"
+	},
+	{
+		"#text": "中国电信客服热线",
+		"@_name": "specail_number_dianxin"
+	},
+	{
+		"#text": "中国联通客服热线",
+		"@_name": "specail_number_liantong"
+	},
+	{
+		"#text": "中国铁通客服热线",
+		"@_name": "specail_number_tietong"
+	},
+	{
+		"#text": "中国移动客服热线",
+		"@_name": "specail_number_yidong"
+	},
+	{
+		"#text": "天气预报",
+		"@_name": "specail_number_tianqi"
+	},
+	{
+		"#text": "消费者协会服务热线",
+		"@_name": "specail_number_xiaofeizhe"
+	},
+	{
+		"#text": "司法服务热线",
+		"@_name": "specail_number_sifa"
+	},
+	{
+		"#text": "价格监督服务热线",
+		"@_name": "specail_number_jiage"
+	},
+	{
+		"#text": "环保监督服务热线",
+		"@_name": "specail_number_huanbao"
+	},
+	{
+		"#text": "质量监督服务热线",
+		"@_name": "specail_number_zhiliang"
+	},
+	{
+		"#text": "地税纳税服务热线",
+		"@_name": "specail_number_dishui"
+	},
+	{
+		"#text": "机构编制违规举报热线",
+		"@_name": "specail_number_jubao"
+	},
+	{
+		"#text": "劳动者维权服务热线",
+		"@_name": "specail_number_laodong"
+	},
+	{
+		"#text": "政府公益服务热线",
+		"@_name": "specail_number_gongyi"
+	},
+	{
+		"#text": "中国移动综合信息服务",
+		"@_name": "specail_number_yidongfuwu"
+	},
+	{
+		"#text": "顺丰速运",
+		"@_name": "specail_number_shunfeng"
+	},
+	{
+		"#text": "宅急送",
+		"@_name": "specail_number_zaijisong"
+	},
+	{
+		"#text": "全一快递",
+		"@_name": "specail_number_quanyi"
+	},
+	{
+		"#text": "联邦快递",
+		"@_name": "specail_number_federal"
+	},
+	{
+		"#text": "UPS",
+		"@_name": "specail_number_ups"
+	},
+	{
+		"#text": "中外运敦豪",
+		"@_name": "specail_number_dhl"
+	},
+	{
+		"#text": "中外运天地",
+		"@_name": "specail_number_tnt"
+	},
+	{
+		"#text": "德邦物流",
+		"@_name": "specail_number_debon"
+	},
+	{
+		"#text": "中国邮政特快专递",
+		"@_name": "specail_number_ems"
+	},
+	{
+		"#text": "中国人寿保险公司",
+		"@_name": "specail_number_renshou"
+	},
+	{
+		"#text": "泰康人寿保险公司",
+		"@_name": "specail_number_taikang"
+	},
+	{
+		"#text": "上海浦东发展银行",
+		"@_name": "specail_number_pudong"
+	},
+	{
+		"#text": "中国建设银行",
+		"@_name": "specail_number_jianshe"
+	},
+	{
+		"#text": "招商银行",
+		"@_name": "specail_number_zhaoshangbank"
+	},
+	{
+		"#text": "华安财产保险股份有限公司",
+		"@_name": "specail_number_huaan"
+	},
+	{
+		"#text": "中信银行",
+		"@_name": "specail_number_zhongxin"
+	},
+	{
+		"#text": "深圳发展银行",
+		"@_name": "specail_number_shenfazhan"
+	},
+	{
+		"#text": "永安财产保险股份有限公司",
+		"@_name": "specail_number_yongan"
+	},
+	{
+		"#text": "天安保险股份有限公司",
+		"@_name": "specail_number_tianan"
+	},
+	{
+		"#text": "广东发展银行",
+		"@_name": "specail_number_guangfazhan"
+	},
+	{
+		"#text": "华泰财产保险股份有限公司",
+		"@_name": "specail_number_huatai"
+	},
+	{
+		"#text": "阳光财产保险股份有限公司",
+		"@_name": "specail_number_yangguang"
+	},
+	{
+		"#text": "中国平安保险（集团）股份有限公司",
+		"@_name": "specail_number_pinganbaoxian"
+	},
+	{
+		"#text": "中国平安财产保险股份公司",
+		"@_name": "specail_number_pingancaibao"
+	},
+	{
+		"#text": "合众人寿保险股份有限公司",
+		"@_name": "specail_number_hezhong"
+	},
+	{
+		"#text": "中国银联股份有限公司",
+		"@_name": "specail_number_yinlian"
+	},
+	{
+		"#text": "中国人民保险公司",
+		"@_name": "specail_number_renbao"
+	},
+	{
+		"#text": "中国交通银行",
+		"@_name": "specail_number_jiaotong"
+	},
+	{
+		"#text": "兴业银行",
+		"@_name": "specail_number_xingye"
+	},
+	{
+		"#text": "招商证券股份有限公司",
+		"@_name": "specail_number_zhaoshang"
+	},
+	{
+		"#text": "中国银行",
+		"@_name": "specail_number_zhongguo"
+	},
+	{
+		"#text": "新华人寿保险公司",
+		"@_name": "specail_number_xinhua"
+	},
+	{
+		"#text": "中国民生银行",
+		"@_name": "specail_number_minsheng"
+	},
+	{
+		"#text": "安邦财产保险股份有限公司",
+		"@_name": "specail_number_anbang"
+	},
+	{
+		"#text": "华夏银行",
+		"@_name": "specail_number_huaxia"
+	},
+	{
+		"#text": "中国邮政储蓄银行",
+		"@_name": "specail_number_youzheng"
+	},
+	{
+		"#text": "中华联合财产保险公司",
+		"@_name": "specail_number_lianhe"
+	},
+	{
+		"#text": "都邦财产保险股份有限公司",
+		"@_name": "specail_number_doubang"
+	},
+	{
+		"#text": "中国工商银行",
+		"@_name": "specail_number_gongshang"
+	},
+	{
+		"#text": "太平人寿保险有限公司",
+		"@_name": "specail_number_taibao"
+	},
+	{
+		"#text": "中国大地财产保险股份有限公司",
+		"@_name": "specail_number_dadi"
+	},
+	{
+		"#text": "中国人民健康保险股份有限公司",
+		"@_name": "specail_number_jianbao"
+	},
+	{
+		"#text": "中国光大银行",
+		"@_name": "specail_number_guangda"
+	},
+	{
+		"#text": "民生人寿保险股份有限公司",
+		"@_name": "specail_number_renbaogufeng"
+	},
+	{
+		"#text": "国家电力公司",
+		"@_name": "specail_number_dianli"
+	},
+	{
+		"#text": "中国农业银行",
+		"@_name": "specail_number_nongye"
+	},
+	{
+		"#text": "魅族客服热线",
+		"@_name": "specail_number_meizu"
+	},
+	{
+		"#text": "yyyy/M/d, EEE",
+		"@_name": "mz_numeric_date_format_ymd"
+	},
+	{
+		"#text": "yyyy/d/M, EEE",
+		"@_name": "mz_numeric_date_format_ydm"
+	},
+	{
+		"#text": "EEE, M/d/yyyy",
+		"@_name": "mz_numeric_date_format_mdy"
+	},
+	{
+		"#text": "EEE, M/yyyy/d",
+		"@_name": "mz_numeric_date_format_myd"
+	},
+	{
+		"#text": "EEE, d/M/yyyy",
+		"@_name": "mz_numeric_date_format_dmy"
+	},
+	{
+		"#text": "EEE, d/yyyy/M",
+		"@_name": "mz_numeric_date_format_dym"
+	},
+	{
+		"#text": "MMM d",
+		"@_name": "lock_month_day"
+	},
+	{
+		"#text": "yyyy年M月d日(EEE)",
+		"@_name": "lock_week"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%p %I:%M",
+		"@_name": "pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %p %I:%M",
+		"@_name": "pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m",
+		"@_name": "pattern_day_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m %H:%M",
+		"@_name": "pattern_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m %p %I:%M",
+		"@_name": "pattern_day_month_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %p %I:%M",
+		"@_name": "pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e/%-m %H:%M",
+		"@_name": "pattern_week_day_month_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-e/%-m %p %I:%M",
+		"@_name": "pattern_week_day_month_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %p %I:%M",
+		"@_name": "pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%Y",
+		"@_name": "pattern_month_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m/%Y",
+		"@_name": "pattern_day_month_year",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m/%Y %H:%M",
+		"@_name": "pattern_day_month_year_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-e/%-m/%Y %p %I:%M",
+		"@_name": "pattern_day_month_year_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %p %I:%M",
+		"@_name": "pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "pattern_yesterday"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "pattern_hour_before"
+	},
+	{
+		"#text": "an hour ago",
+		"@_name": "pattern_a_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "pattern_minute_before"
+	},
+	{
+		"#text": "a minute ago",
+		"@_name": "pattern_a_minute_before"
+	},
+	{
+		"#text": "Today",
+		"@_name": "pattern_today"
+	},
+	{
+		"#text": "Select",
+		"@_name": "select"
+	},
+	{
+		"#text": "Copy all",
+		"@_name": "copyAll"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "enable"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "disable"
+	},
+	{
+		"#text": "Update",
+		"@_name": "change_num"
+	},
+	{
+		"#text": "%s attempt(s) left to enter the password",
+		"@_name": "lock_password_left_times"
+	},
+	{
+		"#text": "Default",
+		"@_name": "mz_resolver_default_app"
+	},
+	{
+		"#text": "\"%2$s isn't responding\"",
+		"@_name": "anr_activity_application"
+	},
+	{
+		"#text": "\"Activity %1$s isn't responding\"",
+		"@_name": "anr_activity_process"
+	},
+	{
+		"#text": "\"%1$s isn't responding\"",
+		"@_name": "anr_application_process"
+	},
+	{
+		"#text": "\"Process %1$s isn't responding\"",
+		"@_name": "anr_process"
+	},
+	{
+		"#text": "Do you want to close it?",
+		"@_name": "mz_anr_close_or_not"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "bluetooth_pairing_request"
+	},
+	{
+		"#text": "Emergency call",
+		"@_name": "access_control_emergency_dialer"
+	},
+	{
+		"#text": "Open the link",
+		"@_name": "url_warning_title"
+	},
+	{
+		"#text": "This may consume your cellular data",
+		"@_name": "url_warning_messgae"
+	},
+	{
+		"#text": "Vault",
+		"@_name": "mtp_locked_section"
+	},
+	{
+		"#text": "System update",
+		"@_name": "mz_upgrade_tips_title"
+	},
+	{
+		"#text": "Your phone will restart. Please make sure battery power is sufficient.",
+		"@_name": "mz_upgrade_tips"
+	},
+	{
+		"#text": "The update will be installed after your phone is restarted. Your current battery is low. Please connect your charger and tap Restart Now.",
+		"@_name": "mz_low_battery_upgrade_tips"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mz_upgrade_immediately"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_upgrade_later"
+	},
+	{
+		"#text": "Network update",
+		"@_name": "mz_permlab_networkUpgrade"
+	},
+	{
+		"#text": "Allows an application to download and install system updates automatically, which may erase all data, configuration and installed applications.",
+		"@_name": "mz_permdesc_networkUpgrade"
+	},
+	{
+		"#text": "\"Can't update because battery is below 20%\"",
+		"@_name": "mz_update_battery_low"
+	},
+	{
+		"#text": "Root Permission Notice",
+		"@_name": "mz_upgrade_root_title"
+	},
+	{
+		"#text": "You have gained root permission. Permission settings will be reset to default after the update",
+		"@_name": "mz_upgrade_root_message"
+	},
+	{
+		"#text": "Network shared to %1$d device(s)",
+		"@_name": "tethered_notification_title_one_device"
+	},
+	{
+		"#text": "Network shared to %1$d devices",
+		"@_name": "tethered_notification_title_devices"
+	},
+	{
+		"#text": "Portable hotspot: %1$d connection(s)",
+		"@_name": "tethered_notification_message_devices"
+	},
+	{
+		"#text": "Set regular boot time",
+		"@_name": "boot_alarm_permission_title"
+	},
+	{
+		"#text": "\"Set the phone's regular boot time\"",
+		"@_name": "boot_alarm_permission_description"
+	},
+	{
+		"#text": "Done",
+		"@_name": "finish_button_label"
+	},
+	{
+		"#text": "Recommend",
+		"@_name": "recommend_recommend"
+	},
+	{
+		"#text": "Search in app store",
+		"@_name": "recommend_search_mstore"
+	},
+	{
+		"#text": "Search %s",
+		"@_name": "recommend_search_gooleplay"
+	},
+	{
+		"#text": "Failed to open app store",
+		"@_name": "recommend_open_mstore_faile"
+	},
+	{
+		"#text": "Read and write calibration values",
+		"@_name": "read_write_calibration_values_permission_title"
+	},
+	{
+		"#text": "Root and recovery state",
+		"@_name": "permlab_rootRecoveryState"
+	},
+	{
+		"#text": "\"Allow the app to read and write root and recovery state. Should never be needed for normal apps \"",
+		"@_name": "permdesc_rootRecoveryState"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mz_pull_refresh"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mz_is_Refreshing"
+	},
+	{
+		"#text": "Release to refresh",
+		"@_name": "mz_go_Refreshing"
+	},
+	{
+		"#text": "Enroll fingerprint",
+		"@_name": "permlab_register_fingerprint"
+	},
+	{
+		"#text": "Allow an app to enroll fingerprint",
+		"@_name": "permdesc_register_fingerprint"
+	},
+	{
+		"#text": "Authenticate fingerprint",
+		"@_name": "permlab_recognize_fingerprint"
+	},
+	{
+		"#text": "Allow an app to authenticate fingerprint",
+		"@_name": "permdesc_recognize_fingerprint"
+	},
+	{
+		"#text": "Benchmark Mode",
+		"@_name": "recommend_switch_power_mode"
+	},
+	{
+		"#text": "Balanced",
+		"@_name": "battery_consumption_balance_title"
+	},
+	{
+		"#text": "High performance (recommended)",
+		"@_name": "battery_consumption_performance_title"
+	},
+	{
+		"#text": "force kill process",
+		"@_name": "permlab_forceKillProcess"
+	},
+	{
+		"#text": "Allows an application to force kill process",
+		"@_name": "permdesc_forceKillProcess"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "mz_font_family_button_alertdialog"
+	},
+	{
+		"#text": "hour",
+		"@_name": "hour"
+	},
+	{
+		"#text": "\"Fingerprint does't match\"",
+		"@_name": "mz_fp_verify_failed"
+	},
+	{
+		"#text": "Ignore",
+		"@_name": "mz_wifi_notify_button"
+	},
+	{
+		"#text": "Unable to access network.Please log in",
+		"@_name": "mz_wifi_available_sign_in"
+	},
+	{
+		"#text": "DND mode enabled",
+		"@_name": "do_not_disturb_notification_title"
+	},
+	{
+		"#text": "Calls and messages will be muted",
+		"@_name": "do_not_disturb_notification_content"
+	},
+	{
+		"#text": "Allow priority only",
+		"@_name": "do_not_disturb_notification_priority_only_content"
+	},
+	{
+		"#text": "Allow alarm only",
+		"@_name": "do_not_disturb_notification_alarm_only_content"
+	},
+	{
+		"#text": "Allow nothing",
+		"@_name": "do_not_disturb_notification_none_content"
+	},
+	{
+		"#text": "DND mode",
+		"@_name": "do_not_disturb_mode_title"
+	},
+	{
+		"#text": "Allow priority only until %1$s",
+		"@_name": "do_not_disturb_notification_priority_only_content_with_time"
+	},
+	{
+		"#text": "Allow priority only until %1$s",
+		"@_name": "do_not_disturb_notification_alarm_only_content_with_time"
+	},
+	{
+		"#text": "Allow nothing until %1$s",
+		"@_name": "do_not_disturb_notification_none_content_with_time"
+	},
+	{
+		"#text": "tomorrow %1$s",
+		"@_name": "do_not_disturb_notification_time_with_nextday"
+	},
+	{
+		"#text": "Press again to turn the screen off",
+		"@_name": "avoid_power_key_misoperation_tips"
+	},
+	{
+		"#text": "Retry after %d s",
+		"@_name": "kg_too_many_failed_attempts_countdown"
+	},
+	{
+		"#text": "Retry after %1$dminute%2$ds",
+		"@_name": "kg_too_many_failed_high_attempts_countdown"
+	},
+	{
+		"#text": "Set up input method",
+		"@_name": "configure_input_methods"
+	},
+	{
+		"#text": "This operation is not supported",
+		"@_name": "requestNotSupported"
+	},
+	{
+		"#text": "Barring password blocked",
+		"@_name": "barringPWBlocked"
+	},
+	{
+		"#text": "Failed to enable voice",
+		"@_name": "clckEnableVoiceFault"
+	},
+	{
+		"#text": "Fail to enable SMS",
+		"@_name": "clckEnableSmsFault"
+	},
+	{
+		"#text": "Fail to disable voice",
+		"@_name": "clckDisableVoiceFault"
+	},
+	{
+		"#text": "Fail to disable SMS",
+		"@_name": "clckDisableSmsFault"
+	},
+	{
+		"#text": "SMS enabled successfully, failed to enable voice",
+		"@_name": "clckEnableVoiceFaultSmsOK"
+	},
+	{
+		"#text": "SMS disabled successfully, fail to disable voice",
+		"@_name": "clckDisableVoiceFaultSmsOK"
+	},
+	{
+		"#text": "Voice enabled successfully, failed to enable SMS",
+		"@_name": "clckEnableVoiceOKSmsFault"
+	},
+	{
+		"#text": "Voice disabled successfully, fail to disable SMS",
+		"@_name": "clckDisableVoiceOKSmsFault"
+	},
+	{
+		"#text": "Fail to change PIN. Enable PIN lock first.",
+		"@_name": "pinNotEnableError"
+	},
+	{
+		"#text": "Fail to change PIN. This operation is only allowed in PUK state",
+		"@_name": "enterPinWhileNotInPuk"
+	},
+	{
+		"#text": "Stop WLAN file sharing",
+		"@_name": "wifi_share_stop"
+	},
+	{
+		"#text": "Shared",
+		"@_name": "wifi_share_start"
+	},
+	{
+		"#text": "Tap here to disconnect.",
+		"@_name": "pppoe_click_to_disconnect"
+	},
+	{
+		"#text": "PPPoE Connected (%s)",
+		"@_name": "mz_notification_ongoing_pppoe_format"
+	},
+	{
+		"#text": "Local number",
+		"@_name": "local_number"
+	},
+	{
+		"#text": "Setting/Customize set the default Launcher",
+		"@_name": "launcher_choose_hint"
+	},
+	{
+		"#text": "choose default Launcher",
+		"@_name": "chooseDefLauncher"
+	},
+	{
+		"#text": "Please enter the password",
+		"@_name": "confirm_access_password_tip"
+	},
+	{
+		"#text": "Please enter lock screen password",
+		"@_name": "confirm_access_password_tip_for_lockscreen"
+	},
+	{
+		"#text": "Incorrect password, please re-enter",
+		"@_name": "confirm_password_error"
+	},
+	{
+		"#text": "Forgot password?",
+		"@_name": "forget_pwd"
+	},
+	{
+		"#text": "Please verify fingerprint again in %d seconds",
+		"@_name": "mz_fp_lockout"
+	},
+	{
+		"#text": "Retry in %1$d sec",
+		"@_name": "kg_too_many_failed_attempts_countdown_for_lockscreen"
+	},
+	{
+		"#text": "Restart",
+		"@_name": "global_action_power_restart"
+	},
+	{
+		"#text": "Read locked catalogs",
+		"@_name": "permlab_read_protect_file_list"
+	},
+	{
+		"#text": "Allows this app to read locked catalog list.",
+		"@_name": "permdesc_read_protect_file_list"
+	},
+	{
+		"#text": "Modify locked catalogs",
+		"@_name": "permlab_modify_protect_file_list"
+	},
+	{
+		"#text": "Allows this app to add/delete a locked folder",
+		"@_name": "permdesc_modify_protect_file_list"
+	},
+	{
+		"#text": "Auto-grant access",
+		"@_name": "permlab_force_grant_access_protect_file"
+	},
+	{
+		"#text": "Allows this app to request silent authorization to access locked catalog",
+		"@_name": "permdesc_force_grant_access_protect_file"
+	},
+	{
+		"#text": "Request authorization",
+		"@_name": "permlab_request_grant_access_protect_file"
+	},
+	{
+		"#text": "Allows this app to request authorization to access locked catalogs",
+		"@_name": "permdesc_request_grant_access_protect_file"
+	},
+	{
+		"#text": "Allows clearing all authorized non-silent apps when the authorization expires",
+		"@_name": "permdesc_force_clear_when_granted_expired"
+	},
+	{
+		"#text": "Add global unlock catalog",
+		"@_name": "permlab_add_global_unlock_file"
+	},
+	{
+		"#text": "Allows this app to add a global unlocking catalog",
+		"@_name": "permdesc_add-global_unlock_file"
+	},
+	{
+		"#text": "Incorrect password, please re-enter",
+		"@_name": "enter_password_error"
+	},
+	{
+		"#text": "Please enter the password",
+		"@_name": "file_protect_password_tip"
+	},
+	{
+		"#text": "Please enter a password of 4 to 6 digits",
+		"@_name": "file_protect_set_new_password_tip"
+	},
+	{
+		"#text": "Please enter the password again",
+		"@_name": "file_protect_ensure_new_password_tip"
+	},
+	{
+		"#text": "The passwords you entered are inconsistent with each other. Enter it again!",
+		"@_name": "file_protect_confirm_error_tip"
+	},
+	{
+		"#text": "No service",
+		"@_name": "lockscreen_carrier_default"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "socialProfileTypeSinaWeibo"
+	},
+	{
+		"#text": "Other",
+		"@_name": "socialProfileTypeOther"
+	},
+	{
+		"#text": "Custom",
+		"@_name": "socialProfileTypeCustom"
+	},
+	{
+		"#text": "Allows this app to backup or restore system accounts",
+		"@_name": "permdesc_backupAccounts"
+	},
+	{
+		"#text": "Backup or restore system accounts",
+		"@_name": "permlab_backupAccounts"
+	},
+	{
+		"#text": "Press and hold it while speaking",
+		"@_name": "voice_text_normal"
+	},
+	{
+		"#text": "Slip on your fingers to cancel",
+		"@_name": "voice_text_press"
+	},
+	{
+		"#text": "Release to end",
+		"@_name": "voice_text_over"
+	},
+	{
+		"#text": "Speak for %s more second(s)",
+		"@_name": "voice_text_remain"
+	},
+	{
+		"#text": "External device %s",
+		"@_name": "external_storage_device_name"
+	},
+	{
+		"#text": "No App can handle this operation.",
+		"@_name": "app_hidden_des"
+	},
+	{
+		"#text": "No App can be opened",
+		"@_name": "app_hidden_not_found"
+	},
+	{
+		"#text": "retrieve app ops statistics",
+		"@_name": "permlab_getAppOpsStats"
+	},
+	{
+		"#text": "Allows the app to retrieve collected application operation statistics. Not for use by normal apps.",
+		"@_name": "permdesc_getAppOpsStats"
+	},
+	{
+		"#text": "modify app ops statistics",
+		"@_name": "permlab_updateAppOpsStats"
+	},
+	{
+		"#text": "Allows the app to modify collected application operation statistics. Not for use by normal apps.",
+		"@_name": "permdesc_updateAppOpsStats"
+	},
+	{
+		"#text": "Read UsageStatsProvider data",
+		"@_name": "permlab_readusagestats"
+	},
+	{
+		"#text": "Allows the app to read UsageStatsProvider data.",
+		"@_name": "permdesc_readusagestats"
+	},
+	{
+		"#text": "Write UsageStatsProvider data",
+		"@_name": "permlab_writeusagestats"
+	},
+	{
+		"#text": "Allows the app to write UsageStatsProvider data.",
+		"@_name": "permdesc_writeusagestats"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "network"
+	},
+	{
+		"#text": "WLAN network",
+		"@_name": "wlan"
+	},
+	{
+		"#text": "Local/call recordings",
+		"@_name": "recordaudio_local"
+	},
+	{
+		"#text": "Call recorder",
+		"@_name": "recordaudio_phone"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "camera"
+	},
+	{
+		"#text": "Requests the permission to %s",
+		"@_name": "dlg_check_app_control_summary"
+	},
+	{
+		"#text": "\\\"%s\\\" requests the permission to %s. You can change the configuration in Settings > App Control.",
+		"@_name": "dlg_check_app_message",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Function %s%s",
+		"@_name": "dlg_check_app_control_summary_on",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s requests the permission to %s.",
+		"@_name": "dlg_check_app_message_on",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "\\\"%s\\\" Close request %s",
+		"@_name": "dlg_check_app_message_off",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%s requests to create a shortcut on Home screen",
+		"@_name": "dlg_check_app_shortcut"
+	},
+	{
+		"#text": "Enable",
+		"@_name": "open"
+	},
+	{
+		"#text": "Close",
+		"@_name": "close"
+	},
+	{
+		"#text": "Remember my choice",
+		"@_name": "remember_me"
+	},
+	{
+		"#text": "OK",
+		"@_name": "allow_check_app"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "not_allow_check_app"
+	},
+	{
+		"#text": "OK",
+		"@_name": "dlg_ok"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "dlg_cancel"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "bluetooth"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "nfc"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "dialog_push"
+	},
+	{
+		"#text": "\\\"%s\\\" is pushing messages that may cause safety risks. You can change the authorization in Settings/App Control",
+		"@_name": "dlg_push_app_message"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "allow_dialog_push"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "not_allow_dialog_push"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "online_intenert"
+	},
+	{
+		"#text": "Access phone",
+		"@_name": "call"
+	},
+	{
+		"#text": "make phone calls",
+		"@_name": "call_c"
+	},
+	{
+		"#text": "Phone status",
+		"@_name": "op_phone_state"
+	},
+	{
+		"#text": "read phone status",
+		"@_name": "op_phone_state_c"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "s_sms"
+	},
+	{
+		"#text": "directly send MMS",
+		"@_name": "s_sms_c"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "s_mms"
+	},
+	{
+		"#text": "directly send MMS",
+		"@_name": "s_mms_c"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "set_gprs_on"
+	},
+	{
+		"#text": "turn on/off mobile network",
+		"@_name": "set_gprs_on_c"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "set_wifi_on"
+	},
+	{
+		"#text": "turn on/off WLAN",
+		"@_name": "set_wifi_on_c"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "set_bluetooth_on"
+	},
+	{
+		"#text": "turn on/off Bluetooth",
+		"@_name": "set_bluetooth_on_c"
+	},
+	{
+		"#text": "Read contacts",
+		"@_name": "contacts"
+	},
+	{
+		"#text": "read your contacts",
+		"@_name": "contacts_c"
+	},
+	{
+		"#text": "Write/delete Contacts data",
+		"@_name": "w_contacts"
+	},
+	{
+		"#text": "Write/delete Contacts",
+		"@_name": "w_contacts_c"
+	},
+	{
+		"#text": "Delete Contacts",
+		"@_name": "d_contacts"
+	},
+	{
+		"#text": "delete your contacts",
+		"@_name": "d_contacts_c"
+	},
+	{
+		"#text": "Read call logs",
+		"@_name": "call_log"
+	},
+	{
+		"#text": "read your call logs",
+		"@_name": "call_log_c"
+	},
+	{
+		"#text": "Write/Delete call logs",
+		"@_name": "w_call_log"
+	},
+	{
+		"#text": "Write/delete call logs",
+		"@_name": "w_call_log_c"
+	},
+	{
+		"#text": "Delete Call Logs",
+		"@_name": "d_call_log"
+	},
+	{
+		"#text": "delete your call logs",
+		"@_name": "d_call_log_c"
+	},
+	{
+		"#text": "Read SMS and MMS records",
+		"@_name": "r_sms"
+	},
+	{
+		"#text": "Read SMS and MMS records",
+		"@_name": "r_sms_c"
+	},
+	{
+		"#text": "Write SMS or MMS logs",
+		"@_name": "w_sms"
+	},
+	{
+		"#text": "Write SMS or MMS logs",
+		"@_name": "w_sms_c"
+	},
+	{
+		"#text": "Delete SMS or MMS logs",
+		"@_name": "d_sms"
+	},
+	{
+		"#text": "Delete SMS or MMS logs",
+		"@_name": "d_sms_c"
+	},
+	{
+		"#text": "Read MMS logs",
+		"@_name": "r_mms"
+	},
+	{
+		"#text": "read your MMS logs",
+		"@_name": "r_mms_c"
+	},
+	{
+		"#text": "Write MMS logs",
+		"@_name": "w_mms"
+	},
+	{
+		"#text": "write your MMS logs",
+		"@_name": "w_mms_c"
+	},
+	{
+		"#text": "Delete MMS logs",
+		"@_name": "d_mms"
+	},
+	{
+		"#text": "delete your MMS logs",
+		"@_name": "d_mms_c"
+	},
+	{
+		"#text": "Use microphone",
+		"@_name": "op_record_audio"
+	},
+	{
+		"#text": "use microphone",
+		"@_name": "op_record_audio_c"
+	},
+	{
+		"#text": "Access location",
+		"@_name": "location"
+	},
+	{
+		"#text": "locate your phone via network or satellite",
+		"@_name": "location_c"
+	},
+	{
+		"#text": "Use camera",
+		"@_name": "op_camera"
+	},
+	{
+		"#text": "use camera",
+		"@_name": "op_camera_c"
+	},
+	{
+		"#text": "Access phone ID",
+		"@_name": "op_imei"
+	},
+	{
+		"#text": "access your phone ID",
+		"@_name": "op_imei_c"
+	},
+	{
+		"#text": "Modify system settings",
+		"@_name": "op_setting"
+	},
+	{
+		"#text": "modify system settings",
+		"@_name": "op_setting_c"
+	},
+	{
+		"#text": "Auto-start",
+		"@_name": "perm_aotulunch"
+	},
+	{
+		"#text": "Notifications",
+		"@_name": "perm_notification"
+	},
+	{
+		"#text": "Pop-up window",
+		"@_name": "perm_alert"
+	},
+	{
+		"#text": "Install shortcut",
+		"@_name": "op_shortcut"
+	},
+	{
+		"#text": "install shortcut",
+		"@_name": "op_shortcut_c"
+	},
+	{
+		"#text": "Read list of installed apps",
+		"@_name": "op_getinstallpkg"
+	},
+	{
+		"#text": "Read list of installed apps",
+		"@_name": "op_getinstallpkg_c"
+	},
+	{
+		"#text": "Use body sensor",
+		"@_name": "body_sensors"
+	},
+	{
+		"#text": "Read Calendar",
+		"@_name": "r_calendar"
+	},
+	{
+		"#text": "Write/delete Calendar",
+		"@_name": "wd_calendar"
+	},
+	{
+		"#text": "Transfer media files on PC",
+		"@_name": "usb_mtp_summary"
+	},
+	{
+		"#text": "Transfer photos on PC",
+		"@_name": "usb_ptp_summary"
+	},
+	{
+		"#text": "NFC sharing has expired. Unable to share.",
+		"@_name": "nfc_activity_not_found_err"
+	},
+	{
+		"#text": "Not connected to the network. Please try again later",
+		"@_name": "vpn_no_network"
+	},
+	{
+		"#text": "No certificate",
+		"@_name": "vpn_can_not_load_credential"
+	},
+	{
+		"#text": "This is a beta firmware, so please use it within reasonable limits.",
+		"@_name": "top_message"
+	},
+	{
+		"#text": "Lunar Birthday",
+		"@_name": "eventTypeLunarBirthday"
+	},
+	{
+		"#text": "Fax",
+		"@_name": "phoneTypeFaxWork"
+	},
+	{
+		"#text": "Drive assistant enabled",
+		"@_name": "mz_drive_mode_title"
+	},
+	{
+		"#text": "Tap to show details",
+		"@_name": "mz_drive_mode_message"
+	},
+	{
+		"#text": "Optimizing apps,",
+		"@_name": "dexopt_apps_title"
+	},
+	{
+		"#text": "Optimizing apps %1$d/%2$d",
+		"@_name": "dexopt_apps_apk"
+	},
+	{
+		"#text": "Please free up some space, or some apps and system functions may not work well.",
+		"@_name": "low_storage_warning_message"
+	},
+	{
+		"#text": "Free Space",
+		"@_name": "free_memory_btn"
+	},
+	{
+		"#text": "Internal storage is running out, the application has been stopped. Please free up some space and try again.",
+		"@_name": "aerr_application_lowstorage"
+	},
+	{
+		"#text": "Internal storage is running out, the process has been stopped. Please free up some space and try again.",
+		"@_name": "aerr_process_lowstorage"
+	},
+	{
+		"#text": "Internal storage running out",
+		"@_name": "low_internal_storage_view_title"
+	},
+	{
+		"#text": "SD Card",
+		"@_name": "storage_sd_card"
+	},
+	{
+		"#text": "Airplane mode",
+		"@_name": "global_actions_toggle_airplane_mode"
+	},
+	{
+		"#text": "...",
+		"@_name": "ellipsis"
+	},
+	{
+		"#text": "Share",
+		"@_name": "share"
+	},
+	{
+		"#text": "Delete",
+		"@_name": "delete"
+	},
+	{
+		"#text": "Default ringtone",
+		"@_name": "ringtone_default"
+	},
+	{
+		"#text": "None",
+		"@_name": "ringtone_silent"
+	},
+	{
+		"#text": "Mute",
+		"@_name": "ringtone_unknown"
+	},
+	{
+		"#text": "In airplane mode, you can manually enable WLAN",
+		"@_name": "enable_airplane_notify"
+	},
+	{
+		"#text": "Prompt",
+		"@_name": "prompt_title"
+	},
+	{
+		"#text": "\"Don't show again\"",
+		"@_name": "not_prompt_notify"
+	},
+	{
+		"#text": "Wireless display is connected",
+		"@_name": "wifi_display_notification_connected_title"
+	},
+	{
+		"#text": "Disconnect",
+		"@_name": "wifi_display_notification_disconnect"
+	},
+	{
+		"#text": "Portable hotspot is active",
+		"@_name": "tethered_notification_title"
+	},
+	{
+		"#text": "Tap to set up",
+		"@_name": "tethered_notification_message"
+	},
+	{
+		"#text": "Usb audio",
+		"@_name": "usbaudio_title"
+	},
+	{
+		"#text": "Output audio from the usb sound card",
+		"@_name": "usbaudio_subtitle"
+	},
+	{
+		"#text": "USB Charge Only",
+		"@_name": "usb_charging_notification_title"
+	},
+	{
+		"#text": "Connected as an installer",
+		"@_name": "usb_cd_installer_notification_title"
+	},
+	{
+		"#text": "Power Off",
+		"@_name": "global_action_shut_down"
+	},
+	{
+		"#text": "\\\"%s\\\"applies for the permission of %s. Configuration can be changed in Setting/Security and location/Locating service",
+		"@_name": "dlg_check_app_message_location",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "CMCC",
+		"@_name": "oper_long_46000"
+	},
+	{
+		"#text": "CU",
+		"@_name": "oper_long_46001"
+	},
+	{
+		"#text": "China Telecom",
+		"@_name": "oper_long_46003"
+	},
+	{
+		"#text": "Far EasTone",
+		"@_name": "oper_long_46601"
+	},
+	{
+		"#text": "Chunghwa Telecom",
+		"@_name": "oper_long_46692"
+	},
+	{
+		"#text": "Taiwan Mobile",
+		"@_name": "oper_long_46697"
+	},
+	{
+		"#text": "Android1",
+		"@_name": "oper_long_99998"
+	},
+	{
+		"#text": "Android",
+		"@_name": "oper_long_99999"
+	},
+	{
+		"#text": "CMCC",
+		"@_name": "oper_short_46000"
+	},
+	{
+		"#text": "CU-GSM",
+		"@_name": "oper_short_46001"
+	},
+	{
+		"#text": "China Telecom",
+		"@_name": "oper_short_46003"
+	},
+	{
+		"#text": "FET",
+		"@_name": "oper_short_46601"
+	},
+	{
+		"#text": "Chunghwa",
+		"@_name": "oper_short_46692"
+	},
+	{
+		"#text": "TWN",
+		"@_name": "oper_short_46697"
+	},
+	{
+		"#text": "AD1",
+		"@_name": "oper_short_99997"
+	},
+	{
+		"#text": "AD",
+		"@_name": "oper_short_99999"
+	},
+	{
+		"#text": "The app is being installed via USB",
+		"@_name": "usb_install_dialog_title"
+	},
+	{
+		"#text": "Allow",
+		"@_name": "usb_install_dialog_allow"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "usb_install_dialog_deny"
+	},
+	{
+		"#text": "Flyme is protecting your payment",
+		"@_name": "security_pay_notification_text"
+	},
+	{
+		"#text": "Tap to view details",
+		"@_name": "security_pay_show_detail_text"
+	},
+	{
+		"#text": "Flyme Secure Payment",
+		"@_name": "security_pay_icon_text"
+	},
+	{
+		"#text": "Secure payment mode enabled. The following measures will be taken to ensure security:",
+		"@_name": "security_pay_title_text"
+	},
+	{
+		"#text": "Prevent malicious processes from starting",
+		"@_name": "security_pay_process_text"
+	},
+	{
+		"#text": "Forbid screen overlay to prevent hijacking",
+		"@_name": "security_pay_surface_text"
+	},
+	{
+		"#text": "Disable debugging mode to prevent data disclosure",
+		"@_name": "security_pay_debug_text"
+	},
+	{
+		"#text": "\"Monitor third-party apps' reading, writing and interception of messages to protect SMS verification code\"",
+		"@_name": "security_pay_sms_text"
+	},
+	{
+		"#text": "Switch to secure system keyboard when you enter password, and prevent third-party apps from taking screenshots or recording screen",
+		"@_name": "security_pay_password_text"
+	},
+	{
+		"#text": "Enable touch location protection to prevent interception of touch events",
+		"@_name": "security_pay_event_text"
+	},
+	{
+		"#text": "Got It",
+		"@_name": "security_pay_button_text"
+	},
+	{
+		"#text": "Flyme security keyboard",
+		"@_name": "security_kb_title"
+	},
+	{
+		"#text": "~*",
+		"@_name": "security_kb_symbol"
+	},
+	{
+		"#text": 123,
+		"@_name": "security_kb_number"
+	},
+	{
+		"#text": "Back",
+		"@_name": "security_kb_back"
+	},
+	{
+		"#text": "Optimizing apps %1$d%%",
+		"@_name": "dexopt_apps_apk_percent"
+	},
+	{
+		"#text": "The system has an error due to unauthorized uninstallation of %s. Please flash your firmware to restore the system.",
+		"@_name": "find_phone_dialog_content"
+	},
+	{
+		"#text": "Restore Now",
+		"@_name": "find_phone_dialog_button"
+	},
+	{
+		"#text": "The system has an error due to unauthorized disabling of %s. It will be restored to normal.",
+		"@_name": "find_phone_state_dialog_content"
+	},
+	{
+		"#text": "Restore Now",
+		"@_name": "find_phone_state_dialog_button"
+	},
+	{
+		"#text": "Phone Finder",
+		"@_name": "find_phone_app_name_find_phone"
+	},
+	{
+		"#text": "User Center",
+		"@_name": "find_phone_app_name_mzaccount"
+	},
+	{
+		"#text": "Cloud Service",
+		"@_name": "find_phone_app_name_mzcloud"
+	},
+	{
+		"#text": "Unmounting SD card...",
+		"@_name": "progress_unmounting"
+	},
+	{
+		"#text": "Erasing SD card...",
+		"@_name": "progress_erasing"
+	},
+	{
+		"#text": "\"Couldn't wipe SD card\"",
+		"@_name": "format_error"
+	},
+	{
+		"#text": "SD card was removed before being unmounted",
+		"@_name": "media_bad_removal"
+	},
+	{
+		"#text": "SD card is currently being checked",
+		"@_name": "media_checking"
+	},
+	{
+		"#text": "SD card has been removed",
+		"@_name": "media_removed"
+	},
+	{
+		"#text": "SD card is currently in use by a computer",
+		"@_name": "media_shared"
+	},
+	{
+		"#text": "External media in unknown state",
+		"@_name": "media_unknown_state"
+	},
+	{
+		"#text": "Auto-updating system %1$d%%",
+		"@_name": "upgrade_system_percent"
+	},
+	{
+		"#text": "System booting…",
+		"@_name": "system_booting"
+	},
+	{
+		"#text": "Data connection only",
+		"@_name": "data_conn_only"
+	},
+	{
+		"#text": "4G connection enabled",
+		"@_name": "four_g_enabled"
+	},
+	{
+		"#text": "\"Can't change wallpaper on the current system version. Please update your system and try again.\"",
+		"@_name": "unsupport_set_wallpaper_on_media_eval_system"
+	},
+	{
+		"#text": "\"Can't change wallpaper in kid mode.\"",
+		"@_name": "children_mode_can_not_set_wallpaper"
+	},
+	{
+		"#text": "\"App isn't available\"",
+		"@_name": "app_suspended_title"
+	},
+	{
+		"#text": "\"%1$s isn't available right now. This is managed by %2$s.\"",
+		"@_name": "app_suspended_default_message"
+	},
+	{
+		"#text": "Learn more",
+		"@_name": "app_suspended_more_details"
+	},
+	{
+		"#text": "Flyme Internal Version",
+		"@_name": "upgrade_watermark_text"
+	},
+	{
+		"#text": "nrsnh",
+		"@_name": "config_def_theme"
+	},
+	{
+		"#text": "EEE",
+		"@_name": "calendar_day_of_week"
+	},
+	{
+		"#text": "Starting download",
+		"@_name": "download_pending"
+	},
+	{
+		"#text": "%H:%M",
+		"@_name": "mc_pattern_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%I:%M %p",
+		"@_name": "mc_pattern_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a",
+		"@_name": "mc_pattern_week"
+	},
+	{
+		"#text": "%a %H:%M",
+		"@_name": "mc_pattern_week_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %I:%M %p",
+		"@_name": "mc_pattern_week_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %H:%M",
+		"@_name": "mc_pattern_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %H:%M",
+		"@_name": "mc_pattern_week_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%a %-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_week_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m",
+		"@_name": "mc_pattern_year_month",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %H:%M",
+		"@_name": "mc_pattern_year_month_day_hour_minute",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e %I:%M %p",
+		"@_name": "mc_pattern_year_month_day_hour_minute_12",
+		"@_formatted": "false"
+	},
+	{
+		"#text": ", hours ago",
+		"@_name": "mc_pattern_hour_before"
+	},
+	{
+		"#text": "1 hour ago",
+		"@_name": "mc_pattern_a_hour_before"
+	},
+	{
+		"#text": ", minutes ago",
+		"@_name": "mc_pattern_minute_before"
+	},
+	{
+		"#text": "1 minute ago",
+		"@_name": "mc_pattern_a_minute_before"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_pattern_today"
+	},
+	{
+		"#text": "%-m/%-e",
+		"@_name": "mc_simple_pattern_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "%Y/%-m/%-e",
+		"@_name": "mc_simple_pattern_year_month_day",
+		"@_formatted": "false"
+	},
+	{
+		"#text": "Yesterday",
+		"@_name": "mc_pattern_yesterday"
+	},
+	{
+		"#text": "MeizuCommon",
+		"@_name": "mc_app_name"
+	},
+	{
+		"#text": "Settings",
+		"@_name": "mc_action_settings"
+	},
+	{
+		"#text": "Hello world!",
+		"@_name": "mc_hello_world"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_yes"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_minute"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_second"
+	},
+	{
+		"#text": "More",
+		"@_name": "more_item_label"
+	},
+	{
+		"#text": "MO",
+		"@_name": "mc_monday"
+	},
+	{
+		"#text": "TU",
+		"@_name": "mc_tuesday"
+	},
+	{
+		"#text": "WE",
+		"@_name": "mc_wednesday"
+	},
+	{
+		"#text": "TH",
+		"@_name": "mc_thursday"
+	},
+	{
+		"#text": "FR",
+		"@_name": "mc_friday"
+	},
+	{
+		"#text": "SA",
+		"@_name": "mc_saturday"
+	},
+	{
+		"#text": "SU",
+		"@_name": "mc_sunday"
+	},
+	{
+		"#text": "Once",
+		"@_name": "mc_never"
+	},
+	{
+		"#text": "Every day",
+		"@_name": "mc_every_day"
+	},
+	{
+		"#text": "Weekdays",
+		"@_name": "mc_working_day"
+	},
+	{
+		"#text": "Weekend",
+		"@_name": "mc_weekend"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_month"
+	},
+	{
+		"#text": "y",
+		"@_name": "mc_date_time_year"
+	},
+	{
+		"#text": "d",
+		"@_name": "mc_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mc_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mc_date_time_min"
+	},
+	{
+		"#text": "s",
+		"@_name": "mc_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "mc_date_time_set"
+	},
+	{
+		"#text": "Schedule",
+		"@_name": "mc_time_picker_dialog_title"
+	},
+	{
+		"#text": "Lunar",
+		"@_name": "mc_custom_date_time_lunar"
+	},
+	{
+		"#text": "Gregorian",
+		"@_name": "mc_custom_date_time_gregorian"
+	},
+	{
+		"#text": "Show Lunar",
+		"@_name": "mc_custom_date_time_show_lunar"
+	},
+	{
+		"#text": "Show Gregorian",
+		"@_name": "mc_custom_date_time_show_gregorian"
+	},
+	{
+		"#text": "Hide Lunar",
+		"@_name": "mc_custom_date_time_hide_lunar"
+	},
+	{
+		"#text": "Today",
+		"@_name": "mc_custom_date_time_today"
+	},
+	{
+		"#text": "Days Before",
+		"@_name": "mc_custom_date_time_day_before"
+	},
+	{
+		"#text": "Days After",
+		"@_name": "mc_custom_date_time_day_after"
+	},
+	{
+		"#text": "%1$s selected",
+		"@_name": "item_is_selected"
+	},
+	{
+		"#text": "Request for permission",
+		"@_name": "mc_permission_apply"
+	},
+	{
+		"#text": "Always allow",
+		"@_name": "mc_alway_allow"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_reject"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_allow"
+	},
+	{
+		"#text": "%1$s requests %3$d permission(s) including %2$s",
+		"@_name": "mc_permission_message_content"
+	},
+	{
+		"#text": "Call",
+		"@_name": "mc_pm_call"
+	},
+	{
+		"#text": "Read CallLog",
+		"@_name": "mc_pm_call_log"
+	},
+	{
+		"#text": "Read Contacts",
+		"@_name": "mc_pm_contacts"
+	},
+	{
+		"#text": "Read SMS",
+		"@_name": "mc_pm_r_sms"
+	},
+	{
+		"#text": "Send SMS",
+		"@_name": "mc_pm_s_sms"
+	},
+	{
+		"#text": "Read MMS",
+		"@_name": "mc_pm_r_mms"
+	},
+	{
+		"#text": "Send MMS",
+		"@_name": "mc_pm_s_mms"
+	},
+	{
+		"#text": "Cellular data",
+		"@_name": "mc_pm_network"
+	},
+	{
+		"#text": "WLAN",
+		"@_name": "mc_pm_wlan"
+	},
+	{
+		"#text": "Locate",
+		"@_name": "mc_pm_location"
+	},
+	{
+		"#text": "Local/Calling Record",
+		"@_name": "mc_pm_recordaudio_local"
+	},
+	{
+		"#text": "Calling Record",
+		"@_name": "mc_pm_recordaudio_phone"
+	},
+	{
+		"#text": "Camera (Photo/Video)",
+		"@_name": "mc_pm_camera"
+	},
+	{
+		"#text": "Open",
+		"@_name": "mc_pm_open"
+	},
+	{
+		"#text": "Close",
+		"@_name": "mc_pm_close"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_allow_check_app"
+	},
+	{
+		"#text": "Exit",
+		"@_name": "mc_pm_not_allow_check_app"
+	},
+	{
+		"#text": "OK",
+		"@_name": "mc_pm_dlg_ok"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_pm_dlg_cancel"
+	},
+	{
+		"#text": "Bluetooth",
+		"@_name": "mc_pm_bluetooth"
+	},
+	{
+		"#text": "NFC",
+		"@_name": "mc_pm_nfc"
+	},
+	{
+		"#text": "Pop-up push",
+		"@_name": "mc_pm_dialog_push"
+	},
+	{
+		"#text": "Allow push",
+		"@_name": "mc_pm_allow_dialog_push"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_pm_not_allow_dialog_push"
+	},
+	{
+		"#text": "Turn on WLAN",
+		"@_name": "mc_pm_set_wifi_on"
+	},
+	{
+		"#text": "Turn on Bluetooth",
+		"@_name": "mc_pm_set_bluetooth_on"
+	},
+	{
+		"#text": "Turn on mobile network",
+		"@_name": "mc_pm_set_gprs_on"
+	},
+	{
+		"#text": "Internet",
+		"@_name": "mc_pm_online_intenert"
+	},
+	{
+		"#text": "Pull down to refresh",
+		"@_name": "mc_pull_refresh"
+	},
+	{
+		"#text": "Refreshing",
+		"@_name": "mc_is_Refreshing"
+	},
+	{
+		"#text": "Go refresh",
+		"@_name": "mc_go_Refreshing"
+	},
+	{
+		"#text": "last refresh",
+		"@_name": "mc_last_refresh"
+	},
+	{
+		"#text": "hour(s) ago",
+		"@_name": "mc_last_refresh_hour"
+	},
+	{
+		"#text": "minute(s) ago",
+		"@_name": "mc_last_refresh_minute"
+	},
+	{
+		"#text": "s ago",
+		"@_name": "mc_last_refresh_second"
+	},
+	{
+		"#text": "just now",
+		"@_name": "mc_last_refresh_just_now"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_text"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_button_text"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mc_cancel_button_text"
+	},
+	{
+		"#text": "Update",
+		"@_name": "mc_change_num"
+	},
+	{
+		"#text": "Disable",
+		"@_name": "mc_disable"
+	},
+	{
+		"#text": "Clear",
+		"@_name": "mc_search_icon_input_clear"
+	},
+	{
+		"#text": "Search",
+		"@_name": "mc_search_icon"
+	},
+	{
+		"#text": "Voice Search",
+		"@_name": "mc_voice_icon"
+	},
+	{
+		"#text": "Favorite status",
+		"@_name": "mc_collected_message"
+	},
+	{
+		"#text": "Canceled from Favorite",
+		"@_name": "mc_cancel_collected_message"
+	},
+	{
+		"#text": "Like",
+		"@_name": "mc_praised_message"
+	},
+	{
+		"#text": "Cancel like",
+		"@_name": "mc_cancel_praised_message"
+	},
+	{
+		"#text": "Leap month",
+		"@_name": "mc_time_picker_leap"
+	},
+	{
+		"#text": "Loading",
+		"@_name": "mc_loading_view_text"
+	},
+	{
+		"#text": "Selected",
+		"@_name": "mc_value_checked"
+	},
+	{
+		"#text": "Not selected",
+		"@_name": "mc_value_not_checked"
+	},
+	{
+		"#text": "Saving image",
+		"@_name": "mc_loading_animation_alert"
+	},
+	{
+		"#text": "Downloaded",
+		"@_name": "mc_downloading_prefix"
+	},
+	{
+		"#text": "Download Update File",
+		"@_name": "mc_downloading_patch_prefix"
+	},
+	{
+		"#text": "Updating",
+		"@_name": "mc_updating_prefix"
+	},
+	{
+		"#text": "Reject",
+		"@_name": "mc_description_target_decline"
+	},
+	{
+		"#text": "Answer",
+		"@_name": "mc_description_target_answer"
+	},
+	{
+		"#text": "Using slider control. Currently set to %1$s",
+		"@_name": "mc_enhanceseekbar"
+	},
+	{
+		"#text": "All",
+		"@_name": "mc_selectionbutton_all"
+	},
+	{
+		"#text": "sans-serif",
+		"@_name": "default_sans_serif"
+	},
+	{
+		"#text": "sans-serif-normal",
+		"@_name": "flyme_sans_serif_normal"
+	},
+	{
+		"#text": "search_view_share_element",
+		"@_name": "mc_search_view_share_element_name"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_month"
+	},
+	{
+		"#text": "y",
+		"@_name": "mz_date_time_year"
+	},
+	{
+		"#text": "d",
+		"@_name": "mz_date_time_day"
+	},
+	{
+		"#text": "h",
+		"@_name": "mz_date_time_hour"
+	},
+	{
+		"#text": "m",
+		"@_name": "mz_date_time_min"
+	},
+	{
+		"#text": "s",
+		"@_name": "mz_date_time_sec"
+	},
+	{
+		"#text": "Set",
+		"@_name": "date_time_set"
+	},
+	{
+		"#text": "Use this option as default",
+		"@_name": "alwaysUse"
+	},
+	{
+		"#text": "Network unavailable. Please check your network settings.",
+		"@_name": "mz_network_unavailable_hint"
+	},
+	{
+		"#text": "Network Settings",
+		"@_name": "mz_wif_setting_dialog_set"
+	},
+	{
+		"#text": "No network connection. Please check your network settings.",
+		"@_name": "mz_wif_setting_dialog_message"
+	},
+	{
+		"#text": "More",
+		"@_name": "mz_resolver_grid_text_more"
+	},
+	{
+		"#text": "Cancel",
+		"@_name": "mz_resolver_back"
+	},
+	{
+		"#text": "%1$d connections",
+		"@_name": "tethered_notification_message_devices_title"
+	},
+	{
+		"#text": "WeChat friends",
+		"@_name": "mz_wechat_friend"
+	},
+	{
+		"#text": "WeChat Moments",
+		"@_name": "mz_wechat_timeline"
+	},
+	{
+		"#text": "Sina Weibo",
+		"@_name": "mz_sina_weibo"
+	},
+	{
+		"#text": "Share to",
+		"@_name": "mz_share_title"
+	},
+	{
+		"#text": "Undo",
+		"@_name": "mz_undo"
+	},
+	{
+		"#text": "Redo",
+		"@_name": "mz_redo"
+	},
+	{
+		"#text": "Try to open it in the following way",
+		"@_name": "recommendtitle"
+	},
+	{
+		"#text": "The file format is unknown",
+		"@_name": "recommendsubtitle"
+	},
+	{
+		"#text": "To Sogou Input?",
+		"@_name": "switch_wizard_title"
+	},
+	{
+		"#text": "Excellent performance",
+		"@_name": "switch_wizard_info_one"
+	},
+	{
+		"#text": "More keyboard features",
+		"@_name": "switch_wizard_info_two"
+	},
+	{
+		"#text": "More personalized skins",
+		"@_name": "switch_wizard_info_three"
+	},
+	{
+		"#text": "Thesaurus data retained",
+		"@_name": "switch_wizard_info_four"
+	},
+	{
+		"#text": "Switch",
+		"@_name": "switch_wizard_button"
+	}
+]
