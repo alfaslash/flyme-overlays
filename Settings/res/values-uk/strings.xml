@@ -3575,7 +3575,7 @@
     <string name="high_power_desc">Не застосовувати оптимізацію енергоспоживання. Акумулятор може розряджатися швидше.</string>
     <string name="high_power_prompt_title">Ігнорувати оптимізацію батареї?</string>
     <string name="high_power_prompt_body">"Дозволити застосунку %1$s не розривати зв'язок у фоновому режимі? Це може споживати більше заряду батареї."</string>
-    <string name="battery_summary">%1$s використано з останнього повного заряду</string>
+    <string name="battery_summary">Батарея</string>
     <string name="battery_power_management">Керування енергоспоживанням</string>
     <string name="no_battery_summary">З часу останнього повного заряджання акумулятор не використовувався</string>
     <string name="app_notification_preferences">Налаштувати додаток</string>
@@ -5052,7 +5052,7 @@
     <string name="network_unavaiable_msg">Відсутнє підключення до мережі. Перевірте налаштування мережі</string>
     <string name="hide_fringe_title">Приховати виїмку на екрані</string>
     <string name="hide_fringe_summary">Виїмку на екрані залито чорним кольором</string>
-    <string name="run_memory">"Бракує пам'яті"</string>
+    <string name="run_memory">"ОП"</string>
     <string name="sos_title">Екстрена служба</string>
     <string name="mz_timezone_pacific_majuro">Маршаллові острови</string>
     <string name="mz_timezone_pacific_midway">Мідуей</string>
