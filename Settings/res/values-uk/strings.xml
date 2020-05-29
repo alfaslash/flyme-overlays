@@ -2457,7 +2457,7 @@
     <string name="power_service">Служби</string>
     <string name="power_system">Система</string>
     <string name="power_user">Інші користувачі</string>
-    <string name="usage_type_cpu">Заг. ЦП</string>
+    <string name="usage_type_cpu">Процесор</string>
     <string name="usage_type_cpu_foreground">Актив. процеси ЦП</string>
     <string name="usage_type_wake_lock">Залишати активним</string>
     <string name="usage_type_gps">GPS</string>
@@ -3485,7 +3485,7 @@
     <string name="app_launch_supported_domain_urls_title">Підтримувані посилання</string>
     <string name="app_launch_other_defaults_title">Інші значення за замовчуванням</string>
     <string name="storage_summary_format">На накопичувачі %2$s зайнято %1$s</string>
-    <string name="storage_type_internal">"Внутрішня пам'ять"</string>
+    <string name="storage_type_internal">"ВП"</string>
     <string name="storage_type_external">"Зовнішня пам'ять"</string>
     <string name="app_data_usage">Використ. даних додатком</string>
     <string name="data_summary_format">З %2$s використано %1$s</string>
