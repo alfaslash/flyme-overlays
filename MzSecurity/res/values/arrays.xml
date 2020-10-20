@@ -185,6 +185,20 @@
         <item>@string/dialog_permission_summary_internet</item>
         <item>@string/dialog_permission_summary_location</item>
         <item>@string/dialog_permission_summary_camera</item>
+        <item>@string/dialog_permission_summary_phone</item>
+        <item>@string/dialog_permission_summary_sms</item>
+        <item>@string/dialog_permission_summary_contacts</item>
+        <item>@string/dialog_permission_summary_external_storage</item>
+    </string-array>
+    <string-array name="entries_str">
+        <item>@string/permission_list_sta0</item>
+        <item>@string/permission_list_sta2</item>
+        <item>@string/permission_list_sta1</item>
+    </string-array>
+    <string-array name="entries_values_str">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
     </string-array>
     <string-array name="junk_clear_frequency_entries">
         <item>@string/junk_clear_rate1</item>
@@ -455,15 +469,6 @@
         <item>0.0006314581f</item>
         <item>0f</item>
     </string-array>
-    <string-array name="mz_block_day_array">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-    </string-array>
     <array name="mz_colorful_round">
         <item>#ffe26f41</item>
         <item>#ffdd5847</item>
@@ -493,22 +498,6 @@
     </string-array>
     <string-array name="operators_entry_values">
         <item>0</item>
-    </string-array>
-    <string-array name="traffic_app_list_datausage_statistics_type">
-        <item>@string/allow_mobile_data_usage</item>
-        <item>@string/traffic_day_allow_mobile_data_usage</item>
-    </string-array>
-    <string-array name="traffic_app_list_wifi_statistics_type">
-        <item>@string/traffic_wifi_list_summary</item>
-        <item>@string/traffic_day_wifi_list_summary</item>
-    </string-array>
-    <string-array name="traffic_plan_types">
-        <item>@string/traffic_plan_type_month_pay</item>
-        <item>@string/traffic_plan_type_day_pay</item>
-    </string-array>
-    <string-array name="traffic_plan_types_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="values_close_exit_translate_app">
         <item>0.0f</item>

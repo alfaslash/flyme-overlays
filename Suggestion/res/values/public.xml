@@ -3817,11 +3817,11 @@
     <public type="string" name="mz_wif_setting_dialog_message" id="0x7f0f00f2" />
     <public type="string" name="mz_wif_setting_dialog_set" id="0x7f0f00f3" />
     <public type="string" name="search_menu_title" id="0x7f0f00f4" />
-    <public type="string" name="APKTOOL_DUMMY_f5" id="0x7f0f00f5" />
     <public type="string" name="small_window_mode" id="0x7f0f00f6" />
     <public type="string" name="small_window_mode_desc" id="0x7f0f00f7" />
     <public type="string" name="status_bar_notification_info_overflow" id="0x7f0f00f8" />
     <public type="string" name="suggestion_desc" id="0x7f0f00f9" />
+    <public type="string" name="APKTOOL_DUMMY_f5" id="0x7f0f00f5" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f100000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f100001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f100002" />

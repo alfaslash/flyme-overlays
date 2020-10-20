@@ -69,8 +69,15 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cadetblue">#ff5f9ea0</color>
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
     <color name="chartreuse">#ff7fff00</color>
     <color name="chocolate">#ffd2691e</color>
+    <color name="colorAccent">#ff80cbc4</color>
+    <color name="colorPrimary">#ff212121</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
     <color name="contents_text">#ff000000</color>
     <color name="coral">#ffff7f50</color>
     <color name="cornflowerblue">#ff6495ed</color>
@@ -127,7 +134,8 @@
     <color name="down_load_text_color_dark">#4cffffff</color>
     <color name="encode_view">#ffffffff</color>
     <color name="end">#ff78c3ff</color>
-    <color name="error_color_material">#fff4511e</color>
+    <color name="error_color_material_dark">#ffff7043</color>
+    <color name="error_color_material_light">#ffff5722</color>
     <color name="fastscroller_overlay_textcolor">#ffffffff</color>
     <color name="firebrick">#ffb22222</color>
     <color name="floralwhite">#fffffaf0</color>
@@ -184,7 +192,7 @@
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
-    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="material_deep_teal_500">#ff008577</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>
@@ -474,6 +482,7 @@
     <color name="progress_normal_color">#fff0f0f0</color>
     <color name="progress_solid_color">#ffff0000</color>
     <color name="purple">#ff800080</color>
+    <color name="receiver_button_background">#ffe1f1ff</color>
     <color name="red">#ffff0000</color>
     <color name="result_image_border">#ffffffff</color>
     <color name="result_minor_text">#ffc0c0c0</color>

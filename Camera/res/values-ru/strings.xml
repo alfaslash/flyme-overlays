@@ -56,7 +56,6 @@
     <string name="descp_countdown_3s">3 с.</string>
     <string name="descp_countdown_5s">5 с.</string>
     <string name="descp_countdown_close">Выкл.</string>
-    <string name="descp_current_mode">Текущий режим %1s</string>
     <string name="descp_filter_close">Выйти из фильтра</string>
     <string name="descp_gif_play">Показать</string>
     <string name="descp_mode">Режим</string>
@@ -144,7 +143,6 @@
     <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
-    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
     <string name="mc_go_Refreshing">Обновить</string>
@@ -233,11 +231,9 @@
     <string name="mc_yes">OK</string>
     <string name="more">Ещё</string>
     <string name="more_item_label">Ещё</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
-    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_address">Контакты</string>
     <string name="mz_address_info_addr">Адрес</string>
     <string name="mz_address_info_birthday">День рождения</string>
@@ -435,7 +431,6 @@
     <string name="mz_handle_focus_distance_hint">Оптимальное расстояние фокусировки: до 1,5 м.</string>
     <string name="mz_handle_integer_focus_distance_hint">Оптимальное расстояние фокусировки: около 2 м.</string>
     <string name="mz_handle_low_night_hint">Улучшение ночной съёмки</string>
-    <string name="mz_handle_picture_hint">Обработка %d фото…</string>
     <string name="mz_handle_realtime_bokeh_dark_hint">Требуется больше света</string>
     <string name="mz_handle_realtime_bokeh_normal_hint">Боке</string>
     <string name="mz_handle_surrounding_dark_hint">Окружение слишком тёмное</string>
@@ -595,8 +590,6 @@
     <string name="mz_product_specification">Характеристики:</string>
     <string name="mz_product_stores_title">Розничная цена:</string>
     <string name="mz_record_device_occupied">Сначала закройте Диктофон</string>
-    <string name="mz_record_portrait_hint_close">Video portrait turned off</string>
-    <string name="mz_record_portrait_hint_open">Video portrait turned on</string>
     <string name="mz_recording_save">Сохранение</string>
     <string name="mz_refocus_hint">Держите камеру неподвижно</string>
     <string name="mz_refocus_hint_effect_better">Оптимальное расстояние: до 3 м</string>
@@ -697,7 +690,6 @@
     <string name="mz_toggle_hint_hdr_auto">Авто-HDR включён</string>
     <string name="mz_toggle_hint_hdr_close">HDR выключен</string>
     <string name="mz_toggle_hint_hdr_open">HDR включён</string>
-    <string name="mz_toggle_hint_high_size_notify2">Подходит для съемки в ярких условиях: %1$dM</string>
     <string name="mz_toggle_hint_tripod_close">Включить режим штатива</string>
     <string name="mz_toggle_hint_tripod_open">Отключить режим штатива</string>
     <string name="mz_toggle_hint_xuhua_close">Эффект размытия двойной линзы отключён</string>
@@ -707,7 +699,6 @@
     <string name="mz_usb_charge_forbid_use_flash">Вспышка недоступна во время зарядки</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_user_guide">Проведите вниз для отображения всех режимов</string>
-    <string name="mz_watch_beauty_level">Степень улучшения %1$d</string>
     <string name="mz_watch_cannot_connect_camera">Камера используется на втором экране. Повторите попытку позже.</string>
     <string name="mz_watch_cta_permission_msg">Сначала откройте камеру главного экрана</string>
     <string name="mz_watch_main_camera_occupied">Камера используется. Повторите попытку позже.</string>
@@ -765,7 +756,6 @@
     <string name="mzuc_manual_current_version">Текущая версия %s</string>
     <string name="mzuc_manual_download_cancel">Загрузка отменена</string>
     <string name="mzuc_manual_download_fail">Ошибка загрузки</string>
-    <string name="mzuc_manual_downloading">Загрузка %s%%</string>
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
@@ -774,7 +764,6 @@
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
     <string name="mzuc_msg_indicator">Что нового:</string>
-    <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
     <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
     <string name="mzuc_retry">Повтор</string>
@@ -786,14 +775,11 @@
     <string name="mzuc_update_immediately_roaming">Обновление в сети (%s)</string>
     <string name="mzuc_update_later">Напомнить позже</string>
     <string name="mzuc_update_mobile_network">Загрузить через мобильную сеть?</string>
-    <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
-    <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="no_storage">Чтобы использовать камеру, вставьте SD-карту</string>
     <string name="not_selectable_in_scene_mode">Нельзя выбрать в сюжетном режиме.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="pref_camera_flashmode_default">off</string>
     <string name="pref_camera_flashmode_entry_after_capture">После</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
     <string name="pref_camera_flashmode_entry_before_capture">До</string>
@@ -842,7 +828,6 @@
     <string name="setting_custom_value">пользоват.</string>
     <string name="setting_off_value">выкл.</string>
     <string name="setting_on_value">вкл.</string>
-    <string name="setting_storage_value">sdcard</string>
     <string name="setting_wallpaper">Установка обоев</string>
     <string name="share">Поделиться</string>
     <string name="spaceIsLow_content">Невозможно запустить Камеру, так как недостаточно места на SD-карте или в памяти</string>
@@ -856,7 +841,6 @@
     <string name="tiny_planet_zoom">Масштаб</string>
     <string name="video_camera_label">Видео</string>
     <string name="video_err">Невозможно воспроизвести видео</string>
-    <string name="video_file_name_format">"'V'yMMdd-HHmmss"</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер</string>
     <string name="wechat_friends">Друзья WeChat</string>
     <string name="wechat_pengyouquan">Моменты WeChat</string>

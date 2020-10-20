@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="child_mode_chart_weeks">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+    <string-array name="child_mode_limit_time_array">
+        <item>Totally banned</item>
+        <item>1 hr</item>
+        <item>2 hr</item>
+        <item>3 hr</item>
+        <item>Unlimited</item>
+    </string-array>
+    <string-array name="luckymoney_sound_file">
+        <item>luckymoney_sound_1</item>
+        <item>luckymoney_sound_2</item>
+        <item>luckymoney_sound_3</item>
+        <item>luckymoney_sound_4</item>
+        <item>silence</item>
+    </string-array>
+    <string-array name="luckymoney_sound_name">
+        <item>Lucky money</item>
+        <item>Good luck</item>
+        <item>Coins dropping</item>
+        <item>Stars shining</item>
+        <item>Mute</item>
+    </string-array>
+    <integer-array name="luckymoney_sound_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>0</item>
+    </integer-array>
+    <array name="mc_colorful_round">
+        <item>#ff43b56b</item>
+        <item>#ff44aff9</item>
+        <item>#fff56455</item>
+        <item>#ff5ecddf</item>
+        <item>#fff6b944</item>
+        <item>#ffbd713b</item>
+    </array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
@@ -55,14 +100,6 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
-    <array name="mc_colorful_round">
-        <item>#ff43b56b</item>
-        <item>#ff44aff9</item>
-        <item>#fff56455</item>
-        <item>#ff5ecddf</item>
-        <item>#fff6b944</item>
-        <item>#ffbd713b</item>
-    </array>
     <string-array name="mc_pullline_move_end">
         <item>0.0f</item>
         <item>0.00013f</item>
@@ -257,11 +294,11 @@
         <item>#ffc9c9c9</item>
     </array>
     <array name="mc_rating_bar_default_colors">
-        <item>#ffff961d</item>
-        <item>#fffda21f</item>
-        <item>#fffcb121</item>
-        <item>#fffabd23</item>
-        <item>#fff6c84b</item>
+        <item>#fffbc106</item>
+        <item>#fffcb10f</item>
+        <item>#fffc9c1b</item>
+        <item>#fffc8f21</item>
+        <item>#fffd7d2c</item>
     </array>
     <array name="mc_rating_bar_white_bg_colors">
         <item>#ff7f7f7f</item>
@@ -313,6 +350,38 @@
         <item>#ff54ae56</item>
         <item>#ffe9a63b</item>
     </array>
+    <string-array name="na_diagn_feedback">
+        <item>@string/na_diagn_helpful</item>
+        <item>@string/na_diagn_helpless</item>
+    </string-array>
+    <string-array name="na_diagn_item">
+        <item>@string/na_diagn_router_status</item>
+        <item>@string/na_diagn_network_connectivity</item>
+        <item>@string/na_diagn_network_latency</item>
+        <item>@string/na_diagn_signal_quality</item>
+        <item>@string/na_diagn_router_load</item>
+    </string-array>
+    <string-array name="na_diagn_mobile_item">
+        <item>@string/na_diagn_opratorname</item>
+        <item>@string/na_diagn_delay</item>
+        <item>@string/na_diagn_loss</item>
+    </string-array>
+    <integer-array name="pref_navigation_background_icon_values">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="pref_navigation_background_values">
+        <item>\#F7F7F7</item>
+        <item>\#E3F8FF</item>
+        <item>\#FFF9EE</item>
+        <item>\#FFE9E9</item>
+        <item>\#E3FFEC</item>
+        <item>\#000000</item>
+    </string-array>
     <string-array name="values_close_exit_translate_app">
         <item>0.0f</item>
         <item>0.12734375f</item>
@@ -418,77 +487,5 @@
         <item>0.9984375f</item>
         <item>0.999652778f</item>
         <item>1.0f</item>
-    </string-array>
-    <integer-array name="luckymoney_sound_value">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>0</item>
-    </integer-array>
-    <string-array name="luckymoney_sound_file">
-        <item>luckymoney_sound_1</item>
-        <item>luckymoney_sound_2</item>
-        <item>luckymoney_sound_3</item>
-        <item>luckymoney_sound_4</item>
-        <item>silence</item>
-    </string-array>
-    <string-array name="luckymoney_sound_name">
-        <item>Lucky money</item>
-        <item>Good luck</item>
-        <item>Coins dropping</item>
-        <item>Stars shining</item>
-        <item>Mute</item>
-    </string-array>
-    <string-array name="guide_pages">
-        <item>guide_0</item>
-        <item>guide_1</item>
-        <item>guide_2</item>
-        <item>guide_3</item>
-    </string-array>
-    <string-array name="layout_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="layout_entires">
-        <item>Horizontal layout</item>
-        <item>Vertical layout</item>
-    </string-array>
-    <string-array name="pref_navigation_background_values">
-        <item>\#F7F7F7</item>
-        <item>\#E3F8FF</item>
-        <item>\#FFF9EE</item>
-        <item>\#FFE9E9</item>
-        <item>\#E3FFEC</item>
-        <item>\#000000</item>
-    </string-array>
-    <integer-array name="pref_navigation_background_icon_values">
-        <item>1</item>
-        <item>1</item>
-        <item>1</item>
-        <item>1</item>
-        <item>1</item>
-        <item>0</item>
-    </integer-array>
-    <string-array name="pref_list_background_color_entries">
-        <item>Auto</item>
-        <item>Light</item>
-        <item>Dark</item>
-    </string-array>
-    <string-array name="child_mode_chart_weeks">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
-    </string-array>
-    <string-array name="child_mode_limit_time_array">
-        <item>Totally banned</item>
-        <item>1 hr</item>
-        <item>2 hr</item>
-        <item>3 hr</item>
-        <item>Unlimited</item>
     </string-array>
 </resources>

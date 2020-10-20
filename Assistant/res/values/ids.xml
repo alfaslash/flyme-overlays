@@ -25,10 +25,8 @@
     <item type="id" name="action_top" />
     <item type="id" name="actions" />
     <item type="id" name="activity_chooser_view_content" />
-    <item type="id" name="activity_root" />
     <item type="id" name="activity_share_transparent_area" />
     <item type="id" name="activity_share_widget" />
-    <item type="id" name="activity_subscribe" />
     <item type="id" name="ad_app_name" />
     <item type="id" name="ad_delete_btn" />
     <item type="id" name="ad_image_0" />
@@ -39,14 +37,13 @@
     <item type="id" name="ad_label" />
     <item type="id" name="ad_title" />
     <item type="id" name="addButton" />
+    <item type="id" name="add_bookmark_layout" />
     <item type="id" name="add_photo1" />
     <item type="id" name="add_photo2" />
     <item type="id" name="add_team_div" />
     <item type="id" name="add_team_layout" />
     <item type="id" name="address" />
     <item type="id" name="address_listview" />
-    <item type="id" name="aicy_title" />
-    <item type="id" name="aicy_title_layout" />
     <item type="id" name="alertTitle" />
     <item type="id" name="allQuickActions" />
     <item type="id" name="allTeam" />
@@ -67,7 +64,6 @@
     <item type="id" name="app_7" />
     <item type="id" name="app_8" />
     <item type="id" name="app_9" />
-    <item type="id" name="app_circle" />
     <item type="id" name="app_history_layout" />
     <item type="id" name="app_history_rv" />
     <item type="id" name="app_nba_widget_row" />
@@ -92,20 +88,13 @@
     <item type="id" name="assistant_view_content" />
     <item type="id" name="autoItemLayout" />
     <item type="id" name="autoSwitch" />
-    <item type="id" name="autoTitle" />
-    <item type="id" name="auto_bind" />
     <item type="id" name="auto_bookmark" />
+    <item type="id" name="backIv" />
     <item type="id" name="baidu_checkbox" />
     <item type="id" name="baidu_layout" />
-    <item type="id" name="behavior_hint" />
+    <item type="id" name="banner_img" />
     <item type="id" name="bi" />
-    <item type="id" name="bindContent" />
-    <item type="id" name="bindLayout" />
     <item type="id" name="bind_other" />
-    <item type="id" name="bind_phone_guide" />
-    <item type="id" name="bind_title" />
-    <item type="id" name="bl_name" />
-    <item type="id" name="bl_type" />
     <item type="id" name="bluetooth_info" />
     <item type="id" name="blurArea" />
     <item type="id" name="blurTitle" />
@@ -115,14 +104,12 @@
     <item type="id" name="border" />
     <item type="id" name="borderless" />
     <item type="id" name="bottom_action_menu_presenter" />
-    <item type="id" name="bottom_div" />
-    <item type="id" name="bottom_text" />
     <item type="id" name="bt_close" />
     <item type="id" name="btn" />
+    <item type="id" name="btn_back" />
     <item type="id" name="btn_bind_phone" />
     <item type="id" name="btn_change" />
     <item type="id" name="btn_div" />
-    <item type="id" name="btn_layout" />
     <item type="id" name="btn_more" />
     <item type="id" name="btn_navigate" />
     <item type="id" name="btn_repay" />
@@ -137,26 +124,24 @@
     <item type="id" name="calendar_root" />
     <item type="id" name="calories" />
     <item type="id" name="cancel" />
-    <item type="id" name="car" />
     <item type="id" name="cardIcon" />
     <item type="id" name="cardTitle" />
     <item type="id" name="card_all_road_1" />
+    <item type="id" name="card_book_cover" />
+    <item type="id" name="card_book_title" />
     <item type="id" name="card_bottom_button" />
+    <item type="id" name="card_bottom_button_center" />
     <item type="id" name="card_bottom_button_layout" />
     <item type="id" name="card_bottom_button_left" />
     <item type="id" name="card_bottom_button_right" />
+    <item type="id" name="card_bottom_div" />
+    <item type="id" name="card_bottom_div_1" />
     <item type="id" name="card_checkBox1" />
     <item type="id" name="card_checkBox2" />
     <item type="id" name="card_checkBox3" />
     <item type="id" name="card_checkBox4" />
     <item type="id" name="card_checkBox5" />
     <item type="id" name="card_checkBox6" />
-    <item type="id" name="card_click1" />
-    <item type="id" name="card_click2" />
-    <item type="id" name="card_click3" />
-    <item type="id" name="card_click4" />
-    <item type="id" name="card_click5" />
-    <item type="id" name="card_click6" />
     <item type="id" name="card_container" />
     <item type="id" name="card_content" />
     <item type="id" name="card_data_plan" />
@@ -181,16 +166,18 @@
     <item type="id" name="card_partition_right_text" />
     <item type="id" name="card_partition_title_text" />
     <item type="id" name="card_popup_icon" />
+    <item type="id" name="card_popup_layout" />
     <item type="id" name="card_popup_menu_1" />
     <item type="id" name="card_popup_menu_2" />
     <item type="id" name="card_progress" />
+    <item type="id" name="card_read_content" />
+    <item type="id" name="card_read_progress" />
     <item type="id" name="card_record1" />
     <item type="id" name="card_record2" />
     <item type="id" name="card_record3" />
     <item type="id" name="card_record4" />
     <item type="id" name="card_record5" />
     <item type="id" name="card_record6" />
-    <item type="id" name="card_root" />
     <item type="id" name="card_root_layout" />
     <item type="id" name="card_search_layout" />
     <item type="id" name="card_step" />
@@ -227,6 +214,7 @@
     <item type="id" name="checkin_time" />
     <item type="id" name="checkout_time" />
     <item type="id" name="chooser_btn_cancel" />
+    <item type="id" name="chooser_btn_placeholder" />
     <item type="id" name="chooser_check_box" />
     <item type="id" name="chooser_header_container" />
     <item type="id" name="chooser_list" />
@@ -273,7 +261,6 @@
     <item type="id" name="contentPanel" />
     <item type="id" name="content_area" />
     <item type="id" name="content_panel" />
-    <item type="id" name="copy_link" />
     <item type="id" name="customPanel" />
     <item type="id" name="date" />
     <item type="id" name="date0" />
@@ -303,6 +290,7 @@
     <item type="id" name="div" />
     <item type="id" name="div_1" />
     <item type="id" name="div_2" />
+    <item type="id" name="div_horizontal" />
     <item type="id" name="divide_column_line" />
     <item type="id" name="divide_row_line" />
     <item type="id" name="divider" />
@@ -316,9 +304,7 @@
     <item type="id" name="duoqu_bar" />
     <item type="id" name="duoqu_error_lable1" />
     <item type="id" name="duoqu_error_page" />
-    <item type="id" name="duoqu_img_next" />
     <item type="id" name="duoqu_img_woring" />
-    <item type="id" name="duoqu_menu" />
     <item type="id" name="duoqu_network_setting" />
     <item type="id" name="duoqu_webview" />
     <item type="id" name="edit" />
@@ -339,8 +325,10 @@
     <item type="id" name="et_identifying_code" />
     <item type="id" name="et_phone_number" />
     <item type="id" name="eventList" />
+    <item type="id" name="ex_btn_network" />
     <item type="id" name="exampleIcon" />
     <item type="id" name="exit" />
+    <item type="id" name="exo_video_view" />
     <item type="id" name="expand" />
     <item type="id" name="expand_activities_button" />
     <item type="id" name="expand_click_area" />
@@ -367,7 +355,6 @@
     <item type="id" name="fourthTitle" />
     <item type="id" name="fragment_container" />
     <item type="id" name="fragment_content" />
-    <item type="id" name="fragment_root_layout" />
     <item type="id" name="from" />
     <item type="id" name="from_0" />
     <item type="id" name="from_1" />
@@ -393,10 +380,13 @@
     <item type="id" name="guide_message" />
     <item type="id" name="guide_parent" />
     <item type="id" name="headLayout" />
+    <item type="id" name="headLines" />
+    <item type="id" name="head_txt" />
     <item type="id" name="header_container" />
     <item type="id" name="home" />
     <item type="id" name="homeImg" />
     <item type="id" name="horizontal_line" />
+    <item type="id" name="hot_word_rv" />
     <item type="id" name="hotel_left_time" />
     <item type="id" name="hotel_name" />
     <item type="id" name="how_item_1" />
@@ -430,7 +420,8 @@
     <item type="id" name="image_7" />
     <item type="id" name="image_8" />
     <item type="id" name="image_9" />
-    <item type="id" name="images" />
+    <item type="id" name="image_layout" />
+    <item type="id" name="img" />
     <item type="id" name="img_arrow_game_over" />
     <item type="id" name="img_arrow_top_game_large_image" />
     <item type="id" name="img_close_game_large_image" />
@@ -445,17 +436,21 @@
     <item type="id" name="img_icon_game_large_image" />
     <item type="id" name="img_large_game_large_image" />
     <item type="id" name="img_plane_state" />
+    <item type="id" name="img_view" />
+    <item type="id" name="index" />
     <item type="id" name="indicator" />
     <item type="id" name="info" />
     <item type="id" name="input" />
+    <item type="id" name="install_btn" />
+    <item type="id" name="install_btn_tips" />
     <item type="id" name="install_container" />
     <item type="id" name="installbutton" />
     <item type="id" name="installview_desc" />
     <item type="id" name="installview_icon" />
     <item type="id" name="installview_title" />
+    <item type="id" name="introduce_summary_1" />
     <item type="id" name="item" />
     <item type="id" name="item1" />
-    <item type="id" name="itemRoot" />
     <item type="id" name="item_0" />
     <item type="id" name="item_1" />
     <item type="id" name="item_10" />
@@ -474,13 +469,14 @@
     <item type="id" name="item_date" />
     <item type="id" name="item_image" />
     <item type="id" name="item_layout" />
+    <item type="id" name="item_left" />
     <item type="id" name="item_name" />
+    <item type="id" name="item_right" />
     <item type="id" name="item_time" />
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="iv_app_icon" />
     <item type="id" name="iv_notification_logo" />
     <item type="id" name="know_bookmark" />
-    <item type="id" name="label_edit" />
     <item type="id" name="layout" />
     <item type="id" name="layout_auto_collection_manager" />
     <item type="id" name="layout_handle" />
@@ -489,7 +485,6 @@
     <item type="id" name="line1" />
     <item type="id" name="line2" />
     <item type="id" name="line3" />
-    <item type="id" name="line_tips" />
     <item type="id" name="line_transition" />
     <item type="id" name="list_item" />
     <item type="id" name="list_item_split" />
@@ -504,12 +499,9 @@
     <item type="id" name="loadingView" />
     <item type="id" name="loading_text" />
     <item type="id" name="loading_view" />
-    <item type="id" name="main_container" />
     <item type="id" name="main_share_page" />
     <item type="id" name="main_weather_icon" />
-    <item type="id" name="map_layout" />
     <item type="id" name="map_marker" />
-    <item type="id" name="masterSwitch" />
     <item type="id" name="matchList" />
     <item type="id" name="match_description" />
     <item type="id" name="match_row" />
@@ -585,8 +577,9 @@
     <item type="id" name="menu_top" />
     <item type="id" name="message" />
     <item type="id" name="message_point" />
+    <item type="id" name="migu_content" />
     <item type="id" name="mini_app_btn_layout" />
-    <item type="id" name="mini_app_hot_red" />
+    <item type="id" name="mini_app_indicator" />
     <item type="id" name="mini_app_item_icon" />
     <item type="id" name="mini_app_item_layout" />
     <item type="id" name="mini_app_item_name" />
@@ -610,13 +603,11 @@
     <item type="id" name="mz_action_multi_choice_select_all_item" />
     <item type="id" name="mz_action_overflow_button" />
     <item type="id" name="mz_action_text" />
-    <item type="id" name="mz_alwaysUse" />
     <item type="id" name="mz_badge_image_view" />
     <item type="id" name="mz_badge_text_view" />
     <item type="id" name="mz_banner_view_gradient_bg" />
     <item type="id" name="mz_banner_view_gradient_bg_parent" />
     <item type="id" name="mz_cancel_icon" />
-    <item type="id" name="mz_check_bar" />
     <item type="id" name="mz_column1Layout" />
     <item type="id" name="mz_column2Layout" />
     <item type="id" name="mz_column3Layout" />
@@ -631,7 +622,6 @@
     <item type="id" name="mz_f8_banner_itemview_primary_element" />
     <item type="id" name="mz_f8_banner_itemview_primary_element_container" />
     <item type="id" name="mz_f8_banner_itemview_shadow_view" />
-    <item type="id" name="mz_grid_title" />
     <item type="id" name="mz_icon_input_clear" />
     <item type="id" name="mz_input_clear_layout" />
     <item type="id" name="mz_input_text" />
@@ -641,12 +631,15 @@
     <item type="id" name="mz_password_input_option" />
     <item type="id" name="mz_permission_dialog_checkbox" />
     <item type="id" name="mz_permission_dialog_content_layout" />
+    <item type="id" name="mz_permission_dialog_inform" />
     <item type="id" name="mz_permission_dialog_item_summary" />
     <item type="id" name="mz_permission_dialog_item_title" />
     <item type="id" name="mz_permission_dialog_message" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_down" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_up" />
     <item type="id" name="mz_permission_dialog_scroll_view" />
+    <item type="id" name="mz_permission_dialog_space" />
+    <item type="id" name="mz_permission_dialog_terms" />
     <item type="id" name="mz_permission_dialog_title" />
     <item type="id" name="mz_pm_textView" />
     <item type="id" name="mz_preference_text_layout" />
@@ -672,6 +665,7 @@
     <item type="id" name="nba_fold_container" />
     <item type="id" name="nba_info_layout" />
     <item type="id" name="nba_info_root" />
+    <item type="id" name="network_layout" />
     <item type="id" name="news_container" />
     <item type="id" name="news_content_container" />
     <item type="id" name="news_flow" />
@@ -680,9 +674,17 @@
     <item type="id" name="news_head_loading_tips" />
     <item type="id" name="news_head_root_layout" />
     <item type="id" name="news_lite_ad_layout" />
+    <item type="id" name="news_lite_commit_btn" />
+    <item type="id" name="news_lite_dislike_layout" />
+    <item type="id" name="news_lite_dislike_popwindow_bg" />
+    <item type="id" name="news_lite_dislike_text" />
+    <item type="id" name="news_lite_feedback_list" />
+    <item type="id" name="news_lite_ic_back" />
     <item type="id" name="news_lite_icon" />
     <item type="id" name="news_lite_image" />
     <item type="id" name="news_lite_install_view" />
+    <item type="id" name="news_lite_label_layout" />
+    <item type="id" name="news_lite_list_item_close" />
     <item type="id" name="news_lite_list_item_image_0" />
     <item type="id" name="news_lite_list_item_image_1" />
     <item type="id" name="news_lite_list_item_image_2" />
@@ -699,10 +701,20 @@
     <item type="id" name="news_lite_loading_layout" />
     <item type="id" name="news_lite_loading_text" />
     <item type="id" name="news_lite_loading_view" />
+    <item type="id" name="news_lite_page_two_report_info_text" />
+    <item type="id" name="news_lite_page_two_report_text" />
+    <item type="id" name="news_lite_popwindow_content_layout" />
+    <item type="id" name="news_lite_report_info_text" />
+    <item type="id" name="news_lite_report_layout" />
+    <item type="id" name="news_lite_report_list" />
+    <item type="id" name="news_lite_report_text" />
+    <item type="id" name="news_lite_report_title_layout" />
+    <item type="id" name="news_lite_superscript" />
     <item type="id" name="news_lite_tag_target" />
     <item type="id" name="news_lite_tag_url" />
     <item type="id" name="news_lite_tag_view_holder" />
     <item type="id" name="news_lite_video_layout" />
+    <item type="id" name="news_lite_view_flipper" />
     <item type="id" name="news_lite_web_frame_layout" />
     <item type="id" name="news_loading_view" />
     <item type="id" name="news_recycle_view" />
@@ -722,14 +734,10 @@
     <item type="id" name="notification_main_column" />
     <item type="id" name="notification_main_column_container" />
     <item type="id" name="notifications" />
-    <item type="id" name="notifications_desc" />
-    <item type="id" name="now_time" />
     <item type="id" name="now_time_des" />
     <item type="id" name="off_station" />
     <item type="id" name="on_station" />
-    <item type="id" name="open_in_browser" />
     <item type="id" name="operator" />
-    <item type="id" name="order" />
     <item type="id" name="overScrollLayout" />
     <item type="id" name="parallel_space_list" />
     <item type="id" name="parallel_space_share" />
@@ -749,13 +757,11 @@
     <item type="id" name="phone1_layout" />
     <item type="id" name="phone2" />
     <item type="id" name="phone2_layout" />
-    <item type="id" name="phone_pref" />
     <item type="id" name="photo_circle" />
     <item type="id" name="picker_holder" />
     <item type="id" name="place_banner" />
     <item type="id" name="place_icon" />
     <item type="id" name="place_name" />
-    <item type="id" name="place_service_container" />
     <item type="id" name="place_title_area" />
     <item type="id" name="planDayUsed" />
     <item type="id" name="planDayUsedLayout" />
@@ -785,6 +791,7 @@
     <item type="id" name="point_view" />
     <item type="id" name="praise" />
     <item type="id" name="preference_text_layout" />
+    <item type="id" name="preview" />
     <item type="id" name="progess" />
     <item type="id" name="progress1" />
     <item type="id" name="progress2" />
@@ -803,14 +810,15 @@
     <item type="id" name="quick_app_root" />
     <item type="id" name="quick_app_tips" />
     <item type="id" name="radio" />
-    <item type="id" name="ranking" />
     <item type="id" name="ranking_btn_layout" />
-    <item type="id" name="ranking_div" />
     <item type="id" name="ranking_layout" />
     <item type="id" name="read" />
     <item type="id" name="reader_bg" />
     <item type="id" name="reader_container" />
+    <item type="id" name="reader_txt" />
+    <item type="id" name="reader_txt_container" />
     <item type="id" name="rec_game_over" />
+    <item type="id" name="rec_multi_card" />
     <item type="id" name="record" />
     <item type="id" name="recordLayout" />
     <item type="id" name="record_fail" />
@@ -818,8 +826,8 @@
     <item type="id" name="recycler" />
     <item type="id" name="recycler_view" />
     <item type="id" name="recyclerview" />
+    <item type="id" name="refresh" />
     <item type="id" name="refreshLayout" />
-    <item type="id" name="regard_layout" />
     <item type="id" name="remarkBtn" />
     <item type="id" name="remind" />
     <item type="id" name="remote_container" />
@@ -832,7 +840,6 @@
     <item type="id" name="rl_notification" />
     <item type="id" name="rl_top_game_large_image" />
     <item type="id" name="rl_top_game_over" />
-    <item type="id" name="room_breakfast" />
     <item type="id" name="room_num" />
     <item type="id" name="room_type" />
     <item type="id" name="rootLayout" />
@@ -848,11 +855,11 @@
     <item type="id" name="route_stub" />
     <item type="id" name="rv_select_area" />
     <item type="id" name="rv_support_area" />
+    <item type="id" name="scheduleRv" />
     <item type="id" name="score1" />
     <item type="id" name="score2" />
     <item type="id" name="score_container" />
     <item type="id" name="screen_on" />
-    <item type="id" name="screen_on_desc" />
     <item type="id" name="scrollContainer" />
     <item type="id" name="scrollIndicatorDown" />
     <item type="id" name="scrollIndicatorUp" />
@@ -875,7 +882,6 @@
     <item type="id" name="seekbar" />
     <item type="id" name="selectCarSummary" />
     <item type="id" name="selectCarTitle" />
-    <item type="id" name="selectContent" />
     <item type="id" name="selectLayout" />
     <item type="id" name="select_dialog_listview" />
     <item type="id" name="selected" />
@@ -915,8 +921,6 @@
     <item type="id" name="split_action_bar" />
     <item type="id" name="start_time" />
     <item type="id" name="start_time_des" />
-    <item type="id" name="statusbarutil_fake_status_bar_view" />
-    <item type="id" name="statusbarutil_translucent_view" />
     <item type="id" name="step" />
     <item type="id" name="step_detail_info" />
     <item type="id" name="submenuarrow" />
@@ -925,9 +929,7 @@
     <item type="id" name="summary_0" />
     <item type="id" name="summary_1" />
     <item type="id" name="summary_2" />
-    <item type="id" name="summary_auto" />
     <item type="id" name="switch1" />
-    <item type="id" name="switchItemLayout" />
     <item type="id" name="switchLayout_auto_collection" />
     <item type="id" name="switchLayout_auto_collection_notification" />
     <item type="id" name="switchWidget" />
@@ -937,22 +939,14 @@
     <item type="id" name="sync_remind_desc" />
     <item type="id" name="tab_badge" />
     <item type="id" name="tab_company" />
-    <item type="id" name="tab_container" />
     <item type="id" name="tab_div" />
     <item type="id" name="tab_home" />
     <item type="id" name="tab_layout" />
     <item type="id" name="tab_text" />
-    <item type="id" name="tag_bg_resource" />
-    <item type="id" name="tag_business_sms_message" />
-    <item type="id" name="tag_default_content_text_size" />
-    <item type="id" name="tag_parent_layout" />
-    <item type="id" name="tag_text_view_align" />
     <item type="id" name="tag_transition_group" />
     <item type="id" name="team" />
-    <item type="id" name="team1" />
     <item type="id" name="team1_img" />
     <item type="id" name="team1_name" />
-    <item type="id" name="team2" />
     <item type="id" name="team2_img" />
     <item type="id" name="team2_name" />
     <item type="id" name="team_logo" />
@@ -997,7 +991,6 @@
     <item type="id" name="ti_codeLayout" />
     <item type="id" name="ti_phoneLayout" />
     <item type="id" name="time" />
-    <item type="id" name="timeLayout" />
     <item type="id" name="timePicker" />
     <item type="id" name="time_0" />
     <item type="id" name="time_1" />
@@ -1006,12 +999,13 @@
     <item type="id" name="time_4" />
     <item type="id" name="time_container" />
     <item type="id" name="time_preview" />
-    <item type="id" name="tips_root" />
     <item type="id" name="title" />
+    <item type="id" name="titleBar" />
     <item type="id" name="titleClose" />
     <item type="id" name="titleDivider" />
     <item type="id" name="titleDividerNoCustom" />
     <item type="id" name="titleIcon" />
+    <item type="id" name="titleTv" />
     <item type="id" name="title_0" />
     <item type="id" name="title_1" />
     <item type="id" name="title_2" />
@@ -1019,18 +1013,18 @@
     <item type="id" name="title_content_layout" />
     <item type="id" name="title_indicator" />
     <item type="id" name="title_layout" />
-    <item type="id" name="title_ll" />
     <item type="id" name="title_manager" />
     <item type="id" name="title_new_message_number" />
     <item type="id" name="title_new_message_point" />
     <item type="id" name="title_notification" />
     <item type="id" name="title_phone_layout" />
     <item type="id" name="title_template" />
+    <item type="id" name="title_tv" />
     <item type="id" name="toast_complete" />
     <item type="id" name="toast_text" />
     <item type="id" name="toolbar" />
     <item type="id" name="topPanel" />
-    <item type="id" name="total_use_desc" />
+    <item type="id" name="top_line" />
     <item type="id" name="total_use_h" />
     <item type="id" name="total_use_h_desc" />
     <item type="id" name="total_use_m" />
@@ -1090,10 +1084,9 @@
     <item type="id" name="tv_player_num_game_large_image" />
     <item type="id" name="tv_progress" />
     <item type="id" name="tv_prompt" />
-    <item type="id" name="tv_regard" />
     <item type="id" name="tv_remark" />
     <item type="id" name="tv_send_verify_code" />
-    <item type="id" name="tv_step" />
+    <item type="id" name="tv_summary" />
     <item type="id" name="tv_supported_company" />
     <item type="id" name="tv_title" />
     <item type="id" name="tv_title_game_large_image" />
@@ -1141,6 +1134,7 @@
     <item type="id" name="week4" />
     <item type="id" name="what" />
     <item type="id" name="where" />
+    <item type="id" name="widget_container" />
     <item type="id" name="widget_row" />
     <item type="id" name="widget_row_1" />
     <item type="id" name="widget_row_2" />

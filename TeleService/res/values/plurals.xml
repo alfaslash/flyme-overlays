@@ -12,9 +12,8 @@
         <item quantity="other">%1$d fingerprint(s) captured</item>
         <item quantity="one">%1$d fingerprint(s) captured</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d devices connected</item>
-        <item quantity="one">%1$d devices connected</item>
+        <item quantity="other">%1$d device(s) connected</item>
+        <item quantity="one">%1$d device(s) connected</item>
     </plurals>
 </resources>

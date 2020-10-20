@@ -20,6 +20,14 @@ For more information, contact your administrator."</item>
         <item quantity="other">%1$d of %2$d permissions granted</item>
         <item quantity="one">%1$d of %2$d permissions granted</item>
     </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d apps disallowed to send notifications</item>
+        <item quantity="one">%d app disallowed to send notifications</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d apps allowed to use unlimited data when data saver is turned on</item>
+        <item quantity="one">1 app allowed to use unlimited data when data saver is turned on</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Must contain at least %d letters</item>
         <item quantity="one">Must contain at least 1 letter</item>
@@ -40,10 +48,6 @@ For more information, contact your administrator."</item>
         <item quantity="other">%s minutes</item>
         <item quantity="one">1 minute</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Very short delay (%1$dms)</item>
-        <item quantity="one">Very short delay (%1$dms)</item>
-    </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Trust or remove certificate</item>
         <item quantity="one">Trust or remove certificate</item>
@@ -52,13 +56,13 @@ For more information, contact your administrator."</item>
         <item quantity="other">Must contain at least %d lower-case letters</item>
         <item quantity="one">Must contain at least 1 lower-case letter</item>
     </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Very short delay (%1$dms)</item>
+        <item quantity="one">Very short delay (%1$dms)</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
         <item quantity="other">Short delay (%1$dms)</item>
         <item quantity="one">Short delay (%1$dms)</item>
-    </plurals>
-    <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d apps allowed to use unlimited data when data saver is turned on</item>
-        <item quantity="one">1 app allowed to use unlimited data when data saver is turned on</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Change to alarms only for %1$d min (until %2$s)</item>
@@ -72,6 +76,14 @@ For more information, contact your administrator."</item>
         <item quantity="other">%d apps can access notifications</item>
         <item quantity="one">%d apps can access notifications</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Tap %1$d more time(s) to enter developer mode</item>
+        <item quantity="one">Tap %1$d more time(s) to enter developer mode</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Must contain at least %d non-letter characters</item>
+        <item quantity="one">Must contain at least 1 non-letter character</item>
+    </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permissions granted</item>
         <item quantity="one">%d permission granted</item>
@@ -84,13 +96,17 @@ For more information, contact your administrator."</item>
 
 For more information, contact your administrator."</item>
     </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d printing tasks</item>
+        <item quantity="one">1 printing task</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Must contain at least %d digits</item>
         <item quantity="one">Must contain at least 1 digit</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Must contain at least %d non-letter characters</item>
-        <item quantity="one">Must contain at least 1 non-letter character</item>
+    <plurals name="high_power_count">
+        <item quantity="other">%d allowed to ignore battery optimizations</item>
+        <item quantity="one">1 app allowed to ignore battery optimizations</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
         <item quantity="other">Very long delay (%1$dms)</item>
@@ -103,10 +119,6 @@ For more information, contact your administrator."</item>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Must contain at least %d symbols</item>
         <item quantity="one">Must contain at least 1 symbol</item>
-    </plurals>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">Tap %1$d more time(s) to enter developer mode</item>
-        <item quantity="one">Tap %1$d more time(s) to enter developer mode</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d apps used memory in last %2$s</item>
@@ -140,97 +152,9 @@ For more information, contact your administrator."</item>
         <item quantity="other">Remove all selected languages?</item>
         <item quantity="one">Remove all selected languages?</item>
     </plurals>
-    <plurals name="network_restrictions_summary">
-        <item quantity="other">%1$d restrictions</item>
-        <item quantity="one">1 restriction</item>
-    </plurals>
-    <plurals name="suggestions_collapsed_title">
-        <item quantity="other">%1$d suggestions</item>
-        <item quantity="one">1 suggestion</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_ca_certs">
-        <item quantity="other">%d CA certificates at least</item>
-        <item quantity="one">%d CA certificate at least</item>
-    </plurals>
-    <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">%d app notifications blocked</item>
-        <item quantity="one">%d app notification blocked</item>
-    </plurals>
-    <plurals name="default_email_app_title">
-        <item quantity="other">Email client</item>
-        <item quantity="one">Email client</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
-    <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automatic rule(s) turned on</item>
-        <item quantity="one">1 automatic rule activated</item>
-    </plurals>
-    <plurals name="notification_summary">
-        <item quantity="other">%d app notifications blocked</item>
-        <item quantity="one">1 app notification blocked</item>
-    </plurals>
-    <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d networks</item>
-        <item quantity="one">1 network</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_failed_password_wipe">
-        <item quantity="other">%d attempts made</item>
-        <item quantity="one">%d attempt made</item>
-    </plurals>
-    <plurals name="print_settings_summary">
-        <item quantity="other">%1$d services enabled</item>
-        <item quantity="one">1 print service enabled</item>
-    </plurals>
-    <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d print jobs</item>
-        <item quantity="one">1 print job</item>
-    </plurals>
-    <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d trusted agents are valid</item>
-        <item quantity="one">1 trusted agent is valid</item>
-    </plurals>
-    <plurals name="power_high_usage_summary">
-        <item quantity="other">Exceptions occur in %2$d apps</item>
-        <item quantity="one">%1$s exception occurs</item>
-    </plurals>
-    <plurals name="deleted_channels">
-        <item quantity="other">%d categories deleted</item>
-        <item quantity="one">%d category deleted</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_packages_lower_bound">
-        <item quantity="other">%d apps at least</item>
-        <item quantity="one">%d app at least</item>
-    </plurals>
-    <plurals name="special_access_summary">
-        <item quantity="other">%d apps can use data unlimitedly</item>
-        <item quantity="one">1 app can use data unlimitedly</item>
-    </plurals>
-    <plurals name="suggestions_collapsed_summary">
-        <item quantity="other">Another %1$d suggestions</item>
-        <item quantity="one">Another 1 suggestion</item>
-    </plurals>
-    <plurals name="default_camera_app_title">
-        <item quantity="other">Camera app</item>
-        <item quantity="one">Camera app</item>
-    </plurals>
-    <plurals name="power_high_usage_title">
-        <item quantity="other">Apps draining battery</item>
-        <item quantity="one">%1$s highly using battery</item>
-    </plurals>
-    <plurals name="default_phone_app_title">
-        <item quantity="other">Phone app</item>
-        <item quantity="one">Phone app</item>
-    </plurals>
-    <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">%d apps can open the supported link</item>
-        <item quantity="one">1 app can open the supported link</item>
-    </plurals>
-    <plurals name="number_of_device_admins">
-        <item quantity="other">%d valid apps</item>
-        <item quantity="one">%d valid app</item>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open supported links</item>
+        <item quantity="one">1 app can open supported links</item>
     </plurals>
     <plurals name="all_apps_count">
         <item quantity="other">%1$d apps</item>

@@ -922,8 +922,14 @@
         <item>Meizu Pay</item>
         <item>SmartVoice</item>
     </string-array>
+        <string-array name="power_key_behavior_double_click_entries">
+        <item>Нет ответа</item>
+        <item>Камера</item>
+        <item>Ассистент</item>
+        <item>Meizu Pay</item>
+    </string-array>
     <string-array name="power_key_behavior_double_click_entries_intl">
-        <item>Нет действия</item>
+        <item>Нет ответа</item>
         <item>Камера</item>
         <item>Поиск Google</item>
         <item>Meizu Pay</item>
@@ -1072,5 +1078,11 @@
         <item>Поток</item>
         <item>Волны</item>
         <item>Фейерверк</item>
+    </string-array>
+    <string-array name="power_key_behavior_double_click_values">
+        <item>3</item>
+        <item>2</item>
+        <item>-1</item>
+        <item>0</item>
     </string-array>
 </resources>

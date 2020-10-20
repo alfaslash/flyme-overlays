@@ -35,7 +35,7 @@
     <string name="aicy_description">Ассистент</string>
     <string name="aicy_picker">Пикер</string>
     <string name="aicy_settings">Aicy</string>
-    <string name="aicy_suggestion">Предложения</string>
+    <string name="aicy_suggestion">Aicy подсказки</string>
     <string name="aicy_voice">Активация</string>
     <string name="air_mode">飞行模式</string>
     <string name="airmode_cannot_open">飞行模式不能打开移动数据</string>

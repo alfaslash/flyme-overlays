@@ -499,10 +499,9 @@
     </string-array>
     <string-array name="wifi_signal">
         <item>Poor</item>
-        <item>Poor</item>
         <item>Fair</item>
         <item>Good</item>
-        <item>Excellent</item>
+        <item>Strong</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>None</item>
@@ -636,7 +635,7 @@
         <item>No response</item>
     </string-array>
     <string-array name="home_key_behavior_values">
-        <item>3</item>
+        <item>-1</item>
         <item>1</item>
         <item>0</item>
         <item>2</item>
@@ -837,133 +836,17 @@
         <item>Use HDCP checking for DRM content only</item>
         <item>Always use HDCP checking</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
-        <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
-        <item>AVRCP 1.6</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
-        <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_values">
-        <item>1000000</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
-        <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-        <item>8</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>1000</item>
-        <item>1001</item>
-        <item>1002</item>
-        <item>1003</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
-    </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_values">
         <item>32768</item>
@@ -974,12 +857,11 @@
         <item>16777216</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>64 KB per log buffer</item>
+        <item>256 KB per log buffer</item>
+        <item>1 MB per log buffer</item>
+        <item>4 MB per log buffer</item>
+        <item>16 MB per log buffer</item>
     </string-array>
     <string-array name="select_logpersist_values">
         <item></item>
@@ -1123,14 +1005,6 @@
         <item>show</item>
         <item>show_deuteranomaly</item>
     </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
-        <item>OpenGL (Skia)</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_values">
-        <item>opengl</item>
-        <item>skiagl</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
         <item>No background processes</item>
@@ -1182,56 +1056,7 @@
         <item>-1</item>
         <item>7</item>
     </integer-array>
-    <integer-array name="batterymeter_color_levels">
-        <item>15</item>
-        <item>100</item>
-    </integer-array>
-    <array name="batterymeter_color_values">
-        <item>?android:colorError</item>
-        <item>@android:color/white</item>
-    </array>
-    <integer-array name="batterymeter_bolt_points">
-        <item>73</item>
-        <item>0</item>
-        <item>392</item>
-        <item>0</item>
-        <item>201</item>
-        <item>259</item>
-        <item>442</item>
-        <item>259</item>
-        <item>4</item>
-        <item>703</item>
-        <item>157</item>
-        <item>334</item>
-        <item>0</item>
-        <item>334</item>
-    </integer-array>
-    <integer-array name="batterymeter_plus_points">
-        <item>3</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>3</item>
-        <item>3</item>
-        <item>3</item>
-    </integer-array>
+    <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
@@ -1294,6 +1119,9 @@
         <item>Pacific</item>
         <item>All</item>
     </string-array>
+    <string-array name="no_cache_clear_package_list">
+        <item></item>
+    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 seconds</item>
         <item>30 secs</item>
@@ -1302,7 +1130,6 @@
         <item>5 mins</item>
         <item>10 mins</item>
         <item>30 mins</item>
-        <item>Never</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>15000</item>
@@ -1312,7 +1139,6 @@
         <item>300000</item>
         <item>600000</item>
         <item>1800000</item>
-        <item>0</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Never</item>
@@ -1368,6 +1194,13 @@
         <item>1.15</item>
         <item>1.30</item>
     </string-array>
+    <string-array name="entryvalues_font_size_rjil">
+        <item>0.95</item>
+        <item>1.0</item>
+        <item>1.05</item>
+        <item>1.15</item>
+        <item>1.30</item>
+    </string-array>
     <string-array name="wifi_security_no_eap">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wep</item>
@@ -1380,11 +1213,6 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_ap_band_config_full">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-        <item>@string/wifi_ap_choose_dual</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
         <item>@string/wifi_ap_choose_2G</item>
         <item>@string/wifi_ap_choose_5G</item>
     </string-array>
@@ -1409,6 +1237,21 @@
         <item>1 hour</item>
         <item>Never timeout</item>
     </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Always</item>
+        <item>Only when plugged in</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Always</item>
+        <item>Only when plugged in</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>Last 30 days</item>
         <item>Set usage cycle...</item>
@@ -1423,14 +1266,6 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>None</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -1595,7 +1430,6 @@
         <item>turn on screen</item>
         <item>get accounts</item>
         <item>run in background</item>
-        <item>accessibility volume</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Location</item>
@@ -1662,7 +1496,6 @@
         <item>Turn on screen</item>
         <item>Get accounts</item>
         <item>Run in background</item>
-        <item>Accessibility volume</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
@@ -1670,7 +1503,7 @@
         <item>Long</item>
     </string-array>
     <string-array name="long_press_timeout_selector_values">
-        <item>400</item>
+        <item>500</item>
         <item>1000</item>
         <item>1500</item>
     </string-array>
@@ -1874,6 +1707,12 @@
         <item>Critical</item>
         <item>\?</item>
     </string-array>
+    <array name="ram_colors">
+        <item>@color/memory_normal</item>
+        <item>@color/memory_moderate</item>
+        <item>@color/memory_low</item>
+        <item>@color/memory_critical</item>
+    </array>
     <string-array name="daltonizer_type_entries">
         <item>@string/daltonizer_mode_deuteranomaly</item>
         <item>@string/daltonizer_mode_protanomaly</item>
@@ -1919,6 +1758,57 @@
         <item>Pink</item>
         <item>Red</item>
     </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="cellcular2wifi_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="ct_mcc_mnc_list">
+        <item>45507</item>
+        <item>46003</item>
+        <item>46011</item>
+        <item>46012</item>
+        <item>20404</item>
+        <item>45502</item>
+        <item>45403</item>
+        <item>45404</item>
+    </string-array>
+    <string-array name="hidedm_plmn_list">
+        <item>46000</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46007</item>
+    </string-array>
+    <string-array name="hidesupl_plmn_list">
+        <item>46001</item>
+        <item>46003</item>
+        <item>46011</item>
+        <item>46012</item>
+        <item>45502</item>
+        <item>45507</item>
+    </string-array>
+    <string-array name="hide_account_list">
+        <item>com.qualcomm.qti.RIDL</item>
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
+    <string-array name="plmn_list_for_apn_disable">
+        <item>20404</item>
+        <item>45400</item>
+        <item>45403</item>
+        <item>45404</item>
+        <item>45431</item>
+        <item>45502</item>
+        <item>45507</item>
+        <item>46003</item>
+        <item>46011</item>
+        <item>46012</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Over 30 days old</item>
         <item>Over 60 days old</item>
@@ -1929,26 +1819,7 @@
         <item>60</item>
         <item>90</item>
     </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="when_to_start_screensaver_entries">
-        <item>@string/screensaver_settings_summary_sleep</item>
-        <item>@string/screensaver_settings_summary_dock</item>
-        <item>@string/screensaver_settings_summary_either_long</item>
-        <item>@string/screensaver_settings_summary_never</item>
-    </string-array>
-    <string-array name="when_to_start_screensaver_values">
-        <item>while_charging_only</item>
-        <item>while_docked_only</item>
-        <item>either_charging_or_docked</item>
-        <item>never</item>
-    </string-array>
-    <array name="config_preinstalled_screen_reader_services" />
-    <array name="config_preinstalled_audio_and_caption_services" />
-    <array name="config_preinstalled_display_services" />
-    <array name="config_preinstalled_interaction_control_services" />
+    <array name="carrier_operator_list" />
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
         <item>@string/input_method_selector_always_show_title</item>
@@ -1961,12 +1832,12 @@
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>WLAN preferred</item>
-        <item>Mobile preferred</item>
+        <item>Cellular preferred</item>
         <item>WLAN only</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>WLAN</item>
-        <item>Mobile</item>
+        <item>Cellular</item>
         <item>WLAN only</item>
     </string-array>
     <string-array name="wifi_calling_mode_values">
@@ -1976,16 +1847,20 @@
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>WLAN preferred</item>
-        <item>Mobile preferred</item>
+        <item>Cellular preferred</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>WLAN</item>
-        <item>Mobile</item>
+        <item>Cellular</item>
     </string-array>
     <string-array name="wifi_calling_mode_values_without_wifi_only">
         <item>2</item>
         <item>1</item>
     </string-array>
+    <array name="bytes_picker_sizes">
+        <item>@android:string/megabyteShort</item>
+        <item>@android:string/gigabyteShort</item>
+    </array>
     <string-array name="home_key_behavior_entries_intl">
         <item>Activate Assistant</item>
         <item>Activate Google Search</item>
@@ -2002,18 +1877,6 @@
         <item>Launch Camera</item>
         <item>No response</item>
     </string-array>
-    <string-array name="power_key_behavior_double_click_entries">
-        <item>No response</item>
-        <item>Camera</item>
-        <item>Personal Assistant</item>
-        <item>Meizu Pay</item>
-    </string-array>
-    <string-array name="power_key_behavior_double_click_entries_intl">
-        <item>No response</item>
-        <item>Camera</item>
-        <item>Google Search</item>
-        <item>Meizu Pay</item>
-    </string-array>
     <string-array name="home_key_behavior_double_click_values">
         <item>3</item>
         <item>2</item>
@@ -2022,12 +1885,6 @@
     </string-array>
     <string-array name="home_key_behavior_double_click_remove_music_values">
         <item>2</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="power_key_behavior_double_click_values">
-        <item>3</item>
-        <item>2</item>
-        <item>-1</item>
         <item>0</item>
     </string-array>
     <string-array name="flyme_screen_timeout_entries">
@@ -2153,32 +2010,6 @@
         <item>Soft</item>
         <item>Medium</item>
         <item>Strong</item>
-    </string-array>
-    <string-array name="children_mode_anti_addiction_duration">
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="children_mode_anti_addiction_duration_names">
-        <item>30 min</item>
-        <item>60 min</item>
-        <item>2 hr</item>
-        <item>@string/children_mode_time_duration_never</item>
-    </string-array>
-    <string-array name="children_mode_low_power_levels">
-        <item>30</item>
-        <item>40</item>
-        <item>50</item>
-        <item>60</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="children_mode_low_power_levels_names">
-        <item>30%</item>
-        <item>40%</item>
-        <item>50%</item>
-        <item>60%</item>
-        <item>@string/children_mode_time_duration_never</item>
     </string-array>
     <string-array name="display_mode_entries">
         <item>Adaptive</item>
@@ -2321,32 +2152,14 @@
         <item>0</item>
     </string-array>
     <string-array name="statusbar_power_percent_entries">
+        <item>Battery percentage outside the icon</item>
         <item>Battery percentage inside the icon</item>
         <item>Not show battery percentage</item>
     </string-array>
     <string-array name="statusbar_power_percent_entryValues">
+        <item>1</item>
         <item>2</item>
         <item>0</item>
-    </string-array>
-    <array name="lock_digit_icons_light">
-        <item>@drawable/lock_digit_1_light</item>
-        <item>@drawable/lock_digit_2_light</item>
-        <item>@drawable/lock_digit_3_light</item>
-        <item>@drawable/lock_digit_4_light</item>
-        <item>@drawable/lock_digit_5_light</item>
-        <item>@drawable/lock_digit_6_light</item>
-        <item>@drawable/lock_digit_7_light</item>
-        <item>@drawable/lock_digit_8_light</item>
-        <item>@drawable/lock_digit_9_light</item>
-        <item>@null</item>
-        <item>@drawable/lock_digit_0_light</item>
-        <item>@null</item>
-    </array>
-    <string-array name="package_allow_to_index">
-        <item>com.android.settings</item>
-        <item>com.flyme.systemuitools</item>
-        <item>com.meizu.voiceassistant</item>
-        <item>com.meizu.customizecenter</item>
     </string-array>
     <string-array name="reset_preference">
         <item>keep_screen_on</item>
@@ -2360,16 +2173,6 @@
         <item>simulate_color_space</item>
         <item>usb_audio</item>
         <item>strict_mode</item>
-    </string-array>
-    <string-array name="fp_animation">
-        <item>fp_animation_default,animation_default,0</item>
-        <item>fp_animation_force_field,animation_force_field,1</item>
-        <item>fp_animation_energy_beam,animation_energy_beam,2</item>
-    </string-array>
-    <string-array name="fp_animation_name">
-        <item>Streamer</item>
-        <item>Microwave</item>
-        <item>Fireworks</item>
     </string-array>
     <string-array name="values_wave_out">
         <item>0</item>

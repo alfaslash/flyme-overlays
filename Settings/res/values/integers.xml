@@ -31,11 +31,12 @@
     <integer name="mz_listview_selector_fade_duration">500</integer>
     <integer name="mz_view_click_alpha">128</integer>
     <integer name="abc_max_action_buttons">3</integer>
+    <integer name="default_data_warning_level_mb">2048</integer>
     <integer name="suwTransitionDuration">300</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <integer name="config_tooltipAnimTime">150</integer>
     <integer name="maximum_user_dictionary_word_length">48</integer>
     <integer name="dashboard_num_columns">1</integer>
     <integer name="preferences_left_pane_weight">4</integer>

@@ -3,7 +3,6 @@
     <item type="layout" name="choose_lock_pattern">@layout/choose_lock_pattern_common</item>
     <item type="layout" name="confirm_lock_password">@layout/confirm_lock_password_base</item>
     <item type="layout" name="confirm_lock_pattern">@layout/confirm_lock_pattern_base</item>
-    <item type="layout" name="confirm_lock_pattern_internal">@layout/confirm_lock_pattern_internal_base</item>
     <item type="layout" name="fingerprint_enroll_enrolling">@layout/fingerprint_enroll_enrolling_base</item>
     <item type="layout" name="fingerprint_enroll_find_sensor">@layout/fingerprint_enroll_find_sensor_base</item>
     <item type="layout" name="fingerprint_enroll_finish">@layout/fingerprint_enroll_finish_base</item>

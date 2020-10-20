@@ -235,6 +235,8 @@
     <string name="mz_specific_permission_allow">Still allow</string>
     <string name="mz_specific_permission_deny">Deny to give permission</string>
     <string name="mz_wallpaper_category_bubble">bubble</string>
+    <string name="mz_wallpaper_category_gradient">gradient</string>
+    <string name="mz_wallpaper_category_stereo">stereo</string>
     <string name="mz_wallpaper_category_video">video</string>
     <string name="mz_wif_setting_dialog_message">No network connection. Please check your network settings.</string>
     <string name="mz_wif_setting_dialog_set">Network Settings</string>
@@ -323,6 +325,18 @@
     <string name="user_aware_wallpaper_bubble_v3">Matcha latte</string>
     <string name="user_aware_wallpaper_bubble_v4">Peach Oolong</string>
     <string name="user_aware_wallpaper_bubble_v5">Blueberry soda</string>
+    <string name="user_aware_wallpaper_gradient_description_v1">Desert</string>
+    <string name="user_aware_wallpaper_gradient_description_v2">Aurora</string>
+    <string name="user_aware_wallpaper_gradient_description_v3">Distant Ocean</string>
+    <string name="user_aware_wallpaper_gradient_v1">Desert</string>
+    <string name="user_aware_wallpaper_gradient_v2">Aurora</string>
+    <string name="user_aware_wallpaper_gradient_v3">Distant Ocean</string>
+    <string name="user_aware_wallpaper_stereo_description_v4">3D Wallpaper V4</string>
+    <string name="user_aware_wallpaper_stereo_description_v5">3D Wallpaper V5</string>
+    <string name="user_aware_wallpaper_stereo_description_v6">3D Wallpaper V6</string>
+    <string name="user_aware_wallpaper_stereo_v4">3D Wallpaper V4</string>
+    <string name="user_aware_wallpaper_stereo_v5">3D Wallpaper V5</string>
+    <string name="user_aware_wallpaper_stereo_v6">3D Wallpaper V6</string>
     <string name="user_aware_wallpaper_video_description_v1">The wave</string>
     <string name="user_aware_wallpaper_video_description_v2">Deep diving</string>
     <string name="user_aware_wallpaper_video_description_v3">The ripple</string>

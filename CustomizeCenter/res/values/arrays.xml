@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="label_item_bgcolor_f8">
+        <item>@color/one_search_label_bgcolor_1</item>
+        <item>@color/one_search_label_bgcolor_2</item>
+        <item>@color/one_search_label_bgcolor_3</item>
+        <item>@color/one_search_label_bgcolor_4</item>
+        <item>@color/one_search_label_bgcolor_5</item>
+        <item>@color/one_search_label_bgcolor_6</item>
+        <item>@color/one_search_label_bgcolor_7</item>
+    </array>
+    <array name="label_item_textcolor_f8">
+        <item>@color/one_search_label_textcolor_1</item>
+        <item>@color/one_search_label_textcolor_2</item>
+        <item>@color/one_search_label_textcolor_3</item>
+        <item>@color/one_search_label_textcolor_4</item>
+        <item>@color/one_search_label_textcolor_5</item>
+        <item>@color/one_search_label_textcolor_6</item>
+        <item>@color/one_search_label_textcolor_7</item>
+    </array>
     <string-array name="main_tab_array">
         <item>Themes</item>
         <item>Fonts</item>
@@ -7,6 +25,14 @@
         <item>Wallpapers</item>
         <item>Keyboard</item>
     </string-array>
+    <array name="mc_colorful_round">
+        <item>#ff43b56b</item>
+        <item>#ff44aff9</item>
+        <item>#fff56455</item>
+        <item>#ff5ecddf</item>
+        <item>#fff6b944</item>
+        <item>#ffbd713b</item>
+    </array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
@@ -62,73 +88,6 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
-    <string-array name="sizeUnit">
-        <item>B</item>
-        <item>KB</item>
-        <item>MB</item>
-        <item>GB</item>
-    </string-array>
-    <string-array name="switch_wallpaper_category_array">
-        <item>Every 1 hours</item>
-        <item>Every 3 hours</item>
-        <item>Every 6 hours</item>
-        <item>Every 12 hours</item>
-    </string-array>
-    <string-array name="time_acceleration_entry">
-        <item>Accelerate 1x</item>
-        <item>Accelerate 10x</item>
-        <item>Accelerate 100x</item>
-        <item>Accelerate 1000x</item>
-    </string-array>
-    <string-array name="update_wallpaper_frequency">
-        <item>Every time when screen is turned on</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every hour</item>
-        <item>Every 3 hours</item>
-        <item>Every 24 hours</item>
-    </string-array>
-    <string-array name="webview_tel_dialog_title">
-        <item>Call number</item>
-        <item>Send message</item>
-        <item>Copy</item>
-        <item>Add to contacts</item>
-    </string-array>
-    <array name="label_item_bgcolor_f8">
-        <item>@color/one_search_label_bgcolor_1</item>
-        <item>@color/one_search_label_bgcolor_2</item>
-        <item>@color/one_search_label_bgcolor_3</item>
-        <item>@color/one_search_label_bgcolor_4</item>
-        <item>@color/one_search_label_bgcolor_5</item>
-        <item>@color/one_search_label_bgcolor_6</item>
-        <item>@color/one_search_label_bgcolor_7</item>
-    </array>
-    <array name="label_item_color">
-        <item>@color/sea_green_end</item>
-        <item>@color/blue_end</item>
-        <item>@color/lime_green_end</item>
-        <item>@color/coral_end</item>
-        <item>@color/tomato_end</item>
-        <item>@color/purple_end</item>
-        <item>@color/crimson_end</item>
-    </array>
-    <array name="label_item_textcolor_f8">
-        <item>@color/one_search_label_textcolor_1</item>
-        <item>@color/one_search_label_textcolor_2</item>
-        <item>@color/one_search_label_textcolor_3</item>
-        <item>@color/one_search_label_textcolor_4</item>
-        <item>@color/one_search_label_textcolor_5</item>
-        <item>@color/one_search_label_textcolor_6</item>
-        <item>@color/one_search_label_textcolor_7</item>
-    </array>
-    <array name="mc_colorful_round">
-        <item>#ff43b56b</item>
-        <item>#ff44aff9</item>
-        <item>#fff56455</item>
-        <item>#ff5ecddf</item>
-        <item>#fff6b944</item>
-        <item>#ffbd713b</item>
-    </array>
     <string-array name="mc_pullline_move_end">
         <item>0.0f</item>
         <item>0.00013f</item>
@@ -379,6 +338,12 @@
         <item>#ff54ae56</item>
         <item>#ffe9a63b</item>
     </array>
+    <string-array name="sizeUnit">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
     <string-array name="theme_component_id">
         <item>vlifelockscreen</item>
         <item>zklockscreen</item>
@@ -398,11 +363,25 @@
         <item>%1$dm%2$ds</item>
         <item>>1h</item>
     </string-array>
+    <string-array name="time_acceleration_entry">
+        <item>Accelerate 1x</item>
+        <item>Accelerate 10x</item>
+        <item>Accelerate 100x</item>
+        <item>Accelerate 1000x</item>
+    </string-array>
     <string-array name="time_acceleration_entry_value">
         <item>1</item>
         <item>10</item>
         <item>100</item>
         <item>1000</item>
+    </string-array>
+    <string-array name="update_wallpaper_frequency">
+        <item>Every time when screen is turned on</item>
+        <item>Every 15 minutes</item>
+        <item>Every 30 minutes</item>
+        <item>Every hour</item>
+        <item>Every 3 hours</item>
+        <item>Every 24 hours</item>
     </string-array>
     <string-array name="values_close_exit_translate_app">
         <item>0.0f</item>
@@ -509,5 +488,11 @@
         <item>0.9984375f</item>
         <item>0.999652778f</item>
         <item>1.0f</item>
+    </string-array>
+    <string-array name="webview_tel_dialog_title">
+        <item>Call number</item>
+        <item>Send message</item>
+        <item>Copy</item>
+        <item>Add to contacts</item>
     </string-array>
 </resources>

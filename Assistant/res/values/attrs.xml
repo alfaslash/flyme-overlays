@@ -319,7 +319,6 @@
     <attr name="labelRadiusCorner" format="dimension" />
     <attr name="layout" format="reference" />
     <attr name="layoutManager" format="string" />
-    <attr name="layout_alignParentBottom" format="boolean" />
     <attr name="layout_anchor" format="reference" />
     <attr name="layout_anchorGravity">
         <flag name="bottom" value="0x00000050" />
@@ -457,7 +456,6 @@
         <enum name="top" value="48" />
     </attr>
     <attr name="layout_keyline" format="integer" />
-    <attr name="layout_listView" format="boolean" />
     <attr name="layout_optimizationLevel">
         <flag name="barrier" value="0x00000002" />
         <flag name="chains" value="0x00000004" />
@@ -467,6 +465,9 @@
         <flag name="none" value="0x00000000" />
         <flag name="standard" value="0x00000007" />
     </attr>
+    <attr name="layout_share_alignParentBottom" format="boolean" />
+    <attr name="layout_share_ignoreParentPadding" format="boolean" />
+    <attr name="layout_share_listView" format="boolean" />
     <attr name="lineMargin" format="dimension" />
     <attr name="line_spacing" format="dimension" />
     <attr name="listChoiceBackgroundIndicator" format="reference" />
@@ -489,7 +490,6 @@
     <attr name="margin_right" format="dimension" />
     <attr name="margin_top" format="dimension" />
     <attr name="maxButtonHeight" format="dimension" />
-    <attr name="maxHeight" format="reference|dimension" />
     <attr name="mcAlignRightWhenAnim" format="boolean" />
     <attr name="mcAppDesc" format="reference|string" />
     <attr name="mcAppPackageName" format="reference|string" />
@@ -811,6 +811,8 @@
     <attr name="multiChoiceItemLayout" format="reference" />
     <attr name="mzActionBarFitStatusBar" format="boolean" />
     <attr name="mzActionBarSearchViewBackground" format="reference" />
+    <attr name="mzActionBarSizeFullScreen" format="dimension" />
+    <attr name="mzActionBarStyleFullScreen" format="reference" />
     <attr name="mzActionBarTabContainerStyle" format="reference" />
     <attr name="mzActionBarTabScrollViewStyle" format="reference" />
     <attr name="mzActionButtonRippleSplitStyle" format="reference" />
@@ -821,6 +823,7 @@
     <attr name="mzActionMenuTextAppearanceSplit" format="reference" />
     <attr name="mzActionMenuTextAppearanceWithIcon" format="reference" />
     <attr name="mzActionMenuTextAppearanceWithIconSplit" format="reference" />
+    <attr name="mzActionModeStyleFullScreen" format="reference" />
     <attr name="mzActionOverflowButtonSplitStyle" format="reference" />
     <attr name="mzActionOverflowMenuSplitStyle" format="reference" />
     <attr name="mzActionTextAppearance" format="reference" />
@@ -895,6 +898,7 @@
     <attr name="mzSearchEditSearchIconStyle" format="reference" />
     <attr name="mzSearchEditTextStyle" format="reference" />
     <attr name="mzSearchEditVoiceIconStyle" format="reference" />
+    <attr name="mzShareViewMaxHeight" format="reference|dimension" />
     <attr name="mzShareViewStyle" format="reference" />
     <attr name="mzShrink" format="boolean" />
     <attr name="mzSinglePageHeight" format="dimension" />
@@ -936,6 +940,7 @@
     <attr name="mzTitleTextAppearanceBack" format="reference" />
     <attr name="mzToolBarTabStyle" format="reference" />
     <attr name="mzToolBarTabTextStyle" format="reference" />
+    <attr name="mzToolbarStyleFullScreen" format="reference" />
     <attr name="mzTopDividerColor" format="color" />
     <attr name="mzTopDividerHeight" format="dimension" />
     <attr name="mzTopPadding" format="dimension" />

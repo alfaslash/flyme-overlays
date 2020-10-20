@@ -2550,24 +2550,24 @@
     <public type="drawable" name="mz_vec_btn_checked_true_normal_color_blue" id="0x7f0803cb" />
     <public type="drawable" name="mz_vec_btn_checked_true_normal_disabled_color_blue" id="0x7f0803cc" />
     <public type="drawable" name="mz_vec_btn_checked_true_to_false_color_blue" id="0x7f0803cd" />
-    <public type="drawable" name="mz_white_action_bar_background" id="0x7f0803d6" />
-    <public type="drawable" name="notification_action_background" id="0x7f0803db" />
-    <public type="drawable" name="notification_bg" id="0x7f0803dc" />
-    <public type="drawable" name="notification_bg_low" id="0x7f0803dd" />
-    <public type="drawable" name="notification_icon_background" id="0x7f0803e2" />
-    <public type="drawable" name="notification_template_icon_bg" id="0x7f0803e3" />
-    <public type="drawable" name="notification_template_icon_low_bg" id="0x7f0803e4" />
-    <public type="drawable" name="notification_tile_bg" id="0x7f0803e5" />
-    <public type="drawable" name="thumb" id="0x7f0803ec" />
-    <public type="drawable" name="thumb_drawable" id="0x7f0803ed" />
-    <public type="drawable" name="tooltip_frame_dark" id="0x7f0803ee" />
-    <public type="drawable" name="tooltip_frame_light" id="0x7f0803ef" />
+    <public type="drawable" name="mz_white_action_bar_background" id="0x7f0803dc" />
+    <public type="drawable" name="notification_action_background" id="0x7f0803e1" />
+    <public type="drawable" name="notification_bg" id="0x7f0803e2" />
+    <public type="drawable" name="notification_bg_low" id="0x7f0803e3" />
+    <public type="drawable" name="notification_icon_background" id="0x7f0803e8" />
+    <public type="drawable" name="notification_template_icon_bg" id="0x7f0803e9" />
+    <public type="drawable" name="notification_template_icon_low_bg" id="0x7f0803ea" />
+    <public type="drawable" name="notification_tile_bg" id="0x7f0803eb" />
+    <public type="drawable" name="thumb" id="0x7f0803f2" />
+    <public type="drawable" name="thumb_drawable" id="0x7f0803f3" />
+    <public type="drawable" name="tooltip_frame_dark" id="0x7f0803f4" />
+    <public type="drawable" name="tooltip_frame_light" id="0x7f0803f5" />
     <public type="drawable" name="abc_control_background_material" id="0x7f080010" />
-    <public type="drawable" name="notification_bg_low_normal" id="0x7f0803de" />
-    <public type="drawable" name="notification_bg_low_pressed" id="0x7f0803df" />
-    <public type="drawable" name="notification_bg_normal" id="0x7f0803e0" />
-    <public type="drawable" name="notification_bg_normal_pressed" id="0x7f0803e1" />
-    <public type="drawable" name="notify_panel_notification_icon_bg" id="0x7f0803e6" />
+    <public type="drawable" name="notification_bg_low_normal" id="0x7f0803e4" />
+    <public type="drawable" name="notification_bg_low_pressed" id="0x7f0803e5" />
+    <public type="drawable" name="notification_bg_normal" id="0x7f0803e6" />
+    <public type="drawable" name="notification_bg_normal_pressed" id="0x7f0803e7" />
+    <public type="drawable" name="notify_panel_notification_icon_bg" id="0x7f0803ec" />
     <public type="drawable" name="abc_ab_share_pack_mtrl_alpha" id="0x7f080000" />
     <public type="drawable" name="abc_btn_check_to_on_mtrl_000" id="0x7f080004" />
     <public type="drawable" name="abc_btn_check_to_on_mtrl_015" id="0x7f080005" />
@@ -3336,25 +3336,31 @@
     <public type="drawable" name="mz_topbar_background" id="0x7f0803c6" />
     <public type="drawable" name="mz_topbar_dropdown_ic_arrow" id="0x7f0803c7" />
     <public type="drawable" name="mz_topbar_shadow_light" id="0x7f0803c8" />
-    <public type="drawable" name="night_mode_dark_img" id="0x7f0803d7" />
-    <public type="drawable" name="night_mode_light_img" id="0x7f0803d8" />
-    <public type="drawable" name="night_mode_notification_icon_large" id="0x7f0803d9" />
-    <public type="drawable" name="night_mode_notification_icon_smart" id="0x7f0803da" />
-    <public type="drawable" name="reflesh_off" id="0x7f0803e7" />
-    <public type="drawable" name="reflesh_on" id="0x7f0803e8" />
-    <public type="drawable" name="s_thumb" id="0x7f0803e9" />
-    <public type="drawable" name="start_window_backgound" id="0x7f0803ea" />
-    <public type="drawable" name="stat_sys_third_app_notify" id="0x7f0803eb" />
-    <public type="drawable" name="translation_close_icon" id="0x7f0803f0" />
-    <public type="drawable" name="translation_detail_icon" id="0x7f0803f1" />
+    <public type="drawable" name="night_mode_dark_img" id="0x7f0803dd" />
+    <public type="drawable" name="night_mode_light_img" id="0x7f0803de" />
+    <public type="drawable" name="night_mode_notification_icon_large" id="0x7f0803df" />
+    <public type="drawable" name="night_mode_notification_icon_smart" id="0x7f0803e0" />
+    <public type="drawable" name="reflesh_off" id="0x7f0803ed" />
+    <public type="drawable" name="reflesh_on" id="0x7f0803ee" />
+    <public type="drawable" name="s_thumb" id="0x7f0803ef" />
+    <public type="drawable" name="start_window_backgound" id="0x7f0803f0" />
+    <public type="drawable" name="stat_sys_third_app_notify" id="0x7f0803f1" />
+    <public type="drawable" name="translation_close_icon" id="0x7f0803f6" />
+    <public type="drawable" name="translation_detail_icon" id="0x7f0803f7" />
     <public type="drawable" name="mz_wallpaper_bubble" id="0x7f0803ce" />
     <public type="drawable" name="mz_wallpaper_bubble_v2" id="0x7f0803cf" />
     <public type="drawable" name="mz_wallpaper_bubble_v3" id="0x7f0803d0" />
     <public type="drawable" name="mz_wallpaper_bubble_v4" id="0x7f0803d1" />
     <public type="drawable" name="mz_wallpaper_bubble_v5" id="0x7f0803d2" />
-    <public type="drawable" name="mz_wallpaper_video_v1" id="0x7f0803d3" />
-    <public type="drawable" name="mz_wallpaper_video_v2" id="0x7f0803d4" />
-    <public type="drawable" name="mz_wallpaper_video_v3" id="0x7f0803d5" />
+    <public type="drawable" name="mz_wallpaper_gradient_v1" id="0x7f0803d3" />
+    <public type="drawable" name="mz_wallpaper_gradient_v2" id="0x7f0803d4" />
+    <public type="drawable" name="mz_wallpaper_gradient_v3" id="0x7f0803d5" />
+    <public type="drawable" name="mz_wallpaper_stereo_v4" id="0x7f0803d6" />
+    <public type="drawable" name="mz_wallpaper_stereo_v5" id="0x7f0803d7" />
+    <public type="drawable" name="mz_wallpaper_stereo_v6" id="0x7f0803d8" />
+    <public type="drawable" name="mz_wallpaper_video_v1" id="0x7f0803d9" />
+    <public type="drawable" name="mz_wallpaper_video_v2" id="0x7f0803da" />
+    <public type="drawable" name="mz_wallpaper_video_v3" id="0x7f0803db" />
     <public type="id" name="ALT" id="0x7f090000" />
     <public type="id" name="Backward" id="0x7f090001" />
     <public type="id" name="CTRL" id="0x7f090002" />
@@ -4326,100 +4332,114 @@
     <public type="string" name="mz_specific_permission_allow" id="0x7f0f00e9" />
     <public type="string" name="mz_specific_permission_deny" id="0x7f0f00ea" />
     <public type="string" name="mz_wallpaper_category_bubble" id="0x7f0f00eb" />
-    <public type="string" name="mz_wallpaper_category_video" id="0x7f0f00ec" />
-    <public type="string" name="mz_wif_setting_dialog_message" id="0x7f0f00ed" />
-    <public type="string" name="mz_wif_setting_dialog_set" id="0x7f0f00ee" />
-    <public type="string" name="night_mode_app_manager_summary" id="0x7f0f00ef" />
-    <public type="string" name="night_mode_app_manager_summary_dark" id="0x7f0f00f0" />
-    <public type="string" name="night_mode_notification_recommend_action_ignore_close" id="0x7f0f00f1" />
-    <public type="string" name="night_mode_notification_recommend_action_ignore_open" id="0x7f0f00f2" />
-    <public type="string" name="night_mode_notification_recommend_content_close" id="0x7f0f00f3" />
-    <public type="string" name="night_mode_notification_recommend_content_close_dark" id="0x7f0f00f4" />
-    <public type="string" name="night_mode_notification_recommend_content_open" id="0x7f0f00f5" />
-    <public type="string" name="night_mode_notification_recommend_content_open_dark" id="0x7f0f00f6" />
-    <public type="string" name="night_mode_notification_schedule_immeditely_close" id="0x7f0f00f7" />
-    <public type="string" name="night_mode_notification_schedule_immeditely_open" id="0x7f0f00f8" />
-    <public type="string" name="night_mode_on_off_dark" id="0x7f0f00f9" />
-    <public type="string" name="night_mode_on_off_light" id="0x7f0f00fa" />
-    <public type="string" name="night_mode_on_off_night" id="0x7f0f00fb" />
-    <public type="string" name="night_mode_switch_anim_close" id="0x7f0f00fc" />
-    <public type="string" name="night_mode_switch_anim_close_dark" id="0x7f0f00fd" />
-    <public type="string" name="night_mode_switch_anim_open" id="0x7f0f00fe" />
-    <public type="string" name="night_mode_switch_anim_open_dark" id="0x7f0f00ff" />
-    <public type="string" name="night_mode_time_config_close" id="0x7f0f0100" />
-    <public type="string" name="night_mode_time_config_dialog_title" id="0x7f0f0101" />
-    <public type="string" name="night_mode_time_config_title" id="0x7f0f0102" />
-    <public type="string" name="night_mode_time_config_title_dark" id="0x7f0f0103" />
-    <public type="string" name="night_mode_time_config_twilight" id="0x7f0f0104" />
-    <public type="string" name="night_mode_time_config_user" id="0x7f0f0105" />
-    <public type="string" name="no_data" id="0x7f0f0106" />
-    <public type="string" name="pref_title_night_mode_end_time" id="0x7f0f0107" />
-    <public type="string" name="pref_title_night_mode_start_time" id="0x7f0f0108" />
-    <public type="string" name="scope_null_token" id="0x7f0f0109" />
-    <public type="string" name="search_menu_title" id="0x7f0f010a" />
-    <public type="string" name="status_bar_notification_info_overflow" id="0x7f0f010b" />
-    <public type="string" name="status_no_network" id="0x7f0f010c" />
-    <public type="string" name="sync_timeout" id="0x7f0f010d" />
-    <public type="string" name="title_activity_dark_mode_settings" id="0x7f0f010e" />
-    <public type="string" name="title_activity_night_mode_settings" id="0x7f0f010f" />
-    <public type="string" name="translation" id="0x7f0f0110" />
-    <public type="string" name="translation_baidu_language_ara" id="0x7f0f0111" />
-    <public type="string" name="translation_baidu_language_bul" id="0x7f0f0112" />
-    <public type="string" name="translation_baidu_language_cht" id="0x7f0f0113" />
-    <public type="string" name="translation_baidu_language_cs" id="0x7f0f0114" />
-    <public type="string" name="translation_baidu_language_dan" id="0x7f0f0115" />
-    <public type="string" name="translation_baidu_language_de" id="0x7f0f0116" />
-    <public type="string" name="translation_baidu_language_el" id="0x7f0f0117" />
-    <public type="string" name="translation_baidu_language_en" id="0x7f0f0118" />
-    <public type="string" name="translation_baidu_language_est" id="0x7f0f0119" />
-    <public type="string" name="translation_baidu_language_fin" id="0x7f0f011a" />
-    <public type="string" name="translation_baidu_language_fra" id="0x7f0f011b" />
-    <public type="string" name="translation_baidu_language_hu" id="0x7f0f011c" />
-    <public type="string" name="translation_baidu_language_it" id="0x7f0f011d" />
-    <public type="string" name="translation_baidu_language_jp" id="0x7f0f011e" />
-    <public type="string" name="translation_baidu_language_kor" id="0x7f0f011f" />
-    <public type="string" name="translation_baidu_language_nl" id="0x7f0f0120" />
-    <public type="string" name="translation_baidu_language_pl" id="0x7f0f0121" />
-    <public type="string" name="translation_baidu_language_pt" id="0x7f0f0122" />
-    <public type="string" name="translation_baidu_language_rom" id="0x7f0f0123" />
-    <public type="string" name="translation_baidu_language_ru" id="0x7f0f0124" />
-    <public type="string" name="translation_baidu_language_slo" id="0x7f0f0125" />
-    <public type="string" name="translation_baidu_language_spa" id="0x7f0f0126" />
-    <public type="string" name="translation_baidu_language_swe" id="0x7f0f0127" />
-    <public type="string" name="translation_baidu_language_th" id="0x7f0f0128" />
-    <public type="string" name="translation_baidu_language_wyw" id="0x7f0f0129" />
-    <public type="string" name="translation_baidu_language_yue" id="0x7f0f012a" />
-    <public type="string" name="translation_baidu_language_zh" id="0x7f0f012b" />
-    <public type="string" name="translation_copy" id="0x7f0f012c" />
-    <public type="string" name="translation_copy_successed" id="0x7f0f012d" />
-    <public type="string" name="translation_detail" id="0x7f0f012e" />
-    <public type="string" name="translation_disable_text" id="0x7f0f012f" />
-    <public type="string" name="translation_language_not_supported" id="0x7f0f0130" />
-    <public type="string" name="translation_loading_text" id="0x7f0f0131" />
-    <public type="string" name="translation_original_text" id="0x7f0f0132" />
-    <public type="string" name="translation_original_title_tip" id="0x7f0f0133" />
-    <public type="string" name="translation_request_error" id="0x7f0f0134" />
-    <public type="string" name="translation_source" id="0x7f0f0135" />
-    <public type="string" name="translation_translation" id="0x7f0f0136" />
-    <public type="string" name="uid_not_match" id="0x7f0f0137" />
-    <public type="string" name="unkown_error" id="0x7f0f0138" />
-    <public type="string" name="unsupport_operation" id="0x7f0f0139" />
-    <public type="string" name="user_aware_wallpaper_bubble" id="0x7f0f013a" />
-    <public type="string" name="user_aware_wallpaper_bubble_description" id="0x7f0f013b" />
-    <public type="string" name="user_aware_wallpaper_bubble_description_v2" id="0x7f0f013c" />
-    <public type="string" name="user_aware_wallpaper_bubble_description_v3" id="0x7f0f013d" />
-    <public type="string" name="user_aware_wallpaper_bubble_description_v4" id="0x7f0f013e" />
-    <public type="string" name="user_aware_wallpaper_bubble_description_v5" id="0x7f0f013f" />
-    <public type="string" name="user_aware_wallpaper_bubble_v2" id="0x7f0f0140" />
-    <public type="string" name="user_aware_wallpaper_bubble_v3" id="0x7f0f0141" />
-    <public type="string" name="user_aware_wallpaper_bubble_v4" id="0x7f0f0142" />
-    <public type="string" name="user_aware_wallpaper_bubble_v5" id="0x7f0f0143" />
-    <public type="string" name="user_aware_wallpaper_video_description_v1" id="0x7f0f0144" />
-    <public type="string" name="user_aware_wallpaper_video_description_v2" id="0x7f0f0145" />
-    <public type="string" name="user_aware_wallpaper_video_description_v3" id="0x7f0f0146" />
-    <public type="string" name="user_aware_wallpaper_video_v1" id="0x7f0f0147" />
-    <public type="string" name="user_aware_wallpaper_video_v2" id="0x7f0f0148" />
-    <public type="string" name="user_aware_wallpaper_video_v3" id="0x7f0f0149" />
+    <public type="string" name="mz_wallpaper_category_gradient" id="0x7f0f00ec" />
+    <public type="string" name="mz_wallpaper_category_stereo" id="0x7f0f00ed" />
+    <public type="string" name="mz_wallpaper_category_video" id="0x7f0f00ee" />
+    <public type="string" name="mz_wif_setting_dialog_message" id="0x7f0f00ef" />
+    <public type="string" name="mz_wif_setting_dialog_set" id="0x7f0f00f0" />
+    <public type="string" name="night_mode_app_manager_summary" id="0x7f0f00f1" />
+    <public type="string" name="night_mode_app_manager_summary_dark" id="0x7f0f00f2" />
+    <public type="string" name="night_mode_notification_recommend_action_ignore_close" id="0x7f0f00f3" />
+    <public type="string" name="night_mode_notification_recommend_action_ignore_open" id="0x7f0f00f4" />
+    <public type="string" name="night_mode_notification_recommend_content_close" id="0x7f0f00f5" />
+    <public type="string" name="night_mode_notification_recommend_content_close_dark" id="0x7f0f00f6" />
+    <public type="string" name="night_mode_notification_recommend_content_open" id="0x7f0f00f7" />
+    <public type="string" name="night_mode_notification_recommend_content_open_dark" id="0x7f0f00f8" />
+    <public type="string" name="night_mode_notification_schedule_immeditely_close" id="0x7f0f00f9" />
+    <public type="string" name="night_mode_notification_schedule_immeditely_open" id="0x7f0f00fa" />
+    <public type="string" name="night_mode_on_off_dark" id="0x7f0f00fb" />
+    <public type="string" name="night_mode_on_off_light" id="0x7f0f00fc" />
+    <public type="string" name="night_mode_on_off_night" id="0x7f0f00fd" />
+    <public type="string" name="night_mode_switch_anim_close" id="0x7f0f00fe" />
+    <public type="string" name="night_mode_switch_anim_close_dark" id="0x7f0f00ff" />
+    <public type="string" name="night_mode_switch_anim_open" id="0x7f0f0100" />
+    <public type="string" name="night_mode_switch_anim_open_dark" id="0x7f0f0101" />
+    <public type="string" name="night_mode_time_config_close" id="0x7f0f0102" />
+    <public type="string" name="night_mode_time_config_dialog_title" id="0x7f0f0103" />
+    <public type="string" name="night_mode_time_config_title" id="0x7f0f0104" />
+    <public type="string" name="night_mode_time_config_title_dark" id="0x7f0f0105" />
+    <public type="string" name="night_mode_time_config_twilight" id="0x7f0f0106" />
+    <public type="string" name="night_mode_time_config_user" id="0x7f0f0107" />
+    <public type="string" name="no_data" id="0x7f0f0108" />
+    <public type="string" name="pref_title_night_mode_end_time" id="0x7f0f0109" />
+    <public type="string" name="pref_title_night_mode_start_time" id="0x7f0f010a" />
+    <public type="string" name="scope_null_token" id="0x7f0f010b" />
+    <public type="string" name="search_menu_title" id="0x7f0f010c" />
+    <public type="string" name="status_bar_notification_info_overflow" id="0x7f0f010d" />
+    <public type="string" name="status_no_network" id="0x7f0f010e" />
+    <public type="string" name="sync_timeout" id="0x7f0f010f" />
+    <public type="string" name="title_activity_dark_mode_settings" id="0x7f0f0110" />
+    <public type="string" name="title_activity_night_mode_settings" id="0x7f0f0111" />
+    <public type="string" name="translation" id="0x7f0f0112" />
+    <public type="string" name="translation_baidu_language_ara" id="0x7f0f0113" />
+    <public type="string" name="translation_baidu_language_bul" id="0x7f0f0114" />
+    <public type="string" name="translation_baidu_language_cht" id="0x7f0f0115" />
+    <public type="string" name="translation_baidu_language_cs" id="0x7f0f0116" />
+    <public type="string" name="translation_baidu_language_dan" id="0x7f0f0117" />
+    <public type="string" name="translation_baidu_language_de" id="0x7f0f0118" />
+    <public type="string" name="translation_baidu_language_el" id="0x7f0f0119" />
+    <public type="string" name="translation_baidu_language_en" id="0x7f0f011a" />
+    <public type="string" name="translation_baidu_language_est" id="0x7f0f011b" />
+    <public type="string" name="translation_baidu_language_fin" id="0x7f0f011c" />
+    <public type="string" name="translation_baidu_language_fra" id="0x7f0f011d" />
+    <public type="string" name="translation_baidu_language_hu" id="0x7f0f011e" />
+    <public type="string" name="translation_baidu_language_it" id="0x7f0f011f" />
+    <public type="string" name="translation_baidu_language_jp" id="0x7f0f0120" />
+    <public type="string" name="translation_baidu_language_kor" id="0x7f0f0121" />
+    <public type="string" name="translation_baidu_language_nl" id="0x7f0f0122" />
+    <public type="string" name="translation_baidu_language_pl" id="0x7f0f0123" />
+    <public type="string" name="translation_baidu_language_pt" id="0x7f0f0124" />
+    <public type="string" name="translation_baidu_language_rom" id="0x7f0f0125" />
+    <public type="string" name="translation_baidu_language_ru" id="0x7f0f0126" />
+    <public type="string" name="translation_baidu_language_slo" id="0x7f0f0127" />
+    <public type="string" name="translation_baidu_language_spa" id="0x7f0f0128" />
+    <public type="string" name="translation_baidu_language_swe" id="0x7f0f0129" />
+    <public type="string" name="translation_baidu_language_th" id="0x7f0f012a" />
+    <public type="string" name="translation_baidu_language_wyw" id="0x7f0f012b" />
+    <public type="string" name="translation_baidu_language_yue" id="0x7f0f012c" />
+    <public type="string" name="translation_baidu_language_zh" id="0x7f0f012d" />
+    <public type="string" name="translation_copy" id="0x7f0f012e" />
+    <public type="string" name="translation_copy_successed" id="0x7f0f012f" />
+    <public type="string" name="translation_detail" id="0x7f0f0130" />
+    <public type="string" name="translation_disable_text" id="0x7f0f0131" />
+    <public type="string" name="translation_language_not_supported" id="0x7f0f0132" />
+    <public type="string" name="translation_loading_text" id="0x7f0f0133" />
+    <public type="string" name="translation_original_text" id="0x7f0f0134" />
+    <public type="string" name="translation_original_title_tip" id="0x7f0f0135" />
+    <public type="string" name="translation_request_error" id="0x7f0f0136" />
+    <public type="string" name="translation_source" id="0x7f0f0137" />
+    <public type="string" name="translation_translation" id="0x7f0f0138" />
+    <public type="string" name="uid_not_match" id="0x7f0f0139" />
+    <public type="string" name="unkown_error" id="0x7f0f013a" />
+    <public type="string" name="unsupport_operation" id="0x7f0f013b" />
+    <public type="string" name="user_aware_wallpaper_bubble" id="0x7f0f013c" />
+    <public type="string" name="user_aware_wallpaper_bubble_description" id="0x7f0f013d" />
+    <public type="string" name="user_aware_wallpaper_bubble_description_v2" id="0x7f0f013e" />
+    <public type="string" name="user_aware_wallpaper_bubble_description_v3" id="0x7f0f013f" />
+    <public type="string" name="user_aware_wallpaper_bubble_description_v4" id="0x7f0f0140" />
+    <public type="string" name="user_aware_wallpaper_bubble_description_v5" id="0x7f0f0141" />
+    <public type="string" name="user_aware_wallpaper_bubble_v2" id="0x7f0f0142" />
+    <public type="string" name="user_aware_wallpaper_bubble_v3" id="0x7f0f0143" />
+    <public type="string" name="user_aware_wallpaper_bubble_v4" id="0x7f0f0144" />
+    <public type="string" name="user_aware_wallpaper_bubble_v5" id="0x7f0f0145" />
+    <public type="string" name="user_aware_wallpaper_gradient_description_v1" id="0x7f0f0146" />
+    <public type="string" name="user_aware_wallpaper_gradient_description_v2" id="0x7f0f0147" />
+    <public type="string" name="user_aware_wallpaper_gradient_description_v3" id="0x7f0f0148" />
+    <public type="string" name="user_aware_wallpaper_gradient_v1" id="0x7f0f0149" />
+    <public type="string" name="user_aware_wallpaper_gradient_v2" id="0x7f0f014a" />
+    <public type="string" name="user_aware_wallpaper_gradient_v3" id="0x7f0f014b" />
+    <public type="string" name="user_aware_wallpaper_stereo_description_v4" id="0x7f0f014c" />
+    <public type="string" name="user_aware_wallpaper_stereo_description_v5" id="0x7f0f014d" />
+    <public type="string" name="user_aware_wallpaper_stereo_description_v6" id="0x7f0f014e" />
+    <public type="string" name="user_aware_wallpaper_stereo_v4" id="0x7f0f014f" />
+    <public type="string" name="user_aware_wallpaper_stereo_v5" id="0x7f0f0150" />
+    <public type="string" name="user_aware_wallpaper_stereo_v6" id="0x7f0f0151" />
+    <public type="string" name="user_aware_wallpaper_video_description_v1" id="0x7f0f0152" />
+    <public type="string" name="user_aware_wallpaper_video_description_v2" id="0x7f0f0153" />
+    <public type="string" name="user_aware_wallpaper_video_description_v3" id="0x7f0f0154" />
+    <public type="string" name="user_aware_wallpaper_video_v1" id="0x7f0f0155" />
+    <public type="string" name="user_aware_wallpaper_video_v2" id="0x7f0f0156" />
+    <public type="string" name="user_aware_wallpaper_video_v3" id="0x7f0f0157" />
     <public type="string" name="APKTOOL_DUMMY_2e" id="0x7f0f002e" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f100000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f100001" />
@@ -5259,8 +5279,14 @@
     <public type="xml" name="mz_user_aware_wallpaper_bubble_v3" id="0x7f130002" />
     <public type="xml" name="mz_user_aware_wallpaper_bubble_v4" id="0x7f130003" />
     <public type="xml" name="mz_user_aware_wallpaper_bubble_v5" id="0x7f130004" />
-    <public type="xml" name="mz_user_aware_wallpaper_video_v1" id="0x7f130005" />
-    <public type="xml" name="mz_user_aware_wallpaper_video_v2" id="0x7f130006" />
-    <public type="xml" name="mz_user_aware_wallpaper_video_v3" id="0x7f130007" />
-    <public type="xml" name="night_mode_preference" id="0x7f130008" />
+    <public type="xml" name="mz_user_aware_wallpaper_gradient_v1" id="0x7f130005" />
+    <public type="xml" name="mz_user_aware_wallpaper_gradient_v2" id="0x7f130006" />
+    <public type="xml" name="mz_user_aware_wallpaper_gradient_v3" id="0x7f130007" />
+    <public type="xml" name="mz_user_aware_wallpaper_stereo_v4" id="0x7f130008" />
+    <public type="xml" name="mz_user_aware_wallpaper_stereo_v5" id="0x7f130009" />
+    <public type="xml" name="mz_user_aware_wallpaper_stereo_v6" id="0x7f13000a" />
+    <public type="xml" name="mz_user_aware_wallpaper_video_v1" id="0x7f13000b" />
+    <public type="xml" name="mz_user_aware_wallpaper_video_v2" id="0x7f13000c" />
+    <public type="xml" name="mz_user_aware_wallpaper_video_v3" id="0x7f13000d" />
+    <public type="xml" name="night_mode_preference" id="0x7f13000e" />
 </resources>

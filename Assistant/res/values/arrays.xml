@@ -1,37 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="believePackages">
-        <item>com.meizu.picker</item>
-    </string-array>
     <string-array name="bookmark_type">
         <item>Adapted to films</item>
         <item>Book</item>
         <item>Shop</item>
         <item>News</item>
-    </string-array>
-    <string-array name="card_menu_items_ignorable">
-        <item>Ignore this time</item>
-        <item>Disable</item>
-        <item>Cancel</item>
-    </string-array>
-    <string-array name="card_menu_items_not_ignorable">
-        <item>Cancel</item>
-        <item>Disable</item>
-    </string-array>
-    <string-array name="card_place_menu_items_ignorable">
-        <item>Ignore this place</item>
-        <item>Disable</item>
-        <item>Cancel</item>
-    </string-array>
-    <string-array name="daily_way_destination_address_key">
-        <item>@string/daily_way_company</item>
-        <item>@string/daily_way_school</item>
-        <item>@string/daily_way_custom</item>
-    </string-array>
-    <string-array name="daily_way_vehicle_key">
-        <item>Bus</item>
-        <item>Drive</item>
-        <item>Walk</item>
     </string-array>
     <string-array name="day_of_week">
         <item>Sun</item>
@@ -355,6 +328,21 @@
         <item>#ff54ae56</item>
         <item>#ffe9a63b</item>
     </array>
+    <string-array name="news_tip_report_article_array">
+        <item>广告</item>
+        <item>内容过时</item>
+        <item>低俗色情</item>
+        <item>标题夸张</item>
+        <item>与事实不符</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>广告</item>
+        <item>低俗色情暴力</item>
+        <item>标题虚假夸张</item>
+        <item>侵权</item>
+        <item>视频质量差</item>
+        <item>封面令人反感</item>
+    </string-array>
     <string-array name="seekBarItemsLight">
         <item></item>
         <item></item>

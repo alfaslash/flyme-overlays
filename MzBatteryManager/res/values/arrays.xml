@@ -257,11 +257,11 @@
         <item>#ffc9c9c9</item>
     </array>
     <array name="mc_rating_bar_default_colors">
-        <item>#fffd7d2c</item>
-        <item>#fffc8f21</item>
-        <item>#fffc9c1b</item>
-        <item>#fffcb10f</item>
         <item>#fffbc106</item>
+        <item>#fffcb10f</item>
+        <item>#fffc9c1b</item>
+        <item>#fffc8f21</item>
+        <item>#fffd7d2c</item>
     </array>
     <array name="mc_rating_bar_white_bg_colors">
         <item>#ff7f7f7f</item>

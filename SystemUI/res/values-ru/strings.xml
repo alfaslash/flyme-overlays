@@ -918,7 +918,7 @@
     <string name="lock_month_day">d MMMM</string>
     <string name="lock_password_left_times">Осталось попыток ввода пароля: %s</string>
     <string name="lock_tips_dialing">Набор</string>
-    <string name="lock_week">d.M.yyyy(EEE)</string>
+    <string name="lock_week">d.M.yyyy(EEEE)</string>
     <string name="lockscreen_flyme_unlock_progress_dialog_message">Аутентификация аккаунта Flyme</string>
     <string name="lockscreen_poster_link_text">Об изображении</string>
     <string name="lockscreen_return_to_call">Вернуться к вызову</string>
@@ -1318,7 +1318,7 @@
         <b>Уровень 0</b>
     </string>
     <string name="power_remaining_charging_duration_only">Осталось %1$s до полной зарядки</string>
-    <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
+    <string name="power_remaining_duration_only">Осталось примерно ^1</string>
     <string name="power_remaining_duration_only_enhanced">Осталось примерно %1$s (на основании данных использования)</string>
     <string name="power_remaining_duration_only_short">Осталось: %1$s</string>
     <string name="power_remaining_duration_only_short_enhanced">^1 примерно осталось</string>
@@ -1347,8 +1347,8 @@
     <string name="qs_customize_remove">Удалить</string>
     <string name="qs_edit">Изменить</string>
     <string name="qs_header_date_local_pattern">dd.MM.yyyy</string>
-    <string name="qs_header_date_main_pattern12">a EEEE, %s</string>
-    <string name="qs_header_date_main_pattern24">%s, EEEE</string>
+    <string name="qs_header_date_main_pattern12">a EEE, %s</string>
+    <string name="qs_header_date_main_pattern24">EEE, %s</string>
     <string name="qs_paging">Использовать новые быстрые настройки</string>
     <string name="qs_rearrange">Изменить порядок быстрых настроек</string>
     <string name="qs_tile_config_cue_line_text">Перетащите вверх</string>

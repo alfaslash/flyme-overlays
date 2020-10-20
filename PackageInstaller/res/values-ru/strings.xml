@@ -768,7 +768,7 @@ Selection"</string>
     <string name="power_discharging_duration_enhanced">^1 - приблизительно ^2 осталось в зависимости от вашего использования</string>
     <string name="power_discharging_duration_short">%1$s, осталось: %2$s</string>
     <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
-    <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
+    <string name="power_remaining_duration_only">Осталось примерно ^1</string>
     <string name="power_remaining_duration_only_enhanced">About %1$s left based on your usage</string>
     <string name="power_remaining_duration_only_short">Осталось: %1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Phone may shutdown soon</string>

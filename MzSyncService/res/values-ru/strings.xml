@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="add_count_text">Добавить контакты: %d</string>
+    <string name="already_exceed_notify_text">Облачное хранилище заполнено. Перейдите к обновлению или управлению хранилищем</string>
+    <string name="already_expired_notify_text">Тарифный план истёк. Перейдите к обновлению</string>
+    <string name="app_installed">Установлено</string>
+    <string name="auto_backup_closed_tip_text">Бэкап приложений и настроек</string>
+    <string name="backup_detail" formatted="false">Всего бэкапов: %s. Занимают: %s</string>
+    <string name="backup_error_tip">Ошибка выполнения бэкапа. Выйти?</string>
+    <string name="backup_ignored">Игнорируемые приложения</string>
+    <string name="backup_success_no_new">Бэкап выполнен, всего приложений: %d, новых нет</string>
+    <string name="backup_time">Время: %s</string>
+    <string name="check_app">проверка</string>
+    <string name="cloud_backup">Бэкап в облако</string>
+    <string name="cloud_gallery_detail_text">Фото: %d</string>
+    <string name="cloud_storage_volume_text">"Облако: "</string>
+    <string name="manage_storage_title">Управление хранилищем</string>
+    <string name="manage_storage_volume_text">Управление хранилищем</string>
+    <string name="manage_volume_text">Управление</string>
+    <string name="manual_sync_data_text">Синхронизация данных</string>
+    <string name="manual_sync_text">Синхронизация</string>
+    <string name="mc_action_settings">Настройки</string>
+    <string name="finishTime">Синхронизация:</string>
+    <string name="continue_ignore">Игнорировать</string>
+    <string name="continue_quit">Выход</string>
+    <string name="continue_to_backup">продолжить бэкап</string>
+    <string name="cover_backup_tip">В облаке уже найден бэкап, новый перезапишет файл бэкапа в облаке</string>
+    <string name="delete_backup_data_tip">удалить 1 бэкап</string>
+    <string name="loading_cloud_storage_volume_text">Получение информации...</string>
+    <string name="local_app">Установленные приложения</string>
+    <string name="only_wlan_auto_sync_text">Автосинхронизация только по Wi-Fi</string>
+    <string name="only_wlan_sync">Синхронизация только по Wi-Fi</string>
+    <string name="over_volume_app">Бэкап приложений свыше 100 Мб не создаётся</string>
+    <string name="over_volume_title">Нет данных</string>
+    <string name="prepare_backup">подготовка к бэкапу</string>
+    <string name="ptr_pull_refresh">Потяните вниз для обновления</string>
+    <string name="recovering_info_flying">Машина времени запущена…</string>
+    <string name="restore">восстановить</string>
+    <string name="restore_error_tip">Ошибка восстановления. Выйти?</string>
+    <string name="restore_exist_data">восстановление</string>
+    <string name="restore_success_no_new">Восстановление завершено. Всего приложений: %d, новых нет</string>
+    <string name="select_all">Все</string>
+    <string name="select_none">Нет</string>
+    <string name="syncErrorNoResponseTip">Ошибка синхронизации: сервер не отвечает</string>
+    <string name="syncErrorNoResponseTipS">Служба аккаунта %s не отвечает</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="storage_over_volume_sync_unrestricted_tip">Синхронизация с облаком работает без ограничений</string>
+    <string name="cloud_sync_stopped_text">Синхронизация с облаком отключена. Включить?</string>
+    <string name="cloud_sync_text">Синхронизация с облаком</string>
+     <string name="used">"Используется: "</string>
+    <string name="backup_desc_text">Пользовательские данные и файлы системы</string>
+    <string name="stop_service_text">Отключить и очистить данные в облаке</string>
+</resources>

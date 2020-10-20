@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="font_updates">
-        <item quantity="other">%d fonts can be updated</item>
-    </plurals>
-    <plurals name="font_updates_complete">
-        <item quantity="other">%1$d fonts updated</item>
-    </plurals>
-    <plurals name="livepaper_updates">
-        <item quantity="other">%d dynamic wallpapers can be updated</item>
-    </plurals>
-    <plurals name="livepaper_updates_complete">
-        <item quantity="other">%1$d dynamic wallpapers updated</item>
-    </plurals>
     <plurals name="local_delete_badge">
         <item quantity="other">Delete %d secondary wallpapers</item>
         <item quantity="one">Delete %d secondary wallpapers</item>
@@ -40,11 +28,9 @@
         <item quantity="other">Delete %d Themes</item>
         <item quantity="one">Delete %d Themes</item>
     </plurals>
-    <plurals name="theme_updates">
-        <item quantity="other">%d Themes Can Be Updated</item>
-    </plurals>
-    <plurals name="theme_updates_complete">
-        <item quantity="other">%1$d themes updated</item>
+    <plurals name="local_delete_tof_live_pager">
+        <item quantity="other">Delete %d 3D wallpapers</item>
+        <item quantity="one">Delete %d 3D wallpapers</item>
     </plurals>
     <plurals name="update_incremental_complete_title">
         <item quantity="other">Updated %d Themes</item>

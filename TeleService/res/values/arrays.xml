@@ -81,7 +81,7 @@
         <item>100</item>
     </integer-array>
     <array name="batterymeter_color_values">
-        <item>?android:colorError</item>
+        <item>@null</item>
         <item>@android:color/white</item>
     </array>
     <integer-array name="batterymeter_plus_points">
@@ -186,9 +186,11 @@
         <item>Use System Selection (Default)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Qualcomm® aptX™</item>
+        <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive</item>
+        <item>Qualcomm® aptX™ TWS+</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -196,9 +198,11 @@
         <item>Use System Selection (Default)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Qualcomm® aptX™</item>
+        <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive</item>
+        <item>Qualcomm® aptX™ TWS+</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -211,6 +215,8 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
+        <item>8</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -240,6 +246,38 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Disabled</item>
+        <item>Enabled Filtered</item>
+        <item>Enabled</item>
+        <item>Enabled Headers Filtered</item>
+        <item>Enabled Media Pkts Filtered</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabled</item>
+        <item>filtered</item>
+        <item>full</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
+    </string-array>
+    <array name="bt_icon_bg_colors">
+        <item>@color/bt_color_bg_1</item>
+        <item>@color/bt_color_bg_2</item>
+        <item>@color/bt_color_bg_3</item>
+        <item>@color/bt_color_bg_4</item>
+        <item>@color/bt_color_bg_5</item>
+        <item>@color/bt_color_bg_6</item>
+        <item>@color/bt_color_bg_7</item>
+    </array>
+    <array name="bt_icon_fg_colors">
+        <item>@color/bt_color_icon_1</item>
+        <item>@color/bt_color_icon_2</item>
+        <item>@color/bt_color_icon_3</item>
+        <item>@color/bt_color_icon_4</item>
+        <item>@color/bt_color_icon_5</item>
+        <item>@color/bt_color_icon_6</item>
+        <item>@color/bt_color_icon_7</item>
+    </array>
     <string-array name="cap_performance_time_entries">
         <item>5s</item>
         <item>8s</item>
@@ -291,6 +329,7 @@
         <item>Natural</item>
         <item>Standard</item>
     </string-array>
+    <array name="config_countries_to_enable_shortcut_view" />
     <array name="config_support_tdscdma_roaming_on_networks" />
     <string-array name="custom_ringtone_path">
         <item>/music/</item>
@@ -423,6 +462,16 @@
         <item>9</item>
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_sumary_variant">
+        <item>@string/enhanced_4g_lte_mode_summary</item>
+        <item>@string/enhanced_4g_lte_mode_summary</item>
+        <item>@string/enhanced_4g_lte_mode_summary_o2</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Advanced Calling</item>
+        <item>4G Calling</item>
     </string-array>
     <string-array name="entries_meizu_app_font_size">
         <item>Small</item>
@@ -1322,13 +1371,11 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>zh_HK</item>
-        <item>ru_RU</item>
     </string-array>
     <string-array name="special_locale_names">
         <item>简体中文</item>
         <item>繁體中文</item>
         <item>繁體中文（香港）</item>
-        <item>Русский (Россия)</item>
     </string-array>
     <string-array name="time_formate_items">
         <item>@string/time_formate_am</item>
@@ -1799,10 +1846,10 @@
         <item>Scanning…</item>
         <item>Connecting…</item>
         <item>Authenticating…</item>
-        <item>Obtaining IP address...</item>
+        <item>Obtaining IP address…</item>
         <item>Connected</item>
         <item>Suspended</item>
-        <item>Disconnecting...</item>
+        <item>Disconnecting…</item>
         <item>Disconnected</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>
@@ -1811,12 +1858,12 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Scanning…</item>
-        <item>Connecting to %1$s...</item>
-        <item>Authenticating with %1$s...</item>
-        <item>Obtaining IP address from %1$s...</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
         <item>Connected to %1$s</item>
         <item>Suspended</item>
-        <item>Disconnecting from %1$s...</item>
+        <item>Disconnecting from %1$s…</item>
         <item>Disconnected</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>

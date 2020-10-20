@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="access_server_error">Ошибка подключения к серверу</string>
+    <string name="flyme_coin">Монеты</string>
+    <string name="title_nick_name">Логин</string>
+    <string name="account_title_setting">Настройки аккаунта</string>
+    <string name="my_devices">Мои устройства</string>
+    <string name="my_flyme">Мой Flyme</string>
+    <string name="mc_action_settings">Настройки</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mz_permissiongroup_name_change_network">Сеть Wi-Fi</string>
+    <string name="password_toggle_content_description">Изменить видимость пароля</string>
+    <string name="qm_click">Задать виртуальный стиль</string>
+    <string name="qm_intro_summ">Настройте свой виртуальный стиль и поделитесь им с друзьями.</string>
+    <string name="select_gallary">Из галереи</string>
+    <string name="setting_avatar">Установить аватар</string>
+</resources>

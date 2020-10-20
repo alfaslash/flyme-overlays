@@ -501,7 +501,7 @@
     <string name="wifi_network_connected_info">Инф. о сети</string>
     <string name="wifi_network_diagn">WLAN Doktor</string>
     <string name="wifi_no_internet">"Не могу получить доступ к интернету"</string>
-    <string name="wifi_password">Ппароль</string>
+    <string name="wifi_password">Пароль</string>
     <string name="wifi_password_error_hint">Неверный пароль</string>
     <string name="wifi_security_detecting">Обнаружение</string>
     <string name="wifi_security_dpp">DPP</string>

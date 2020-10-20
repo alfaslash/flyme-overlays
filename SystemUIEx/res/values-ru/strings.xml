@@ -532,6 +532,8 @@ Sample Rate"</string>
     <string name="screen_zoom_summary_very_large">Larger</string>
     <string name="screenrecord_failed_title">Не удалось сохранить запись экрана.</string>
     <string name="screenrecord_failed_to_save_text">Не удается сохранить запись экрана из-за ограниченного пространства для хранения</string>
+    <string name="screenrecord_no_avaliable_and_save_text">Недостаточно свободного места. Файл записи экрана был сохранен автоматически</string>
+    <string name="screenrecord_no_avaliable_storage_text">Недостаточно свободного места. Необходимо освободить место перед записью</string>
     <string name="screenrecord_saved_app_name">Системная служба</string>
     <string name="screenrecord_saved_text_min">" м."</string>
     <string name="screenrecord_saved_text_s">" с."</string>

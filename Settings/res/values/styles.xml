@@ -243,7 +243,7 @@
         <item name="android:textColor">@color/mc_loading_view_text_light</item>
     </style>
     <style name="Preference">
-        <item name="android:layout">@layout/preference</item>
+        <item name="android:layout">@layout/preference_material_settings</item>
     </style>
     <style name="Preference.Flyme" parent="@style/Preference">
         <item name="android:layout">@layout/mz_preference</item>
@@ -2394,66 +2394,6 @@
         <item name="android:background">@null</item>
         <item name="android:layout_height">@dimen/mz_action_bar_gradient_button_default_height_appcompat_split</item>
     </style>
-    <style name="TextAppearanceSmall">
-        <item name="android:textAppearance">?android:textAppearanceSmall</item>
-    </style>
-    <style name="TextAppearanceMedium">
-        <item name="android:textAppearance">?android:textAppearanceMedium</item>
-    </style>
-    <style name="preference_icon_frame">
-        <item name="android:minWidth">60.0dip</item>
-        <item name="android:layout_marginStart">-4.0dip</item>
-    </style>
-    <style name="PreferenceFragmentStyle.SettingsBase" parent="@android:style/PreferenceFragment.Material">
-        <item name="allowDividerAfterLastItem">true</item>
-    </style>
-    <style name="Preference.SettingsBase" parent="@style/Preference.Material">
-        <item name="allowDividerAbove">true</item>
-        <item name="allowDividerBelow">true</item>
-        <item name="singleLineTitle">false</item>
-        <item name="iconSpaceReserved">false</item>
-    </style>
-    <style name="Preference.Category.SettingsBase" parent="@style/Preference.Category.Material">
-        <item name="android:layout">@layout/preference_category_material_settings</item>
-        <item name="allowDividerAbove">true</item>
-        <item name="allowDividerBelow">false</item>
-    </style>
-    <style name="Preference.Screen.SettingsBase" parent="@style/Preference.PreferenceScreen.Material">
-        <item name="allowDividerAbove">false</item>
-        <item name="allowDividerBelow">true</item>
-        <item name="iconSpaceReserved">true</item>
-    </style>
-    <style name="Preference.FooterPreference.SettingsBase" parent="@style/Preference.SettingsBase">
-        <item name="android:layout">@layout/preference_footer</item>
-        <item name="allowDividerAbove">true</item>
-    </style>
-    <style name="Preference.DropdownPreference.SettingsBase" parent="@style/Preference.SettingsBase">
-        <item name="android:layout">@layout/preference_dropdown_material_settings</item>
-    </style>
-    <style name="Preference.SwitchPreference.SettingsBase" parent="@style/Preference.SwitchPreference.Material">
-        <item name="allowDividerAbove">false</item>
-        <item name="allowDividerBelow">true</item>
-        <item name="singleLineTitle">false</item>
-        <item name="iconSpaceReserved">false</item>
-    </style>
-    <style name="Preference.EditTextPreference.SettingsBase" parent="@style/Preference.DialogPreference.EditTextPreference.Material">
-        <item name="allowDividerAbove">false</item>
-        <item name="allowDividerBelow">true</item>
-        <item name="singleLineTitle">false</item>
-        <item name="iconSpaceReserved">true</item>
-    </style>
-    <style name="PreferenceThemeOverlay.SettingsBase" parent="@style/PreferenceThemeOverlay.v14.Material">
-        <item name="android:scrollbars">vertical</item>
-        <item name="footerPreferenceStyle">@style/Preference.FooterPreference.SettingsBase</item>
-        <item name="preferenceScreenStyle">@style/Preference.Screen.SettingsBase</item>
-        <item name="preferenceFragmentStyle">@style/PreferenceFragmentStyle.SettingsBase</item>
-        <item name="preferenceCategoryStyle">@style/Preference.Category.SettingsBase</item>
-        <item name="preferenceStyle">@style/Preference.SettingsBase</item>
-        <item name="dialogPreferenceStyle">@style/Preference.SettingsBase</item>
-        <item name="editTextPreferenceStyle">@style/Preference.EditTextPreference.SettingsBase</item>
-        <item name="dropdownPreferenceStyle">@style/Preference.DropdownPreference.SettingsBase</item>
-        <item name="switchPreferenceStyle">@style/Preference.SwitchPreference.SettingsBase</item>
-    </style>
     <style name="SuwThemeMaterial" parent="@style/Theme.AppCompat.NoActionBar">
         <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
         <item name="android:textColorLink">@color/suw_link_color_dark</item>
@@ -2461,22 +2401,15 @@
         <item name="android:windowDisablePreview">true</item>
         <item name="android:windowSoftInputMode">adjustResize</item>
         <item name="android:textAppearanceListItemSmall">?textAppearanceListItemSmall</item>
-        <item name="android:listPreferredItemPaddingStart">?suwMarginSides</item>
-        <item name="android:listPreferredItemPaddingEnd">?suwMarginSides</item>
         <item name="android:statusBarColor">@android:color/black</item>
         <item name="android:navigationBarColor">@android:color/black</item>
         <item name="android:indeterminateTint">@color/suw_progress_bar_color_dark</item>
         <item name="android:indeterminateTintMode">src_in</item>
         <item name="suwMarginSides">@dimen/suw_layout_margin_sides</item>
         <item name="suwCardBackground">@drawable/suw_card_bg_dark</item>
-        <item name="suwFillContentLayoutStyle">@style/SuwFillContentLayout</item>
         <item name="suwListItemIconColor">@color/suw_list_item_icon_color_dark</item>
         <item name="suwNavBarTheme">@style/SuwNavBarThemeDark</item>
-        <item name="suwDividerInsetEnd">0.0dip</item>
-        <item name="suwDividerInsetStart">@dimen/suw_items_icon_divider_inset</item>
-        <item name="suwDividerInsetStartNoIcon">@dimen/suw_items_text_divider_inset</item>
         <item name="suwItemDescriptionStyle">@style/SuwItemContainer.Description</item>
-        <item name="suwItemDescriptionTitleStyle">@style/SuwItemTitle</item>
         <item name="listPreferredItemPaddingLeft">?suwMarginSides</item>
         <item name="listPreferredItemPaddingRight">?suwMarginSides</item>
         <item name="textAppearanceListItemSmall">@style/TextAppearance.SuwItemSummary</item>
@@ -2489,31 +2422,23 @@
         <item name="android:windowDisablePreview">true</item>
         <item name="android:windowSoftInputMode">adjustResize</item>
         <item name="android:textAppearanceListItemSmall">?textAppearanceListItemSmall</item>
-        <item name="android:listPreferredItemPaddingStart">?suwMarginSides</item>
-        <item name="android:listPreferredItemPaddingEnd">?suwMarginSides</item>
         <item name="android:statusBarColor">@android:color/black</item>
         <item name="android:navigationBarColor">@android:color/black</item>
         <item name="android:indeterminateTint">@color/suw_progress_bar_color_light</item>
         <item name="android:indeterminateTintMode">src_in</item>
         <item name="suwMarginSides">@dimen/suw_layout_margin_sides</item>
         <item name="suwCardBackground">@drawable/suw_card_bg_light</item>
-        <item name="suwFillContentLayoutStyle">@style/SuwFillContentLayout</item>
         <item name="suwListItemIconColor">@color/suw_list_item_icon_color_light</item>
         <item name="suwNavBarTheme">@style/SuwNavBarThemeLight</item>
-        <item name="suwDividerInsetEnd">0.0dip</item>
-        <item name="suwDividerInsetStart">@dimen/suw_items_icon_divider_inset</item>
-        <item name="suwDividerInsetStartNoIcon">@dimen/suw_items_text_divider_inset</item>
         <item name="suwItemDescriptionStyle">@style/SuwItemContainer.Description</item>
-        <item name="suwItemDescriptionTitleStyle">@style/SuwItemTitle</item>
         <item name="listPreferredItemPaddingLeft">?suwMarginSides</item>
         <item name="listPreferredItemPaddingRight">?suwMarginSides</item>
         <item name="textAppearanceListItemSmall">@style/TextAppearance.SuwItemSummary</item>
         <item name="colorAccent">@color/suw_color_accent_light</item>
     </style>
     <style name="SuwThemeGlif" parent="@style/Theme.AppCompat.NoActionBar">
-        <item name="android:colorBackground">@color/suw_glif_background_color_dark</item>
         <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
-        <item name="android:textColorLink">@color/suw_color_accent_glif_dark</item>
+        <item name="android:textColorLink">@color/suw_link_color_dark</item>
         <item name="android:windowAnimationStyle">@style/Animation.SuwWindowAnimation</item>
         <item name="android:windowDisablePreview">true</item>
         <item name="android:windowSoftInputMode">adjustResize</item>
@@ -2525,16 +2450,8 @@
         <item name="android:indeterminateTint">?colorControlActivated</item>
         <item name="android:indeterminateTintMode">src_in</item>
         <item name="suwMarginSides">@dimen/suw_glif_margin_sides</item>
-        <item name="suwGlifHeaderGravity">start</item>
-        <item name="suwFillContentLayoutStyle">@style/SuwFillContentLayout</item>
         <item name="suwListItemIconColor">@color/suw_list_item_icon_color_dark</item>
-        <item name="suwScrollIndicators">bottom</item>
-        <item name="suwColorPrimary">?colorPrimary</item>
-        <item name="suwDividerInsetEnd">0.0dip</item>
-        <item name="suwDividerInsetStart">@dimen/suw_items_glif_icon_divider_inset</item>
-        <item name="suwDividerInsetStartNoIcon">@dimen/suw_items_glif_text_divider_inset</item>
         <item name="suwItemDescriptionStyle">@style/SuwItemContainer.Description.Glif</item>
-        <item name="suwItemDescriptionTitleStyle">@style/SuwItemTitle.GlifDescription</item>
         <item name="listPreferredItemPaddingLeft">?suwMarginSides</item>
         <item name="listPreferredItemPaddingRight">?suwMarginSides</item>
         <item name="textAppearanceListItem">@style/TextAppearance.SuwGlifItemTitle</item>
@@ -2543,9 +2460,8 @@
         <item name="colorAccent">@color/suw_color_accent_glif_dark</item>
     </style>
     <style name="SuwThemeGlif.Light" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:colorBackground">@color/suw_glif_background_color_light</item>
         <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
-        <item name="android:textColorLink">@color/suw_color_accent_glif_light</item>
+        <item name="android:textColorLink">@color/suw_link_color_light</item>
         <item name="android:windowAnimationStyle">@style/Animation.SuwWindowAnimation</item>
         <item name="android:windowDisablePreview">true</item>
         <item name="android:windowSoftInputMode">adjustResize</item>
@@ -2557,16 +2473,8 @@
         <item name="android:indeterminateTint">?colorControlActivated</item>
         <item name="android:indeterminateTintMode">src_in</item>
         <item name="suwMarginSides">@dimen/suw_glif_margin_sides</item>
-        <item name="suwGlifHeaderGravity">start</item>
-        <item name="suwFillContentLayoutStyle">@style/SuwFillContentLayout</item>
         <item name="suwListItemIconColor">@color/suw_list_item_icon_color_light</item>
-        <item name="suwScrollIndicators">bottom</item>
-        <item name="suwColorPrimary">?colorPrimary</item>
-        <item name="suwDividerInsetEnd">0.0dip</item>
-        <item name="suwDividerInsetStart">@dimen/suw_items_glif_icon_divider_inset</item>
-        <item name="suwDividerInsetStartNoIcon">@dimen/suw_items_glif_text_divider_inset</item>
         <item name="suwItemDescriptionStyle">@style/SuwItemContainer.Description.Glif</item>
-        <item name="suwItemDescriptionTitleStyle">@style/SuwItemTitle.GlifDescription</item>
         <item name="listPreferredItemPaddingLeft">?suwMarginSides</item>
         <item name="listPreferredItemPaddingRight">?suwMarginSides</item>
         <item name="textAppearanceListItem">@style/TextAppearance.SuwGlifItemTitle</item>
@@ -2593,31 +2501,11 @@
     <style name="SuwItemSummary">
         <item name="android:textAppearance">?textAppearanceListItemSmall</item>
     </style>
-    <style name="SuwSwitchStyle">
-        <item name="android:paddingLeft">@dimen/suw_switch_padding_start</item>
-        <item name="android:paddingRight">@dimen/suw_switch_padding_end</item>
-        <item name="android:paddingStart">@dimen/suw_switch_padding_start</item>
-        <item name="android:paddingEnd">@dimen/suw_switch_padding_end</item>
-    </style>
-    <style name="SuwSwitchStyle.Divided" parent="@style/SuwSwitchStyle">
-        <item name="android:paddingRight">?listPreferredItemPaddingRight</item>
-        <item name="android:paddingEnd">?listPreferredItemPaddingRight</item>
-    </style>
-    <style name="SuwGlifButton.Primary" parent="@style/Widget.AppCompat.Button.Colored">
-        <item name="android:buttonStyle">@style/SuwGlifButton.Primary</item>
-        <item name="android:paddingLeft">@dimen/suw_glif_button_padding</item>
-        <item name="android:paddingRight">@dimen/suw_glif_button_padding</item>
-        <item name="buttonStyle">@style/SuwGlifButton.Primary</item>
-    </style>
-    <style name="SuwGlifButton.Secondary" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
-        <item name="android:theme">@style/SuwGlifButton.Secondary</item>
-        <item name="android:buttonStyle">@style/SuwGlifButton.Secondary</item>
-        <item name="android:paddingLeft">@dimen/suw_glif_button_padding</item>
-        <item name="android:paddingRight">@dimen/suw_glif_button_padding</item>
-        <item name="android:minWidth">0.0dip</item>
-        <item name="android:colorControlHighlight">@color/suw_flat_button_highlight</item>
-        <item name="colorControlHighlight">@color/suw_flat_button_highlight</item>
-        <item name="buttonStyle">@style/SuwGlifButton.Secondary</item>
+    <style name="SuwButtonItem" />
+    <style name="SuwButtonItem.Colored" parent="@style/SuwButtonItem">
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="colorButtonNormal">?colorAccent</item>
     </style>
     <style name="TextAppearance.SuwCardTitle" parent="@style/TextAppearance.AppCompat.Display1">
         <item name="android:textColor">@android:color/white</item>
@@ -2644,30 +2532,6 @@
         <item name="suwNavBarBackgroundColor">@color/suw_navbar_bg_light</item>
         <item name="suwNavBarButtonBackground">@drawable/suw_navbar_btn_bg_light</item>
     </style>
-    <style name="SuwThemeGlifV2" parent="@style/SuwThemeGlif">
-        <item name="android:colorBackground">@color/suw_glif_background_color_dark</item>
-        <item name="android:windowLightStatusBar">false</item>
-        <item name="suwGlifHeaderGravity">center_horizontal</item>
-        <item name="suwScrollIndicators">bottom|top</item>
-        <item name="suwDividerInsetEnd">?suwMarginSides</item>
-        <item name="suwDividerInsetStart">?suwMarginSides</item>
-        <item name="suwDividerInsetStartNoIcon">?suwMarginSides</item>
-        <item name="suwBackgroundPatterned">false</item>
-        <item name="suwBackgroundBaseColor">?android:colorBackground</item>
-    </style>
-    <style name="SuwThemeGlifPixel" parent="@style/SuwThemeGlifV2" />
-    <style name="SuwThemeGlifV2.Light" parent="@style/SuwThemeGlif.Light">
-        <item name="android:colorBackground">@color/suw_glif_background_color_light</item>
-        <item name="android:windowLightStatusBar">true</item>
-        <item name="suwGlifHeaderGravity">center_horizontal</item>
-        <item name="suwScrollIndicators">bottom|top</item>
-        <item name="suwDividerInsetEnd">?suwMarginSides</item>
-        <item name="suwDividerInsetStart">?suwMarginSides</item>
-        <item name="suwDividerInsetStartNoIcon">?suwMarginSides</item>
-        <item name="suwBackgroundPatterned">false</item>
-        <item name="suwBackgroundBaseColor">?android:colorBackground</item>
-    </style>
-    <style name="SuwThemeGlifPixel.Light" parent="@style/SuwThemeGlifV2.Light" />
     <style name="Animation.SuwWindowAnimation" parent="@android:style/Animation.Activity">
         <item name="android:activityOpenEnterAnimation">@anim/suw_slide_next_in</item>
         <item name="android:activityOpenExitAnimation">@anim/suw_slide_next_out</item>
@@ -2679,7 +2543,6 @@
         <item name="android:paddingTop">@dimen/suw_content_frame_padding_top</item>
         <item name="android:paddingRight">?suwMarginSides</item>
         <item name="android:paddingBottom">@dimen/suw_content_frame_padding_bottom</item>
-        <item name="android:clipToPadding">false</item>
     </style>
     <style name="SuwDescription">
         <item name="android:textAppearance">@style/TextAppearance.SuwDescription</item>
@@ -2689,9 +2552,7 @@
         <item name="android:lineSpacingExtra">@dimen/suw_description_line_spacing_extra</item>
     </style>
     <style name="SuwDescription.Glif" parent="@style/SuwDescription">
-        <item name="android:gravity">?suwGlifHeaderGravity</item>
         <item name="android:layout_marginTop">@dimen/suw_description_glif_margin_top</item>
-        <item name="android:textAlignment">gravity</item>
     </style>
     <style name="TextAppearance.SuwDescription.Light" parent="@style/TextAppearance.SuwDescription">
         <item name="android:fontFamily">sans-serif-light</item>
@@ -2722,18 +2583,6 @@
     <style name="SuwCheckBox.Multiline" parent="@style/SuwCheckBox">
         <item name="android:gravity">top</item>
     </style>
-    <style name="SuwFillContentLayout">
-        <item name="android:paddingTop">@dimen/suw_content_illustration_padding_vertical</item>
-        <item name="android:paddingBottom">@dimen/suw_content_illustration_padding_vertical</item>
-        <item name="android:maxWidth">@dimen/suw_content_illustration_max_width</item>
-        <item name="android:maxHeight">@dimen/suw_content_illustration_max_height</item>
-        <item name="android:minWidth">@dimen/suw_content_illustration_min_width</item>
-        <item name="android:minHeight">@dimen/suw_content_illustration_min_height</item>
-    </style>
-    <style name="SuwContentIllustration">
-        <item name="android:layout_gravity">center</item>
-        <item name="android:scaleType">fitCenter</item>
-    </style>
     <style name="SuwBaseCardTitle">
         <item name="android:textAppearance">@style/TextAppearance.SuwCardTitle</item>
         <item name="android:ellipsize">end</item>
@@ -2748,7 +2597,7 @@
     <style name="SuwCardTitle" parent="@style/SuwBaseCardTitle" />
     <style name="SuwGlifCardContainer">
         <item name="android:background">?android:colorBackground</item>
-        <item name="android:elevation">@dimen/suw_glif_card_elevation</item>
+        <item name="android:elevation">5.0dip</item>
     </style>
     <style name="SuwBaseHeaderTitle">
         <item name="android:textSize">@dimen/suw_header_title_size</item>
@@ -2765,35 +2614,6 @@
         <item name="android:layout_marginBottom">@dimen/suw_header_title_margin_bottom</item>
         <item name="android:lineSpacingExtra">@dimen/suw_header_title_line_spacing_extra</item>
     </style>
-    <style name="SuwButtonItem" />
-    <style name="SuwButtonItem.Colored" parent="@style/SuwGlifButton.Primary" />
-    <style name="SuwGlifButton.BaseTertiary" parent="@style/SuwGlifButton.Secondary">
-        <item name="android:theme">@style/SuwGlifButton.Tertiary</item>
-        <item name="android:buttonStyle">@style/SuwGlifButton.Tertiary</item>
-        <item name="android:layout_gravity">?suwGlifHeaderGravity</item>
-        <item name="android:background">@null</item>
-        <item name="android:padding">0.0dip</item>
-        <item name="android:textAllCaps">false</item>
-        <item name="android:fontFamily">sans-serif</item>
-    </style>
-    <style name="SuwGlifButton.Tertiary" parent="@style/SuwGlifButton.BaseTertiary" />
-    <style name="SuwGlifButtonBar">
-        <item name="android:gravity">center_vertical</item>
-        <item name="android:orientation">horizontal</item>
-        <item name="android:paddingLeft">@dimen/suw_glif_button_margin_start</item>
-        <item name="android:paddingTop">@dimen/suw_glif_footer_padding_vertical</item>
-        <item name="android:paddingRight">@dimen/suw_glif_button_margin_end</item>
-        <item name="android:paddingBottom">@dimen/suw_glif_footer_padding_vertical</item>
-        <item name="android:clipChildren">false</item>
-        <item name="android:clipToPadding">false</item>
-        <item name="android:baselineAligned">false</item>
-        <item name="android:minHeight">@dimen/suw_glif_footer_min_height</item>
-        <item name="android:paddingStart">@dimen/suw_glif_button_margin_start</item>
-        <item name="android:paddingEnd">@dimen/suw_glif_button_margin_end</item>
-    </style>
-    <style name="SuwGlifButtonBar.Stackable" parent="@style/SuwGlifButtonBar">
-        <item name="android:gravity">center</item>
-    </style>
     <style name="SuwItemContainer.Description" parent="@style/SuwItemContainer">
         <item name="android:paddingTop">@dimen/suw_description_margin_top</item>
         <item name="android:paddingBottom">@dimen/suw_description_margin_bottom_lists</item>
@@ -2807,10 +2627,6 @@
         <item name="android:paddingTop">@dimen/suw_items_verbose_padding_vertical</item>
         <item name="android:paddingBottom">@dimen/suw_items_verbose_padding_vertical</item>
     </style>
-    <style name="SuwItemTitle.GlifDescription" parent="@style/SuwItemTitle">
-        <item name="android:gravity">?suwGlifHeaderGravity</item>
-        <item name="android:textAlignment">gravity</item>
-    </style>
     <style name="SuwItemTitle.Verbose" parent="@style/SuwItemTitle">
         <item name="android:textAppearance">@style/TextAppearance.SuwGlifBody</item>
     </style>
@@ -2820,16 +2636,10 @@
     </style>
     <style name="SuwGlifHeaderTitle" parent="@style/SuwBaseHeaderTitle">
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:gravity">?suwGlifHeaderGravity</item>
         <item name="android:layout_marginLeft">?suwMarginSides</item>
         <item name="android:layout_marginTop">@dimen/suw_glif_header_title_margin_top</item>
         <item name="android:layout_marginRight">?suwMarginSides</item>
         <item name="android:layout_marginBottom">@dimen/suw_glif_header_title_margin_bottom</item>
-        <item name="android:fontFamily">google-sans</item>
-        <item name="android:textAlignment">gravity</item>
-    </style>
-    <style name="SuwGlifHeaderContainer">
-        <item name="android:gravity">?suwGlifHeaderGravity</item>
     </style>
     <style name="SuwGlifIcon">
         <item name="android:layout_marginLeft">?suwMarginSides</item>
@@ -2858,20 +2668,6 @@
         <item name="android:paddingRight">@dimen/suw_navbar_padding_sides</item>
         <item name="android:layout_alignParentBottom">true</item>
         <item name="suwNavBarTextColor">?android:textColorPrimary</item>
-    </style>
-    <style name="Base.CardView" parent="@android:style/Widget">
-        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
-        <item name="cardElevation">@dimen/cardview_default_elevation</item>
-        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
-        <item name="cardUseCompatPadding">false</item>
-        <item name="cardPreventCornerOverlap">true</item>
-    </style>
-    <style name="CardView" parent="@style/Base.CardView" />
-    <style name="CardView.Light" parent="@style/CardView">
-        <item name="cardBackgroundColor">@color/cardview_light_background</item>
-    </style>
-    <style name="CardView.Dark" parent="@style/CardView">
-        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
     </style>
     <style name="Widget.AppCompat.ActionBar" parent="@style/Base.Widget.AppCompat.ActionBar" />
     <style name="Widget.AppCompat.Light.ActionBar" parent="@style/Base.Widget.AppCompat.Light.ActionBar" />
@@ -2953,7 +2749,6 @@
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" />
     <style name="Animation.AppCompat.Dialog" parent="@style/Base.Animation.AppCompat.Dialog" />
     <style name="Animation.AppCompat.DropDownUp" parent="@style/Base.Animation.AppCompat.DropDownUp" />
-    <style name="Animation.AppCompat.Tooltip" parent="@style/Base.Animation.AppCompat.Tooltip" />
     <style name="TextAppearance.AppCompat" parent="@style/Base.TextAppearance.AppCompat" />
     <style name="TextAppearance.AppCompat.Display4" parent="@style/Base.TextAppearance.AppCompat.Display4" />
     <style name="TextAppearance.AppCompat.Display3" parent="@style/Base.TextAppearance.AppCompat.Display3" />
@@ -2980,9 +2775,6 @@
     <style name="TextAppearance.AppCompat.Widget.Button.Inverse" parent="@style/Base.TextAppearance.AppCompat.Widget.Button.Inverse" />
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="@style/Base.TextAppearance.AppCompat.Widget.Switch" />
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="@style/Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" />
-    <style name="TextAppearance.AppCompat.Widget.Button.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button.Colored" />
-    <style name="TextAppearance.AppCompat.Widget.Button.Borderless.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored" />
-    <style name="TextAppearance.AppCompat.Tooltip" parent="@style/Base.TextAppearance.AppCompat.Tooltip" />
     <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="@style/Widget.AppCompat.Light.ActionBar.Solid" />
     <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="@style/Widget.AppCompat.Light.ActionBar.TabBar" />
     <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="@style/Widget.AppCompat.Light.ActionBar.TabView" />
@@ -3003,6 +2795,35 @@
     <style name="Widget.AppCompat.Light.ActivityChooserView" parent="@style/Widget.AppCompat.ActivityChooserView" />
     <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@style/TextAppearance.AppCompat.Widget.PopupMenu.Large" />
     <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@style/TextAppearance.AppCompat.Widget.PopupMenu.Small" />
+    <style name="TextAppearance.StatusBar.EventContent" parent="" />
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="" />
+    <style name="TextAppearance.StatusBar.EventContent.Line2" parent="" />
+    <style name="TextAppearance.StatusBar.EventContent.Info" parent="" />
+    <style name="TextAppearance.StatusBar.EventContent.Time" parent="" />
+    <style name="TextAppearance.AppCompat.Notification" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Title" parent="@style/TextAppearance.AppCompat.Notification">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Info" parent="@style/TextAppearance.AppCompat.Notification">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Time" parent="@style/TextAppearance.AppCompat.Notification">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification.Line2" parent="@style/TextAppearance.AppCompat.Notification.Info" />
+    <style name="TextAppearance.AppCompat.Notification.Title.Media" parent="@style/TextAppearance.AppCompat.Notification.Title" />
+    <style name="TextAppearance.AppCompat.Notification.Media" parent="@style/TextAppearance.AppCompat.Notification" />
+    <style name="TextAppearance.AppCompat.Notification.Info.Media" parent="@style/TextAppearance.AppCompat.Notification.Info" />
+    <style name="TextAppearance.AppCompat.Notification.Time.Media" parent="@style/TextAppearance.AppCompat.Notification.Time" />
+    <style name="TextAppearance.AppCompat.Notification.Line2.Media" parent="@style/TextAppearance.AppCompat.Notification.Info.Media" />
+    <style name="Widget.AppCompat.NotificationActionText" parent="" />
+    <style name="Widget.AppCompat.NotificationActionContainer" parent="" />
     <style name="Base.Widget.AppCompat.ActionBar" parent="">
         <item name="android:gravity">center_vertical</item>
         <item name="height">?actionBarSize</item>
@@ -3215,8 +3036,7 @@
         <item name="dividerPadding">6.0dip</item>
     </style>
     <style name="Base.Widget.AppCompat.PopupWindow" parent="@android:style/Widget.PopupWindow" />
-    <style name="Base.Widget.AppCompat.Toolbar" parent="@style/Base.V7.Widget.AppCompat.Toolbar" />
-    <style name="Base.V7.Widget.AppCompat.Toolbar" parent="@android:style/Widget">
+    <style name="Base.Widget.AppCompat.Toolbar" parent="@android:style/Widget">
         <item name="android:paddingLeft">@dimen/abc_action_bar_default_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_default_padding_end_material</item>
         <item name="android:minHeight">?actionBarSize</item>
@@ -3338,18 +3158,19 @@
         <item name="android:minHeight">48.0dip</item>
     </style>
     <style name="Base.Widget.AppCompat.Button.Colored" parent="@style/Base.Widget.AppCompat.Button">
-        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.Button.Colored</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.Button.Inverse</item>
         <item name="android:background">@drawable/abc_btn_colored_material</item>
     </style>
     <style name="Base.Widget.AppCompat.Button.Borderless" parent="@style/Base.Widget.AppCompat.Button">
         <item name="android:background">@drawable/abc_btn_borderless_material</item>
     </style>
     <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@style/Base.Widget.AppCompat.Button.Borderless">
-        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.Button.Borderless.Colored</item>
+        <item name="android:textColor">@color/abc_btn_colored_borderless_text_material</item>
     </style>
     <style name="Base.Widget.AppCompat.Button.ButtonBar.AlertDialog" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
         <item name="android:minWidth">64.0dip</item>
         <item name="android:minHeight">@dimen/abc_alert_dialog_button_bar_height</item>
+        <item name="android:maxLines">2</item>
     </style>
     <style name="Base.Widget.AppCompat.ImageButton" parent="@android:style/Widget.ImageButton">
         <item name="android:background">@drawable/abc_btn_default_mtrl_shape</item>
@@ -3391,10 +3212,6 @@
         <item name="listItemLayout">@layout/select_dialog_item_material</item>
     </style>
     <style name="Base.AlertDialog.AppCompat.Light" parent="@style/Base.AlertDialog.AppCompat" />
-    <style name="Base.Animation.AppCompat.Tooltip" parent="@android:style/Animation">
-        <item name="android:windowEnterAnimation">@anim/tooltip_enter</item>
-        <item name="android:windowExitAnimation">@anim/tooltip_exit</item>
-    </style>
     <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance">
         <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
         <item name="android:textColor">?android:textColorPrimary</item>
@@ -3463,9 +3280,6 @@
     <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@style/TextAppearance.AppCompat.Button">
         <item name="android:textColor">?android:textColorPrimaryInverse</item>
     </style>
-    <style name="Base.TextAppearance.AppCompat.Tooltip" parent="@style/Base.TextAppearance.AppCompat">
-        <item name="android:textSize">14.0sp</item>
-    </style>
     <style name="Base.TextAppearance.AppCompat.Inverse" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textColor">?android:textColorPrimaryInverse</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
@@ -3493,12 +3307,6 @@
     <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@style/Base.TextAppearance.AppCompat.Small">
         <item name="android:textColor">?android:textColorTertiaryInverse</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
-    </style>
-    <style name="Base.TextAppearance.AppCompat.Widget.Button.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button">
-        <item name="android:textColor">@color/abc_btn_colored_text_material</item>
-    </style>
-    <style name="Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button">
-        <item name="android:textColor">@color/abc_btn_colored_borderless_text_material</item>
     </style>
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="@android:style/Widget">
         <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
@@ -3652,10 +3460,10 @@
         <item name="windowNoTitle">false</item>
         <item name="windowActionBarOverlay">false</item>
         <item name="windowActionModeOverlay">false</item>
-        <item name="windowFixedWidthMajor">@null</item>
-        <item name="windowFixedHeightMinor">@null</item>
-        <item name="windowFixedWidthMinor">@null</item>
-        <item name="windowFixedHeightMajor">@null</item>
+        <item name="windowFixedWidthMajor">0.0dip</item>
+        <item name="windowFixedHeightMinor">0.0dip</item>
+        <item name="windowFixedWidthMinor">0.0dip</item>
+        <item name="windowFixedHeightMajor">0.0dip</item>
         <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
         <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
         <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
@@ -3718,7 +3526,6 @@
         <item name="dropDownListViewStyle">?android:dropDownListViewStyle</item>
         <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
         <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
-        <item name="textAppearanceListItemSecondary">@style/TextAppearance.AppCompat.Body1</item>
         <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
@@ -3754,9 +3561,6 @@
         <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
         <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
         <item name="listMenuViewStyle">@style/Widget.AppCompat.ListMenuView</item>
-        <item name="tooltipFrameBackground">@drawable/tooltip_frame_light</item>
-        <item name="tooltipForegroundColor">@color/foreground_material_light</item>
-        <item name="colorError">@color/error_color_material</item>
         <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
     </style>
     <style name="Base.V7.Theme.AppCompat.Light" parent="@style/Platform.AppCompat.Light">
@@ -3770,10 +3574,10 @@
         <item name="windowNoTitle">false</item>
         <item name="windowActionBarOverlay">false</item>
         <item name="windowActionModeOverlay">false</item>
-        <item name="windowFixedWidthMajor">@null</item>
-        <item name="windowFixedHeightMinor">@null</item>
-        <item name="windowFixedWidthMinor">@null</item>
-        <item name="windowFixedHeightMajor">@null</item>
+        <item name="windowFixedWidthMajor">0.0dip</item>
+        <item name="windowFixedHeightMinor">0.0dip</item>
+        <item name="windowFixedWidthMinor">0.0dip</item>
+        <item name="windowFixedHeightMajor">0.0dip</item>
         <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
         <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
         <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
@@ -3836,7 +3640,6 @@
         <item name="dropDownListViewStyle">?android:dropDownListViewStyle</item>
         <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
         <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
-        <item name="textAppearanceListItemSecondary">@style/TextAppearance.AppCompat.Body1</item>
         <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
@@ -3872,9 +3675,6 @@
         <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
         <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
         <item name="listMenuViewStyle">@style/Widget.AppCompat.ListMenuView</item>
-        <item name="tooltipFrameBackground">@drawable/tooltip_frame_dark</item>
-        <item name="tooltipForegroundColor">@color/foreground_material_dark</item>
-        <item name="colorError">@color/error_color_material</item>
         <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
     </style>
     <style name="Base.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat" />
@@ -4051,10 +3851,6 @@
         <item name="android:colorBackgroundCacheHint">@null</item>
         <item name="windowActionBar">false</item>
         <item name="windowActionModeOverlay">true</item>
-        <item name="windowFixedWidthMajor">@null</item>
-        <item name="windowFixedHeightMinor">@null</item>
-        <item name="windowFixedWidthMinor">@null</item>
-        <item name="windowFixedHeightMajor">@null</item>
         <item name="listPreferredItemPaddingLeft">24.0dip</item>
         <item name="listPreferredItemPaddingRight">24.0dip</item>
     </style>
@@ -4089,11 +3885,6 @@
     </style>
     <style name="Preference.SwitchPreference.Material" parent="@style/Preference.SwitchPreference">
         <item name="android:layout">@layout/preference_material</item>
-    </style>
-    <style name="Preference.SeekBarPreference.Material" parent="@style/Preference.SeekBarPreference">
-        <item name="android:layout">@layout/preference_widget_seekbar_material</item>
-        <item name="adjustable">true</item>
-        <item name="showSeekBarValue">true</item>
     </style>
     <style name="Preference.PreferenceScreen.Material" parent="@style/Preference.PreferenceScreen">
         <item name="android:layout">@layout/preference_material</item>
@@ -4144,7 +3935,6 @@
         <item name="preferenceFragmentListStyle">@style/PreferenceFragmentList.Material</item>
         <item name="switchPreferenceStyle">@style/Preference.SwitchPreference.Material</item>
         <item name="switchPreferenceCompatStyle">@style/Preference.SwitchPreferenceCompat.Material</item>
-        <item name="seekBarPreferenceStyle">@style/Preference.SeekBarPreference.Material</item>
     </style>
     <style name="PreferenceFragment">
         <item name="android:paddingLeft">0.0dip</item>
@@ -4168,11 +3958,6 @@
         <item name="android:widgetLayout">@layout/preference_widget_switch_compat</item>
         <item name="android:switchTextOn">@string/v7_preference_on</item>
         <item name="android:switchTextOff">@string/v7_preference_off</item>
-    </style>
-    <style name="Preference.SeekBarPreference" parent="@style/Preference">
-        <item name="android:layout">@layout/preference_widget_seekbar</item>
-        <item name="adjustable">true</item>
-        <item name="showSeekBarValue">true</item>
     </style>
     <style name="Preference.PreferenceScreen" parent="@style/Preference" />
     <style name="Preference.DialogPreference" parent="@style/Preference">
@@ -4201,7 +3986,6 @@
         <item name="dropdownPreferenceStyle">@style/Preference.DropDown</item>
         <item name="preferenceFragmentListStyle">@style/PreferenceFragmentList</item>
         <item name="switchPreferenceCompatStyle">@style/Preference.SwitchPreferenceCompat</item>
-        <item name="seekBarPreferenceStyle">@style/Preference.SeekBarPreference</item>
     </style>
     <style name="info_label">
         <item name="android:textAppearance">@style/TextAppearance.info_label</item>
@@ -4251,7 +4035,6 @@
         <item name="android:textStyle">normal</item>
     </style>
     <style name="TextAppearance.PasswordEntry" parent="@android:style/TextAppearance.Material">
-        <item name="android:textSize">24.0sp</item>
         <item name="android:textColor">?android:textColorPrimary</item>
         <item name="android:gravity">center</item>
         <item name="android:singleLine">true</item>
@@ -4265,6 +4048,12 @@
     </style>
     <style name="TallTitleBarTheme" parent="@android:style/Theme.NoTitleBar">
         <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="SyncSwitchPreference" parent="@style/Preference">
+        <item name="android:widgetLayout">@layout/preference_widget_sync_toggle</item>
+    </style>
+    <style name="EditTextPreference" parent="@android:style/Preference.Material.DialogPreference.EditTextPreference">
+        <item name="android:dialogLayout">@layout/preference_dialog_edittext</item>
     </style>
     <style name="PreferenceHeaderPanelSinglePane">
         <item name="android:background">@null</item>
@@ -4304,6 +4093,17 @@
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">fill_parent</item>
     </style>
+    <style name="PreferenceFragmentStyle" parent="@android:style/PreferenceFragment.Material">
+        <item name="android:layout">@layout/preference_list_fragment</item>
+    </style>
+    <style name="VertDivider">
+        <item name="android:background">@color/divider_color</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">@dimen/vert_divider_width</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="TextAppearance.SetupWizardDescription" parent="@android:style/TextAppearance.Material.Subhead" />
     <style name="TrimmedHorizontalProgressBar" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
         <item name="android:maxHeight">3.0dip</item>
         <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal_material_trimmed</item>
@@ -4352,7 +4152,7 @@
     <style name="wifi_item_warning">
         <item name="android:textAppearance">@android:style/TextAppearance.Material.Body1</item>
         <item name="android:textSize">12.0sp</item>
-        <item name="android:textColor">?android:colorError</item>
+        <item name="android:textColor">@android:color/system_error</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="android:paddingStart">8.0dip</item>
     </style>
@@ -4410,10 +4210,12 @@
         <item name="android:singleLine">true</item>
         <item name="android:layout_weight">1.0</item>
     </style>
-    <style name="SetupWizardButton.Negative" parent="@style/SuwGlifButton.Secondary">
-        <item name="android:layout_marginStart">-16.0dip</item>
+    <style name="SetupWizardButton.Negative" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+        <item name="android:theme">@style/AccentColorHighlightBorderlessButton</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:textAllCaps">false</item>
     </style>
-    <style name="SetupWizardButton.Positive" parent="@style/SuwGlifButton.Primary" />
+    <style name="SetupWizardButton.Positive" parent="@android:style/Widget.Material.Button.Colored" />
     <style name="AccentColorHighlightBorderlessButton">
         <item name="android:colorControlHighlight">?android:colorAccent</item>
     </style>
@@ -4427,17 +4229,16 @@
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:singleLine">true</item>
-        <item name="android:textAlignment">viewStart</item>
-    </style>
-    <style name="vpn_warning">
-        <item name="android:textAppearance">?android:textAppearanceSmall</item>
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:paddingStart">8.0dip</item>
     </style>
     <style name="TextAppearance.PagerTabs" parent="@android:style/TextAppearance.Material.Widget.TabWidget" />
     <style name="KeyguardAppWidgetItem">
         <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="ApnPreference">
+        <item name="android:layout">@layout/apn_preference_layout</item>
+    </style>
+    <style name="AppListSwitchPreference" parent="@android:style/Preference.Material.DialogPreference">
+        <item name="android:widgetLayout">@android:layout/preference_widget_switch</item>
     </style>
     <style name="TextAppearance.Medium" parent="@android:style/TextAppearance.Material.Medium" />
     <style name="TextAppearance.Small" parent="@android:style/TextAppearance.Material.Small" />
@@ -4453,8 +4254,18 @@
         <item name="android:textSize">14.0sp</item>
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
+    <style name="TextAppearance.FingerprintMessage" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:lineSpacingExtra">@dimen/suw_description_line_spacing_extra</item>
+    </style>
+    <style name="Button.FingerprintButton" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textColor">?android:colorAccent</item>
+        <item name="android:lineSpacingExtra">@dimen/suw_description_line_spacing_extra</item>
+    </style>
+    <style name="TextAppearance.FingerprintLink" parent="@style/TextAppearance.FingerprintMessage">
+        <item name="android:textColor">?android:colorAccent</item>
+    </style>
     <style name="TextAppearance.FingerprintErrorText" parent="@android:style/TextAppearance.Material.Body1">
-        <item name="android:textColor">?android:colorError</item>
+        <item name="android:textColor">@android:color/system_error</item>
     </style>
     <style name="TextAppearance.SupportTitle" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textSize">24.0sp</item>
@@ -4469,7 +4280,7 @@
         <item name="android:icon">@drawable/ic_fingerprint_header</item>
     </style>
     <style name="TextAppearance.ConfirmDeviceCredentialsErrorText" parent="@android:style/TextAppearance.Material.Body1">
-        <item name="android:textColor">?android:colorError</item>
+        <item name="android:textColor">@android:color/system_error</item>
     </style>
     <style name="TextAppearance.Small.SwitchBar" parent="@style/TextAppearance.Small">
         <item name="android:textStyle">normal</item>
@@ -4502,215 +4313,128 @@
     </style>
     <style name="SupportEscalationCard">
         <item name="android:gravity">center</item>
-        <item name="android:background">?android:colorSecondary</item>
+        <item name="android:background">@color/card_background_grey</item>
         <item name="android:minHeight">368.0dip</item>
-        <item name="android:paddingStart">@dimen/support_escalation_card_padding_start</item>
-        <item name="android:paddingEnd">@dimen/support_escalation_card_padding_end</item>
+        <item name="android:paddingStart">56.0dip</item>
+        <item name="android:paddingEnd">56.0dip</item>
     </style>
     <style name="FingerprintHeaderStyle" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textColor">@color/primary_dark_material_light</item>
         <item name="android:paddingTop">16.0dip</item>
         <item name="android:lineSpacingMultiplier">1.2</item>
     </style>
-    <style name="RingProgressBarStyle" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
-        <item name="android:max">10000</item>
-        <item name="android:indeterminate">false</item>
-        <item name="android:progressDrawable">@drawable/ring_progress</item>
-        <item name="android:mirrorForRtl">false</item>
+    <style name="SetupWizardDisableAppStartingTheme">
+        <item name="android:windowBackground">@null</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
     </style>
-    <style name="EntityHeader">
-        <item name="android:gravity">center_horizontal</item>
-        <item name="android:background">?android:colorSecondary</item>
-        <item name="android:paddingTop">16.0dip</item>
-        <item name="android:paddingBottom">8.0dip</item>
-        <item name="android:paddingStart">16.0dip</item>
-        <item name="android:paddingEnd">16.0dip</item>
+    <style name="SetupWizardTheme" parent="@style/SuwThemeGlif">
+        <item name="android:windowBackground">?android:colorBackground</item>
+        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="android:colorPrimary">@color/suw_color_accent_dark</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
+        <item name="android:regularColor">@color/setup_lock_pattern_view_regular_color_dark</item>
+        <item name="android:errorColor">@color/setup_lock_pattern_view_error_color_dark</item>
+        <item name="android:successColor">@color/setup_lock_pattern_view_success_color_dark</item>
+        <item name="wifi_signal">@drawable/wifi_signal</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
+        <item name="preferenceBackgroundColor">?android:colorBackground</item>
+        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="fingerprint_progress_bar_size">@dimen/setup_fingerprint_progress_bar_size</item>
+        <item name="fingerprint_ring_radius">@dimen/setup_fingerprint_ring_radius</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
+        <item name="ic_wps">@drawable/ic_wps_dark</item>
+        <item name="setup_divider_color">@color/setup_divider_color_dark</item>
+        <item name="side_margin">0.0dip</item>
+        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_dark</item>
     </style>
-    <style name="TextAppearance.EntityHeaderTitle" parent="@android:style/TextAppearance.Material.Subhead">
-        <item name="android:textSize">16.0sp</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
-    </style>
-    <style name="AppActionPrimaryButton" parent="@android:style/Widget.Material.Button.Colored" />
-    <style name="DreamStartButton" parent="@android:style/Widget.Material.Button" />
-    <style name="LockPatternContainerStyle">
-        <item name="android:paddingTop">0.0dip</item>
-        <item name="android:paddingBottom">0.0dip</item>
-        <item name="android:maxWidth">420.0dip</item>
-        <item name="android:maxHeight">400.0dip</item>
-        <item name="android:minWidth">0.0dip</item>
-        <item name="android:minHeight">0.0dip</item>
-        <item name="android:paddingHorizontal">44.0dip</item>
-    </style>
-    <style name="LockPatternStyle">
-        <item name="android:errorColor">?android:colorError</item>
-        <item name="android:regularColor">@color/lock_pattern_view_regular_color</item>
-        <item name="android:successColor">@color/lock_pattern_view_success_color</item>
-    </style>
-    <style name="LockPatternStyle.Dark" parent="@style/LockPatternStyle">
-        <item name="android:regularColor">@color/lock_pattern_view_regular_color_dark</item>
-        <item name="android:successColor">@color/lock_pattern_view_regular_color_dark</item>
-    </style>
-    <style name="LockPatternStyle.Dark.Work" parent="@style/LockPatternStyle.Dark">
-        <item name="android:regularColor">@android:color/white</item>
-    </style>
-    <style name="LockPatternStyle.Unlock" parent="@style/LockPatternStyle">
-        <item name="android:regularColor">@color/unlock_pattern_view_regular_color</item>
-        <item name="android:successColor">@color/unlock_pattern_view_success_color</item>
-    </style>
-    <style name="LockPatternStyle.Setup" parent="@style/LockPatternStyle">
+    <style name="SetupWizardTheme.Light" parent="@style/SuwThemeGlif.Light">
+        <item name="android:windowBackground">?android:colorBackground</item>
+        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="android:colorPrimary">@color/suw_color_accent_light</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
         <item name="android:regularColor">@color/setup_lock_pattern_view_regular_color_light</item>
+        <item name="android:errorColor">@color/setup_lock_pattern_view_error_color_light</item>
         <item name="android:successColor">@color/setup_lock_pattern_view_success_color_light</item>
-    </style>
-    <style name="LockPatternIconStyle" parent="@style/SuwGlifIcon">
-        <item name="android:visibility">gone</item>
-    </style>
-    <style name="SuggestionConditionStyle">
-        <item name="android:background">@color/suggestion_condition_background</item>
-    </style>
-    <style name="TextAppearance.SearchBar" parent="@android:style/TextAppearance.Material.Widget.Toolbar.Subtitle">
-        <item name="android:textSize">@dimen/search_bar_text_size</item>
-    </style>
-    <style name="SettingsPreferenceFragmentStyle" parent="@style/PreferenceFragmentStyle.SettingsBase">
-        <item name="android:layout">@layout/preference_list_fragment</item>
-    </style>
-    <style name="ApnPreference" parent="@style/Preference.SettingsBase">
-        <item name="android:layout">@layout/apn_preference_layout</item>
-    </style>
-    <style name="SettingsSeekBarPreference" parent="@style/Preference.SettingsBase">
-        <item name="android:layout">@layout/preference_widget_seekbar_settings</item>
-    </style>
-    <style name="SyncSwitchPreference" parent="@style/Preference.SettingsBase">
-        <item name="android:widgetLayout">@layout/preference_widget_sync_toggle</item>
-    </style>
-    <style name="GlifTheme" parent="@style/SuwThemeGlif">
-        <item name="android:windowBackground">?android:colorBackground</item>
-        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
-        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
-        <item name="wifi_friction">@drawable/wifi_friction</item>
-        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard.Light</item>
         <item name="preferenceBackgroundColor">?android:colorBackground</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
-        <item name="ic_wps">@drawable/ic_wps_dark</item>
-        <item name="setup_divider_color">@color/setup_divider_color_dark</item>
-        <item name="side_margin">0.0dip</item>
-        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_dark</item>
-    </style>
-    <style name="GlifTheme.Light" parent="@style/SuwThemeGlif.Light">
-        <item name="android:windowBackground">?android:colorBackground</item>
-        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
-        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
-        <item name="wifi_signal">@drawable/wifi_signal</item>
-        <item name="wifi_friction">@drawable/wifi_friction</item>
-        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
-        <item name="preferenceBackgroundColor">?android:colorBackground</item>
-        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="fingerprint_progress_bar_size">@dimen/setup_fingerprint_progress_bar_size</item>
+        <item name="fingerprint_ring_radius">@dimen/setup_fingerprint_ring_radius</item>
         <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
         <item name="ic_wps">@drawable/ic_wps_light</item>
         <item name="setup_divider_color">@color/setup_divider_color_light</item>
         <item name="side_margin">0.0dip</item>
         <item name="wifi_signal_color">@color/setup_wizard_wifi_color_light</item>
     </style>
-    <style name="GlifV2Theme" parent="@style/SuwThemeGlifV2">
-        <item name="android:windowBackground">?android:colorBackground</item>
-        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
-        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
-        <item name="wifi_signal">@drawable/wifi_signal</item>
-        <item name="wifi_friction">@drawable/wifi_friction</item>
-        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
-        <item name="preferenceBackgroundColor">?android:colorBackground</item>
-        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
-        <item name="ic_wps">@drawable/ic_wps_dark</item>
-        <item name="setup_divider_color">@color/setup_divider_color_dark</item>
-        <item name="side_margin">0.0dip</item>
-        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_dark</item>
-    </style>
-    <style name="GlifV2Theme.Light" parent="@style/SuwThemeGlifV2.Light">
-        <item name="android:windowBackground">?android:colorBackground</item>
-        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
-        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
-        <item name="wifi_signal">@drawable/wifi_signal</item>
-        <item name="wifi_friction">@drawable/wifi_friction</item>
-        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
-        <item name="preferenceBackgroundColor">?android:colorBackground</item>
-        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
-        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_material</item>
-        <item name="ic_wps">@drawable/ic_wps_light</item>
-        <item name="setup_divider_color">@color/setup_divider_color_light</item>
-        <item name="side_margin">0.0dip</item>
-        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_light</item>
-    </style>
-    <style name="SetupWizardTheme.Transparent" parent="@style/GlifTheme">
+    <style name="SetupWizardTheme.Transparent" parent="@style/SetupWizardTheme">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowAnimationStyle">@null</item>
     </style>
-    <style name="SetupWizardTheme.Light.Transparent" parent="@style/GlifTheme.Light">
+    <style name="SetupWizardTheme.Light.Transparent" parent="@style/SetupWizardTheme.Light">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowAnimationStyle">@null</item>
     </style>
-    <style name="SuwSuggestionThemeGlif.Light" parent="@style/SuwThemeGlif.Light">
-        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
-    </style>
-    <style name="PreferenceTheme" parent="@style/PreferenceThemeOverlay.SettingsBase">
-        <item name="preferenceFragmentStyle">@style/SettingsPreferenceFragmentStyle</item>
-        <item name="seekBarPreferenceStyle">@style/SettingsSeekBarPreference</item>
+    <style name="PreferenceTheme" parent="@style/PreferenceThemeOverlay.v14.Material">
+        <item name="android:preferenceStyle">@style/Preference</item>
+        <item name="android:editTextPreferenceStyle">@style/EditTextPreference</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:preferenceFragmentStyle">@style/PreferenceFragmentStyle</item>
+        <item name="dropdownPreferenceStyle">@style/Preference.DropDown.Material</item>
         <item name="apnPreferenceStyle">@style/ApnPreference</item>
     </style>
-    <style name="PreferenceTheme.SetupWizard" parent="@style/PreferenceTheme">
+    <style name="PreferenceTheme.SetupWizard" parent="@style/SetupWizardTheme">
         <item name="preferenceFragmentStyle">@style/SetupWizardPreferenceFragmentStyle</item>
-        <item name="preferenceStyle">@style/Preference.Material</item>
+    </style>
+    <style name="PreferenceTheme.SetupWizard.Light" parent="@style/SetupWizardTheme.Light">
+        <item name="preferenceFragmentStyle">@style/SetupWizardPreferenceFragmentStyle</item>
     </style>
     <style name="SetupWizardPreferenceFragmentStyle" parent="@style/PreferenceFragment.Material">
         <item name="android:layout">@layout/setup_preference</item>
     </style>
     <style name="SetupWizardAccessibilityTheme" parent="@style/Theme.SettingsBase">
-        <item name="android:colorPrimary">@color/material_grey_100</item>
-        <item name="android:colorAccent">@color/material_blue_700</item>
-        <item name="android:windowLightStatusBar">false</item>
-        <item name="android:titleTextColor">@color/material_blue_700</item>
+        <item name="android:colorPrimary">@color/material_blue_700</item>
+        <item name="android:colorPrimaryDark">@color/material_blue_700</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
         <item name="switchBarTheme">@style/SetupWizardAccessibilitySwitchBarTheme</item>
     </style>
     <style name="SetupWizardAccessibilitySwitchBarTheme" parent="@style/ThemeOverlay.SwitchBar.Settings">
-        <item name="android:textColorPrimary">@android:color/black</item>
-        <item name="android:colorControlActivated">@color/material_blue_500</item>
-        <item name="switchBarBackgroundColor">@color/material_grey_200</item>
+        <item name="android:colorControlActivated">@android:color/white</item>
+        <item name="switchBarBackgroundColor">@color/material_blue_500</item>
     </style>
     <style name="Theme.SettingsBase" parent="@android:style/Theme.DeviceDefault.Settings" />
     <style name="Theme.Settings" parent="@style/Theme.Flyme.AppCompat.Light.Color.Blue.WhiteTitleBar">
-        <item name="android:listPreferredItemHeight">72.0dip</item>
         <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:actionBarSize">@dimen/actionbar_size</item>
         <item name="android:alertDialogTheme">@style/Theme.Flyme.AppCompat.Light.Dialog.Alert</item>
         <item name="android:windowTranslucentStatus">false</item>
         <item name="android:windowTranslucentNavigation">false</item>
         <item name="android:statusBarColor">@color/statusbar_color</item>
         <item name="android:navigationBarColor">@color/navigation_bar_bg</item>
         <item name="android:windowLightStatusBar">true</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Setup</item>
-        <item name="android:preferenceFragmentListStyle">@style/PreferenceFragmentListSinglePane</item>
-        <item name="android:preferenceFragmentPaddingSide">@dimen/settings_side_margin</item>
+        <item name="android:preferencePanelStyle">@style/PreferencePanelSinglePane</item>
         <item name="android:preferenceHeaderPanelStyle">@style/PreferenceHeaderPanelSinglePane</item>
         <item name="android:preferenceListStyle">@style/PreferenceHeaderListSinglePane</item>
-        <item name="android:preferencePanelStyle">@style/PreferencePanelSinglePane</item>
+        <item name="android:preferenceFragmentListStyle">@style/PreferenceFragmentListSinglePane</item>
+        <item name="android:preferenceFragmentPaddingSide">@dimen/settings_side_margin</item>
+        <item name="android:regularColor">@color/lock_pattern_view_regular_color</item>
+        <item name="android:errorColor">@color/lock_pattern_view_error_color</item>
+        <item name="android:successColor">@color/lock_pattern_view_success_color</item>
         <item name="mzSplitActionBarFloat">true</item>
+        <item name="mzActionBarFitStatusBar">false</item>
         <item name="wifi_signal">@drawable/wifi_signal</item>
-        <item name="wifi_friction">@drawable/wifi_friction</item>
         <item name="suwListItemIconColor">?android:colorAccent</item>
         <item name="toolbarStyle">@style/toolbar_settings_style</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
         <item name="switchBarTheme">@style/ThemeOverlay.SwitchBar.Settings</item>
         <item name="preferenceBackgroundColor">@drawable/preference_background</item>
         <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="fingerprint_progress_bar_size">@dimen/fingerprint_progress_bar_size</item>
+        <item name="fingerprint_ring_radius">@dimen/fingerprint_ring_radius</item>
         <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_holo_dark</item>
         <item name="ic_wps">@drawable/ic_wps_light</item>
         <item name="side_margin">@dimen/settings_side_margin</item>
@@ -4720,10 +4444,6 @@
     <style name="Theme.SubSettings" parent="@style/Theme.Settings">
         <item name="android:actionBarStyle">@style/Theme.ActionBar.SubSettings</item>
         <item name="switchBarTheme">@style/ThemeOverlay.SwitchBar.SubSettings</item>
-    </style>
-    <style name="Theme.Settings.NoActionBar" parent="@style/Theme.Settings">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowActionBar">false</item>
     </style>
     <style name="Theme.ProvisioningActivity" parent="@android:style/Theme.Translucent.NoTitleBar">
         <item name="android:windowBackground">@android:color/transparent</item>
@@ -4740,22 +4460,34 @@
     <style name="Theme.ActionBar.SubSettings" parent="@style/Theme.ActionBar">
         <item name="android:contentInsetStart">@dimen/actionbar_subsettings_contentInsetStart</item>
     </style>
-    <style name="ThemeOverlay.SwitchBar.Settings" parent="@android:style/ThemeOverlay.Material.ActionBar">
+    <style name="ThemeOverlay.SwitchBar.Settings" parent="@android:style/ThemeOverlay.DeviceDefault.Dark.ActionBar.Accent">
         <item name="switchBarMarginStart">@dimen/switchbar_subsettings_margin_start</item>
         <item name="switchBarMarginEnd">@dimen/switchbar_subsettings_margin_end</item>
         <item name="switchBarBackgroundColor">?android:colorSecondary</item>
     </style>
-    <style name="ThemeOverlay.SwitchBar.SubSettings" parent="@android:style/ThemeOverlay.Material.ActionBar">
+    <style name="ThemeOverlay.SwitchBar.SubSettings" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar">
         <item name="switchBarMarginStart">@dimen/switchbar_subsettings_margin_start</item>
         <item name="switchBarMarginEnd">@dimen/switchbar_subsettings_margin_end</item>
         <item name="switchBarBackgroundColor">?android:colorSecondary</item>
+    </style>
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.DeviceDefault.Settings.DialogWhenLarge">
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="preferenceBackgroundColor">@drawable/preference_background</item>
     </style>
     <style name="Theme.CryptKeeper" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:background">@android:color/black</item>
         <item name="android:windowTranslucentStatus">false</item>
         <item name="android:windowTranslucentNavigation">false</item>
         <item name="android:windowDrawsSystemBarBackgrounds">false</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Unlock</item>
+        <item name="android:regularColor">@color/unlock_pattern_view_regular_color</item>
+        <item name="android:errorColor">@color/unlock_pattern_view_error_color</item>
+        <item name="android:successColor">@color/unlock_pattern_view_success_color</item>
+    </style>
+    <style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge">
+        <item name="android:actionBarWidgetTheme">@null</item>
+        <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
+        <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="preferenceBackgroundColor">@drawable/preference_background</item>
     </style>
     <style name="ThemeOverlay.AlertDialog" parent="@android:style/ThemeOverlay.Material.Dialog.Alert">
         <item name="android:windowSoftInputMode">adjustResize</item>
@@ -4770,21 +4502,23 @@
         <item name="preferenceBackgroundColor">@android:color/transparent</item>
     </style>
     <style name="Theme.ConfirmDeviceCredentials" parent="@style/Theme.SubSettings">
-        <item name="confirmDeviceCredentialsSideMargin">@dimen/confirm_credentials_side_margin</item>
-        <item name="confirmDeviceCredentialsTopMargin">@dimen/confirm_credentials_top_margin</item>
+        <item name="confirmDeviceCredentialsSideMargin">16.0dip</item>
+        <item name="confirmDeviceCredentialsTopMargin">16.0dip</item>
     </style>
     <style name="Theme.ConfirmDeviceCredentialsDark" parent="@android:style/Theme.DeviceDefault">
         <item name="android:windowBackground">?android:colorPrimary</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowAnimationStyle">@style/ConfirmDeviceCredentialsAnimationStyle</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Dark</item>
+        <item name="android:regularColor">@color/lock_pattern_view_regular_color_dark</item>
+        <item name="android:errorColor">@color/lock_pattern_view_error_color</item>
+        <item name="android:successColor">@color/lock_pattern_view_regular_color_dark</item>
         <item name="confirmDeviceCredentialsSideMargin">32.0dip</item>
         <item name="confirmDeviceCredentialsTopMargin">32.0dip</item>
     </style>
     <style name="Theme.ConfirmDeviceCredentialsWork" parent="@style/Theme.ConfirmDeviceCredentialsDark">
         <item name="android:colorAccent">@android:color/white</item>
-        <item name="android:lockPatternStyle">@style/LockPatternStyle.Dark.Work</item>
+        <item name="android:regularColor">@android:color/white</item>
     </style>
     <style name="Theme.FingerprintEnroll" parent="@style/SuwThemeGlif.Light">
         <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.Material.Body1</item>
@@ -4812,9 +4546,6 @@
     </style>
     <style name="FallbackHomeProgressBar" parent="@style/FallbackHome">
         <item name="android:colorControlActivated">?android:textColorPrimary</item>
-    </style>
-    <style name="BluetoothPermission" parent="@android:style/Theme.Material.Light.Dialog.Alert">
-        <item name="android:windowNoTitle">true</item>
     </style>
     <style name="wifi_pw_edit_text">
         <item name="android:gravity">bottom</item>
@@ -4844,7 +4575,7 @@
         <item name="android:windowNoDisplay">true</item>
     </style>
     <style name="category_divider">
-        <item name="android:background">@drawable/mz_list_group_divider_light</item>
+        <item name="android:background">@flyme:drawable/mz_list_group_divider_light</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:contentDescription">@null</item>
@@ -4981,7 +4712,6 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:maxLines">2</item>
         <item name="android:layout_weight">1.0</item>
-        <item name="android:textAlignment">viewEnd</item>
     </style>
     <style name="flyme_versioninfor_device_info_summary_edittext">
         <item name="android:textSize">14.0sp</item>
@@ -5124,13 +4854,13 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
     <style name="cancel_text_style" parent="@style/password_bottom_text_style">
-        <item name="android:textSize">16.0sp</item>
+        <item name="android:textSize">14.0sp</item>
         <item name="android:background">@null</item>
-        <item name="android:layout_marginTop">21.0dip</item>
+        <item name="android:layout_marginTop">16.0dip</item>
         <item name="android:text">@string/cancel</item>
         <item name="android:layout_alignParentTop">true</item>
         <item name="android:fontFamily">sans-serif-medium</item>
-        <item name="android:layout_marginStart">16.0dip</item>
+        <item name="android:layout_marginStart">20.0dip</item>
         <item name="android:layout_alignParentStart">true</item>
     </style>
     <style name="toolbar_settings_style" parent="@style/Widget.Flyme.AppCompat.Toolbar">
@@ -5143,10 +4873,11 @@
         <item name="android:id">@id/back_img</item>
         <item name="android:background">?android:selectableItemBackgroundBorderless</item>
         <item name="android:visibility">gone</item>
-        <item name="android:layout_width">24.0dip</item>
-        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_width">38.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12.0dip</item>
         <item name="android:src">@drawable/mz_titlebar_ic_back_dark</item>
-        <item name="android:layout_marginStart">10.0dip</item>
+        <item name="android:layout_marginStart">12.0dip</item>
         <item name="android:layout_marginEnd">10.0dip</item>
     </style>
     <style name="ListActivityWindowTitle">
@@ -5187,6 +4918,11 @@
         <item name="android:layout_marginTop">6.0dip</item>
         <item name="android:lineSpacingExtra">2.0dip</item>
     </style>
+    <style name="Theme.SystemAppInstaller" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
     <style name="sound_and_vibrate_title">
         <item name="android:textSize">@dimen/search_result_summary_text</item>
         <item name="android:textColor">@color/black_sixty_alpha</item>
@@ -5195,17 +4931,14 @@
         <item name="android:includeFontPadding">false</item>
         <item name="android:fontFamily">regular</item>
     </style>
-    <style name="Widget.LockPasswordView" parent="@android:style/Widget">
-        <item name="mzLockPasswordSolidDrawable">@drawable/ic_password_fill</item>
-        <item name="mzLockPasswordHollowDrawable">@drawable/ic_password_gap</item>
-        <item name="mzLockPasswordCellSize">14.0dip</item>
-        <item name="mzLockPasswordHollowVisible">true</item>
-    </style>
     <style name="Theme.Settings.ListActivity" parent="@android:style/Theme.Material.Light.Dialog">
         <item name="android:windowTitleStyle">@style/ListActivityWindowTitle</item>
     </style>
     <style name="Theme.Settings.ManageApplications" parent="@style/Theme.Settings">
         <item name="actionBarTabStyle">@style/settingsActionBarTabStyle</item>
+    </style>
+    <style name="Theme.Settings.ExportedActivity" parent="@style/Theme.Settings">
+        <item name="mzStartWindowLayout">@android:color/transparent</item>
     </style>
     <style name="Theme_Bluetooth_Picker" parent="@style/Theme.Flyme.AppCompat.Light.Color.Blue" />
     <style name="Theme_Bluetooth_Launch_Contacts" parent="@style/Theme.Flyme.AppCompat.Light" />

@@ -228,12 +228,8 @@
     <string name="import_birthday_item_sub_title">Создайте новое напоминание для всех контактов, которые отмечают дни рождения</string>
     <string name="import_birthday_item_title">Импорт существующих дней рождений контактов</string>
     <string name="importing">Импорт</string>
-    <string name="in_num_calc_after">
-черездн.        <g id="COUNT">%d</g>
-    </string>
-    <string name="in_num_calc_ago">
-" дн. назад "        <g id="COUNT">%d</g>
-    </string>
+    <string name="in_num_calc_after">" через дн. "<g id="COUNT">%d</g></string>
+    <string name="in_num_calc_ago">" дн. назад "<g id="COUNT">%d</g></string>
     <string name="inbox_collision_more_fmt">Конфликт: %s другие события также запланировано на это время</string>
     <string name="inbox_collision_one_fmt">Конфликт: %s также запланировано на это время</string>
     <string name="inbox_no_invitations">Нет приглашений</string>
@@ -244,7 +240,7 @@
     <string name="inbox_where_fmt">Где: %s</string>
     <string name="incompatibility">忌</string>
     <string name="install_button_cancel">Отмена</string>
-    <string name="install_button_hide">Hide</string>
+    <string name="install_button_hide">Закрыть</string>
     <string name="install_button_install">Установить</string>
     <string name="install_button_install_mobile">Install by mobile network</string>
     <string name="install_complete_text">打开</string>

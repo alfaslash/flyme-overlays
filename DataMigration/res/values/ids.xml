@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item type="id" name="accessibility_action_clickable_span" />
+    <item type="id" name="accessibility_custom_action_0" />
+    <item type="id" name="accessibility_custom_action_1" />
+    <item type="id" name="accessibility_custom_action_10" />
+    <item type="id" name="accessibility_custom_action_11" />
+    <item type="id" name="accessibility_custom_action_12" />
+    <item type="id" name="accessibility_custom_action_13" />
+    <item type="id" name="accessibility_custom_action_14" />
+    <item type="id" name="accessibility_custom_action_15" />
+    <item type="id" name="accessibility_custom_action_16" />
+    <item type="id" name="accessibility_custom_action_17" />
+    <item type="id" name="accessibility_custom_action_18" />
+    <item type="id" name="accessibility_custom_action_19" />
+    <item type="id" name="accessibility_custom_action_2" />
+    <item type="id" name="accessibility_custom_action_20" />
+    <item type="id" name="accessibility_custom_action_21" />
+    <item type="id" name="accessibility_custom_action_22" />
+    <item type="id" name="accessibility_custom_action_23" />
+    <item type="id" name="accessibility_custom_action_24" />
+    <item type="id" name="accessibility_custom_action_25" />
+    <item type="id" name="accessibility_custom_action_26" />
+    <item type="id" name="accessibility_custom_action_27" />
+    <item type="id" name="accessibility_custom_action_28" />
+    <item type="id" name="accessibility_custom_action_29" />
+    <item type="id" name="accessibility_custom_action_3" />
+    <item type="id" name="accessibility_custom_action_30" />
+    <item type="id" name="accessibility_custom_action_31" />
+    <item type="id" name="accessibility_custom_action_4" />
+    <item type="id" name="accessibility_custom_action_5" />
+    <item type="id" name="accessibility_custom_action_6" />
+    <item type="id" name="accessibility_custom_action_7" />
+    <item type="id" name="accessibility_custom_action_8" />
+    <item type="id" name="accessibility_custom_action_9" />
     <item type="id" name="action_background" />
     <item type="id" name="action_bar" />
     <item type="id" name="action_bar_activity_content" />
@@ -77,9 +110,11 @@
     <item type="id" name="backup_record_title" />
     <item type="id" name="backup_record_top_msg" />
     <item type="id" name="backup_record_top_view" />
+    <item type="id" name="base_detail_relative_layout" />
     <item type="id" name="blurArea" />
     <item type="id" name="blurTitle" />
     <item type="id" name="body" />
+    <item type="id" name="bootup_app_install_title" />
     <item type="id" name="borderless" />
     <item type="id" name="bottom_action_menu_presenter" />
     <item type="id" name="bottom_btn" />
@@ -116,6 +151,7 @@
     <item type="id" name="complete_summary" />
     <item type="id" name="complete_time_tv" />
     <item type="id" name="container" />
+    <item type="id" name="content" />
     <item type="id" name="contentPanel" />
     <item type="id" name="content_panel" />
     <item type="id" name="cursor_view" />
@@ -148,6 +184,7 @@
     <item type="id" name="dialogSpace2" />
     <item type="id" name="dialogSpace3" />
     <item type="id" name="dialogSpace4" />
+    <item type="id" name="dialog_button" />
     <item type="id" name="divider" />
     <item type="id" name="done_anim_image" />
     <item type="id" name="double_button_layout" />
@@ -177,6 +214,7 @@
     <item type="id" name="fastscroller_letterbar_layout" />
     <item type="id" name="fastscroller_overlay" />
     <item type="id" name="fragment_container" />
+    <item type="id" name="group_divider" />
     <item type="id" name="group_header_title" />
     <item type="id" name="group_header_wise_text" />
     <item type="id" name="group_select_all" />
@@ -232,7 +270,6 @@
     <item type="id" name="item_title" />
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="launch_product_query" />
-    <item type="id" name="layout" />
     <item type="id" name="line" />
     <item type="id" name="line1" />
     <item type="id" name="line3" />
@@ -241,6 +278,7 @@
     <item type="id" name="list_partition_header_text1" />
     <item type="id" name="loadingView" />
     <item type="id" name="loading_view" />
+    <item type="id" name="local_mz_backup" />
     <item type="id" name="locked" />
     <item type="id" name="main_backup_record_layout" />
     <item type="id" name="main_backup_recyclerView" />
@@ -250,6 +288,7 @@
     <item type="id" name="main_fragment_container" />
     <item type="id" name="main_tip" />
     <item type="id" name="main_title" />
+    <item type="id" name="main_title_layout" />
     <item type="id" name="mc_background_img" />
     <item type="id" name="mc_chooser_text" />
     <item type="id" name="mc_column1Layout" />
@@ -342,6 +381,7 @@
     <item type="id" name="migration_total_data_summary" />
     <item type="id" name="month_day_view" />
     <item type="id" name="month_viewpager" />
+    <item type="id" name="motion_base" />
     <item type="id" name="msg" />
     <item type="id" name="msg_indicator" />
     <item type="id" name="multichoiceList" />
@@ -377,12 +417,14 @@
     <item type="id" name="mz_password_input_option" />
     <item type="id" name="mz_permission_dialog_checkbox" />
     <item type="id" name="mz_permission_dialog_content_layout" />
+    <item type="id" name="mz_permission_dialog_inform" />
     <item type="id" name="mz_permission_dialog_item_summary" />
     <item type="id" name="mz_permission_dialog_item_title" />
     <item type="id" name="mz_permission_dialog_message" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_down" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_up" />
     <item type="id" name="mz_permission_dialog_scroll_view" />
+    <item type="id" name="mz_permission_dialog_space" />
     <item type="id" name="mz_permission_dialog_terms" />
     <item type="id" name="mz_permission_dialog_title" />
     <item type="id" name="mz_pm_textView" />
@@ -411,12 +453,18 @@
     <item type="id" name="notification_background" />
     <item type="id" name="notification_main_column" />
     <item type="id" name="notification_main_column_container" />
+    <item type="id" name="off" />
+    <item type="id" name="on" />
     <item type="id" name="open_permission_btn" />
     <item type="id" name="open_permission_img" />
     <item type="id" name="open_permission_summary" />
     <item type="id" name="open_permission_title" />
     <item type="id" name="operation_double_button_layout" />
     <item type="id" name="parentPanel" />
+    <item type="id" name="phone_recycle" />
+    <item type="id" name="phone_recycle_cardview" />
+    <item type="id" name="phone_recycle_icon" />
+    <item type="id" name="phone_recycle_summary" />
     <item type="id" name="picker_holder" />
     <item type="id" name="praise" />
     <item type="id" name="preference_text_layout" />
@@ -430,6 +478,7 @@
     <item type="id" name="radio" />
     <item type="id" name="receiver_button" />
     <item type="id" name="recommand_app_title_layout" />
+    <item type="id" name="recommand_button_layout" />
     <item type="id" name="recommand_title_icon" />
     <item type="id" name="recover_rocket_view" />
     <item type="id" name="recover_status_layout" />
@@ -468,6 +517,8 @@
     <item type="id" name="select_item_ll" />
     <item type="id" name="send_apk_by_bluetooth_text" />
     <item type="id" name="sender_button" />
+    <item type="id" name="setup_navigation_button" />
+    <item type="id" name="setup_next_button_layout" />
     <item type="id" name="shape_id" />
     <item type="id" name="shortcut" />
     <item type="id" name="showlunar" />
@@ -490,7 +541,14 @@
     <item type="id" name="tab_badge" />
     <item type="id" name="tab_layout" />
     <item type="id" name="tab_text" />
+    <item type="id" name="tag_accessibility_actions" />
+    <item type="id" name="tag_accessibility_clickable_spans" />
+    <item type="id" name="tag_accessibility_heading" />
+    <item type="id" name="tag_accessibility_pane_title" />
+    <item type="id" name="tag_screen_reader_focusable" />
     <item type="id" name="tag_transition_group" />
+    <item type="id" name="tag_unhandled_key_event_manager" />
+    <item type="id" name="tag_unhandled_key_listeners" />
     <item type="id" name="text" />
     <item type="id" name="text1" />
     <item type="id" name="text2" />
@@ -520,5 +578,8 @@
     <item type="id" name="top_success_view" />
     <item type="id" name="top_view2" />
     <item type="id" name="transfer_tip_text" />
+    <item type="id" name="unchecked" />
     <item type="id" name="up" />
+    <item type="id" name="web_layout" />
+    <item type="id" name="web_view" />
 </resources>

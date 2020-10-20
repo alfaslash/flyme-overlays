@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="APKTOOL_DUMMY_f5">false</item>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -25,8 +24,8 @@
     <string name="abc_searchview_description_search">Search</string>
     <string name="abc_searchview_description_submit">Submit query</string>
     <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="alwaysUse">Use this option as default</string>
     <string name="app_name">Aicy Suggestion</string>
@@ -35,33 +34,33 @@
     <string name="default_sans_serif">sans-serif</string>
     <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="item_is_selected">%1$s selected</string>
-    <string name="m_app_install_desc">Recommend open the newly added application</string>
     <string name="m_app_install">Open new installed app</string>
-    <string name="m_express_desc">When duplicating a express number, it is recommended to check the dynamics of express delivery</string>
+    <string name="m_app_install_desc">Recommend open the newly added application</string>
     <string name="m_express">Query Express</string>
-    <string name="m_flashlight_desc">When the flashlight is turned on, it is recommended to close it</string>
+    <string name="m_express_desc">When duplicating a express number, it is recommended to check the dynamics of express delivery</string>
     <string name="m_flashlight">Flash light</string>
-    <string name="m_music_desc">Connect headphones, recommend music applications</string>
+    <string name="m_flashlight_desc">When the flashlight is turned on, it is recommended to close it</string>
     <string name="m_music">Open music app</string>
-    <string name="m_origin_app_desc">When browsing a web page, it is recommended to open it in the original application</string>
+    <string name="m_music_desc">Connect headphones, recommend music applications</string>
     <string name="m_origin_app">Open the original application</string>
-    <string name="m_rotation_desc">After flipping the phone, it is recommended that the screen rotate</string>
+    <string name="m_origin_app_desc">When browsing a web page, it is recommended to open it in the original application</string>
     <string name="m_rotation">Screen rotation</string>
-    <string name="m_scan_desc">When scanner fails, it is recommended to use other applications to scanner</string>
+    <string name="m_rotation_desc">After flipping the phone, it is recommended that the screen rotate</string>
     <string name="m_scan">Scanning Assistance</string>
-    <string name="m_taokouling_desc">When copying a kouling, it is recommended to open the kouling</string>
+    <string name="m_scan_desc">When scanner fails, it is recommended to use other applications to scanner</string>
     <string name="m_taokouling">Open kouling</string>
-    <string name="m_unreached_url_desc">When Wechat failed to open the web page, we suggest other ways to open it</string>
+    <string name="m_taokouling_desc">When copying a kouling, it is recommended to open the kouling</string>
     <string name="m_unreached_url">Wechat Browser Assistance</string>
+    <string name="m_unreached_url_desc">When Wechat failed to open the web page, we suggest other ways to open it</string>
     <string name="management_desc">Scene management</string>
     <string name="mc_action_settings">Settings</string>
     <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Always allow</string>
     <string name="mc_app_name">MeizuCommon</string>
+    <string name="mc_cancel">Cancel</string>
     <string name="mc_cancel_button_text">Cancel</string>
     <string name="mc_cancel_collected_message">Canceled</string>
     <string name="mc_cancel_praised_message">Cancel</string>
-    <string name="mc_cancel">Cancel</string>
     <string name="mc_change_num">Update</string>
     <string name="mc_collected_message">Favorite</string>
     <string name="mc_custom_date_time_days_after">%1$d days after</string>
@@ -93,11 +92,11 @@
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_hour">h</string>
     <string name="mc_is_Refreshing">Refreshing</string>
+    <string name="mc_last_refresh">Last refresh</string>
     <string name="mc_last_refresh_hour">h ago</string>
     <string name="mc_last_refresh_just_now">Just now</string>
     <string name="mc_last_refresh_minute">min ago</string>
     <string name="mc_last_refresh_second">s ago</string>
-    <string name="mc_last_refresh">Last refresh</string>
     <string name="mc_loading_animation_alert">Saving image</string>
     <string name="mc_loading_view_text">Loading</string>
     <string name="mc_minute">m</string>
@@ -106,30 +105,30 @@
     <string name="mc_pattern_a_hour_before">1 hour ago</string>
     <string name="mc_pattern_a_minute_before">1 minute ago</string>
     <string name="mc_pattern_hour_before">, hours ago</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_minute_before">, minutes ago</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
     <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_today">Today</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
     <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
     <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_yesterday">Yesterday</string>
     <string name="mc_permission_apply">Request for permission</string>
     <string name="mc_permission_message_content">%1$s requests %3$d permission(s) including %2$s</string>
     <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Allow push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
-    <string name="mc_pm_call_log">Read CallLog</string>
     <string name="mc_pm_call">Dial</string>
+    <string name="mc_pm_call_log">Read CallLog</string>
     <string name="mc_pm_camera">Camera (Photo/Video)</string>
     <string name="mc_pm_close">Close</string>
     <string name="mc_pm_contacts">Read Contacts</string>
@@ -157,14 +156,14 @@
     <string name="mc_pull_refresh">Pull down to refresh</string>
     <string name="mc_reject">Exit</string>
     <string name="mc_saturday">SA</string>
+    <string name="mc_search">Search</string>
     <string name="mc_search_button_text">Search</string>
-    <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_icon">Search</string>
+    <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_text">Search</string>
     <string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
     <string name="mc_search_view_share_element_name">search_view_share_element</string>
     <string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
-    <string name="mc_search">Search</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
@@ -184,8 +183,8 @@
     <string name="mc_yes">OK</string>
     <string name="more_item_label">More</string>
     <string name="mz_action_bar_multi_choice_cancel">Cancel</string>
-    <string name="mz_action_bar_multi_choice_select_all_cancel">None</string>
     <string name="mz_action_bar_multi_choice_select_all">All</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">None</string>
     <string name="mz_action_bar_multi_choice_title">%d Item(s) Selected</string>
     <string name="mz_allow">OK</string>
     <string name="mz_alway_allow">Always allow</string>
@@ -213,8 +212,8 @@
     <string name="mz_pm_allow_check_app">OK</string>
     <string name="mz_pm_allow_dialog_push">Allow push</string>
     <string name="mz_pm_bluetooth">control Bluetooth</string>
-    <string name="mz_pm_call_log">Read call logs</string>
     <string name="mz_pm_call">Dial</string>
+    <string name="mz_pm_call_log">Read call logs</string>
     <string name="mz_pm_camera">Camera (Photo/Video)</string>
     <string name="mz_pm_close">Off</string>
     <string name="mz_pm_contacts">Read contacts</string>
@@ -246,8 +245,8 @@
     <string name="mz_wif_setting_dialog_message">No network connection. Please check your network settings.</string>
     <string name="mz_wif_setting_dialog_set">Network Settings</string>
     <string name="search_menu_title">Search</string>
-    <string name="small_window_mode_desc">try opening app with window mode firstly</string>
     <string name="small_window_mode">Window mode</string>
+    <string name="small_window_mode_desc">try opening app with window mode firstly</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="suggestion_desc">Aicy will actively recommend function buttons based on real-time scenarios. After the buttons appear, the long press can see the instructions, and the slide can be temporarily hidden.</string>
 </resources>
